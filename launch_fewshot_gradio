@@ -1,0 +1,37 @@
+#!/bin/bash
+
+set -euo pipefail
+
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+APP_DIR="${REPO_ROOT}/gradio_app"
+
+if [[ -f "${REPO_ROOT}/.env" ]]; then
+    set -a
+    # shellcheck disable=SC1091
+    source "${REPO_ROOT}/.env"
+    set +a
+fi
+
+export HF_HOME="${HF_HOME:-${REPO_ROOT}/.cache/huggingface}"
+export HF_HUB_CACHE="${HF_HUB_CACHE:-${HF_HOME}/hub}"
+export HUGGINGFACE_HUB_CACHE="${HUGGINGFACE_HUB_CACHE:-${HF_HUB_CACHE}}"
+unset TRANSFORMERS_CACHE
+
+export VLLM_ATTENTION_BACKEND="${VLLM_ATTENTION_BACKEND:-FLASH_ATTN}"
+export VLLM_USE_FLASHINFER_SAMPLER="${VLLM_USE_FLASHINFER_SAMPLER:-0}"
+export VLLM_ENFORCE_EAGER="${VLLM_ENFORCE_EAGER:-1}"
+export MFDS_DISABLE_VLLM_FLASHINFER="${MFDS_DISABLE_VLLM_FLASHINFER:-1}"
+export MFDS_FAISS_DB_ROOT="${MFDS_FAISS_DB_ROOT:-${REPO_ROOT}/resources/faiss/dev_with_doc_id}"
+export FEWSHOT_APP_PROGRESS_CHUNK_SIZE="${FEWSHOT_APP_PROGRESS_CHUNK_SIZE:-32}"
+export FEWSHOT_APP_AUTO_BATCH_TOKEN_BUDGET="${FEWSHOT_APP_AUTO_BATCH_TOKEN_BUDGET:-12288}"
+export PYTHONUNBUFFERED="${PYTHONUNBUFFERED:-1}"
+
+PYTHON_BIN="${PYTHON_BIN:-python}"
+if ! command -v "${PYTHON_BIN}" >/dev/null 2>&1 && [[ ! -x "${PYTHON_BIN}" ]]; then
+    echo "Python executable not found: ${PYTHON_BIN}" >&2
+    echo "Set PYTHON_BIN in .env, for example /path/to/conda/envs/mfds/bin/python" >&2
+    exit 1
+fi
+
+cd "${APP_DIR}"
+exec "${PYTHON_BIN}" "${APP_DIR}/fewshot_gradio_app.py" "$@"

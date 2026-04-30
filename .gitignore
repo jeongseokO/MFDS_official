@@ -1,0 +1,45 @@
+# Local secrets and server-specific paths
+.env
+*.env
+hf_token.txt
+stored_tokens
+ngrok.yml
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Conda / virtualenv
+.venv/
+venv/
+env/
+
+# Runtime output
+.cache/
+logs/
+outputs/
+mfds_gradio_*.out
+mfds_gradio_error_*.err
+ngrok_mfds.log
+ngrok_mfds.pid
+
+# Large model, retrieval, and data artifacts should be provided separately.
+models/
+resources/
+data/
+datasets/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.faiss
+*.pkl
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
