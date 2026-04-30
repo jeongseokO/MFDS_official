@@ -41,11 +41,11 @@ SLURM GPU node에서 Gradio 실행
 필요한 것은 네 가지입니다.
 
 1. GPU가 있는 Linux 서버 또는 SLURM 클러스터
-2. Korean -> English LoRA adapter
-3. English -> Korean LoRA adapter
+2. Korean -> English LoRA adapter: `SKIML/mfds-vaivgem-ko-en-fewshot-lora`
+3. English -> Korean LoRA adapter: `SKIML/mfds-vaivgem-en-ko-fewshot-lora`
 4. Few-shot retrieval FAISS 인덱스
 
-LoRA adapter는 각각 `adapter_config.json`을 포함해야 합니다. `adapter_config.json` 안의 `base_model_name_or_path`가 target 서버에서 접근 가능한 base model 경로 또는 Hugging Face repo id를 가리켜야 합니다.
+LoRA adapter는 각각 private Hugging Face repo에 올라가 있습니다. 실행 계정의 `HF_TOKEN`은 adapter repo와 base model `SKIML/vaivgem-mfds-9b_original_backbone`을 읽을 권한이 있어야 합니다.
 
 FAISS 인덱스는 `MFDS_FAISS_DB_ROOT` 값 뒤에 방향 suffix가 붙는 구조를 사용합니다.
 
@@ -112,17 +112,14 @@ nano .env
 
 ```bash
 PYTHON_BIN=/absolute/path/to/conda/envs/mfds_official/bin/python
+HF_TOKEN=<YOUR_HUGGINGFACE_TOKEN>
 HF_HOME=/absolute/path/to/huggingface_cache
-FEWSHOT_BASELINE_MODEL_KO_EN=/absolute/path/to/ko_en_lora_adapter
-FEWSHOT_BASELINE_MODEL_EN_KO=/absolute/path/to/en_ko_lora_adapter
+FEWSHOT_BASELINE_MODEL_KO_EN=SKIML/mfds-vaivgem-ko-en-fewshot-lora
+FEWSHOT_BASELINE_MODEL_EN_KO=SKIML/mfds-vaivgem-en-ko-fewshot-lora
 MFDS_FAISS_DB_ROOT=/absolute/path/to/faiss/dev_with_doc_id
 ```
 
-모델이나 adapter가 private Hugging Face repo에 있으면 `HF_TOKEN`도 넣습니다.
-
-```bash
-HF_TOKEN=<YOUR_HUGGINGFACE_TOKEN>
-```
+`HF_TOKEN`은 `.env` 안의 빈 칸에 입력합니다. 이 token은 SKIML private model repo에 read 권한이 있어야 합니다.
 
 `.env`는 절대 git에 올리지 마세요. `.gitignore`에 이미 제외되어 있습니다.
 
@@ -341,16 +338,16 @@ nano .env
 
 ### `adapter_config.json not found`
 
-`FEWSHOT_BASELINE_MODEL_KO_EN` 또는 `FEWSHOT_BASELINE_MODEL_EN_KO`가 LoRA adapter 디렉터리가 아닙니다.
+`FEWSHOT_BASELINE_MODEL_KO_EN` 또는 `FEWSHOT_BASELINE_MODEL_EN_KO`가 LoRA adapter repo/id가 아니거나, private repo 접근 권한이 없을 때 발생합니다.
 
 해결:
 
 ```bash
-ls "$FEWSHOT_BASELINE_MODEL_KO_EN"
-ls "$FEWSHOT_BASELINE_MODEL_EN_KO"
+grep -n "FEWSHOT_BASELINE_MODEL" .env
+grep -n "HF_TOKEN" .env
 ```
 
-각 경로에 `adapter_config.json`이 있어야 합니다.
+기본값은 `SKIML/mfds-vaivgem-ko-en-fewshot-lora`, `SKIML/mfds-vaivgem-en-ko-fewshot-lora`입니다. 실행 계정의 Hugging Face token이 두 adapter repo와 base model repo를 읽을 수 있어야 합니다.
 
 ### `Few-shot retrieval index was not found`
 

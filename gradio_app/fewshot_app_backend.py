@@ -35,11 +35,11 @@ if str(TRANSLATION_DIR) not in sys.path:
 
 DEFAULT_KO_EN_MODEL = os.environ.get(
     "FEWSHOT_BASELINE_MODEL_KO_EN",
-    str(REPO_ROOT / "models" / "ko_en_adapter"),
+    "SKIML/mfds-vaivgem-ko-en-fewshot-lora",
 )
 DEFAULT_EN_KO_MODEL = os.environ.get(
     "FEWSHOT_BASELINE_MODEL_EN_KO",
-    str(REPO_ROOT / "models" / "en_ko_adapter"),
+    "SKIML/mfds-vaivgem-en-ko-fewshot-lora",
 )
 DEFAULT_DB_ROOT = os.environ.get(
     "MFDS_FAISS_DB_ROOT",
