@@ -170,6 +170,15 @@ tail -f mfds_gradio_<JOB_ID>.out
 tail -f mfds_gradio_error_<JOB_ID>.err
 ```
 
+정상적으로 시작되면 로그에 다음과 같은 줄이 나옵니다.
+
+```text
+[gradio] node=n04
+[gradio] host=0.0.0.0 port=7860
+```
+
+여기서 `n04`는 예시입니다. 실제로는 SLURM이 이번 job에 배정한 GPU 노드명입니다. 서버마다 `n03`, `n04`, `gpu01`, `node-a12`처럼 다를 수 있고, job을 다시 실행하면 바뀔 수도 있습니다. 아래 ngrok 명령에서는 로그에 나온 자기 노드명을 `NODE_NAME` 값으로 넣으면 됩니다.
+
 기본값은 `#SBATCH --gres=gpu:1`입니다. 이 경우 Korean -> English와 English -> Korean 두 방향이 같은 GPU에서 하나의 base model을 공유하고, 요청마다 LoRA adapter를 바꿔 끼웁니다.
 
 GPU 2개를 쓰고 싶으면 `slurm_fewshot_gradio.sbatch`에서 다음 줄을 바꿉니다.
@@ -215,18 +224,27 @@ ngrok config add-authtoken '<YOUR_NGROK_AUTHTOKEN>'
 
 ## 9. ngrok으로 Gradio 공개
 
-SLURM job 로그에서 compute node 이름을 확인합니다.
+SLURM job 로그에서 compute node 이름을 확인합니다. 아래 예시에서 `n04`는 고정값이 아니라, 사용자가 받은 job이 실행 중인 노드명입니다.
 
 ```text
 [gradio] node=n04
 [gradio] host=0.0.0.0 port=7860
 ```
 
-로그인 노드 또는 compute node에 접속 가능한 서버에서 다음을 실행합니다.
+로그에 `node=n04`라고 나오면 `NODE_NAME="n04"`처럼 적습니다. 다른 이름이 나오면 그 이름을 넣습니다.
+
+```bash
+NODE_NAME="n04"
+ngrok http "http://${NODE_NAME}:7860"
+```
+
+예를 들어 로그가 `[gradio] node=n04`이면 실제 명령은 다음입니다.
 
 ```bash
 ngrok http http://n04:7860
 ```
+
+이 명령은 로그인 노드 또는 compute node에 접속 가능한 서버에서 실행합니다. 현재 서버에서 compute node 이름이 접근되지 않으면, Gradio job이 떠 있는 compute node에 접속해서 ngrok을 실행해야 합니다.
 
 성공하면 다음과 같은 URL이 나옵니다.
 
@@ -239,7 +257,8 @@ Forwarding  https://xxxx.ngrok-free.app -> http://n04:7860
 터미널을 닫아도 유지하려면 background로 실행합니다.
 
 ```bash
-nohup ngrok http http://n04:7860 > ngrok_mfds.log 2>&1 &
+NODE_NAME="n04"
+nohup ngrok http "http://${NODE_NAME}:7860" > ngrok_mfds.log 2>&1 &
 echo $! > ngrok_mfds.pid
 ```
 
@@ -258,7 +277,8 @@ kill "$(cat ngrok_mfds.pid)"
 ngrok static domain이 있으면 `.env`에 넣고 다음처럼 실행합니다.
 
 ```bash
-ngrok http --domain "$NGROK_STATIC_DOMAIN" http://n04:7860
+NODE_NAME="n04"
+ngrok http --domain "$NGROK_STATIC_DOMAIN" "http://${NODE_NAME}:7860"
 ```
 
 ## 10. 웹사이트에 연결 (SKIML 문의)
@@ -318,10 +338,11 @@ tail -f mfds_gradio_<NEW_JOB_ID>.out
 5. ngrok 재실행
 
 ```bash
-ngrok http http://<NEW_NODE>:7860
+NEW_NODE_NAME="n04"
+ngrok http "http://${NEW_NODE_NAME}:7860"
 ```
 
-static domain이 없으면 ngrok URL이 바뀌므로, 새 URL을 SKIML 담당자에게 다시 전달해야 합니다.
+`NEW_NODE_NAME`에는 새 로그에 나온 `[gradio] node=...` 값을 넣습니다. static domain이 없으면 ngrok URL이 바뀌므로, 새 URL을 SKIML 담당자에게 다시 전달해야 합니다.
 
 ## 12. 자주 나는 오류
 
