@@ -4,6 +4,8 @@
 # Request gpu:1 to run both directions on one GPU with shared LoRA.
 # Request gpu:2 to split ko_en/en_ko across two GPUs.
 #SBATCH --gres=gpu:1
+# OCRmyPDF uses CPU workers. Increase this value to speed up PDF uploads.
+#SBATCH --cpus-per-task=8
 #SBATCH --ntasks-per-node=1
 #SBATCH --time=48:00:00
 #SBATCH --output=mfds_gradio_%j.out

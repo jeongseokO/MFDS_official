@@ -66,6 +66,7 @@ DEFAULT_OCR_TMP_ROOT = Path(
 )
 DEFAULT_OCR_LANGUAGES = os.environ.get("MFDS_OCR_LANGUAGES", "kor+eng")
 DEFAULT_OCR_MODE = os.environ.get("MFDS_OCR_MODE", "force").strip().lower()
+DEFAULT_OCR_JOBS = os.environ.get("MFDS_OCR_JOBS", "").strip()
 DEFAULT_JSON_OUTPUT_ROOT = Path(
     os.environ.get("MFDS_JSON_OUTPUT_ROOT", str(REPO_ROOT / ".cache" / "translated_jsons"))
 )
@@ -433,6 +434,59 @@ def _ocr_mode_flag() -> str:
     )
 
 
+def _parse_positive_int(raw_value: str | None) -> int | None:
+    if raw_value is None:
+        return None
+    value = str(raw_value).strip()
+    if not value:
+        return None
+    try:
+        parsed = int(value)
+    except ValueError:
+        return None
+    if parsed <= 0:
+        return None
+    return parsed
+
+
+def _parse_slurm_job_cpus(raw_value: str | None) -> int | None:
+    if raw_value is None:
+        return None
+    value = str(raw_value).strip()
+    if not value:
+        return None
+
+    counts: list[int] = []
+    for part in value.split(","):
+        token = part.strip()
+        if not token:
+            continue
+        match = re.match(r"^(\d+)(?:\(x(\d+)\))?$", token)
+        if not match:
+            continue
+        count = int(match.group(1))
+        repeat = int(match.group(2) or "1")
+        counts.extend([count] * repeat)
+    return max(counts) if counts else None
+
+
+def resolve_ocr_jobs() -> int:
+    explicit_jobs = _parse_positive_int(DEFAULT_OCR_JOBS)
+    if explicit_jobs is not None:
+        return explicit_jobs
+
+    for env_name in ("SLURM_CPUS_PER_TASK", "SLURM_CPUS_ON_NODE"):
+        detected_jobs = _parse_positive_int(os.environ.get(env_name))
+        if detected_jobs is not None:
+            return detected_jobs
+
+    slurm_job_cpus = _parse_slurm_job_cpus(os.environ.get("SLURM_JOB_CPUS_PER_NODE"))
+    if slurm_job_cpus is not None:
+        return slurm_job_cpus
+
+    return max(1, os.cpu_count() or 1)
+
+
 def _required_tesseract_languages(language_spec: str) -> tuple[str, ...]:
     languages: list[str] = []
     for item in re.split(r"[+,]", language_spec):
@@ -526,6 +580,7 @@ def build_quality_ocr_pdf(
         _report_progress(progress_callback, 0.80, "Using cached OCR PDF")
         return ocr_pdf
 
+    ocr_jobs = resolve_ocr_jobs()
     temp_output = DEFAULT_OCR_PDF_ROOT / f"{ocr_pdf.stem}.{uuid.uuid4().hex}.tmp.pdf"
     with tempfile.TemporaryDirectory(prefix="ocrmypdf-", dir=str(DEFAULT_OCR_TMP_ROOT)) as temp_dir:
         env = os.environ.copy()
@@ -536,6 +591,8 @@ def build_quality_ocr_pdf(
             "ocrmypdf",
             "-l",
             DEFAULT_OCR_LANGUAGES,
+            "-j",
+            str(ocr_jobs),
             "--rotate-pages",
             "--deskew",
             "--clean",
@@ -546,7 +603,7 @@ def build_quality_ocr_pdf(
             str(temp_output),
         ]
         log_path = Path(temp_dir) / "ocrmypdf.log"
-        _report_progress(progress_callback, 0.20, "Running OCRmyPDF locally")
+        _report_progress(progress_callback, 0.20, f"Running OCRmyPDF locally with {ocr_jobs} CPU job(s)")
         with log_path.open("w+", encoding="utf-8", errors="replace") as log_handle:
             process = subprocess.Popen(
                 command,
@@ -561,7 +618,7 @@ def build_quality_ocr_pdf(
                 elapsed = time.monotonic() - started_at
                 percent = min(0.70, 0.20 + (elapsed / 180.0) * 0.45)
                 if percent - last_percent >= 0.02:
-                    _report_progress(progress_callback, percent, "Running OCRmyPDF locally")
+                    _report_progress(progress_callback, percent, f"Running OCRmyPDF locally with {ocr_jobs} CPU job(s)")
                     last_percent = percent
                 time.sleep(1.0)
 

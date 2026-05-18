@@ -160,6 +160,8 @@ MFDS_FAISS_DB_ROOT=/absolute/path/to/faiss/dev_with_doc_id
 TESSDATA_PREFIX=/absolute/path/to/conda/envs/mfds_official/share/tessdata
 MFDS_OCR_LANGUAGES=kor+eng
 MFDS_OCR_MODE=force
+# Optional. Leave empty to use the SLURM allocated CPU count automatically.
+MFDS_OCR_JOBS=
 ```
 
 `HF_TOKEN`은 `.env` 안의 빈 칸에 입력합니다. 이 token은 SKIML private model repo에 read 권한이 있어야 합니다.
@@ -227,6 +229,18 @@ tail -f mfds_gradio_error_<JOB_ID>.err
 여기서 `n04`는 예시입니다. 실제로는 SLURM이 이번 job에 배정한 GPU 노드명입니다. 서버마다 `n03`, `n04`, `gpu01`, `node-a12`처럼 다를 수 있고, job을 다시 실행하면 바뀔 수도 있습니다. 아래 ngrok 명령에서는 로그에 나온 자기 노드명을 `NODE_NAME` 값으로 넣으면 됩니다.
 
 기본값은 `#SBATCH --gres=gpu:1`입니다. 이 경우 Korean -> English와 English -> Korean 두 방향이 같은 GPU에서 하나의 base model을 공유하고, 요청마다 LoRA adapter를 바꿔 끼웁니다.
+
+PDF OCR 속도를 높이려면 SLURM CPU도 함께 요청합니다. OCRmyPDF는 GPU가 아니라 CPU를 사용하며, 앱은 `MFDS_OCR_JOBS`가 비어 있으면 `SLURM_CPUS_PER_TASK`를 자동으로 읽어 `ocrmypdf -j`에 전달합니다.
+
+```bash
+#SBATCH --cpus-per-task=8
+```
+
+특정 값으로 고정하고 싶으면 `.env`에 넣습니다.
+
+```bash
+MFDS_OCR_JOBS=8
+```
 
 GPU 2개를 쓰고 싶으면 `slurm_fewshot_gradio.sbatch`에서 다음 줄을 바꿉니다.
 
