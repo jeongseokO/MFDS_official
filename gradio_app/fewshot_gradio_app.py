@@ -1122,10 +1122,9 @@ def build_demo(
                     f"Enabled method(s): {method_summary}",
                     guidance_line,
                     "Only one translation runs at a time. While a job is active, new input is locked until it completes or is cancelled.",
-                    "Document uploads show extracted segments in Source, and the translated segments appear live in Translation.",
+                    "PDF uploads run local OCR first, then show extracted segments in Source and translated segments live in Translation.",
                     "PDF uploads no longer render a translated PDF. They stay as segment-based text output in the Translation pane.",
                     "JSON uploads still keep their translated JSON export file.",
-                    "Scanned PDFs require OCR and are not supported here.",
                 ]
             )
         )

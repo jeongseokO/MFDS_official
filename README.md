@@ -86,13 +86,15 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 
-PDF 업로드 기능을 쓰려면 `pdftotext`도 필요할 수 있습니다.
+PDF 업로드 기능은 로컬 OCR 품질을 우선하므로 `OCRmyPDF`, `Tesseract`, 한국어/영어 Tesseract 언어 데이터, `qpdf`, `Ghostscript`, `unpaper`가 필요합니다. 외부 API를 호출하지 않고 서버 로컬에서 OCR을 수행합니다.
 
 ```bash
-which pdftotext
+which ocrmypdf
+which tesseract
+tesseract --list-langs
 ```
 
-없으면 서버 관리자에게 `poppler-utils` 설치를 요청하세요.
+`kor`와 `eng`가 보여야 합니다. 텍스트 추출 확인용으로 `pdftotext`를 직접 사용할 경우에는 `poppler-utils`도 설치되어 있어야 합니다.
 
 ## 5. 환경 변수 설정
 

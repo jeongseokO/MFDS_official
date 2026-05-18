@@ -3,6 +3,7 @@ from __future__ import annotations
 import atexit
 import copy
 import functools
+import hashlib
 import json
 import multiprocessing as mp
 import os
@@ -57,6 +58,14 @@ DEFAULT_PROGRESS_CHUNK_SIZE = int(os.environ.get("FEWSHOT_APP_PROGRESS_CHUNK_SIZ
 DEFAULT_PDF_OUTPUT_ROOT = Path(
     os.environ.get("MFDS_PDF_OUTPUT_ROOT", str(REPO_ROOT / ".cache" / "translated_pdfs"))
 )
+DEFAULT_OCR_PDF_ROOT = Path(
+    os.environ.get("MFDS_OCR_PDF_ROOT", str(REPO_ROOT / ".cache" / "ocr_pdfs"))
+)
+DEFAULT_OCR_TMP_ROOT = Path(
+    os.environ.get("MFDS_OCR_TMP_ROOT", str(REPO_ROOT / ".cache" / "ocr_tmp"))
+)
+DEFAULT_OCR_LANGUAGES = os.environ.get("MFDS_OCR_LANGUAGES", "kor+eng")
+DEFAULT_OCR_MODE = os.environ.get("MFDS_OCR_MODE", "force").strip().lower()
 DEFAULT_JSON_OUTPUT_ROOT = Path(
     os.environ.get("MFDS_JSON_OUTPUT_ROOT", str(REPO_ROOT / ".cache" / "translated_jsons"))
 )
@@ -413,11 +422,142 @@ def detect_direction_key(text: str) -> str:
     return "en_ko"
 
 
+def _ocr_mode_flag() -> str:
+    if DEFAULT_OCR_MODE in {"force", "force-ocr", "force_ocr"}:
+        return "--force-ocr"
+    if DEFAULT_OCR_MODE in {"redo", "redo-ocr", "redo_ocr"}:
+        return "--redo-ocr"
+    raise RuntimeError(
+        "MFDS_OCR_MODE must be 'force' or 'redo'. "
+        "'force' runs OCR on every PDF page and is the default quality-first mode."
+    )
+
+
+def _required_tesseract_languages(language_spec: str) -> tuple[str, ...]:
+    languages: list[str] = []
+    for item in re.split(r"[+,]", language_spec):
+        language = item.strip()
+        if language:
+            languages.append(language)
+    return tuple(languages)
+
+
+@functools.lru_cache(maxsize=8)
+def _validate_tesseract_languages(language_spec: str) -> None:
+    required_languages = _required_tesseract_languages(language_spec)
+    if not required_languages:
+        raise RuntimeError("MFDS_OCR_LANGUAGES must contain at least one Tesseract language code.")
+
+    try:
+        completed = subprocess.run(
+            ["tesseract", "--list-langs"],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except FileNotFoundError as exc:
+        raise RuntimeError(
+            "Tesseract is required for quality-first PDF OCR extraction but is not installed."
+        ) from exc
+    except subprocess.CalledProcessError as exc:
+        message = (exc.stderr or exc.stdout or "").strip()
+        raise RuntimeError(f"Failed to inspect Tesseract languages: {message or exc}") from exc
+
+    available_languages = {
+        line.strip()
+        for line in (completed.stdout + "\n" + completed.stderr).splitlines()
+        if line.strip() and not line.lower().startswith("list of available languages")
+    }
+    missing_languages = [language for language in required_languages if language not in available_languages]
+    if missing_languages:
+        raise RuntimeError(
+            "Missing Tesseract language data for "
+            f"{', '.join(missing_languages)}. Install the language packs required by "
+            f"MFDS_OCR_LANGUAGES={language_spec!r}."
+        )
+
+
+def _hash_pdf_for_ocr_cache(pdf_file: Path) -> str:
+    digest = hashlib.sha256()
+    with pdf_file.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    digest.update(DEFAULT_OCR_LANGUAGES.encode("utf-8"))
+    digest.update(DEFAULT_OCR_MODE.encode("utf-8"))
+    return digest.hexdigest()[:16]
+
+
+def _quality_ocr_pdf_path(pdf_file: Path) -> Path:
+    safe_stem = re.sub(r"[^A-Za-z0-9._-]+", "_", pdf_file.stem).strip("._-") or "document"
+    return DEFAULT_OCR_PDF_ROOT / f"{safe_stem}.{_hash_pdf_for_ocr_cache(pdf_file)}.ocr.pdf"
+
+
+def build_quality_ocr_pdf(pdf_file: Path) -> Path:
+    if shutil.which("ocrmypdf") is None:
+        raise RuntimeError(
+            "OCRmyPDF is required for PDF extraction. Install OCRmyPDF, Tesseract, "
+            "qpdf, Ghostscript, and the configured Tesseract language data locally."
+        )
+    if shutil.which("tesseract") is None:
+        raise RuntimeError("Tesseract is required for OCRmyPDF-based PDF extraction.")
+
+    _validate_tesseract_languages(DEFAULT_OCR_LANGUAGES)
+
+    DEFAULT_OCR_PDF_ROOT.mkdir(parents=True, exist_ok=True)
+    DEFAULT_OCR_TMP_ROOT.mkdir(parents=True, exist_ok=True)
+    mode_flag = _ocr_mode_flag()
+    ocr_pdf = _quality_ocr_pdf_path(pdf_file)
+    if ocr_pdf.is_file():
+        return ocr_pdf
+
+    temp_output = DEFAULT_OCR_PDF_ROOT / f"{ocr_pdf.stem}.{uuid.uuid4().hex}.tmp.pdf"
+    with tempfile.TemporaryDirectory(prefix="ocrmypdf-", dir=str(DEFAULT_OCR_TMP_ROOT)) as temp_dir:
+        env = os.environ.copy()
+        env["TMPDIR"] = temp_dir
+        env["TEMP"] = temp_dir
+        env["TMP"] = temp_dir
+        command = [
+            "ocrmypdf",
+            "-l",
+            DEFAULT_OCR_LANGUAGES,
+            "--rotate-pages",
+            "--deskew",
+            "--clean",
+            mode_flag,
+            "--output-type",
+            "pdf",
+            str(pdf_file),
+            str(temp_output),
+        ]
+        try:
+            subprocess.run(
+                command,
+                check=True,
+                capture_output=True,
+                text=True,
+                env=env,
+            )
+        except subprocess.CalledProcessError as exc:
+            if temp_output.is_file():
+                try:
+                    temp_output.unlink()
+                except OSError:
+                    pass
+            message = (exc.stderr or exc.stdout or "").strip()
+            raise RuntimeError(f"OCRmyPDF failed to OCR the PDF: {message or exc}") from exc
+
+    if not temp_output.is_file():
+        raise RuntimeError("OCRmyPDF completed without creating an OCR PDF.")
+    temp_output.replace(ocr_pdf)
+    return ocr_pdf
+
+
 def extract_text_from_pdf(pdf_path: str) -> str:
     pdf_file = Path(pdf_path).expanduser().resolve()
     if not pdf_file.is_file():
         raise FileNotFoundError(f"PDF file not found: {pdf_file}")
 
+    ocr_pdf = build_quality_ocr_pdf(pdf_file)
     try:
         completed = subprocess.run(
             [
@@ -426,7 +566,7 @@ def extract_text_from_pdf(pdf_path: str) -> str:
                 "-enc",
                 "UTF-8",
                 "-nopgbrk",
-                str(pdf_file),
+                str(ocr_pdf),
                 "-",
             ],
             check=True,
@@ -442,8 +582,7 @@ def extract_text_from_pdf(pdf_path: str) -> str:
     extracted_text = completed.stdout.replace("\x0c", "\n").strip()
     if not extracted_text:
         raise ValueError(
-            "No extractable text was found in the PDF. "
-            "Scanned PDFs require OCR, which this app does not perform."
+            "OCR completed, but no extractable text was found in the OCR PDF."
         )
     return extracted_text
 
@@ -593,9 +732,10 @@ def extract_text_blocks_from_pdf(pdf_path: str) -> tuple[Path, int, List[PdfText
     pdf_file = Path(pdf_path).expanduser().resolve()
     if not pdf_file.is_file():
         raise FileNotFoundError(f"PDF file not found: {pdf_file}")
+    ocr_pdf = build_quality_ocr_pdf(pdf_file)
 
     try:
-        document = fitz.open(str(pdf_file))
+        document = fitz.open(str(ocr_pdf))
     except Exception as exc:
         raise RuntimeError(f"Failed to open PDF: {exc}") from exc
 
@@ -623,10 +763,9 @@ def extract_text_blocks_from_pdf(pdf_path: str) -> tuple[Path, int, List[PdfText
     extracted_text = "\n\n".join(page_texts).strip()
     if not extracted_text or not blocks:
         raise ValueError(
-            "No extractable text blocks were found in the PDF. "
-            "Scanned PDFs require OCR, which this app does not perform."
+            "OCR completed, but no extractable text blocks were found in the OCR PDF."
         )
-    return pdf_file, page_count, blocks, extracted_text
+    return ocr_pdf, page_count, blocks, extracted_text
 
 
 def rebuild_text_from_pdf_blocks(blocks: Sequence[PdfTextBlock], texts: Sequence[str]) -> str:
@@ -2038,7 +2177,7 @@ class FewshotAppBackend:
         method_key = self._resolve_method_key(method_key)
         segment_window_size = max(1, int(segment_window_size))
         if progress_callback is not None:
-            progress_callback(0.05, "Reading PDF layout and text blocks")
+            progress_callback(0.05, "Running local PDF OCR and extracting text blocks")
 
         pdf_file, page_count, blocks, extracted_text = extract_text_blocks_from_pdf(pdf_path)
         block_texts = [block.text for block in blocks]
