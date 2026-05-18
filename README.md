@@ -153,6 +153,7 @@ nano .env
 PYTHON_BIN=/absolute/path/to/conda/envs/mfds_official/bin/python
 HF_TOKEN=<YOUR_HUGGINGFACE_TOKEN>
 HF_HOME=/absolute/path/to/huggingface_cache
+GRADIO_TEMP_DIR=/absolute/path/to/MFDS_official/.cache/gradio_tmp
 FEWSHOT_BASELINE_MODEL_KO_EN=SKIML/mfds-vaivgem-ko-en-fewshot-lora
 FEWSHOT_BASELINE_MODEL_EN_KO=SKIML/mfds-vaivgem-en-ko-fewshot-lora
 MFDS_FAISS_DB_ROOT=/absolute/path/to/faiss/dev_with_doc_id
@@ -164,6 +165,8 @@ MFDS_OCR_MODE=force
 `HF_TOKEN`은 `.env` 안의 빈 칸에 입력합니다. 이 token은 SKIML private model repo에 read 권한이 있어야 합니다.
 
 `launch_fewshot_gradio`와 SLURM 스크립트는 `PYTHON_BIN`이 있는 디렉터리를 자동으로 `PATH` 앞에 붙입니다. 따라서 `ocrmypdf`와 `tesseract`가 같은 conda env에 설치되어 있으면 별도 `PATH` 설정 없이 앱 subprocess에서 찾을 수 있습니다.
+
+`GRADIO_TEMP_DIR`은 파일 업로드 임시 저장소입니다. 기본값은 repo 안의 `.cache/gradio_tmp`이며, 공유 서버의 `/tmp/gradio` 권한 충돌을 피하려면 실행 계정이 쓸 수 있는 로컬 경로로 둡니다.
 
 `.env`는 절대 git에 올리지 마세요. `.gitignore`에 이미 제외되어 있습니다.
 
@@ -455,6 +458,20 @@ grep -n "^PYTHON_BIN=" .env
 ```
 
 `.env`의 `PYTHON_BIN`이 `ocrmypdf`를 설치한 conda env의 Python을 가리켜야 합니다.
+
+### `/tmp/gradio/... Permission denied`
+
+Gradio가 업로드 파일을 `/tmp/gradio`에 임시 저장하려다 권한에 막힌 것입니다. 공유 서버에서 다른 사용자가 먼저 만든 `/tmp/gradio` 디렉터리 때문에 자주 발생합니다.
+
+해결:
+
+```bash
+mkdir -p .cache/gradio_tmp
+grep -n "^GRADIO_TEMP_DIR=" .env || echo "GRADIO_TEMP_DIR=$(pwd)/.cache/gradio_tmp" >> .env
+sed -i "s|^GRADIO_TEMP_DIR=.*|GRADIO_TEMP_DIR=$(pwd)/.cache/gradio_tmp|" .env
+```
+
+앱 또는 SLURM job을 재시작하세요.
 
 ### `cannot import name 'PdfMatrix' from 'pikepdf'`
 
