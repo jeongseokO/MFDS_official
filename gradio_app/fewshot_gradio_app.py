@@ -2,6 +2,8 @@ from __future__ import annotations
 
 import argparse
 import os
+import queue
+import threading
 from html import escape
 from pathlib import Path
 
@@ -648,7 +650,19 @@ def build_demo(
             return str(path).strip()
         return str(input_file_value or "").strip()
 
-    def read_document_preview(input_file_path: object) -> tuple[str, str]:
+    def format_document_loading_source(file_name: str, percent: float, description: str) -> str:
+        normalized_percent = max(0, min(100, int(round(percent * 100))))
+        return "\n".join(
+            [
+                f"Preparing source preview: {file_name}",
+                "",
+                f"{normalized_percent}% - {description}",
+                "",
+                "Extracted text will appear here automatically when processing completes.",
+            ]
+        )
+
+    def read_document_preview(input_file_path: object, progress_callback=None) -> tuple[str, str]:
         resolved_path = resolve_uploaded_file_path(input_file_path)
         if not resolved_path:
             return "", ""
@@ -656,14 +670,21 @@ def build_demo(
         file_path = Path(resolved_path)
         file_suffix = file_path.suffix.lower()
         if file_suffix == ".pdf":
-            _, page_count, blocks, extracted_text = extract_text_blocks_from_pdf(resolved_path)
+            _, page_count, blocks, extracted_text = extract_text_blocks_from_pdf(
+                resolved_path,
+                progress_callback=progress_callback,
+            )
             status_text = (
                 f"Loaded {len(blocks)} PDF segments from {file_path.name} "
                 f"across {page_count} page(s)."
             )
             return extracted_text, status_text
         if file_suffix == ".json":
+            if progress_callback is not None:
+                progress_callback(0.50, "Reading JSON text values")
             _, _, json_entries, extracted_text = extract_text_entries_from_json(resolved_path)
+            if progress_callback is not None:
+                progress_callback(1.0, "JSON text extraction complete")
             status_text = f"Loaded {len(json_entries)} JSON text segments from {file_path.name}."
             return extracted_text, status_text
         raise ValueError("Only PDF and JSON files are supported.")
@@ -870,6 +891,41 @@ def build_demo(
             result[10] = gr.skip()
         return tuple(result)
 
+    def build_document_preview_update(
+        *,
+        source_preview: str,
+        status_text: str,
+        manual_text: str,
+        direction_key: str,
+        method_key: str,
+        fewshot_count: int,
+        segment_window_size: int,
+        preview_state: dict[str, object] | None,
+        processing: bool,
+    ) -> tuple[object, ...]:
+        result = list(
+            refresh_ui(
+                CLEARED_JOB_STATE,
+                manual_text,
+                direction_key,
+                method_key,
+                fewshot_count,
+                segment_window_size,
+                preview_state,
+                source_preview,
+            )
+        )
+        result[4] = status_text
+        result[5] = source_preview
+        result[10] = source_preview
+        if processing:
+            result[15] = gr.update(interactive=False)
+            result[16] = gr.update(interactive=False)
+            result[17] = gr.update(interactive=False)
+            result[18] = gr.update(interactive=False)
+            result[20] = gr.update(interactive=False)
+        return tuple(result)
+
     def preview_manual_input(
         manual_text: str,
         direction_key: str,
@@ -897,27 +953,118 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         preview_state: dict[str, object] | None,
-    ) -> tuple[object, ...]:
-        try:
-            source_preview, status_text = read_document_preview(input_file_path)
-        except Exception as exc:
-            source_preview = ""
-            status_text = str(exc)
-
-        result = list(
-            refresh_ui(
-                CLEARED_JOB_STATE,
-                manual_text,
-                direction_key,
-                method_key,
-                fewshot_count,
-                segment_window_size,
-                preview_state,
-                source_preview,
+    ):
+        resolved_path = resolve_uploaded_file_path(input_file_path)
+        if not resolved_path:
+            yield build_document_preview_update(
+                source_preview="",
+                status_text="",
+                manual_text=manual_text,
+                direction_key=direction_key,
+                method_key=method_key,
+                fewshot_count=fewshot_count,
+                segment_window_size=segment_window_size,
+                preview_state=preview_state,
+                processing=False,
             )
+            return
+
+        file_path = Path(resolved_path)
+        file_suffix = file_path.suffix.lower()
+        if file_suffix not in {".pdf", ".json"}:
+            yield build_document_preview_update(
+                source_preview="",
+                status_text="Only PDF and JSON files are supported.",
+                manual_text=manual_text,
+                direction_key=direction_key,
+                method_key=method_key,
+                fewshot_count=fewshot_count,
+                segment_window_size=segment_window_size,
+                preview_state=preview_state,
+                processing=False,
+            )
+            return
+
+        progress_queue: queue.Queue[tuple[str, object]] = queue.Queue()
+
+        def progress_callback(progress_value: float, description: str) -> None:
+            progress_queue.put(("progress", (progress_value, description)))
+
+        def read_preview_worker() -> None:
+            try:
+                progress_queue.put(("result", read_document_preview(resolved_path, progress_callback=progress_callback)))
+            except Exception as exc:
+                progress_queue.put(("error", str(exc)))
+
+        initial_description = "Starting local PDF OCR" if file_suffix == ".pdf" else "Reading JSON text values"
+        yield build_document_preview_update(
+            source_preview=format_document_loading_source(file_path.name, 0.0, initial_description),
+            status_text=f"{initial_description}: {file_path.name}",
+            manual_text=manual_text,
+            direction_key=direction_key,
+            method_key=method_key,
+            fewshot_count=fewshot_count,
+            segment_window_size=segment_window_size,
+            preview_state=preview_state,
+            processing=True,
         )
-        result[4] = status_text
-        return tuple(result)
+
+        worker = threading.Thread(target=read_preview_worker, daemon=True)
+        worker.start()
+        while True:
+            try:
+                event_kind, payload = progress_queue.get(timeout=1.0)
+            except queue.Empty:
+                continue
+
+            if event_kind == "progress":
+                progress_value, description = payload  # type: ignore[misc]
+                progress_text = format_document_loading_source(
+                    file_path.name,
+                    float(progress_value),
+                    str(description),
+                )
+                yield build_document_preview_update(
+                    source_preview=progress_text,
+                    status_text=f"{int(round(float(progress_value) * 100))}% - {description}",
+                    manual_text=manual_text,
+                    direction_key=direction_key,
+                    method_key=method_key,
+                    fewshot_count=fewshot_count,
+                    segment_window_size=segment_window_size,
+                    preview_state=preview_state,
+                    processing=True,
+                )
+                continue
+
+            if event_kind == "result":
+                source_preview, status_text = payload  # type: ignore[misc]
+                yield build_document_preview_update(
+                    source_preview=str(source_preview),
+                    status_text=str(status_text),
+                    manual_text=manual_text,
+                    direction_key=direction_key,
+                    method_key=method_key,
+                    fewshot_count=fewshot_count,
+                    segment_window_size=segment_window_size,
+                    preview_state=preview_state,
+                    processing=False,
+                )
+                return
+
+            if event_kind == "error":
+                yield build_document_preview_update(
+                    source_preview="",
+                    status_text=str(payload),
+                    manual_text=manual_text,
+                    direction_key=direction_key,
+                    method_key=method_key,
+                    fewshot_count=fewshot_count,
+                    segment_window_size=segment_window_size,
+                    preview_state=preview_state,
+                    processing=False,
+                )
+                return
 
     def submit_text_job(
         manual_text: str,

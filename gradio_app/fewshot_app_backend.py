@@ -492,7 +492,20 @@ def _quality_ocr_pdf_path(pdf_file: Path) -> Path:
     return DEFAULT_OCR_PDF_ROOT / f"{safe_stem}.{_hash_pdf_for_ocr_cache(pdf_file)}.ocr.pdf"
 
 
-def build_quality_ocr_pdf(pdf_file: Path) -> Path:
+def _report_progress(
+    callback: Callable[[float, str], None] | None,
+    value: float,
+    description: str,
+) -> None:
+    if callback is not None:
+        callback(max(0.0, min(1.0, float(value))), description)
+
+
+def build_quality_ocr_pdf(
+    pdf_file: Path,
+    progress_callback: Callable[[float, str], None] | None = None,
+) -> Path:
+    _report_progress(progress_callback, 0.05, "Checking local OCR tools")
     if shutil.which("ocrmypdf") is None:
         raise RuntimeError(
             "OCRmyPDF is required for PDF extraction. Install OCRmyPDF, Tesseract, "
@@ -501,13 +514,16 @@ def build_quality_ocr_pdf(pdf_file: Path) -> Path:
     if shutil.which("tesseract") is None:
         raise RuntimeError("Tesseract is required for OCRmyPDF-based PDF extraction.")
 
+    _report_progress(progress_callback, 0.10, "Checking Tesseract language data")
     _validate_tesseract_languages(DEFAULT_OCR_LANGUAGES)
 
     DEFAULT_OCR_PDF_ROOT.mkdir(parents=True, exist_ok=True)
     DEFAULT_OCR_TMP_ROOT.mkdir(parents=True, exist_ok=True)
     mode_flag = _ocr_mode_flag()
+    _report_progress(progress_callback, 0.15, "Checking OCR cache")
     ocr_pdf = _quality_ocr_pdf_path(pdf_file)
     if ocr_pdf.is_file():
+        _report_progress(progress_callback, 0.80, "Using cached OCR PDF")
         return ocr_pdf
 
     temp_output = DEFAULT_OCR_PDF_ROOT / f"{ocr_pdf.stem}.{uuid.uuid4().hex}.tmp.pdf"
@@ -529,35 +545,53 @@ def build_quality_ocr_pdf(pdf_file: Path) -> Path:
             str(pdf_file),
             str(temp_output),
         ]
-        try:
-            subprocess.run(
+        log_path = Path(temp_dir) / "ocrmypdf.log"
+        _report_progress(progress_callback, 0.20, "Running OCRmyPDF locally")
+        with log_path.open("w+", encoding="utf-8", errors="replace") as log_handle:
+            process = subprocess.Popen(
                 command,
-                check=True,
-                capture_output=True,
+                stdout=log_handle,
+                stderr=subprocess.STDOUT,
                 text=True,
                 env=env,
             )
-        except subprocess.CalledProcessError as exc:
-            if temp_output.is_file():
-                try:
-                    temp_output.unlink()
-                except OSError:
-                    pass
-            message = (exc.stderr or exc.stdout or "").strip()
-            raise RuntimeError(f"OCRmyPDF failed to OCR the PDF: {message or exc}") from exc
+            started_at = time.monotonic()
+            last_percent = 0.20
+            while process.poll() is None:
+                elapsed = time.monotonic() - started_at
+                percent = min(0.70, 0.20 + (elapsed / 180.0) * 0.45)
+                if percent - last_percent >= 0.02:
+                    _report_progress(progress_callback, percent, "Running OCRmyPDF locally")
+                    last_percent = percent
+                time.sleep(1.0)
 
-    if not temp_output.is_file():
-        raise RuntimeError("OCRmyPDF completed without creating an OCR PDF.")
+            if process.returncode != 0:
+                log_handle.seek(0)
+                message = log_handle.read().strip()
+                if temp_output.is_file():
+                    try:
+                        temp_output.unlink()
+                    except OSError:
+                        pass
+                raise RuntimeError(f"OCRmyPDF failed to OCR the PDF: {message or process.returncode}")
+
+        if not temp_output.is_file():
+            raise RuntimeError("OCRmyPDF completed without creating an OCR PDF.")
+    _report_progress(progress_callback, 0.80, "OCR PDF ready")
     temp_output.replace(ocr_pdf)
     return ocr_pdf
 
 
-def extract_text_from_pdf(pdf_path: str) -> str:
+def extract_text_from_pdf(
+    pdf_path: str,
+    progress_callback: Callable[[float, str], None] | None = None,
+) -> str:
     pdf_file = Path(pdf_path).expanduser().resolve()
     if not pdf_file.is_file():
         raise FileNotFoundError(f"PDF file not found: {pdf_file}")
 
-    ocr_pdf = build_quality_ocr_pdf(pdf_file)
+    ocr_pdf = build_quality_ocr_pdf(pdf_file, progress_callback=progress_callback)
+    _report_progress(progress_callback, 0.85, "Extracting OCR text")
     try:
         completed = subprocess.run(
             [
@@ -584,6 +618,7 @@ def extract_text_from_pdf(pdf_path: str) -> str:
         raise ValueError(
             "OCR completed, but no extractable text was found in the OCR PDF."
         )
+    _report_progress(progress_callback, 1.0, "PDF text extraction complete")
     return extracted_text
 
 
@@ -723,7 +758,10 @@ def _build_pdf_text_block(page_index: int, block: dict[str, object]) -> PdfTextB
     )
 
 
-def extract_text_blocks_from_pdf(pdf_path: str) -> tuple[Path, int, List[PdfTextBlock], str]:
+def extract_text_blocks_from_pdf(
+    pdf_path: str,
+    progress_callback: Callable[[float, str], None] | None = None,
+) -> tuple[Path, int, List[PdfTextBlock], str]:
     try:
         import fitz
     except ImportError as exc:  # pragma: no cover - runtime dependency
@@ -732,7 +770,8 @@ def extract_text_blocks_from_pdf(pdf_path: str) -> tuple[Path, int, List[PdfText
     pdf_file = Path(pdf_path).expanduser().resolve()
     if not pdf_file.is_file():
         raise FileNotFoundError(f"PDF file not found: {pdf_file}")
-    ocr_pdf = build_quality_ocr_pdf(pdf_file)
+    ocr_pdf = build_quality_ocr_pdf(pdf_file, progress_callback=progress_callback)
+    _report_progress(progress_callback, 0.85, "Reading OCR text blocks")
 
     try:
         document = fitz.open(str(ocr_pdf))
@@ -744,6 +783,9 @@ def extract_text_blocks_from_pdf(pdf_path: str) -> tuple[Path, int, List[PdfText
     try:
         page_count = document.page_count
         for page_index, page in enumerate(document):
+            if page_count > 0:
+                progress = 0.85 + ((page_index + 1) / page_count) * 0.13
+                _report_progress(progress_callback, progress, f"Reading OCR text blocks ({page_index + 1}/{page_count})")
             page_dict = page.get_text("dict", sort=True)
             page_blocks: List[str] = []
             for block in page_dict.get("blocks", []):
@@ -765,6 +807,7 @@ def extract_text_blocks_from_pdf(pdf_path: str) -> tuple[Path, int, List[PdfText
         raise ValueError(
             "OCR completed, but no extractable text blocks were found in the OCR PDF."
         )
+    _report_progress(progress_callback, 1.0, "PDF text extraction complete")
     return ocr_pdf, page_count, blocks, extracted_text
 
 
