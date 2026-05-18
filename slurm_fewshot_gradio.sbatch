@@ -39,11 +39,17 @@ export MFDS_FAISS_DB_ROOT="${MFDS_FAISS_DB_ROOT:-${REPO_ROOT}/resources/faiss/de
 export PYTHONUNBUFFERED="${PYTHONUNBUFFERED:-1}"
 
 PYTHON_BIN="${PYTHON_BIN:-python}"
-if ! command -v "${PYTHON_BIN}" >/dev/null 2>&1 && [[ ! -x "${PYTHON_BIN}" ]]; then
+if command -v "${PYTHON_BIN}" >/dev/null 2>&1; then
+    PYTHON_BIN_RESOLVED="$(command -v "${PYTHON_BIN}")"
+elif [[ -x "${PYTHON_BIN}" ]]; then
+    PYTHON_BIN_RESOLVED="${PYTHON_BIN}"
+else
     echo "Python executable not found: ${PYTHON_BIN}" >&2
     echo "Set PYTHON_BIN in .env, for example /path/to/conda/envs/mfds/bin/python" >&2
     exit 1
 fi
+PYTHON_BIN_DIR="$(cd "$(dirname "${PYTHON_BIN_RESOLVED}")" && pwd)"
+export PATH="${PYTHON_BIN_DIR}:${PATH}"
 
 GRADIO_HOST="${GRADIO_HOST:-0.0.0.0}"
 PORT="${PORT:-7860}"

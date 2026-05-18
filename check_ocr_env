@@ -1,0 +1,62 @@
+#!/bin/bash
+
+set -euo pipefail
+
+missing=0
+
+check_command() {
+    local name="$1"
+    if command -v "${name}" >/dev/null 2>&1; then
+        echo "[ok] ${name}: $(command -v "${name}")"
+    else
+        echo "[missing] ${name}" >&2
+        missing=1
+    fi
+}
+
+check_command python
+check_command ocrmypdf
+check_command tesseract
+
+if [[ "${missing}" != "0" ]]; then
+    echo "Install missing OCR commands in the active conda environment first." >&2
+    exit 1
+fi
+
+echo "[info] ocrmypdf version:"
+ocrmypdf --version
+
+echo "[info] tesseract languages:"
+LANG_OUTPUT="$(tesseract --list-langs 2>&1)"
+echo "${LANG_OUTPUT}"
+for lang in kor eng osd; do
+    if grep -qx "${lang}" <<< "${LANG_OUTPUT}"; then
+        echo "[ok] tesseract language: ${lang}"
+    else
+        echo "[missing] tesseract language: ${lang}" >&2
+        missing=1
+    fi
+done
+
+python - <<'PY'
+from PIL import Image
+import cryptography
+import ocrmypdf
+import pikepdf
+
+print("[ok] PIL.Image:", Image.__file__)
+print("[ok] cryptography:", cryptography.__version__)
+print("[ok] ocrmypdf:", getattr(ocrmypdf, "__version__", "unknown"))
+print("[ok] pikepdf:", pikepdf.__version__)
+PY
+
+if command -v pip >/dev/null 2>&1; then
+    pip check
+fi
+
+if [[ "${missing}" != "0" ]]; then
+    echo "OCR environment check failed." >&2
+    exit 1
+fi
+
+echo "OCR environment check passed."

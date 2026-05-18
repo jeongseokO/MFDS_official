@@ -11,6 +11,7 @@ MFDS_official/
   README.md
   requirements.txt
   .env.example
+  check_ocr_env
   launch_fewshot_gradio
   slurm_fewshot_gradio.sbatch
   gradio_app/
@@ -71,30 +72,66 @@ cd MFDS_official
 
 ## 4. Conda 환경 만들기
 
-Python 3.10을 권장합니다.
+Python 3.10을 권장합니다. PDF OCR은 서버 로컬에서만 수행하며 PDF 내용은 외부로 전송하지 않습니다.
+
+설치 역할을 분리합니다.
+
+- `conda`: Tesseract, qpdf, Ghostscript, unpaper, poppler 같은 native 실행파일
+- `pip -r requirements.txt`: Gradio/번역 앱과 OCRmyPDF Python 패키지
+- 직접 다운로드 또는 내부 배포: Tesseract 언어 데이터 `kor`, `eng`, `osd`
+
+새 환경은 다음 순서로 만듭니다.
 
 ```bash
-conda create -n mfds_official python=3.10 -y
+conda create -n mfds_official -c conda-forge --override-channels -y \
+  python=3.10 \
+  tesseract \
+  ghostscript \
+  qpdf \
+  unpaper \
+  poppler
+
 conda activate mfds_official
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-클러스터에서 PyTorch/vLLM CUDA build가 별도로 정해져 있으면, 관리자 문서에 맞춰 `torch`, `vllm`, `flashinfer-python`을 먼저 설치한 뒤 나머지를 설치하세요.
+클러스터에서 PyTorch/vLLM CUDA build가 별도로 정해져 있으면, 관리자 문서에 맞춰 `torch`, `vllm`, `flashinfer-python`을 먼저 설치한 뒤 `pip install -r requirements.txt`를 실행하세요.
+
+Tesseract 언어 데이터를 설치합니다. 인터넷 다운로드가 허용되지 않는 서버에서는 같은 파일을 내부 저장소나 오프라인 패키지로 복사하세요.
 
 ```bash
-pip install -r requirements.txt
+mkdir -p "$CONDA_PREFIX/share/tessdata"
+
+curl -fL -o "$CONDA_PREFIX/share/tessdata/kor.traineddata" \
+  https://github.com/tesseract-ocr/tessdata_best/raw/main/kor.traineddata
+curl -fL -o "$CONDA_PREFIX/share/tessdata/eng.traineddata" \
+  https://github.com/tesseract-ocr/tessdata_best/raw/main/eng.traineddata
+curl -fL -o "$CONDA_PREFIX/share/tessdata/osd.traineddata" \
+  https://github.com/tesseract-ocr/tessdata_best/raw/main/osd.traineddata
+
+export TESSDATA_PREFIX="$CONDA_PREFIX/share/tessdata"
 ```
 
-PDF 업로드 기능은 로컬 OCR 품질을 우선하므로 `OCRmyPDF`, `Tesseract`, 한국어/영어 Tesseract 언어 데이터, `qpdf`, `Ghostscript`, `unpaper`가 필요합니다. 외부 API를 호출하지 않고 서버 로컬에서 OCR을 수행합니다.
+OCR 설치를 검증합니다.
 
 ```bash
+./check_ocr_env
+```
+
+직접 확인하려면 다음 명령을 사용합니다.
+
+```bash
+which python
 which ocrmypdf
 which tesseract
+ocrmypdf --version
 tesseract --list-langs
+python -c "from PIL import Image; import cryptography, ocrmypdf, pikepdf; print('OCR Python deps OK')"
+pip check
 ```
 
-`kor`와 `eng`가 보여야 합니다. 텍스트 추출 확인용으로 `pdftotext`를 직접 사용할 경우에는 `poppler-utils`도 설치되어 있어야 합니다.
+`tesseract --list-langs`에 `kor`, `eng`, `osd`가 보여야 합니다. `pip check`가 OCR 관련 오류를 출력하면 같은 환경에서 `pip install --force-reinstall ocrmypdf==16.13.0 pikepdf==10.6.0 pillow==12.1.0 cryptography==47.0.0 cffi==2.0.0`를 먼저 시도하세요.
 
 ## 5. 환경 변수 설정
 
@@ -119,9 +156,14 @@ HF_HOME=/absolute/path/to/huggingface_cache
 FEWSHOT_BASELINE_MODEL_KO_EN=SKIML/mfds-vaivgem-ko-en-fewshot-lora
 FEWSHOT_BASELINE_MODEL_EN_KO=SKIML/mfds-vaivgem-en-ko-fewshot-lora
 MFDS_FAISS_DB_ROOT=/absolute/path/to/faiss/dev_with_doc_id
+TESSDATA_PREFIX=/absolute/path/to/conda/envs/mfds_official/share/tessdata
+MFDS_OCR_LANGUAGES=kor+eng
+MFDS_OCR_MODE=force
 ```
 
 `HF_TOKEN`은 `.env` 안의 빈 칸에 입력합니다. 이 token은 SKIML private model repo에 read 권한이 있어야 합니다.
+
+`launch_fewshot_gradio`와 SLURM 스크립트는 `PYTHON_BIN`이 있는 디렉터리를 자동으로 `PATH` 앞에 붙입니다. 따라서 `ocrmypdf`와 `tesseract`가 같은 conda env에 설치되어 있으면 별도 `PATH` 설정 없이 앱 subprocess에서 찾을 수 있습니다.
 
 `.env`는 절대 git에 올리지 마세요. `.gitignore`에 이미 제외되어 있습니다.
 
@@ -399,6 +441,86 @@ GPU_MEM_UTIL=0.5 BATCH_SIZE=16 sbatch slurm_fewshot_gradio.sbatch
 ```bash
 APP_DIRECTIONS=ko_en sbatch slurm_fewshot_gradio.sbatch
 ```
+
+### `ocrmypdf: command not found`
+
+`ocrmypdf`가 앱 실행 환경의 `PATH`에 없습니다.
+
+해결:
+
+```bash
+conda activate mfds_official
+which ocrmypdf
+grep -n "^PYTHON_BIN=" .env
+```
+
+`.env`의 `PYTHON_BIN`이 `ocrmypdf`를 설치한 conda env의 Python을 가리켜야 합니다.
+
+### `cannot import name 'PdfMatrix' from 'pikepdf'`
+
+구버전 conda `ocrmypdf`와 신버전 `pikepdf`가 섞였을 때 발생합니다. 이 repo는 `ocrmypdf`를 pip requirements에서 설치하는 방식을 기준으로 합니다.
+
+해결:
+
+```bash
+conda activate mfds_official
+pip uninstall -y ocrmypdf pikepdf
+conda remove -y ocrmypdf pikepdf || true
+pip install --force-reinstall ocrmypdf==16.13.0 pikepdf==10.6.0
+ocrmypdf --version
+```
+
+### `libqpdf.so... cannot open shared object file`
+
+`pikepdf`와 native `qpdf` 조합이 깨졌거나 conda env의 library path가 보이지 않을 때 발생합니다.
+
+해결:
+
+```bash
+conda activate mfds_official
+conda install -c conda-forge --override-channels -y qpdf
+pip install --force-reinstall pikepdf==10.6.0
+find "$CONDA_PREFIX" -name 'libqpdf.so*'
+ocrmypdf --version
+```
+
+필요하면 앱 실행 전에 다음을 추가합니다.
+
+```bash
+export LD_LIBRARY_PATH="$CONDA_PREFIX/lib:$LD_LIBRARY_PATH"
+```
+
+### `No module named 'cryptography'` 또는 `cannot import name 'Image' from 'PIL'`
+
+OCRmyPDF의 Python 의존성이 일부 빠졌거나 깨진 상태입니다.
+
+해결:
+
+```bash
+conda activate mfds_official
+pip install --force-reinstall \
+  ocrmypdf==16.13.0 \
+  pikepdf==10.6.0 \
+  pillow==12.1.0 \
+  cryptography==47.0.0 \
+  cffi==2.0.0
+python -c "from PIL import Image; import cryptography, ocrmypdf, pikepdf; print('OCR Python deps OK')"
+ocrmypdf --version
+```
+
+### Tesseract 언어 데이터 오류
+
+`kor`, `eng`, `osd` 중 하나가 `tesseract --list-langs`에 보이지 않으면 OCR 품질 파이프라인이 시작되지 않습니다.
+
+해결:
+
+```bash
+echo "$TESSDATA_PREFIX"
+ls "$TESSDATA_PREFIX"/{kor,eng,osd}.traineddata
+tesseract --list-langs
+```
+
+파일이 없으면 4장의 Tesseract 언어 데이터 설치 단계를 다시 수행하세요.
 
 ### ngrok 명령어가 없음
 

@@ -630,8 +630,26 @@ def build_demo(
                 return resolved_job_id, snapshot
         return get_active_snapshot()
 
-    def read_document_preview(input_file_path: str | None) -> tuple[str, str]:
-        resolved_path = str(input_file_path or "").strip()
+    def resolve_uploaded_file_path(input_file_value: object) -> str:
+        if input_file_value is None:
+            return ""
+        if isinstance(input_file_value, (str, Path)):
+            return str(input_file_value).strip()
+        if isinstance(input_file_value, dict):
+            for key in ("path", "name"):
+                value = input_file_value.get(key)
+                if value:
+                    return str(value).strip()
+        name = getattr(input_file_value, "name", None)
+        if name:
+            return str(name).strip()
+        path = getattr(input_file_value, "path", None)
+        if path:
+            return str(path).strip()
+        return str(input_file_value or "").strip()
+
+    def read_document_preview(input_file_path: object) -> tuple[str, str]:
+        resolved_path = resolve_uploaded_file_path(input_file_path)
         if not resolved_path:
             return "", ""
 
@@ -821,6 +839,37 @@ def build_demo(
             translated_file_value=translated_file_value,
         )
 
+    def refresh_timer_ui(
+        current_job_id: str,
+        manual_text: str,
+        direction_key: str,
+        method_key: str,
+        fewshot_count: int,
+        segment_window_size: int,
+        preview_state: dict[str, object] | None,
+        source_preview_state: str,
+    ) -> tuple[object, ...]:
+        result = list(
+            refresh_ui(
+                current_job_id,
+                manual_text,
+                direction_key,
+                method_key,
+                fewshot_count,
+                segment_window_size,
+                preview_state,
+                source_preview_state,
+            )
+        )
+        resolved_job_id, snapshot = resolve_tracked_job(current_job_id)
+        if snapshot is None and not resolved_job_id:
+            result[4] = gr.skip()
+            result[5] = gr.skip()
+            result[6] = gr.skip()
+            result[7] = gr.skip()
+            result[10] = gr.skip()
+        return tuple(result)
+
     def preview_manual_input(
         manual_text: str,
         direction_key: str,
@@ -841,7 +890,7 @@ def build_demo(
         )
 
     def preview_document_input(
-        input_file_path: str | None,
+        input_file_path: object,
         manual_text: str,
         direction_key: str,
         method_key: str,
@@ -940,7 +989,7 @@ def build_demo(
         return tuple(result)
 
     def submit_file_job(
-        input_file_path: str | None,
+        input_file_path: object,
         manual_text: str,
         direction_key: str,
         method_key: str,
@@ -977,7 +1026,7 @@ def build_demo(
                 source_preview = ""
 
         try:
-            resolved_path = str(input_file_path or "").strip()
+            resolved_path = resolve_uploaded_file_path(input_file_path)
             if not resolved_path:
                 raise ValueError("Upload a PDF or JSON file first.")
             file_suffix = Path(resolved_path).suffix.lower()
@@ -1431,7 +1480,7 @@ def build_demo(
             concurrency_limit=1,
         )
         refresh_timer.tick(
-            fn=refresh_ui,
+            fn=refresh_timer_ui,
             inputs=[
                 current_job_state,
                 manual_text_box,
