@@ -5,6 +5,7 @@ import configparser
 import inspect
 import logging
 import os
+import re
 import tempfile
 import uuid
 from pathlib import Path
@@ -32,6 +33,89 @@ logging.basicConfig(level=logging.INFO)
 def _env_flag(name: str, default: str = "0") -> bool:
     raw = os.environ.get(name, default)
     return str(raw).strip().lower() in {"1", "true", "yes", "on"}
+
+
+def _source_newline_budget(text: object) -> int:
+    return str(text or "").count("\n")
+
+
+_GENERATED_ROLE_PREFIX_RE = re.compile(
+    r"""
+    ^\s*
+    (?:
+        <\|start_header_id\|>\s*(?:assistant|model)\s*<\|end_header_id\|>
+      | <start_of_turn>\s*(?:assistant|model)
+    )
+    (?::[ \t]*|[ \t]*\n+)
+    """,
+    re.IGNORECASE | re.VERBOSE,
+)
+_BARE_GENERATED_ROLE_PREFIX_RE = re.compile(r"^\s*(?:assistant|model)[ \t]*\n+", re.IGNORECASE)
+
+
+def _strip_generated_role_prefix(text: str) -> str:
+    stripped = text
+    for _ in range(3):
+        updated = _GENERATED_ROLE_PREFIX_RE.sub("", stripped, count=1).lstrip()
+        updated = _BARE_GENERATED_ROLE_PREFIX_RE.sub("", updated, count=1).lstrip()
+        if updated == stripped:
+            break
+        stripped = updated
+    return stripped
+
+
+def _truncate_to_newline_budget(text: str, newline_budget: int | None) -> tuple[str, bool]:
+    if newline_budget is None:
+        return text, False
+    allowed_newlines = max(0, int(newline_budget))
+    newline_count = 0
+    for index, char in enumerate(text):
+        if char != "\n":
+            continue
+        newline_count += 1
+        if newline_count > allowed_newlines:
+            return text[:index].rstrip(), True
+    return text, False
+
+
+def _apply_newline_budgets(outputs: list[Any], newline_budgets: Sequence[int | None]) -> list[Any]:
+    truncated_outputs: list[Any] = []
+    resolved_newline_budgets = list(newline_budgets)
+    for index, output in enumerate(outputs):
+        newline_budget = (
+            resolved_newline_budgets[index]
+            if index < len(resolved_newline_budgets)
+            else None
+        )
+        if isinstance(output, dict):
+            updated = dict(output)
+            mt_paths = updated.get("mt_paths")
+            if isinstance(mt_paths, list):
+                updated["mt_paths"] = [
+                    _truncate_to_newline_budget(
+                        _strip_generated_role_prefix(str(path)),
+                        newline_budget,
+                    )[0]
+                    for path in mt_paths
+                ]
+            mt = updated.get("mt")
+            if isinstance(mt, str):
+                updated["mt"] = _truncate_to_newline_budget(
+                    _strip_generated_role_prefix(mt),
+                    newline_budget,
+                )[0]
+            truncated_outputs.append(updated)
+            continue
+        if isinstance(output, str):
+            truncated_outputs.append(
+                _truncate_to_newline_budget(
+                    _strip_generated_role_prefix(output),
+                    newline_budget,
+                )[0]
+            )
+        else:
+            truncated_outputs.append(output)
+    return truncated_outputs
 
 
 def _load_hf_token_from_store(token_name: str | None = None) -> str | None:
@@ -350,6 +434,7 @@ class vllm_translator:
         repetition_penalty = getattr(generation_config, "repetition_penalty", None)
         if repetition_penalty is not None:
             self._base_sampling_kwargs["repetition_penalty"] = repetition_penalty
+        self.stop_on_extra_newline = _env_flag("MFDS_STOP_ON_EXTRA_NEWLINE", "1")
 
         if self.generation_config.sampling_params == "greedy":
             self.sampling_params = SamplingParams(**self._base_sampling_kwargs)
@@ -618,20 +703,34 @@ class vllm_translator:
             target_lang=target_lang,
         )
         prompts = self.apply_chat_template(messages_list)
+        newline_budgets = (
+            [_source_newline_budget(src) for src in src_list]
+            if self.stop_on_extra_newline
+            else [None for _ in src_list]
+        )
 
         if multiple_path is not None and multiple_path > 1:
             if self.generation_config.sampling_params == "greedy":
-                return self._generate_multi_path_outputs(
+                return _apply_newline_budgets(
+                    self._generate_multi_path_outputs(
+                        prompts,
+                        multiple_path,
+                        lora_request=lora_request,
+                    ),
+                    newline_budgets,
+                )
+            return _apply_newline_budgets(
+                self._generate_beam_outputs(
                     prompts,
                     multiple_path,
                     lora_request=lora_request,
-                )
-            return self._generate_beam_outputs(
-                prompts,
-                multiple_path,
-                lora_request=lora_request,
+                ),
+                newline_budgets,
             )
-        return self._generate_output(prompts, lora_request=lora_request)
+        return _apply_newline_budgets(
+            self._generate_output(prompts, lora_request=lora_request),
+            newline_budgets,
+        )
 
     def fewshot_singleturn_translation(
         self,
@@ -675,19 +774,33 @@ class vllm_translator:
             messages_list.append(messages)
 
         prompts = self.apply_chat_template(messages_list)
+        newline_budgets = (
+            [_source_newline_budget(src) for src in src_list]
+            if self.stop_on_extra_newline
+            else [None for _ in src_list]
+        )
         if multiple_path is not None and multiple_path > 1:
             if self.generation_config.sampling_params == "greedy":
-                return self._generate_multi_path_outputs(
+                return _apply_newline_budgets(
+                    self._generate_multi_path_outputs(
+                        prompts,
+                        multiple_path,
+                        lora_request=lora_request,
+                    ),
+                    newline_budgets,
+                )
+            return _apply_newline_budgets(
+                self._generate_beam_outputs(
                     prompts,
                     multiple_path,
                     lora_request=lora_request,
-                )
-            return self._generate_beam_outputs(
-                prompts,
-                multiple_path,
-                lora_request=lora_request,
+                ),
+                newline_budgets,
             )
-        return self._generate_output(prompts, lora_request=lora_request)
+        return _apply_newline_budgets(
+            self._generate_output(prompts, lora_request=lora_request),
+            newline_budgets,
+        )
 
 
 class vllm_async_translator:
@@ -753,6 +866,7 @@ class vllm_async_translator:
         asyncio.set_event_loop(self._loop)
         self.engine = AsyncLLMEngine.from_engine_args(AsyncEngineArgs(**engine_kwargs))
         self.supports_multi_path = False
+        self.stop_on_extra_newline = _env_flag("MFDS_STOP_ON_EXTRA_NEWLINE", "1")
         self._closed = False
 
     def close(self) -> None:
@@ -832,10 +946,15 @@ class vllm_async_translator:
         output_texts: list[str],
         lora_request,
         on_update: Callable[[int, str, str], None] | None,
+        newline_budget: int | None,
     ) -> str:
         request_id = f"mfds-stream-{uuid.uuid4().hex}"
-        stream_updates = on_update is not None
+        enforce_newline_budget = self.stop_on_extra_newline and newline_budget is not None
+        stream_updates = on_update is not None or enforce_newline_budget
         sampling_params = self._make_stream_sampling_params(stream_updates=stream_updates)
+        raw_output_text = ""
+        previous_stream_text = ""
+        final_text = ""
         async for request_output in self.engine.generate(
             prompt,
             sampling_params,
@@ -849,10 +968,27 @@ class vllm_async_translator:
             if not delta_text:
                 continue
             if stream_updates:
-                output_texts[index] += delta_text
-                on_update(index, output_texts[index], delta_text)
+                raw_output_text += delta_text
+                candidate_text = _strip_generated_role_prefix(raw_output_text)
+                candidate_text, exceeded_newline_budget = _truncate_to_newline_budget(
+                    candidate_text,
+                    newline_budget if enforce_newline_budget else None,
+                )
+                final_text = candidate_text
+                if on_update is not None and raw_output_text != previous_stream_text:
+                    previous_stream_text = raw_output_text
+                    on_update(index, raw_output_text, delta_text)
+                if exceeded_newline_budget:
+                    abort = getattr(self.engine, "abort", None)
+                    if abort is not None:
+                        abort_result = abort(request_id)
+                        if inspect.isawaitable(abort_result):
+                            await abort_result
+                    break
             else:
-                output_texts[index] = delta_text
+                cleaned_text = _strip_generated_role_prefix(delta_text)
+                final_text, _ = _truncate_to_newline_budget(cleaned_text, None)
+        output_texts[index] = final_text
         return output_texts[index]
 
     async def _stream_prompts_async(
@@ -861,9 +997,11 @@ class vllm_async_translator:
         *,
         lora_request=None,
         on_update: Callable[[int, str, str], None] | None = None,
+        newline_budgets: Sequence[int | None] | None = None,
     ) -> list[str]:
         resolved_lora_request = self._default_lora_request() if lora_request is None else lora_request
         output_texts = ["" for _ in prompts]
+        resolved_newline_budgets = list(newline_budgets or [])
         tasks = [
             self._stream_prompt(
                 prompt=prompt,
@@ -871,6 +1009,11 @@ class vllm_async_translator:
                 output_texts=output_texts,
                 lora_request=resolved_lora_request,
                 on_update=on_update,
+                newline_budget=(
+                    resolved_newline_budgets[index]
+                    if index < len(resolved_newline_budgets)
+                    else None
+                ),
             )
             for index, prompt in enumerate(prompts)
         ]
@@ -884,12 +1027,14 @@ class vllm_async_translator:
         *,
         lora_request=None,
         on_update: Callable[[int, str, str], None] | None = None,
+        newline_budgets: Sequence[int | None] | None = None,
     ) -> list[str]:
         return self._loop.run_until_complete(
             self._stream_prompts_async(
                 self._truncate_prompts(list(prompts)),
                 lora_request=lora_request,
                 on_update=on_update,
+                newline_budgets=newline_budgets,
             )
         )
 
@@ -937,7 +1082,13 @@ class vllm_async_translator:
             target_lang=target_lang,
         )
         prompts = self.apply_chat_template(messages_list)
-        return self._stream_prompts(prompts, lora_request=lora_request, on_update=on_update)
+        newline_budgets = [_source_newline_budget(src) for src in src_list]
+        return self._stream_prompts(
+            prompts,
+            lora_request=lora_request,
+            on_update=on_update,
+            newline_budgets=newline_budgets,
+        )
 
     def fewshot_singleturn_translation(
         self,
@@ -984,4 +1135,10 @@ class vllm_async_translator:
             messages_list.append(messages)
 
         prompts = self.apply_chat_template(messages_list)
-        return self._stream_prompts(prompts, lora_request=lora_request, on_update=on_update)
+        newline_budgets = [_source_newline_budget(src) for src in src_list]
+        return self._stream_prompts(
+            prompts,
+            lora_request=lora_request,
+            on_update=on_update,
+            newline_budgets=newline_budgets,
+        )

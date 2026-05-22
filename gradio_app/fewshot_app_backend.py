@@ -1500,15 +1500,14 @@ _CHAT_ROLE_PREFIX_RE = re.compile(
     """,
     re.IGNORECASE | re.VERBOSE,
 )
-_BARE_CHAT_ROLE_PREFIX_RE = re.compile(r"^\s*(?:assistant|model)[ \t]*\n+")
-_PENDING_BARE_CHAT_ROLE_RE = re.compile(r"^\s*(?:assistant|model)\s*$", re.IGNORECASE)
+_BARE_CHAT_ROLE_PREFIX_RE = re.compile(r"^\s*(?:assistant|model)[ \t]*\n+", re.IGNORECASE)
 
 
 def _strip_generated_chat_artifacts(text: str) -> str:
-    stripped = text.strip()
+    stripped = text
     for token in ("<|eot_id|>", "<end_of_turn>"):
         if token in stripped:
-            stripped = stripped.split(token, 1)[0].strip()
+            stripped = stripped.split(token, 1)[0]
 
     for _ in range(3):
         updated = _CHAT_ROLE_PREFIX_RE.sub("", stripped, count=1).lstrip()
@@ -1516,13 +1515,11 @@ def _strip_generated_chat_artifacts(text: str) -> str:
         if updated == stripped:
             break
         stripped = updated
-    return stripped
+    return stripped.strip()
 
 
-def _extract_stream_text(mt_output: object) -> str:
-    if isinstance(mt_output, str) and _PENDING_BARE_CHAT_ROLE_RE.match(mt_output):
-        return ""
-    return _extract_primary_text(mt_output)
+def _normalize_streaming_segment_text(text: object) -> str:
+    return str(text or "").replace("\r\n", "\n").replace("\r", "\n")
 
 
 def _normalize_translated_segment_text(text: object) -> str:
@@ -1783,7 +1780,7 @@ class _DirectionWorkerBackend:
         normalized_retrieval_backend = normalize_retrieval_backend(retrieval_backend)
 
         def handle_stream_update(segment_offset: int, raw_text: str, delta_text: str) -> None:
-            partial_outputs[segment_offset] = _extract_stream_text(raw_text)
+            partial_outputs[segment_offset] = _normalize_streaming_segment_text(raw_text)
             _log_raw_stream_delta(
                 direction_key=self.config.key,
                 method_key=method_key,
@@ -2438,7 +2435,7 @@ class FewshotAppBackend:
                     break
                 if stream_callback is not None:
                     stream_translations = [
-                        _normalize_translated_segment_text(item)
+                        _normalize_streaming_segment_text(item)
                         for item in message.get("translations", [])
                     ]
                     stream_callback(stream_translations)
