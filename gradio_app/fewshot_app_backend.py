@@ -86,17 +86,18 @@ DEFAULT_AUTO_BATCH_TOKEN_BUDGET = int(
 
 _HANGUL_RE = re.compile(r"[\uac00-\ud7a3]")
 _LATIN_RE = re.compile(r"[A-Za-z]")
-_SENTENCE_RE = re.compile(
-    r"""
-    .+?
-    (?:
-        [.!?]+\s*
-      | [\u3002\uff01\uff1f]\s*
-      | $
-    )
-    """,
-    re.VERBOSE | re.DOTALL,
-)
+_MULTI_PERIOD_ABBREVIATIONS = {
+    "e.g.",
+    "i.e.",
+    "a.m.",
+    "p.m.",
+    "u.s.",
+    "u.k.",
+    "e.u.",
+    "ph.d.",
+    "m.d.",
+}
+_SENTENCE_CLOSERS = "\"')]}”’"
 
 METHOD_LABELS = {
     "fewshot_baseline": "Retrieval Few-shot",
@@ -1327,9 +1328,48 @@ def _split_line_into_sentences(line: str) -> List[str]:
     stripped = line.strip()
     if not stripped:
         return []
-    matches = [match.group(0).strip() for match in _SENTENCE_RE.finditer(stripped)]
-    sentences = [item for item in matches if item]
+
+    sentences: list[str] = []
+    start = 0
+    index = 0
+    while index < len(stripped):
+        char = stripped[index]
+        if char not in ".!?\u3002\uff01\uff1f":
+            index += 1
+            continue
+        if char == "." and _is_protected_period(stripped, index):
+            index += 1
+            continue
+
+        end = index + 1
+        while end < len(stripped) and stripped[end] in ".!?\u3002\uff01\uff1f":
+            end += 1
+        while end < len(stripped) and stripped[end] in _SENTENCE_CLOSERS:
+            end += 1
+        if end < len(stripped) and not stripped[end].isspace():
+            index = end
+            continue
+
+        sentence = stripped[start:end].strip()
+        if sentence:
+            sentences.append(sentence)
+        while end < len(stripped) and stripped[end].isspace():
+            end += 1
+        start = end
+        index = end
+
+    tail = stripped[start:].strip()
+    if tail:
+        sentences.append(tail)
     return sentences or [stripped]
+
+
+def _is_protected_period(text: str, index: int) -> bool:
+    if 0 < index < len(text) - 1 and text[index - 1].isdigit() and text[index + 1].isdigit():
+        return True
+
+    prefix = text[: index + 1].lower()
+    return any(prefix.endswith(abbreviation) for abbreviation in _MULTI_PERIOD_ABBREVIATIONS)
 
 
 def segment_input_text(text: str) -> tuple[List[str], List[tuple[str, int]]]:
