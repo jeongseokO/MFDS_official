@@ -1478,14 +1478,14 @@ def _configure_worker_env(config: DirectionConfig) -> None:
 
 def _extract_primary_text(mt_output: object) -> str:
     if isinstance(mt_output, str):
-        return mt_output.strip()
+        return _normalize_translated_segment_text(mt_output)
     if isinstance(mt_output, dict):
         mt_paths = mt_output.get("mt_paths") or []
         if mt_paths:
-            return str(mt_paths[0]).strip()
+            return _normalize_translated_segment_text(mt_paths[0])
         mt_value = mt_output.get("mt")
         if isinstance(mt_value, str):
-            return mt_value.strip()
+            return _normalize_translated_segment_text(mt_value)
     return ""
 
 
@@ -1493,15 +1493,15 @@ _CHAT_ROLE_PREFIX_RE = re.compile(
     r"""
     ^\s*
     (?:
-        (?:<\|start_header_id\|>\s*)?
-        (?:assistant|model)
-        (?:\s*<\|end_header_id\|>)?
+        <\|start_header_id\|>\s*(?:assistant|model)\s*<\|end_header_id\|>
       | <start_of_turn>\s*(?:assistant|model)
     )
     (?::\s*|\s*\n+)
     """,
     re.IGNORECASE | re.VERBOSE,
 )
+_BARE_CHAT_ROLE_PREFIX_RE = re.compile(r"^\s*(?:assistant|model)[ \t]*\n+")
+_PENDING_BARE_CHAT_ROLE_RE = re.compile(r"^\s*(?:assistant|model)\s*$", re.IGNORECASE)
 
 
 def _strip_generated_chat_artifacts(text: str) -> str:
@@ -1512,10 +1512,17 @@ def _strip_generated_chat_artifacts(text: str) -> str:
 
     for _ in range(3):
         updated = _CHAT_ROLE_PREFIX_RE.sub("", stripped, count=1).lstrip()
+        updated = _BARE_CHAT_ROLE_PREFIX_RE.sub("", updated, count=1).lstrip()
         if updated == stripped:
             break
         stripped = updated
     return stripped
+
+
+def _extract_stream_text(mt_output: object) -> str:
+    if isinstance(mt_output, str) and _PENDING_BARE_CHAT_ROLE_RE.match(mt_output):
+        return ""
+    return _extract_primary_text(mt_output)
 
 
 def _normalize_translated_segment_text(text: object) -> str:
@@ -1776,7 +1783,7 @@ class _DirectionWorkerBackend:
         normalized_retrieval_backend = normalize_retrieval_backend(retrieval_backend)
 
         def handle_stream_update(segment_offset: int, raw_text: str, delta_text: str) -> None:
-            partial_outputs[segment_offset] = _extract_primary_text(raw_text)
+            partial_outputs[segment_offset] = _extract_stream_text(raw_text)
             _log_raw_stream_delta(
                 direction_key=self.config.key,
                 method_key=method_key,
