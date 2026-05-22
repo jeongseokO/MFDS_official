@@ -1432,10 +1432,65 @@ def _extract_primary_text(mt_output: object) -> str:
     return ""
 
 
+_CHAT_ROLE_PREFIX_RE = re.compile(
+    r"""
+    ^\s*
+    (?:
+        (?:<\|start_header_id\|>\s*)?
+        (?:assistant|model)
+        (?:\s*<\|end_header_id\|>)?
+      | <start_of_turn>\s*(?:assistant|model)
+    )
+    (?::\s*|\s*\n+)
+    """,
+    re.IGNORECASE | re.VERBOSE,
+)
+
+
+def _strip_generated_chat_artifacts(text: str) -> str:
+    stripped = text.strip()
+    for token in ("<|eot_id|>", "<end_of_turn>"):
+        if token in stripped:
+            stripped = stripped.split(token, 1)[0].strip()
+
+    for _ in range(3):
+        updated = _CHAT_ROLE_PREFIX_RE.sub("", stripped, count=1).lstrip()
+        if updated == stripped:
+            break
+        stripped = updated
+    return stripped
+
+
 def _normalize_translated_segment_text(text: object) -> str:
     normalized = str(text or "").replace("\r\n", "\n").replace("\r", "\n")
+    normalized = _strip_generated_chat_artifacts(normalized)
     # vLLM outputs sometimes contain newline spam or excessive spacing.
     return re.sub(r"\s+", " ", normalized).strip()
+
+
+def _serialize_raw_model_output(raw_output: object) -> str:
+    try:
+        return json.dumps(raw_output, ensure_ascii=False, default=str)
+    except TypeError:
+        return str(raw_output)
+
+
+def _log_raw_model_outputs(
+    *,
+    direction_key: str,
+    method_key: str,
+    start_index: int,
+    segments: Sequence[str],
+    raw_outputs: Sequence[object],
+) -> None:
+    for offset, (segment, raw_output) in enumerate(zip(segments, raw_outputs), start=start_index):
+        print(
+            "[raw_tgt] "
+            f"direction={direction_key} method={method_key} segment_index={offset} "
+            f"src={json.dumps(segment, ensure_ascii=False)} "
+            f"raw_tgt={_serialize_raw_model_output(raw_output)}",
+            flush=True,
+        )
 
 
 class _DirectionWorkerBackend:
@@ -1581,6 +1636,30 @@ class _DirectionWorkerBackend:
             all_fewshots.extend(batch_fewshots)
         return all_fewshots
 
+    def preview_fewshots(
+        self,
+        segments: Sequence[str],
+        fewshot_count: int,
+    ) -> list[dict[str, object]]:
+        clean_segments = [segment.strip() for segment in segments if isinstance(segment, str) and segment.strip()]
+        if not clean_segments:
+            return []
+
+        all_fewshots = self._retrieve_fewshots_for_segments(clean_segments, max(0, int(fewshot_count)))
+        return [
+            {
+                "segment": segment,
+                "examples": [
+                    {
+                        "src": str(example.get("src", "") or ""),
+                        "mt": str(example.get("mt", "") or ""),
+                    }
+                    for example in fewshots
+                ],
+            }
+            for segment, fewshots in zip(clean_segments, all_fewshots)
+        ]
+
     def translate_segments(
         self,
         segments: Sequence[str],
@@ -1613,6 +1692,13 @@ class _DirectionWorkerBackend:
                     multiple_path=None,
                     **translation_kwargs,
                 )
+                _log_raw_model_outputs(
+                    direction_key=self.config.key,
+                    method_key=method_key,
+                    start_index=start + 1,
+                    segments=batch_segments,
+                    raw_outputs=raw_outputs,
+                )
                 all_outputs.extend(_extract_primary_text(item) for item in raw_outputs)
         else:
             token_counts = [
@@ -1631,6 +1717,13 @@ class _DirectionWorkerBackend:
                     target_lang=self.config.target_lang,
                     multiple_path=None,
                     **translation_kwargs,
+                )
+                _log_raw_model_outputs(
+                    direction_key=self.config.key,
+                    method_key=method_key,
+                    start_index=start + 1,
+                    segments=batch_segments,
+                    raw_outputs=raw_outputs,
                 )
                 all_outputs.extend(_extract_primary_text(item) for item in raw_outputs)
         return all_outputs
@@ -1718,6 +1811,16 @@ class _SharedLoraWorkerBackend:
             method_key,
         )
 
+    def preview_fewshots(
+        self,
+        direction_key: str,
+        segments: Sequence[str],
+        fewshot_count: int,
+    ) -> list[dict[str, object]]:
+        if direction_key not in self._backends:
+            raise ValueError(f"Unsupported shared-worker direction: {direction_key}")
+        return self._backends[direction_key].preview_fewshots(segments, fewshot_count)
+
     def close(self) -> None:
         if hasattr(self._translator, "close"):
             self._translator.close()
@@ -1736,19 +1839,33 @@ def _worker_main(config: DirectionConfig, request_queue: mp.Queue, response_queu
                 break
             request_id = message["request_id"]
             try:
-                translations = backend.translate_segments(
-                    message["segments"],
-                    int(message["fewshot_count"]),
-                    str(message.get("method_key", "fewshot_baseline")),
-                )
-                response_queue.put(
-                    {
-                        "type": "result",
-                        "direction": config.key,
-                        "request_id": request_id,
-                        "translations": translations,
-                    }
-                )
+                if message.get("type") == "preview_fewshots":
+                    fewshot_examples = backend.preview_fewshots(
+                        message["segments"],
+                        int(message["fewshot_count"]),
+                    )
+                    response_queue.put(
+                        {
+                            "type": "fewshot_preview",
+                            "direction": config.key,
+                            "request_id": request_id,
+                            "fewshot_examples": fewshot_examples,
+                        }
+                    )
+                else:
+                    translations = backend.translate_segments(
+                        message["segments"],
+                        int(message["fewshot_count"]),
+                        str(message.get("method_key", "fewshot_baseline")),
+                    )
+                    response_queue.put(
+                        {
+                            "type": "result",
+                            "direction": config.key,
+                            "request_id": request_id,
+                            "translations": translations,
+                        }
+                    )
             except Exception as exc:
                 response_queue.put(
                     {
@@ -1795,20 +1912,35 @@ def _shared_lora_worker_main(
             request_id = message["request_id"]
             direction_key = str(message.get("direction_key") or "")
             try:
-                translations = backend.translate_segments(
-                    direction_key,
-                    message["segments"],
-                    int(message["fewshot_count"]),
-                    str(message.get("method_key", "fewshot_baseline")),
-                )
-                response_queue.put(
-                    {
-                        "type": "result",
-                        "direction": direction_key,
-                        "request_id": request_id,
-                        "translations": translations,
-                    }
-                )
+                if message.get("type") == "preview_fewshots":
+                    fewshot_examples = backend.preview_fewshots(
+                        direction_key,
+                        message["segments"],
+                        int(message["fewshot_count"]),
+                    )
+                    response_queue.put(
+                        {
+                            "type": "fewshot_preview",
+                            "direction": direction_key,
+                            "request_id": request_id,
+                            "fewshot_examples": fewshot_examples,
+                        }
+                    )
+                else:
+                    translations = backend.translate_segments(
+                        direction_key,
+                        message["segments"],
+                        int(message["fewshot_count"]),
+                        str(message.get("method_key", "fewshot_baseline")),
+                    )
+                    response_queue.put(
+                        {
+                            "type": "result",
+                            "direction": direction_key,
+                            "request_id": request_id,
+                            "translations": translations,
+                        }
+                    )
             except Exception as exc:
                 response_queue.put(
                     {
@@ -2009,6 +2141,7 @@ class FewshotAppBackend:
                 "request_queue": request_queue,
                 "response_queue": response_queue,
                 "worker_id": f"shared:{','.join(direction_keys)}",
+                "request_lock": threading.Lock(),
             }
             for key in direction_keys:
                 self._workers[key] = worker_info
@@ -2032,6 +2165,7 @@ class FewshotAppBackend:
                 "request_queue": request_queue,
                 "response_queue": response_queue,
                 "worker_id": key,
+                "request_lock": threading.Lock(),
             }
 
         for key in self.direction_configs:
@@ -2097,17 +2231,19 @@ class FewshotAppBackend:
         worker = self._workers[direction_key]
         request_queue: mp.Queue = worker["request_queue"]  # type: ignore[assignment]
         response_queue: mp.Queue = worker["response_queue"]  # type: ignore[assignment]
-        request_queue.put(
-            {
-                "type": "translate",
-                "request_id": request_id,
-                "direction_key": direction_key,
-                "segments": list(segments),
-                "fewshot_count": int(fewshot_count),
-                "method_key": str(method_key),
-            }
-        )
-        message = self._wait_for_response(response_queue, request_id)
+        request_lock: threading.Lock = worker["request_lock"]  # type: ignore[assignment]
+        with request_lock:
+            request_queue.put(
+                {
+                    "type": "translate",
+                    "request_id": request_id,
+                    "direction_key": direction_key,
+                    "segments": list(segments),
+                    "fewshot_count": int(fewshot_count),
+                    "method_key": str(method_key),
+                }
+            )
+            message = self._wait_for_response(response_queue, request_id)
         if message.get("type") == "error":
             raise RuntimeError(message.get("traceback") or message.get("error") or "Translation failed.")
         translations = [_normalize_translated_segment_text(item) for item in message.get("translations", [])]
@@ -2124,6 +2260,58 @@ class FewshotAppBackend:
             for source_segment, translated in zip(segments, translations)
         ]
         return translations
+
+    def _preview_fewshot_batch(
+        self,
+        direction_key: str,
+        segments: Sequence[str],
+        fewshot_count: int,
+    ) -> list[dict[str, object]]:
+        if not segments:
+            return []
+        request_id = uuid.uuid4().hex
+        worker = self._workers[direction_key]
+        request_queue: mp.Queue = worker["request_queue"]  # type: ignore[assignment]
+        response_queue: mp.Queue = worker["response_queue"]  # type: ignore[assignment]
+        request_lock: threading.Lock = worker["request_lock"]  # type: ignore[assignment]
+        with request_lock:
+            request_queue.put(
+                {
+                    "type": "preview_fewshots",
+                    "request_id": request_id,
+                    "direction_key": direction_key,
+                    "segments": list(segments),
+                    "fewshot_count": int(fewshot_count),
+                }
+            )
+            message = self._wait_for_response(response_queue, request_id)
+        if message.get("type") == "error":
+            raise RuntimeError(message.get("traceback") or message.get("error") or "Few-shot preview failed.")
+        examples = message.get("fewshot_examples", [])
+        if not isinstance(examples, list):
+            return []
+        return [item for item in examples if isinstance(item, dict)]
+
+    def preview_fewshot_examples(
+        self,
+        text: str,
+        direction_key: str,
+        fewshot_count: int,
+        *,
+        max_segments: int = 3,
+    ) -> list[dict[str, object]]:
+        source_text = (text or "").strip()
+        if not source_text or int(fewshot_count) <= 0:
+            return []
+
+        self._resolve_direction_config(direction_key)
+        segments, _ = segment_input_text(source_text)
+        preview_segments = segments[: max(1, int(max_segments))]
+        return self._preview_fewshot_batch(
+            direction_key,
+            preview_segments,
+            max(0, int(fewshot_count)),
+        )
 
     def _translate_segments_with_progress(
         self,

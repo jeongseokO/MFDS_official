@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import os
 import queue
 import threading
@@ -30,6 +31,7 @@ from fewshot_app_backend import (
     build_default_direction_configs,
     extract_text_blocks_from_pdf,
     extract_text_entries_from_json,
+    segment_input_text,
 )
 
 
@@ -107,6 +109,7 @@ BROWSER_STATE_SECRET = os.environ.get(
     "MFDS_GRADIO_BROWSER_STATE_SECRET",
     "mfds-fewshot-browser-state-secret-v1",
 )
+FEWSHOT_PREVIEW_SEGMENT_LIMIT = 3
 
 APP_CSS = """
 .mfds-job-card,
@@ -221,6 +224,30 @@ APP_CSS = """
 .mfds-activity-meta {
     color: #475569;
     font-size: 0.9rem;
+}
+.mfds-fewshot-panel {
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    background: #ffffff;
+    padding: 12px 14px;
+    color: #0f172a;
+}
+.mfds-fewshot-panel ul {
+    margin: 8px 0 0;
+    padding-left: 20px;
+}
+.mfds-fewshot-panel li {
+    margin: 6px 0;
+}
+.mfds-fewshot-meta {
+    color: #475569;
+    font-size: 0.9rem;
+}
+.mfds-fewshot-src {
+    color: #334155;
+}
+.mfds-fewshot-mt {
+    color: #111827;
 }
 @keyframes mfds-pulse {
     0%, 100% { opacity: 0.35; transform: scale(0.9); }
@@ -476,6 +503,128 @@ def build_demo(
         "translated_file_path": "",
     }
     UNCHANGED = object()
+    fewshot_preview_cache: dict[tuple[str, int, str], str] = {}
+
+    def compact_preview_text(value: object, *, max_chars: int = 220) -> str:
+        text = " ".join(str(value or "").split())
+        if len(text) <= max_chars:
+            return text
+        return text[: max_chars - 1].rstrip() + "..."
+
+    def render_fewshot_preview_html(
+        preview_rows: list[dict[str, object]],
+        *,
+        total_segments: int,
+        fewshot_count: int,
+    ) -> str:
+        if fewshot_count <= 0:
+            items = ["<li>Few-shot is set to 0.</li>"]
+        elif not preview_rows:
+            items = ["<li>No source segment is available.</li>"]
+        else:
+            items = []
+            for segment_index, row in enumerate(preview_rows, start=1):
+                segment = compact_preview_text(row.get("segment", ""))
+                examples = row.get("examples", [])
+                if not isinstance(examples, list) or not examples:
+                    items.append(
+                        f"<li><b>Segment {segment_index}</b>: {escape(segment)} - no retrieved examples.</li>"
+                    )
+                    continue
+                for example_index, example in enumerate(examples, start=1):
+                    if not isinstance(example, dict):
+                        continue
+                    src = escape(compact_preview_text(example.get("src", "")))
+                    mt = escape(compact_preview_text(example.get("mt", "")))
+                    items.append(
+                        "<li>"
+                        f"<b>Segment {segment_index} / Example {example_index}</b>: "
+                        f"<span class=\"mfds-fewshot-src\">{src}</span>"
+                        " -> "
+                        f"<span class=\"mfds-fewshot-mt\">{mt}</span>"
+                        "</li>"
+                    )
+
+        if total_segments > FEWSHOT_PREVIEW_SEGMENT_LIMIT:
+            meta = (
+                f"Showing {FEWSHOT_PREVIEW_SEGMENT_LIMIT} of {total_segments} source segments."
+            )
+        else:
+            meta = f"Source segments: {total_segments}"
+
+        return (
+            "<div class=\"mfds-fewshot-panel\">"
+            "<b>Retrieved Few-shot Examples</b>"
+            f"<div class=\"mfds-fewshot-meta\">{escape(meta)}</div>"
+            "<ul>"
+            + "".join(items)
+            + "</ul>"
+            "</div>"
+        )
+
+    def build_fewshot_preview_update(
+        *,
+        source_text: str,
+        direction_key: str,
+        method_key: str,
+        fewshot_count: int,
+        busy: bool,
+    ) -> object:
+        if method_key != "fewshot_baseline":
+            return gr.update(visible=False, value="")
+        if busy:
+            return gr.update(visible=True)
+
+        normalized_source = str(source_text or "").strip()
+        if normalized_source.startswith("Preparing source preview:"):
+            return gr.update(
+                visible=True,
+                value=render_fewshot_preview_html([], total_segments=0, fewshot_count=fewshot_count),
+            )
+
+        try:
+            normalized_count = max(0, int(fewshot_count))
+        except (TypeError, ValueError):
+            normalized_count = 0
+
+        if not normalized_source or normalized_count <= 0:
+            return gr.update(
+                visible=True,
+                value=render_fewshot_preview_html([], total_segments=0, fewshot_count=normalized_count),
+            )
+
+        source_hash = hashlib.sha1(normalized_source.encode("utf-8")).hexdigest()
+        cache_key = (direction_key, normalized_count, source_hash)
+        cached_html = fewshot_preview_cache.get(cache_key)
+        if cached_html is not None:
+            return gr.update(visible=True, value=cached_html)
+
+        try:
+            preview_rows = app_backend.preview_fewshot_examples(
+                normalized_source,
+                direction_key,
+                normalized_count,
+                max_segments=FEWSHOT_PREVIEW_SEGMENT_LIMIT,
+            )
+            total_segments = len(segment_input_text(normalized_source)[0])
+            html = render_fewshot_preview_html(
+                preview_rows,
+                total_segments=total_segments,
+                fewshot_count=normalized_count,
+            )
+        except Exception as exc:
+            html = (
+                "<div class=\"mfds-fewshot-panel\">"
+                "<b>Retrieved Few-shot Examples</b>"
+                "<ul>"
+                f"<li>{escape(str(exc))}</li>"
+                "</ul>"
+                "</div>"
+            )
+        fewshot_preview_cache[cache_key] = html
+        if len(fewshot_preview_cache) > 32:
+            fewshot_preview_cache.pop(next(iter(fewshot_preview_cache)))
+        return gr.update(visible=True, value=html)
 
     def update_method_controls(method_key: str, *, busy: bool = False) -> tuple[object, object]:
         normalized = (method_key or "").strip()
@@ -749,6 +898,13 @@ def build_demo(
             visible=not is_fewshot,
             interactive=not busy,
         )
+        fewshot_preview_update = build_fewshot_preview_update(
+            source_text=source_value,
+            direction_key=direction_key,
+            method_key=method_key,
+            fewshot_count=fewshot_count,
+            busy=busy,
+        )
 
         return (
             tracked_state_value,
@@ -779,6 +935,7 @@ def build_demo(
             gr.update(interactive=not busy),
             gr.update(interactive=busy),
             gr.update(interactive=not busy),
+            fewshot_preview_update,
         )
 
     def refresh_ui(
@@ -889,6 +1046,7 @@ def build_demo(
             result[6] = gr.skip()
             result[7] = gr.skip()
             result[10] = gr.skip()
+            result[21] = gr.skip()
         return tuple(result)
 
     def build_document_preview_update(
@@ -1368,6 +1526,11 @@ def build_demo(
                 visible=default_method_key == "segment_mt",
             )
 
+        fewshot_examples_box = gr.HTML(
+            value=render_fewshot_preview_html([], total_segments=0, fewshot_count=3),
+            visible=default_method_key == "fewshot_baseline",
+        )
+
         with gr.Tabs():
             with gr.Tab("Document Upload"):
                 input_file = gr.File(
@@ -1446,6 +1609,7 @@ def build_demo(
             translate_text_button,
             cancel_button,
             clear_button,
+            fewshot_examples_box,
         ]
 
         load_event = demo.load(
