@@ -297,6 +297,36 @@ APP_CSS = """
 .mfds-fewshot-mt {
     color: #111827;
 }
+#mfds-fewshot-editor table,
+#mfds-fewshot-editor [role="grid"] {
+    overflow: visible !important;
+}
+#mfds-fewshot-editor td,
+#mfds-fewshot-editor [role="gridcell"] {
+    vertical-align: top !important;
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere !important;
+}
+#mfds-fewshot-editor td:focus-within,
+#mfds-fewshot-editor [role="gridcell"]:focus-within {
+    position: relative;
+    z-index: 20;
+    overflow: visible !important;
+}
+#mfds-fewshot-editor input:focus,
+#mfds-fewshot-editor textarea:focus,
+#mfds-fewshot-editor [contenteditable="true"]:focus {
+    min-height: 180px !important;
+    height: auto !important;
+    max-height: none !important;
+    width: min(760px, 82vw) !important;
+    white-space: pre-wrap !important;
+    overflow: visible !important;
+    resize: vertical;
+    line-height: 1.45;
+    background: #ffffff;
+    box-shadow: 0 10px 28px rgba(15, 23, 42, 0.18);
+}
 @keyframes mfds-pulse {
     0%, 100% { opacity: 0.35; transform: scale(0.9); }
     50% { opacity: 1; transform: scale(1); }
@@ -1000,7 +1030,10 @@ def build_demo(
         extracted_source = ""
         if snapshot is not None:
             extracted_source = str(snapshot.get("extracted_text", "") or "")
-        source_value = extracted_source or str(source_preview or "") or str(manual_text or "")
+        if is_busy_snapshot(snapshot):
+            source_value = extracted_source or str(source_preview or "") or str(manual_text or "")
+        else:
+            source_value = str(source_preview or "") or str(manual_text or "") or extracted_source
 
         if translation_value is UNCHANGED:
             translation_output = gr.skip()
@@ -1176,7 +1209,7 @@ def build_demo(
             method_key=method_key,
             fewshot_count=fewshot_count,
             segment_window_size=segment_window_size,
-            retrieval_backend=str(snapshot.get("retrieval_backend", retrieval_backend) or retrieval_backend),
+            retrieval_backend=retrieval_backend,
             show_fewshot_examples=show_fewshot_examples,
             status_text=status_text,
             translation_value=translation_value,
@@ -1791,6 +1824,7 @@ def build_demo(
             label="Edit retrieved few-shot examples for this job",
             interactive=True,
             visible=default_method_key == "fewshot_baseline",
+            elem_id="mfds-fewshot-editor",
         )
 
         with gr.Tabs():

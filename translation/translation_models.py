@@ -454,7 +454,7 @@ class vllm_translator:
             "gpu_memory_utilization": generation_config.gpu_mem_util,
             "enable_lora": model_config.use_lora,
             "max_lora_rank": int(os.environ.get("VLLM_MAX_LORA_RANK", "64")),
-            "enforce_eager": _env_flag("VLLM_ENFORCE_EAGER", "1"),
+            "enforce_eager": _env_flag("VLLM_ENFORCE_EAGER", "0"),
             "max_model_len": int(os.environ.get("VLLM_MAX_MODEL_LEN", "4096")),
         }
         self.max_model_len = int(llm_kwargs["max_model_len"])
@@ -841,7 +841,7 @@ class vllm_async_translator:
             "gpu_memory_utilization": generation_config.gpu_mem_util,
             "enable_lora": model_config.use_lora,
             "max_lora_rank": int(os.environ.get("VLLM_MAX_LORA_RANK", "64")),
-            "enforce_eager": _env_flag("VLLM_ENFORCE_EAGER", "1"),
+            "enforce_eager": _env_flag("VLLM_ENFORCE_EAGER", "0"),
             "max_model_len": self.max_model_len,
         }
 
