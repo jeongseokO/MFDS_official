@@ -55,6 +55,7 @@ DEFAULT_MFDS_DISABLE_VLLM_FLASHINFER = os.environ.get("MFDS_DISABLE_VLLM_FLASHIN
 DEFAULT_GPU_MEM_UTIL = float(os.environ.get("GPU_MEM_UTIL", "0.6"))
 DEFAULT_BATCH_SIZE = int(os.environ.get("FEWSHOT_APP_BATCH_SIZE", "64"))
 DEFAULT_PROGRESS_CHUNK_SIZE = int(os.environ.get("FEWSHOT_APP_PROGRESS_CHUNK_SIZE", "32"))
+DEFAULT_PARTIAL_PREVIEW_MIN_INTERVAL = float(os.environ.get("MFDS_PARTIAL_PREVIEW_MIN_INTERVAL", "0.2"))
 DEFAULT_PDF_OUTPUT_ROOT = Path(
     os.environ.get("MFDS_PDF_OUTPUT_ROOT", str(REPO_ROOT / ".cache" / "translated_pdfs"))
 )
@@ -100,6 +101,23 @@ _SENTENCE_RE = re.compile(
 METHOD_LABELS = {
     "fewshot_baseline": "Retrieval Few-shot",
     "segment_mt": "Segment",
+}
+RETRIEVAL_BACKEND_LABELS = {
+    "faiss": "BGE",
+    "bm25": "BM25",
+}
+DEFAULT_RETRIEVAL_BACKEND = os.environ.get("MFDS_RETRIEVAL_BACKEND", "faiss").strip().lower()
+DEFAULT_STREAMING_TRANSLATION = os.environ.get("MFDS_STREAMING_TRANSLATION", "1").strip().lower() not in {
+    "0",
+    "false",
+    "no",
+    "off",
+}
+DEFAULT_RAW_STREAM_LOG = os.environ.get("MFDS_RAW_STREAM_LOG", "1").strip().lower() not in {
+    "0",
+    "false",
+    "no",
+    "off",
 }
 ACTIVE_JOB_STATES = {"queued", "running", "cancelling"}
 ACTIVE_JOB_STATE_PRIORITY = {
@@ -188,6 +206,7 @@ class TranslationJob:
     input_kind: str
     fewshot_count: int
     segment_window_size: int
+    retrieval_backend: str
     created_at: float
     units: list[PreparedTextUnit]
     segments: list[str]
@@ -289,6 +308,7 @@ def _serialize_job(job: TranslationJob) -> dict[str, Any]:
         "input_kind": job.input_kind,
         "fewshot_count": job.fewshot_count,
         "segment_window_size": job.segment_window_size,
+        "retrieval_backend": job.retrieval_backend,
         "created_at": job.created_at,
         "units": [_serialize_prepared_unit(unit) for unit in job.units],
         "segments": list(job.segments),
@@ -325,6 +345,7 @@ def _deserialize_job(data: dict[str, Any]) -> TranslationJob:
         input_kind=str(data.get("input_kind", "") or ""),
         fewshot_count=int(data.get("fewshot_count", 0) or 0),
         segment_window_size=int(data.get("segment_window_size", 1) or 1),
+        retrieval_backend=str(data.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND) or DEFAULT_RETRIEVAL_BACKEND),
         created_at=float(data.get("created_at", 0.0) or 0.0),
         units=[_deserialize_prepared_unit(item) for item in (data.get("units", []) or []) if isinstance(item, dict)],
         segments=[str(item) for item in (data.get("segments", []) or [])],
@@ -421,6 +442,21 @@ def detect_direction_key(text: str) -> str:
     if hangul_count >= latin_count:
         return "ko_en"
     return "en_ko"
+
+
+def normalize_retrieval_backend(retrieval_backend: str | None) -> str:
+    normalized = str(retrieval_backend or DEFAULT_RETRIEVAL_BACKEND or "faiss").strip().lower()
+    aliases = {
+        "bge": "faiss",
+        "dense": "faiss",
+        "faiss": "faiss",
+        "bm25": "bm25",
+    }
+    normalized = aliases.get(normalized, normalized)
+    if normalized not in RETRIEVAL_BACKEND_LABELS:
+        supported = ", ".join(RETRIEVAL_BACKEND_LABELS)
+        raise ValueError(f"Unsupported retrieval backend: {normalized or '<empty>'}. Available: {supported}.")
+    return normalized
 
 
 def _ocr_mode_flag() -> str:
@@ -1484,13 +1520,32 @@ def _log_raw_model_outputs(
     raw_outputs: Sequence[object],
 ) -> None:
     for offset, (segment, raw_output) in enumerate(zip(segments, raw_outputs), start=start_index):
-        print(
+        log_line = (
             "[raw_tgt] "
             f"direction={direction_key} method={method_key} segment_index={offset} "
             f"src={json.dumps(segment, ensure_ascii=False)} "
-            f"raw_tgt={_serialize_raw_model_output(raw_output)}",
-            flush=True,
+            f"raw_tgt={_serialize_raw_model_output(raw_output)}"
         )
+        print(log_line, flush=True)
+        print(log_line, file=sys.stderr, flush=True)
+
+
+def _log_raw_stream_delta(
+    *,
+    direction_key: str,
+    method_key: str,
+    segment_index: int,
+    delta_text: str,
+) -> None:
+    if not DEFAULT_RAW_STREAM_LOG or not delta_text:
+        return
+    log_line = (
+        "[raw_tgt_stream] "
+        f"direction={direction_key} method={method_key} segment_index={segment_index} "
+        f"raw_tgt_delta={json.dumps(delta_text, ensure_ascii=False)}"
+    )
+    print(log_line, flush=True)
+    print(log_line, file=sys.stderr, flush=True)
 
 
 class _DirectionWorkerBackend:
@@ -1503,7 +1558,7 @@ class _DirectionWorkerBackend:
         lora_request: object | None = None,
         owns_translator: bool = True,
     ) -> None:
-        from translation_models import GenerationConfig, ModelConfig, vllm_translator
+        from translation_models import GenerationConfig, ModelConfig, vllm_async_translator, vllm_translator
         from utils.retriever import MTRetriever
 
         self.config = config
@@ -1526,17 +1581,33 @@ class _DirectionWorkerBackend:
             # Both fewshot_baseline and segment_mt use the same baseline model.
             # We preload it once at worker startup so method switching does not
             # trigger a model reload on the first request.
-            translator = vllm_translator(model_config, self._generation_config)
+            translator_class = vllm_async_translator if DEFAULT_STREAMING_TRANSLATION else vllm_translator
+            translator = translator_class(model_config, self._generation_config)
         self.translator = translator
         self._tokenizer = self.translator.tokenizer
-        self._max_model_len = int(getattr(self.translator.llm.llm_engine.model_config, "max_model_len", 4096))
-        self._prompt_token_budget = max(self._max_model_len, int(DEFAULT_AUTO_BATCH_TOKEN_BUDGET))
-        self.retriever = MTRetriever(
-            db_name=config.db_name,
-            encoder="BAAI/bge-m3",
-            source="ko" if config.key == "ko_en" else "en",
-            target="en" if config.key == "ko_en" else "ko",
+        llm_engine = getattr(getattr(self.translator, "llm", None), "llm_engine", None)
+        llm_model_config = getattr(llm_engine, "model_config", None)
+        self._max_model_len = int(
+            getattr(self.translator, "max_model_len", getattr(llm_model_config, "max_model_len", 4096))
         )
+        self._prompt_token_budget = max(self._max_model_len, int(DEFAULT_AUTO_BATCH_TOKEN_BUDGET))
+        self._retriever_class = MTRetriever
+        self._retrievers: dict[str, MTRetriever] = {}
+        self._get_retriever(DEFAULT_RETRIEVAL_BACKEND)
+
+    def _get_retriever(self, retrieval_backend: str | None):
+        normalized_backend = normalize_retrieval_backend(retrieval_backend)
+        retriever = self._retrievers.get(normalized_backend)
+        if retriever is None:
+            retriever = self._retriever_class(
+                db_name=self.config.db_name,
+                encoder="BAAI/bge-m3",
+                source="ko" if self.config.key == "ko_en" else "en",
+                target="en" if self.config.key == "ko_en" else "ko",
+                retrieval_backend=normalized_backend,
+            )
+            self._retrievers[normalized_backend] = retriever
+        return retriever
 
     def _count_prompt_tokens(self, messages: list[dict[str, str]]) -> int:
         prompt = self._tokenizer.apply_chat_template(
@@ -1618,16 +1689,18 @@ class _DirectionWorkerBackend:
         self,
         segments: Sequence[str],
         fewshot_count: int,
+        retrieval_backend: str,
     ) -> list[list[dict[str, str]]]:
         if fewshot_count <= 0 or not segments:
             return [[] for _ in segments]
 
+        retriever = self._get_retriever(retrieval_backend)
         excluded_sources = set(segments)
         retrieval_chunk_size = max(8, min(256, int(self.config.batch_size) * 4))
         all_fewshots: list[list[dict[str, str]]] = []
         for start in range(0, len(segments), retrieval_chunk_size):
             batch_segments = list(segments[start : start + retrieval_chunk_size])
-            batch_fewshots = self.retriever.search(
+            batch_fewshots = retriever.search(
                 batch_segments,
                 fewshot_count,
                 exclude_sources=excluded_sources,
@@ -1640,12 +1713,17 @@ class _DirectionWorkerBackend:
         self,
         segments: Sequence[str],
         fewshot_count: int,
+        retrieval_backend: str,
     ) -> list[dict[str, object]]:
         clean_segments = [segment.strip() for segment in segments if isinstance(segment, str) and segment.strip()]
         if not clean_segments:
             return []
 
-        all_fewshots = self._retrieve_fewshots_for_segments(clean_segments, max(0, int(fewshot_count)))
+        all_fewshots = self._retrieve_fewshots_for_segments(
+            clean_segments,
+            max(0, int(fewshot_count)),
+            normalize_retrieval_backend(retrieval_backend),
+        )
         return [
             {
                 "segment": segment,
@@ -1665,14 +1743,34 @@ class _DirectionWorkerBackend:
         segments: Sequence[str],
         fewshot_count: int,
         method_key: str,
+        retrieval_backend: str,
+        stream_callback: Callable[[Sequence[str]], None] | None = None,
     ) -> List[str]:
         clean_segments = [segment.strip() for segment in segments if isinstance(segment, str) and segment.strip()]
         if not clean_segments:
             return []
 
         all_outputs: List[str] = []
+        partial_outputs = ["" for _ in clean_segments]
+        normalized_retrieval_backend = normalize_retrieval_backend(retrieval_backend)
+
+        def handle_stream_update(segment_offset: int, raw_text: str, delta_text: str) -> None:
+            partial_outputs[segment_offset] = _extract_primary_text(raw_text)
+            _log_raw_stream_delta(
+                direction_key=self.config.key,
+                method_key=method_key,
+                segment_index=segment_offset + 1,
+                delta_text=delta_text,
+            )
+            if stream_callback is not None:
+                stream_callback(list(partial_outputs))
+
         if method_key == "fewshot_baseline" and fewshot_count > 0:
-            all_fewshots = self._retrieve_fewshots_for_segments(clean_segments, fewshot_count)
+            all_fewshots = self._retrieve_fewshots_for_segments(
+                clean_segments,
+                fewshot_count,
+                normalized_retrieval_backend,
+            )
             token_counts = [
                 self._estimate_prompt_tokens_for_fewshot(segment, fewshot)
                 for segment, fewshot in zip(clean_segments, all_fewshots)
@@ -1684,6 +1782,13 @@ class _DirectionWorkerBackend:
                 translation_kwargs: dict[str, object] = {}
                 if self._lora_request is not None:
                     translation_kwargs["lora_request"] = self._lora_request
+                translation_kwargs["on_update"] = (
+                    lambda index, text, delta, batch_start=start: handle_stream_update(
+                        batch_start + index,
+                        text,
+                        delta,
+                    )
+                )
                 raw_outputs = self.translator.fewshot_singleturn_translation(
                     batch_segments,
                     fewshots,
@@ -1699,7 +1804,10 @@ class _DirectionWorkerBackend:
                     segments=batch_segments,
                     raw_outputs=raw_outputs,
                 )
-                all_outputs.extend(_extract_primary_text(item) for item in raw_outputs)
+                extracted_outputs = [_extract_primary_text(item) for item in raw_outputs]
+                for output_offset, output in enumerate(extracted_outputs, start=start):
+                    partial_outputs[output_offset] = output
+                all_outputs.extend(extracted_outputs)
         else:
             token_counts = [
                 self._estimate_prompt_tokens_for_simple(segment)
@@ -1711,6 +1819,13 @@ class _DirectionWorkerBackend:
                 translation_kwargs: dict[str, object] = {}
                 if self._lora_request is not None:
                     translation_kwargs["lora_request"] = self._lora_request
+                translation_kwargs["on_update"] = (
+                    lambda index, text, delta, batch_start=start: handle_stream_update(
+                        batch_start + index,
+                        text,
+                        delta,
+                    )
+                )
                 raw_outputs = self.translator.simple_translation(
                     batch_segments,
                     source_lang=self.config.source_lang,
@@ -1725,7 +1840,10 @@ class _DirectionWorkerBackend:
                     segments=batch_segments,
                     raw_outputs=raw_outputs,
                 )
-                all_outputs.extend(_extract_primary_text(item) for item in raw_outputs)
+                extracted_outputs = [_extract_primary_text(item) for item in raw_outputs]
+                for output_offset, output in enumerate(extracted_outputs, start=start):
+                    partial_outputs[output_offset] = output
+                all_outputs.extend(extracted_outputs)
         return all_outputs
 
     def close(self) -> None:
@@ -1735,7 +1853,7 @@ class _DirectionWorkerBackend:
 
 class _SharedLoraWorkerBackend:
     def __init__(self, direction_configs: dict[str, DirectionConfig]) -> None:
-        from translation_models import GenerationConfig, ModelConfig, vllm_translator
+        from translation_models import GenerationConfig, ModelConfig, vllm_async_translator, vllm_translator
         from vllm.lora.request import LoRARequest
 
         if not direction_configs:
@@ -1774,7 +1892,8 @@ class _SharedLoraWorkerBackend:
             sampling_params="greedy",
         )
         generation_config.repetition_penalty = None
-        translator = vllm_translator(model_configs[primary_key], generation_config)
+        translator_class = vllm_async_translator if DEFAULT_STREAMING_TRANSLATION else vllm_translator
+        translator = translator_class(model_configs[primary_key], generation_config)
 
         self._translator = translator
         self._backends: dict[str, _DirectionWorkerBackend] = {}
@@ -1802,6 +1921,8 @@ class _SharedLoraWorkerBackend:
         segments: Sequence[str],
         fewshot_count: int,
         method_key: str,
+        retrieval_backend: str,
+        stream_callback: Callable[[Sequence[str]], None] | None = None,
     ) -> List[str]:
         if direction_key not in self._backends:
             raise ValueError(f"Unsupported shared-worker direction: {direction_key}")
@@ -1809,6 +1930,8 @@ class _SharedLoraWorkerBackend:
             segments,
             fewshot_count,
             method_key,
+            retrieval_backend,
+            stream_callback=stream_callback,
         )
 
     def preview_fewshots(
@@ -1816,10 +1939,11 @@ class _SharedLoraWorkerBackend:
         direction_key: str,
         segments: Sequence[str],
         fewshot_count: int,
+        retrieval_backend: str,
     ) -> list[dict[str, object]]:
         if direction_key not in self._backends:
             raise ValueError(f"Unsupported shared-worker direction: {direction_key}")
-        return self._backends[direction_key].preview_fewshots(segments, fewshot_count)
+        return self._backends[direction_key].preview_fewshots(segments, fewshot_count, retrieval_backend)
 
     def close(self) -> None:
         if hasattr(self._translator, "close"):
@@ -1843,6 +1967,7 @@ def _worker_main(config: DirectionConfig, request_queue: mp.Queue, response_queu
                     fewshot_examples = backend.preview_fewshots(
                         message["segments"],
                         int(message["fewshot_count"]),
+                        str(message.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND)),
                     )
                     response_queue.put(
                         {
@@ -1853,10 +1978,22 @@ def _worker_main(config: DirectionConfig, request_queue: mp.Queue, response_queu
                         }
                     )
                 else:
+                    def emit_stream_update(partial_translations: Sequence[str]) -> None:
+                        response_queue.put(
+                            {
+                                "type": "stream_update",
+                                "direction": config.key,
+                                "request_id": request_id,
+                                "translations": list(partial_translations),
+                            }
+                        )
+
                     translations = backend.translate_segments(
                         message["segments"],
                         int(message["fewshot_count"]),
                         str(message.get("method_key", "fewshot_baseline")),
+                        str(message.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND)),
+                        stream_callback=emit_stream_update,
                     )
                     response_queue.put(
                         {
@@ -1917,6 +2054,7 @@ def _shared_lora_worker_main(
                         direction_key,
                         message["segments"],
                         int(message["fewshot_count"]),
+                        str(message.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND)),
                     )
                     response_queue.put(
                         {
@@ -1927,11 +2065,23 @@ def _shared_lora_worker_main(
                         }
                     )
                 else:
+                    def emit_stream_update(partial_translations: Sequence[str]) -> None:
+                        response_queue.put(
+                            {
+                                "type": "stream_update",
+                                "direction": direction_key,
+                                "request_id": request_id,
+                                "translations": list(partial_translations),
+                            }
+                        )
+
                     translations = backend.translate_segments(
                         direction_key,
                         message["segments"],
                         int(message["fewshot_count"]),
                         str(message.get("method_key", "fewshot_baseline")),
+                        str(message.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND)),
+                        stream_callback=emit_stream_update,
                     )
                     response_queue.put(
                         {
@@ -2224,6 +2374,8 @@ class FewshotAppBackend:
         segments: Sequence[str],
         fewshot_count: int,
         method_key: str,
+        retrieval_backend: str,
+        stream_callback: Callable[[Sequence[str]], None] | None = None,
     ) -> list[str]:
         if not segments:
             return []
@@ -2241,9 +2393,19 @@ class FewshotAppBackend:
                     "segments": list(segments),
                     "fewshot_count": int(fewshot_count),
                     "method_key": str(method_key),
+                    "retrieval_backend": normalize_retrieval_backend(retrieval_backend),
                 }
             )
-            message = self._wait_for_response(response_queue, request_id)
+            while True:
+                message = self._wait_for_response(response_queue, request_id)
+                if message.get("type") != "stream_update":
+                    break
+                if stream_callback is not None:
+                    stream_translations = [
+                        _normalize_translated_segment_text(item)
+                        for item in message.get("translations", [])
+                    ]
+                    stream_callback(stream_translations)
         if message.get("type") == "error":
             raise RuntimeError(message.get("traceback") or message.get("error") or "Translation failed.")
         translations = [_normalize_translated_segment_text(item) for item in message.get("translations", [])]
@@ -2266,6 +2428,7 @@ class FewshotAppBackend:
         direction_key: str,
         segments: Sequence[str],
         fewshot_count: int,
+        retrieval_backend: str,
     ) -> list[dict[str, object]]:
         if not segments:
             return []
@@ -2282,6 +2445,7 @@ class FewshotAppBackend:
                     "direction_key": direction_key,
                     "segments": list(segments),
                     "fewshot_count": int(fewshot_count),
+                    "retrieval_backend": normalize_retrieval_backend(retrieval_backend),
                 }
             )
             message = self._wait_for_response(response_queue, request_id)
@@ -2298,6 +2462,7 @@ class FewshotAppBackend:
         direction_key: str,
         fewshot_count: int,
         *,
+        retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
         max_segments: int = 3,
     ) -> list[dict[str, object]]:
         source_text = (text or "").strip()
@@ -2311,6 +2476,7 @@ class FewshotAppBackend:
             direction_key,
             preview_segments,
             max(0, int(fewshot_count)),
+            normalize_retrieval_backend(retrieval_backend),
         )
 
     def _translate_segments_with_progress(
@@ -2320,6 +2486,7 @@ class FewshotAppBackend:
         segments: Sequence[str],
         fewshot_count: int,
         method_key: str,
+        retrieval_backend: str,
         progress_callback: Callable[[float, str], None] | None = None,
         job_id: str | None = None,
         partial_translation_callback: Callable[[Sequence[str]], None] | None = None,
@@ -2337,11 +2504,23 @@ class FewshotAppBackend:
                 self._raise_if_job_cancelled(job_id)
             end = min(total_segments, start + chunk_size)
             batch_segments = segments[start:end]
+
+            def handle_batch_stream(batch_partial: Sequence[str]) -> None:
+                if partial_translation_callback is None:
+                    return
+                filled_batch = [
+                    str(translated or source)
+                    for source, translated in zip(batch_segments, batch_partial)
+                ]
+                partial_translation_callback(translated_segments + filled_batch)
+
             batch_translation = self._translate_segment_batch(
                 direction_key,
                 batch_segments,
                 fewshot_count,
                 method_key,
+                retrieval_backend,
+                stream_callback=handle_batch_stream,
             )
             translated_segments.extend(batch_translation)
             if partial_translation_callback is not None:
@@ -2373,6 +2552,7 @@ class FewshotAppBackend:
         direction_key: str,
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
+        retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
         progress_callback: Callable[[float, str], None] | None = None,
     ) -> List[str]:
         normalized_texts = [str(text or "").strip() for text in texts]
@@ -2382,6 +2562,7 @@ class FewshotAppBackend:
         config = self._resolve_direction_config(direction_key)
         method_key = self._resolve_method_key(method_key)
         fewshot_count = max(0, int(fewshot_count))
+        retrieval_backend = normalize_retrieval_backend(retrieval_backend)
 
         if progress_callback is not None:
             progress_callback(0.15, "Preparing translation segments")
@@ -2404,6 +2585,7 @@ class FewshotAppBackend:
             segments=all_segments,
             fewshot_count=fewshot_count,
             method_key=method_key,
+            retrieval_backend=retrieval_backend,
             progress_callback=progress_callback,
         )
 
@@ -2419,6 +2601,7 @@ class FewshotAppBackend:
         direction_key: str,
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
+        retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
         progress_callback: Callable[[float, str], None] | None = None,
     ) -> TranslationResult:
         source_text = (text or "").strip()
@@ -2438,6 +2621,7 @@ class FewshotAppBackend:
             direction_key,
             method_key=method_key,
             segment_window_size=segment_window_size,
+            retrieval_backend=retrieval_backend,
             progress_callback=progress_callback,
         )[0]
         return TranslationResult(
@@ -2459,6 +2643,7 @@ class FewshotAppBackend:
         direction_key: str,
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
+        retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
         progress_callback: Callable[[float, str], None] | None = None,
     ) -> PdfTranslationResult:
         config = self._resolve_direction_config(direction_key)
@@ -2476,6 +2661,7 @@ class FewshotAppBackend:
             direction_key,
             method_key=method_key,
             segment_window_size=segment_window_size,
+            retrieval_backend=retrieval_backend,
             progress_callback=_scale_progress(progress_callback, 0.15, 0.75),
         )
 
@@ -2526,6 +2712,7 @@ class FewshotAppBackend:
         *,
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
+        retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
     ) -> str:
         source_text = (text or "").strip()
         if not source_text:
@@ -2535,6 +2722,7 @@ class FewshotAppBackend:
         config = self._resolve_direction_config(direction_key)
         method_key = self._resolve_method_key(method_key)
         segment_window_size = max(1, int(segment_window_size))
+        retrieval_backend = normalize_retrieval_backend(retrieval_backend)
         if method_key == "segment_mt":
             units, segments = prepare_segment_mt_units([source_text], window_size=segment_window_size)
         else:
@@ -2552,6 +2740,7 @@ class FewshotAppBackend:
             input_kind="text",
             fewshot_count=max(0, int(fewshot_count)),
             segment_window_size=segment_window_size,
+            retrieval_backend=retrieval_backend,
             created_at=time.time(),
             units=units,
             segments=segments,
@@ -2574,11 +2763,13 @@ class FewshotAppBackend:
         *,
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
+        retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
     ) -> str:
         self._ensure_accepting_new_job()
         config = self._resolve_direction_config(direction_key)
         method_key = self._resolve_method_key(method_key)
         segment_window_size = max(1, int(segment_window_size))
+        retrieval_backend = normalize_retrieval_backend(retrieval_backend)
         pdf_file, page_count, blocks, extracted_text = extract_text_blocks_from_pdf(pdf_path)
         block_texts = [block.text for block in blocks]
         if method_key == "segment_mt":
@@ -2598,6 +2789,7 @@ class FewshotAppBackend:
             input_kind="pdf",
             fewshot_count=max(0, int(fewshot_count)),
             segment_window_size=segment_window_size,
+            retrieval_backend=retrieval_backend,
             created_at=time.time(),
             units=units,
             segments=segments,
@@ -2624,11 +2816,13 @@ class FewshotAppBackend:
         *,
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
+        retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
     ) -> str:
         self._ensure_accepting_new_job()
         config = self._resolve_direction_config(direction_key)
         method_key = self._resolve_method_key(method_key)
         segment_window_size = max(1, int(segment_window_size))
+        retrieval_backend = normalize_retrieval_backend(retrieval_backend)
         json_file, payload, json_entries, extracted_text = extract_text_entries_from_json(json_path)
         entry_texts = [entry.original_text for entry in json_entries]
         if method_key == "segment_mt":
@@ -2648,6 +2842,7 @@ class FewshotAppBackend:
             input_kind="json",
             fewshot_count=max(0, int(fewshot_count)),
             segment_window_size=segment_window_size,
+            retrieval_backend=retrieval_backend,
             created_at=time.time(),
             units=units,
             segments=segments,
@@ -2838,6 +3033,7 @@ class FewshotAppBackend:
             "block_count": job.block_count,
             "fewshot_count": job.fewshot_count,
             "segment_window_size": job.segment_window_size,
+            "retrieval_backend": job.retrieval_backend,
         }
 
     def _raise_if_job_cancelled(self, job_id: str) -> None:
@@ -2924,6 +3120,7 @@ class FewshotAppBackend:
             direction_key = job.direction_key
             method_key = job.method_key
             fewshot_count = job.fewshot_count
+            retrieval_backend = job.retrieval_backend
             segments = list(job.segments)
             units = list(job.units)
             input_kind = job.input_kind
@@ -2947,7 +3144,7 @@ class FewshotAppBackend:
             now = time.time()
             completed = len(partial_segments)
             should_force_update = completed >= len(segments)
-            if not should_force_update and now - last_preview_update_at < 0.75:
+            if not should_force_update and now - last_preview_update_at < DEFAULT_PARTIAL_PREVIEW_MIN_INTERVAL:
                 return
 
             merged_segments = list(partial_segments) + segments[completed:]
@@ -3006,6 +3203,7 @@ class FewshotAppBackend:
             segments=segments,
             fewshot_count=fewshot_count,
             method_key=method_key,
+            retrieval_backend=retrieval_backend,
             job_id=job_id,
             partial_translation_callback=update_partial_translation_preview,
         )

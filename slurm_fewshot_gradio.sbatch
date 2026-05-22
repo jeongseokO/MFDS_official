@@ -70,9 +70,15 @@ APP_METHODS="${APP_METHODS:-fewshot_baseline,segment_mt}"
 FEWSHOT_BASELINE_MODEL_KO_EN="${FEWSHOT_BASELINE_MODEL_KO_EN:-SKIML/mfds-vaivgem-ko-en-fewshot-lora}"
 FEWSHOT_BASELINE_MODEL_EN_KO="${FEWSHOT_BASELINE_MODEL_EN_KO:-SKIML/mfds-vaivgem-en-ko-fewshot-lora}"
 GRADIO_SHARE="${GRADIO_SHARE:-0}"
+MFDS_STREAMING_TRANSLATION="${MFDS_STREAMING_TRANSLATION:-1}"
+MFDS_RAW_STREAM_LOG="${MFDS_RAW_STREAM_LOG:-1}"
+MFDS_RETRIEVAL_BACKEND="${MFDS_RETRIEVAL_BACKEND:-faiss}"
 
 export FEWSHOT_APP_PROGRESS_CHUNK_SIZE="${FEWSHOT_APP_PROGRESS_CHUNK_SIZE:-${PROGRESS_CHUNK_SIZE}}"
 export FEWSHOT_APP_AUTO_BATCH_TOKEN_BUDGET="${FEWSHOT_APP_AUTO_BATCH_TOKEN_BUDGET:-${AUTO_BATCH_TOKEN_BUDGET}}"
+export MFDS_STREAMING_TRANSLATION
+export MFDS_RAW_STREAM_LOG
+export MFDS_RETRIEVAL_BACKEND
 
 if [[ ! -e "${FEWSHOT_BASELINE_MODEL_KO_EN}" && "${FEWSHOT_BASELINE_MODEL_KO_EN}" != */* ]]; then
     echo "FEWSHOT_BASELINE_MODEL_KO_EN does not look like a path or Hugging Face repo id: ${FEWSHOT_BASELINE_MODEL_KO_EN}" >&2
@@ -186,6 +192,9 @@ echo "[gradio] node=${NODE_HOST}"
 echo "[gradio] host=${GRADIO_HOST} port=${PORT}"
 echo "[gradio] directions=${APP_DIRECTIONS}"
 echo "[gradio] methods=${APP_METHODS}"
+echo "[gradio] progress_chunk_size=${PROGRESS_CHUNK_SIZE}"
+echo "[gradio] streaming_translation=${MFDS_STREAMING_TRANSLATION}"
+echo "[gradio] default_retrieval_backend=${MFDS_RETRIEVAL_BACKEND}"
 echo "[gradio] gpu_mode=${GPU_MODE} gpu_mem_util=${GPU_MEM_UTIL}"
 echo "[gradio] shared_lora=${SHARED_LORA_VALUE}"
 echo "[gradio] ko_en_gpu=${KO_EN_GPU} en_ko_gpu=${EN_KO_GPU}"

@@ -79,6 +79,20 @@ class MTRetriever:
                 )
             self._load_bm25_index()
 
+        # If BM25 index is missing but FAISS is available, bootstrap BM25 from FAISS docs.
+        if self.retrieval_backend in {"bm25", "ensemble"} and not self.bm25_docs:
+            if self.db is None and os.path.exists(self.db_path):
+                self.embedding_model = HuggingFaceEmbeddings(model_name=self.encoder)
+                self.db = FAISS.load_local(
+                    self.db_path,
+                    self.embedding_model,
+                    allow_dangerous_deserialization=True,
+                )
+            self._bootstrap_bm25_from_faiss()
+            if self.retrieval_backend == "bm25":
+                self.db = None
+                self.embedding_model = None
+
         if self.db is None and not self.bm25_docs:
             raise FileNotFoundError(
                 "Few-shot retrieval index was not found. "
@@ -86,10 +100,6 @@ class MTRetriever:
                 f"'{self.bm25_index_path}'. Set MFDS_FAISS_DB_ROOT to the prepared "
                 "index prefix described in README.md."
             )
-
-        # If BM25 index is missing but FAISS is available, bootstrap BM25 from FAISS docs.
-        if self.retrieval_backend in {"bm25", "ensemble"} and not self.bm25_docs:
-            self._bootstrap_bm25_from_faiss()
 
     @staticmethod
     def _extract_doc_id(metadata: dict[str, Any] | None) -> str | None:

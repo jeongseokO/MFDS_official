@@ -1,12 +1,14 @@
 from __future__ import annotations
 
+import asyncio
 import configparser
 import inspect
 import logging
 import os
 import tempfile
+import uuid
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable, Sequence
 
 try:
     from dotenv import load_dotenv
@@ -20,7 +22,7 @@ from transformers import AutoTokenizer
 from transformers import GenerationConfig as TransformersGenerationConfig
 from vllm import LLM, SamplingParams
 from vllm.lora.request import LoRARequest
-from vllm.sampling_params import BeamSearchParams
+from vllm.sampling_params import BeamSearchParams, RequestOutputKind
 
 
 load_dotenv()
@@ -370,6 +372,7 @@ class vllm_translator:
             "enforce_eager": _env_flag("VLLM_ENFORCE_EAGER", "1"),
             "max_model_len": int(os.environ.get("VLLM_MAX_MODEL_LEN", "4096")),
         }
+        self.max_model_len = int(llm_kwargs["max_model_len"])
 
         attention_backend = os.getenv("VLLM_ATTENTION_BACKEND", "").strip()
         if attention_backend:
@@ -445,7 +448,7 @@ class vllm_translator:
 
     def _truncate_prompts(self, text_list: list[str]) -> list[str]:
         prompts = list(text_list)
-        max_model_len = int(self.llm.llm_engine.model_config.max_model_len)
+        max_model_len = int(getattr(self, "max_model_len", self.llm.llm_engine.model_config.max_model_len))
         for idx, prompt in enumerate(prompts):
             token_ids = self.tokenizer(prompt, add_special_tokens=False)["input_ids"]
             if len(token_ids) > max_model_len - 10:
@@ -685,3 +688,292 @@ class vllm_translator:
                 lora_request=lora_request,
             )
         return self._generate_output(prompts, lora_request=lora_request)
+
+
+class vllm_async_translator:
+    def __init__(
+        self,
+        model_config: ModelConfig,
+        generation_config: GenerationConfig,
+        device: str | None = None,
+    ) -> None:
+        try:
+            from vllm import AsyncEngineArgs, AsyncLLMEngine
+        except ImportError:
+            from vllm.engine.arg_utils import AsyncEngineArgs
+            from vllm.engine.async_llm_engine import AsyncLLMEngine
+
+        self.model_config = model_config
+        self.generation_config = generation_config
+        self.device = torch.device(device or ("cuda" if torch.cuda.is_available() else "cpu"))
+        self._loop = asyncio.new_event_loop()
+
+        hf_token = _load_hf_token()
+        self.tokenizer = AutoTokenizer.from_pretrained(
+            model_config.tokenizer_id,
+            token=hf_token,
+        )
+
+        terminators = [self.tokenizer.eos_token_id]
+        if "OpenBioLLM" in self.model_config.model_id:
+            terminators.append(self.tokenizer.convert_tokens_to_ids("<|eot_id|>"))
+
+        self._base_sampling_kwargs = {
+            "max_tokens": generation_config.max_tokens,
+            "temperature": generation_config.temperature,
+            "top_p": generation_config.top_p,
+            "stop_token_ids": terminators,
+        }
+        if _env_flag("STOP_STRING_NEWLINE"):
+            self._base_sampling_kwargs["stop"] = ["\n"]
+        repetition_penalty = getattr(generation_config, "repetition_penalty", None)
+        if repetition_penalty is not None:
+            self._base_sampling_kwargs["repetition_penalty"] = repetition_penalty
+
+        self.max_model_len = int(os.environ.get("VLLM_MAX_MODEL_LEN", "4096"))
+        engine_kwargs: dict[str, Any] = {
+            "model": model_config.base_model_path,
+            "dtype": torch.bfloat16,
+            "tensor_parallel_size": generation_config.num_gpus,
+            "gpu_memory_utilization": generation_config.gpu_mem_util,
+            "enable_lora": model_config.use_lora,
+            "max_lora_rank": int(os.environ.get("VLLM_MAX_LORA_RANK", "64")),
+            "enforce_eager": _env_flag("VLLM_ENFORCE_EAGER", "1"),
+            "max_model_len": self.max_model_len,
+        }
+
+        attention_backend = os.getenv("VLLM_ATTENTION_BACKEND", "").strip()
+        if attention_backend:
+            try:
+                if "attention_config" in inspect.signature(AsyncEngineArgs).parameters:
+                    engine_kwargs["attention_config"] = {"backend": attention_backend}
+            except Exception as exc:
+                logging.warning("Could not inspect vLLM async attention_config support: %s", exc)
+
+        asyncio.set_event_loop(self._loop)
+        self.engine = AsyncLLMEngine.from_engine_args(AsyncEngineArgs(**engine_kwargs))
+        self.supports_multi_path = False
+        self._closed = False
+
+    def close(self) -> None:
+        if self._closed:
+            return
+        shutdown = getattr(getattr(self, "engine", None), "shutdown", None)
+        if shutdown is not None:
+            try:
+                result = shutdown()
+                if inspect.isawaitable(result):
+                    self._loop.run_until_complete(result)
+            except Exception as exc:
+                logging.warning("Failed to shut down async vLLM engine: %s", exc)
+        self.engine = None
+        self._closed = True
+        try:
+            self._loop.close()
+        except Exception:
+            pass
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+
+    def __del__(self) -> None:
+        try:
+            self.close()
+        except Exception:
+            pass
+
+    def apply_chat_template(self, messages_list: list[list[dict[str, str]]]) -> list[str]:
+        return [
+            self.tokenizer.apply_chat_template(
+                messages,
+                tokenize=False,
+                add_generation_prompt=True,
+            )
+            for messages in messages_list
+        ]
+
+    def _default_lora_request(self):
+        if self.model_config.use_lora:
+            return LoRARequest(
+                str(self.model_config.model_id),
+                1,
+                str(self.model_config.adapter_path),
+            )
+        return None
+
+    def _make_stream_sampling_params(self) -> SamplingParams:
+        params_kwargs = dict(self._base_sampling_kwargs)
+        params_kwargs["n"] = 1
+        params_kwargs["output_kind"] = RequestOutputKind.DELTA
+        return SamplingParams(**params_kwargs)
+
+    def _truncate_prompts(self, text_list: list[str]) -> list[str]:
+        prompts = list(text_list)
+        max_model_len = int(getattr(self, "max_model_len", 4096))
+        for idx, prompt in enumerate(prompts):
+            token_ids = self.tokenizer(prompt, add_special_tokens=False)["input_ids"]
+            if len(token_ids) > max_model_len - 10:
+                prompts[idx] = self.tokenizer.apply_chat_template(
+                    [{"role": "user", "content": ""}],
+                    tokenize=False,
+                    add_generation_prompt=True,
+                )
+        return prompts
+
+    async def _stream_prompt(
+        self,
+        *,
+        prompt: str,
+        index: int,
+        output_texts: list[str],
+        lora_request,
+        on_update: Callable[[int, str, str], None] | None,
+    ) -> str:
+        request_id = f"mfds-stream-{uuid.uuid4().hex}"
+        sampling_params = self._make_stream_sampling_params()
+        async for request_output in self.engine.generate(
+            prompt,
+            sampling_params,
+            request_id,
+            lora_request=lora_request,
+        ):
+            outputs = getattr(request_output, "outputs", []) or []
+            if not outputs:
+                continue
+            delta_text = str(getattr(outputs[0], "text", "") or "")
+            if not delta_text:
+                continue
+            output_texts[index] += delta_text
+            if on_update is not None:
+                on_update(index, output_texts[index], delta_text)
+        return output_texts[index]
+
+    async def _stream_prompts_async(
+        self,
+        prompts: Sequence[str],
+        *,
+        lora_request=None,
+        on_update: Callable[[int, str, str], None] | None = None,
+    ) -> list[str]:
+        resolved_lora_request = self._default_lora_request() if lora_request is None else lora_request
+        output_texts = ["" for _ in prompts]
+        tasks = [
+            self._stream_prompt(
+                prompt=prompt,
+                index=index,
+                output_texts=output_texts,
+                lora_request=resolved_lora_request,
+                on_update=on_update,
+            )
+            for index, prompt in enumerate(prompts)
+        ]
+        if tasks:
+            await asyncio.gather(*tasks)
+        return output_texts
+
+    def _stream_prompts(
+        self,
+        prompts: Sequence[str],
+        *,
+        lora_request=None,
+        on_update: Callable[[int, str, str], None] | None = None,
+    ) -> list[str]:
+        return self._loop.run_until_complete(
+            self._stream_prompts_async(
+                self._truncate_prompts(list(prompts)),
+                lora_request=lora_request,
+                on_update=on_update,
+            )
+        )
+
+    def create_simple_translation_messages_list(
+        self,
+        src_list: list[str],
+        source_lang: str,
+        target_lang: str,
+        **_unused,
+    ) -> list[list[dict[str, str]]]:
+        messages_list: list[list[dict[str, str]]] = []
+        for src in src_list:
+            instruction_line = (
+                f"You will be provided with a document in {source_lang}, "
+                f"and your task is to translate it into {target_lang}."
+            )
+            translate_line = "Just translate the document and don't provide any additional comments."
+            user_payload = "\n".join([instruction_line, translate_line, str(src)])
+            if self.model_config.requires_system_prompt:
+                messages = [
+                    {"role": "system", "content": "You are a translator."},
+                    {"role": "user", "content": user_payload},
+                ]
+            else:
+                messages = [{"role": "user", "content": user_payload}]
+            messages_list.append(messages)
+        return messages_list
+
+    def simple_translation(
+        self,
+        src_list: list[str],
+        source_lang: str = "Korean",
+        target_lang: str = "English",
+        multiple_path: int | None = None,
+        *,
+        lora_request=None,
+        on_update: Callable[[int, str, str], None] | None = None,
+        **_unused,
+    ):
+        if multiple_path is not None and multiple_path > 1:
+            raise ValueError("Async streaming translator does not support multiple_path generation.")
+        messages_list = self.create_simple_translation_messages_list(
+            src_list,
+            source_lang=source_lang,
+            target_lang=target_lang,
+        )
+        prompts = self.apply_chat_template(messages_list)
+        return self._stream_prompts(prompts, lora_request=lora_request, on_update=on_update)
+
+    def fewshot_singleturn_translation(
+        self,
+        src_list: list[str],
+        fewshot_list: list[list[dict[str, str]]],
+        source_lang: str = "Korean",
+        target_lang: str = "English",
+        multiple_path: int | None = None,
+        *,
+        lora_request=None,
+        on_update: Callable[[int, str, str], None] | None = None,
+        **_unused,
+    ):
+        if multiple_path is not None and multiple_path > 1:
+            raise ValueError("Async streaming translator does not support multiple_path generation.")
+        messages_list: list[list[dict[str, str]]] = []
+        for src_sent, fewshot in zip(src_list, fewshot_list):
+            system_prompt = "You are a professional translator."
+            user_prompt = (
+                f"I will give you one or more examples of text fragments, where the first one is in "
+                f"{source_lang} and the second one is the translation of the first fragment into "
+                f"{target_lang}. These sentences will be displayed below."
+            )
+            for idx, demo in enumerate(fewshot):
+                user_prompt += (
+                    f"\n{idx + 1}. {source_lang} text: {demo['src']}\n"
+                    f"{target_lang} translation: {demo['mt']}"
+                )
+            user_prompt += (
+                f"\nAfter the example pairs, I will provide a/an {source_lang} sentence and I would like "
+                f"you to translate it into {target_lang}. Please provide only the translation result "
+                f"without any additional comments, formatting, or chat content. Translate the text from "
+                f"{source_lang} to {target_lang}."
+            )
+            user_prompt += f"\nTranslate the following sentence: {src_sent}"
+
+            if self.model_config.requires_system_prompt:
+                messages = [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                ]
+            else:
+                messages = [{"role": "user", "content": system_prompt + user_prompt}]
+            messages_list.append(messages)
+
+        prompts = self.apply_chat_template(messages_list)
+        return self._stream_prompts(prompts, lora_request=lora_request, on_update=on_update)
