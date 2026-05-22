@@ -235,6 +235,10 @@ APP_CSS = """
     padding: 12px 14px;
     color: #0f172a;
 }
+.mfds-fewshot-panel summary {
+    cursor: pointer;
+    font-weight: 700;
+}
 .mfds-fewshot-panel ul {
     margin: 8px 0 0;
     padding-left: 20px;
@@ -248,6 +252,8 @@ APP_CSS = """
     border-radius: 6px;
     background: #f8fafc;
     color: #111827;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
 }
 .mfds-fewshot-table {
     width: 100%;
@@ -262,6 +268,7 @@ APP_CSS = """
     padding: 7px 8px;
     vertical-align: top;
     overflow-wrap: anywhere;
+    white-space: pre-wrap;
 }
 .mfds-fewshot-table th {
     background: #f1f5f9;
@@ -538,21 +545,20 @@ def build_demo(
         "fewshot_count": 3,
         "segment_window_size": 1,
         "retrieval_backend": default_retrieval_backend,
+        "show_fewshot_examples": True,
     }
     preview_state_defaults = {
         "job_id": "",
         "completed_segments": -1,
+        "translation_revision": -1,
         "state": "",
         "translated_file_path": "",
     }
     UNCHANGED = object()
     fewshot_preview_cache: dict[tuple[str, int, str, str], str] = {}
 
-    def compact_preview_text(value: object, *, max_chars: int = 220) -> str:
-        text = " ".join(str(value or "").split())
-        if len(text) <= max_chars:
-            return text
-        return text[: max_chars - 1].rstrip() + "..."
+    def compact_preview_text(value: object) -> str:
+        return str(value or "").strip()
 
     def render_fewshot_preview_html(
         preview_rows: list[dict[str, object]],
@@ -611,13 +617,13 @@ def build_demo(
             meta = f"Source segments: {total_segments}"
 
         return (
-            "<div class=\"mfds-fewshot-panel\">"
-            "<b>Retrieved Few-shot Examples</b>"
+            "<details class=\"mfds-fewshot-panel\" open>"
+            "<summary>Retrieved Few-Shot Examples</summary>"
             f"<div class=\"mfds-fewshot-meta\">{escape(meta)}</div>"
             "<ul>"
             + "".join(items)
             + "</ul>"
-            "</div>"
+            "</details>"
         )
 
     def build_fewshot_preview_update(
@@ -627,10 +633,13 @@ def build_demo(
         method_key: str,
         fewshot_count: int,
         retrieval_backend: str,
+        show_examples: bool,
         busy: bool,
     ) -> object:
         if method_key != "fewshot_baseline":
             return gr.update(visible=False, value="")
+        if not show_examples:
+            return gr.update(visible=False)
         if busy:
             return gr.update(visible=True)
 
@@ -674,12 +683,12 @@ def build_demo(
             )
         except Exception as exc:
             html = (
-                "<div class=\"mfds-fewshot-panel\">"
-                "<b>Retrieved Few-shot Examples</b>"
+                "<details class=\"mfds-fewshot-panel\" open>"
+                "<summary>Retrieved Few-Shot Examples</summary>"
                 "<ul>"
                 f"<li>{escape(str(exc))}</li>"
                 "</ul>"
-                "</div>"
+                "</details>"
             )
         fewshot_preview_cache[cache_key] = html
         if len(fewshot_preview_cache) > 32:
@@ -711,6 +720,12 @@ def build_demo(
         if retrieval_backend not in RETRIEVAL_BACKEND_LABELS:
             retrieval_backend = default_retrieval_backend
 
+        raw_show_fewshot_examples = normalized.get("show_fewshot_examples", True)
+        if isinstance(raw_show_fewshot_examples, str):
+            show_fewshot_examples = raw_show_fewshot_examples.strip().lower() not in {"0", "false", "no", "off"}
+        else:
+            show_fewshot_examples = bool(raw_show_fewshot_examples)
+
         try:
             fewshot_count = int(normalized.get("fewshot_count", 3) or 3)
         except (TypeError, ValueError):
@@ -738,6 +753,7 @@ def build_demo(
                 "fewshot_count": fewshot_count,
                 "segment_window_size": segment_window_size,
                 "retrieval_backend": retrieval_backend,
+                "show_fewshot_examples": show_fewshot_examples,
             }
         )
         return normalized
@@ -750,6 +766,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
     ) -> dict[str, object]:
         normalized = normalize_browser_session(
             {
@@ -760,6 +777,7 @@ def build_demo(
                 "fewshot_count": fewshot_count,
                 "segment_window_size": segment_window_size,
                 "retrieval_backend": retrieval_backend,
+                "show_fewshot_examples": show_fewshot_examples,
             }
         )
         normalized["current_job_id"] = CLEARED_JOB_STATE if current_job_id == CLEARED_JOB_STATE else str(current_job_id or "").strip()
@@ -775,11 +793,16 @@ def build_demo(
             completed_segments = int(normalized.get("completed_segments", -1) or -1)
         except (TypeError, ValueError):
             completed_segments = -1
+        try:
+            translation_revision = int(normalized.get("translation_revision", -1) or -1)
+        except (TypeError, ValueError):
+            translation_revision = -1
 
         normalized.update(
             {
                 "job_id": str(normalized.get("job_id", "") or "").strip(),
                 "completed_segments": completed_segments,
+                "translation_revision": translation_revision,
                 "state": str(normalized.get("state", "") or "").strip(),
                 "translated_file_path": str(normalized.get("translated_file_path", "") or "").strip(),
             }
@@ -796,6 +819,7 @@ def build_demo(
             {
                 "job_id": job_id or str(snapshot.get("job_id", "") or ""),
                 "completed_segments": int(snapshot.get("completed_segments", 0) or 0),
+                "translation_revision": int(snapshot.get("translation_revision", 0) or 0),
                 "state": str(snapshot.get("state", "") or ""),
                 "translated_file_path": str(snapshot.get("translated_file_path", "") or ""),
             }
@@ -803,7 +827,7 @@ def build_demo(
 
     def restore_browser_session(
         browser_session: dict[str, object] | None,
-    ) -> tuple[dict[str, object], str, str, str, str, int, int, str, str]:
+    ) -> tuple[dict[str, object], str, str, str, str, int, int, str, bool, str]:
         normalized = normalize_browser_session(browser_session)
         tracked_job_id = str(normalized.get("current_job_id", "") or "")
         manual_text = str(normalized.get("manual_text", "") or "")
@@ -823,6 +847,7 @@ def build_demo(
             int(normalized.get("fewshot_count", 3) or 3),
             int(normalized.get("segment_window_size", 1) or 1),
             str(normalized.get("retrieval_backend", default_retrieval_backend)),
+            bool(normalized.get("show_fewshot_examples", True)),
             manual_text,
         )
 
@@ -917,6 +942,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         status_text: str,
         translation_value: object = UNCHANGED,
         translated_file_value: object = UNCHANGED,
@@ -973,12 +999,18 @@ def build_demo(
             method_key=method_key,
             fewshot_count=fewshot_count,
             retrieval_backend=retrieval_backend,
+            show_examples=show_fewshot_examples,
             busy=busy,
         )
         retrieval_update = gr.update(
             value=retrieval_backend,
             visible=is_fewshot,
             interactive=not busy,
+        )
+        show_fewshot_examples_update = gr.update(
+            value=show_fewshot_examples,
+            visible=is_fewshot,
+            interactive=True,
         )
 
         return (
@@ -999,6 +1031,7 @@ def build_demo(
                 fewshot_count,
                 segment_window_size,
                 retrieval_backend,
+                show_fewshot_examples,
             ),
             source_value,
             direction_update,
@@ -1013,6 +1046,7 @@ def build_demo(
             gr.update(interactive=not busy),
             retrieval_update,
             fewshot_preview_update,
+            show_fewshot_examples_update,
         )
 
     def refresh_ui(
@@ -1023,6 +1057,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
         source_preview_state: str,
     ) -> tuple[object, ...]:
@@ -1038,6 +1073,7 @@ def build_demo(
                 fewshot_count=fewshot_count,
                 segment_window_size=segment_window_size,
                 retrieval_backend=retrieval_backend,
+                show_fewshot_examples=show_fewshot_examples,
                 status_text="",
                 translation_value="",
                 translated_file_value=None,
@@ -1055,6 +1091,7 @@ def build_demo(
                 fewshot_count=fewshot_count,
                 segment_window_size=segment_window_size,
                 retrieval_backend=retrieval_backend,
+                show_fewshot_examples=show_fewshot_examples,
                 status_text="",
             )
 
@@ -1064,6 +1101,8 @@ def build_demo(
             str(current_preview_state.get("job_id", "") or "") != str(next_preview_state.get("job_id", "") or "")
             or int(current_preview_state.get("completed_segments", -1) or -1)
             != int(next_preview_state.get("completed_segments", -1) or -1)
+            or int(current_preview_state.get("translation_revision", -1) or -1)
+            != int(next_preview_state.get("translation_revision", -1) or -1)
             or str(current_preview_state.get("state", "") or "") != str(next_preview_state.get("state", "") or "")
             or str(current_preview_state.get("translated_file_path", "") or "")
             != str(next_preview_state.get("translated_file_path", "") or "")
@@ -1093,6 +1132,7 @@ def build_demo(
             fewshot_count=fewshot_count,
             segment_window_size=segment_window_size,
             retrieval_backend=str(snapshot.get("retrieval_backend", retrieval_backend) or retrieval_backend),
+            show_fewshot_examples=show_fewshot_examples,
             status_text=status_text,
             translation_value=translation_value,
             translated_file_value=translated_file_value,
@@ -1106,6 +1146,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
         source_preview_state: str,
     ) -> tuple[object, ...]:
@@ -1118,6 +1159,7 @@ def build_demo(
                 fewshot_count,
                 segment_window_size,
                 retrieval_backend,
+                show_fewshot_examples,
                 preview_state,
                 source_preview_state,
             )
@@ -1130,6 +1172,7 @@ def build_demo(
             result[7] = gr.skip()
             result[10] = gr.skip()
             result[22] = gr.skip()
+            result[23] = gr.skip()
         return tuple(result)
 
     def build_document_preview_update(
@@ -1142,6 +1185,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
         processing: bool,
     ) -> tuple[object, ...]:
@@ -1154,6 +1198,7 @@ def build_demo(
                 fewshot_count,
                 segment_window_size,
                 retrieval_backend,
+                show_fewshot_examples,
                 preview_state,
                 source_preview,
             )
@@ -1177,6 +1222,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
     ) -> tuple[object, ...]:
         return refresh_ui(
@@ -1187,6 +1233,7 @@ def build_demo(
             fewshot_count,
             segment_window_size,
             retrieval_backend,
+            show_fewshot_examples,
             preview_state,
             manual_text,
         )
@@ -1199,6 +1246,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
     ):
         resolved_path = resolve_uploaded_file_path(input_file_path)
@@ -1212,6 +1260,7 @@ def build_demo(
                 fewshot_count=fewshot_count,
                 segment_window_size=segment_window_size,
                 retrieval_backend=retrieval_backend,
+                show_fewshot_examples=show_fewshot_examples,
                 preview_state=preview_state,
                 processing=False,
             )
@@ -1229,6 +1278,7 @@ def build_demo(
                 fewshot_count=fewshot_count,
                 segment_window_size=segment_window_size,
                 retrieval_backend=retrieval_backend,
+                show_fewshot_examples=show_fewshot_examples,
                 preview_state=preview_state,
                 processing=False,
             )
@@ -1255,6 +1305,7 @@ def build_demo(
             fewshot_count=fewshot_count,
             segment_window_size=segment_window_size,
             retrieval_backend=retrieval_backend,
+            show_fewshot_examples=show_fewshot_examples,
             preview_state=preview_state,
             processing=True,
         )
@@ -1283,6 +1334,7 @@ def build_demo(
                     fewshot_count=fewshot_count,
                     segment_window_size=segment_window_size,
                     retrieval_backend=retrieval_backend,
+                    show_fewshot_examples=show_fewshot_examples,
                     preview_state=preview_state,
                     processing=True,
                 )
@@ -1299,6 +1351,7 @@ def build_demo(
                     fewshot_count=fewshot_count,
                     segment_window_size=segment_window_size,
                     retrieval_backend=retrieval_backend,
+                    show_fewshot_examples=show_fewshot_examples,
                     preview_state=preview_state,
                     processing=False,
                 )
@@ -1314,6 +1367,7 @@ def build_demo(
                     fewshot_count=fewshot_count,
                     segment_window_size=segment_window_size,
                     retrieval_backend=retrieval_backend,
+                    show_fewshot_examples=show_fewshot_examples,
                     preview_state=preview_state,
                     processing=False,
                 )
@@ -1326,6 +1380,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
     ) -> tuple[object, ...]:
         active_job_id, active_snapshot = get_active_snapshot()
@@ -1339,6 +1394,7 @@ def build_demo(
                     fewshot_count,
                     segment_window_size,
                     retrieval_backend,
+                    show_fewshot_examples,
                     preview_state,
                     manual_text,
                 )
@@ -1368,6 +1424,7 @@ def build_demo(
                     fewshot_count,
                     segment_window_size,
                     retrieval_backend,
+                    show_fewshot_examples,
                     preview_state,
                     manual_text,
                 )
@@ -1384,6 +1441,7 @@ def build_demo(
                 fewshot_count,
                 segment_window_size,
                 retrieval_backend,
+                show_fewshot_examples,
                 preview_state,
                 manual_text,
             )
@@ -1401,6 +1459,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
         source_preview_state: str,
     ) -> tuple[object, ...]:
@@ -1415,6 +1474,7 @@ def build_demo(
                     fewshot_count,
                     segment_window_size,
                     retrieval_backend,
+                    show_fewshot_examples,
                     preview_state,
                     source_preview_state,
                 )
@@ -1467,6 +1527,7 @@ def build_demo(
                     fewshot_count,
                     segment_window_size,
                     retrieval_backend,
+                    show_fewshot_examples,
                     preview_state,
                     source_preview,
                 )
@@ -1483,6 +1544,7 @@ def build_demo(
                 fewshot_count,
                 segment_window_size,
                 retrieval_backend,
+                show_fewshot_examples,
                 preview_state,
                 source_preview,
             )
@@ -1499,6 +1561,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
         source_preview_state: str,
     ) -> tuple[object, ...]:
@@ -1513,6 +1576,7 @@ def build_demo(
                     fewshot_count,
                     segment_window_size,
                     retrieval_backend,
+                    show_fewshot_examples,
                     preview_state,
                     source_preview_state,
                 )
@@ -1532,6 +1596,7 @@ def build_demo(
                     fewshot_count,
                     segment_window_size,
                     retrieval_backend,
+                    show_fewshot_examples,
                     preview_state,
                     source_preview_state,
                 )
@@ -1548,6 +1613,7 @@ def build_demo(
                 fewshot_count,
                 segment_window_size,
                 retrieval_backend,
+                show_fewshot_examples,
                 preview_state,
                 source_preview_state,
             )
@@ -1561,6 +1627,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        show_fewshot_examples: bool,
     ) -> tuple[object, ...]:
         return compose_ui_state(
             tracked_job_id=CLEARED_JOB_STATE,
@@ -1572,6 +1639,7 @@ def build_demo(
             fewshot_count=fewshot_count,
             segment_window_size=segment_window_size,
             retrieval_backend=retrieval_backend,
+            show_fewshot_examples=show_fewshot_examples,
             status_text="",
             translation_value="",
             translated_file_value=None,
@@ -1642,6 +1710,11 @@ def build_demo(
             choices=retrieval_choices,
             value=default_retrieval_backend,
             label="Few-shot retriever",
+            visible=default_method_key == "fewshot_baseline",
+        )
+        show_fewshot_examples_checkbox = gr.Checkbox(
+            value=True,
+            label="Show retrieved few-shot examples",
             visible=default_method_key == "fewshot_baseline",
         )
 
@@ -1730,6 +1803,7 @@ def build_demo(
             clear_button,
             retrieval_backend_radio,
             fewshot_examples_box,
+            show_fewshot_examples_checkbox,
         ]
 
         load_event = demo.load(
@@ -1744,6 +1818,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 source_preview_state,
             ],
         )
@@ -1757,6 +1832,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],
@@ -1773,6 +1849,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],
@@ -1789,6 +1866,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],
@@ -1805,6 +1883,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],
@@ -1821,6 +1900,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],
@@ -1837,6 +1917,24 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
+                preview_state,
+                source_preview_state,
+            ],
+            outputs=standard_outputs,
+            concurrency_limit=1,
+        )
+        show_fewshot_examples_checkbox.change(
+            fn=refresh_ui,
+            inputs=[
+                current_job_state,
+                manual_text_box,
+                direction_radio,
+                method_radio,
+                fewshot_slider,
+                segment_window_slider,
+                retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],
@@ -1852,6 +1950,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
             ],
             outputs=standard_outputs,
@@ -1867,6 +1966,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
             ],
             outputs=standard_outputs,
@@ -1881,6 +1981,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
             ],
             outputs=standard_outputs,
@@ -1895,6 +1996,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
             ],
             outputs=standard_outputs,
@@ -1910,6 +2012,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],
@@ -1926,6 +2029,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],
@@ -1934,7 +2038,14 @@ def build_demo(
         )
         clear_button.click(
             fn=clear_form,
-            inputs=[direction_radio, method_radio, fewshot_slider, segment_window_slider, retrieval_backend_radio],
+            inputs=[
+                direction_radio,
+                method_radio,
+                fewshot_slider,
+                segment_window_slider,
+                retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
+            ],
             outputs=standard_outputs,
             concurrency_limit=1,
         )
@@ -1948,6 +2059,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
             ],

@@ -225,6 +225,7 @@ class TranslationJob:
     completed_segments: int = 0
     progress_percent: float = 0.0
     translation: str = ""
+    translation_revision: int = 0
     translated_file_path: str | None = None
     translated_pdf_path: str | None = None
     error: str = ""
@@ -327,6 +328,7 @@ def _serialize_job(job: TranslationJob) -> dict[str, Any]:
         "completed_segments": job.completed_segments,
         "progress_percent": job.progress_percent,
         "translation": job.translation,
+        "translation_revision": job.translation_revision,
         "translated_file_path": job.translated_file_path,
         "translated_pdf_path": job.translated_pdf_path,
         "error": job.error,
@@ -364,6 +366,7 @@ def _deserialize_job(data: dict[str, Any]) -> TranslationJob:
         completed_segments=int(data.get("completed_segments", 0) or 0),
         progress_percent=float(data.get("progress_percent", 0.0) or 0.0),
         translation=str(data.get("translation", "") or ""),
+        translation_revision=int(data.get("translation_revision", 0) or 0),
         translated_file_path=data.get("translated_file_path"),
         translated_pdf_path=data.get("translated_pdf_path"),
         error=str(data.get("error", "") or ""),
@@ -2238,6 +2241,7 @@ class FewshotAppBackend:
                 job.completed_segments = 0
                 job.progress_percent = 0.0
                 job.translation = ""
+                job.translation_revision += 1
                 job.translated_file_path = None
                 job.translated_pdf_path = None
                 recovered_ids.append((job.created_at, job.direction_key, job.job_id))
@@ -3022,6 +3026,7 @@ class FewshotAppBackend:
             "queue_position": queue_position,
             "can_cancel": job.state in {"queued", "running", "cancelling"},
             "translation": job.translation,
+            "translation_revision": job.translation_revision,
             "translated_file_path": job.translated_file_path or job.translated_pdf_path,
             "translated_pdf_path": job.translated_pdf_path,
             "extracted_text": job.extracted_text,
@@ -3186,6 +3191,7 @@ class FewshotAppBackend:
                 if job is None:
                     return
                 job.translation = preview_text
+                job.translation_revision += 1
                 if partial_file_path:
                     job.translated_file_path = partial_file_path
                     if input_kind == "pdf":
@@ -3260,6 +3266,7 @@ class FewshotAppBackend:
         with self._job_lock:
             job = self._jobs[job_id]
             job.translation = merged_translation
+            job.translation_revision += 1
             job.translated_file_path = translated_file_path
             job.translated_pdf_path = translated_pdf_path
             job.completed_segments = job.total_segments
