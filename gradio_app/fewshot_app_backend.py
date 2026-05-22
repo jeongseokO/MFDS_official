@@ -222,6 +222,7 @@ class TranslationJob:
     created_at: float
     units: list[PreparedTextUnit]
     segments: list[str]
+    manual_fewshots: list[list[dict[str, str]]] = field(default_factory=list)
     extracted_text: str = ""
     pdf_source_path: str | None = None
     pdf_blocks: list[PdfTextBlock] = field(default_factory=list)
@@ -311,6 +312,143 @@ def _deserialize_json_entry(data: dict[str, Any]) -> JsonTextEntry:
     )
 
 
+def _sanitize_manual_fewshots(
+    raw_fewshots: object,
+    total_segments: int,
+) -> list[list[dict[str, str]]]:
+    segment_count = max(0, int(total_segments))
+    sanitized = [[] for _ in range(segment_count)]
+    if not isinstance(raw_fewshots, Sequence) or isinstance(raw_fewshots, (str, bytes)):
+        return sanitized
+
+    for segment_index, examples in enumerate(list(raw_fewshots)[:segment_count]):
+        if not isinstance(examples, Sequence) or isinstance(examples, (str, bytes)):
+            continue
+        for example in examples:
+            if not isinstance(example, dict):
+                continue
+            src = str(example.get("src", "") or "").strip()
+            mt = str(example.get("mt", "") or "").strip()
+            if src and mt:
+                sanitized[segment_index].append({"src": src, "mt": mt})
+    return sanitized
+
+
+def _iter_manual_fewshot_editor_rows(raw_rows: object) -> list[dict[str, object]]:
+    if raw_rows is None:
+        return []
+    if hasattr(raw_rows, "to_dict"):
+        try:
+            records = raw_rows.to_dict("records")
+            if isinstance(records, list):
+                return [row for row in records if isinstance(row, dict)]
+        except Exception:
+            return []
+    if isinstance(raw_rows, dict):
+        data = raw_rows.get("data")
+        headers = raw_rows.get("headers") or raw_rows.get("columns")
+        if isinstance(data, list):
+            if isinstance(headers, list):
+                return [
+                    {str(header): row[index] if index < len(row) else "" for index, header in enumerate(headers)}
+                    for row in data
+                    if isinstance(row, list)
+                ]
+            raw_rows = data
+        else:
+            return []
+    if not isinstance(raw_rows, list):
+        return []
+
+    rows: list[dict[str, object]] = []
+    for row in raw_rows:
+        if isinstance(row, dict):
+            rows.append(row)
+        elif isinstance(row, list):
+            rows.append(
+                {
+                    "segment_index": row[0] if len(row) > 0 else "",
+                    "example_index": row[1] if len(row) > 1 else "",
+                    "segment": row[2] if len(row) > 2 else "",
+                    "src": row[3] if len(row) > 3 else "",
+                    "mt": row[4] if len(row) > 4 else "",
+                }
+            )
+    return rows
+
+
+def _parse_int_cell(value: object) -> int | None:
+    try:
+        if _is_missing_cell(value) or str(value).strip() == "":
+            return None
+        return int(float(str(value).strip()))
+    except (TypeError, ValueError):
+        return None
+
+
+def _is_missing_cell(value: object) -> bool:
+    if value is None:
+        return True
+    try:
+        return bool(value != value)
+    except Exception:
+        return False
+
+
+def _cell_text(value: object) -> str:
+    if _is_missing_cell(value):
+        return ""
+    return str(value or "").strip()
+
+
+def _first_nonempty_cell(row: dict[str, object], *keys: str) -> str:
+    for key in keys:
+        value = _cell_text(row.get(key, ""))
+        if value:
+            return value
+    return ""
+
+
+def _manual_fewshots_from_editor_rows(
+    raw_rows: object,
+    segments: Sequence[str],
+) -> list[list[dict[str, str]]]:
+    rows = _iter_manual_fewshot_editor_rows(raw_rows)
+    manual_fewshots: list[list[tuple[int, dict[str, str]]]] = [[] for _ in segments]
+    segment_lookup: dict[str, int] = {}
+    for index, segment in enumerate(segments):
+        segment_lookup.setdefault(_cell_text(segment), index)
+
+    for row in rows:
+        src = _first_nonempty_cell(row, "src", "Few-shot source")
+        mt = _first_nonempty_cell(row, "mt", "Few-shot target")
+        if not src and not mt:
+            continue
+        if not src or not mt:
+            raise ValueError("Edited few-shot rows must include both source and target text.")
+
+        segment_index = _parse_int_cell(row.get("segment_index", row.get("Segment #")))
+        segment_text = _first_nonempty_cell(row, "segment", "Input segment")
+        if segment_text:
+            candidate_index = segment_index - 1 if segment_index is not None else -1
+            if 0 <= candidate_index < len(segments) and _cell_text(segments[candidate_index]) == segment_text:
+                resolved_index = candidate_index
+            else:
+                resolved_index = segment_lookup.get(segment_text, -1)
+        else:
+            resolved_index = segment_index - 1 if segment_index is not None else -1
+        if resolved_index < 0 or resolved_index >= len(segments):
+            raise ValueError("Edited few-shot row references a source segment that no longer exists.")
+
+        example_index = _parse_int_cell(row.get("example_index", row.get("Example #"))) or 10_000
+        manual_fewshots[resolved_index].append((example_index, {"src": src, "mt": mt}))
+
+    return [
+        [example for _, example in sorted(examples, key=lambda item: item[0])]
+        for examples in manual_fewshots
+    ]
+
+
 def _serialize_job(job: TranslationJob) -> dict[str, Any]:
     return {
         "job_id": job.job_id,
@@ -326,6 +464,7 @@ def _serialize_job(job: TranslationJob) -> dict[str, Any]:
         "created_at": job.created_at,
         "units": [_serialize_prepared_unit(unit) for unit in job.units],
         "segments": list(job.segments),
+        "manual_fewshots": copy.deepcopy(job.manual_fewshots),
         "extracted_text": job.extracted_text,
         "pdf_source_path": job.pdf_source_path,
         "pdf_blocks": [_serialize_pdf_block(block) for block in job.pdf_blocks],
@@ -365,6 +504,7 @@ def _deserialize_job(data: dict[str, Any]) -> TranslationJob:
         created_at=float(data.get("created_at", 0.0) or 0.0),
         units=[_deserialize_prepared_unit(item) for item in (data.get("units", []) or []) if isinstance(item, dict)],
         segments=[str(item) for item in (data.get("segments", []) or [])],
+        manual_fewshots=_sanitize_manual_fewshots(data.get("manual_fewshots"), len(data.get("segments", []) or [])),
         extracted_text=str(data.get("extracted_text", "") or ""),
         pdf_source_path=data.get("pdf_source_path"),
         pdf_blocks=[_deserialize_pdf_block(item) for item in (data.get("pdf_blocks", []) or []) if isinstance(item, dict)],
@@ -1874,6 +2014,7 @@ class _DirectionWorkerBackend:
         fewshot_count: int,
         method_key: str,
         retrieval_backend: str,
+        manual_fewshots: Sequence[Sequence[dict[str, str]]] | None = None,
         stream_callback: Callable[[Sequence[str]], None] | None = None,
     ) -> List[str]:
         clean_segments = [segment.strip() for segment in segments if isinstance(segment, str) and segment.strip()]
@@ -1883,6 +2024,7 @@ class _DirectionWorkerBackend:
         all_outputs: List[str] = []
         partial_outputs = ["" for _ in clean_segments]
         normalized_retrieval_backend = normalize_retrieval_backend(retrieval_backend)
+        normalized_manual_fewshots = _sanitize_manual_fewshots(manual_fewshots, len(clean_segments))
 
         def handle_stream_update(segment_offset: int, raw_text: str, delta_text: str) -> None:
             partial_outputs[segment_offset] = _normalize_streaming_segment_text(raw_text)
@@ -1901,6 +2043,9 @@ class _DirectionWorkerBackend:
                 fewshot_count,
                 normalized_retrieval_backend,
             )
+            for index, examples in enumerate(normalized_manual_fewshots):
+                if examples:
+                    all_fewshots[index] = examples[: max(0, int(fewshot_count))]
             token_counts = [
                 self._estimate_prompt_tokens_for_fewshot(segment, fewshot)
                 for segment, fewshot in zip(clean_segments, all_fewshots)
@@ -2062,6 +2207,7 @@ class _SharedLoraWorkerBackend:
         fewshot_count: int,
         method_key: str,
         retrieval_backend: str,
+        manual_fewshots: Sequence[Sequence[dict[str, str]]] | None = None,
         stream_callback: Callable[[Sequence[str]], None] | None = None,
     ) -> List[str]:
         if direction_key not in self._backends:
@@ -2071,6 +2217,7 @@ class _SharedLoraWorkerBackend:
             fewshot_count,
             method_key,
             retrieval_backend,
+            manual_fewshots=manual_fewshots,
             stream_callback=stream_callback,
         )
 
@@ -2135,6 +2282,7 @@ def _worker_main(config: DirectionConfig, request_queue: mp.Queue, response_queu
                         int(message["fewshot_count"]),
                         str(message.get("method_key", "fewshot_baseline")),
                         str(message.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND)),
+                        manual_fewshots=message.get("manual_fewshots"),
                         stream_callback=emit_stream_update if streaming_enabled else None,
                     )
                     response_queue.put(
@@ -2225,6 +2373,7 @@ def _shared_lora_worker_main(
                         int(message["fewshot_count"]),
                         str(message.get("method_key", "fewshot_baseline")),
                         str(message.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND)),
+                        manual_fewshots=message.get("manual_fewshots"),
                         stream_callback=emit_stream_update if streaming_enabled else None,
                     )
                     response_queue.put(
@@ -2520,6 +2669,7 @@ class FewshotAppBackend:
         fewshot_count: int,
         method_key: str,
         retrieval_backend: str,
+        manual_fewshots: Sequence[Sequence[dict[str, str]]] | None = None,
         stream_callback: Callable[[Sequence[str]], None] | None = None,
     ) -> list[str]:
         if not segments:
@@ -2539,6 +2689,7 @@ class FewshotAppBackend:
                     "fewshot_count": int(fewshot_count),
                     "method_key": str(method_key),
                     "retrieval_backend": normalize_retrieval_backend(retrieval_backend),
+                    "manual_fewshots": _sanitize_manual_fewshots(manual_fewshots, len(segments)),
                     "streaming_enabled": stream_callback is not None,
                 }
             )
@@ -2657,6 +2808,7 @@ class FewshotAppBackend:
         fewshot_count: int,
         method_key: str,
         retrieval_backend: str,
+        manual_fewshots: Sequence[Sequence[dict[str, str]]] | None = None,
         progress_callback: Callable[[float, str], None] | None = None,
         job_id: str | None = None,
         partial_translation_callback: Callable[[Sequence[str]], None] | None = None,
@@ -2679,6 +2831,11 @@ class FewshotAppBackend:
                 self._raise_if_job_cancelled(job_id)
             end = min(total_segments, start + chunk_size)
             batch_segments = segments[start:end]
+            batch_manual_fewshots = (
+                list(manual_fewshots[start:end])
+                if manual_fewshots is not None
+                else None
+            )
 
             def handle_batch_stream(batch_partial: Sequence[str]) -> None:
                 if partial_translation_callback is None:
@@ -2695,6 +2852,7 @@ class FewshotAppBackend:
                 fewshot_count,
                 method_key,
                 retrieval_backend,
+                manual_fewshots=batch_manual_fewshots,
                 stream_callback=handle_batch_stream if partial_translation_callback is not None else None,
             )
             translated_segments.extend(batch_translation)
@@ -2889,6 +3047,7 @@ class FewshotAppBackend:
         segment_window_size: int = 1,
         retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
         streaming_enabled: bool = DEFAULT_STREAMING_TRANSLATION,
+        manual_fewshot_rows: object = None,
     ) -> str:
         source_text = (text or "").strip()
         if not source_text:
@@ -2905,6 +3064,7 @@ class FewshotAppBackend:
             units, segments = prepare_text_units([source_text])
         if not segments:
             raise ValueError("Could not extract sentence segments from the input.")
+        manual_fewshots = _manual_fewshots_from_editor_rows(manual_fewshot_rows, segments)
 
         job_id = uuid.uuid4().hex[:12]
         job = TranslationJob(
@@ -2921,6 +3081,7 @@ class FewshotAppBackend:
             created_at=time.time(),
             units=units,
             segments=segments,
+            manual_fewshots=manual_fewshots,
             extracted_text=source_text,
             total_segments=len(segments),
             stage="Queued",
@@ -2942,6 +3103,7 @@ class FewshotAppBackend:
         segment_window_size: int = 1,
         retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
         streaming_enabled: bool = DEFAULT_STREAMING_TRANSLATION,
+        manual_fewshot_rows: object = None,
     ) -> str:
         self._ensure_accepting_new_job()
         config = self._resolve_direction_config(direction_key)
@@ -2956,6 +3118,7 @@ class FewshotAppBackend:
             units, segments = prepare_text_units(block_texts)
         if not segments:
             raise ValueError("Could not extract sentence segments from the PDF text blocks.")
+        manual_fewshots = _manual_fewshots_from_editor_rows(manual_fewshot_rows, segments)
 
         job_id = uuid.uuid4().hex[:12]
         job = TranslationJob(
@@ -2972,6 +3135,7 @@ class FewshotAppBackend:
             created_at=time.time(),
             units=units,
             segments=segments,
+            manual_fewshots=manual_fewshots,
             extracted_text=extracted_text,
             pdf_source_path=str(pdf_file),
             pdf_blocks=list(blocks),
@@ -2997,6 +3161,7 @@ class FewshotAppBackend:
         segment_window_size: int = 1,
         retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
         streaming_enabled: bool = DEFAULT_STREAMING_TRANSLATION,
+        manual_fewshot_rows: object = None,
     ) -> str:
         self._ensure_accepting_new_job()
         config = self._resolve_direction_config(direction_key)
@@ -3011,6 +3176,7 @@ class FewshotAppBackend:
             units, segments = prepare_text_units(entry_texts)
         if not segments:
             raise ValueError("Could not extract sentence segments from the JSON string values.")
+        manual_fewshots = _manual_fewshots_from_editor_rows(manual_fewshot_rows, segments)
 
         job_id = uuid.uuid4().hex[:12]
         job = TranslationJob(
@@ -3027,6 +3193,7 @@ class FewshotAppBackend:
             created_at=time.time(),
             units=units,
             segments=segments,
+            manual_fewshots=manual_fewshots,
             extracted_text=extracted_text,
             json_source_path=str(json_file),
             json_payload=payload,
@@ -3306,6 +3473,7 @@ class FewshotAppBackend:
             retrieval_backend = job.retrieval_backend
             streaming_enabled = job.streaming_enabled
             segments = list(job.segments)
+            manual_fewshots = copy.deepcopy(job.manual_fewshots)
             units = list(job.units)
             input_kind = job.input_kind
             pdf_blocks = list(job.pdf_blocks)
@@ -3389,6 +3557,7 @@ class FewshotAppBackend:
             fewshot_count=fewshot_count,
             method_key=method_key,
             retrieval_backend=retrieval_backend,
+            manual_fewshots=manual_fewshots,
             job_id=job_id,
             partial_translation_callback=update_partial_translation_preview if streaming_enabled else None,
         )

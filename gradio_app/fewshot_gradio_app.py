@@ -113,6 +113,13 @@ BROWSER_STATE_SECRET = os.environ.get(
     "mfds-fewshot-browser-state-secret-v1",
 )
 FEWSHOT_PREVIEW_SEGMENT_LIMIT = 3
+FEWSHOT_EDITOR_HEADERS = [
+    "Segment #",
+    "Example #",
+    "Input segment",
+    "Few-shot source",
+    "Few-shot target",
+]
 REFRESH_INTERVAL_SECONDS = float(os.environ.get("MFDS_GRADIO_REFRESH_INTERVAL", "0.25"))
 
 APP_CSS = """
@@ -560,7 +567,7 @@ def build_demo(
         "translated_file_path": "",
     }
     UNCHANGED = object()
-    fewshot_preview_cache: dict[tuple[str, int, str, str], str] = {}
+    fewshot_preview_cache: dict[tuple[str, int, str, str], tuple[str, list[list[object]]]] = {}
 
     def compact_preview_text(value: object) -> str:
         return str(value or "").strip()
@@ -631,6 +638,27 @@ def build_demo(
             "</details>"
         )
 
+    def build_fewshot_editor_rows(preview_rows: list[dict[str, object]]) -> list[list[object]]:
+        rows: list[list[object]] = []
+        for segment_index, row in enumerate(preview_rows, start=1):
+            segment = compact_preview_text(row.get("segment", ""))
+            examples = row.get("examples", [])
+            if not isinstance(examples, list):
+                continue
+            for example_index, example in enumerate(examples, start=1):
+                if not isinstance(example, dict):
+                    continue
+                rows.append(
+                    [
+                        segment_index,
+                        example_index,
+                        segment,
+                        compact_preview_text(example.get("src", "")),
+                        compact_preview_text(example.get("mt", "")),
+                    ]
+                )
+        return rows
+
     def build_fewshot_preview_update(
         *,
         source_text: str,
@@ -640,20 +668,20 @@ def build_demo(
         retrieval_backend: str,
         show_examples: bool,
         busy: bool,
-    ) -> object:
+    ) -> tuple[object, object]:
         if method_key != "fewshot_baseline":
-            return gr.update(visible=False, value="")
+            return gr.update(visible=False, value=""), gr.update(visible=False, value=[])
         if not show_examples:
-            return gr.update(visible=False)
+            return gr.update(visible=False), gr.update(visible=False)
         if busy:
-            return gr.update(visible=True)
+            return gr.update(visible=True), gr.update(visible=True, interactive=False)
 
         normalized_source = str(source_text or "").strip()
         if normalized_source.startswith("Preparing source preview:"):
             return gr.update(
                 visible=True,
                 value=render_fewshot_preview_html([], total_segments=0, fewshot_count=fewshot_count),
-            )
+            ), gr.update(visible=False, value=[])
 
         try:
             normalized_count = max(0, int(fewshot_count))
@@ -664,13 +692,17 @@ def build_demo(
             return gr.update(
                 visible=True,
                 value=render_fewshot_preview_html([], total_segments=0, fewshot_count=normalized_count),
-            )
+            ), gr.update(visible=False, value=[])
 
         source_hash = hashlib.sha1(normalized_source.encode("utf-8")).hexdigest()
         cache_key = (direction_key, normalized_count, str(retrieval_backend or ""), source_hash)
-        cached_html = fewshot_preview_cache.get(cache_key)
-        if cached_html is not None:
-            return gr.update(visible=True, value=cached_html)
+        cached_preview = fewshot_preview_cache.get(cache_key)
+        if cached_preview is not None:
+            cached_html, cached_rows = cached_preview
+            return (
+                gr.update(visible=True, value=cached_html),
+                gr.update(visible=True, value=cached_rows, interactive=not busy),
+            )
 
         try:
             preview_rows = app_backend.preview_fewshot_examples(
@@ -686,6 +718,7 @@ def build_demo(
                 total_segments=total_segments,
                 fewshot_count=normalized_count,
             )
+            editor_rows = build_fewshot_editor_rows(preview_rows)
         except Exception as exc:
             html = (
                 "<details class=\"mfds-fewshot-panel\" open>"
@@ -695,10 +728,14 @@ def build_demo(
                 "</ul>"
                 "</details>"
             )
-        fewshot_preview_cache[cache_key] = html
+            editor_rows = []
+        fewshot_preview_cache[cache_key] = (html, editor_rows)
         if len(fewshot_preview_cache) > 32:
             fewshot_preview_cache.pop(next(iter(fewshot_preview_cache)))
-        return gr.update(visible=True, value=html)
+        return (
+            gr.update(visible=True, value=html),
+            gr.update(visible=bool(editor_rows), value=editor_rows, interactive=not busy),
+        )
 
     def update_method_controls(method_key: str, *, busy: bool = False) -> tuple[object, object]:
         normalized = (method_key or "").strip()
@@ -998,7 +1035,7 @@ def build_demo(
             visible=not is_fewshot,
             interactive=not busy,
         )
-        fewshot_preview_update = build_fewshot_preview_update(
+        fewshot_preview_update, fewshot_editor_update = build_fewshot_preview_update(
             source_text=source_value,
             direction_key=direction_key,
             method_key=method_key,
@@ -1052,6 +1089,7 @@ def build_demo(
             gr.update(interactive=not busy),
             retrieval_update,
             fewshot_preview_update,
+            fewshot_editor_update,
             show_fewshot_examples_update,
             streaming_enabled_update,
         )
@@ -1181,6 +1219,7 @@ def build_demo(
             result[22] = gr.skip()
             result[23] = gr.skip()
             result[24] = gr.skip()
+            result[25] = gr.skip()
         return tuple(result)
 
     def build_document_preview_update(
@@ -1390,6 +1429,7 @@ def build_demo(
         retrieval_backend: str,
         streaming_enabled: bool,
         show_fewshot_examples: bool,
+        fewshot_editor_rows: object,
         preview_state: dict[str, object] | None,
     ) -> tuple[object, ...]:
         active_job_id, active_snapshot = get_active_snapshot()
@@ -1423,6 +1463,7 @@ def build_demo(
                 segment_window_size=segment_window_size,
                 retrieval_backend=retrieval_backend,
                 streaming_enabled=bool(streaming_enabled),
+                manual_fewshot_rows=fewshot_editor_rows,
             )
         except Exception as exc:
             result = list(
@@ -1471,6 +1512,7 @@ def build_demo(
         retrieval_backend: str,
         streaming_enabled: bool,
         show_fewshot_examples: bool,
+        fewshot_editor_rows: object,
         preview_state: dict[str, object] | None,
         source_preview_state: str,
     ) -> tuple[object, ...]:
@@ -1517,6 +1559,7 @@ def build_demo(
                     segment_window_size=segment_window_size,
                     retrieval_backend=retrieval_backend,
                     streaming_enabled=bool(streaming_enabled),
+                    manual_fewshot_rows=fewshot_editor_rows,
                 )
             elif file_suffix == ".json":
                 job_id = app_backend.submit_json_job(
@@ -1527,6 +1570,7 @@ def build_demo(
                     segment_window_size=segment_window_size,
                     retrieval_backend=retrieval_backend,
                     streaming_enabled=bool(streaming_enabled),
+                    manual_fewshot_rows=fewshot_editor_rows,
                 )
             else:
                 raise ValueError("Only PDF and JSON files are supported.")
@@ -1739,6 +1783,15 @@ def build_demo(
             value=render_fewshot_preview_html([], total_segments=0, fewshot_count=3),
             visible=default_method_key == "fewshot_baseline",
         )
+        fewshot_examples_editor = gr.Dataframe(
+            headers=FEWSHOT_EDITOR_HEADERS,
+            value=[],
+            row_count=(1, "dynamic"),
+            col_count=(5, "fixed"),
+            label="Edit retrieved few-shot examples for this job",
+            interactive=True,
+            visible=default_method_key == "fewshot_baseline",
+        )
 
         with gr.Tabs():
             with gr.Tab("Document Upload"):
@@ -1820,6 +1873,7 @@ def build_demo(
             clear_button,
             retrieval_backend_radio,
             fewshot_examples_box,
+            fewshot_examples_editor,
             show_fewshot_examples_checkbox,
             streaming_enabled_checkbox,
         ]
@@ -2001,6 +2055,7 @@ def build_demo(
                 retrieval_backend_radio,
                 streaming_enabled_checkbox,
                 show_fewshot_examples_checkbox,
+                fewshot_examples_editor,
                 preview_state,
             ],
             outputs=standard_outputs,
@@ -2017,6 +2072,7 @@ def build_demo(
                 retrieval_backend_radio,
                 streaming_enabled_checkbox,
                 show_fewshot_examples_checkbox,
+                fewshot_examples_editor,
                 preview_state,
             ],
             outputs=standard_outputs,
@@ -2034,6 +2090,7 @@ def build_demo(
                 retrieval_backend_radio,
                 streaming_enabled_checkbox,
                 show_fewshot_examples_checkbox,
+                fewshot_examples_editor,
                 preview_state,
                 source_preview_state,
             ],
