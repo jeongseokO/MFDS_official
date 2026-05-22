@@ -2515,6 +2515,30 @@ class FewshotAppBackend:
             normalize_retrieval_backend(retrieval_backend),
         )
 
+    def _select_progress_chunk_size(
+        self,
+        *,
+        total_segments: int,
+        backend_batch_size: int,
+        streaming_enabled: bool,
+    ) -> int:
+        if total_segments <= 0:
+            return 1
+        base_chunk_size = max(1, int(self._progress_chunk_size))
+        backend_batch_size = max(1, int(backend_batch_size))
+        if streaming_enabled:
+            return max(1, min(total_segments, backend_batch_size, base_chunk_size))
+
+        if total_segments <= base_chunk_size:
+            return total_segments
+        if total_segments >= 256:
+            adaptive_chunk_size = max(base_chunk_size, backend_batch_size * 8, 256)
+        elif total_segments >= 64:
+            adaptive_chunk_size = max(base_chunk_size, backend_batch_size * 4, 128)
+        else:
+            adaptive_chunk_size = max(base_chunk_size, backend_batch_size * 2)
+        return max(1, min(total_segments, adaptive_chunk_size))
+
     def _translate_segments_with_progress(
         self,
         *,
@@ -2532,7 +2556,12 @@ class FewshotAppBackend:
 
         config = self._resolve_direction_config(direction_key)
         total_segments = len(segments)
-        chunk_size = max(1, min(config.batch_size, self._progress_chunk_size))
+        streaming_enabled = partial_translation_callback is not None
+        chunk_size = self._select_progress_chunk_size(
+            total_segments=total_segments,
+            backend_batch_size=config.batch_size,
+            streaming_enabled=streaming_enabled,
+        )
         translated_segments: list[str] = []
 
         for start in range(0, total_segments, chunk_size):

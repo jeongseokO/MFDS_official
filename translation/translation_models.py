@@ -800,10 +800,15 @@ class vllm_async_translator:
             )
         return None
 
-    def _make_stream_sampling_params(self) -> SamplingParams:
+    def _make_stream_sampling_params(self, *, stream_updates: bool) -> SamplingParams:
         params_kwargs = dict(self._base_sampling_kwargs)
         params_kwargs["n"] = 1
-        params_kwargs["output_kind"] = RequestOutputKind.DELTA
+        if stream_updates:
+            params_kwargs["output_kind"] = RequestOutputKind.DELTA
+        else:
+            final_output_kind = getattr(RequestOutputKind, "FINAL", None)
+            if final_output_kind is not None:
+                params_kwargs["output_kind"] = final_output_kind
         return SamplingParams(**params_kwargs)
 
     def _truncate_prompts(self, text_list: list[str]) -> list[str]:
@@ -829,7 +834,8 @@ class vllm_async_translator:
         on_update: Callable[[int, str, str], None] | None,
     ) -> str:
         request_id = f"mfds-stream-{uuid.uuid4().hex}"
-        sampling_params = self._make_stream_sampling_params()
+        stream_updates = on_update is not None
+        sampling_params = self._make_stream_sampling_params(stream_updates=stream_updates)
         async for request_output in self.engine.generate(
             prompt,
             sampling_params,
@@ -842,9 +848,11 @@ class vllm_async_translator:
             delta_text = str(getattr(outputs[0], "text", "") or "")
             if not delta_text:
                 continue
-            output_texts[index] += delta_text
-            if on_update is not None:
+            if stream_updates:
+                output_texts[index] += delta_text
                 on_update(index, output_texts[index], delta_text)
+            else:
+                output_texts[index] = delta_text
         return output_texts[index]
 
     async def _stream_prompts_async(
