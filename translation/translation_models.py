@@ -695,6 +695,7 @@ class vllm_translator:
         multiple_path: int | None = None,
         *,
         lora_request=None,
+        return_raw: bool = False,
         **_unused,
     ):
         messages_list = self.create_simple_translation_messages_list(
@@ -711,26 +712,20 @@ class vllm_translator:
 
         if multiple_path is not None and multiple_path > 1:
             if self.generation_config.sampling_params == "greedy":
-                return _apply_newline_budgets(
-                    self._generate_multi_path_outputs(
-                        prompts,
-                        multiple_path,
-                        lora_request=lora_request,
-                    ),
-                    newline_budgets,
-                )
-            return _apply_newline_budgets(
-                self._generate_beam_outputs(
+                outputs = self._generate_multi_path_outputs(
                     prompts,
                     multiple_path,
                     lora_request=lora_request,
-                ),
-                newline_budgets,
-            )
-        return _apply_newline_budgets(
-            self._generate_output(prompts, lora_request=lora_request),
-            newline_budgets,
-        )
+                )
+            else:
+                outputs = self._generate_beam_outputs(
+                    prompts,
+                    multiple_path,
+                    lora_request=lora_request,
+                )
+            return outputs if return_raw else _apply_newline_budgets(outputs, newline_budgets)
+        outputs = self._generate_output(prompts, lora_request=lora_request)
+        return outputs if return_raw else _apply_newline_budgets(outputs, newline_budgets)
 
     def fewshot_singleturn_translation(
         self,
@@ -741,6 +736,7 @@ class vllm_translator:
         multiple_path: int | None = None,
         *,
         lora_request=None,
+        return_raw: bool = False,
         **_unused,
     ):
         messages_list: list[list[dict[str, str]]] = []
@@ -781,26 +777,20 @@ class vllm_translator:
         )
         if multiple_path is not None and multiple_path > 1:
             if self.generation_config.sampling_params == "greedy":
-                return _apply_newline_budgets(
-                    self._generate_multi_path_outputs(
-                        prompts,
-                        multiple_path,
-                        lora_request=lora_request,
-                    ),
-                    newline_budgets,
-                )
-            return _apply_newline_budgets(
-                self._generate_beam_outputs(
+                outputs = self._generate_multi_path_outputs(
                     prompts,
                     multiple_path,
                     lora_request=lora_request,
-                ),
-                newline_budgets,
-            )
-        return _apply_newline_budgets(
-            self._generate_output(prompts, lora_request=lora_request),
-            newline_budgets,
-        )
+                )
+            else:
+                outputs = self._generate_beam_outputs(
+                    prompts,
+                    multiple_path,
+                    lora_request=lora_request,
+                )
+            return outputs if return_raw else _apply_newline_budgets(outputs, newline_budgets)
+        outputs = self._generate_output(prompts, lora_request=lora_request)
+        return outputs if return_raw else _apply_newline_budgets(outputs, newline_budgets)
 
 
 class vllm_async_translator:
@@ -947,6 +937,7 @@ class vllm_async_translator:
         lora_request,
         on_update: Callable[[int, str, str], None] | None,
         newline_budget: int | None,
+        return_raw: bool,
     ) -> str:
         request_id = f"mfds-stream-{uuid.uuid4().hex}"
         enforce_newline_budget = self.stop_on_extra_newline and newline_budget is not None
@@ -986,9 +977,10 @@ class vllm_async_translator:
                             await abort_result
                     break
             else:
+                raw_output_text = delta_text
                 cleaned_text = _strip_generated_role_prefix(delta_text)
                 final_text, _ = _truncate_to_newline_budget(cleaned_text, None)
-        output_texts[index] = final_text
+        output_texts[index] = raw_output_text if return_raw else final_text
         return output_texts[index]
 
     async def _stream_prompts_async(
@@ -998,6 +990,7 @@ class vllm_async_translator:
         lora_request=None,
         on_update: Callable[[int, str, str], None] | None = None,
         newline_budgets: Sequence[int | None] | None = None,
+        return_raw: bool = False,
     ) -> list[str]:
         resolved_lora_request = self._default_lora_request() if lora_request is None else lora_request
         output_texts = ["" for _ in prompts]
@@ -1014,6 +1007,7 @@ class vllm_async_translator:
                     if index < len(resolved_newline_budgets)
                     else None
                 ),
+                return_raw=return_raw,
             )
             for index, prompt in enumerate(prompts)
         ]
@@ -1028,6 +1022,7 @@ class vllm_async_translator:
         lora_request=None,
         on_update: Callable[[int, str, str], None] | None = None,
         newline_budgets: Sequence[int | None] | None = None,
+        return_raw: bool = False,
     ) -> list[str]:
         return self._loop.run_until_complete(
             self._stream_prompts_async(
@@ -1035,6 +1030,7 @@ class vllm_async_translator:
                 lora_request=lora_request,
                 on_update=on_update,
                 newline_budgets=newline_budgets,
+                return_raw=return_raw,
             )
         )
 
@@ -1072,6 +1068,7 @@ class vllm_async_translator:
         *,
         lora_request=None,
         on_update: Callable[[int, str, str], None] | None = None,
+        return_raw: bool = False,
         **_unused,
     ):
         if multiple_path is not None and multiple_path > 1:
@@ -1088,6 +1085,7 @@ class vllm_async_translator:
             lora_request=lora_request,
             on_update=on_update,
             newline_budgets=newline_budgets,
+            return_raw=return_raw,
         )
 
     def fewshot_singleturn_translation(
@@ -1100,6 +1098,7 @@ class vllm_async_translator:
         *,
         lora_request=None,
         on_update: Callable[[int, str, str], None] | None = None,
+        return_raw: bool = False,
         **_unused,
     ):
         if multiple_path is not None and multiple_path > 1:
@@ -1141,4 +1140,5 @@ class vllm_async_translator:
             lora_request=lora_request,
             on_update=on_update,
             newline_budgets=newline_budgets,
+            return_raw=return_raw,
         )

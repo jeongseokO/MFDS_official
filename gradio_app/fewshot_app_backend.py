@@ -56,6 +56,10 @@ DEFAULT_GPU_MEM_UTIL = float(os.environ.get("GPU_MEM_UTIL", "0.6"))
 DEFAULT_BATCH_SIZE = int(os.environ.get("FEWSHOT_APP_BATCH_SIZE", "64"))
 DEFAULT_PROGRESS_CHUNK_SIZE = int(os.environ.get("FEWSHOT_APP_PROGRESS_CHUNK_SIZE", "32"))
 DEFAULT_PARTIAL_PREVIEW_MIN_INTERVAL = float(os.environ.get("MFDS_PARTIAL_PREVIEW_MIN_INTERVAL", "0.2"))
+DEFAULT_STOP_ON_EXTRA_NEWLINE = (
+    str(os.environ.get("MFDS_STOP_ON_EXTRA_NEWLINE", "1")).strip().lower()
+    in {"1", "true", "yes", "on"}
+)
 DEFAULT_PDF_OUTPUT_ROOT = Path(
     os.environ.get("MFDS_PDF_OUTPUT_ROOT", str(REPO_ROOT / ".cache" / "translated_pdfs"))
 )
@@ -96,6 +100,12 @@ _MULTI_PERIOD_ABBREVIATIONS = {
     "e.u.",
     "ph.d.",
     "m.d.",
+}
+_QUOTE_PAIRS = {
+    "\"": "\"",
+    "'": "'",
+    "“": "”",
+    "‘": "’",
 }
 _SENTENCE_CLOSERS = "\"')]}”’"
 
@@ -1330,14 +1340,21 @@ def _split_line_into_sentences(line: str) -> List[str]:
         return []
 
     sentences: list[str] = []
+    quote_stack: list[str] = []
     start = 0
     index = 0
     while index < len(stripped):
         char = stripped[index]
+        if _update_quote_stack(quote_stack, stripped, index):
+            index += 1
+            continue
         if char not in ".!?\u3002\uff01\uff1f":
             index += 1
             continue
         if char == "." and _is_protected_period(stripped, index):
+            index += 1
+            continue
+        if quote_stack and not _boundary_closes_active_quote(stripped, index + 1, quote_stack):
             index += 1
             continue
 
@@ -1357,6 +1374,7 @@ def _split_line_into_sentences(line: str) -> List[str]:
             end += 1
         start = end
         index = end
+        quote_stack.clear()
 
     tail = stripped[start:].strip()
     if tail:
@@ -1370,6 +1388,38 @@ def _is_protected_period(text: str, index: int) -> bool:
 
     prefix = text[: index + 1].lower()
     return any(prefix.endswith(abbreviation) for abbreviation in _MULTI_PERIOD_ABBREVIATIONS)
+
+
+def _update_quote_stack(quote_stack: list[str], text: str, index: int) -> bool:
+    char = text[index]
+    if char in {"'", "’"} and _is_word_apostrophe(text, index):
+        return False
+
+    if quote_stack and char == quote_stack[-1]:
+        quote_stack.pop()
+        return True
+
+    closing_quote = _QUOTE_PAIRS.get(char)
+    if closing_quote is None:
+        return False
+    quote_stack.append(closing_quote)
+    return True
+
+
+def _is_word_apostrophe(text: str, index: int) -> bool:
+    return (
+        0 < index < len(text) - 1
+        and text[index - 1].isalnum()
+        and text[index + 1].isalnum()
+    )
+
+
+def _boundary_closes_active_quote(text: str, index: int, quote_stack: Sequence[str]) -> bool:
+    remaining_quotes = list(quote_stack)
+    while remaining_quotes and index < len(text) and text[index] == remaining_quotes[-1]:
+        remaining_quotes.pop()
+        index += 1
+    return not remaining_quotes
 
 
 def segment_input_text(text: str) -> tuple[List[str], List[tuple[str, int]]]:
@@ -1516,16 +1566,16 @@ def _configure_worker_env(config: DirectionConfig) -> None:
     os.environ["MFDS_DISABLE_VLLM_FLASHINFER"] = DEFAULT_MFDS_DISABLE_VLLM_FLASHINFER
 
 
-def _extract_primary_text(mt_output: object) -> str:
+def _extract_primary_text(mt_output: object, source_segment: object | None = None) -> str:
     if isinstance(mt_output, str):
-        return _normalize_translated_segment_text(mt_output)
+        return _normalize_translated_segment_text(mt_output, source_segment)
     if isinstance(mt_output, dict):
         mt_paths = mt_output.get("mt_paths") or []
         if mt_paths:
-            return _normalize_translated_segment_text(mt_paths[0])
+            return _normalize_translated_segment_text(mt_paths[0], source_segment)
         mt_value = mt_output.get("mt")
         if isinstance(mt_value, str):
-            return _normalize_translated_segment_text(mt_value)
+            return _normalize_translated_segment_text(mt_value, source_segment)
     return ""
 
 
@@ -1562,9 +1612,24 @@ def _normalize_streaming_segment_text(text: object) -> str:
     return str(text or "").replace("\r\n", "\n").replace("\r", "\n")
 
 
-def _normalize_translated_segment_text(text: object) -> str:
+def _truncate_to_source_newline_budget(text: str, source_segment: object | None) -> str:
+    if not DEFAULT_STOP_ON_EXTRA_NEWLINE or source_segment is None:
+        return text
+    allowed_newlines = max(0, str(source_segment or "").count("\n"))
+    newline_count = 0
+    for index, char in enumerate(text):
+        if char != "\n":
+            continue
+        newline_count += 1
+        if newline_count > allowed_newlines:
+            return text[:index].rstrip()
+    return text
+
+
+def _normalize_translated_segment_text(text: object, source_segment: object | None = None) -> str:
     normalized = str(text or "").replace("\r\n", "\n").replace("\r", "\n")
     normalized = _strip_generated_chat_artifacts(normalized)
+    normalized = _truncate_to_source_newline_budget(normalized, source_segment)
     # vLLM outputs sometimes contain newline spam or excessive spacing.
     return re.sub(r"\s+", " ", normalized).strip()
 
@@ -1847,6 +1912,7 @@ class _DirectionWorkerBackend:
                 translation_kwargs: dict[str, object] = {}
                 if self._lora_request is not None:
                     translation_kwargs["lora_request"] = self._lora_request
+                translation_kwargs["return_raw"] = True
                 if stream_callback is not None:
                     translation_kwargs["on_update"] = (
                         lambda index, text, delta, batch_start=start: handle_stream_update(
@@ -1870,7 +1936,10 @@ class _DirectionWorkerBackend:
                     segments=batch_segments,
                     raw_outputs=raw_outputs,
                 )
-                extracted_outputs = [_extract_primary_text(item) for item in raw_outputs]
+                extracted_outputs = [
+                    _extract_primary_text(item, source_segment)
+                    for item, source_segment in zip(raw_outputs, batch_segments)
+                ]
                 for output_offset, output in enumerate(extracted_outputs, start=start):
                     partial_outputs[output_offset] = output
                 all_outputs.extend(extracted_outputs)
@@ -1885,6 +1954,7 @@ class _DirectionWorkerBackend:
                 translation_kwargs: dict[str, object] = {}
                 if self._lora_request is not None:
                     translation_kwargs["lora_request"] = self._lora_request
+                translation_kwargs["return_raw"] = True
                 if stream_callback is not None:
                     translation_kwargs["on_update"] = (
                         lambda index, text, delta, batch_start=start: handle_stream_update(
@@ -1907,7 +1977,10 @@ class _DirectionWorkerBackend:
                     segments=batch_segments,
                     raw_outputs=raw_outputs,
                 )
-                extracted_outputs = [_extract_primary_text(item) for item in raw_outputs]
+                extracted_outputs = [
+                    _extract_primary_text(item, source_segment)
+                    for item, source_segment in zip(raw_outputs, batch_segments)
+                ]
                 for output_offset, output in enumerate(extracted_outputs, start=start):
                     partial_outputs[output_offset] = output
                 all_outputs.extend(extracted_outputs)
