@@ -207,6 +207,7 @@ class TranslationJob:
     fewshot_count: int
     segment_window_size: int
     retrieval_backend: str
+    streaming_enabled: bool
     created_at: float
     units: list[PreparedTextUnit]
     segments: list[str]
@@ -310,6 +311,7 @@ def _serialize_job(job: TranslationJob) -> dict[str, Any]:
         "fewshot_count": job.fewshot_count,
         "segment_window_size": job.segment_window_size,
         "retrieval_backend": job.retrieval_backend,
+        "streaming_enabled": job.streaming_enabled,
         "created_at": job.created_at,
         "units": [_serialize_prepared_unit(unit) for unit in job.units],
         "segments": list(job.segments),
@@ -348,6 +350,7 @@ def _deserialize_job(data: dict[str, Any]) -> TranslationJob:
         fewshot_count=int(data.get("fewshot_count", 0) or 0),
         segment_window_size=int(data.get("segment_window_size", 1) or 1),
         retrieval_backend=str(data.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND) or DEFAULT_RETRIEVAL_BACKEND),
+        streaming_enabled=normalize_bool(data.get("streaming_enabled"), DEFAULT_STREAMING_TRANSLATION),
         created_at=float(data.get("created_at", 0.0) or 0.0),
         units=[_deserialize_prepared_unit(item) for item in (data.get("units", []) or []) if isinstance(item, dict)],
         segments=[str(item) for item in (data.get("segments", []) or [])],
@@ -460,6 +463,21 @@ def normalize_retrieval_backend(retrieval_backend: str | None) -> str:
         supported = ", ".join(RETRIEVAL_BACKEND_LABELS)
         raise ValueError(f"Unsupported retrieval backend: {normalized or '<empty>'}. Available: {supported}.")
     return normalized
+
+
+def normalize_bool(value: object, default: bool = False) -> bool:
+    if value is None:
+        return default
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, str):
+        normalized = value.strip().lower()
+        if normalized in {"1", "true", "yes", "on"}:
+            return True
+        if normalized in {"0", "false", "no", "off"}:
+            return False
+        return default
+    return bool(value)
 
 
 def _ocr_mode_flag() -> str:
@@ -1785,13 +1803,14 @@ class _DirectionWorkerBackend:
                 translation_kwargs: dict[str, object] = {}
                 if self._lora_request is not None:
                     translation_kwargs["lora_request"] = self._lora_request
-                translation_kwargs["on_update"] = (
-                    lambda index, text, delta, batch_start=start: handle_stream_update(
-                        batch_start + index,
-                        text,
-                        delta,
+                if stream_callback is not None:
+                    translation_kwargs["on_update"] = (
+                        lambda index, text, delta, batch_start=start: handle_stream_update(
+                            batch_start + index,
+                            text,
+                            delta,
+                        )
                     )
-                )
                 raw_outputs = self.translator.fewshot_singleturn_translation(
                     batch_segments,
                     fewshots,
@@ -1822,13 +1841,14 @@ class _DirectionWorkerBackend:
                 translation_kwargs: dict[str, object] = {}
                 if self._lora_request is not None:
                     translation_kwargs["lora_request"] = self._lora_request
-                translation_kwargs["on_update"] = (
-                    lambda index, text, delta, batch_start=start: handle_stream_update(
-                        batch_start + index,
-                        text,
-                        delta,
+                if stream_callback is not None:
+                    translation_kwargs["on_update"] = (
+                        lambda index, text, delta, batch_start=start: handle_stream_update(
+                            batch_start + index,
+                            text,
+                            delta,
+                        )
                     )
-                )
                 raw_outputs = self.translator.simple_translation(
                     batch_segments,
                     source_lang=self.config.source_lang,
@@ -1981,6 +2001,8 @@ def _worker_main(config: DirectionConfig, request_queue: mp.Queue, response_queu
                         }
                     )
                 else:
+                    streaming_enabled = normalize_bool(message.get("streaming_enabled"), DEFAULT_STREAMING_TRANSLATION)
+
                     def emit_stream_update(partial_translations: Sequence[str]) -> None:
                         response_queue.put(
                             {
@@ -1996,7 +2018,7 @@ def _worker_main(config: DirectionConfig, request_queue: mp.Queue, response_queu
                         int(message["fewshot_count"]),
                         str(message.get("method_key", "fewshot_baseline")),
                         str(message.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND)),
-                        stream_callback=emit_stream_update,
+                        stream_callback=emit_stream_update if streaming_enabled else None,
                     )
                     response_queue.put(
                         {
@@ -2068,6 +2090,8 @@ def _shared_lora_worker_main(
                         }
                     )
                 else:
+                    streaming_enabled = normalize_bool(message.get("streaming_enabled"), DEFAULT_STREAMING_TRANSLATION)
+
                     def emit_stream_update(partial_translations: Sequence[str]) -> None:
                         response_queue.put(
                             {
@@ -2084,7 +2108,7 @@ def _shared_lora_worker_main(
                         int(message["fewshot_count"]),
                         str(message.get("method_key", "fewshot_baseline")),
                         str(message.get("retrieval_backend", DEFAULT_RETRIEVAL_BACKEND)),
-                        stream_callback=emit_stream_update,
+                        stream_callback=emit_stream_update if streaming_enabled else None,
                     )
                     response_queue.put(
                         {
@@ -2398,6 +2422,7 @@ class FewshotAppBackend:
                     "fewshot_count": int(fewshot_count),
                     "method_key": str(method_key),
                     "retrieval_backend": normalize_retrieval_backend(retrieval_backend),
+                    "streaming_enabled": stream_callback is not None,
                 }
             )
             while True:
@@ -2524,7 +2549,7 @@ class FewshotAppBackend:
                 fewshot_count,
                 method_key,
                 retrieval_backend,
-                stream_callback=handle_batch_stream,
+                stream_callback=handle_batch_stream if partial_translation_callback is not None else None,
             )
             translated_segments.extend(batch_translation)
             if partial_translation_callback is not None:
@@ -2717,6 +2742,7 @@ class FewshotAppBackend:
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
         retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
+        streaming_enabled: bool = DEFAULT_STREAMING_TRANSLATION,
     ) -> str:
         source_text = (text or "").strip()
         if not source_text:
@@ -2745,6 +2771,7 @@ class FewshotAppBackend:
             fewshot_count=max(0, int(fewshot_count)),
             segment_window_size=segment_window_size,
             retrieval_backend=retrieval_backend,
+            streaming_enabled=normalize_bool(streaming_enabled, DEFAULT_STREAMING_TRANSLATION),
             created_at=time.time(),
             units=units,
             segments=segments,
@@ -2768,6 +2795,7 @@ class FewshotAppBackend:
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
         retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
+        streaming_enabled: bool = DEFAULT_STREAMING_TRANSLATION,
     ) -> str:
         self._ensure_accepting_new_job()
         config = self._resolve_direction_config(direction_key)
@@ -2794,6 +2822,7 @@ class FewshotAppBackend:
             fewshot_count=max(0, int(fewshot_count)),
             segment_window_size=segment_window_size,
             retrieval_backend=retrieval_backend,
+            streaming_enabled=normalize_bool(streaming_enabled, DEFAULT_STREAMING_TRANSLATION),
             created_at=time.time(),
             units=units,
             segments=segments,
@@ -2821,6 +2850,7 @@ class FewshotAppBackend:
         method_key: str = "fewshot_baseline",
         segment_window_size: int = 1,
         retrieval_backend: str = DEFAULT_RETRIEVAL_BACKEND,
+        streaming_enabled: bool = DEFAULT_STREAMING_TRANSLATION,
     ) -> str:
         self._ensure_accepting_new_job()
         config = self._resolve_direction_config(direction_key)
@@ -2847,6 +2877,7 @@ class FewshotAppBackend:
             fewshot_count=max(0, int(fewshot_count)),
             segment_window_size=segment_window_size,
             retrieval_backend=retrieval_backend,
+            streaming_enabled=normalize_bool(streaming_enabled, DEFAULT_STREAMING_TRANSLATION),
             created_at=time.time(),
             units=units,
             segments=segments,
@@ -3039,6 +3070,7 @@ class FewshotAppBackend:
             "fewshot_count": job.fewshot_count,
             "segment_window_size": job.segment_window_size,
             "retrieval_backend": job.retrieval_backend,
+            "streaming_enabled": job.streaming_enabled,
         }
 
     def _raise_if_job_cancelled(self, job_id: str) -> None:
@@ -3126,6 +3158,7 @@ class FewshotAppBackend:
             method_key = job.method_key
             fewshot_count = job.fewshot_count
             retrieval_backend = job.retrieval_backend
+            streaming_enabled = job.streaming_enabled
             segments = list(job.segments)
             units = list(job.units)
             input_kind = job.input_kind
@@ -3211,7 +3244,7 @@ class FewshotAppBackend:
             method_key=method_key,
             retrieval_backend=retrieval_backend,
             job_id=job_id,
-            partial_translation_callback=update_partial_translation_preview,
+            partial_translation_callback=update_partial_translation_preview if streaming_enabled else None,
         )
         rebuilt_units = rebuild_prepared_units(units, translated_segments)
 

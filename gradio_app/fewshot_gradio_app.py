@@ -25,6 +25,7 @@ from fewshot_app_backend import (
     DEFAULT_KO_EN_MODEL,
     DEFAULT_PDF_OUTPUT_ROOT,
     DEFAULT_RETRIEVAL_BACKEND,
+    DEFAULT_STREAMING_TRANSLATION,
     DEFAULT_TEXT_OUTPUT_ROOT,
     DirectionConfig,
     FewshotAppBackend,
@@ -342,6 +343,7 @@ def render_job_snapshot(snapshot: dict[str, object] | None) -> str:
     segment_window_size = int(snapshot.get("segment_window_size", 1) or 1)
     retrieval_backend = str(snapshot.get("retrieval_backend", "") or "")
     retrieval_label = RETRIEVAL_BACKEND_LABELS.get(retrieval_backend, retrieval_backend)
+    streaming_label = "On" if bool(snapshot.get("streaming_enabled", DEFAULT_STREAMING_TRANSLATION)) else "Off"
 
     extra_line = ""
     if input_kind == "PDF":
@@ -352,9 +354,12 @@ def render_job_snapshot(snapshot: dict[str, object] | None) -> str:
 
     method_detail_line = ""
     if method_key == "fewshot_baseline":
-        method_detail_line = f"<div>Few-shot: {fewshot_count} | Retriever: {escape(retrieval_label)}</div>"
+        method_detail_line = (
+            f"<div>Few-shot: {fewshot_count} | Retriever: {escape(retrieval_label)}"
+            f" | Streaming: {streaming_label}</div>"
+        )
     elif method_key == "segment_mt":
-        method_detail_line = f"<div>Segment window: {segment_window_size}</div>"
+        method_detail_line = f"<div>Segment window: {segment_window_size} | Streaming: {streaming_label}</div>"
 
     download_line = ""
     if snapshot.get("translated_file_path"):
@@ -1012,6 +1017,7 @@ def build_demo(
             visible=is_fewshot,
             interactive=True,
         )
+        streaming_enabled_update = gr.update(interactive=not busy)
 
         return (
             tracked_state_value,
@@ -1047,6 +1053,7 @@ def build_demo(
             retrieval_update,
             fewshot_preview_update,
             show_fewshot_examples_update,
+            streaming_enabled_update,
         )
 
     def refresh_ui(
@@ -1173,6 +1180,7 @@ def build_demo(
             result[10] = gr.skip()
             result[22] = gr.skip()
             result[23] = gr.skip()
+            result[24] = gr.skip()
         return tuple(result)
 
     def build_document_preview_update(
@@ -1380,6 +1388,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        streaming_enabled: bool,
         show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
     ) -> tuple[object, ...]:
@@ -1413,6 +1422,7 @@ def build_demo(
                 method_key=method_key,
                 segment_window_size=segment_window_size,
                 retrieval_backend=retrieval_backend,
+                streaming_enabled=bool(streaming_enabled),
             )
         except Exception as exc:
             result = list(
@@ -1459,6 +1469,7 @@ def build_demo(
         fewshot_count: int,
         segment_window_size: int,
         retrieval_backend: str,
+        streaming_enabled: bool,
         show_fewshot_examples: bool,
         preview_state: dict[str, object] | None,
         source_preview_state: str,
@@ -1505,6 +1516,7 @@ def build_demo(
                     method_key=method_key,
                     segment_window_size=segment_window_size,
                     retrieval_backend=retrieval_backend,
+                    streaming_enabled=bool(streaming_enabled),
                 )
             elif file_suffix == ".json":
                 job_id = app_backend.submit_json_job(
@@ -1514,6 +1526,7 @@ def build_demo(
                     method_key=method_key,
                     segment_window_size=segment_window_size,
                     retrieval_backend=retrieval_backend,
+                    streaming_enabled=bool(streaming_enabled),
                 )
             else:
                 raise ValueError("Only PDF and JSON files are supported.")
@@ -1712,6 +1725,10 @@ def build_demo(
             label="Few-shot retriever",
             visible=default_method_key == "fewshot_baseline",
         )
+        streaming_enabled_checkbox = gr.Checkbox(
+            value=DEFAULT_STREAMING_TRANSLATION,
+            label="Stream output while translating",
+        )
         show_fewshot_examples_checkbox = gr.Checkbox(
             value=True,
             label="Show retrieved few-shot examples",
@@ -1804,6 +1821,7 @@ def build_demo(
             retrieval_backend_radio,
             fewshot_examples_box,
             show_fewshot_examples_checkbox,
+            streaming_enabled_checkbox,
         ]
 
         load_event = demo.load(
@@ -1981,6 +1999,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                streaming_enabled_checkbox,
                 show_fewshot_examples_checkbox,
                 preview_state,
             ],
@@ -1996,6 +2015,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                streaming_enabled_checkbox,
                 show_fewshot_examples_checkbox,
                 preview_state,
             ],
@@ -2012,6 +2032,7 @@ def build_demo(
                 fewshot_slider,
                 segment_window_slider,
                 retrieval_backend_radio,
+                streaming_enabled_checkbox,
                 show_fewshot_examples_checkbox,
                 preview_state,
                 source_preview_state,
