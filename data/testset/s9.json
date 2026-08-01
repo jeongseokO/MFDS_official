@@ -1,0 +1,3098 @@
+{
+   "metadata": {
+      "doc_id": "S9",
+      "source_doc": "항암제의 비임상 평가",
+      "target_doc": "NONCLINICAL EVALUATION FOR ANTICANCER PHARMACEUTICALS",
+      "ko_version": "nan",
+      "ko_publication_date": "2014.11.",
+      "en_version": "4",
+      "en_publication_date": "2009.10.29.",
+      "source_language": "en",
+      "target_language": "ko",
+      "filetype": "ICH"
+   },
+   "data": [
+      {
+         "seg_id": 1,
+         "en": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+         "ko": "절차의 Step 4에서 최종안이 유럽연합, 일본 및 미국의 규제 당국에 채택을 위해 권고됩니다.",
+         "prev_context": [],
+         "dict_pair": []
+      },
+      {
+         "seg_id": 3,
+         "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+         "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다.",
+         "prev_context": [
+            {
+               "en": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+               "ko": "절차의 Step 4에서 최종안이 유럽연합, 일본 및 미국의 규제 당국에 채택을 위해 권고됩니다."
+            },
+            {
+               "en": "The purpose of this guidance is to provide information to assist in the design of an appropriate program of nonclinical studies for the development of anticancer pharmaceuticals.",
+               "ko": "이 지침의 목적은 항암제 개발을 위한 적절한 비임상시험 프로그램의 설계를 지원하는 정보를 제공하는 데 있습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "anticancer pharmaceuticals",
+               "항암제"
+            ],
+            [
+               "nonclinical evaluations",
+               "비임상 평가"
+            ],
+            [
+               "clinical trials",
+               "임상 시험"
+            ]
+         ]
+      },
+      {
+         "seg_id": 4,
+         "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+         "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다.",
+         "prev_context": [
+            {
+               "en": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+               "ko": "절차의 Step 4에서 최종안이 유럽연합, 일본 및 미국의 규제 당국에 채택을 위해 권고됩니다."
+            },
+            {
+               "en": "The purpose of this guidance is to provide information to assist in the design of an appropriate program of nonclinical studies for the development of anticancer pharmaceuticals.",
+               "ko": "이 지침의 목적은 항암제 개발을 위한 적절한 비임상시험 프로그램의 설계를 지원하는 정보를 제공하는 데 있습니다."
+            },
+            {
+               "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "anticancer pharmaceuticals",
+               "항암제"
+            ],
+            [
+               "3R principles",
+               "3R 원칙"
+            ]
+         ]
+      },
+      {
+         "seg_id": 6,
+         "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+         "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다.",
+         "prev_context": [
+            {
+               "en": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+               "ko": "절차의 Step 4에서 최종안이 유럽연합, 일본 및 미국의 규제 당국에 채택을 위해 권고됩니다."
+            },
+            {
+               "en": "The purpose of this guidance is to provide information to assist in the design of an appropriate program of nonclinical studies for the development of anticancer pharmaceuticals.",
+               "ko": "이 지침의 목적은 항암제 개발을 위한 적절한 비임상시험 프로그램의 설계를 지원하는 정보를 제공하는 데 있습니다."
+            },
+            {
+               "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다."
+            },
+            {
+               "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+               "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다."
+            },
+            {
+               "en": "As appropriate, the principles described in other ICH guidelines should be considered in the development of anticancer pharmaceuticals.",
+               "ko": "적절한 경우, 다른 ICH 가이드라인에 기술된 원리들은 항암제 개발에 있어 고려되어야 합니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "anticancer drugs",
+               "항암제"
+            ]
+         ]
+      },
+      {
+         "seg_id": 7,
+         "en": "There have been no internationally accepted objectives or recommendations on the design and conduct of nonclinical studies to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+         "ko": "진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 뒷받침하기 위한 비임상시험의 설계 및 수행에 대해 국제적으로 인정된 목적이나 권고사항이 존재하지 않았습니다.",
+         "prev_context": [
+            {
+               "en": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+               "ko": "절차의 Step 4에서 최종안이 유럽연합, 일본 및 미국의 규제 당국에 채택을 위해 권고됩니다."
+            },
+            {
+               "en": "The purpose of this guidance is to provide information to assist in the design of an appropriate program of nonclinical studies for the development of anticancer pharmaceuticals.",
+               "ko": "이 지침의 목적은 항암제 개발을 위한 적절한 비임상시험 프로그램의 설계를 지원하는 정보를 제공하는 데 있습니다."
+            },
+            {
+               "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다."
+            },
+            {
+               "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+               "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다."
+            },
+            {
+               "en": "As appropriate, the principles described in other ICH guidelines should be considered in the development of anticancer pharmaceuticals.",
+               "ko": "적절한 경우, 다른 ICH 가이드라인에 기술된 원리들은 항암제 개발에 있어 고려되어야 합니다."
+            },
+            {
+               "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+               "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "anticancer pharmaceuticals",
+               "항암제"
+            ],
+            [
+               "nonclinical studies",
+               "비임상시험"
+            ],
+            [
+               "design",
+               "설계"
+            ],
+            [
+               "conduct",
+               "수행"
+            ]
+         ]
+      },
+      {
+         "seg_id": 8,
+         "en": "Nonclinical evaluations are conducted to: 1) identify the pharmacologic properties of a pharmaceutical; 2) establish a safe initial dose level for the first human exposure; and 3) understand the toxicological profile of a pharmaceutical (e.g., identification of target organs, exposure-response relationships, and reversibility).",
+         "ko": "비임상 평가는 다음을 목적으로 수행된다: 1) 의약품의 약리학적 특성을 확인하기 위해; 2) 최초 인체 노출을 위한 안전한 최초 용량 수준을 설정하기 위해; 3) 의약품의 독성학적 특성(예: 표적 기관의 확인, 노출-반응 관계, 가역성 등)을 이해하기 위해.",
+         "prev_context": [
+            {
+               "en": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+               "ko": "절차의 Step 4에서 최종안이 유럽연합, 일본 및 미국의 규제 당국에 채택을 위해 권고됩니다."
+            },
+            {
+               "en": "The purpose of this guidance is to provide information to assist in the design of an appropriate program of nonclinical studies for the development of anticancer pharmaceuticals.",
+               "ko": "이 지침의 목적은 항암제 개발을 위한 적절한 비임상시험 프로그램의 설계를 지원하는 정보를 제공하는 데 있습니다."
+            },
+            {
+               "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다."
+            },
+            {
+               "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+               "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다."
+            },
+            {
+               "en": "As appropriate, the principles described in other ICH guidelines should be considered in the development of anticancer pharmaceuticals.",
+               "ko": "적절한 경우, 다른 ICH 가이드라인에 기술된 원리들은 항암제 개발에 있어 고려되어야 합니다."
+            },
+            {
+               "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+               "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다."
+            },
+            {
+               "en": "There have been no internationally accepted objectives or recommendations on the design and conduct of nonclinical studies to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 뒷받침하기 위한 비임상시험의 설계 및 수행에 대해 국제적으로 인정된 목적이나 권고사항이 존재하지 않았습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "nonclinical evaluations",
+               "비임상 평가"
+            ],
+            [
+               "pharmacologic properties",
+               "약리학적 특성"
+            ],
+            [
+               "initial dose level",
+               "최초 용량 수준"
+            ],
+            [
+               "human exposure",
+               "인체 노출"
+            ],
+            [
+               "toxicological profile",
+               "독성학적 특성"
+            ],
+            [
+               "target organs",
+               "표적 기관"
+            ],
+            [
+               "exposure-response relationships",
+               "노출-반응 관계"
+            ],
+            [
+               "reversibility",
+               "가역성"
+            ]
+         ]
+      },
+      {
+         "seg_id": 10,
+         "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+         "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다.",
+         "prev_context": [
+            {
+               "en": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+               "ko": "절차의 Step 4에서 최종안이 유럽연합, 일본 및 미국의 규제 당국에 채택을 위해 권고됩니다."
+            },
+            {
+               "en": "The purpose of this guidance is to provide information to assist in the design of an appropriate program of nonclinical studies for the development of anticancer pharmaceuticals.",
+               "ko": "이 지침의 목적은 항암제 개발을 위한 적절한 비임상시험 프로그램의 설계를 지원하는 정보를 제공하는 데 있습니다."
+            },
+            {
+               "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다."
+            },
+            {
+               "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+               "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다."
+            },
+            {
+               "en": "As appropriate, the principles described in other ICH guidelines should be considered in the development of anticancer pharmaceuticals.",
+               "ko": "적절한 경우, 다른 ICH 가이드라인에 기술된 원리들은 항암제 개발에 있어 고려되어야 합니다."
+            },
+            {
+               "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+               "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다."
+            },
+            {
+               "en": "There have been no internationally accepted objectives or recommendations on the design and conduct of nonclinical studies to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 뒷받침하기 위한 비임상시험의 설계 및 수행에 대해 국제적으로 인정된 목적이나 권고사항이 존재하지 않았습니다."
+            },
+            {
+               "en": "Nonclinical evaluations are conducted to: 1) identify the pharmacologic properties of a pharmaceutical; 2) establish a safe initial dose level for the first human exposure; and 3) understand the toxicological profile of a pharmaceutical (e.g., identification of target organs, exposure-response relationships, and reversibility).",
+               "ko": "비임상 평가는 다음을 목적으로 수행된다: 1) 의약품의 약리학적 특성을 확인하기 위해; 2) 최초 인체 노출을 위한 안전한 최초 용량 수준을 설정하기 위해; 3) 의약품의 독성학적 특성(예: 표적 기관의 확인, 노출-반응 관계, 가역성 등)을 이해하기 위해."
+            },
+            {
+               "en": "In addition, the dose levels in these clinical studies often are close to or at the adverse effect dose levels.",
+               "ko": "또한, 이러한 임상시험에서의 투여량 수준은 종종 이상반응 투여량 수준에 가깝거나 그 수준에 있다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "nonclinical studies",
+               "비임상시험"
+            ],
+            [
+               "anticancer pharmaceuticals",
+               "항암제"
+            ],
+            [
+               "design",
+               "설계"
+            ],
+            [
+               "type",
+               "유형"
+            ],
+            [
+               "timing",
+               "시기"
+            ],
+            [
+               "flexibility",
+               "융통성"
+            ],
+            [
+               "elements",
+               "요소"
+            ]
+         ]
+      },
+      {
+         "seg_id": 11,
+         "en": "This guideline provides information for pharmaceuticals that are intended to treat cancer in patients with serious and life threatening malignancies.",
+         "ko": "이 가이드라인은 중대한 및 생명을 위협하는 악성종양을 가진 환자의 암 치료를 위해 의도된 의약품에 대한 정보를 제공합니다.",
+         "prev_context": [
+            {
+               "en": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+               "ko": "절차의 Step 4에서 최종안이 유럽연합, 일본 및 미국의 규제 당국에 채택을 위해 권고됩니다."
+            },
+            {
+               "en": "The purpose of this guidance is to provide information to assist in the design of an appropriate program of nonclinical studies for the development of anticancer pharmaceuticals.",
+               "ko": "이 지침의 목적은 항암제 개발을 위한 적절한 비임상시험 프로그램의 설계를 지원하는 정보를 제공하는 데 있습니다."
+            },
+            {
+               "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다."
+            },
+            {
+               "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+               "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다."
+            },
+            {
+               "en": "As appropriate, the principles described in other ICH guidelines should be considered in the development of anticancer pharmaceuticals.",
+               "ko": "적절한 경우, 다른 ICH 가이드라인에 기술된 원리들은 항암제 개발에 있어 고려되어야 합니다."
+            },
+            {
+               "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+               "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다."
+            },
+            {
+               "en": "There have been no internationally accepted objectives or recommendations on the design and conduct of nonclinical studies to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 뒷받침하기 위한 비임상시험의 설계 및 수행에 대해 국제적으로 인정된 목적이나 권고사항이 존재하지 않았습니다."
+            },
+            {
+               "en": "Nonclinical evaluations are conducted to: 1) identify the pharmacologic properties of a pharmaceutical; 2) establish a safe initial dose level for the first human exposure; and 3) understand the toxicological profile of a pharmaceutical (e.g., identification of target organs, exposure-response relationships, and reversibility).",
+               "ko": "비임상 평가는 다음을 목적으로 수행된다: 1) 의약품의 약리학적 특성을 확인하기 위해; 2) 최초 인체 노출을 위한 안전한 최초 용량 수준을 설정하기 위해; 3) 의약품의 독성학적 특성(예: 표적 기관의 확인, 노출-반응 관계, 가역성 등)을 이해하기 위해."
+            },
+            {
+               "en": "In addition, the dose levels in these clinical studies often are close to or at the adverse effect dose levels.",
+               "ko": "또한, 이러한 임상시험에서의 투여량 수준은 종종 이상반응 투여량 수준에 가깝거나 그 수준에 있다."
+            },
+            {
+               "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+               "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "pharmaceuticals",
+               "의약품"
+            ],
+            [
+               "cancer",
+               "암"
+            ],
+            [
+               "malignancies",
+               "악성종양"
+            ]
+         ]
+      },
+      {
+         "seg_id": 12,
+         "en": "This guideline describes the type and timing of nonclinical studies in relation to the development of anticancer pharmaceuticals in patients with advanced cancer and references other guidance as appropriate.",
+         "ko": "본 가이드라인은 진행성 암 환자에서 항암제 개발과 관련하여 비임상시험의 **유형** 및 **시기**를 기술하고, 적절한 경우 기타 **지침**을 **참고문헌**으로 제시합니다.",
+         "prev_context": [
+            {
+               "en": "The purpose of this guidance is to provide information to assist in the design of an appropriate program of nonclinical studies for the development of anticancer pharmaceuticals.",
+               "ko": "이 지침의 목적은 항암제 개발을 위한 적절한 비임상시험 프로그램의 설계를 지원하는 정보를 제공하는 데 있습니다."
+            },
+            {
+               "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다."
+            },
+            {
+               "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+               "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다."
+            },
+            {
+               "en": "As appropriate, the principles described in other ICH guidelines should be considered in the development of anticancer pharmaceuticals.",
+               "ko": "적절한 경우, 다른 ICH 가이드라인에 기술된 원리들은 항암제 개발에 있어 고려되어야 합니다."
+            },
+            {
+               "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+               "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다."
+            },
+            {
+               "en": "There have been no internationally accepted objectives or recommendations on the design and conduct of nonclinical studies to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 뒷받침하기 위한 비임상시험의 설계 및 수행에 대해 국제적으로 인정된 목적이나 권고사항이 존재하지 않았습니다."
+            },
+            {
+               "en": "Nonclinical evaluations are conducted to: 1) identify the pharmacologic properties of a pharmaceutical; 2) establish a safe initial dose level for the first human exposure; and 3) understand the toxicological profile of a pharmaceutical (e.g., identification of target organs, exposure-response relationships, and reversibility).",
+               "ko": "비임상 평가는 다음을 목적으로 수행된다: 1) 의약품의 약리학적 특성을 확인하기 위해; 2) 최초 인체 노출을 위한 안전한 최초 용량 수준을 설정하기 위해; 3) 의약품의 독성학적 특성(예: 표적 기관의 확인, 노출-반응 관계, 가역성 등)을 이해하기 위해."
+            },
+            {
+               "en": "In addition, the dose levels in these clinical studies often are close to or at the adverse effect dose levels.",
+               "ko": "또한, 이러한 임상시험에서의 투여량 수준은 종종 이상반응 투여량 수준에 가깝거나 그 수준에 있다."
+            },
+            {
+               "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+               "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다."
+            },
+            {
+               "en": "This guideline provides information for pharmaceuticals that are intended to treat cancer in patients with serious and life threatening malignancies.",
+               "ko": "이 가이드라인은 중대한 및 생명을 위협하는 악성종양을 가진 환자의 암 치료를 위해 의도된 의약품에 대한 정보를 제공합니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "anticancer pharmaceuticals",
+               "항암제"
+            ],
+            [
+               "nonclinical studies",
+               "비임상시험"
+            ],
+            [
+               "type",
+               "유형"
+            ],
+            [
+               "timing",
+               "시기"
+            ],
+            [
+               "guidance",
+               "지침"
+            ],
+            [
+               "references",
+               "참고문헌"
+            ]
+         ]
+      },
+      {
+         "seg_id": 13,
+         "en": "It describes the minimal considerations for initial clinical trials in patients with advanced cancer whose disease is refractory or resistant to available therapy, or where current therapy is not considered to be providing benefit.",
+         "ko": "기술된 내용은 이용가능한 치료에 불응성 또는 내성을 보이거나, 현행 치료가 유익성을 제공하지 않는 것으로 간주되는 진행성 암 환자에서 최초 임상 시험을 위한 최소 고려사항을 기술합니다.",
+         "prev_context": [
+            {
+               "en": "The guidance provides recommendations for nonclinical evaluations to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "지침은 진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 지원하기 위한 비임상 평가에 대한 권고사항을 제공합니다."
+            },
+            {
+               "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+               "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다."
+            },
+            {
+               "en": "As appropriate, the principles described in other ICH guidelines should be considered in the development of anticancer pharmaceuticals.",
+               "ko": "적절한 경우, 다른 ICH 가이드라인에 기술된 원리들은 항암제 개발에 있어 고려되어야 합니다."
+            },
+            {
+               "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+               "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다."
+            },
+            {
+               "en": "There have been no internationally accepted objectives or recommendations on the design and conduct of nonclinical studies to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 뒷받침하기 위한 비임상시험의 설계 및 수행에 대해 국제적으로 인정된 목적이나 권고사항이 존재하지 않았습니다."
+            },
+            {
+               "en": "Nonclinical evaluations are conducted to: 1) identify the pharmacologic properties of a pharmaceutical; 2) establish a safe initial dose level for the first human exposure; and 3) understand the toxicological profile of a pharmaceutical (e.g., identification of target organs, exposure-response relationships, and reversibility).",
+               "ko": "비임상 평가는 다음을 목적으로 수행된다: 1) 의약품의 약리학적 특성을 확인하기 위해; 2) 최초 인체 노출을 위한 안전한 최초 용량 수준을 설정하기 위해; 3) 의약품의 독성학적 특성(예: 표적 기관의 확인, 노출-반응 관계, 가역성 등)을 이해하기 위해."
+            },
+            {
+               "en": "In addition, the dose levels in these clinical studies often are close to or at the adverse effect dose levels.",
+               "ko": "또한, 이러한 임상시험에서의 투여량 수준은 종종 이상반응 투여량 수준에 가깝거나 그 수준에 있다."
+            },
+            {
+               "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+               "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다."
+            },
+            {
+               "en": "This guideline provides information for pharmaceuticals that are intended to treat cancer in patients with serious and life threatening malignancies.",
+               "ko": "이 가이드라인은 중대한 및 생명을 위협하는 악성종양을 가진 환자의 암 치료를 위해 의도된 의약품에 대한 정보를 제공합니다."
+            },
+            {
+               "en": "This guideline describes the type and timing of nonclinical studies in relation to the development of anticancer pharmaceuticals in patients with advanced cancer and references other guidance as appropriate.",
+               "ko": "본 가이드라인은 진행성 암 환자에서 항암제 개발과 관련하여 비임상시험의 **유형** 및 **시기**를 기술하고, 적절한 경우 기타 **지침**을 **참고문헌**으로 제시합니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "clinical trials",
+               "임상 시험"
+            ],
+            [
+               "advanced cancer",
+               "진행성 암"
+            ],
+            [
+               "refractory",
+               "불응성"
+            ],
+            [
+               "resistant",
+               "내성"
+            ],
+            [
+               "therapy",
+               "치료"
+            ],
+            [
+               "benefit",
+               "유익성"
+            ]
+         ]
+      },
+      {
+         "seg_id": 14,
+         "en": "The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+         "ko": "임상 1상을 뒷받침하는 비임상 자료와 임상 1상 임상 자료는 일반적으로 진행성 암 환자에서 임상 2상 및 2차 치료 또는 1차 치료로 진행하기에 충분하다.",
+         "prev_context": [
+            {
+               "en": "This guideline aims to facilitate and accelerate the development of anticancer pharmaceuticals and to protect patients from unnecessary adverse effects, while avoiding unnecessary use of animals, in accordance with the 3R principles (reduce/refine/replace), and other resources.",
+               "ko": "이 가이드라인은 3R 원칙(감소/개선/대체) 및 기타 자원에 따라, 항암제 개발을 촉진하고 가속하며, 환자를 불필요한 이상 반응으로부터 보호하고, 동물 및 기타 자원의 불필요한 사용을 방지하는 것을 목적으로 한다."
+            },
+            {
+               "en": "As appropriate, the principles described in other ICH guidelines should be considered in the development of anticancer pharmaceuticals.",
+               "ko": "적절한 경우, 다른 ICH 가이드라인에 기술된 원리들은 항암제 개발에 있어 고려되어야 합니다."
+            },
+            {
+               "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+               "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다."
+            },
+            {
+               "en": "There have been no internationally accepted objectives or recommendations on the design and conduct of nonclinical studies to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 뒷받침하기 위한 비임상시험의 설계 및 수행에 대해 국제적으로 인정된 목적이나 권고사항이 존재하지 않았습니다."
+            },
+            {
+               "en": "Nonclinical evaluations are conducted to: 1) identify the pharmacologic properties of a pharmaceutical; 2) establish a safe initial dose level for the first human exposure; and 3) understand the toxicological profile of a pharmaceutical (e.g., identification of target organs, exposure-response relationships, and reversibility).",
+               "ko": "비임상 평가는 다음을 목적으로 수행된다: 1) 의약품의 약리학적 특성을 확인하기 위해; 2) 최초 인체 노출을 위한 안전한 최초 용량 수준을 설정하기 위해; 3) 의약품의 독성학적 특성(예: 표적 기관의 확인, 노출-반응 관계, 가역성 등)을 이해하기 위해."
+            },
+            {
+               "en": "In addition, the dose levels in these clinical studies often are close to or at the adverse effect dose levels.",
+               "ko": "또한, 이러한 임상시험에서의 투여량 수준은 종종 이상반응 투여량 수준에 가깝거나 그 수준에 있다."
+            },
+            {
+               "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+               "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다."
+            },
+            {
+               "en": "This guideline provides information for pharmaceuticals that are intended to treat cancer in patients with serious and life threatening malignancies.",
+               "ko": "이 가이드라인은 중대한 및 생명을 위협하는 악성종양을 가진 환자의 암 치료를 위해 의도된 의약품에 대한 정보를 제공합니다."
+            },
+            {
+               "en": "This guideline describes the type and timing of nonclinical studies in relation to the development of anticancer pharmaceuticals in patients with advanced cancer and references other guidance as appropriate.",
+               "ko": "본 가이드라인은 진행성 암 환자에서 항암제 개발과 관련하여 비임상시험의 **유형** 및 **시기**를 기술하고, 적절한 경우 기타 **지침**을 **참고문헌**으로 제시합니다."
+            },
+            {
+               "en": "It describes the minimal considerations for initial clinical trials in patients with advanced cancer whose disease is refractory or resistant to available therapy, or where current therapy is not considered to be providing benefit.",
+               "ko": "기술된 내용은 이용가능한 치료에 불응성 또는 내성을 보이거나, 현행 치료가 유익성을 제공하지 않는 것으로 간주되는 진행성 암 환자에서 최초 임상 시험을 위한 최소 고려사항을 기술합니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "nonclinical data",
+               "비임상 자료"
+            ],
+            [
+               "Phase I",
+               "임상 1상"
+            ],
+            [
+               "Phase II",
+               "임상 2상"
+            ],
+            [
+               "second line therapy",
+               "2차 치료"
+            ],
+            [
+               "first line therapy",
+               "1차 치료"
+            ],
+            [
+               "advanced cancer",
+               "진행성 암"
+            ]
+         ]
+      },
+      {
+         "seg_id": 16,
+         "en": "When an anticancer pharmaceutical is further investigated in cancer patient populations with long expected survival (e.g., those administered pharmaceuticals on a chronic basis to reduce the risk of recurrence of cancer), the recommendations for and timing of additional nonclinical studies depend upon the available nonclinical and clinical data and the nature of the toxicities observed.",
+         "ko": "항암제가 예상 생존이 긴 암 환자 집단(예: 암 재발 위험을 감소시키기 위해 만성적 투여되는 의약품을 투여받는 환자)에 추가적으로 조사될 때, 추가 비임상시험에 대한 권고사항 및 시기는 이용 가능한 비임상자료 및 임상자료, 그리고 관찰된 독성의 양상에 따라 달라집니다.",
+         "prev_context": [
+            {
+               "en": "Because malignant tumors are life-threatening, the death rate from these diseases is high, and existing therapies have limited effectiveness, it is desirable to provide new, effective anticancer drugs to patients more expeditiously.",
+               "ko": "악성 종양은 생명을 위협하고, 이러한 질병에 의한 사망 비율이 높으며, 기존의 치료법의 유효성이 제한적이기 때문에, 환자에게 새로운 유효한 항암제를 신속하게 제공하는 것이 바람직하다."
+            },
+            {
+               "en": "There have been no internationally accepted objectives or recommendations on the design and conduct of nonclinical studies to support the development of anticancer pharmaceuticals in clinical trials for the treatment of patients with advanced disease and limited therapeutic options.",
+               "ko": "진행성 질환 및 제한된 치료 옵션을 가진 환자의 투여를 위한 임상 시험에서 항암제 개발을 뒷받침하기 위한 비임상시험의 설계 및 수행에 대해 국제적으로 인정된 목적이나 권고사항이 존재하지 않았습니다."
+            },
+            {
+               "en": "Nonclinical evaluations are conducted to: 1) identify the pharmacologic properties of a pharmaceutical; 2) establish a safe initial dose level for the first human exposure; and 3) understand the toxicological profile of a pharmaceutical (e.g., identification of target organs, exposure-response relationships, and reversibility).",
+               "ko": "비임상 평가는 다음을 목적으로 수행된다: 1) 의약품의 약리학적 특성을 확인하기 위해; 2) 최초 인체 노출을 위한 안전한 최초 용량 수준을 설정하기 위해; 3) 의약품의 독성학적 특성(예: 표적 기관의 확인, 노출-반응 관계, 가역성 등)을 이해하기 위해."
+            },
+            {
+               "en": "In addition, the dose levels in these clinical studies often are close to or at the adverse effect dose levels.",
+               "ko": "또한, 이러한 임상시험에서의 투여량 수준은 종종 이상반응 투여량 수준에 가깝거나 그 수준에 있다."
+            },
+            {
+               "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+               "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다."
+            },
+            {
+               "en": "This guideline provides information for pharmaceuticals that are intended to treat cancer in patients with serious and life threatening malignancies.",
+               "ko": "이 가이드라인은 중대한 및 생명을 위협하는 악성종양을 가진 환자의 암 치료를 위해 의도된 의약품에 대한 정보를 제공합니다."
+            },
+            {
+               "en": "This guideline describes the type and timing of nonclinical studies in relation to the development of anticancer pharmaceuticals in patients with advanced cancer and references other guidance as appropriate.",
+               "ko": "본 가이드라인은 진행성 암 환자에서 항암제 개발과 관련하여 비임상시험의 **유형** 및 **시기**를 기술하고, 적절한 경우 기타 **지침**을 **참고문헌**으로 제시합니다."
+            },
+            {
+               "en": "It describes the minimal considerations for initial clinical trials in patients with advanced cancer whose disease is refractory or resistant to available therapy, or where current therapy is not considered to be providing benefit.",
+               "ko": "기술된 내용은 이용가능한 치료에 불응성 또는 내성을 보이거나, 현행 치료가 유익성을 제공하지 않는 것으로 간주되는 진행성 암 환자에서 최초 임상 시험을 위한 최소 고려사항을 기술합니다."
+            },
+            {
+               "en": "The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "임상 1상을 뒷받침하는 비임상 자료와 임상 1상 임상 자료는 일반적으로 진행성 암 환자에서 임상 2상 및 2차 치료 또는 1차 치료로 진행하기에 충분하다."
+            },
+            {
+               "en": "The guideline also describes further non-clinical data to be collected during continued clinical development in patients with advanced cancer.",
+               "ko": "가이드라인은 또한 진행성 암 환자의 연장 임상 개발 동안 수집될 추가 비임상자료에 대해서도 기술하고 있습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "anticancer pharmaceutical",
+               "항암제"
+            ],
+            [
+               "nonclinical studies",
+               "비임상시험"
+            ],
+            [
+               "clinical data",
+               "임상자료"
+            ],
+            [
+               "toxicities",
+               "독성"
+            ]
+         ]
+      },
+      {
+         "seg_id": 18,
+         "en": "If healthy volunteers are included in clinical trials, the ICH M3 guideline should be followed.",
+         "ko": "건강한 지원자가 임상 시험에 포함되는 경우, ICH M3 가이드라인을 따라야 합니다.",
+         "prev_context": [
+            {
+               "en": "Nonclinical evaluations are conducted to: 1) identify the pharmacologic properties of a pharmaceutical; 2) establish a safe initial dose level for the first human exposure; and 3) understand the toxicological profile of a pharmaceutical (e.g., identification of target organs, exposure-response relationships, and reversibility).",
+               "ko": "비임상 평가는 다음을 목적으로 수행된다: 1) 의약품의 약리학적 특성을 확인하기 위해; 2) 최초 인체 노출을 위한 안전한 최초 용량 수준을 설정하기 위해; 3) 의약품의 독성학적 특성(예: 표적 기관의 확인, 노출-반응 관계, 가역성 등)을 이해하기 위해."
+            },
+            {
+               "en": "In addition, the dose levels in these clinical studies often are close to or at the adverse effect dose levels.",
+               "ko": "또한, 이러한 임상시험에서의 투여량 수준은 종종 이상반응 투여량 수준에 가깝거나 그 수준에 있다."
+            },
+            {
+               "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+               "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다."
+            },
+            {
+               "en": "This guideline provides information for pharmaceuticals that are intended to treat cancer in patients with serious and life threatening malignancies.",
+               "ko": "이 가이드라인은 중대한 및 생명을 위협하는 악성종양을 가진 환자의 암 치료를 위해 의도된 의약품에 대한 정보를 제공합니다."
+            },
+            {
+               "en": "This guideline describes the type and timing of nonclinical studies in relation to the development of anticancer pharmaceuticals in patients with advanced cancer and references other guidance as appropriate.",
+               "ko": "본 가이드라인은 진행성 암 환자에서 항암제 개발과 관련하여 비임상시험의 **유형** 및 **시기**를 기술하고, 적절한 경우 기타 **지침**을 **참고문헌**으로 제시합니다."
+            },
+            {
+               "en": "It describes the minimal considerations for initial clinical trials in patients with advanced cancer whose disease is refractory or resistant to available therapy, or where current therapy is not considered to be providing benefit.",
+               "ko": "기술된 내용은 이용가능한 치료에 불응성 또는 내성을 보이거나, 현행 치료가 유익성을 제공하지 않는 것으로 간주되는 진행성 암 환자에서 최초 임상 시험을 위한 최소 고려사항을 기술합니다."
+            },
+            {
+               "en": "The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "임상 1상을 뒷받침하는 비임상 자료와 임상 1상 임상 자료는 일반적으로 진행성 암 환자에서 임상 2상 및 2차 치료 또는 1차 치료로 진행하기에 충분하다."
+            },
+            {
+               "en": "The guideline also describes further non-clinical data to be collected during continued clinical development in patients with advanced cancer.",
+               "ko": "가이드라인은 또한 진행성 암 환자의 연장 임상 개발 동안 수집될 추가 비임상자료에 대해서도 기술하고 있습니다."
+            },
+            {
+               "en": "When an anticancer pharmaceutical is further investigated in cancer patient populations with long expected survival (e.g., those administered pharmaceuticals on a chronic basis to reduce the risk of recurrence of cancer), the recommendations for and timing of additional nonclinical studies depend upon the available nonclinical and clinical data and the nature of the toxicities observed.",
+               "ko": "항암제가 예상 생존이 긴 암 환자 집단(예: 암 재발 위험을 감소시키기 위해 만성적 투여되는 의약품을 투여받는 환자)에 추가적으로 조사될 때, 추가 비임상시험에 대한 권고사항 및 시기는 이용 가능한 비임상자료 및 임상자료, 그리고 관찰된 독성의 양상에 따라 달라집니다."
+            },
+            {
+               "en": "This guideline does not apply to pharmaceuticals intended for cancer prevention, treatment of symptoms or side effects of chemotherapeutics, studies in healthy volunteers, vaccines, or cellular or gene therapy.",
+               "ko": "이 가이드라인은 암 예방, 항암화학요법제의 증상 치료 또는 부작용 치료, 건강한 지원자를 대상으로 한 시험, 백신, 세포치료 또는 유전자치료를 목적으로 의도된 의약품에는 적용되지 않습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "clinical trials",
+               "임상 시험"
+            ],
+            [
+               "ICH M3 guideline",
+               "ICH M3 가이드라인"
+            ]
+         ]
+      },
+      {
+         "seg_id": 19,
+         "en": "The development of each new pharmaceutical calls for studies designed to characterize its pharmacological and toxicological properties according to its intended use in humans.",
+         "ko": "각 새로운 의약품의 개발은 인체 사용의 의도된 사용에 따라 그 약리학적 및 독성학적 특성을 특성 규명하기 위해 설계된 시험을 요구합니다.",
+         "prev_context": [
+            {
+               "en": "In addition, the dose levels in these clinical studies often are close to or at the adverse effect dose levels.",
+               "ko": "또한, 이러한 임상시험에서의 투여량 수준은 종종 이상반응 투여량 수준에 가깝거나 그 수준에 있다."
+            },
+            {
+               "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+               "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다."
+            },
+            {
+               "en": "This guideline provides information for pharmaceuticals that are intended to treat cancer in patients with serious and life threatening malignancies.",
+               "ko": "이 가이드라인은 중대한 및 생명을 위협하는 악성종양을 가진 환자의 암 치료를 위해 의도된 의약품에 대한 정보를 제공합니다."
+            },
+            {
+               "en": "This guideline describes the type and timing of nonclinical studies in relation to the development of anticancer pharmaceuticals in patients with advanced cancer and references other guidance as appropriate.",
+               "ko": "본 가이드라인은 진행성 암 환자에서 항암제 개발과 관련하여 비임상시험의 **유형** 및 **시기**를 기술하고, 적절한 경우 기타 **지침**을 **참고문헌**으로 제시합니다."
+            },
+            {
+               "en": "It describes the minimal considerations for initial clinical trials in patients with advanced cancer whose disease is refractory or resistant to available therapy, or where current therapy is not considered to be providing benefit.",
+               "ko": "기술된 내용은 이용가능한 치료에 불응성 또는 내성을 보이거나, 현행 치료가 유익성을 제공하지 않는 것으로 간주되는 진행성 암 환자에서 최초 임상 시험을 위한 최소 고려사항을 기술합니다."
+            },
+            {
+               "en": "The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "임상 1상을 뒷받침하는 비임상 자료와 임상 1상 임상 자료는 일반적으로 진행성 암 환자에서 임상 2상 및 2차 치료 또는 1차 치료로 진행하기에 충분하다."
+            },
+            {
+               "en": "The guideline also describes further non-clinical data to be collected during continued clinical development in patients with advanced cancer.",
+               "ko": "가이드라인은 또한 진행성 암 환자의 연장 임상 개발 동안 수집될 추가 비임상자료에 대해서도 기술하고 있습니다."
+            },
+            {
+               "en": "When an anticancer pharmaceutical is further investigated in cancer patient populations with long expected survival (e.g., those administered pharmaceuticals on a chronic basis to reduce the risk of recurrence of cancer), the recommendations for and timing of additional nonclinical studies depend upon the available nonclinical and clinical data and the nature of the toxicities observed.",
+               "ko": "항암제가 예상 생존이 긴 암 환자 집단(예: 암 재발 위험을 감소시키기 위해 만성적 투여되는 의약품을 투여받는 환자)에 추가적으로 조사될 때, 추가 비임상시험에 대한 권고사항 및 시기는 이용 가능한 비임상자료 및 임상자료, 그리고 관찰된 독성의 양상에 따라 달라집니다."
+            },
+            {
+               "en": "This guideline does not apply to pharmaceuticals intended for cancer prevention, treatment of symptoms or side effects of chemotherapeutics, studies in healthy volunteers, vaccines, or cellular or gene therapy.",
+               "ko": "이 가이드라인은 암 예방, 항암화학요법제의 증상 치료 또는 부작용 치료, 건강한 지원자를 대상으로 한 시험, 백신, 세포치료 또는 유전자치료를 목적으로 의도된 의약품에는 적용되지 않습니다."
+            },
+            {
+               "en": "If healthy volunteers are included in clinical trials, the ICH M3 guideline should be followed.",
+               "ko": "건강한 지원자가 임상 시험에 포함되는 경우, ICH M3 가이드라인을 따라야 합니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "pharmaceutical",
+               "의약품"
+            ],
+            [
+               "pharmacological",
+               "약리학적"
+            ],
+            [
+               "toxicological",
+               "독성학적"
+            ]
+         ]
+      },
+      {
+         "seg_id": 20,
+         "en": "Modification of \"standard\" nonclinical testing protocols generally is warranted to address novel characteristics associated with the pharmaceutical or with the manner in which it is to be used in humans.",
+         "ko": "\"표준\" 비임상 시험 계획서의 수정은 일반적으로 의약품의 신규 특성이나 인체 사용 방식과 관련된 특성을 다루기 위해 필요합니다.",
+         "prev_context": [
+            {
+               "en": "For these reasons, the type, timing and flexibility called for in the design of nonclinical studies of anticancer pharmaceuticals can differ from those elements in nonclinical studies for other pharmaceuticals.",
+               "ko": "이러한 이유로, 항암제의 비임상시험 설계에서 요구되는 **유형**, **시기** 및 **융통성**은 다른 의약품의 비임상시험에서의 해당 **요소**들과 다를 수 있습니다."
+            },
+            {
+               "en": "This guideline provides information for pharmaceuticals that are intended to treat cancer in patients with serious and life threatening malignancies.",
+               "ko": "이 가이드라인은 중대한 및 생명을 위협하는 악성종양을 가진 환자의 암 치료를 위해 의도된 의약품에 대한 정보를 제공합니다."
+            },
+            {
+               "en": "This guideline describes the type and timing of nonclinical studies in relation to the development of anticancer pharmaceuticals in patients with advanced cancer and references other guidance as appropriate.",
+               "ko": "본 가이드라인은 진행성 암 환자에서 항암제 개발과 관련하여 비임상시험의 **유형** 및 **시기**를 기술하고, 적절한 경우 기타 **지침**을 **참고문헌**으로 제시합니다."
+            },
+            {
+               "en": "It describes the minimal considerations for initial clinical trials in patients with advanced cancer whose disease is refractory or resistant to available therapy, or where current therapy is not considered to be providing benefit.",
+               "ko": "기술된 내용은 이용가능한 치료에 불응성 또는 내성을 보이거나, 현행 치료가 유익성을 제공하지 않는 것으로 간주되는 진행성 암 환자에서 최초 임상 시험을 위한 최소 고려사항을 기술합니다."
+            },
+            {
+               "en": "The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "임상 1상을 뒷받침하는 비임상 자료와 임상 1상 임상 자료는 일반적으로 진행성 암 환자에서 임상 2상 및 2차 치료 또는 1차 치료로 진행하기에 충분하다."
+            },
+            {
+               "en": "The guideline also describes further non-clinical data to be collected during continued clinical development in patients with advanced cancer.",
+               "ko": "가이드라인은 또한 진행성 암 환자의 연장 임상 개발 동안 수집될 추가 비임상자료에 대해서도 기술하고 있습니다."
+            },
+            {
+               "en": "When an anticancer pharmaceutical is further investigated in cancer patient populations with long expected survival (e.g., those administered pharmaceuticals on a chronic basis to reduce the risk of recurrence of cancer), the recommendations for and timing of additional nonclinical studies depend upon the available nonclinical and clinical data and the nature of the toxicities observed.",
+               "ko": "항암제가 예상 생존이 긴 암 환자 집단(예: 암 재발 위험을 감소시키기 위해 만성적 투여되는 의약품을 투여받는 환자)에 추가적으로 조사될 때, 추가 비임상시험에 대한 권고사항 및 시기는 이용 가능한 비임상자료 및 임상자료, 그리고 관찰된 독성의 양상에 따라 달라집니다."
+            },
+            {
+               "en": "This guideline does not apply to pharmaceuticals intended for cancer prevention, treatment of symptoms or side effects of chemotherapeutics, studies in healthy volunteers, vaccines, or cellular or gene therapy.",
+               "ko": "이 가이드라인은 암 예방, 항암화학요법제의 증상 치료 또는 부작용 치료, 건강한 지원자를 대상으로 한 시험, 백신, 세포치료 또는 유전자치료를 목적으로 의도된 의약품에는 적용되지 않습니다."
+            },
+            {
+               "en": "If healthy volunteers are included in clinical trials, the ICH M3 guideline should be followed.",
+               "ko": "건강한 지원자가 임상 시험에 포함되는 경우, ICH M3 가이드라인을 따라야 합니다."
+            },
+            {
+               "en": "The development of each new pharmaceutical calls for studies designed to characterize its pharmacological and toxicological properties according to its intended use in humans.",
+               "ko": "각 새로운 의약품의 개발은 인체 사용의 의도된 사용에 따라 그 약리학적 및 독성학적 특성을 특성 규명하기 위해 설계된 시험을 요구합니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "nonclinical testing protocols",
+               "비임상 시험 계획서"
+            ],
+            [
+               "pharmaceutical",
+               "의약품"
+            ]
+         ]
+      },
+      {
+         "seg_id": 23,
+         "en": "Pharmacology An assessment of the pharmaceutical’s effect on vital organ functions (including cardiovascular, respiratory and central nervous systems) should be available before the initiation of clinical studies; such parameters could be included in general toxicology studies.",
+         "ko": "약리학  \n의약품의 주요 장기 기능(심혈관, 호흡기 및 중추신경계 포함)에 대한 영향에 대한 평가는 임상시험 개시 전에 이용가능해야 하며, 이러한 지표는 일반 독성시험에 포함될 수 있습니다.",
+         "prev_context": [
+            {
+               "en": "It describes the minimal considerations for initial clinical trials in patients with advanced cancer whose disease is refractory or resistant to available therapy, or where current therapy is not considered to be providing benefit.",
+               "ko": "기술된 내용은 이용가능한 치료에 불응성 또는 내성을 보이거나, 현행 치료가 유익성을 제공하지 않는 것으로 간주되는 진행성 암 환자에서 최초 임상 시험을 위한 최소 고려사항을 기술합니다."
+            },
+            {
+               "en": "The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "임상 1상을 뒷받침하는 비임상 자료와 임상 1상 임상 자료는 일반적으로 진행성 암 환자에서 임상 2상 및 2차 치료 또는 1차 치료로 진행하기에 충분하다."
+            },
+            {
+               "en": "The guideline also describes further non-clinical data to be collected during continued clinical development in patients with advanced cancer.",
+               "ko": "가이드라인은 또한 진행성 암 환자의 연장 임상 개발 동안 수집될 추가 비임상자료에 대해서도 기술하고 있습니다."
+            },
+            {
+               "en": "When an anticancer pharmaceutical is further investigated in cancer patient populations with long expected survival (e.g., those administered pharmaceuticals on a chronic basis to reduce the risk of recurrence of cancer), the recommendations for and timing of additional nonclinical studies depend upon the available nonclinical and clinical data and the nature of the toxicities observed.",
+               "ko": "항암제가 예상 생존이 긴 암 환자 집단(예: 암 재발 위험을 감소시키기 위해 만성적 투여되는 의약품을 투여받는 환자)에 추가적으로 조사될 때, 추가 비임상시험에 대한 권고사항 및 시기는 이용 가능한 비임상자료 및 임상자료, 그리고 관찰된 독성의 양상에 따라 달라집니다."
+            },
+            {
+               "en": "This guideline does not apply to pharmaceuticals intended for cancer prevention, treatment of symptoms or side effects of chemotherapeutics, studies in healthy volunteers, vaccines, or cellular or gene therapy.",
+               "ko": "이 가이드라인은 암 예방, 항암화학요법제의 증상 치료 또는 부작용 치료, 건강한 지원자를 대상으로 한 시험, 백신, 세포치료 또는 유전자치료를 목적으로 의도된 의약품에는 적용되지 않습니다."
+            },
+            {
+               "en": "If healthy volunteers are included in clinical trials, the ICH M3 guideline should be followed.",
+               "ko": "건강한 지원자가 임상 시험에 포함되는 경우, ICH M3 가이드라인을 따라야 합니다."
+            },
+            {
+               "en": "The development of each new pharmaceutical calls for studies designed to characterize its pharmacological and toxicological properties according to its intended use in humans.",
+               "ko": "각 새로운 의약품의 개발은 인체 사용의 의도된 사용에 따라 그 약리학적 및 독성학적 특성을 특성 규명하기 위해 설계된 시험을 요구합니다."
+            },
+            {
+               "en": "Modification of \"standard\" nonclinical testing protocols generally is warranted to address novel characteristics associated with the pharmaceutical or with the manner in which it is to be used in humans.",
+               "ko": "\"표준\" 비임상 시험 계획서의 수정은 일반적으로 의약품의 신규 특성이나 인체 사용 방식과 관련된 특성을 다루기 위해 필요합니다."
+            },
+            {
+               "en": "Pharmacology Prior to Phase I studies, preliminary characterization of the mechanism(s) of action and schedule dependencies as well as anti-tumor activity of the pharmaceutical should have been made.",
+               "ko": "약리학  \n임상 1상에 앞서, 의약품의 작용기전 및 투여일정 의존성뿐만 아니라 항종양 활성에 대한 예비 특성 규명이 이루어져야 한다."
+            },
+            {
+               "en": "Appropriate models should be selected based on the target and mechanism of action, but the pharmaceutical need not be studied using the same tumor types intended for clinical evaluation.",
+               "ko": "적절한 모델은 표적 및 작용기전을 근거로 선택되어야 하나, 의약품은 임상평가를 위해 의도된 종양 유형과 동일한 종양 유형을 사용하여 연구될 필요는 없습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "pharmacology",
+               "약리학"
+            ],
+            [
+               "clinical studies",
+               "임상시험"
+            ],
+            [
+               "toxicology studies",
+               "독성시험"
+            ]
+         ]
+      },
+      {
+         "seg_id": 24,
+         "en": "Conducting stand-alone safety pharmacology studies to support studies in patients with advanced cancer is not called for.",
+         "ko": "진행성 암 환자에서의 시험을 뒷받침하기 위한 독립형 안전성 약리시험의 수행은 필요하지 않다.",
+         "prev_context": [
+            {
+               "en": "The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "임상 1상을 뒷받침하는 비임상 자료와 임상 1상 임상 자료는 일반적으로 진행성 암 환자에서 임상 2상 및 2차 치료 또는 1차 치료로 진행하기에 충분하다."
+            },
+            {
+               "en": "The guideline also describes further non-clinical data to be collected during continued clinical development in patients with advanced cancer.",
+               "ko": "가이드라인은 또한 진행성 암 환자의 연장 임상 개발 동안 수집될 추가 비임상자료에 대해서도 기술하고 있습니다."
+            },
+            {
+               "en": "When an anticancer pharmaceutical is further investigated in cancer patient populations with long expected survival (e.g., those administered pharmaceuticals on a chronic basis to reduce the risk of recurrence of cancer), the recommendations for and timing of additional nonclinical studies depend upon the available nonclinical and clinical data and the nature of the toxicities observed.",
+               "ko": "항암제가 예상 생존이 긴 암 환자 집단(예: 암 재발 위험을 감소시키기 위해 만성적 투여되는 의약품을 투여받는 환자)에 추가적으로 조사될 때, 추가 비임상시험에 대한 권고사항 및 시기는 이용 가능한 비임상자료 및 임상자료, 그리고 관찰된 독성의 양상에 따라 달라집니다."
+            },
+            {
+               "en": "This guideline does not apply to pharmaceuticals intended for cancer prevention, treatment of symptoms or side effects of chemotherapeutics, studies in healthy volunteers, vaccines, or cellular or gene therapy.",
+               "ko": "이 가이드라인은 암 예방, 항암화학요법제의 증상 치료 또는 부작용 치료, 건강한 지원자를 대상으로 한 시험, 백신, 세포치료 또는 유전자치료를 목적으로 의도된 의약품에는 적용되지 않습니다."
+            },
+            {
+               "en": "If healthy volunteers are included in clinical trials, the ICH M3 guideline should be followed.",
+               "ko": "건강한 지원자가 임상 시험에 포함되는 경우, ICH M3 가이드라인을 따라야 합니다."
+            },
+            {
+               "en": "The development of each new pharmaceutical calls for studies designed to characterize its pharmacological and toxicological properties according to its intended use in humans.",
+               "ko": "각 새로운 의약품의 개발은 인체 사용의 의도된 사용에 따라 그 약리학적 및 독성학적 특성을 특성 규명하기 위해 설계된 시험을 요구합니다."
+            },
+            {
+               "en": "Modification of \"standard\" nonclinical testing protocols generally is warranted to address novel characteristics associated with the pharmaceutical or with the manner in which it is to be used in humans.",
+               "ko": "\"표준\" 비임상 시험 계획서의 수정은 일반적으로 의약품의 신규 특성이나 인체 사용 방식과 관련된 특성을 다루기 위해 필요합니다."
+            },
+            {
+               "en": "Pharmacology Prior to Phase I studies, preliminary characterization of the mechanism(s) of action and schedule dependencies as well as anti-tumor activity of the pharmaceutical should have been made.",
+               "ko": "약리학  \n임상 1상에 앞서, 의약품의 작용기전 및 투여일정 의존성뿐만 아니라 항종양 활성에 대한 예비 특성 규명이 이루어져야 한다."
+            },
+            {
+               "en": "Appropriate models should be selected based on the target and mechanism of action, but the pharmaceutical need not be studied using the same tumor types intended for clinical evaluation.",
+               "ko": "적절한 모델은 표적 및 작용기전을 근거로 선택되어야 하나, 의약품은 임상평가를 위해 의도된 종양 유형과 동일한 종양 유형을 사용하여 연구될 필요는 없습니다."
+            },
+            {
+               "en": "Pharmacology An assessment of the pharmaceutical’s effect on vital organ functions (including cardiovascular, respiratory and central nervous systems) should be available before the initiation of clinical studies; such parameters could be included in general toxicology studies.",
+               "ko": "약리학  \n의약품의 주요 장기 기능(심혈관, 호흡기 및 중추신경계 포함)에 대한 영향에 대한 평가는 임상시험 개시 전에 이용가능해야 하며, 이러한 지표는 일반 독성시험에 포함될 수 있습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "safety pharmacology studies",
+               "안전성 약리시험"
+            ],
+            [
+               "advanced cancer",
+               "진행성 암"
+            ]
+         ]
+      },
+      {
+         "seg_id": 26,
+         "en": "The evaluation of limited pharmacokinetic parameters (e.g., peak plasma/serum levels, area under the curve (AUC), and half-life) in the animal species used for nonclinical studies can facilitate dose selection, schedule and escalation during Phase I studies.",
+         "ko": "비임상시험에 사용된 동물종에서 제한적 약동학 지표(예: 피크 혈장/혈청 수준, 곡선하 면적(AUC), 반감기)의 평가를 통해 임상 1상 시험에서 용량 선정, 투여일정 및 에스컬레이션을 촉진할 수 있다.",
+         "prev_context": [
+            {
+               "en": "When an anticancer pharmaceutical is further investigated in cancer patient populations with long expected survival (e.g., those administered pharmaceuticals on a chronic basis to reduce the risk of recurrence of cancer), the recommendations for and timing of additional nonclinical studies depend upon the available nonclinical and clinical data and the nature of the toxicities observed.",
+               "ko": "항암제가 예상 생존이 긴 암 환자 집단(예: 암 재발 위험을 감소시키기 위해 만성적 투여되는 의약품을 투여받는 환자)에 추가적으로 조사될 때, 추가 비임상시험에 대한 권고사항 및 시기는 이용 가능한 비임상자료 및 임상자료, 그리고 관찰된 독성의 양상에 따라 달라집니다."
+            },
+            {
+               "en": "This guideline does not apply to pharmaceuticals intended for cancer prevention, treatment of symptoms or side effects of chemotherapeutics, studies in healthy volunteers, vaccines, or cellular or gene therapy.",
+               "ko": "이 가이드라인은 암 예방, 항암화학요법제의 증상 치료 또는 부작용 치료, 건강한 지원자를 대상으로 한 시험, 백신, 세포치료 또는 유전자치료를 목적으로 의도된 의약품에는 적용되지 않습니다."
+            },
+            {
+               "en": "If healthy volunteers are included in clinical trials, the ICH M3 guideline should be followed.",
+               "ko": "건강한 지원자가 임상 시험에 포함되는 경우, ICH M3 가이드라인을 따라야 합니다."
+            },
+            {
+               "en": "The development of each new pharmaceutical calls for studies designed to characterize its pharmacological and toxicological properties according to its intended use in humans.",
+               "ko": "각 새로운 의약품의 개발은 인체 사용의 의도된 사용에 따라 그 약리학적 및 독성학적 특성을 특성 규명하기 위해 설계된 시험을 요구합니다."
+            },
+            {
+               "en": "Modification of \"standard\" nonclinical testing protocols generally is warranted to address novel characteristics associated with the pharmaceutical or with the manner in which it is to be used in humans.",
+               "ko": "\"표준\" 비임상 시험 계획서의 수정은 일반적으로 의약품의 신규 특성이나 인체 사용 방식과 관련된 특성을 다루기 위해 필요합니다."
+            },
+            {
+               "en": "Pharmacology Prior to Phase I studies, preliminary characterization of the mechanism(s) of action and schedule dependencies as well as anti-tumor activity of the pharmaceutical should have been made.",
+               "ko": "약리학  \n임상 1상에 앞서, 의약품의 작용기전 및 투여일정 의존성뿐만 아니라 항종양 활성에 대한 예비 특성 규명이 이루어져야 한다."
+            },
+            {
+               "en": "Appropriate models should be selected based on the target and mechanism of action, but the pharmaceutical need not be studied using the same tumor types intended for clinical evaluation.",
+               "ko": "적절한 모델은 표적 및 작용기전을 근거로 선택되어야 하나, 의약품은 임상평가를 위해 의도된 종양 유형과 동일한 종양 유형을 사용하여 연구될 필요는 없습니다."
+            },
+            {
+               "en": "Pharmacology An assessment of the pharmaceutical’s effect on vital organ functions (including cardiovascular, respiratory and central nervous systems) should be available before the initiation of clinical studies; such parameters could be included in general toxicology studies.",
+               "ko": "약리학  \n의약품의 주요 장기 기능(심혈관, 호흡기 및 중추신경계 포함)에 대한 영향에 대한 평가는 임상시험 개시 전에 이용가능해야 하며, 이러한 지표는 일반 독성시험에 포함될 수 있습니다."
+            },
+            {
+               "en": "Conducting stand-alone safety pharmacology studies to support studies in patients with advanced cancer is not called for.",
+               "ko": "진행성 암 환자에서의 시험을 뒷받침하기 위한 독립형 안전성 약리시험의 수행은 필요하지 않다."
+            },
+            {
+               "en": "In cases where specific concerns have been identified that could put patients at significant additional risks in clinical trials, appropriate safety pharmacology studies described in ICH S7A and/or S7B should be considered.",
+               "ko": "임상 시험에서 환자에게 유의적인 추가 위해성을 초래할 수 있는 특정 사항이 구조확인된 사례에는, ICH S7A 가이드라인 및/또는 S7B에 기술된 적절한 안전성 약리시험을 고려해야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "pharmacokinetic parameters",
+               "약동학 지표"
+            ],
+            [
+               "nonclinical studies",
+               "비임상시험"
+            ],
+            [
+               "dose selection",
+               "용량 선정"
+            ],
+            [
+               "schedule",
+               "투여일정"
+            ],
+            [
+               "escalation",
+               "에스컬레이션"
+            ],
+            [
+               "half-life",
+               "반감기"
+            ],
+            [
+               "peak plasma levels",
+               "피크 혈장 수준"
+            ],
+            [
+               "serum levels",
+               "혈청 수준"
+            ],
+            [
+               "area under the curve",
+               "곡선하 면적"
+            ]
+         ]
+      },
+      {
+         "seg_id": 27,
+         "en": "Further information on absorption, distribution, metabolism and excretion of the pharmaceutical in animals should normally be generated in parallel with clinical development.",
+         "ko": "동물에서 의약품의 **흡수**, **분포**, **대사** 및 **배설**에 대한 **추가 정보**는 일반적으로 **임상 개발**과 **평행군**으로 **생성**되어야 합니다.",
+         "prev_context": [
+            {
+               "en": "This guideline does not apply to pharmaceuticals intended for cancer prevention, treatment of symptoms or side effects of chemotherapeutics, studies in healthy volunteers, vaccines, or cellular or gene therapy.",
+               "ko": "이 가이드라인은 암 예방, 항암화학요법제의 증상 치료 또는 부작용 치료, 건강한 지원자를 대상으로 한 시험, 백신, 세포치료 또는 유전자치료를 목적으로 의도된 의약품에는 적용되지 않습니다."
+            },
+            {
+               "en": "If healthy volunteers are included in clinical trials, the ICH M3 guideline should be followed.",
+               "ko": "건강한 지원자가 임상 시험에 포함되는 경우, ICH M3 가이드라인을 따라야 합니다."
+            },
+            {
+               "en": "The development of each new pharmaceutical calls for studies designed to characterize its pharmacological and toxicological properties according to its intended use in humans.",
+               "ko": "각 새로운 의약품의 개발은 인체 사용의 의도된 사용에 따라 그 약리학적 및 독성학적 특성을 특성 규명하기 위해 설계된 시험을 요구합니다."
+            },
+            {
+               "en": "Modification of \"standard\" nonclinical testing protocols generally is warranted to address novel characteristics associated with the pharmaceutical or with the manner in which it is to be used in humans.",
+               "ko": "\"표준\" 비임상 시험 계획서의 수정은 일반적으로 의약품의 신규 특성이나 인체 사용 방식과 관련된 특성을 다루기 위해 필요합니다."
+            },
+            {
+               "en": "Pharmacology Prior to Phase I studies, preliminary characterization of the mechanism(s) of action and schedule dependencies as well as anti-tumor activity of the pharmaceutical should have been made.",
+               "ko": "약리학  \n임상 1상에 앞서, 의약품의 작용기전 및 투여일정 의존성뿐만 아니라 항종양 활성에 대한 예비 특성 규명이 이루어져야 한다."
+            },
+            {
+               "en": "Appropriate models should be selected based on the target and mechanism of action, but the pharmaceutical need not be studied using the same tumor types intended for clinical evaluation.",
+               "ko": "적절한 모델은 표적 및 작용기전을 근거로 선택되어야 하나, 의약품은 임상평가를 위해 의도된 종양 유형과 동일한 종양 유형을 사용하여 연구될 필요는 없습니다."
+            },
+            {
+               "en": "Pharmacology An assessment of the pharmaceutical’s effect on vital organ functions (including cardiovascular, respiratory and central nervous systems) should be available before the initiation of clinical studies; such parameters could be included in general toxicology studies.",
+               "ko": "약리학  \n의약품의 주요 장기 기능(심혈관, 호흡기 및 중추신경계 포함)에 대한 영향에 대한 평가는 임상시험 개시 전에 이용가능해야 하며, 이러한 지표는 일반 독성시험에 포함될 수 있습니다."
+            },
+            {
+               "en": "Conducting stand-alone safety pharmacology studies to support studies in patients with advanced cancer is not called for.",
+               "ko": "진행성 암 환자에서의 시험을 뒷받침하기 위한 독립형 안전성 약리시험의 수행은 필요하지 않다."
+            },
+            {
+               "en": "In cases where specific concerns have been identified that could put patients at significant additional risks in clinical trials, appropriate safety pharmacology studies described in ICH S7A and/or S7B should be considered.",
+               "ko": "임상 시험에서 환자에게 유의적인 추가 위해성을 초래할 수 있는 특정 사항이 구조확인된 사례에는, ICH S7A 가이드라인 및/또는 S7B에 기술된 적절한 안전성 약리시험을 고려해야 한다."
+            },
+            {
+               "en": "The evaluation of limited pharmacokinetic parameters (e.g., peak plasma/serum levels, area under the curve (AUC), and half-life) in the animal species used for nonclinical studies can facilitate dose selection, schedule and escalation during Phase I studies.",
+               "ko": "비임상시험에 사용된 동물종에서 제한적 약동학 지표(예: 피크 혈장/혈청 수준, 곡선하 면적(AUC), 반감기)의 평가를 통해 임상 1상 시험에서 용량 선정, 투여일정 및 에스컬레이션을 촉진할 수 있다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "absorption",
+               "흡수"
+            ],
+            [
+               "distribution",
+               "분포"
+            ],
+            [
+               "metabolism",
+               "대사"
+            ],
+            [
+               "excretion",
+               "배설"
+            ],
+            [
+               "clinical development",
+               "임상 개발"
+            ],
+            [
+               "parallel",
+               "평행군"
+            ]
+         ]
+      },
+      {
+         "seg_id": 33,
+         "en": "Assessment of the potential to recover from toxicity should be provided to understand whether serious adverse effects are reversible or irreversible.",
+         "ko": "독성으로부터 회복할 수 있는 잠재력에 대한 평가가 제공되어 중대한 이상반응이 가역적인지 또는 비가역적인지 이해할 수 있어야 한다.",
+         "prev_context": [
+            {
+               "en": "Pharmacology An assessment of the pharmaceutical’s effect on vital organ functions (including cardiovascular, respiratory and central nervous systems) should be available before the initiation of clinical studies; such parameters could be included in general toxicology studies.",
+               "ko": "약리학  \n의약품의 주요 장기 기능(심혈관, 호흡기 및 중추신경계 포함)에 대한 영향에 대한 평가는 임상시험 개시 전에 이용가능해야 하며, 이러한 지표는 일반 독성시험에 포함될 수 있습니다."
+            },
+            {
+               "en": "Conducting stand-alone safety pharmacology studies to support studies in patients with advanced cancer is not called for.",
+               "ko": "진행성 암 환자에서의 시험을 뒷받침하기 위한 독립형 안전성 약리시험의 수행은 필요하지 않다."
+            },
+            {
+               "en": "In cases where specific concerns have been identified that could put patients at significant additional risks in clinical trials, appropriate safety pharmacology studies described in ICH S7A and/or S7B should be considered.",
+               "ko": "임상 시험에서 환자에게 유의적인 추가 위해성을 초래할 수 있는 특정 사항이 구조확인된 사례에는, ICH S7A 가이드라인 및/또는 S7B에 기술된 적절한 안전성 약리시험을 고려해야 한다."
+            },
+            {
+               "en": "The evaluation of limited pharmacokinetic parameters (e.g., peak plasma/serum levels, area under the curve (AUC), and half-life) in the animal species used for nonclinical studies can facilitate dose selection, schedule and escalation during Phase I studies.",
+               "ko": "비임상시험에 사용된 동물종에서 제한적 약동학 지표(예: 피크 혈장/혈청 수준, 곡선하 면적(AUC), 반감기)의 평가를 통해 임상 1상 시험에서 용량 선정, 투여일정 및 에스컬레이션을 촉진할 수 있다."
+            },
+            {
+               "en": "Further information on absorption, distribution, metabolism and excretion of the pharmaceutical in animals should normally be generated in parallel with clinical development.",
+               "ko": "동물에서 의약품의 **흡수**, **분포**, **대사** 및 **배설**에 대한 **추가 정보**는 일반적으로 **임상 개발**과 **평행군**으로 **생성**되어야 합니다."
+            },
+            {
+               "en": "The primary objective of Phase I clinical trials in patients with advanced cancer is to assess the safety of the pharmaceutical.",
+               "ko": "진행성 암 환자를 대상으로 한 임상 1상 임상 시험의 일차 목표는 의약품의 안전성을 평가하는 것이다."
+            },
+            {
+               "en": "Phase I assessments can include dosing to a maximum tolerated dose (MTD) and dose limiting toxicity (DLT).",
+               "ko": "임상 1상 평가에는 최대내약용량까지의 투여 및 용량 제한 독성 평가가 포함될 수 있습니다."
+            },
+            {
+               "en": "Toxicology studies to determine a no observed adverse effect level (NOAEL) or no effect level (NOEL) are not considered essential to support clinical use of an anticancer pharmaceutical.",
+               "ko": "항암제의 임상 사용을 뒷받침하기 위해 무관찰 이상반응량(NOEL) 또는 NOEL을 결정하기 위한 독성시험은 필수로 고려된 시험이 아닙니다."
+            },
+            {
+               "en": "As the toxicity of the pharmaceutical can be greatly influenced by its schedule of administration, an approximation of its clinical schedule should be evaluated in toxicology studies.",
+               "ko": "의약품의 독성은 투여일정에 의해 크게 영향을 받을 수 있으므로, 독성시험에서는 임상 투여일정에 근접한 투여일정을 평가해야 한다."
+            },
+            {
+               "en": "This is further discussed in Section 3.3 and 3.4.",
+               "ko": "이 내용은 항목 3.3 및 3.4에서 추가 논의된 사항입니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "toxicity",
+               "독성"
+            ],
+            [
+               "adverse effects",
+               "이상반응"
+            ],
+            [
+               "reversible",
+               "가역적인"
+            ],
+            [
+               "irreversible",
+               "비가역적인"
+            ]
+         ]
+      },
+      {
+         "seg_id": 39,
+         "en": "For small molecules, embryofetal toxicology studies are typically conducted in two species as described by ICH S5(R2).",
+         "ko": "저분자 의약품의 경우, 배아-태자 독성시험은 ICH S5(R2)에 기술된 바와 같이 일반적으로 두 종에서 실시합니다.",
+         "prev_context": [
+            {
+               "en": "Phase I assessments can include dosing to a maximum tolerated dose (MTD) and dose limiting toxicity (DLT).",
+               "ko": "임상 1상 평가에는 최대내약용량까지의 투여 및 용량 제한 독성 평가가 포함될 수 있습니다."
+            },
+            {
+               "en": "Toxicology studies to determine a no observed adverse effect level (NOAEL) or no effect level (NOEL) are not considered essential to support clinical use of an anticancer pharmaceutical.",
+               "ko": "항암제의 임상 사용을 뒷받침하기 위해 무관찰 이상반응량(NOEL) 또는 NOEL을 결정하기 위한 독성시험은 필수로 고려된 시험이 아닙니다."
+            },
+            {
+               "en": "As the toxicity of the pharmaceutical can be greatly influenced by its schedule of administration, an approximation of its clinical schedule should be evaluated in toxicology studies.",
+               "ko": "의약품의 독성은 투여일정에 의해 크게 영향을 받을 수 있으므로, 독성시험에서는 임상 투여일정에 근접한 투여일정을 평가해야 한다."
+            },
+            {
+               "en": "This is further discussed in Section 3.3 and 3.4.",
+               "ko": "이 내용은 항목 3.3 및 3.4에서 추가 논의된 사항입니다."
+            },
+            {
+               "en": "Assessment of the potential to recover from toxicity should be provided to understand whether serious adverse effects are reversible or irreversible.",
+               "ko": "독성으로부터 회복할 수 있는 잠재력에 대한 평가가 제공되어 중대한 이상반응이 가역적인지 또는 비가역적인지 이해할 수 있어야 한다."
+            },
+            {
+               "en": "If a study of recovery is called for, it should be available to support clinical development.",
+               "ko": "회복에 대한 시험이 필요하다면, 해당 시험은 임상 개발을 뒷받침할 수 있도록 이용가능해야 한다."
+            },
+            {
+               "en": "For biopharmaceuticals, see ICH S6 for the number of species to be studied.",
+               "ko": "생물의약품의 경우, 연구되어야 할 동물종 수에 대해서는 ICH S6을 참조하시기 바랍니다."
+            },
+            {
+               "en": "Toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학 평가는 적절한 경우 실시하여야 합니다."
+            },
+            {
+               "en": "Reproduction Toxicology: An embryofetal toxicology assessment is conducted to communicate potential risk for the developing embryo or fetus to patients who are or might become pregnant.",
+               "ko": "재생산 독성: 배아태아독성학 평가는 임신했거나 임신할 가능성이 있는 환자에게 발달 중인 배아 또는 태아에 대한 잠재적 위험성을 전달하기 위해 실시됩니다."
+            },
+            {
+               "en": "Embryofetal toxicity studies of anticancer pharmaceuticals should be available when the marketing application is submitted, but these studies are not considered essential to support clinical trials intended for the treatment of patients with advanced cancer.",
+               "ko": "항암제의 배아-태자 독성시험은 시판허가신청 시 이용가능해야 하나, 진행성 암 환자 투여를 목적으로 한 임상 시험을 뒷받침하는 데는 필수로 고려되지 않는다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "embryofetal toxicology studies",
+               "배아-태자 독성시험"
+            ],
+            [
+               "small molecules",
+               "저분자 의약품"
+            ]
+         ]
+      },
+      {
+         "seg_id": 40,
+         "en": "In cases where an embryofetal developmental toxicity study is positive for embryofetal lethality or teratogenicity, a confirmatory study in a second species is usually not warranted.",
+         "ko": "배태자발생독성시험에서 배태자 치사 또는 기형 유발성에 대해 양성인 경우, 두 번째 종에서의 확인 시험은 일반적으로 필요하지 않다.",
+         "prev_context": [
+            {
+               "en": "Toxicology studies to determine a no observed adverse effect level (NOAEL) or no effect level (NOEL) are not considered essential to support clinical use of an anticancer pharmaceutical.",
+               "ko": "항암제의 임상 사용을 뒷받침하기 위해 무관찰 이상반응량(NOEL) 또는 NOEL을 결정하기 위한 독성시험은 필수로 고려된 시험이 아닙니다."
+            },
+            {
+               "en": "As the toxicity of the pharmaceutical can be greatly influenced by its schedule of administration, an approximation of its clinical schedule should be evaluated in toxicology studies.",
+               "ko": "의약품의 독성은 투여일정에 의해 크게 영향을 받을 수 있으므로, 독성시험에서는 임상 투여일정에 근접한 투여일정을 평가해야 한다."
+            },
+            {
+               "en": "This is further discussed in Section 3.3 and 3.4.",
+               "ko": "이 내용은 항목 3.3 및 3.4에서 추가 논의된 사항입니다."
+            },
+            {
+               "en": "Assessment of the potential to recover from toxicity should be provided to understand whether serious adverse effects are reversible or irreversible.",
+               "ko": "독성으로부터 회복할 수 있는 잠재력에 대한 평가가 제공되어 중대한 이상반응이 가역적인지 또는 비가역적인지 이해할 수 있어야 한다."
+            },
+            {
+               "en": "If a study of recovery is called for, it should be available to support clinical development.",
+               "ko": "회복에 대한 시험이 필요하다면, 해당 시험은 임상 개발을 뒷받침할 수 있도록 이용가능해야 한다."
+            },
+            {
+               "en": "For biopharmaceuticals, see ICH S6 for the number of species to be studied.",
+               "ko": "생물의약품의 경우, 연구되어야 할 동물종 수에 대해서는 ICH S6을 참조하시기 바랍니다."
+            },
+            {
+               "en": "Toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학 평가는 적절한 경우 실시하여야 합니다."
+            },
+            {
+               "en": "Reproduction Toxicology: An embryofetal toxicology assessment is conducted to communicate potential risk for the developing embryo or fetus to patients who are or might become pregnant.",
+               "ko": "재생산 독성: 배아태아독성학 평가는 임신했거나 임신할 가능성이 있는 환자에게 발달 중인 배아 또는 태아에 대한 잠재적 위험성을 전달하기 위해 실시됩니다."
+            },
+            {
+               "en": "Embryofetal toxicity studies of anticancer pharmaceuticals should be available when the marketing application is submitted, but these studies are not considered essential to support clinical trials intended for the treatment of patients with advanced cancer.",
+               "ko": "항암제의 배아-태자 독성시험은 시판허가신청 시 이용가능해야 하나, 진행성 암 환자 투여를 목적으로 한 임상 시험을 뒷받침하는 데는 필수로 고려되지 않는다."
+            },
+            {
+               "en": "For small molecules, embryofetal toxicology studies are typically conducted in two species as described by ICH S5(R2).",
+               "ko": "저분자 의약품의 경우, 배아-태자 독성시험은 ICH S5(R2)에 기술된 바와 같이 일반적으로 두 종에서 실시합니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "embryofetal developmental toxicity study",
+               "배태자발생독성시험"
+            ],
+            [
+               "embryofetal lethality",
+               "배태자 치사"
+            ],
+            [
+               "teratogenicity",
+               "기형 유발성"
+            ],
+            [
+               "confirmatory study",
+               "확인 시험"
+            ]
+         ]
+      },
+      {
+         "seg_id": 41,
+         "en": "For biopharmaceuticals, an assessment in one pharmacologically relevant species should usually be sufficient.",
+         "ko": "생물의약품의 경우, 약리학적 적합 동물종에서의 평가가 일반적으로 충분하다.",
+         "prev_context": [
+            {
+               "en": "As the toxicity of the pharmaceutical can be greatly influenced by its schedule of administration, an approximation of its clinical schedule should be evaluated in toxicology studies.",
+               "ko": "의약품의 독성은 투여일정에 의해 크게 영향을 받을 수 있으므로, 독성시험에서는 임상 투여일정에 근접한 투여일정을 평가해야 한다."
+            },
+            {
+               "en": "This is further discussed in Section 3.3 and 3.4.",
+               "ko": "이 내용은 항목 3.3 및 3.4에서 추가 논의된 사항입니다."
+            },
+            {
+               "en": "Assessment of the potential to recover from toxicity should be provided to understand whether serious adverse effects are reversible or irreversible.",
+               "ko": "독성으로부터 회복할 수 있는 잠재력에 대한 평가가 제공되어 중대한 이상반응이 가역적인지 또는 비가역적인지 이해할 수 있어야 한다."
+            },
+            {
+               "en": "If a study of recovery is called for, it should be available to support clinical development.",
+               "ko": "회복에 대한 시험이 필요하다면, 해당 시험은 임상 개발을 뒷받침할 수 있도록 이용가능해야 한다."
+            },
+            {
+               "en": "For biopharmaceuticals, see ICH S6 for the number of species to be studied.",
+               "ko": "생물의약품의 경우, 연구되어야 할 동물종 수에 대해서는 ICH S6을 참조하시기 바랍니다."
+            },
+            {
+               "en": "Toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학 평가는 적절한 경우 실시하여야 합니다."
+            },
+            {
+               "en": "Reproduction Toxicology: An embryofetal toxicology assessment is conducted to communicate potential risk for the developing embryo or fetus to patients who are or might become pregnant.",
+               "ko": "재생산 독성: 배아태아독성학 평가는 임신했거나 임신할 가능성이 있는 환자에게 발달 중인 배아 또는 태아에 대한 잠재적 위험성을 전달하기 위해 실시됩니다."
+            },
+            {
+               "en": "Embryofetal toxicity studies of anticancer pharmaceuticals should be available when the marketing application is submitted, but these studies are not considered essential to support clinical trials intended for the treatment of patients with advanced cancer.",
+               "ko": "항암제의 배아-태자 독성시험은 시판허가신청 시 이용가능해야 하나, 진행성 암 환자 투여를 목적으로 한 임상 시험을 뒷받침하는 데는 필수로 고려되지 않는다."
+            },
+            {
+               "en": "For small molecules, embryofetal toxicology studies are typically conducted in two species as described by ICH S5(R2).",
+               "ko": "저분자 의약품의 경우, 배아-태자 독성시험은 ICH S5(R2)에 기술된 바와 같이 일반적으로 두 종에서 실시합니다."
+            },
+            {
+               "en": "In cases where an embryofetal developmental toxicity study is positive for embryofetal lethality or teratogenicity, a confirmatory study in a second species is usually not warranted.",
+               "ko": "배태자발생독성시험에서 배태자 치사 또는 기형 유발성에 대해 양성인 경우, 두 번째 종에서의 확인 시험은 일반적으로 필요하지 않다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "biopharmaceuticals",
+               "생물의약품"
+            ],
+            [
+               "pharmacologically relevant species",
+               "약리학적 적합 동물종"
+            ],
+            [
+               "assessment",
+               "평가"
+            ]
+         ]
+      },
+      {
+         "seg_id": 42,
+         "en": "This assessment might be done by evaluating the toxicity during the period of organogenesis or study designs as described by ICH S6.",
+         "ko": "이 평가는 기관형성기 동안의 독성 평가 또는 ICH S6에 기술된 시험설계를 통해 실시될 수 있습니다.",
+         "prev_context": [
+            {
+               "en": "This is further discussed in Section 3.3 and 3.4.",
+               "ko": "이 내용은 항목 3.3 및 3.4에서 추가 논의된 사항입니다."
+            },
+            {
+               "en": "Assessment of the potential to recover from toxicity should be provided to understand whether serious adverse effects are reversible or irreversible.",
+               "ko": "독성으로부터 회복할 수 있는 잠재력에 대한 평가가 제공되어 중대한 이상반응이 가역적인지 또는 비가역적인지 이해할 수 있어야 한다."
+            },
+            {
+               "en": "If a study of recovery is called for, it should be available to support clinical development.",
+               "ko": "회복에 대한 시험이 필요하다면, 해당 시험은 임상 개발을 뒷받침할 수 있도록 이용가능해야 한다."
+            },
+            {
+               "en": "For biopharmaceuticals, see ICH S6 for the number of species to be studied.",
+               "ko": "생물의약품의 경우, 연구되어야 할 동물종 수에 대해서는 ICH S6을 참조하시기 바랍니다."
+            },
+            {
+               "en": "Toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학 평가는 적절한 경우 실시하여야 합니다."
+            },
+            {
+               "en": "Reproduction Toxicology: An embryofetal toxicology assessment is conducted to communicate potential risk for the developing embryo or fetus to patients who are or might become pregnant.",
+               "ko": "재생산 독성: 배아태아독성학 평가는 임신했거나 임신할 가능성이 있는 환자에게 발달 중인 배아 또는 태아에 대한 잠재적 위험성을 전달하기 위해 실시됩니다."
+            },
+            {
+               "en": "Embryofetal toxicity studies of anticancer pharmaceuticals should be available when the marketing application is submitted, but these studies are not considered essential to support clinical trials intended for the treatment of patients with advanced cancer.",
+               "ko": "항암제의 배아-태자 독성시험은 시판허가신청 시 이용가능해야 하나, 진행성 암 환자 투여를 목적으로 한 임상 시험을 뒷받침하는 데는 필수로 고려되지 않는다."
+            },
+            {
+               "en": "For small molecules, embryofetal toxicology studies are typically conducted in two species as described by ICH S5(R2).",
+               "ko": "저분자 의약품의 경우, 배아-태자 독성시험은 ICH S5(R2)에 기술된 바와 같이 일반적으로 두 종에서 실시합니다."
+            },
+            {
+               "en": "In cases where an embryofetal developmental toxicity study is positive for embryofetal lethality or teratogenicity, a confirmatory study in a second species is usually not warranted.",
+               "ko": "배태자발생독성시험에서 배태자 치사 또는 기형 유발성에 대해 양성인 경우, 두 번째 종에서의 확인 시험은 일반적으로 필요하지 않다."
+            },
+            {
+               "en": "For biopharmaceuticals, an assessment in one pharmacologically relevant species should usually be sufficient.",
+               "ko": "생물의약품의 경우, 약리학적 적합 동물종에서의 평가가 일반적으로 충분하다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "toxicity",
+               "독성"
+            ],
+            [
+               "organogenesis",
+               "기관형성기"
+            ],
+            [
+               "study designs",
+               "시험설계"
+            ]
+         ]
+      },
+      {
+         "seg_id": 43,
+         "en": "Alternative approaches might be considered appropriate if scientifically justified.",
+         "ko": "과학적 타당성이 있는 경우, 대체 접근법이 적절한 것으로 고려될 수 있습니다.",
+         "prev_context": [
+            {
+               "en": "Assessment of the potential to recover from toxicity should be provided to understand whether serious adverse effects are reversible or irreversible.",
+               "ko": "독성으로부터 회복할 수 있는 잠재력에 대한 평가가 제공되어 중대한 이상반응이 가역적인지 또는 비가역적인지 이해할 수 있어야 한다."
+            },
+            {
+               "en": "If a study of recovery is called for, it should be available to support clinical development.",
+               "ko": "회복에 대한 시험이 필요하다면, 해당 시험은 임상 개발을 뒷받침할 수 있도록 이용가능해야 한다."
+            },
+            {
+               "en": "For biopharmaceuticals, see ICH S6 for the number of species to be studied.",
+               "ko": "생물의약품의 경우, 연구되어야 할 동물종 수에 대해서는 ICH S6을 참조하시기 바랍니다."
+            },
+            {
+               "en": "Toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학 평가는 적절한 경우 실시하여야 합니다."
+            },
+            {
+               "en": "Reproduction Toxicology: An embryofetal toxicology assessment is conducted to communicate potential risk for the developing embryo or fetus to patients who are or might become pregnant.",
+               "ko": "재생산 독성: 배아태아독성학 평가는 임신했거나 임신할 가능성이 있는 환자에게 발달 중인 배아 또는 태아에 대한 잠재적 위험성을 전달하기 위해 실시됩니다."
+            },
+            {
+               "en": "Embryofetal toxicity studies of anticancer pharmaceuticals should be available when the marketing application is submitted, but these studies are not considered essential to support clinical trials intended for the treatment of patients with advanced cancer.",
+               "ko": "항암제의 배아-태자 독성시험은 시판허가신청 시 이용가능해야 하나, 진행성 암 환자 투여를 목적으로 한 임상 시험을 뒷받침하는 데는 필수로 고려되지 않는다."
+            },
+            {
+               "en": "For small molecules, embryofetal toxicology studies are typically conducted in two species as described by ICH S5(R2).",
+               "ko": "저분자 의약품의 경우, 배아-태자 독성시험은 ICH S5(R2)에 기술된 바와 같이 일반적으로 두 종에서 실시합니다."
+            },
+            {
+               "en": "In cases where an embryofetal developmental toxicity study is positive for embryofetal lethality or teratogenicity, a confirmatory study in a second species is usually not warranted.",
+               "ko": "배태자발생독성시험에서 배태자 치사 또는 기형 유발성에 대해 양성인 경우, 두 번째 종에서의 확인 시험은 일반적으로 필요하지 않다."
+            },
+            {
+               "en": "For biopharmaceuticals, an assessment in one pharmacologically relevant species should usually be sufficient.",
+               "ko": "생물의약품의 경우, 약리학적 적합 동물종에서의 평가가 일반적으로 충분하다."
+            },
+            {
+               "en": "This assessment might be done by evaluating the toxicity during the period of organogenesis or study designs as described by ICH S6.",
+               "ko": "이 평가는 기관형성기 동안의 독성 평가 또는 ICH S6에 기술된 시험설계를 통해 실시될 수 있습니다."
+            }
+         ],
+         "dict_pair": []
+      },
+      {
+         "seg_id": 47,
+         "en": "Immunotoxicity: For most anticancer pharmaceuticals, the design components of the general toxicology studies are considered sufficient to evaluate immunotoxic potential and support marketing.",
+         "ko": "면역독성: 대부분의 항암제에 대해, 일반 독성시험의 설계 성분은 면역독성 잠재력 판정 및 시판을 뒷받침하기에 충분한 것으로 고려된다.",
+         "prev_context": [
+            {
+               "en": "Reproduction Toxicology: An embryofetal toxicology assessment is conducted to communicate potential risk for the developing embryo or fetus to patients who are or might become pregnant.",
+               "ko": "재생산 독성: 배아태아독성학 평가는 임신했거나 임신할 가능성이 있는 환자에게 발달 중인 배아 또는 태아에 대한 잠재적 위험성을 전달하기 위해 실시됩니다."
+            },
+            {
+               "en": "Embryofetal toxicity studies of anticancer pharmaceuticals should be available when the marketing application is submitted, but these studies are not considered essential to support clinical trials intended for the treatment of patients with advanced cancer.",
+               "ko": "항암제의 배아-태자 독성시험은 시판허가신청 시 이용가능해야 하나, 진행성 암 환자 투여를 목적으로 한 임상 시험을 뒷받침하는 데는 필수로 고려되지 않는다."
+            },
+            {
+               "en": "For small molecules, embryofetal toxicology studies are typically conducted in two species as described by ICH S5(R2).",
+               "ko": "저분자 의약품의 경우, 배아-태자 독성시험은 ICH S5(R2)에 기술된 바와 같이 일반적으로 두 종에서 실시합니다."
+            },
+            {
+               "en": "In cases where an embryofetal developmental toxicity study is positive for embryofetal lethality or teratogenicity, a confirmatory study in a second species is usually not warranted.",
+               "ko": "배태자발생독성시험에서 배태자 치사 또는 기형 유발성에 대해 양성인 경우, 두 번째 종에서의 확인 시험은 일반적으로 필요하지 않다."
+            },
+            {
+               "en": "For biopharmaceuticals, an assessment in one pharmacologically relevant species should usually be sufficient.",
+               "ko": "생물의약품의 경우, 약리학적 적합 동물종에서의 평가가 일반적으로 충분하다."
+            },
+            {
+               "en": "This assessment might be done by evaluating the toxicity during the period of organogenesis or study designs as described by ICH S6.",
+               "ko": "이 평가는 기관형성기 동안의 독성 평가 또는 ICH S6에 기술된 시험설계를 통해 실시될 수 있습니다."
+            },
+            {
+               "en": "Alternative approaches might be considered appropriate if scientifically justified.",
+               "ko": "과학적 타당성이 있는 경우, 대체 접근법이 적절한 것으로 고려될 수 있습니다."
+            },
+            {
+               "en": "The alternative approaches might include a literature assessment, assessment of placental transfer, the direct or indirect effects of the biopharmaceutical, or other factors.",
+               "ko": "대체 접근법은 문헌 평가, 태반 전달 평가, 바이오의약품의 직접적 또는 간접적 영향, 기타 요인 등을 포함할 수 있습니다."
+            },
+            {
+               "en": "A pre- and postnatal toxicology study is generally not warranted to support clinical trials or for marketing of pharmaceuticals for the treatment of patients with advanced cancer.",
+               "ko": "출생 전후 독성시험은 일반적으로 진행성 암 환자의 치료를 위한 의약품의 임상 시험이나 시판을 뒷받침하기 위해 필요하지 않다."
+            },
+            {
+               "en": "The principles outlined in ICH S6 should be followed for biopharmaceuticals.",
+               "ko": "ICH S6에 기술된 원칙은 생물의약품에 적용되어야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "anticancer pharmaceuticals",
+               "항암제"
+            ],
+            [
+               "immunotoxicity",
+               "면역독성"
+            ],
+            [
+               "toxicology studies",
+               "독성시험"
+            ],
+            [
+               "design components",
+               "설계 성분"
+            ]
+         ]
+      },
+      {
+         "seg_id": 48,
+         "en": "For immunomodulatory pharmaceuticals, additional endpoints (such as immunophenotyping by flow cytometry) might be included in the study design.",
+         "ko": "면역조절 의약품의 경우, 추가 평가변수(예: 유세포분석법을 이용한 면역표현형분석)가 시험 디자인에 포함될 수 있다.",
+         "prev_context": [
+            {
+               "en": "Embryofetal toxicity studies of anticancer pharmaceuticals should be available when the marketing application is submitted, but these studies are not considered essential to support clinical trials intended for the treatment of patients with advanced cancer.",
+               "ko": "항암제의 배아-태자 독성시험은 시판허가신청 시 이용가능해야 하나, 진행성 암 환자 투여를 목적으로 한 임상 시험을 뒷받침하는 데는 필수로 고려되지 않는다."
+            },
+            {
+               "en": "For small molecules, embryofetal toxicology studies are typically conducted in two species as described by ICH S5(R2).",
+               "ko": "저분자 의약품의 경우, 배아-태자 독성시험은 ICH S5(R2)에 기술된 바와 같이 일반적으로 두 종에서 실시합니다."
+            },
+            {
+               "en": "In cases where an embryofetal developmental toxicity study is positive for embryofetal lethality or teratogenicity, a confirmatory study in a second species is usually not warranted.",
+               "ko": "배태자발생독성시험에서 배태자 치사 또는 기형 유발성에 대해 양성인 경우, 두 번째 종에서의 확인 시험은 일반적으로 필요하지 않다."
+            },
+            {
+               "en": "For biopharmaceuticals, an assessment in one pharmacologically relevant species should usually be sufficient.",
+               "ko": "생물의약품의 경우, 약리학적 적합 동물종에서의 평가가 일반적으로 충분하다."
+            },
+            {
+               "en": "This assessment might be done by evaluating the toxicity during the period of organogenesis or study designs as described by ICH S6.",
+               "ko": "이 평가는 기관형성기 동안의 독성 평가 또는 ICH S6에 기술된 시험설계를 통해 실시될 수 있습니다."
+            },
+            {
+               "en": "Alternative approaches might be considered appropriate if scientifically justified.",
+               "ko": "과학적 타당성이 있는 경우, 대체 접근법이 적절한 것으로 고려될 수 있습니다."
+            },
+            {
+               "en": "The alternative approaches might include a literature assessment, assessment of placental transfer, the direct or indirect effects of the biopharmaceutical, or other factors.",
+               "ko": "대체 접근법은 문헌 평가, 태반 전달 평가, 바이오의약품의 직접적 또는 간접적 영향, 기타 요인 등을 포함할 수 있습니다."
+            },
+            {
+               "en": "A pre- and postnatal toxicology study is generally not warranted to support clinical trials or for marketing of pharmaceuticals for the treatment of patients with advanced cancer.",
+               "ko": "출생 전후 독성시험은 일반적으로 진행성 암 환자의 치료를 위한 의약품의 임상 시험이나 시판을 뒷받침하기 위해 필요하지 않다."
+            },
+            {
+               "en": "The principles outlined in ICH S6 should be followed for biopharmaceuticals.",
+               "ko": "ICH S6에 기술된 원칙은 생물의약품에 적용되어야 한다."
+            },
+            {
+               "en": "Immunotoxicity: For most anticancer pharmaceuticals, the design components of the general toxicology studies are considered sufficient to evaluate immunotoxic potential and support marketing.",
+               "ko": "면역독성: 대부분의 항암제에 대해, 일반 독성시험의 설계 성분은 면역독성 잠재력 판정 및 시판을 뒷받침하기에 충분한 것으로 고려된다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "immunomodulatory pharmaceuticals",
+               "면역조절 의약품"
+            ],
+            [
+               "study design",
+               "시험 디자인"
+            ],
+            [
+               "immunophenotyping",
+               "면역표현형분석"
+            ],
+            [
+               "flow cytometry",
+               "유세포분석법"
+            ]
+         ]
+      },
+      {
+         "seg_id": 51,
+         "en": "If the photosafety risk cannot be adequately evaluated based on nonclinical data or clinical experience, a photosafety assessment consistent with the principles described in ICH M3 should be provided prior to marketing.",
+         "ko": "비임상 자료 또는 임상경험에 근거하여 광안전성 위험이 적절히 평가될 수 없는 경우, 시판 전에 ICH M3에 기술된 원칙과 일치하는 광안전성 평가가 제공되어야 합니다.",
+         "prev_context": [
+            {
+               "en": "For biopharmaceuticals, an assessment in one pharmacologically relevant species should usually be sufficient.",
+               "ko": "생물의약품의 경우, 약리학적 적합 동물종에서의 평가가 일반적으로 충분하다."
+            },
+            {
+               "en": "This assessment might be done by evaluating the toxicity during the period of organogenesis or study designs as described by ICH S6.",
+               "ko": "이 평가는 기관형성기 동안의 독성 평가 또는 ICH S6에 기술된 시험설계를 통해 실시될 수 있습니다."
+            },
+            {
+               "en": "Alternative approaches might be considered appropriate if scientifically justified.",
+               "ko": "과학적 타당성이 있는 경우, 대체 접근법이 적절한 것으로 고려될 수 있습니다."
+            },
+            {
+               "en": "The alternative approaches might include a literature assessment, assessment of placental transfer, the direct or indirect effects of the biopharmaceutical, or other factors.",
+               "ko": "대체 접근법은 문헌 평가, 태반 전달 평가, 바이오의약품의 직접적 또는 간접적 영향, 기타 요인 등을 포함할 수 있습니다."
+            },
+            {
+               "en": "A pre- and postnatal toxicology study is generally not warranted to support clinical trials or for marketing of pharmaceuticals for the treatment of patients with advanced cancer.",
+               "ko": "출생 전후 독성시험은 일반적으로 진행성 암 환자의 치료를 위한 의약품의 임상 시험이나 시판을 뒷받침하기 위해 필요하지 않다."
+            },
+            {
+               "en": "The principles outlined in ICH S6 should be followed for biopharmaceuticals.",
+               "ko": "ICH S6에 기술된 원칙은 생물의약품에 적용되어야 한다."
+            },
+            {
+               "en": "Immunotoxicity: For most anticancer pharmaceuticals, the design components of the general toxicology studies are considered sufficient to evaluate immunotoxic potential and support marketing.",
+               "ko": "면역독성: 대부분의 항암제에 대해, 일반 독성시험의 설계 성분은 면역독성 잠재력 판정 및 시판을 뒷받침하기에 충분한 것으로 고려된다."
+            },
+            {
+               "en": "For immunomodulatory pharmaceuticals, additional endpoints (such as immunophenotyping by flow cytometry) might be included in the study design.",
+               "ko": "면역조절 의약품의 경우, 추가 평가변수(예: 유세포분석법을 이용한 면역표현형분석)가 시험 디자인에 포함될 수 있다."
+            },
+            {
+               "en": "Photosafety: testing An initial assessment of phototoxic potential should be conducted prior to Phase I, based on photochemical properties of the drug and information on other members in the class.",
+               "ko": "광안전성: 시험  \n광독성 가능성에 대한 최초 평가는 임상 1상에 앞서, 의약품의 광화학적 특성과 해당 분류 내 다른 위원의 정보에 근거하여 실시해야 한다."
+            },
+            {
+               "en": "If assessment of these data indicates a potential risk, appropriate protective measures should be taken during outpatient trials.",
+               "ko": "이러한 자료의 평가 결과 잠재적 위험성이 확인되는 경우, 외래환자 임상시험 동안 적절한 보호조치를 취하여야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "photosafety risk",
+               "광안전성 위험"
+            ],
+            [
+               "nonclinical data",
+               "비임상 자료"
+            ],
+            [
+               "clinical experience",
+               "임상경험"
+            ],
+            [
+               "photosafety assessment",
+               "광안전성 평가"
+            ]
+         ]
+      },
+      {
+         "seg_id": 53,
+         "en": "The start dose should be scientifically justified using all available nonclinical data (e.g., pharmacokinetics, pharmacodynamics, toxicity), and its selection based on various approaches (see Note 2).",
+         "ko": "시작 투여량은 이용 가능한 모든 비임상 자료(예: 약동학, 약력학, 독성)를 사용하여 과학적으로 타당성을 입증해야 하며, 그 선택은 다양한 접근법에 근거해야 한다(참조: 주석 2).",
+         "prev_context": [
+            {
+               "en": "Alternative approaches might be considered appropriate if scientifically justified.",
+               "ko": "과학적 타당성이 있는 경우, 대체 접근법이 적절한 것으로 고려될 수 있습니다."
+            },
+            {
+               "en": "The alternative approaches might include a literature assessment, assessment of placental transfer, the direct or indirect effects of the biopharmaceutical, or other factors.",
+               "ko": "대체 접근법은 문헌 평가, 태반 전달 평가, 바이오의약품의 직접적 또는 간접적 영향, 기타 요인 등을 포함할 수 있습니다."
+            },
+            {
+               "en": "A pre- and postnatal toxicology study is generally not warranted to support clinical trials or for marketing of pharmaceuticals for the treatment of patients with advanced cancer.",
+               "ko": "출생 전후 독성시험은 일반적으로 진행성 암 환자의 치료를 위한 의약품의 임상 시험이나 시판을 뒷받침하기 위해 필요하지 않다."
+            },
+            {
+               "en": "The principles outlined in ICH S6 should be followed for biopharmaceuticals.",
+               "ko": "ICH S6에 기술된 원칙은 생물의약품에 적용되어야 한다."
+            },
+            {
+               "en": "Immunotoxicity: For most anticancer pharmaceuticals, the design components of the general toxicology studies are considered sufficient to evaluate immunotoxic potential and support marketing.",
+               "ko": "면역독성: 대부분의 항암제에 대해, 일반 독성시험의 설계 성분은 면역독성 잠재력 판정 및 시판을 뒷받침하기에 충분한 것으로 고려된다."
+            },
+            {
+               "en": "For immunomodulatory pharmaceuticals, additional endpoints (such as immunophenotyping by flow cytometry) might be included in the study design.",
+               "ko": "면역조절 의약품의 경우, 추가 평가변수(예: 유세포분석법을 이용한 면역표현형분석)가 시험 디자인에 포함될 수 있다."
+            },
+            {
+               "en": "Photosafety: testing An initial assessment of phototoxic potential should be conducted prior to Phase I, based on photochemical properties of the drug and information on other members in the class.",
+               "ko": "광안전성: 시험  \n광독성 가능성에 대한 최초 평가는 임상 1상에 앞서, 의약품의 광화학적 특성과 해당 분류 내 다른 위원의 정보에 근거하여 실시해야 한다."
+            },
+            {
+               "en": "If assessment of these data indicates a potential risk, appropriate protective measures should be taken during outpatient trials.",
+               "ko": "이러한 자료의 평가 결과 잠재적 위험성이 확인되는 경우, 외래환자 임상시험 동안 적절한 보호조치를 취하여야 한다."
+            },
+            {
+               "en": "If the photosafety risk cannot be adequately evaluated based on nonclinical data or clinical experience, a photosafety assessment consistent with the principles described in ICH M3 should be provided prior to marketing.",
+               "ko": "비임상 자료 또는 임상경험에 근거하여 광안전성 위험이 적절히 평가될 수 없는 경우, 시판 전에 ICH M3에 기술된 원칙과 일치하는 광안전성 평가가 제공되어야 합니다."
+            },
+            {
+               "en": "Start Dose for First Administration in Humans The goal of selecting the start dose is to identify a dose that is expected to have pharmacologic effects and is reasonably safe to use.",
+               "ko": "최초 인체 투여 시작 투여량  \n최초 인체 투여에서 시작 투여량을 선정하는 목적은 약리학적 효과가 기대되며 합리적으로 안전하게 사용할 수 있는 투여량을 확인하는 것이다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "start dose",
+               "시작 투여량"
+            ],
+            [
+               "nonclinical data",
+               "비임상 자료"
+            ],
+            [
+               "pharmacokinetics",
+               "약동학"
+            ],
+            [
+               "pharmacodynamics",
+               "약력학"
+            ],
+            [
+               "toxicity",
+               "독성"
+            ]
+         ]
+      },
+      {
+         "seg_id": 54,
+         "en": "For most systemically administered small molecules, interspecies scaling of the animal doses to an equivalent human dose is usually based on normalization to body surface area.",
+         "ko": "대부분의 전신 투여된 저분자 의약품의 종간 스케일링에서 동물 용량을 동등한 인체 투여량으로 환산할 때는 일반적으로 체표면적에 대한 정규화를 근거로 합니다.",
+         "prev_context": [
+            {
+               "en": "The alternative approaches might include a literature assessment, assessment of placental transfer, the direct or indirect effects of the biopharmaceutical, or other factors.",
+               "ko": "대체 접근법은 문헌 평가, 태반 전달 평가, 바이오의약품의 직접적 또는 간접적 영향, 기타 요인 등을 포함할 수 있습니다."
+            },
+            {
+               "en": "A pre- and postnatal toxicology study is generally not warranted to support clinical trials or for marketing of pharmaceuticals for the treatment of patients with advanced cancer.",
+               "ko": "출생 전후 독성시험은 일반적으로 진행성 암 환자의 치료를 위한 의약품의 임상 시험이나 시판을 뒷받침하기 위해 필요하지 않다."
+            },
+            {
+               "en": "The principles outlined in ICH S6 should be followed for biopharmaceuticals.",
+               "ko": "ICH S6에 기술된 원칙은 생물의약품에 적용되어야 한다."
+            },
+            {
+               "en": "Immunotoxicity: For most anticancer pharmaceuticals, the design components of the general toxicology studies are considered sufficient to evaluate immunotoxic potential and support marketing.",
+               "ko": "면역독성: 대부분의 항암제에 대해, 일반 독성시험의 설계 성분은 면역독성 잠재력 판정 및 시판을 뒷받침하기에 충분한 것으로 고려된다."
+            },
+            {
+               "en": "For immunomodulatory pharmaceuticals, additional endpoints (such as immunophenotyping by flow cytometry) might be included in the study design.",
+               "ko": "면역조절 의약품의 경우, 추가 평가변수(예: 유세포분석법을 이용한 면역표현형분석)가 시험 디자인에 포함될 수 있다."
+            },
+            {
+               "en": "Photosafety: testing An initial assessment of phototoxic potential should be conducted prior to Phase I, based on photochemical properties of the drug and information on other members in the class.",
+               "ko": "광안전성: 시험  \n광독성 가능성에 대한 최초 평가는 임상 1상에 앞서, 의약품의 광화학적 특성과 해당 분류 내 다른 위원의 정보에 근거하여 실시해야 한다."
+            },
+            {
+               "en": "If assessment of these data indicates a potential risk, appropriate protective measures should be taken during outpatient trials.",
+               "ko": "이러한 자료의 평가 결과 잠재적 위험성이 확인되는 경우, 외래환자 임상시험 동안 적절한 보호조치를 취하여야 한다."
+            },
+            {
+               "en": "If the photosafety risk cannot be adequately evaluated based on nonclinical data or clinical experience, a photosafety assessment consistent with the principles described in ICH M3 should be provided prior to marketing.",
+               "ko": "비임상 자료 또는 임상경험에 근거하여 광안전성 위험이 적절히 평가될 수 없는 경우, 시판 전에 ICH M3에 기술된 원칙과 일치하는 광안전성 평가가 제공되어야 합니다."
+            },
+            {
+               "en": "Start Dose for First Administration in Humans The goal of selecting the start dose is to identify a dose that is expected to have pharmacologic effects and is reasonably safe to use.",
+               "ko": "최초 인체 투여 시작 투여량  \n최초 인체 투여에서 시작 투여량을 선정하는 목적은 약리학적 효과가 기대되며 합리적으로 안전하게 사용할 수 있는 투여량을 확인하는 것이다."
+            },
+            {
+               "en": "The start dose should be scientifically justified using all available nonclinical data (e.g., pharmacokinetics, pharmacodynamics, toxicity), and its selection based on various approaches (see Note 2).",
+               "ko": "시작 투여량은 이용 가능한 모든 비임상 자료(예: 약동학, 약력학, 독성)를 사용하여 과학적으로 타당성을 입증해야 하며, 그 선택은 다양한 접근법에 근거해야 한다(참조: 주석 2)."
+            }
+         ],
+         "dict_pair": [
+            [
+               "systemically administered",
+               "전신 투여된"
+            ],
+            [
+               "small molecules",
+               "저분자 의약품"
+            ],
+            [
+               "interspecies scaling",
+               "종간 스케일링"
+            ],
+            [
+               "animal doses",
+               "동물 용량"
+            ],
+            [
+               "human dose",
+               "인체 투여량"
+            ],
+            [
+               "body surface area",
+               "체표면적"
+            ]
+         ]
+      },
+      {
+         "seg_id": 56,
+         "en": "For biopharmaceuticals with immune agonistic properties, selection of the start dose using a minimally anticipated biologic effect level (MABEL) should be considered.",
+         "ko": "면역작용 특성을 가진 생물의약품의 경우, 최소 예상 생물학적 효과 수준(MABEL)을 사용하여 초기 투여량 선정이 고려되어야 한다.",
+         "prev_context": [
+            {
+               "en": "The principles outlined in ICH S6 should be followed for biopharmaceuticals.",
+               "ko": "ICH S6에 기술된 원칙은 생물의약품에 적용되어야 한다."
+            },
+            {
+               "en": "Immunotoxicity: For most anticancer pharmaceuticals, the design components of the general toxicology studies are considered sufficient to evaluate immunotoxic potential and support marketing.",
+               "ko": "면역독성: 대부분의 항암제에 대해, 일반 독성시험의 설계 성분은 면역독성 잠재력 판정 및 시판을 뒷받침하기에 충분한 것으로 고려된다."
+            },
+            {
+               "en": "For immunomodulatory pharmaceuticals, additional endpoints (such as immunophenotyping by flow cytometry) might be included in the study design.",
+               "ko": "면역조절 의약품의 경우, 추가 평가변수(예: 유세포분석법을 이용한 면역표현형분석)가 시험 디자인에 포함될 수 있다."
+            },
+            {
+               "en": "Photosafety: testing An initial assessment of phototoxic potential should be conducted prior to Phase I, based on photochemical properties of the drug and information on other members in the class.",
+               "ko": "광안전성: 시험  \n광독성 가능성에 대한 최초 평가는 임상 1상에 앞서, 의약품의 광화학적 특성과 해당 분류 내 다른 위원의 정보에 근거하여 실시해야 한다."
+            },
+            {
+               "en": "If assessment of these data indicates a potential risk, appropriate protective measures should be taken during outpatient trials.",
+               "ko": "이러한 자료의 평가 결과 잠재적 위험성이 확인되는 경우, 외래환자 임상시험 동안 적절한 보호조치를 취하여야 한다."
+            },
+            {
+               "en": "If the photosafety risk cannot be adequately evaluated based on nonclinical data or clinical experience, a photosafety assessment consistent with the principles described in ICH M3 should be provided prior to marketing.",
+               "ko": "비임상 자료 또는 임상경험에 근거하여 광안전성 위험이 적절히 평가될 수 없는 경우, 시판 전에 ICH M3에 기술된 원칙과 일치하는 광안전성 평가가 제공되어야 합니다."
+            },
+            {
+               "en": "Start Dose for First Administration in Humans The goal of selecting the start dose is to identify a dose that is expected to have pharmacologic effects and is reasonably safe to use.",
+               "ko": "최초 인체 투여 시작 투여량  \n최초 인체 투여에서 시작 투여량을 선정하는 목적은 약리학적 효과가 기대되며 합리적으로 안전하게 사용할 수 있는 투여량을 확인하는 것이다."
+            },
+            {
+               "en": "The start dose should be scientifically justified using all available nonclinical data (e.g., pharmacokinetics, pharmacodynamics, toxicity), and its selection based on various approaches (see Note 2).",
+               "ko": "시작 투여량은 이용 가능한 모든 비임상 자료(예: 약동학, 약력학, 독성)를 사용하여 과학적으로 타당성을 입증해야 하며, 그 선택은 다양한 접근법에 근거해야 한다(참조: 주석 2)."
+            },
+            {
+               "en": "For most systemically administered small molecules, interspecies scaling of the animal doses to an equivalent human dose is usually based on normalization to body surface area.",
+               "ko": "대부분의 전신 투여된 저분자 의약품의 종간 스케일링에서 동물 용량을 동등한 인체 투여량으로 환산할 때는 일반적으로 체표면적에 대한 정규화를 근거로 합니다."
+            },
+            {
+               "en": "For both small molecules and biopharmaceuticals, interspecies scaling based on body weight, AUC, or other exposure parameters might be appropriate.",
+               "ko": "저분자 및 생물의약품 모두에 대해, 종간 스케일링은 체중, 곡선하면적(AUC) 또는 기타 노출 지표를 근거로 하는 것이 적절할 수 있다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "biopharmaceuticals",
+               "생물의약품"
+            ],
+            [
+               "immune agonistic properties",
+               "면역작용 특성"
+            ],
+            [
+               "start dose",
+               "초기 투여량"
+            ],
+            [
+               "minimally anticipated biologic effect level",
+               "최소 예상 생물학적 효과 수준"
+            ],
+            [
+               "MABEL",
+               "MABEL"
+            ]
+         ]
+      },
+      {
+         "seg_id": 60,
+         "en": "The design of nonclinical studies should be appropriately chosen to accommodate different dosing schedules that might be utilized in initial clinical trials.",
+         "ko": "비임상시험의 설계는 최초 임상시험에서 활용될 수 있는 다양한 투여일정을 수용할 수 있도록 적절히 선택되어야 한다.",
+         "prev_context": [
+            {
+               "en": "If assessment of these data indicates a potential risk, appropriate protective measures should be taken during outpatient trials.",
+               "ko": "이러한 자료의 평가 결과 잠재적 위험성이 확인되는 경우, 외래환자 임상시험 동안 적절한 보호조치를 취하여야 한다."
+            },
+            {
+               "en": "If the photosafety risk cannot be adequately evaluated based on nonclinical data or clinical experience, a photosafety assessment consistent with the principles described in ICH M3 should be provided prior to marketing.",
+               "ko": "비임상 자료 또는 임상경험에 근거하여 광안전성 위험이 적절히 평가될 수 없는 경우, 시판 전에 ICH M3에 기술된 원칙과 일치하는 광안전성 평가가 제공되어야 합니다."
+            },
+            {
+               "en": "Start Dose for First Administration in Humans The goal of selecting the start dose is to identify a dose that is expected to have pharmacologic effects and is reasonably safe to use.",
+               "ko": "최초 인체 투여 시작 투여량  \n최초 인체 투여에서 시작 투여량을 선정하는 목적은 약리학적 효과가 기대되며 합리적으로 안전하게 사용할 수 있는 투여량을 확인하는 것이다."
+            },
+            {
+               "en": "The start dose should be scientifically justified using all available nonclinical data (e.g., pharmacokinetics, pharmacodynamics, toxicity), and its selection based on various approaches (see Note 2).",
+               "ko": "시작 투여량은 이용 가능한 모든 비임상 자료(예: 약동학, 약력학, 독성)를 사용하여 과학적으로 타당성을 입증해야 하며, 그 선택은 다양한 접근법에 근거해야 한다(참조: 주석 2)."
+            },
+            {
+               "en": "For most systemically administered small molecules, interspecies scaling of the animal doses to an equivalent human dose is usually based on normalization to body surface area.",
+               "ko": "대부분의 전신 투여된 저분자 의약품의 종간 스케일링에서 동물 용량을 동등한 인체 투여량으로 환산할 때는 일반적으로 체표면적에 대한 정규화를 근거로 합니다."
+            },
+            {
+               "en": "For both small molecules and biopharmaceuticals, interspecies scaling based on body weight, AUC, or other exposure parameters might be appropriate.",
+               "ko": "저분자 및 생물의약품 모두에 대해, 종간 스케일링은 체중, 곡선하면적(AUC) 또는 기타 노출 지표를 근거로 하는 것이 적절할 수 있다."
+            },
+            {
+               "en": "For biopharmaceuticals with immune agonistic properties, selection of the start dose using a minimally anticipated biologic effect level (MABEL) should be considered.",
+               "ko": "면역작용 특성을 가진 생물의약품의 경우, 최소 예상 생물학적 효과 수준(MABEL)을 사용하여 초기 투여량 선정이 고려되어야 한다."
+            },
+            {
+               "en": "Dose Escalation and the Highest Dose in a Clinical Trial: In general, the highest dose or exposure tested in the nonclinical studies does not limit the dose-escalation or highest dose investigated in a clinical trial in patients with cancer.",
+               "ko": "용량상승 및 임상시험에서의 최고 투여량: 일반적으로, 비임상시험에서 시험된 최고 투여량 또는 노출은 암 환자를 대상으로 한 임상시험에서의 용량상승 또는 최고 투여량을 한도하지 않는다."
+            },
+            {
+               "en": "When a steep dose- or exposure-response curve for severe toxicity is observed in nonclinical toxicology studies, or when no preceding marker of severe Nonclinical Evaluation for Anticancer Pharmaceuticals 6 toxicity is available, smaller than usual dose increments (fractional increments rather than dose doubling) should be considered.",
+               "ko": "비임상 독성시험에서 **중증독성**에 대해 **가파른 용량-반응 곡선** 또는 **노출-반응 곡선**이 **관찰**되거나, 중증독성의 **선행 표지자**가 **이용가능한** 않은 경우에는, **용량 배가** 대신 **분수 증분**과 같이 **통상보다 작은 용량 증가분**을 **고려된**다."
+            },
+            {
+               "en": "Duration and Schedule of Toxicology Studies to Support Initial Clinical Trials: In Phase I clinical trials, treatment can continue according to the patient’s response, and in this case, a new toxicology study is not called for to support continued treatment beyond the duration of the completed toxicology studies.",
+               "ko": "독성시험의 기간 및 투여일정: 임상 1상 시험에서는 환자 반응에 따라 투여를 계속할 수 있으며, 이 경우 완료된 독성시험의 기간을 초과하여 지속치료를 뒷받침하기 위해 새로운 독성시험이 요구되지는 않는다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "nonclinical studies",
+               "비임상시험"
+            ],
+            [
+               "design",
+               "설계"
+            ],
+            [
+               "dosing schedules",
+               "투여일정"
+            ],
+            [
+               "clinical trials",
+               "임상시험"
+            ]
+         ]
+      },
+      {
+         "seg_id": 61,
+         "en": "It is not expected that the exact clinical schedule always will be followed in the toxicological study, but the information provided from the toxicity studies should be sufficient to support the clinical dose and schedule and to identify potential toxicity.",
+         "ko": "독성학적 시험에서 항상 정확히 임상일정이 따를 것으로 예상되는 것은 아니나, 독성시험에서 제공된 정보는 임상용량 및 투여일정을 뒷받침하고 잠재적독성을 확인하기에 충분해야 한다.",
+         "prev_context": [
+            {
+               "en": "If the photosafety risk cannot be adequately evaluated based on nonclinical data or clinical experience, a photosafety assessment consistent with the principles described in ICH M3 should be provided prior to marketing.",
+               "ko": "비임상 자료 또는 임상경험에 근거하여 광안전성 위험이 적절히 평가될 수 없는 경우, 시판 전에 ICH M3에 기술된 원칙과 일치하는 광안전성 평가가 제공되어야 합니다."
+            },
+            {
+               "en": "Start Dose for First Administration in Humans The goal of selecting the start dose is to identify a dose that is expected to have pharmacologic effects and is reasonably safe to use.",
+               "ko": "최초 인체 투여 시작 투여량  \n최초 인체 투여에서 시작 투여량을 선정하는 목적은 약리학적 효과가 기대되며 합리적으로 안전하게 사용할 수 있는 투여량을 확인하는 것이다."
+            },
+            {
+               "en": "The start dose should be scientifically justified using all available nonclinical data (e.g., pharmacokinetics, pharmacodynamics, toxicity), and its selection based on various approaches (see Note 2).",
+               "ko": "시작 투여량은 이용 가능한 모든 비임상 자료(예: 약동학, 약력학, 독성)를 사용하여 과학적으로 타당성을 입증해야 하며, 그 선택은 다양한 접근법에 근거해야 한다(참조: 주석 2)."
+            },
+            {
+               "en": "For most systemically administered small molecules, interspecies scaling of the animal doses to an equivalent human dose is usually based on normalization to body surface area.",
+               "ko": "대부분의 전신 투여된 저분자 의약품의 종간 스케일링에서 동물 용량을 동등한 인체 투여량으로 환산할 때는 일반적으로 체표면적에 대한 정규화를 근거로 합니다."
+            },
+            {
+               "en": "For both small molecules and biopharmaceuticals, interspecies scaling based on body weight, AUC, or other exposure parameters might be appropriate.",
+               "ko": "저분자 및 생물의약품 모두에 대해, 종간 스케일링은 체중, 곡선하면적(AUC) 또는 기타 노출 지표를 근거로 하는 것이 적절할 수 있다."
+            },
+            {
+               "en": "For biopharmaceuticals with immune agonistic properties, selection of the start dose using a minimally anticipated biologic effect level (MABEL) should be considered.",
+               "ko": "면역작용 특성을 가진 생물의약품의 경우, 최소 예상 생물학적 효과 수준(MABEL)을 사용하여 초기 투여량 선정이 고려되어야 한다."
+            },
+            {
+               "en": "Dose Escalation and the Highest Dose in a Clinical Trial: In general, the highest dose or exposure tested in the nonclinical studies does not limit the dose-escalation or highest dose investigated in a clinical trial in patients with cancer.",
+               "ko": "용량상승 및 임상시험에서의 최고 투여량: 일반적으로, 비임상시험에서 시험된 최고 투여량 또는 노출은 암 환자를 대상으로 한 임상시험에서의 용량상승 또는 최고 투여량을 한도하지 않는다."
+            },
+            {
+               "en": "When a steep dose- or exposure-response curve for severe toxicity is observed in nonclinical toxicology studies, or when no preceding marker of severe Nonclinical Evaluation for Anticancer Pharmaceuticals 6 toxicity is available, smaller than usual dose increments (fractional increments rather than dose doubling) should be considered.",
+               "ko": "비임상 독성시험에서 **중증독성**에 대해 **가파른 용량-반응 곡선** 또는 **노출-반응 곡선**이 **관찰**되거나, 중증독성의 **선행 표지자**가 **이용가능한** 않은 경우에는, **용량 배가** 대신 **분수 증분**과 같이 **통상보다 작은 용량 증가분**을 **고려된**다."
+            },
+            {
+               "en": "Duration and Schedule of Toxicology Studies to Support Initial Clinical Trials: In Phase I clinical trials, treatment can continue according to the patient’s response, and in this case, a new toxicology study is not called for to support continued treatment beyond the duration of the completed toxicology studies.",
+               "ko": "독성시험의 기간 및 투여일정: 임상 1상 시험에서는 환자 반응에 따라 투여를 계속할 수 있으며, 이 경우 완료된 독성시험의 기간을 초과하여 지속치료를 뒷받침하기 위해 새로운 독성시험이 요구되지는 않는다."
+            },
+            {
+               "en": "The design of nonclinical studies should be appropriately chosen to accommodate different dosing schedules that might be utilized in initial clinical trials.",
+               "ko": "비임상시험의 설계는 최초 임상시험에서 활용될 수 있는 다양한 투여일정을 수용할 수 있도록 적절히 선택되어야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "clinical schedule",
+               "임상일정"
+            ],
+            [
+               "toxicological study",
+               "독성학적 시험"
+            ],
+            [
+               "toxicity studies",
+               "독성시험"
+            ],
+            [
+               "clinical dose",
+               "임상용량"
+            ],
+            [
+               "schedule",
+               "투여일정"
+            ],
+            [
+               "potential toxicity",
+               "잠재적독성"
+            ]
+         ]
+      },
+      {
+         "seg_id": 64,
+         "en": "In cases where the available toxicology information does not support a change in clinical schedules, an additional toxicology study in a single species is usually sufficient.",
+         "ko": "이용가능한 독성정보가 임상 투여일정의 변화를 뒷받침하지 않는 경우, 단일동물종에서의 추가 독성시험이 일반적으로 충분하다.",
+         "prev_context": [
+            {
+               "en": "For most systemically administered small molecules, interspecies scaling of the animal doses to an equivalent human dose is usually based on normalization to body surface area.",
+               "ko": "대부분의 전신 투여된 저분자 의약품의 종간 스케일링에서 동물 용량을 동등한 인체 투여량으로 환산할 때는 일반적으로 체표면적에 대한 정규화를 근거로 합니다."
+            },
+            {
+               "en": "For both small molecules and biopharmaceuticals, interspecies scaling based on body weight, AUC, or other exposure parameters might be appropriate.",
+               "ko": "저분자 및 생물의약품 모두에 대해, 종간 스케일링은 체중, 곡선하면적(AUC) 또는 기타 노출 지표를 근거로 하는 것이 적절할 수 있다."
+            },
+            {
+               "en": "For biopharmaceuticals with immune agonistic properties, selection of the start dose using a minimally anticipated biologic effect level (MABEL) should be considered.",
+               "ko": "면역작용 특성을 가진 생물의약품의 경우, 최소 예상 생물학적 효과 수준(MABEL)을 사용하여 초기 투여량 선정이 고려되어야 한다."
+            },
+            {
+               "en": "Dose Escalation and the Highest Dose in a Clinical Trial: In general, the highest dose or exposure tested in the nonclinical studies does not limit the dose-escalation or highest dose investigated in a clinical trial in patients with cancer.",
+               "ko": "용량상승 및 임상시험에서의 최고 투여량: 일반적으로, 비임상시험에서 시험된 최고 투여량 또는 노출은 암 환자를 대상으로 한 임상시험에서의 용량상승 또는 최고 투여량을 한도하지 않는다."
+            },
+            {
+               "en": "When a steep dose- or exposure-response curve for severe toxicity is observed in nonclinical toxicology studies, or when no preceding marker of severe Nonclinical Evaluation for Anticancer Pharmaceuticals 6 toxicity is available, smaller than usual dose increments (fractional increments rather than dose doubling) should be considered.",
+               "ko": "비임상 독성시험에서 **중증독성**에 대해 **가파른 용량-반응 곡선** 또는 **노출-반응 곡선**이 **관찰**되거나, 중증독성의 **선행 표지자**가 **이용가능한** 않은 경우에는, **용량 배가** 대신 **분수 증분**과 같이 **통상보다 작은 용량 증가분**을 **고려된**다."
+            },
+            {
+               "en": "Duration and Schedule of Toxicology Studies to Support Initial Clinical Trials: In Phase I clinical trials, treatment can continue according to the patient’s response, and in this case, a new toxicology study is not called for to support continued treatment beyond the duration of the completed toxicology studies.",
+               "ko": "독성시험의 기간 및 투여일정: 임상 1상 시험에서는 환자 반응에 따라 투여를 계속할 수 있으며, 이 경우 완료된 독성시험의 기간을 초과하여 지속치료를 뒷받침하기 위해 새로운 독성시험이 요구되지는 않는다."
+            },
+            {
+               "en": "The design of nonclinical studies should be appropriately chosen to accommodate different dosing schedules that might be utilized in initial clinical trials.",
+               "ko": "비임상시험의 설계는 최초 임상시험에서 활용될 수 있는 다양한 투여일정을 수용할 수 있도록 적절히 선택되어야 한다."
+            },
+            {
+               "en": "It is not expected that the exact clinical schedule always will be followed in the toxicological study, but the information provided from the toxicity studies should be sufficient to support the clinical dose and schedule and to identify potential toxicity.",
+               "ko": "독성학적 시험에서 항상 정확히 임상일정이 따를 것으로 예상되는 것은 아니나, 독성시험에서 제공된 정보는 임상용량 및 투여일정을 뒷받침하고 잠재적독성을 확인하기에 충분해야 한다."
+            },
+            {
+               "en": "For example, one factor that can be considered is the half-life in the test species and the projected (or known) half-life in humans.",
+               "ko": "예를 들어, 고려될 수 있는 요인 중 하나는 시험동물종에서의 반감기와 인체에서의 예상(또는 알려진) 반감기입니다."
+            },
+            {
+               "en": "Table 1 provides examples of nonclinical treatment schedules that are commonly used in anticancer pharmaceutical development and can be used for small molecules or biopharmaceuticals.",
+               "ko": "표 1은 항암제 개발에서 흔히 사용되는 비임상 투여일정의 사례를 제공하며, 저분자 또는 생물의약품에 사용할 수 있습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "toxicology",
+               "독성"
+            ],
+            [
+               "clinical schedules",
+               "임상 투여일정"
+            ],
+            [
+               "toxicology study",
+               "독성시험"
+            ],
+            [
+               "single species",
+               "단일동물종"
+            ]
+         ]
+      },
+      {
+         "seg_id": 65,
+         "en": "Duration of Toxicology Studies to Support Continued Clinical Development and Marketing: The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+         "ko": "독성시험의 기간 및 투여일정이 임상 개발 및 시판을 뒷받침하기 위한 비임상 자료의 기간: 임상 1상 단계에 필요한 비임상 자료와 임상 1상 자료는 일반적으로 임상 2상으로의 진입 및 진행성 암 환자에서의 2차 또는 1차 치료로의 진입을 뒷받침하기에 충분하다.",
+         "prev_context": [
+            {
+               "en": "For both small molecules and biopharmaceuticals, interspecies scaling based on body weight, AUC, or other exposure parameters might be appropriate.",
+               "ko": "저분자 및 생물의약품 모두에 대해, 종간 스케일링은 체중, 곡선하면적(AUC) 또는 기타 노출 지표를 근거로 하는 것이 적절할 수 있다."
+            },
+            {
+               "en": "For biopharmaceuticals with immune agonistic properties, selection of the start dose using a minimally anticipated biologic effect level (MABEL) should be considered.",
+               "ko": "면역작용 특성을 가진 생물의약품의 경우, 최소 예상 생물학적 효과 수준(MABEL)을 사용하여 초기 투여량 선정이 고려되어야 한다."
+            },
+            {
+               "en": "Dose Escalation and the Highest Dose in a Clinical Trial: In general, the highest dose or exposure tested in the nonclinical studies does not limit the dose-escalation or highest dose investigated in a clinical trial in patients with cancer.",
+               "ko": "용량상승 및 임상시험에서의 최고 투여량: 일반적으로, 비임상시험에서 시험된 최고 투여량 또는 노출은 암 환자를 대상으로 한 임상시험에서의 용량상승 또는 최고 투여량을 한도하지 않는다."
+            },
+            {
+               "en": "When a steep dose- or exposure-response curve for severe toxicity is observed in nonclinical toxicology studies, or when no preceding marker of severe Nonclinical Evaluation for Anticancer Pharmaceuticals 6 toxicity is available, smaller than usual dose increments (fractional increments rather than dose doubling) should be considered.",
+               "ko": "비임상 독성시험에서 **중증독성**에 대해 **가파른 용량-반응 곡선** 또는 **노출-반응 곡선**이 **관찰**되거나, 중증독성의 **선행 표지자**가 **이용가능한** 않은 경우에는, **용량 배가** 대신 **분수 증분**과 같이 **통상보다 작은 용량 증가분**을 **고려된**다."
+            },
+            {
+               "en": "Duration and Schedule of Toxicology Studies to Support Initial Clinical Trials: In Phase I clinical trials, treatment can continue according to the patient’s response, and in this case, a new toxicology study is not called for to support continued treatment beyond the duration of the completed toxicology studies.",
+               "ko": "독성시험의 기간 및 투여일정: 임상 1상 시험에서는 환자 반응에 따라 투여를 계속할 수 있으며, 이 경우 완료된 독성시험의 기간을 초과하여 지속치료를 뒷받침하기 위해 새로운 독성시험이 요구되지는 않는다."
+            },
+            {
+               "en": "The design of nonclinical studies should be appropriately chosen to accommodate different dosing schedules that might be utilized in initial clinical trials.",
+               "ko": "비임상시험의 설계는 최초 임상시험에서 활용될 수 있는 다양한 투여일정을 수용할 수 있도록 적절히 선택되어야 한다."
+            },
+            {
+               "en": "It is not expected that the exact clinical schedule always will be followed in the toxicological study, but the information provided from the toxicity studies should be sufficient to support the clinical dose and schedule and to identify potential toxicity.",
+               "ko": "독성학적 시험에서 항상 정확히 임상일정이 따를 것으로 예상되는 것은 아니나, 독성시험에서 제공된 정보는 임상용량 및 투여일정을 뒷받침하고 잠재적독성을 확인하기에 충분해야 한다."
+            },
+            {
+               "en": "For example, one factor that can be considered is the half-life in the test species and the projected (or known) half-life in humans.",
+               "ko": "예를 들어, 고려될 수 있는 요인 중 하나는 시험동물종에서의 반감기와 인체에서의 예상(또는 알려진) 반감기입니다."
+            },
+            {
+               "en": "Table 1 provides examples of nonclinical treatment schedules that are commonly used in anticancer pharmaceutical development and can be used for small molecules or biopharmaceuticals.",
+               "ko": "표 1은 항암제 개발에서 흔히 사용되는 비임상 투여일정의 사례를 제공하며, 저분자 또는 생물의약품에 사용할 수 있습니다."
+            },
+            {
+               "en": "In cases where the available toxicology information does not support a change in clinical schedules, an additional toxicology study in a single species is usually sufficient.",
+               "ko": "이용가능한 독성정보가 임상 투여일정의 변화를 뒷받침하지 않는 경우, 단일동물종에서의 추가 독성시험이 일반적으로 충분하다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "Toxicology Studies",
+               "독성시험"
+            ],
+            [
+               "nonclinical data",
+               "비임상 자료"
+            ],
+            [
+               "Phase I",
+               "임상 1상"
+            ],
+            [
+               "Phase II",
+               "임상 2상"
+            ],
+            [
+               "advanced cancer",
+               "진행성 암"
+            ],
+            [
+               "second line therapy",
+               "2차 치료"
+            ],
+            [
+               "first line therapy",
+               "1차 치료"
+            ]
+         ]
+      },
+      {
+         "seg_id": 69,
+         "en": "If the clinical data alone are inadequate to support the change in schedule, the factors discussed in Section 3.3 above should be considered.",
+         "ko": "임상 자료만으로는 일정 변경을 뒷받침하기에 불충분한 경우, 위의 3.3 항목에서 논의된 요인들이 고려되어야 한다.",
+         "prev_context": [
+            {
+               "en": "Duration and Schedule of Toxicology Studies to Support Initial Clinical Trials: In Phase I clinical trials, treatment can continue according to the patient’s response, and in this case, a new toxicology study is not called for to support continued treatment beyond the duration of the completed toxicology studies.",
+               "ko": "독성시험의 기간 및 투여일정: 임상 1상 시험에서는 환자 반응에 따라 투여를 계속할 수 있으며, 이 경우 완료된 독성시험의 기간을 초과하여 지속치료를 뒷받침하기 위해 새로운 독성시험이 요구되지는 않는다."
+            },
+            {
+               "en": "The design of nonclinical studies should be appropriately chosen to accommodate different dosing schedules that might be utilized in initial clinical trials.",
+               "ko": "비임상시험의 설계는 최초 임상시험에서 활용될 수 있는 다양한 투여일정을 수용할 수 있도록 적절히 선택되어야 한다."
+            },
+            {
+               "en": "It is not expected that the exact clinical schedule always will be followed in the toxicological study, but the information provided from the toxicity studies should be sufficient to support the clinical dose and schedule and to identify potential toxicity.",
+               "ko": "독성학적 시험에서 항상 정확히 임상일정이 따를 것으로 예상되는 것은 아니나, 독성시험에서 제공된 정보는 임상용량 및 투여일정을 뒷받침하고 잠재적독성을 확인하기에 충분해야 한다."
+            },
+            {
+               "en": "For example, one factor that can be considered is the half-life in the test species and the projected (or known) half-life in humans.",
+               "ko": "예를 들어, 고려될 수 있는 요인 중 하나는 시험동물종에서의 반감기와 인체에서의 예상(또는 알려진) 반감기입니다."
+            },
+            {
+               "en": "Table 1 provides examples of nonclinical treatment schedules that are commonly used in anticancer pharmaceutical development and can be used for small molecules or biopharmaceuticals.",
+               "ko": "표 1은 항암제 개발에서 흔히 사용되는 비임상 투여일정의 사례를 제공하며, 저분자 또는 생물의약품에 사용할 수 있습니다."
+            },
+            {
+               "en": "In cases where the available toxicology information does not support a change in clinical schedules, an additional toxicology study in a single species is usually sufficient.",
+               "ko": "이용가능한 독성정보가 임상 투여일정의 변화를 뒷받침하지 않는 경우, 단일동물종에서의 추가 독성시험이 일반적으로 충분하다."
+            },
+            {
+               "en": "Duration of Toxicology Studies to Support Continued Clinical Development and Marketing: The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "독성시험의 기간 및 투여일정이 임상 개발 및 시판을 뒷받침하기 위한 비임상 자료의 기간: 임상 1상 단계에 필요한 비임상 자료와 임상 1상 자료는 일반적으로 임상 2상으로의 진입 및 진행성 암 환자에서의 2차 또는 1차 치료로의 진입을 뒷받침하기에 충분하다."
+            },
+            {
+               "en": "In support of continued development of an anticancer pharmaceutical for patients with advanced cancer, results from repeat dose studies of 3 months’ duration following the intended clinical schedule should be provided prior to initiating Phase III studies.",
+               "ko": "진행성 암 환자를 위한 항암제 개발의 연장 임상 개발을 뒷받침하기 위해, 의도된 임상일정에 따라 실시된 3개월 기간의 반복 투여 시험 결과는 3상 임상시험 시작에 앞서 제공되어야 합니다."
+            },
+            {
+               "en": "For most pharmaceuticals intended for the treatment of patients with advanced cancer, nonclinical studies of 3 months duration are considered sufficient to support marketing.",
+               "ko": "진행성 암 환자의 치료를 목적으로 하는 대부분의 의약품에 대해, 3개월 동안의 비임상 시험은 시판을 뒷받침하기에 충분한 것으로 간주됩니다."
+            },
+            {
+               "en": "When considering a change in the clinical schedule, an evaluation of the existing clinical data should be conducted to justify such change.",
+               "ko": "임상일정의 변경을 고려할 때, 이러한 변경을 정당화하기 위해 기존의 임상자료에 대한 평가가 실시되어야 한다."
+            }
+         ],
+         "dict_pair": []
+      },
+      {
+         "seg_id": 70,
+         "en": "Combination of Pharmaceuticals: Pharmaceuticals planned for use in combination should be well studied individually in toxicology evaluations.",
+         "ko": "의약품의 복합: 병용 사용이 계획된 의약품은 독성 평가에서 개별적으로 충분히 연구되어야 한다.",
+         "prev_context": [
+            {
+               "en": "The design of nonclinical studies should be appropriately chosen to accommodate different dosing schedules that might be utilized in initial clinical trials.",
+               "ko": "비임상시험의 설계는 최초 임상시험에서 활용될 수 있는 다양한 투여일정을 수용할 수 있도록 적절히 선택되어야 한다."
+            },
+            {
+               "en": "It is not expected that the exact clinical schedule always will be followed in the toxicological study, but the information provided from the toxicity studies should be sufficient to support the clinical dose and schedule and to identify potential toxicity.",
+               "ko": "독성학적 시험에서 항상 정확히 임상일정이 따를 것으로 예상되는 것은 아니나, 독성시험에서 제공된 정보는 임상용량 및 투여일정을 뒷받침하고 잠재적독성을 확인하기에 충분해야 한다."
+            },
+            {
+               "en": "For example, one factor that can be considered is the half-life in the test species and the projected (or known) half-life in humans.",
+               "ko": "예를 들어, 고려될 수 있는 요인 중 하나는 시험동물종에서의 반감기와 인체에서의 예상(또는 알려진) 반감기입니다."
+            },
+            {
+               "en": "Table 1 provides examples of nonclinical treatment schedules that are commonly used in anticancer pharmaceutical development and can be used for small molecules or biopharmaceuticals.",
+               "ko": "표 1은 항암제 개발에서 흔히 사용되는 비임상 투여일정의 사례를 제공하며, 저분자 또는 생물의약품에 사용할 수 있습니다."
+            },
+            {
+               "en": "In cases where the available toxicology information does not support a change in clinical schedules, an additional toxicology study in a single species is usually sufficient.",
+               "ko": "이용가능한 독성정보가 임상 투여일정의 변화를 뒷받침하지 않는 경우, 단일동물종에서의 추가 독성시험이 일반적으로 충분하다."
+            },
+            {
+               "en": "Duration of Toxicology Studies to Support Continued Clinical Development and Marketing: The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "독성시험의 기간 및 투여일정이 임상 개발 및 시판을 뒷받침하기 위한 비임상 자료의 기간: 임상 1상 단계에 필요한 비임상 자료와 임상 1상 자료는 일반적으로 임상 2상으로의 진입 및 진행성 암 환자에서의 2차 또는 1차 치료로의 진입을 뒷받침하기에 충분하다."
+            },
+            {
+               "en": "In support of continued development of an anticancer pharmaceutical for patients with advanced cancer, results from repeat dose studies of 3 months’ duration following the intended clinical schedule should be provided prior to initiating Phase III studies.",
+               "ko": "진행성 암 환자를 위한 항암제 개발의 연장 임상 개발을 뒷받침하기 위해, 의도된 임상일정에 따라 실시된 3개월 기간의 반복 투여 시험 결과는 3상 임상시험 시작에 앞서 제공되어야 합니다."
+            },
+            {
+               "en": "For most pharmaceuticals intended for the treatment of patients with advanced cancer, nonclinical studies of 3 months duration are considered sufficient to support marketing.",
+               "ko": "진행성 암 환자의 치료를 목적으로 하는 대부분의 의약품에 대해, 3개월 동안의 비임상 시험은 시판을 뒷받침하기에 충분한 것으로 간주됩니다."
+            },
+            {
+               "en": "When considering a change in the clinical schedule, an evaluation of the existing clinical data should be conducted to justify such change.",
+               "ko": "임상일정의 변경을 고려할 때, 이러한 변경을 정당화하기 위해 기존의 임상자료에 대한 평가가 실시되어야 한다."
+            },
+            {
+               "en": "If the clinical data alone are inadequate to support the change in schedule, the factors discussed in Section 3.3 above should be considered.",
+               "ko": "임상 자료만으로는 일정 변경을 뒷받침하기에 불충분한 경우, 위의 3.3 항목에서 논의된 요인들이 고려되어야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "Pharmaceuticals",
+               "의약품"
+            ],
+            [
+               "toxicology evaluations",
+               "독성 평가"
+            ]
+         ]
+      },
+      {
+         "seg_id": 73,
+         "en": "For studies in which at least one of these compounds is in early stage development (i.e., the human toxicity profile has not been characterized), a pharmacology study to support the rationale for the combination should be provided.",
+         "ko": "이러한 화합물 중 적어도 하나가 초기 단계 개발(즉, 인체 독성 프로파일이 특성화되지 않은 경우)에 있는 시험의 경우, 복합의 근거를 뒷받침할 약리학 시험이 제공되어야 합니다.",
+         "prev_context": [
+            {
+               "en": "Table 1 provides examples of nonclinical treatment schedules that are commonly used in anticancer pharmaceutical development and can be used for small molecules or biopharmaceuticals.",
+               "ko": "표 1은 항암제 개발에서 흔히 사용되는 비임상 투여일정의 사례를 제공하며, 저분자 또는 생물의약품에 사용할 수 있습니다."
+            },
+            {
+               "en": "In cases where the available toxicology information does not support a change in clinical schedules, an additional toxicology study in a single species is usually sufficient.",
+               "ko": "이용가능한 독성정보가 임상 투여일정의 변화를 뒷받침하지 않는 경우, 단일동물종에서의 추가 독성시험이 일반적으로 충분하다."
+            },
+            {
+               "en": "Duration of Toxicology Studies to Support Continued Clinical Development and Marketing: The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "독성시험의 기간 및 투여일정이 임상 개발 및 시판을 뒷받침하기 위한 비임상 자료의 기간: 임상 1상 단계에 필요한 비임상 자료와 임상 1상 자료는 일반적으로 임상 2상으로의 진입 및 진행성 암 환자에서의 2차 또는 1차 치료로의 진입을 뒷받침하기에 충분하다."
+            },
+            {
+               "en": "In support of continued development of an anticancer pharmaceutical for patients with advanced cancer, results from repeat dose studies of 3 months’ duration following the intended clinical schedule should be provided prior to initiating Phase III studies.",
+               "ko": "진행성 암 환자를 위한 항암제 개발의 연장 임상 개발을 뒷받침하기 위해, 의도된 임상일정에 따라 실시된 3개월 기간의 반복 투여 시험 결과는 3상 임상시험 시작에 앞서 제공되어야 합니다."
+            },
+            {
+               "en": "For most pharmaceuticals intended for the treatment of patients with advanced cancer, nonclinical studies of 3 months duration are considered sufficient to support marketing.",
+               "ko": "진행성 암 환자의 치료를 목적으로 하는 대부분의 의약품에 대해, 3개월 동안의 비임상 시험은 시판을 뒷받침하기에 충분한 것으로 간주됩니다."
+            },
+            {
+               "en": "When considering a change in the clinical schedule, an evaluation of the existing clinical data should be conducted to justify such change.",
+               "ko": "임상일정의 변경을 고려할 때, 이러한 변경을 정당화하기 위해 기존의 임상자료에 대한 평가가 실시되어야 한다."
+            },
+            {
+               "en": "If the clinical data alone are inadequate to support the change in schedule, the factors discussed in Section 3.3 above should be considered.",
+               "ko": "임상 자료만으로는 일정 변경을 뒷받침하기에 불충분한 경우, 위의 3.3 항목에서 논의된 요인들이 고려되어야 한다."
+            },
+            {
+               "en": "Combination of Pharmaceuticals: Pharmaceuticals planned for use in combination should be well studied individually in toxicology evaluations.",
+               "ko": "의약품의 복합: 병용 사용이 계획된 의약품은 독성 평가에서 개별적으로 충분히 연구되어야 한다."
+            },
+            {
+               "en": "Data to support a rationale for the combination should be provided prior to starting the clinical study.",
+               "ko": "임상시험을 시작하기 전에 복합 사용의 근거를 뒷받침할 자료를 제공해야 합니다."
+            },
+            {
+               "en": "If the human toxicity profile of the pharmaceuticals has been characterized, a nonclinical study evaluating the combination is not usually warranted.",
+               "ko": "의약품의 인체 독성 프로파일이 특성화된 경우, 복합물에 대한 비임상 시험은 일반적으로 필요하지 않다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "pharmacology study",
+               "약리학 시험"
+            ],
+            [
+               "early stage development",
+               "초기 단계 개발"
+            ],
+            [
+               "human toxicity profile",
+               "인체 독성 프로파일"
+            ],
+            [
+               "combination",
+               "복합"
+            ]
+         ]
+      },
+      {
+         "seg_id": 75,
+         "en": "Based on available information, a determination should be made whether or not a dedicated toxicology study of the combination is warranted.",
+         "ko": "이용가능한 정보에 근거하여, 복합에 대한 특정용도 독성시험이 필요하다 여부에 대한 결정이 이루어져야 한다.",
+         "prev_context": [
+            {
+               "en": "Duration of Toxicology Studies to Support Continued Clinical Development and Marketing: The nonclinical data to support Phase I and the clinical Phase I data would normally be sufficient for moving to Phase II and into second or first line therapy in patients with advanced cancer.",
+               "ko": "독성시험의 기간 및 투여일정이 임상 개발 및 시판을 뒷받침하기 위한 비임상 자료의 기간: 임상 1상 단계에 필요한 비임상 자료와 임상 1상 자료는 일반적으로 임상 2상으로의 진입 및 진행성 암 환자에서의 2차 또는 1차 치료로의 진입을 뒷받침하기에 충분하다."
+            },
+            {
+               "en": "In support of continued development of an anticancer pharmaceutical for patients with advanced cancer, results from repeat dose studies of 3 months’ duration following the intended clinical schedule should be provided prior to initiating Phase III studies.",
+               "ko": "진행성 암 환자를 위한 항암제 개발의 연장 임상 개발을 뒷받침하기 위해, 의도된 임상일정에 따라 실시된 3개월 기간의 반복 투여 시험 결과는 3상 임상시험 시작에 앞서 제공되어야 합니다."
+            },
+            {
+               "en": "For most pharmaceuticals intended for the treatment of patients with advanced cancer, nonclinical studies of 3 months duration are considered sufficient to support marketing.",
+               "ko": "진행성 암 환자의 치료를 목적으로 하는 대부분의 의약품에 대해, 3개월 동안의 비임상 시험은 시판을 뒷받침하기에 충분한 것으로 간주됩니다."
+            },
+            {
+               "en": "When considering a change in the clinical schedule, an evaluation of the existing clinical data should be conducted to justify such change.",
+               "ko": "임상일정의 변경을 고려할 때, 이러한 변경을 정당화하기 위해 기존의 임상자료에 대한 평가가 실시되어야 한다."
+            },
+            {
+               "en": "If the clinical data alone are inadequate to support the change in schedule, the factors discussed in Section 3.3 above should be considered.",
+               "ko": "임상 자료만으로는 일정 변경을 뒷받침하기에 불충분한 경우, 위의 3.3 항목에서 논의된 요인들이 고려되어야 한다."
+            },
+            {
+               "en": "Combination of Pharmaceuticals: Pharmaceuticals planned for use in combination should be well studied individually in toxicology evaluations.",
+               "ko": "의약품의 복합: 병용 사용이 계획된 의약품은 독성 평가에서 개별적으로 충분히 연구되어야 한다."
+            },
+            {
+               "en": "Data to support a rationale for the combination should be provided prior to starting the clinical study.",
+               "ko": "임상시험을 시작하기 전에 복합 사용의 근거를 뒷받침할 자료를 제공해야 합니다."
+            },
+            {
+               "en": "If the human toxicity profile of the pharmaceuticals has been characterized, a nonclinical study evaluating the combination is not usually warranted.",
+               "ko": "의약품의 인체 독성 프로파일이 특성화된 경우, 복합물에 대한 비임상 시험은 일반적으로 필요하지 않다."
+            },
+            {
+               "en": "For studies in which at least one of these compounds is in early stage development (i.e., the human toxicity profile has not been characterized), a pharmacology study to support the rationale for the combination should be provided.",
+               "ko": "이러한 화합물 중 적어도 하나가 초기 단계 개발(즉, 인체 독성 프로파일이 특성화되지 않은 경우)에 있는 시험의 경우, 복합의 근거를 뒷받침할 약리학 시험이 제공되어야 합니다."
+            },
+            {
+               "en": "This study should provide evidence of increased activity in the Nonclinical Evaluation for Anticancer Pharmaceuticals 7 absence of a substantial increase in toxicity on the basis of limited safety endpoints, such as mortality, clinical signs, and body weight.",
+               "ko": "이 시험은 사망률, 임상징후, 체중과 같은 제한적 안전성 평가변수를 근거로, 상당한 독성 증가의 부재 하에 비임상평가에서 항암제의 활성 증가에 대한 증거를 제공해야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "toxicology study",
+               "독성시험"
+            ]
+         ]
+      },
+      {
+         "seg_id": 76,
+         "en": "Nonclinical Studies to Support Trials in Pediatric Populations: The general paradigm for investigating most anticancer pharmaceuticals in pediatric patients is first to define a relatively safe dose in adult populations and then to assess some fraction of that dose in initial pediatric clinical studies.",
+         "ko": "소아 집단에서 임상시험을 뒷받침하기 위한 비임상시험: 대부분의 항암제에 대한 소아 환자 연구의 일반적인 패러다임은 먼저 성인 집단에서 비교적 안전한 투여량을 정의한 후, 그 투여량의 일부 분획을 최초 소아 임상시험에서 평가하는 것이다.",
+         "prev_context": [
+            {
+               "en": "In support of continued development of an anticancer pharmaceutical for patients with advanced cancer, results from repeat dose studies of 3 months’ duration following the intended clinical schedule should be provided prior to initiating Phase III studies.",
+               "ko": "진행성 암 환자를 위한 항암제 개발의 연장 임상 개발을 뒷받침하기 위해, 의도된 임상일정에 따라 실시된 3개월 기간의 반복 투여 시험 결과는 3상 임상시험 시작에 앞서 제공되어야 합니다."
+            },
+            {
+               "en": "For most pharmaceuticals intended for the treatment of patients with advanced cancer, nonclinical studies of 3 months duration are considered sufficient to support marketing.",
+               "ko": "진행성 암 환자의 치료를 목적으로 하는 대부분의 의약품에 대해, 3개월 동안의 비임상 시험은 시판을 뒷받침하기에 충분한 것으로 간주됩니다."
+            },
+            {
+               "en": "When considering a change in the clinical schedule, an evaluation of the existing clinical data should be conducted to justify such change.",
+               "ko": "임상일정의 변경을 고려할 때, 이러한 변경을 정당화하기 위해 기존의 임상자료에 대한 평가가 실시되어야 한다."
+            },
+            {
+               "en": "If the clinical data alone are inadequate to support the change in schedule, the factors discussed in Section 3.3 above should be considered.",
+               "ko": "임상 자료만으로는 일정 변경을 뒷받침하기에 불충분한 경우, 위의 3.3 항목에서 논의된 요인들이 고려되어야 한다."
+            },
+            {
+               "en": "Combination of Pharmaceuticals: Pharmaceuticals planned for use in combination should be well studied individually in toxicology evaluations.",
+               "ko": "의약품의 복합: 병용 사용이 계획된 의약품은 독성 평가에서 개별적으로 충분히 연구되어야 한다."
+            },
+            {
+               "en": "Data to support a rationale for the combination should be provided prior to starting the clinical study.",
+               "ko": "임상시험을 시작하기 전에 복합 사용의 근거를 뒷받침할 자료를 제공해야 합니다."
+            },
+            {
+               "en": "If the human toxicity profile of the pharmaceuticals has been characterized, a nonclinical study evaluating the combination is not usually warranted.",
+               "ko": "의약품의 인체 독성 프로파일이 특성화된 경우, 복합물에 대한 비임상 시험은 일반적으로 필요하지 않다."
+            },
+            {
+               "en": "For studies in which at least one of these compounds is in early stage development (i.e., the human toxicity profile has not been characterized), a pharmacology study to support the rationale for the combination should be provided.",
+               "ko": "이러한 화합물 중 적어도 하나가 초기 단계 개발(즉, 인체 독성 프로파일이 특성화되지 않은 경우)에 있는 시험의 경우, 복합의 근거를 뒷받침할 약리학 시험이 제공되어야 합니다."
+            },
+            {
+               "en": "This study should provide evidence of increased activity in the Nonclinical Evaluation for Anticancer Pharmaceuticals 7 absence of a substantial increase in toxicity on the basis of limited safety endpoints, such as mortality, clinical signs, and body weight.",
+               "ko": "이 시험은 사망률, 임상징후, 체중과 같은 제한적 안전성 평가변수를 근거로, 상당한 독성 증가의 부재 하에 비임상평가에서 항암제의 활성 증가에 대한 증거를 제공해야 한다."
+            },
+            {
+               "en": "Based on available information, a determination should be made whether or not a dedicated toxicology study of the combination is warranted.",
+               "ko": "이용가능한 정보에 근거하여, 복합에 대한 특정용도 독성시험이 필요하다 여부에 대한 결정이 이루어져야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "anticancer pharmaceuticals",
+               "항암제"
+            ],
+            [
+               "nonclinical studies",
+               "비임상시험"
+            ],
+            [
+               "pediatric populations",
+               "소아 집단"
+            ],
+            [
+               "clinical studies",
+               "임상시험"
+            ],
+            [
+               "dose",
+               "투여량"
+            ]
+         ]
+      },
+      {
+         "seg_id": 79,
+         "en": "Conjugated Products: Conjugated products are pharmaceuticals covalently bound to carrier molecules, such as proteins, lipids, or sugars.",
+         "ko": "**접합의약품:** 접합의약품은 **단백질**, **지질** 또는 **당류**와 같은 **운반체** 분자에 **공유 결합**된 **의약품**입니다.",
+         "prev_context": [
+            {
+               "en": "If the clinical data alone are inadequate to support the change in schedule, the factors discussed in Section 3.3 above should be considered.",
+               "ko": "임상 자료만으로는 일정 변경을 뒷받침하기에 불충분한 경우, 위의 3.3 항목에서 논의된 요인들이 고려되어야 한다."
+            },
+            {
+               "en": "Combination of Pharmaceuticals: Pharmaceuticals planned for use in combination should be well studied individually in toxicology evaluations.",
+               "ko": "의약품의 복합: 병용 사용이 계획된 의약품은 독성 평가에서 개별적으로 충분히 연구되어야 한다."
+            },
+            {
+               "en": "Data to support a rationale for the combination should be provided prior to starting the clinical study.",
+               "ko": "임상시험을 시작하기 전에 복합 사용의 근거를 뒷받침할 자료를 제공해야 합니다."
+            },
+            {
+               "en": "If the human toxicity profile of the pharmaceuticals has been characterized, a nonclinical study evaluating the combination is not usually warranted.",
+               "ko": "의약품의 인체 독성 프로파일이 특성화된 경우, 복합물에 대한 비임상 시험은 일반적으로 필요하지 않다."
+            },
+            {
+               "en": "For studies in which at least one of these compounds is in early stage development (i.e., the human toxicity profile has not been characterized), a pharmacology study to support the rationale for the combination should be provided.",
+               "ko": "이러한 화합물 중 적어도 하나가 초기 단계 개발(즉, 인체 독성 프로파일이 특성화되지 않은 경우)에 있는 시험의 경우, 복합의 근거를 뒷받침할 약리학 시험이 제공되어야 합니다."
+            },
+            {
+               "en": "This study should provide evidence of increased activity in the Nonclinical Evaluation for Anticancer Pharmaceuticals 7 absence of a substantial increase in toxicity on the basis of limited safety endpoints, such as mortality, clinical signs, and body weight.",
+               "ko": "이 시험은 사망률, 임상징후, 체중과 같은 제한적 안전성 평가변수를 근거로, 상당한 독성 증가의 부재 하에 비임상평가에서 항암제의 활성 증가에 대한 증거를 제공해야 한다."
+            },
+            {
+               "en": "Based on available information, a determination should be made whether or not a dedicated toxicology study of the combination is warranted.",
+               "ko": "이용가능한 정보에 근거하여, 복합에 대한 특정용도 독성시험이 필요하다 여부에 대한 결정이 이루어져야 한다."
+            },
+            {
+               "en": "Nonclinical Studies to Support Trials in Pediatric Populations: The general paradigm for investigating most anticancer pharmaceuticals in pediatric patients is first to define a relatively safe dose in adult populations and then to assess some fraction of that dose in initial pediatric clinical studies.",
+               "ko": "소아 집단에서 임상시험을 뒷받침하기 위한 비임상시험: 대부분의 항암제에 대한 소아 환자 연구의 일반적인 패러다임은 먼저 성인 집단에서 비교적 안전한 투여량을 정의한 후, 그 투여량의 일부 분획을 최초 소아 임상시험에서 평가하는 것이다."
+            },
+            {
+               "en": "Studies in juvenile animals are not usually conducted in order to support inclusion of pediatric populations for the treatment of cancer.",
+               "ko": "암 치료를 위한 소아 집단의 임상시험 포함을 뒷받침하기 위해 어린 동물을 이용한 시험은 일반적으로 실시되지 않는다."
+            },
+            {
+               "en": "Conduct of studies in juvenile animals should be considered only when human safety data and previous animal studies are considered insufficient for a safety evaluation in the intended pediatric age group.",
+               "ko": "어린 동물에서의 시험 수행은 인체 안전성 데이터와 기존 동물시험이 목표 소아 연령군에 대한 안전성 평가에 충분하지 않다고 고려된 경우에만 고려되어야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "conjugated products",
+               "접합의약품"
+            ],
+            [
+               "pharmaceuticals",
+               "의약품"
+            ],
+            [
+               "carrier molecules",
+               "운반체"
+            ],
+            [
+               "proteins",
+               "단백질"
+            ],
+            [
+               "lipids",
+               "지질"
+            ],
+            [
+               "sugars",
+               "당류"
+            ],
+            [
+               "covalently bound",
+               "공유 결합된"
+            ]
+         ]
+      },
+      {
+         "seg_id": 80,
+         "en": "Stability of the conjugate in the test species and human plasma should be provided.",
+         "ko": "시험동물종 및 인체 혈장에서의 접합체 안정성이 제공되어야 합니다.",
+         "prev_context": [
+            {
+               "en": "Combination of Pharmaceuticals: Pharmaceuticals planned for use in combination should be well studied individually in toxicology evaluations.",
+               "ko": "의약품의 복합: 병용 사용이 계획된 의약품은 독성 평가에서 개별적으로 충분히 연구되어야 한다."
+            },
+            {
+               "en": "Data to support a rationale for the combination should be provided prior to starting the clinical study.",
+               "ko": "임상시험을 시작하기 전에 복합 사용의 근거를 뒷받침할 자료를 제공해야 합니다."
+            },
+            {
+               "en": "If the human toxicity profile of the pharmaceuticals has been characterized, a nonclinical study evaluating the combination is not usually warranted.",
+               "ko": "의약품의 인체 독성 프로파일이 특성화된 경우, 복합물에 대한 비임상 시험은 일반적으로 필요하지 않다."
+            },
+            {
+               "en": "For studies in which at least one of these compounds is in early stage development (i.e., the human toxicity profile has not been characterized), a pharmacology study to support the rationale for the combination should be provided.",
+               "ko": "이러한 화합물 중 적어도 하나가 초기 단계 개발(즉, 인체 독성 프로파일이 특성화되지 않은 경우)에 있는 시험의 경우, 복합의 근거를 뒷받침할 약리학 시험이 제공되어야 합니다."
+            },
+            {
+               "en": "This study should provide evidence of increased activity in the Nonclinical Evaluation for Anticancer Pharmaceuticals 7 absence of a substantial increase in toxicity on the basis of limited safety endpoints, such as mortality, clinical signs, and body weight.",
+               "ko": "이 시험은 사망률, 임상징후, 체중과 같은 제한적 안전성 평가변수를 근거로, 상당한 독성 증가의 부재 하에 비임상평가에서 항암제의 활성 증가에 대한 증거를 제공해야 한다."
+            },
+            {
+               "en": "Based on available information, a determination should be made whether or not a dedicated toxicology study of the combination is warranted.",
+               "ko": "이용가능한 정보에 근거하여, 복합에 대한 특정용도 독성시험이 필요하다 여부에 대한 결정이 이루어져야 한다."
+            },
+            {
+               "en": "Nonclinical Studies to Support Trials in Pediatric Populations: The general paradigm for investigating most anticancer pharmaceuticals in pediatric patients is first to define a relatively safe dose in adult populations and then to assess some fraction of that dose in initial pediatric clinical studies.",
+               "ko": "소아 집단에서 임상시험을 뒷받침하기 위한 비임상시험: 대부분의 항암제에 대한 소아 환자 연구의 일반적인 패러다임은 먼저 성인 집단에서 비교적 안전한 투여량을 정의한 후, 그 투여량의 일부 분획을 최초 소아 임상시험에서 평가하는 것이다."
+            },
+            {
+               "en": "Studies in juvenile animals are not usually conducted in order to support inclusion of pediatric populations for the treatment of cancer.",
+               "ko": "암 치료를 위한 소아 집단의 임상시험 포함을 뒷받침하기 위해 어린 동물을 이용한 시험은 일반적으로 실시되지 않는다."
+            },
+            {
+               "en": "Conduct of studies in juvenile animals should be considered only when human safety data and previous animal studies are considered insufficient for a safety evaluation in the intended pediatric age group.",
+               "ko": "어린 동물에서의 시험 수행은 인체 안전성 데이터와 기존 동물시험이 목표 소아 연령군에 대한 안전성 평가에 충분하지 않다고 고려된 경우에만 고려되어야 한다."
+            },
+            {
+               "en": "Conjugated Products: Conjugated products are pharmaceuticals covalently bound to carrier molecules, such as proteins, lipids, or sugars.",
+               "ko": "**접합의약품:** 접합의약품은 **단백질**, **지질** 또는 **당류**와 같은 **운반체** 분자에 **공유 결합**된 **의약품**입니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "conjugate",
+               "접합체"
+            ],
+            [
+               "stability",
+               "안정성"
+            ]
+         ]
+      },
+      {
+         "seg_id": 86,
+         "en": "Evaluation of Drug Metabolites: In some cases, metabolites that have been identified in humans have not been qualified in nonclinical studies.",
+         "ko": "**의약품 대사체 평가:** 일부 사례에서는 인체에서 확인된 대사체가 비임상시험에서 적격으로 평가되지 않은 경우가 있다.",
+         "prev_context": [
+            {
+               "en": "Nonclinical Studies to Support Trials in Pediatric Populations: The general paradigm for investigating most anticancer pharmaceuticals in pediatric patients is first to define a relatively safe dose in adult populations and then to assess some fraction of that dose in initial pediatric clinical studies.",
+               "ko": "소아 집단에서 임상시험을 뒷받침하기 위한 비임상시험: 대부분의 항암제에 대한 소아 환자 연구의 일반적인 패러다임은 먼저 성인 집단에서 비교적 안전한 투여량을 정의한 후, 그 투여량의 일부 분획을 최초 소아 임상시험에서 평가하는 것이다."
+            },
+            {
+               "en": "Studies in juvenile animals are not usually conducted in order to support inclusion of pediatric populations for the treatment of cancer.",
+               "ko": "암 치료를 위한 소아 집단의 임상시험 포함을 뒷받침하기 위해 어린 동물을 이용한 시험은 일반적으로 실시되지 않는다."
+            },
+            {
+               "en": "Conduct of studies in juvenile animals should be considered only when human safety data and previous animal studies are considered insufficient for a safety evaluation in the intended pediatric age group.",
+               "ko": "어린 동물에서의 시험 수행은 인체 안전성 데이터와 기존 동물시험이 목표 소아 연령군에 대한 안전성 평가에 충분하지 않다고 고려된 경우에만 고려되어야 한다."
+            },
+            {
+               "en": "Conjugated Products: Conjugated products are pharmaceuticals covalently bound to carrier molecules, such as proteins, lipids, or sugars.",
+               "ko": "**접합의약품:** 접합의약품은 **단백질**, **지질** 또는 **당류**와 같은 **운반체** 분자에 **공유 결합**된 **의약품**입니다."
+            },
+            {
+               "en": "Stability of the conjugate in the test species and human plasma should be provided.",
+               "ko": "시험동물종 및 인체 혈장에서의 접합체 안정성이 제공되어야 합니다."
+            },
+            {
+               "en": "A toxicokinetic evaluation should assess both the conjugated and the unconjugated compound after administration of the conjugated material.",
+               "ko": "독성동태학적 평가는 접합 물질을 투여한 후 접합 화합물과 비접합 화합물을 모두 평가해야 합니다."
+            },
+            {
+               "en": "Liposomal Products: A complete evaluation of the liposomal product is not warranted if the unencapsulated material has been well characterized.",
+               "ko": "리포좀 제제: 비봉입 물질이 충분히 특성화된 경우, 리포좀 제제에 대한 완전한 평가가 필요하지 않다."
+            },
+            {
+               "en": "As appropriate, the safety assessment should include a toxicological evaluation of the liposomal product and a limited evaluation of the unencapsulated pharmaceutical and carrier (e.g., a single arm in a toxicology study).",
+               "ko": "적절한 경우, 안전성 평가는 리포좀 제제의 독성 평가와 비봉입 의약품 및 운반체(예를 들어, 독성시험에서 단일 군)의 제한적 평가를 포함해야 한다."
+            },
+            {
+               "en": "The principle described here might also apply to other similar carriers.",
+               "ko": "여기에서 기술된 **원칙**은 다른 유사한 **담체**에도 적용될 수 있다."
+            },
+            {
+               "en": "A toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학적 평가는 적절한 경우 실시하여야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "Drug Metabolites",
+               "의약품 대사체"
+            ],
+            [
+               "nonclinical studies",
+               "비임상시험"
+            ]
+         ]
+      },
+      {
+         "seg_id": 87,
+         "en": "For these metabolites, a separate evaluation is generally not warranted for patients with advanced cancer.",
+         "ko": "이들 대사체에 대해서는 진행성 암 환자에게 별도 평가가 일반적으로 필요하지 않음.",
+         "prev_context": [
+            {
+               "en": "Studies in juvenile animals are not usually conducted in order to support inclusion of pediatric populations for the treatment of cancer.",
+               "ko": "암 치료를 위한 소아 집단의 임상시험 포함을 뒷받침하기 위해 어린 동물을 이용한 시험은 일반적으로 실시되지 않는다."
+            },
+            {
+               "en": "Conduct of studies in juvenile animals should be considered only when human safety data and previous animal studies are considered insufficient for a safety evaluation in the intended pediatric age group.",
+               "ko": "어린 동물에서의 시험 수행은 인체 안전성 데이터와 기존 동물시험이 목표 소아 연령군에 대한 안전성 평가에 충분하지 않다고 고려된 경우에만 고려되어야 한다."
+            },
+            {
+               "en": "Conjugated Products: Conjugated products are pharmaceuticals covalently bound to carrier molecules, such as proteins, lipids, or sugars.",
+               "ko": "**접합의약품:** 접합의약품은 **단백질**, **지질** 또는 **당류**와 같은 **운반체** 분자에 **공유 결합**된 **의약품**입니다."
+            },
+            {
+               "en": "Stability of the conjugate in the test species and human plasma should be provided.",
+               "ko": "시험동물종 및 인체 혈장에서의 접합체 안정성이 제공되어야 합니다."
+            },
+            {
+               "en": "A toxicokinetic evaluation should assess both the conjugated and the unconjugated compound after administration of the conjugated material.",
+               "ko": "독성동태학적 평가는 접합 물질을 투여한 후 접합 화합물과 비접합 화합물을 모두 평가해야 합니다."
+            },
+            {
+               "en": "Liposomal Products: A complete evaluation of the liposomal product is not warranted if the unencapsulated material has been well characterized.",
+               "ko": "리포좀 제제: 비봉입 물질이 충분히 특성화된 경우, 리포좀 제제에 대한 완전한 평가가 필요하지 않다."
+            },
+            {
+               "en": "As appropriate, the safety assessment should include a toxicological evaluation of the liposomal product and a limited evaluation of the unencapsulated pharmaceutical and carrier (e.g., a single arm in a toxicology study).",
+               "ko": "적절한 경우, 안전성 평가는 리포좀 제제의 독성 평가와 비봉입 의약품 및 운반체(예를 들어, 독성시험에서 단일 군)의 제한적 평가를 포함해야 한다."
+            },
+            {
+               "en": "The principle described here might also apply to other similar carriers.",
+               "ko": "여기에서 기술된 **원칙**은 다른 유사한 **담체**에도 적용될 수 있다."
+            },
+            {
+               "en": "A toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학적 평가는 적절한 경우 실시하여야 한다."
+            },
+            {
+               "en": "Evaluation of Drug Metabolites: In some cases, metabolites that have been identified in humans have not been qualified in nonclinical studies.",
+               "ko": "**의약품 대사체 평가:** 일부 사례에서는 인체에서 확인된 대사체가 비임상시험에서 적격으로 평가되지 않은 경우가 있다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "metabolites",
+               "대사체"
+            ],
+            [
+               "advanced cancer",
+               "진행성 암"
+            ]
+         ]
+      },
+      {
+         "seg_id": 91,
+         "en": "For genotoxic impurities, several approaches have been used to set limits based on increase in lifetime risk of cancer.",
+         "ko": "유전독성 불순물의 경우, 평생 암 위험 증가에 근거하여 기준치를 설정하기 위해 여러 접근법이 사용되어 왔습니다.",
+         "prev_context": [
+            {
+               "en": "A toxicokinetic evaluation should assess both the conjugated and the unconjugated compound after administration of the conjugated material.",
+               "ko": "독성동태학적 평가는 접합 물질을 투여한 후 접합 화합물과 비접합 화합물을 모두 평가해야 합니다."
+            },
+            {
+               "en": "Liposomal Products: A complete evaluation of the liposomal product is not warranted if the unencapsulated material has been well characterized.",
+               "ko": "리포좀 제제: 비봉입 물질이 충분히 특성화된 경우, 리포좀 제제에 대한 완전한 평가가 필요하지 않다."
+            },
+            {
+               "en": "As appropriate, the safety assessment should include a toxicological evaluation of the liposomal product and a limited evaluation of the unencapsulated pharmaceutical and carrier (e.g., a single arm in a toxicology study).",
+               "ko": "적절한 경우, 안전성 평가는 리포좀 제제의 독성 평가와 비봉입 의약품 및 운반체(예를 들어, 독성시험에서 단일 군)의 제한적 평가를 포함해야 한다."
+            },
+            {
+               "en": "The principle described here might also apply to other similar carriers.",
+               "ko": "여기에서 기술된 **원칙**은 다른 유사한 **담체**에도 적용될 수 있다."
+            },
+            {
+               "en": "A toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학적 평가는 적절한 경우 실시하여야 한다."
+            },
+            {
+               "en": "Evaluation of Drug Metabolites: In some cases, metabolites that have been identified in humans have not been qualified in nonclinical studies.",
+               "ko": "**의약품 대사체 평가:** 일부 사례에서는 인체에서 확인된 대사체가 비임상시험에서 적격으로 평가되지 않은 경우가 있다."
+            },
+            {
+               "en": "For these metabolites, a separate evaluation is generally not warranted for patients with advanced cancer.",
+               "ko": "이들 대사체에 대해서는 진행성 암 환자에게 별도 평가가 일반적으로 필요하지 않음."
+            },
+            {
+               "en": "Evaluation of Impurities: It is recognized that impurity standards have been based on a negligible risk, as discussed in ICH Q3A and Q3B.",
+               "ko": "불순물 평가: 불순물 기준은 ICH Q3A 및 Q3B에서 논의된 바와 같이 무시할 수 있는 위험에 근거하여 설정된 것으로 인정된다."
+            },
+            {
+               "en": "The justification could include the disease being treated and the patient population, the nature of the parent pharmaceutical (pharmacologic properties, genotoxicity and carcinogenic potential, etc.), duration of treatment, and the impact of impurity reduction on manufacturing.",
+               "ko": "타당성에는 투여된 질병 및 환자 집단, 원약물의 양상(약리학적 특성, 유전독성 및 발암 가능성 등), 치료 기간, 그리고 불순물 감소가 생산에 미치는 영향이 포함될 수 있다."
+            },
+            {
+               "en": "Further, the qualification assessment could include consideration of either the dose or concentration tested in nonclinical study relative to clinical levels.",
+               "ko": "さらに, 적격성 평가에는 비임상시험에서 사용된 **투여량** 또는 **농도**가 임상 수준에 비해 고려될 수 있습니다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "genotoxic impurities",
+               "유전독성 불순물"
+            ],
+            [
+               "lifetime risk",
+               "평생 위험"
+            ],
+            [
+               "cancer",
+               "암"
+            ]
+         ]
+      },
+      {
+         "seg_id": 94,
+         "en": "The timing of the toxicity assessment(s) in the non-clinical studies should be scientifically justified based on the anticipated toxicity profile and the clinical schedule.",
+         "ko": "비임상시험에서의 독성평가의 시기는 예상되는 독성 프로파일과 임상일정에 근거하여 과학적 타당성이 입증되어야 한다.",
+         "prev_context": [
+            {
+               "en": "The principle described here might also apply to other similar carriers.",
+               "ko": "여기에서 기술된 **원칙**은 다른 유사한 **담체**에도 적용될 수 있다."
+            },
+            {
+               "en": "A toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학적 평가는 적절한 경우 실시하여야 한다."
+            },
+            {
+               "en": "Evaluation of Drug Metabolites: In some cases, metabolites that have been identified in humans have not been qualified in nonclinical studies.",
+               "ko": "**의약품 대사체 평가:** 일부 사례에서는 인체에서 확인된 대사체가 비임상시험에서 적격으로 평가되지 않은 경우가 있다."
+            },
+            {
+               "en": "For these metabolites, a separate evaluation is generally not warranted for patients with advanced cancer.",
+               "ko": "이들 대사체에 대해서는 진행성 암 환자에게 별도 평가가 일반적으로 필요하지 않음."
+            },
+            {
+               "en": "Evaluation of Impurities: It is recognized that impurity standards have been based on a negligible risk, as discussed in ICH Q3A and Q3B.",
+               "ko": "불순물 평가: 불순물 기준은 ICH Q3A 및 Q3B에서 논의된 바와 같이 무시할 수 있는 위험에 근거하여 설정된 것으로 인정된다."
+            },
+            {
+               "en": "The justification could include the disease being treated and the patient population, the nature of the parent pharmaceutical (pharmacologic properties, genotoxicity and carcinogenic potential, etc.), duration of treatment, and the impact of impurity reduction on manufacturing.",
+               "ko": "타당성에는 투여된 질병 및 환자 집단, 원약물의 양상(약리학적 특성, 유전독성 및 발암 가능성 등), 치료 기간, 그리고 불순물 감소가 생산에 미치는 영향이 포함될 수 있다."
+            },
+            {
+               "en": "Further, the qualification assessment could include consideration of either the dose or concentration tested in nonclinical study relative to clinical levels.",
+               "ko": "さらに, 적격성 평가에는 비임상시험에서 사용된 **투여량** 또는 **농도**가 임상 수준에 비해 고려될 수 있습니다."
+            },
+            {
+               "en": "For genotoxic impurities, several approaches have been used to set limits based on increase in lifetime risk of cancer.",
+               "ko": "유전독성 불순물의 경우, 평생 암 위험 증가에 근거하여 기준치를 설정하기 위해 여러 접근법이 사용되어 왔습니다."
+            },
+            {
+               "en": "Such limits are not appropriate for pharmaceuticals intended to treat patients with advanced cancer, and justifications described above should be considered to set higher limits.",
+               "ko": "이러한 기준치는 진행성 암 환자 치료를 의도된 의약품에는 적절한 기준치가 아니며, 상기 기술된 타당성을 고려하여 더 높은 기준치를 설정해야 한다."
+            },
+            {
+               "en": "Table 1: Examples of Treatment Schedules for Anticancer Pharmaceuticals to Support Initial Clinical Trials",
+               "ko": "표 1: 최초 임상시험을 뒷받침하기 위한 항암제 투여일정 사례"
+            }
+         ],
+         "dict_pair": [
+            [
+               "toxicity assessment",
+               "독성평가"
+            ],
+            [
+               "non-clinical studies",
+               "비임상시험"
+            ],
+            [
+               "toxicity profile",
+               "독성 프로파일"
+            ],
+            [
+               "clinical schedule",
+               "임상일정"
+            ]
+         ]
+      },
+      {
+         "seg_id": 95,
+         "en": "For example, both a sacrifice shortly after the dosing Phase to examine early toxicity and a later sacrifice to examine late onset of toxicity should be considered.",
+         "ko": "예를 들어, 초기 독성 검사를 위해 투여 단계 직후의 부검과 후기 발병 독성을 검사하기 위한 이후의 부검 모두 고려된 부검으로 간주될 수 있다.",
+         "prev_context": [
+            {
+               "en": "A toxicokinetic evaluation should be conducted as appropriate.",
+               "ko": "독성동태학적 평가는 적절한 경우 실시하여야 한다."
+            },
+            {
+               "en": "Evaluation of Drug Metabolites: In some cases, metabolites that have been identified in humans have not been qualified in nonclinical studies.",
+               "ko": "**의약품 대사체 평가:** 일부 사례에서는 인체에서 확인된 대사체가 비임상시험에서 적격으로 평가되지 않은 경우가 있다."
+            },
+            {
+               "en": "For these metabolites, a separate evaluation is generally not warranted for patients with advanced cancer.",
+               "ko": "이들 대사체에 대해서는 진행성 암 환자에게 별도 평가가 일반적으로 필요하지 않음."
+            },
+            {
+               "en": "Evaluation of Impurities: It is recognized that impurity standards have been based on a negligible risk, as discussed in ICH Q3A and Q3B.",
+               "ko": "불순물 평가: 불순물 기준은 ICH Q3A 및 Q3B에서 논의된 바와 같이 무시할 수 있는 위험에 근거하여 설정된 것으로 인정된다."
+            },
+            {
+               "en": "The justification could include the disease being treated and the patient population, the nature of the parent pharmaceutical (pharmacologic properties, genotoxicity and carcinogenic potential, etc.), duration of treatment, and the impact of impurity reduction on manufacturing.",
+               "ko": "타당성에는 투여된 질병 및 환자 집단, 원약물의 양상(약리학적 특성, 유전독성 및 발암 가능성 등), 치료 기간, 그리고 불순물 감소가 생산에 미치는 영향이 포함될 수 있다."
+            },
+            {
+               "en": "Further, the qualification assessment could include consideration of either the dose or concentration tested in nonclinical study relative to clinical levels.",
+               "ko": "さらに, 적격성 평가에는 비임상시험에서 사용된 **투여량** 또는 **농도**가 임상 수준에 비해 고려될 수 있습니다."
+            },
+            {
+               "en": "For genotoxic impurities, several approaches have been used to set limits based on increase in lifetime risk of cancer.",
+               "ko": "유전독성 불순물의 경우, 평생 암 위험 증가에 근거하여 기준치를 설정하기 위해 여러 접근법이 사용되어 왔습니다."
+            },
+            {
+               "en": "Such limits are not appropriate for pharmaceuticals intended to treat patients with advanced cancer, and justifications described above should be considered to set higher limits.",
+               "ko": "이러한 기준치는 진행성 암 환자 치료를 의도된 의약품에는 적절한 기준치가 아니며, 상기 기술된 타당성을 고려하여 더 높은 기준치를 설정해야 한다."
+            },
+            {
+               "en": "Table 1: Examples of Treatment Schedules for Anticancer Pharmaceuticals to Support Initial Clinical Trials",
+               "ko": "표 1: 최초 임상시험을 뒷받침하기 위한 항암제 투여일정 사례"
+            },
+            {
+               "en": "The timing of the toxicity assessment(s) in the non-clinical studies should be scientifically justified based on the anticipated toxicity profile and the clinical schedule.",
+               "ko": "비임상시험에서의 독성평가의 시기는 예상되는 독성 프로파일과 임상일정에 근거하여 과학적 타당성이 입증되어야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "early toxicity",
+               "초기 독성"
+            ],
+            [
+               "late onset of toxicity",
+               "후기 발병 독성"
+            ],
+            [
+               "sacrifice",
+               "부검"
+            ]
+         ]
+      },
+      {
+         "seg_id": 96,
+         "en": "2 For further discussion regarding flexibility in the relationship of the clinical schedule and the non-clinical toxicity studies, see Section 3.3.",
+         "ko": "임상 일정과 비임상 독성시험의 관계에 대한 유연성에 대한 추가적인 논의는 3.3 항을 참조하십시오.",
+         "prev_context": [
+            {
+               "en": "Evaluation of Drug Metabolites: In some cases, metabolites that have been identified in humans have not been qualified in nonclinical studies.",
+               "ko": "**의약품 대사체 평가:** 일부 사례에서는 인체에서 확인된 대사체가 비임상시험에서 적격으로 평가되지 않은 경우가 있다."
+            },
+            {
+               "en": "For these metabolites, a separate evaluation is generally not warranted for patients with advanced cancer.",
+               "ko": "이들 대사체에 대해서는 진행성 암 환자에게 별도 평가가 일반적으로 필요하지 않음."
+            },
+            {
+               "en": "Evaluation of Impurities: It is recognized that impurity standards have been based on a negligible risk, as discussed in ICH Q3A and Q3B.",
+               "ko": "불순물 평가: 불순물 기준은 ICH Q3A 및 Q3B에서 논의된 바와 같이 무시할 수 있는 위험에 근거하여 설정된 것으로 인정된다."
+            },
+            {
+               "en": "The justification could include the disease being treated and the patient population, the nature of the parent pharmaceutical (pharmacologic properties, genotoxicity and carcinogenic potential, etc.), duration of treatment, and the impact of impurity reduction on manufacturing.",
+               "ko": "타당성에는 투여된 질병 및 환자 집단, 원약물의 양상(약리학적 특성, 유전독성 및 발암 가능성 등), 치료 기간, 그리고 불순물 감소가 생산에 미치는 영향이 포함될 수 있다."
+            },
+            {
+               "en": "Further, the qualification assessment could include consideration of either the dose or concentration tested in nonclinical study relative to clinical levels.",
+               "ko": "さらに, 적격성 평가에는 비임상시험에서 사용된 **투여량** 또는 **농도**가 임상 수준에 비해 고려될 수 있습니다."
+            },
+            {
+               "en": "For genotoxic impurities, several approaches have been used to set limits based on increase in lifetime risk of cancer.",
+               "ko": "유전독성 불순물의 경우, 평생 암 위험 증가에 근거하여 기준치를 설정하기 위해 여러 접근법이 사용되어 왔습니다."
+            },
+            {
+               "en": "Such limits are not appropriate for pharmaceuticals intended to treat patients with advanced cancer, and justifications described above should be considered to set higher limits.",
+               "ko": "이러한 기준치는 진행성 암 환자 치료를 의도된 의약품에는 적절한 기준치가 아니며, 상기 기술된 타당성을 고려하여 더 높은 기준치를 설정해야 한다."
+            },
+            {
+               "en": "Table 1: Examples of Treatment Schedules for Anticancer Pharmaceuticals to Support Initial Clinical Trials",
+               "ko": "표 1: 최초 임상시험을 뒷받침하기 위한 항암제 투여일정 사례"
+            },
+            {
+               "en": "The timing of the toxicity assessment(s) in the non-clinical studies should be scientifically justified based on the anticipated toxicity profile and the clinical schedule.",
+               "ko": "비임상시험에서의 독성평가의 시기는 예상되는 독성 프로파일과 임상일정에 근거하여 과학적 타당성이 입증되어야 한다."
+            },
+            {
+               "en": "For example, both a sacrifice shortly after the dosing Phase to examine early toxicity and a later sacrifice to examine late onset of toxicity should be considered.",
+               "ko": "예를 들어, 초기 독성 검사를 위해 투여 단계 직후의 부검과 후기 발병 독성을 검사하기 위한 이후의 부검 모두 고려된 부검으로 간주될 수 있다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "non-clinical toxicity studies",
+               "비임상 독성시험"
+            ]
+         ]
+      },
+      {
+         "seg_id": 97,
+         "en": "3 The treatment schedules described in the table do not specify recovery periods (see Section 2.4 and Note 1 regarding recovery).",
+         "ko": "표에 기술된 투여일정은 회복기간을 명시하지 않습니다(회복에 관한 사항은 항목 2.4 및 주석 1 참조).",
+         "prev_context": [
+            {
+               "en": "For these metabolites, a separate evaluation is generally not warranted for patients with advanced cancer.",
+               "ko": "이들 대사체에 대해서는 진행성 암 환자에게 별도 평가가 일반적으로 필요하지 않음."
+            },
+            {
+               "en": "Evaluation of Impurities: It is recognized that impurity standards have been based on a negligible risk, as discussed in ICH Q3A and Q3B.",
+               "ko": "불순물 평가: 불순물 기준은 ICH Q3A 및 Q3B에서 논의된 바와 같이 무시할 수 있는 위험에 근거하여 설정된 것으로 인정된다."
+            },
+            {
+               "en": "The justification could include the disease being treated and the patient population, the nature of the parent pharmaceutical (pharmacologic properties, genotoxicity and carcinogenic potential, etc.), duration of treatment, and the impact of impurity reduction on manufacturing.",
+               "ko": "타당성에는 투여된 질병 및 환자 집단, 원약물의 양상(약리학적 특성, 유전독성 및 발암 가능성 등), 치료 기간, 그리고 불순물 감소가 생산에 미치는 영향이 포함될 수 있다."
+            },
+            {
+               "en": "Further, the qualification assessment could include consideration of either the dose or concentration tested in nonclinical study relative to clinical levels.",
+               "ko": "さらに, 적격성 평가에는 비임상시험에서 사용된 **투여량** 또는 **농도**가 임상 수준에 비해 고려될 수 있습니다."
+            },
+            {
+               "en": "For genotoxic impurities, several approaches have been used to set limits based on increase in lifetime risk of cancer.",
+               "ko": "유전독성 불순물의 경우, 평생 암 위험 증가에 근거하여 기준치를 설정하기 위해 여러 접근법이 사용되어 왔습니다."
+            },
+            {
+               "en": "Such limits are not appropriate for pharmaceuticals intended to treat patients with advanced cancer, and justifications described above should be considered to set higher limits.",
+               "ko": "이러한 기준치는 진행성 암 환자 치료를 의도된 의약품에는 적절한 기준치가 아니며, 상기 기술된 타당성을 고려하여 더 높은 기준치를 설정해야 한다."
+            },
+            {
+               "en": "Table 1: Examples of Treatment Schedules for Anticancer Pharmaceuticals to Support Initial Clinical Trials",
+               "ko": "표 1: 최초 임상시험을 뒷받침하기 위한 항암제 투여일정 사례"
+            },
+            {
+               "en": "The timing of the toxicity assessment(s) in the non-clinical studies should be scientifically justified based on the anticipated toxicity profile and the clinical schedule.",
+               "ko": "비임상시험에서의 독성평가의 시기는 예상되는 독성 프로파일과 임상일정에 근거하여 과학적 타당성이 입증되어야 한다."
+            },
+            {
+               "en": "For example, both a sacrifice shortly after the dosing Phase to examine early toxicity and a later sacrifice to examine late onset of toxicity should be considered.",
+               "ko": "예를 들어, 초기 독성 검사를 위해 투여 단계 직후의 부검과 후기 발병 독성을 검사하기 위한 이후의 부검 모두 고려된 부검으로 간주될 수 있다."
+            },
+            {
+               "en": "2 For further discussion regarding flexibility in the relationship of the clinical schedule and the non-clinical toxicity studies, see Section 3.3.",
+               "ko": "임상 일정과 비임상 독성시험의 관계에 대한 유연성에 대한 추가적인 논의는 3.3 항을 참조하십시오."
+            }
+         ],
+         "dict_pair": []
+      },
+      {
+         "seg_id": 99,
+         "en": "For nonrodent studies, dose groups usually consist of at least 3 animals/sex/group, with an additional 2/sex/group for recovery, if appropriate (see Section 2.4).",
+         "ko": "비설치류 연구에서는 일반적으로 성별당 최소 3마리의 동물로 구성된 투여군을 사용하며, 회복군이 적절한 경우에는 성별당 추가로 2마리를 포함합니다(항목 2.4 참조).",
+         "prev_context": [
+            {
+               "en": "The justification could include the disease being treated and the patient population, the nature of the parent pharmaceutical (pharmacologic properties, genotoxicity and carcinogenic potential, etc.), duration of treatment, and the impact of impurity reduction on manufacturing.",
+               "ko": "타당성에는 투여된 질병 및 환자 집단, 원약물의 양상(약리학적 특성, 유전독성 및 발암 가능성 등), 치료 기간, 그리고 불순물 감소가 생산에 미치는 영향이 포함될 수 있다."
+            },
+            {
+               "en": "Further, the qualification assessment could include consideration of either the dose or concentration tested in nonclinical study relative to clinical levels.",
+               "ko": "さらに, 적격성 평가에는 비임상시험에서 사용된 **투여량** 또는 **농도**가 임상 수준에 비해 고려될 수 있습니다."
+            },
+            {
+               "en": "For genotoxic impurities, several approaches have been used to set limits based on increase in lifetime risk of cancer.",
+               "ko": "유전독성 불순물의 경우, 평생 암 위험 증가에 근거하여 기준치를 설정하기 위해 여러 접근법이 사용되어 왔습니다."
+            },
+            {
+               "en": "Such limits are not appropriate for pharmaceuticals intended to treat patients with advanced cancer, and justifications described above should be considered to set higher limits.",
+               "ko": "이러한 기준치는 진행성 암 환자 치료를 의도된 의약품에는 적절한 기준치가 아니며, 상기 기술된 타당성을 고려하여 더 높은 기준치를 설정해야 한다."
+            },
+            {
+               "en": "Table 1: Examples of Treatment Schedules for Anticancer Pharmaceuticals to Support Initial Clinical Trials",
+               "ko": "표 1: 최초 임상시험을 뒷받침하기 위한 항암제 투여일정 사례"
+            },
+            {
+               "en": "The timing of the toxicity assessment(s) in the non-clinical studies should be scientifically justified based on the anticipated toxicity profile and the clinical schedule.",
+               "ko": "비임상시험에서의 독성평가의 시기는 예상되는 독성 프로파일과 임상일정에 근거하여 과학적 타당성이 입증되어야 한다."
+            },
+            {
+               "en": "For example, both a sacrifice shortly after the dosing Phase to examine early toxicity and a later sacrifice to examine late onset of toxicity should be considered.",
+               "ko": "예를 들어, 초기 독성 검사를 위해 투여 단계 직후의 부검과 후기 발병 독성을 검사하기 위한 이후의 부검 모두 고려된 부검으로 간주될 수 있다."
+            },
+            {
+               "en": "2 For further discussion regarding flexibility in the relationship of the clinical schedule and the non-clinical toxicity studies, see Section 3.3.",
+               "ko": "임상 일정과 비임상 독성시험의 관계에 대한 유연성에 대한 추가적인 논의는 3.3 항을 참조하십시오."
+            },
+            {
+               "en": "3 The treatment schedules described in the table do not specify recovery periods (see Section 2.4 and Note 1 regarding recovery).",
+               "ko": "표에 기술된 투여일정은 회복기간을 명시하지 않습니다(회복에 관한 사항은 항목 2.4 및 주석 1 참조)."
+            },
+            {
+               "en": "4 The treatment schedules described in this table should be modified as appropriate for molecules with extended pharmacodynamic effects, long half-lives or potential for anaphylactic reactions.",
+               "ko": "이 표에 기술된 투여일정은 연장된 약력학적 영향, 긴 반감기 또는 아나필락시스 반응의 잠재적인 분자에 대해서는 적절하게 수정되어야 한다."
+            }
+         ],
+         "dict_pair": [
+            [
+               "nonrodent studies",
+               "비설치류 연구"
+            ],
+            [
+               "dose groups",
+               "투여군"
+            ],
+            [
+               "recovery",
+               "회복군"
+            ]
+         ]
+      },
+      {
+         "seg_id": 100,
+         "en": "A common approach for many small molecules is to set a start dose at 1/10 the Severely Toxic Dose in 10% of the animals (STD 10) in rodents.",
+         "ko": "많은 저분자 의약품에 대해 흔히 사용되는 접근 방식은, 설치류에서 동물 10%에서 중증 독성용량(STD10)의 1/10을 초기 투여량으로 설정하는 것이다.",
+         "prev_context": [
+            {
+               "en": "Further, the qualification assessment could include consideration of either the dose or concentration tested in nonclinical study relative to clinical levels.",
+               "ko": "さらに, 적격성 평가에는 비임상시험에서 사용된 **투여량** 또는 **농도**가 임상 수준에 비해 고려될 수 있습니다."
+            },
+            {
+               "en": "For genotoxic impurities, several approaches have been used to set limits based on increase in lifetime risk of cancer.",
+               "ko": "유전독성 불순물의 경우, 평생 암 위험 증가에 근거하여 기준치를 설정하기 위해 여러 접근법이 사용되어 왔습니다."
+            },
+            {
+               "en": "Such limits are not appropriate for pharmaceuticals intended to treat patients with advanced cancer, and justifications described above should be considered to set higher limits.",
+               "ko": "이러한 기준치는 진행성 암 환자 치료를 의도된 의약품에는 적절한 기준치가 아니며, 상기 기술된 타당성을 고려하여 더 높은 기준치를 설정해야 한다."
+            },
+            {
+               "en": "Table 1: Examples of Treatment Schedules for Anticancer Pharmaceuticals to Support Initial Clinical Trials",
+               "ko": "표 1: 최초 임상시험을 뒷받침하기 위한 항암제 투여일정 사례"
+            },
+            {
+               "en": "The timing of the toxicity assessment(s) in the non-clinical studies should be scientifically justified based on the anticipated toxicity profile and the clinical schedule.",
+               "ko": "비임상시험에서의 독성평가의 시기는 예상되는 독성 프로파일과 임상일정에 근거하여 과학적 타당성이 입증되어야 한다."
+            },
+            {
+               "en": "For example, both a sacrifice shortly after the dosing Phase to examine early toxicity and a later sacrifice to examine late onset of toxicity should be considered.",
+               "ko": "예를 들어, 초기 독성 검사를 위해 투여 단계 직후의 부검과 후기 발병 독성을 검사하기 위한 이후의 부검 모두 고려된 부검으로 간주될 수 있다."
+            },
+            {
+               "en": "2 For further discussion regarding flexibility in the relationship of the clinical schedule and the non-clinical toxicity studies, see Section 3.3.",
+               "ko": "임상 일정과 비임상 독성시험의 관계에 대한 유연성에 대한 추가적인 논의는 3.3 항을 참조하십시오."
+            },
+            {
+               "en": "3 The treatment schedules described in the table do not specify recovery periods (see Section 2.4 and Note 1 regarding recovery).",
+               "ko": "표에 기술된 투여일정은 회복기간을 명시하지 않습니다(회복에 관한 사항은 항목 2.4 및 주석 1 참조)."
+            },
+            {
+               "en": "4 The treatment schedules described in this table should be modified as appropriate for molecules with extended pharmacodynamic effects, long half-lives or potential for anaphylactic reactions.",
+               "ko": "이 표에 기술된 투여일정은 연장된 약력학적 영향, 긴 반감기 또는 아나필락시스 반응의 잠재적인 분자에 대해서는 적절하게 수정되어야 한다."
+            },
+            {
+               "en": "For nonrodent studies, dose groups usually consist of at least 3 animals/sex/group, with an additional 2/sex/group for recovery, if appropriate (see Section 2.4).",
+               "ko": "비설치류 연구에서는 일반적으로 성별당 최소 3마리의 동물로 구성된 투여군을 사용하며, 회복군이 적절한 경우에는 성별당 추가로 2마리를 포함합니다(항목 2.4 참조)."
+            }
+         ],
+         "dict_pair": [
+            [
+               "small molecules",
+               "저분자 의약품"
+            ],
+            [
+               "start dose",
+               "초기 투여량"
+            ],
+            [
+               "Severely Toxic Dose",
+               "중증 독성용량"
+            ],
+            [
+               "rodents",
+               "설치류"
+            ]
+         ]
+      }
+   ]
+}

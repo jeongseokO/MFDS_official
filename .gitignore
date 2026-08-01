@@ -29,7 +29,6 @@ ngrok_mfds.pid
 # Large model, retrieval, and data artifacts should be provided separately.
 models/
 resources/
-data/
 datasets/
 *.safetensors
 *.bin
