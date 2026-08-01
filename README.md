@@ -302,7 +302,7 @@ ngrok http "http://${NODE_NAME}:7860"
 예를 들어 로그가 `[gradio] node=n04`이면 실제 명령은 다음입니다.
 
 ```bash
-ngrok http http://n04:7860
+ngrok http http://n03:7860
 ```
 
 이 명령은 로그인 노드 또는 compute node에 접속 가능한 서버에서 실행합니다. 현재 서버에서 compute node 이름이 접근되지 않으면, Gradio job이 떠 있는 compute node에 접속해서 ngrok을 실행해야 합니다.
