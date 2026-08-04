@@ -1,0 +1,181 @@
+{
+ "document_id": "ke_cris_0003",
+ "meta": {
+  "set": "KE",
+  "source_folder": "12",
+  "source_code": "cris",
+  "source_name": "국내 임상연구(CRIS)",
+  "orig_doc_id": "KCT0000003",
+  "category_l1": "임상연구정보",
+  "category_l2": "임상시험 등록정보",
+  "category_l3": "국내 임상연구(CRIS)",
+  "title_ko": null,
+  "title_en": null,
+  "source_doc": null,
+  "target_doc": null,
+  "doc_type": "CRIS",
+  "source_language": "en",
+  "target_language": "ko",
+  "pub_date_ko": null,
+  "pub_date_en": null,
+  "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=922",
+  "domain_tag": null,
+  "align_method": "LaBSE cosine (sentence-transformers/LaBSE)",
+  "n_pairs": 17
+ },
+ "segments": [
+  {
+   "seg_id": 1,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_성명",
+   "path": null,
+   "ko_txt": "김성원",
+   "en_txt": "Sung-Won Kim",
+   "align_score": 0.8413
+  },
+  {
+   "seg_id": 2,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_기관명",
+   "path": null,
+   "ko_txt": "분당서울대학교병원",
+   "en_txt": "Seoul National University Bundang Hospital",
+   "align_score": 0.8452
+  },
+  {
+   "seg_id": 3,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_성명",
+   "path": null,
+   "ko_txt": "강은영",
+   "en_txt": "Eunyoung Kang",
+   "align_score": 0.7517
+  },
+  {
+   "seg_id": 4,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_기관명",
+   "path": null,
+   "ko_txt": "분당서울대학교병원",
+   "en_txt": "Seoul National University Bundang Hospital",
+   "align_score": 0.8452
+  },
+  {
+   "seg_id": 5,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_성명",
+   "path": null,
+   "ko_txt": "강은영",
+   "en_txt": "Eunyoung Kang",
+   "align_score": 0.7517
+  },
+  {
+   "seg_id": 6,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_기관명",
+   "path": null,
+   "ko_txt": "분당서울대학교병원",
+   "en_txt": "Seoul National University Bundang Hospital",
+   "align_score": 0.8452
+  },
+  {
+   "seg_id": 7,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+   "path": null,
+   "ko_txt": "분당서울대학교병원",
+   "en_txt": "Seoul National University Bundang Hospital",
+   "align_score": 0.8452
+  },
+  {
+   "seg_id": 8,
+   "type": "sentence",
+   "section": "6. 연구책임기관_1.연구책임기관_기관명",
+   "path": null,
+   "ko_txt": "분당서울대학교병원",
+   "en_txt": "Seoul National University Bundang Hospital",
+   "align_score": 0.8452
+  },
+  {
+   "seg_id": 9,
+   "type": "sentence",
+   "section": "7. 연구요약",
+   "path": null,
+   "ko_txt": "유방수술 후 어깨관절 가동 범위 제한과 통증으로 일상 생활 활동이 감소된다.",
+   "en_txt": "Daily activity and quality of life is reduced by limited range of motion of shoulder and pain after breast surgery.",
+   "align_score": 0.804
+  },
+  {
+   "seg_id": 10,
+   "type": "sentence",
+   "section": "7. 연구요약",
+   "path": null,
+   "ko_txt": "유방전절제 후 수술 부위 유착은 어깨관절 운동범위의 감소, pectoralis tightness, shoulder pain 등의 중요한 유발인자로 사료된다.",
+   "en_txt": "Adhesion after mastectomy is considered an important precipitating factor of limited range of shoulder motion, pectoralis tightness and shoulder pain.",
+   "align_score": 0.851
+  },
+  {
+   "seg_id": 11,
+   "type": "sentence",
+   "section": "8. 연구설계_군_1.중재군_군명",
+   "path": null,
+   "ko_txt": "가딕스 (Guardix)",
+   "en_txt": "Guardix",
+   "align_score": 0.9425
+  },
+  {
+   "seg_id": 12,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+   "path": null,
+   "ko_txt": "어깨관절 운동 범위",
+   "en_txt": "Active range of motion of shoulder",
+   "align_score": 0.7793
+  },
+  {
+   "seg_id": 13,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술전, 수술 후 3개월, 6개월",
+   "en_txt": "Preoperative day, At 3 months and 6 months after surgery",
+   "align_score": 0.8326
+  },
+  {
+   "seg_id": 14,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+   "path": null,
+   "ko_txt": "Pectoralis minor length test",
+   "en_txt": "Pectoralis minor length test",
+   "align_score": 1.0
+  },
+  {
+   "seg_id": 15,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술전, 수술 후 3개월, 6개월",
+   "en_txt": "Preoperative day, At 3 months and 6 months after surgery",
+   "align_score": 0.8326
+  },
+  {
+   "seg_id": 16,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술전, 수술 후 3개월, 6개월",
+   "en_txt": "Preoperative day, At 3 months and 6 months after surgery",
+   "align_score": 0.8326
+  },
+  {
+   "seg_id": 17,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술전, 수술 후 3개월, 6개월",
+   "en_txt": "Preoperative day, At 3 months and 6 months after surgery",
+   "align_score": 0.8326
+  }
+ ]
+}

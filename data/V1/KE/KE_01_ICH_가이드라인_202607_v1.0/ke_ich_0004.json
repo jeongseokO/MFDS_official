@@ -1,0 +1,478 @@
+{
+  "document_id": "ke_ich_0004",
+  "meta": {
+    "set": "KE",
+    "source_folder": "1",
+    "source_code": "ich",
+    "source_name": "ICH 가이드라인",
+    "orig_doc_id": "E1",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 가이드라인",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 세 지역에서 인정되는 항고혈압제의 평가를 위한 주요 원칙을 기술하고 있으나 몇몇 지역특이적인 차이점도 있다.",
+      "en_txt": "It describes core principles for the evaluation of antihypertensives that are accepted in the three ICH regions, but some region-specific differences remain.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 차이점들은 추후 조화될 것이지만 필요하다면 현 시점에서는, 지역 규제 당국과 일치하는 특정 요구 조건들에 대해 이야기하는 것이 중요하다.",
+      "en_txt": "These differences may be harmonized in future, but it is important at present to refer to existing regional guidelines and to discuss the specific requirements with regional regulatory authorities, if required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "항고혈압제의 유효성 평가를 위한 주요 기준은 수축기 혈압과 확장기 혈압에 대한 의약품의 효과이다.",
+      "en_txt": "he primary basis of assessment of efficacy of antihypertensive drugs is the effect of the drug on systolic and diastolic blood pressures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비록 모든 의약품이 수축기 혈압과 확장기 혈압을 감소시키지만 독립적이거나 뚜렷한 수축기 고혈압이 중요하고 치료 가능한 위험인자로 인식되기 때문에 수축기 혈압에 대한 의약품 효과를 분명하게 평가할 필요성이 제기된다.",
+      "en_txt": "Although all drugs to date have reduced both systolic and diastolic blood pressures, the recognition of isolated or predominant systolic hypertension as a significant and remediable risk factor demands explicit evaluation of the effect of a drug on systolic blood pressure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지금까지 많은 임상시험에서 여러 간섭(저용량 또는 고용량의 이뇨제, 레서핀과 베타 차단제가 주로 병용치료에 사용)이 장기적인 사망률과 이환율, 분명하게 뇌졸중, 그리고 일관적이지는 않지만 심혈관 사건을 감소시키는 유익한 효과가 나타났다.",
+      "en_txt": "Many clinical trials of many interventions (including low and high dose diuretics, reserpine, and beta- blockers, usually as part of combination therapy) have shown consistent beneficial effects on long-term mortality and morbidity, most clearly on stroke and less consistently on cardiovascular events.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "항고혈압제의 허가를 위한 공식적인 사망률이나 이환율에 대한 시험이 아직은 요구되지 않았으며 확실한 활성 대조군의 사망률과 이환율 시험의 유형은 정립되지 않은 상태이다.",
+      "en_txt": "Formal mortality and morbidity outcome studies are not ordinarily required for approval of antihypertensive drugs and the kind of active control mortality and morbidity studies that would be convincing is not well defined.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비록 항고혈압제의 효과가 증명되었더라도 사망률 그리고/또는 심혈관계 이환율에 대한 유해한 효과에 대한 관심으로 인해 예후 결과시험이 필요하게 될 수 있다.",
+      "en_txt": "It should be noted that, even if an antihypertensive effect has been proven, a significant concern about a detrimental effect on mortality and/or cardiovascular morbidity might lead to a need for outcome studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "새로운 항고혈압제가 시험되는 환자 집단은 넓은 범위의 환자들로 반드시 본태성 고혈압 환자들을 포함한다.",
+      "en_txt": "The patient population studied with a new antihypertensive should include a broad range of patients with essential hypertension.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "관련된 합병증을 가진 환자들(당뇨병이나 관상 동맥질환, 심장병과 같은)이 투여하는 의약품이 시험을 방해하지 않는다면 포함되어야 한다.",
+      "en_txt": "Patients with relevant concomitant illness (such as diabetes mellitus and coronary heart disease) should be included unless the drugs they need would interfere with the study; e.g., for patients with heart failure standard treatment requires use of one to several agents affecting blood pressure that could have pharmacologic actions similar to the study drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 고혈압에 의해 표적 장기 손상을 가져올 수 있는 환자는 비록 활성약 대조 시험에 포함될 수 있더라도 아주 짧은 기간이 아닌 경우에는 위약 대조 시험에 포함되어서는 안 된다.",
+      "en_txt": "In general, patients with target organ damage secondary to hypertension should not be included in placebo-controlled trials of more than very brief duration, although such patients can be included in active controlled trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 남자와 여자, 젊은이와 노인 등 지역적으로 다양한 민족적/인종적 집단을 대표하는 환자들이어야 한다.",
+      "en_txt": "Patients from relevant demographic subsets should be studied, including both men and women, racial/ethnic groups pertinent to the region, and both young and older patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이것은 동일한 환경에서 소집단별 비교를 용이하게 한다.",
+      "en_txt": "This facilitates comparisons across subsets in the same environment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 시험 종료시점의 혈압에 대한 효과는 최종 평가변수이지만 시간이 지남에 따라 발생되는 효과도 또한 관심의 대상이 된다; 이것은 시험 중 매주 또는 2주마다의 최저효과 반응을 조사함으로써 정의될 수 있다.",
+      "en_txt": "In general, the effect on blood pressure at the end of the study is the primary endpoint, but the time course of the onset of the effect is also of interest; this can be defined by examining trough response each week or every two weeks in some studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "혈압에 대한 효과와 용량에 대한 반응 관계는 위약 대조에 의한 단기간 시험(4-12주)에서 특성이 확인되어야 한다.",
+      "en_txt": "The effect on blood pressure and the relationship of the response to dose should be characterized in short-term studies (4-12 weeks), whose short duration allows for use of a placebo control.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "장기간의 시험(6개월 또는 그 이상)은유효성의 유지를 증명하고 중단 효과를 찾기 위해 수행되어야 한다.",
+      "en_txt": "Long-term (six months or more) studies should also be carried out to demonstrate maintenance of efficacy and to look for withdrawal effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "혈압 측정치(24시간 활동 중 혈압측정(ABPM) 자료 제외)는 체계적인 오류(비뚤림)에 영향을 받고, 자연적인 변화가 커질 수 있으며 활성약의 효과가 종종 작기 때문에(확장기 혈압이 위약보다 4-5mmHg 정도 변함) 눈가림 방식으로 수행된 시험과 위약 대조로 수행된 시험이 필수적이다(ICH E10 참조).",
+      "en_txt": "Because blood pressure readings (except perhaps ABPM readings) are subject to systematic error (bias), because spontaneous changes in blood pressure can be large, and because the effect of active drugs is often small (diastolic blood pressure change of 4-5 mm Hg more than placebo), studies conducted in a blinded fashion and with 2 Principles for Clinical Evaluation of New Antihypertensive Drugs placebo controls are essential (See ICH E10).",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다양한 설계의 무작위배정 단기간 시험은 예를 들어 다음과 같은 유효성을 증명할 때 유용하다 (부록 참조).",
+      "en_txt": "Controlled randomized short-term studies of various designs can be useful in demonstrating effectiveness, for example (See also Appendix) ",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "A) 단일 고정 용량 대 위약 B) 선택적 용량 조절 (반응에 기반을 둔) 대 위약 C) 강제 용량 조절 대 위약 D) 고정 용량, 용량-반응 대 위약 (무작위 배정된 고정 유지 용량에 도달하기 위해 강제 용량조절을 사용할 수 있음) E) 활성대조약을 사용한 위의 임상시험 설계 중 하나",
+      "en_txt": "A) Single fixed-dose vs. placebo B) Optional titration (based on response) vs. placebo C) Forced titration vs. Placebo D) Fixed-dose, dose-response vs.placebo (can use forced titration to reach the randomly assigned fixed maintenance dose) E) Any of the above designs with an active control drug ",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유효성을 확인하기 위한(그리고 장기적인 안전성 평가를 위해 필요한) 장기간의 시험은 보통 활성대조약을 사용하며 시험의 감수성(ICH E10 참조)을 확립하고 가능한 중단 효과를 평가하기 위해서 치료종료시점에서는 위약 대조된 무작위 배정 중단 시험이 선호된다.",
+      "en_txt": "Long-term studies to show efficacy (and which are also needed for assessment of long term safety) would usually use active controls, preferably with a placebo-controlled randomized withdrawal study at the end of treatment to establish assay sensitivity (See ICH E10) and assess possible withdrawal effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "분석 감도를 확립할 수 있는 다른 활성약 대조 장기간 시험 설계로는 환자가 초기에 세 가지 치료군(시험약, 활성대조약 및 위약)에 무작위 배정되고 위약군은 단기간(예. 1개월)동안만 유지하는 것이다.",
+      "en_txt": "Another long-term active control trial design that could support assay sensitivity would be one in which patients are initially randomized to three treatments (test drug, active control drug and a placebo), with the placebo only maintained for short time (e.g., one month).",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "투여 간격의 기간에 따른 의약품의 효과는 최근 혈압의 하루 중의 변화(ABPM) 시험에 의해 평가되고 있지만(용량-반응 요소와 활성대조약을 통합할 수 있다), 혈중농도의 적절한 최대치와 최저치(투여 이전)에서의 혈압을 측정하는 시험 또한 사용될 수 있다.",
+      "en_txt": "The effect of the drug over the duration of the dosing interval has generally been evaluated in recent years with ABPM studies (which can incorporate dose-response elements and an active control), but studies that measure blood pressure at approximate peak and at trough (pre-dosing) blood levels can also be used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "추가 정보는 혈압계를 통해 스스로(집에서) 측정해서 얻을 수 있지만 사용된 장치의 검증은 반드시 필요하다.",
+      "en_txt": "Additional information may be obtained from self (home) measurement of blood pressure with the help of automatic devices, but validation of the device used is necessary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비록 엄격한 규칙(예. 위약을 제외한 최저/최고치의 최소한 50%)이 적용되어야 하지만 이러한 비율의 해석은 일반적으로 유연하게 할 수 있다.",
+      "en_txt": "Although strict rules (e.g., placebo-subtracted trough/peak at least 50%) have been suggested, interpretation of these ratios has generally been flexible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "투여간격이 긴 약물의 경우(단시간 작용약물에 대해 1일 1회 요법을 주장하는 경우) 피크시간에서 과도한 혈압의 강하 없이 투여간격의 마지막 부분에서도 적절하게 혈압이 조절되는지를 확인하는 것이 주된 고려대상이다.",
+      "en_txt": "The principal concern is that there needs to be an adequate blood pressure control late in the dose interval, without an excessive fall in blood pressure at peak resulting from a desire to have a long dose interval (e.g., to gain a once daily dosing claim for a short-acting drug).",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "혈압 측정의 조건은 하루 시간, 환자의 자세 및 특정 측정 절차에 따라 잘 기술되고 기준화되어야 한다.",
+      "en_txt": "Conditions of blood pressure measurement should be well described and standardized with respect to time of day, patient position and specific measurement procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시험은 혈류역학 효과, 신장 효과 및 신경 호르몬 효과를 평가하기 위해 수행되어야 한다.",
+      "en_txt": "Studies should be performed to evaluate such properties as hemodynamic effects, renal effects, and neurohumoral effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 이러한 효과의 크기, 용량-반응 및 시간에 따른 효과를 구체화하는 것이 유용하다.",
+      "en_txt": "In general, it is useful to characterize the magnitude, dose-response, and time-course of these effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "항고혈압 약물의 좋은 효과(혈압)와 좋지 않은 효과에 대한 용량-반응(D/R) 관계는 무작위 배정된 고정 용량 D/R 시험을 통해 잘 특징지어져야 한다.",
+      "en_txt": "The dose-response (D/R) relationship for favorable (blood pressure) and unfavorable effects of anti-hypertensive drugs should be well-characterized through randomized fixed-dose, D/R studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 시험에서 다수의 용량군을 설정하는 것이 더 나은 D/R 평가를 제공할 것이다.",
+      "en_txt": "In these studies, a greater number of dose groups will provide a better D/R assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비록 일반적으로 시험이 무작위배정, 평행군, 고정 용량 D/R 설계(ICH E4 참조)를 사용할 지라도 몇몇 시험은 고정 용량 시험에서 시험되어야 하는 용량 범위를 줄이고 각 D/R 관계를 구체화하기 위해 적절히 분석된 위약대조 용량조절 설계를 이용할 수 있을 것이다.",
+      "en_txt": "Although trials usually use a randomized parallel fixed-dose, D/R design (See ICH E4), some studies could utilize a placebo-controlled titration design, appropriately analyzed, to narrow the range of doses to be studied in fixed- dose studies, and to characterize individual D/R relationships.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "하나 또는 두 개의 이러한 설계는 항고혈압 효과를 위한 증거를 제공할 수 있다.",
+      "en_txt": "Either or both of these designs can provide evidence for anti-hypertensive efficacy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 D/R 시험은(ICH E4 참조) 몇몇 유용한 효과에 대한 가장 낮은 용량의 확인, D/R 곡선의 가장 가파른 부분에서의 용량 및 추가 효과가 없거나 적게 나타나는 (최대로 이용 가능한 용량) 곳을 넘어선 용량을 허락하며 D/R 곡선의 중요한 부분의 특징을 나타내야 한다.",
+      "en_txt": "These D/R studies (See ICH E4) should characterize critical parts of the D/R curve, allowing identification of the lowest dose with some useful effect, a dose on the steep part of the D/R curve, and a dose beyond which further effects are absent or small (maximum useful dose).",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "양의 값을 갖는 D/R기울기가 있다면 D/R 시험은 위약 효과 없이 효과성을 보여줄 수 있으나 낮은 용량의 가치에 대한 정보(추가 시험을 필요로 할지도 모르는)는 적게 제공할 것이다.",
+      "en_txt": "If there is a positive D/R slope, a D/R study can show effectiveness even without a placebo, but it may provide little information on the value of the lower doses (which may then need further study).",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "D/R 시험은 모든 용량이 같은 효과를 보여준다면 충분한 정보를 알려주지 않을 지도 모른다.",
+      "en_txt": "A D/R study may be uninformative if all doses show equal effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표준 치료와의 비교: 신약과 현재 표준 치료를 비교하는 시험의 필요성은 지역에 따라 다양하지만 비교 시험은 모든 지역에서 관심의 대상이 된다.",
+      "en_txt": "Comparison with Standard Therapy: The need for studies comparing the new drug with current standard therapy varies among regions but comparative studies are of interest in all regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "단기간 시험을 위해서 3군 설계(시험약, 활성대조약 및 위약)는 유효성을 뒷받침할 뿐만 아니라 표준 치료와 비교할 수 있는 시험으로서 도움이 될 것이다.",
+      "en_txt": "For the short-term studies, a 3-arm design (test drug, active control drug, and placebo) may be particularly helpful as a study that not only supports efficacy but also makes a comparison with standard therapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "만약 효과 크기(vs.위약)가 비정상적으로 작다면 이것이 시험 모집단 또는 다른 시험 양상(시험약과 대조약 모두 위약과 비교시 효과가 적음) 또는 약물(위약과 비교시 활성대조약이 시험약보다 더 큰 효과를 나타냄)에 대한 결과를 알려주는 데 도움이 될 것이다.",
+      "en_txt": "If the effect size (vs.placebo) is unusually small, it can be helpful to know whether this was the result of the study population, or other study features (test and control drugs both have small effect vs. placebo), or the drug (active control drug has a larger effect than test drug compared to placebo).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "장기간 비교 시험을 위해서 동시에 위약대조 시험이 불가능한 상황에서 항목 3.1에 언급된 시험 감수성을 증명하는 방법이 고려되어야 할 것이다.",
+      "en_txt": "For longer-term comparative studies, where concurrent placebo-control is not possible, the approaches to demonstrating assay sensitivity described in Section 3.1 should be considered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E1에서는 1500명의 환자에 대한 데이터베이스(6개월 간 300-600명, 1년간 100명)가 만성적으로 투여 받는 약물에 대해 일반적으로 충분하지만 그 지침서에서 나타난 것처럼 증상은 없으나 항고혈압제가 필요한 대상군에서는 매우 장기간, 넓은 노출이 필요할 수 있다.",
+      "en_txt": "ICH E1 suggests that a database of about 1500 patients (300-600 for 6 months, 100 for 1 year) is usually sufficient for chronically administered drugs, but as suggested in that guideline, this may be too small for the very long, very wide exposure in an asymptomatic population intended for antihypertensive drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특정 약물과 다른 관찰에 따라서 심장 박동이나 심장 수행에 대한 효과 시험, 관상 동맥 혈류전환 효과, 심혈관계 질환(예. 혈당, 지방질)을 위한 위험 요소에 대한 효과 및 표적 기관 손상에 대한 효과는 관심의 대상이 된다.",
+      "en_txt": "Depending on the particular drug and other observations, studies of effects on heart rhythm or cardiac conduction, coronary steal effects, effects on risk factors for cardiovascular disease (e.g., blood glucose, lipids), and effects on target organ damage are of interest.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상적 병용 투여 시험에 관한 특정 요구 조건들은 지역에 따라 다양하다.",
+      "en_txt": "Specific requirements regarding clinical co-administration studies may vary among regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다른 물질에 대해 적절히 혈압을 조절하지 못하는 환자에 대한 시험은 다른 물질(추가 시험)이 추가될 때 시험약의 효과에 대한 정보를 제공할 것이다.",
+      "en_txt": "Studies in patients with inadequate blood pressure control on other agents will provide information on the effect of the test drug when added to other agents (add on studies).",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "적절한 반응을 얻기 위해 시험약에 추가된 추가 약물에 대한 시험은 유용할 것이다.",
+      "en_txt": "Studies in which additional drugs are added to the test drug to achieve an adequate response may also be useful.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "고정용량 복합제의 안전성 및 유효성을 뒷받침할 자료를 얻기 위해 필요한 복합제 시험은 두 가지 접근방법이 있다.",
+      "en_txt": "There are two approaches to the combination studies needed to obtain safety and efficacy data to support fixed combination products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특정한 적응증을 뒷받침하기에 필요한 자료에 대해서는 지역 규제 당국과 논의하는 것이 필수적이다.",
+      "en_txt": "It is essential to consult with regional regulatory authorities regarding the specific data needed to support the specific indications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "요인 시험에서는 위약과 시험약 T 및 시험약 D의 단일 용량 또는 여러 용량을 단독 및 병용투여하여 단기간 무작위배정 시험한다.",
+      "en_txt": "In a factorial study, placebo, and one or more doses of the test drug T and another drug D are studied alone and in the combination in a short-term randomized controlled trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 설계는 시험약과 다른 약의 단독투여, 각 단일제의 용량별 병용투여에 대한 D/R 관계를 나타내고 하나 이상의 고정용량 복합제를 뒷받침할 수도 있다.",
+      "en_txt": "This design reveals D/R relationships for the test drug and other drug alone and in combination with each dose of the other treatment and may support one or more fixed combinations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 시험들은 모든 집단으로부터 얻은 자료를 사용하는 “반응 표면” 관계를 나타낸다.",
+      "en_txt": "These studies reveal \"response surface\" relationships that use data from all groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "각 단일제에 대한 비반응자의 시험 복합제의 안전성과 유효성은 각각의 두 단일제에 대한 반응이 실패한 환자들, 예를 들면 그 성분에 대한 확장기 혈압이 90 mmHg 이상인 환자에서 나타나는 복합제의효과를 조사함으로써 평가될 수 있다.",
+      "en_txt": "Studies in Non-responders to Each Drug The safety and efficacy of combinations can also be assessed by examining the effect of the combination in patients failing to respond to both of the single drugs, e.g., diastolic blood pressure > 90 mmHg on that component.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "몇몇 사례에서 규제 당국은 구성성분 중 하나에 대한 반응이 실패한 환자에서의 시험만을 요구하는 경우도 있다.",
+      "en_txt": "In some cases, regional authorities only require trials in patients failing to respond to one of the components.",
+      "align_score": null
+    }
+  ]
+}

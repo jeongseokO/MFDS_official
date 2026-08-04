@@ -1,0 +1,154 @@
+{
+  "document_id": "ke_cochrane_0006",
+  "meta": {
+    "set": "KE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000026.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000026.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "전신성 진균감염증 (systemic fungal infection)은, 암 환자, 특히 호중구감소증(neutropenia)을 동반한 암 환자에서 이환 및 사망을 초래하는 주요원인질환이다.",
+      "en_txt": "Systemic fungal infection is considered to be an important cause of morbidity and mortality in cancer patients, particularly those with neutropenia.",
+      "align_score": 0.8242
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "따라서 발열이 지속되는 환자에서는 종종 예방적 또는 경험적으로 항진균제(antifungal agent)를 투여한다.",
+      "en_txt": "Antifungal drugs are often given prophylactically, or empirically to patients with persistent fever.",
+      "align_score": 0.8284
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "자주 사용되는 항진균제 투여로 호중구감소증을 동반한 암 환자의 사망률이 감소하는지를 평가한다.",
+      "en_txt": "To assess whether commonly used antifungal drugs decrease mortality in cancer patients with neutropenia.",
+      "align_score": 0.7867
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "1966년부터 2014년 7월 7일까지의 PubMed를 검색하고, 이에서 확인된 논문의 참고문헌 목록을 함께 검색하였다.",
+      "en_txt": "We searched PubMed from 1966 to 7 July 2014 and the reference lists of identified articles.",
+      "align_score": 0.8944
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "분석에는 환자 4287명을 대상으로 한 32건의 시험을 포함하였다.",
+      "en_txt": "Thirty‐two trials involving 4287 patients were included.",
+      "align_score": 0.8615
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "예방적 또는 경험적으로 암포테리신 B를 투여한 경우 전체사망률이 유의하게 감소하였으나(상대 위험도[relative risk, RR] 0.69, 95% 신뢰 구간[confidence interval, CI] 0.50 ‐ 0.96), 플루코나졸, 케토코나졸, 미코나졸, 이트라코나졸의 경우 추정 상대위험도(estimated RRs)는 1.0에 거의 근접하였다.",
+      "en_txt": "Prophylactic or empirical treatment with amphotericin B significantly decreased total mortality (relative risk (RR) 0.69, 95% confidence interval (CI) 0.50 to 0.96), whereas the estimated RRs for fluconazole, ketoconazole, miconazole, and itraconazole were close to 1.00.",
+      "align_score": 0.8961
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "한편, 보리코나졸에 관하여는 포함시킬 만한 적절한 임상시험연구를 찾지 못했다 암포테리신 B와 플루코나졸 투여시에는 진균감염증으로 인한 사망률이 감소하였다(각각의 RR 0.45, 95% CI 0.26 ‐ 0.76 및 0.42, 95% CI 0.24 ‐ 0.73).",
+      "en_txt": "Amphotericin B and fluconazole decreased mortality ascribed to fungal infection (RR 0.45, 95% CI 0.26 to 0.76 and RR 0.42, 95% CI 0.24 to 0.73, respectively).",
+      "align_score": 0.7976
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "침습성 진균감염증(invasive fungal infection)의 이환율은 암포테리신 B(RR 0.41, 95% CI 0.24 ‐ 0.73), 플루코나졸(RR 0.39, 95% CI 0.27 ‐ 0.57), 이트라코나졸(RR 0.53, 95% CI 0.29 ‐ 0.97) 투여시에는 유의하게 감소하였으나, 케토코나졸이나 미코나졸 투여로는 감소되지 않았다.",
+      "en_txt": "The incidence of invasive fungal infection decreased significantly with administration of amphotericin B (RR 0.41, 95% CI 0.24 to 0.73), fluconazole (RR 0.39, 95% CI 0.27 to 0.57) and itraconazole (RR 0.53, 95% CI 0.29 to 0.97), but not with ketoconazole or miconazole.",
+      "align_score": 0.929
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "적절한 배당은닉(allocation concealment)으로 맹검을 실시한 13건의 시험에서도 효과 추정치는 유사하게 나타났다.",
+      "en_txt": "Effect estimates were similar for those 13 trials that had adequate allocation concealment and were blinded.",
+      "align_score": 0.8505
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "2011년 및 2014년의 개정본에 포함시킬 만한 추가 시험은 없었다.",
+      "en_txt": "For the 2011 and 2014 updates no additional trials were identified for inclusion.",
+      "align_score": 0.8885
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "전체사망률을 낮추는 유일한 치료법은 암포테리신 B 정맥투여이다.",
+      "en_txt": "Intravenous amphotericin B was the only antifungal agent that reduced total mortality.",
+      "align_score": 0.7745
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "골수이식을 받거나 화학요법 중인 암 환자는 진균감염증에 이환될 위험이 높다.",
+      "en_txt": "Cancer patients receiving chemotherapy or a bone marrow transplant are at risk of fungal infections.",
+      "align_score": 0.8896
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 연구에서는 암포테리신 B 정맥투여가 (진균감염으로 인한) 사망자수를 감소시킴을 확인하였다.",
+      "en_txt": "The review found that intravenous amphotericin B could reduce the number of deaths.",
+      "align_score": 0.7659
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "또한 암포테리신 B, 플루코나졸, 이트라코나졸의 3가지 진균제는 진균감염증 이환율을 낮춘다.",
+      "en_txt": "Three of the drugs, amphotericin B, fluconazole and itraconazole, reduced fungal infections.",
+      "align_score": 0.8378
+    }
+  ]
+}

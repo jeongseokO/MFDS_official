@@ -1,0 +1,181 @@
+{
+ "document_id": "ke_cris_0010",
+ "meta": {
+  "set": "KE",
+  "source_folder": "12",
+  "source_code": "cris",
+  "source_name": "국내 임상연구(CRIS)",
+  "orig_doc_id": "KCT0000010",
+  "category_l1": "임상연구정보",
+  "category_l2": "임상시험 등록정보",
+  "category_l3": "국내 임상연구(CRIS)",
+  "title_ko": null,
+  "title_en": null,
+  "source_doc": null,
+  "target_doc": null,
+  "doc_type": "CRIS",
+  "source_language": "en",
+  "target_language": "ko",
+  "pub_date_ko": null,
+  "pub_date_en": null,
+  "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=956",
+  "domain_tag": null,
+  "align_method": "LaBSE cosine (sentence-transformers/LaBSE)",
+  "n_pairs": 17
+ },
+ "segments": [
+  {
+   "seg_id": 1,
+   "type": "sentence",
+   "section": "1. 연구개요_요약제목",
+   "path": null,
+   "ko_txt": "췌장 절제술을 시행 받은 환자에서 췌장효소 보충제제의 투여가 삶의 질과 영양학적 지표에 미치는 영향에 대한 전향적 연구",
+   "en_txt": "Prospective study for the effects of pancreatic enzyme replacement therapy on quality of life and nutritional assessment after pancreas resection",
+   "align_score": 0.7864
+  },
+  {
+   "seg_id": 2,
+   "type": "sentence",
+   "section": "1. 연구개요_연구제목",
+   "path": null,
+   "ko_txt": "췌장 절제술을 시행 받은 환자에서 췌장효소 보충제제의 투여가 삶의 질과 영양학적 지표에 미치는 영향에 대한 전향적 연구",
+   "en_txt": "Prospective study for the effects of pancreatic enzyme replacement therapy on quality of life and nutritional assessment after pancreas resection",
+   "align_score": 0.7864
+  },
+  {
+   "seg_id": 3,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_기관명",
+   "path": null,
+   "ko_txt": "서울대학교",
+   "en_txt": "Seoul National University",
+   "align_score": 0.7807
+  },
+  {
+   "seg_id": 4,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_성명",
+   "path": null,
+   "ko_txt": "강미주",
+   "en_txt": "Mee Joo Kang",
+   "align_score": 0.777
+  },
+  {
+   "seg_id": 5,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_기관명",
+   "path": null,
+   "ko_txt": "서울대학교",
+   "en_txt": "Seoul National University",
+   "align_score": 0.7807
+  },
+  {
+   "seg_id": 6,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_성명",
+   "path": null,
+   "ko_txt": "강미주",
+   "en_txt": "Mee Joo Kang",
+   "align_score": 0.777
+  },
+  {
+   "seg_id": 7,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_기관명",
+   "path": null,
+   "ko_txt": "서울대학교",
+   "en_txt": "Seoul National University",
+   "align_score": 0.7807
+  },
+  {
+   "seg_id": 8,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+   "path": null,
+   "ko_txt": "서울대학교",
+   "en_txt": "Seoul National University",
+   "align_score": 0.7807
+  },
+  {
+   "seg_id": 9,
+   "type": "sentence",
+   "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+   "path": null,
+   "ko_txt": "서울대학교",
+   "en_txt": "Seoul National University",
+   "align_score": 0.7807
+  },
+  {
+   "seg_id": 10,
+   "type": "sentence",
+   "section": "6. 연구책임기관_1.연구책임기관_기관명",
+   "path": null,
+   "ko_txt": "서울대학교",
+   "en_txt": "Seoul National University",
+   "align_score": 0.7807
+  },
+  {
+   "seg_id": 11,
+   "type": "sentence",
+   "section": "7. 연구요약",
+   "path": null,
+   "ko_txt": "본 연구는 췌장 절제술 이후 환자들의 삶의 질과 영양학적 지표에 대한 전향적인 연구 결과가 거의 발표되지 않은 현재 상황에서 췌장 절제술 이후 환자들의 삶의 질과 영양학적 지표의 변화 추이를 조사하고, 췌장효소 보충제제인 Norzyme의 투여가 환자의 삶의 질과 영양학적 지표의 개선에 영향을 미칠 수 있는지를 평가하기 위해 계획되었다.",
+   "en_txt": "The aim of this study is to investigate quality of life and changes in nutritional parameter after pancreatectomy, and to explore the effect of enzyme supplement (Norzyme) in pateitns who underwent pancreatectomy.",
+   "align_score": 0.8105
+  },
+  {
+   "seg_id": 12,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+   "path": null,
+   "ko_txt": "삶의 질",
+   "en_txt": "quality of life",
+   "align_score": 0.9684
+  },
+  {
+   "seg_id": 13,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술한 날로부터 30일, 3개월, 6개월, 12개월 후",
+   "en_txt": "the first 30 days, 3, 6, and 12months after surgery",
+   "align_score": 0.8155
+  },
+  {
+   "seg_id": 14,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술한 날로부터 30일, 3개월, 6개월, 12개월 후",
+   "en_txt": "the first 30 days, 3, 6, and 12months after surgery",
+   "align_score": 0.8155
+  },
+  {
+   "seg_id": 15,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술한 날로부터 30일, 3개월, 6개월, 12개월 후",
+   "en_txt": "the first 30 days, 3, 6, and 12months after surgery",
+   "align_score": 0.8155
+  },
+  {
+   "seg_id": 16,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술한 날로부터 30일, 3개월, 6개월, 12개월 후",
+   "en_txt": "the first 30 days, 3, 6, and 12months after surgery",
+   "align_score": 0.8155
+  },
+  {
+   "seg_id": 17,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술한 날로부터 30일, 3개월, 6개월, 12개월 후",
+   "en_txt": "the first 30 days, 3, 6, and 12months after surgery",
+   "align_score": 0.8155
+  }
+ ]
+}

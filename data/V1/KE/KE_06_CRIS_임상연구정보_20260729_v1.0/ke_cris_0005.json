@@ -1,0 +1,217 @@
+{
+ "document_id": "ke_cris_0005",
+ "meta": {
+  "set": "KE",
+  "source_folder": "12",
+  "source_code": "cris",
+  "source_name": "국내 임상연구(CRIS)",
+  "orig_doc_id": "KCT0000005",
+  "category_l1": "임상연구정보",
+  "category_l2": "임상시험 등록정보",
+  "category_l3": "국내 임상연구(CRIS)",
+  "title_ko": null,
+  "title_en": null,
+  "source_doc": null,
+  "target_doc": null,
+  "doc_type": "CRIS",
+  "source_language": "en",
+  "target_language": "ko",
+  "pub_date_ko": null,
+  "pub_date_en": null,
+  "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=940",
+  "domain_tag": null,
+  "align_method": "LaBSE cosine (sentence-transformers/LaBSE)",
+  "n_pairs": 21
+ },
+ "segments": [
+  {
+   "seg_id": 1,
+   "type": "sentence",
+   "section": "1. 연구개요_요약제목",
+   "path": null,
+   "ko_txt": "저용량의 esmolol 주입이 복강경 산부인과 수술에 필요한 흡입마취제의 양에 미치는 영향에 관한 전향적 연구",
+   "en_txt": "The sparing effects of low-dose esmolol on inhalation anesthetics during laparoscopic gynecologic surgery",
+   "align_score": 0.7728
+  },
+  {
+   "seg_id": 2,
+   "type": "sentence",
+   "section": "1. 연구개요_연구제목",
+   "path": null,
+   "ko_txt": "복강경하 산부인과 수술을 받는 환자를 대상으로 술중 지속적으로 투여된 저농도의 esmolol이 흡입마취제와 마약제제의 요구량에 미치는 효과에 관한 전향적, 무작위배정, 2개군 시험",
+   "en_txt": "Prospective, randomized, two-arm parallel group trial for the sparing effects of low-dose esmolol on inhalation anesthetics in patients undergoing laparoscopic gynecologic surgery",
+   "align_score": 0.7923
+  },
+  {
+   "seg_id": 3,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_성명",
+   "path": null,
+   "ko_txt": "이재민",
+   "en_txt": "Jaemin Lee",
+   "align_score": 0.8314
+  },
+  {
+   "seg_id": 4,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_기관명",
+   "path": null,
+   "ko_txt": "가톨릭대학교서울성모병원",
+   "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+   "align_score": 0.7772
+  },
+  {
+   "seg_id": 5,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_직위",
+   "path": null,
+   "ko_txt": "임상조교수",
+   "en_txt": "Clinical professor",
+   "align_score": 0.9117
+  },
+  {
+   "seg_id": 6,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_기관명",
+   "path": null,
+   "ko_txt": "가톨릭대학교서울성모병원",
+   "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+   "align_score": 0.7772
+  },
+  {
+   "seg_id": 7,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_직위",
+   "path": null,
+   "ko_txt": "임상조교수",
+   "en_txt": "Clinical professor",
+   "align_score": 0.9117
+  },
+  {
+   "seg_id": 8,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_기관명",
+   "path": null,
+   "ko_txt": "가톨릭대학교서울성모병원",
+   "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+   "align_score": 0.7772
+  },
+  {
+   "seg_id": 9,
+   "type": "sentence",
+   "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+   "path": null,
+   "ko_txt": "없음",
+   "en_txt": "None",
+   "align_score": 0.8977
+  },
+  {
+   "seg_id": 10,
+   "type": "sentence",
+   "section": "7. 연구요약",
+   "path": null,
+   "ko_txt": "Esmolol은 수술중 정맥마취제의 용량을 감소시키고 BIS까지 감소시킨다고 알려져 있다.",
+   "en_txt": "Esmolol is kown to reduce the requirement for intravenous anaesthetics and decrease the BIS during surgery.",
+   "align_score": 0.8214
+  },
+  {
+   "seg_id": 11,
+   "type": "sentence",
+   "section": "7. 연구요약",
+   "path": null,
+   "ko_txt": "따라서 esmolol의 지속적 주입이 마취유지를 위한 흡입마취제의 요구량에 영향을 미칠 개연성은 충분하다.",
+   "en_txt": "Therefore, it is probable that continuous infusion of esmolol affects the requirement for inhalation anaesthetics.",
+   "align_score": 0.8327
+  },
+  {
+   "seg_id": 12,
+   "type": "sentence",
+   "section": "7. 연구요약",
+   "path": null,
+   "ko_txt": "따라서 저자들은 복강경하 산부인과 수술의 마취 관리시 지속적으로 동반 투여되는 저농도의 esmolol이 흡입마취제인 sevoflurane의 요구량을 줄일 수 있는지 확인하기 위해 본 연구를 수행하였다",
+   "en_txt": "Therefore, we examined whether a continuous infusion of low-dose esmolol reduces the requirement for sevoflurane during laparoscopic gynaecologic surgery.",
+   "align_score": 0.8515
+  },
+  {
+   "seg_id": 13,
+   "type": "sentence",
+   "section": "8. 연구설계_중재상세설명",
+   "path": null,
+   "ko_txt": "시험군은 esmolol 0.5 mg/kg 의 loading dose를 투여한 후 연이어 30 µg/kg/min 의 지속적 주입을 수술 종료시까지 시행한다.",
+   "en_txt": "The treatment group (n = 27) is infused with a loading dose of 0.5 mg/kg esmolol, followed by an infusion of 30 µg/kg/min during surgery.",
+   "align_score": 0.8137
+  },
+  {
+   "seg_id": 14,
+   "type": "sentence",
+   "section": "8. 연구설계_군_1.중재군_군명",
+   "path": null,
+   "ko_txt": "Esmolol (에스몰롤) 군",
+   "en_txt": "Esmolol group",
+   "align_score": 0.8072
+  },
+  {
+   "seg_id": 15,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 포함기준_내용",
+   "path": null,
+   "ko_txt": "20-60세로 미국마취과학회등급 1 혹은 2에 해당하며 전신마취하에서 2시간 이내로 소요되는 복강경 산부인과 수술을 받는 여성",
+   "en_txt": "The women who are aged between 20 and 60 years with an American Society of Anesthesiology status of I or II and scheduled for elective laparoscopic gynaecologic surgery for 2 hour general anaesthesia",
+   "align_score": 0.8511
+  },
+  {
+   "seg_id": 16,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 제외기준",
+   "path": null,
+   "ko_txt": "고혈압, 부정맥, 심근허혈 등 심혈관 질환이 있는 환자, 출혈, 저혈량, 체액 손실 등으로 혈역학적 불안정을 보이는 환자, 천식이나 만성폐쇄성 폐질환이 있는 환자, 연구 약물에 대한 알레르기가 있는 환자, BMI (body mass index)가 16미만이거나 30이상인 환자",
+   "en_txt": "Patients who have cardiovascular diseases, such as hypertension, arrhythmias, or myocardial ischaemia, are haemodynamically unstable (i.e., bleeding, hypovolaemia, or loss of body fluid), or have asthma or chronic obstructive pulmonary disease, allergies to the study drug, or a body mass index under 16 or over 30 kg/m2.",
+   "align_score": 0.8378
+  },
+  {
+   "seg_id": 17,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술종료 후 2시간 이내",
+   "en_txt": "within 2 hour after surgery",
+   "align_score": 0.9236
+  },
+  {
+   "seg_id": 18,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+   "path": null,
+   "ko_txt": "수술 후 통증 정도",
+   "en_txt": "pain degree after surgery",
+   "align_score": 0.91
+  },
+  {
+   "seg_id": 19,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술종료 후 2시간 이내",
+   "en_txt": "within 2 hour after surgery",
+   "align_score": 0.9236
+  },
+  {
+   "seg_id": 20,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+   "path": null,
+   "ko_txt": "수술 후 요구된 진통제의 용량",
+   "en_txt": "analgesic requirement after surgery",
+   "align_score": 0.7893
+  },
+  {
+   "seg_id": 21,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술종료 후 2시간 이내",
+   "en_txt": "within 2 hour after surgery",
+   "align_score": 0.9236
+  }
+ ]
+}

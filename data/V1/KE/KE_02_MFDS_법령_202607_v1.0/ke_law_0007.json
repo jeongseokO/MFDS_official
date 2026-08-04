@@ -1,0 +1,955 @@
+{
+  "document_id": "ke_law_0007",
+  "meta": {
+    "set": "KE",
+    "source_folder": "2",
+    "source_code": "law",
+    "source_name": "법령",
+    "orig_doc_id": "REGULATIONS ON RELIEF OF INJURY FROM ADVERSE DRUG REACTION2",
+    "category_l1": "규제·지침",
+    "category_l2": "법령·고시",
+    "category_l3": "법령",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 영은 「약사법」 제68조의11, 제86조제5항, 제86조의2, 제86조의4 및 제86조의5에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2025. 2. 18.>",
+      "en_txt": "The purpose of this Decree is to prescribe matters mandated under Articles 68-11, 86 (5), 86-2, 86-4, and 86-5 of the Pharmaceutical Affairs Act and matters necessary for the enforcement thereof. <Amended on Feb. 18, 2025>",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 「약사법」(이하 “법”이라 한다) 제68조의11에 따른 의약품부작용 심의위원 회(이하 “심의위원회”라 한다)는 다음 각 호의 구분에 따른 사람으로 성별을 고려하여 구성한다.",
+      "en_txt": "(1) The council for deliberation on adverse drug reaction (hereinafter referred to as the \"council for deliberation\") under Article 68-11 of the Pharmaceutical Affairs Act (hereinafter referred to as the \"Act\"), shall be comprised of persons classified as follows, duly considering gender:",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 법 제68조의11제3항제1호에 해당하는 사람: 6명 이상 8명 이하",
+      "en_txt": "1. Persons falling under Article 68-11 (3) 1 of the Act: At least 6 but not more than 8 persons;",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 법 제68조의11제3항제2호에 해당하는 사람: 2명",
+      "en_txt": "2. Persons falling under Article 68-11 (3) 2 of the Act: 2 persons;",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 법 제68조의11제3항제3호에 해당하는 사람: 1명 이상 3명 이하",
+      "en_txt": "3. Persons falling under Article 68-11 (3) 3 of the Act: At least 1 but not more than 3 persons;",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 법 제68조의11제3항제4호에 해당하는 사람: 2명",
+      "en_txt": "4. Persons falling under Article 68-11 (3) 4 of the Act: 2 persons.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 법 제68조의11제3항제4호에서 “대통령령으로 정하는 관계 중앙행정기관 소속 공무원”이란 보건복지부 및 식품 의약품안전처의 고위공무원단에 속하는 공무원으로서 의약품의 안전에 관한 업무를 담당하는 사람을 말한다.",
+      "en_txt": "(2) \"Public official of a relevant central administration agency prescribed by Presidential Decree\" in Article 68- 11 (3) 4 of the Act refers to the public official belonging to the senior civil service of the Ministry of Health and Welfare or the Ministry of Food and Drug Safety, who is in charge of the safety of drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항제1호부터 제3호까지의 규정에 해당하는 위원의 임기는 2년으로 한다. 다만, 위원의 사임 등으로 새로 위 촉된 위원의 임기는 전임위원 임기의 남은 기간으로 한다.",
+      "en_txt": "(3) The term of members falling under subparagraphs 1 through 3 of Article 1, shall be two years; provided, the term of each member newly commissioned as a result of a vacancy, including the resignation of a member, shall be the remaining period of the term of the preceding member.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 심의위원회의 사무를 처리하기 위하여 간사 1명을 둘 수 있다. 이 경우 간사는 식품의약품안전처에서 의약품 부작용 관련 업무를 담당하는 공무원 중에서 식품의약품안전처장이 지명한다.",
+      "en_txt": "(4) The Council for Deliberation may have one administrative secretary for dealing with its affairs. In such cases, the administrative secretary shall be designated by the Minister of Food and Drug Safety, from among public officials in charge of duties related to adverse drug reaction, in the Ministry of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 심의위원회의 위원이 다음 각 호의 어느 하나에 해당하는 경우에는 해 당 심의위원회의 심의ㆍ의결에서 제척(除斥)된다. <개정 2021. 1. 12.>",
+      "en_txt": "(1) Each member of the Council for Deliberation in any of the following cases, shall be excluded from the deliberation and resolution in the relevant Council for Deliberation: <Amended on Jan. 12, 2021>",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 위원 또는 그 배우자나 배우자였던 사람이 해당 안건의 당사자(당사자가 법인ㆍ단체 등인 경우에는 그 임원 또는 직원을 포함한다. 이하 이 호 및 제2호에서 같다)이거나 그 안건의 당사자와 공동권리자 또는 공동의무자인 경우",
+      "en_txt": "1. Where the member or his or her spouse or former spouse becomes a party to the case (Where the party is a corporation, organization, the executive officers or employees thereof shall be included; hereafter in this subparagraph and subparagraph 2, the same shall apply), or is a joint rights holder or a person having joint obligations with the party of such case;",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 위원이 해당 안건의 당사자와 친족이거나 친족이었던 경우",
+      "en_txt": "2. Where the member is a relative or former relative of a party to the case;",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 위원이 해당 안건에 대하여 증언, 진술, 자문, 연구, 용역(하도급을 포함한다), 감정(鑑定) 또는 조사를 했거나 하고 있는 경우",
+      "en_txt": "3. Where the member gave or is giving testimony or statement or conducted or is conducting consulting, research, services (including subcontracts), appraisals, or investigation regarding the case;",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 위원이나 위원이 속한 법인ㆍ단체 등이 해당 안건 당사자의 대리인이거나 대리인이었던 경우",
+      "en_txt": "4. Where the member, or a corporation, organization, to which the member belongs, is a representative or former representative of a party to the case;",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 위원이 임원 또는 직원으로 재직하고 있거나 최근 3년 내에 재직했던 법인ㆍ단체 등이 해당 안건에 대하여 증언, 진술, 자문, 연구, 용역(하도급을 포함한다), 감정 또는 조사를 한 경우",
+      "en_txt": "5. Where a corporation, organization, for which the member works as an executive officer or employee or worked as an executive officer or employee in the last three years, gives testimony or statement or conducts consulting, research, services (including subcontracts), appraisals, or investigation regarding the case;",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 위원이 해당 안건의 당사자인 법인ㆍ단체 등에서 최근 3년 이내에 임원 또는 직원으로 재직한 경우",
+      "en_txt": "6. Where the member worked for a corporation, organization, which is the party to the case, as an executive officer or employee in the last three years;",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 그 밖에 위원이 해당 안건과 직접적인 이해관계가 있는 등 심의위원회의 공정한 심의ㆍ의결을 저해할 중대한 사 유가 있다고 위원장이 인정하는 경우",
+      "en_txt": "7. Where the chairperson deems that the member has a direct interest in the case or that there is a significant reason undermining fair deliberation and resolution by the Council for Deliberation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 안건의 당사자는 위원에게 공정한 심의ㆍ의결을 기대하기 어려운 사정이 있는 경우에는 심의위원회에 기피 신 청을 할 수 있고, 심의위원회는 의결로 기피 여부를 결정한다. 이 경우 기피 신청의 대상인 위원은 그 의결에 참여하 지 못한다.",
+      "en_txt": "(2) Where there are circumstances making it difficult to expect fair deliberation or decision-making by the member, a party to the case may file for exclusion with the Council for Deliberation; and the Council for Deliberation shall determine by its resolution, whether to exclude him or her. In such cases, no member who is a subject of filing for exclusion shall participate in determining the resolution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 위원이 제1항 각 호에 따른 제척 사유에 해당하는 경우에는 스스로 해당 안건의 심의ㆍ의결에서 회피(回避)하여 야 한다.",
+      "en_txt": "(3) If the member falls under the grounds for exclusion pursuant to any subparagraph of paragraph (1), he or she shall recuse himself or herself from deliberation or resolution on the relevant case.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 심의위원회의 위원장은 심의위원회의 회의를 소집하고 그 의장이 된다.",
+      "en_txt": "(1) The chairperson of the Council for Deliberation shall call a meeting of the Council for Deliberation and chair such meeting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 심의위원회의 위원장은 식품의약품안전처장 또는 재적위원 과반수가 회의 소집을 요구하면 지체 없이 회의를 소집하여야 한다.",
+      "en_txt": "(2) If the Minister of Food and Drug Safety or a majority of the incumbent members requests a meeting to be called, the chairperson of the Council for Deliberation shall call the meeting without delay.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 심의위원회의 회의는 재적위원 과반수의 출석으로 개의(開議)하고, 출석위원 3분의 2 이상의 찬성으로 의결한다. 의약품 부작용 피해구제에 관한 규정",
+      "en_txt": "(3) A meeting of the Council for Deliberation shall be held upon attendance of a majority of the incumbent members; and its resolution shall be passed by a 2/3 majority vote of the members present.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 심의위원회는 법 제68조의11제5항에 따라 의약품의 분야별로 전문위원회를 둘 수 있다.",
+      "en_txt": "(1) The Council for Deliberation may establish a specialized committee for each field of drugs pursuant to Article 68-11 (5) of the Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 전문위원회의 위원은 의약품과 관련된 학회, 단체 또는 법 제68조의3에 따른 한국의약품안전관리원(이하 “의약 전문위원회의 위원 중에서 심의위원회의 위원장이 지명한다.",
+      "en_txt": "(2) The members of the specialized committee shall be commissioned by the Minister of Food and Drug Safety, from among persons recommended by the head of association or organizations relevant to drugs or the Korea Institute of Drug Safety and Risk Management pursuant to Article 68-3 of the Act (hereinafter referred to as the \"institute of drug safety and risk management\") pursuant to Article 68-3 of the Act; and the chairperson shall be designated by the chairperson of the Council for Deliberation, from among the members of the specialized committee.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 의약품안전관리원의 장은 법 제86조의4제3항에 따라 심의위원회에 심의를 요청하기 전에 전문위원회에 기술자 문 등을 할 수 있다. 의 위원이 다음 각 호의 어느 하나에 해당하는 경우에는 해당 위원을 해촉(解囑)할 수 있다.",
+      "en_txt": "(3) The head of the Institute of Drug Safety and Risk Management may allow the specialized committee to provide technical consulting, before requesting deliberation by the Council for Deliberation pursuant to Article 86-4 (3) of the Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 심신장애로 인하여 직무를 수행할 수 없게 된 경우",
+      "en_txt": "1. Where he or she becomes unable to perform his or her duties due to a mental or physical disability;",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 직무와 관련된 비위사실이 있는 경우",
+      "en_txt": "2. Where he or she has engaged in illegality in his or her duties;",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 직무태만, 품위손상이나 그 밖의 사유로 인하여 위원으로 적합하지 아니하다고 인정되는 경우",
+      "en_txt": "3. Where he or she is deemed inappropriate as a member of the Council for Deliberation due to neglect of duty, injury to dignity or other grounds;",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제3조제1항 각 호의 어느 하나에 해당하는 데에도 불구하고 회피하지 아니한 경우",
+      "en_txt": "4. Where he or she fails to recuse himself or herself, although he or she falls under any of subparagraphs of Article 3 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 위원 스스로 직무를 수행하는 것이 곤란하다고 의사를 밝히는 경우 하나에 해당하는 경우에는 해당 위원을 해촉할 수 있다. [본조신설 2015. 12. 31.]",
+      "en_txt": "5. Where the member himself or herself indicates it is difficult for him or her to perform his or her duties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 심의위원회 또는 전문위원회의 회의에 출석한 위원에게 예산의 범위에서 수당, 여비, 그 밖의 경비를 지급할 수 있다. 다만, 의약품안전관리원의 장이 제5조제3항에 따라 전문위원회에 기술자문 등을 한 경우에는 그 전문위원회의 회의에 출석한 위원의 수당, 여비, 그 밖의 경비를 의약품안전관리원의 예산 범위 에서 지급한다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety may pay benefits, and reimburse travel expenses and other expenses, within the budget, to the members who attend a meeting of the Council for Deliberation or the specialized committee; provided, where the head of the Institute of Drug Safety and Risk Management provides technical consulting, to the specialized committee pursuant to Article 5 (3), within the budget of the Institute of Drug Safety and Risk Management, he or she shall pay such benefits, and reimburse such travel expenses and other expenses of the members who attend a meeting of such specialized committee.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에도 불구하고 공무원인 위원이 그 소관 업무와 직접 관련하여 출석하는 경우에는 수당, 여비, 그 밖의 경 비를 지급하지 아니한다.",
+      "en_txt": "(2) Notwithstanding paragraph (1), no benefits, travel expenses and other expenses shall be paid or reimbursed where the member who is a public official attends a meeting directly related to his or her duties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제2조부터 제6조까지에서 규정한 사항 외에 심의위원회 및 전문위원회의 구성 및 운영에 필요한 사 항은 심의위원회의 의결을 거쳐 심의위원회의 위원장이 정한다. 제사업(이하 “피해구제사업”이라 한다) 및 의약품 부작용 피해구제 부담금(이하 “부담금”이라 한다)의 부과ㆍ징수에 관한 업무를 의약품안전관리원에 위탁한다.",
+      "en_txt": "Except as provided in Articles 2 through 6, matters necessary for the constitution and operation of the Council for Deliberation and the specialized committee, shall be determined by the chairperson of the Council for Deliberation following a resolution by the Council for Deliberation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장(법 제86조의2제1항 후단에 따라 부담금 부과ㆍ징수 업무가 위탁되는 경우에는 의약품안전관리원의 장을 말한다. 이하 이 조부터 제13조까지에서 같다)은 법 제86조의2에 따라 부담금을 부과할 때에는 의약 품의 제조업자등에게 부담금 납부고지서(이하 “납부고지서”라 한다)를 보내야 한다.",
+      "en_txt": "The Minister of Food and Drug Safety shall entrust the Institute of Drug Safety and Risk Management with duties regarding projects for relief of injury from adverse drug reaction pursuant to Article 86 (5) of the Act (hereinafter referred to as \"projects for relief of injury\") and regarding the imposition and collection of charges for relief of injury from adverse drug reaction pursuant to the latter part of Article 86-2 (1) of the Act (hereinafter referred to as \"charges\").",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "법 제86조의5제2항 각 호 외의 부분에서 “대통령령으로 정하는 금액”이란 다음 각 호의 구분에 따른 금액을 말한다.",
+      "en_txt": "\"Amount prescribed by Presidential Decree\" in the provisions, with the exception of the subparagraphs, of Article 86-2 (2) of the Act means the amount calculated in accordance with Appendix.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 부담금은 다음 각 호의 구분에 따라 연 2회 부과ㆍ징수한다.",
+      "en_txt": "(1) Charges shall be imposed and collected semi- annually, in accordance with the following:",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 의약품의 제조업자ㆍ품목허가를 받은 자 및 수입자(이하 “의약품의 제조업자등”이라 한다)의 전년도 상반기 품목 별 생산액 또는 수입액(이하 “생산액등”이라 한다) 및 피해구제급여액을 기준으로 1월에 부과ㆍ징수",
+      "en_txt": "1. Imposing and collecting charges in January, based on the amount of production or the amount of importation (hereinafter referred to as \"amount of production\") and the amount of payment for relief of injury for each item in the first half of the preceding year, for each drug manufacturer or each person who has obtained an item license for a drug and each importer of drugs (hereinafter referred to as \"drug manufacturer\");",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 의약품의 제조업자등의 전년도 하반기 품목별 생산액등 및 피해구제급여액을 기준으로 7월에 부과ㆍ징수",
+      "en_txt": "2. Imposing and collecting charges in July, based on the amount of production, and the amount of benefits for relief of injury for each item in the second half of the preceding year, for each drug manufacturer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 부담금의 납부기한은 납부고지서를 보낸 날부터 30일로 한다.",
+      "en_txt": "(3) The deadline for paying charges shall be 30 days from the day the notice of payment is issued.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 부담금을 관리하기 위하여 별도의 금융기관 계정(計定)을 설정하여야 한다.",
+      "en_txt": "(4) The Minister of Food and Drug Safety shall set up a separate account in a financial institution to manage the charges.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 식품의약품안전처장은 총리령으로 정하는 바에 따라 부담금의 부과 및 징수 등에 관한 사항을 기록ㆍ관리하여야 한다.",
+      "en_txt": "(5) The Minister of Food and Drug Safety shall record and manage matters regarding the imposition and collection, of charges, as prescribed by Prime Ministerial Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 의약품의 제조업자등이 부담금을 납부하기 어려운 부득이한 사유가 있다고 인정되는 경우에는 다음 각 호의 구분에 따라 부담금을 분할납부하게 하거나 납부기한을 연기할 수 있다.",
+      "en_txt": "(1) When the Minister of Food and Drug Safety deems it difficult for a drug manufacturer, to pay charges due to extenuating grounds, he or she may allow payment of the charges in installments or delay the deadline for paying the charges classified as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 부담금의 분할납부: 부담금을 2회로 분할하여 납부",
+      "en_txt": "1. Payment of the charges in installments: paying the charges in two installments;",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 납부기한의 연기: 90일의 범위에서 한 차례만 연기",
+      "en_txt": "2. Delaying the deadline for payment: delaying only once by up to 90 days.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 부담금을 분할납부하게 하거나 납부기한을 연기하는 경우 분할납부하거나 납부기한이 연기되는 부담금 부분에 대하여 1년 만기 정기예금 이자에 해당하는 금액을 더하여 부담금을 징수하여야 한다.",
+      "en_txt": "(2) When the Minister of Food and Drug Safety allows payment of the charges in installments or delays the deadline for paying the charges, he or she shall collect the charges by adding the amount corresponding to interest accruing on a term deposit of one year to the amount of the charges paid in installments or for which the deadline for payment is delayed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항에 따라 부담금을 분할납부하거나 납부기한을 연기하려는 자(이하 이 조에서 “신청인”이라 한다)는 총리령으로 정하는 바에 따라 식품의약품안전처장에게 부담금의 분할납부 또는 납부기한의 연기를 신청하여야 한다.",
+      "en_txt": "(3) Each person who intends to pay charges in installments or delay the deadline for paying the charges pursuant to paragraph (1) (hereinafter in this Article referred to as \"applicant\"), shall file notice of intent to pay the charges in installments or the delay of the deadline for paying the charges with the Minister of Food and Drug Safety, as prescribed by Prime Ministerial Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 제3항에 따른 신청을 받은 날부터 30일 이내에 신청인에게 분할납부 또는 납부기한의 연기 여부를 서면으로 알려야 한다.",
+      "en_txt": "(4) The Minister of Food and Drug Safety shall notify the applicant as to whether the payment in installments is allowed or the deadline for payment is delayed, in writing within 30 days from the day of the notice filed under paragraph (3).",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 식품의약품안전처장은 제3항에 따른 신청이 적합하다고 인정하는 경우에는 다음 각 호의 사항을 적은 납부고지서를 그 납부기한 30일 전까지 신청인에게 다시 보내야 한다.",
+      "en_txt": "(5) Where the Minister of Food and Drug Safety deems that the notice filed under paragraph (3) is appropriate, he or she shall re-issue the notice of payment, including the following matters, to the applicant by not later than 30 days before the deadline for payment:",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제2항에 따른 이자를 더한 납부금액",
+      "en_txt": "1. Amount of payment to which the interest accruing pursuant to paragraph (2) is added;",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 납부기한",
+      "en_txt": "2. Deadline for payment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 식품의약품안전처장은 부담금을 분할납부하려는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 최종 분할 납부기한이 되기 전에 부담금 전액을 일시에 징수할 수 있다. 이 경우 식품의약품안전처장은 납부기한을 정하여 납부고지서를 그 납부기한 30일 전까지 신청인에게 다시 보내야 한다.<개정 2021. 2. 17.>",
+      "en_txt": "(6) Where each person who intends to pay charges in installments, falls under any of the following cases, the Minister of Food and Drug Safety may collect the full amount of charges in lump sum before the deadline for payment of the final installment. In such cases, the Minister of Food and Drug Safety shall determine the deadline for payment for such collection and re-issue the notice of payment to the applicant not later than 30 days before the deadline for payment in such final installment: <Amended on Feb. 17, 2021>",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 첫 번째 분할납부기한까지 부담금을 납부하지 아니한 경우",
+      "en_txt": "1. Where he or she fails to pay charges by the deadline for payment in the first installment;",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 부담금을 분할납부하려는 자가 「국세징수법」 제9조제1항 각 호의 어느 하나에 해당하여 최종 분할납부기한까지 부담금 전액을 납부할 수 없다고 인정되는 경우",
+      "en_txt": "2. Where it is deemed that a person who intends to pay charges in installments is unable to pay the full amount of the charges by the deadline for payment of the final installment by falling under any of subparagraphs of Article 9 (1) of the National Tax Collection Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑦ 제1항부터 제6항까지에서 규정한 사항 외에 부담금의 분할납부 또는 납부기한의 연기 절차 및 방법 등에 관하여 필요한 사항은 총리령으로 정한다.",
+      "en_txt": "(7) Except as provided in paragraphs (1) through (6), matters necessary for the procedure and method, of payment in installments and delay of the deadline for paying the charges, shall be prescribed by Prime Ministerial Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 의약품의 제조업자등은 제10조에 따라 부과된 부담금에 대하여 이의가 있는 경우에는 납부기한 내에 총리령으로 정하는 바에 따라 식품의약품안전처장에게 이의신청을 할 수 있다.",
+      "en_txt": "(1) Where a drug manufacturer, has an objection against the charges imposed pursuant to Article 10, he or she may file an objection with the Minister of Food and Drug Safety by not later than the deadline for payment as prescribed by Prime Ministerial Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 이의신청을 받으면 이의신청을 받은 날부터 30일 이내에 그 결과를 신청인 에게 서면으로 알려야 한다.",
+      "en_txt": "(2) Upon receipt of an objection filed under paragraph (1), the Minister of Food and Drug Safety shall notify the applicant of the result thereof in writing within 30 days from the day of receipt of an objection filed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제1항에 따른 이의신청 내용이 타당하다고 인정되면 그 내용을 반영한 납부금액 및 납부기한을 적은 납부고지서를 그 납부기한 30일 전까지 보내야 한다. 이 경우 납부기한은 이의신청일부터 제2항에 따 른 결과통지일까지의 기간을 고려하여 정한다.",
+      "en_txt": "(3) If the Minister of Food and Drug Safety deems that the details of an objection filed pursuant to paragraph (1) are well grounded, he or she shall issue the written notice of payment of the amount and deadline for payment by not later than 30 days before the deadline for payment. In such cases, the deadline for payment shall be determined by considering the period from the day of the objection filed to the date of the result notified pursuant to paragraph (2).",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 이의신청 결과 의약품의 제조업자등이 부담금으로 납입한 금액 중 환급하여야 할 금액이 있으면 지체 없이 부담금을 납부한 자에게 환급하여야 한다.",
+      "en_txt": "(4) If there is an amount to be refunded out of the amounts paid as charges by a drug manufacturer, as a result of the filing of an objection, the Minister of Food and Drug Safety shall promptly refund it to the person who paid the charges.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 의약품의 제조업자등이 부담금을 납부기한까지 내지 아니하면 법 제86조의2제5항에 따라 납부기한이 지난 후 30일 이내에 다음 각 호의 사항을 적은 독촉장을 보내야 한다. 이 경우 납부기한은 독촉장을 보낸 날부터 30일로 한다.",
+      "en_txt": "(1) If a drug manufacturer, fails to pay charges by the deadline for payment, the Minister of Food and Drug Safety shall issue a written reminder of the following matters within 30 days after the deadline for payment pursuant to Article 86-2 (5) of the Act. In such cases, the deadline for payment shall be 30 days from the day the reminder is issued:",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 부담금의 금액",
+      "en_txt": "1. Amount of charges;",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 법 제86조의2제5항 후단에 따른 가산금(이하 “가산금”이라 한다)",
+      "en_txt": "2. Surcharges referred to in the latter part of Article 86-2 (5) of the Act (hereinafter referred to as \"surcharges\");",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 납부기한",
+      "en_txt": "3. Deadline for payment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 가산금의 비율은 연 100분의 20으로 하되, 납부기한 다음날부터 독촉장에 적힌 납부기한의 전날까지 일할(日割) 계산하여 가산금을 산정한다. 이 경우 가산금의 총액은 체납된 부담금의 100분의 3을 초과할 수 없다. 의약품 부작용 피해구제에 관한 규정",
+      "en_txt": "(2) The rate of surcharges shall be 20/100 a year, but the surcharges shall be calculated on a daily basis from the day following the deadline for payment to the day preceding the deadline for payment written in the reminder. In such cases, no total amount of surcharges shall exceed 3/100 of the overdue charges.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 법 제86조의2제4항에 따른 재정운용위원회(이하 “재정운용위원회”라 한다)는 위원 장을 포함한 10명의 위원으로 성별을 고려하여 구성한다.",
+      "en_txt": "(1) The Finance Steering Committee pursuant to Article 86-2 (4) of the Act (hereinafter referred to as the \"finance steering committee\"), shall be comprised of 10 members including the chairperson, duly considering gender.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 재정운용위원회의 위원장은 의약품안전관리원의 장이 되고, 그 밖의 위원은 다음 각 호의 구분에 따라 의약품안 전관리원의 장이 위촉하거나 임명한다.",
+      "en_txt": "(2) The chairperson of the Finance Steering Committee shall be the head of the Institute of Drug Safety and Risk Management; and other members shall be commissioned or appointed by the head of the Institute of Drug Safety and Risk Management classified as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 법 제67조에 따라 설립된 약업단체가 추천하는 사람: 4명",
+      "en_txt": "1. Persons recommended by the pharmaceutical organizations established pursuant to Article 67 of the Act: 4 persons;",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「비영리민간단체 지원법」 제2조에 따른 비영리민간단체가 추천하는 사람: 2명",
+      "en_txt": "2. Persons recommended by non-profit, non-governmental organizations pursuant to Article 2 of the Assistance for Non-profit, Non-Governmental, Organizations Act: 2 persons;",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 변호사ㆍ회계사로서 5년 이상 실무에 종사한 사람: 각 1명",
+      "en_txt": "3. Persons engaged in practicing as a lawyer or accountant for at least five years: 1 person each;",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 식품의약품안전처 소속 공무원: 1명",
+      "en_txt": "4. Public officials belonging to the Ministry of Food and Drug Safety: 1 person.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제2항제1호부터 제3호까지의 규정에 해당하는 위원의 임기는 2년으로 한다. 다만, 위원의 사임 등으로 새로 위 촉된 위원의 임기는 전임위원 임기의 남은 기간으로 한다.",
+      "en_txt": "(3) The term of members falling under subparagraphs 1 through 3 of Article 2, shall be two years; provided, the term of each member newly commissioned as a result of a vacancy, including the resignation of a member, shall be the remaining period of the term of the preceding member.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 재정운용위원회에 간사 1명을 둔다. 이 경우 간사는 의약품안전관리원 소속 직원 중에서 위원장이 지명한다.",
+      "en_txt": "(4) The Finance Steering Committee shall have one administrative secretary. In such cases, the administrative secretary shall be designated by the chairperson, from among employees belonging to the Institute of Drug Safety and Risk Management.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 재정운용위원회는 다음 각 호의 사항을 심의한다.",
+      "en_txt": "(1) The Finance Steering Committee shall deliberate on the following:",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 부담금 부과요율",
+      "en_txt": "1. Rates for imposition of charges;",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 부담금의 부과ㆍ징수에 관한 사항",
+      "en_txt": "2. Matters regarding imposition and collection of charges;",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 피해구제급여액의 지급ㆍ환수 등에 관한 사항",
+      "en_txt": "3. Matters regarding payment and recovery, of benefits for relief of injury;",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 부담금의 부과ㆍ징수 및 운용에 관한 사항으로서 재정운용위원회의 위원장이나 재정운용위원회의 위원 이 심의에 부치는 사항",
+      "en_txt": "4. Other matters regarding imposition, collection, and management of charges, for deliberation referred to by the chairperson of the Finance Steering Committee or by its members.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 재정운용위원회의 위원장은 회의를 소집하고, 그 의장이 된다.",
+      "en_txt": "(2) The chairperson of the Finance Steering Committee shall call a meeting of the Finance Steering Committee and chair the meeting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 위원장은 재적위원 과반수가 회의 소집을 요구하면 지체 없이 회의를 소집하여야 한다.",
+      "en_txt": "(3) Where a majority of the incumbent members request a meeting to be called, the chairperson of the Finance Steering Committee shall promptly call the meeting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 회의는 재적위원 과반수의 출석으로 개의하고, 출석위원 3분의 2 이상의 찬성으로 의결한다.",
+      "en_txt": "(4) A meeting of the Finance Steering Committee shall be held upon attendance of a majority of the incumbent members; and its resolution shall be passed by a 2/3 majority vote of the members present.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품안전관리원의 장은 예산의 범위에서 재정운용위원회의 위원에게 수당, 여비, 그 밖의 경비를 지 급할 수 있다. 다만, 공무원인 위원이 그 소관 업무와 직접 관련하여 출석하는 경우에는 그러하지 아니하다.",
+      "en_txt": "The head of the Institute of Drug Safety and Risk Management may pay benefits, reimburse travel expenses and other expenses to the members of the Finance Steering Committee, within the budget; provided, this shall not apply regarding any member who is a public official attends a meeting directly related to his or her duties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 법 제86조의3에 따라 지급하여야 하는 의약품 부작용 피해구제급여(이하 “피해구 제급여”라 한다)는 다음 각 호의 재원으로 충당한다.",
+      "en_txt": "(1) Benefits for relief of injury from adverse drug reaction that shall be provided pursuant to Article 86-3 of the Act (hereinafter referred to as \" benefits for relief of injury\"), shall be appropriated from the following financial resources:",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 부담금 및 가산금",
+      "en_txt": "1. Charges and surcharges;",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 법 제86조의5제2항에 따라 징수한 금액",
+      "en_txt": "2. Amounts collected pursuant to Article 86-5 (2) of the Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 기부금",
+      "en_txt": "3. Donations;",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 이자 및 그 밖의 수익금",
+      "en_txt": "4. Interest and other gains;",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 전년도 이월금",
+      "en_txt": "5. Balance carried forward from the preceding year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 의약품안전관리원의 장은 피해구제급여의 재원과 지출 내용에 대하여 매년 외부 회계법인의 회계 감사를 받고,",
+      "en_txt": "(2) The head of the Institute of Drug Safety and Risk Management shall undergo an accounting audit by an external accounting firm every year regarding the financial resources of and details of expenditure on benefits for relief of injury, and shall submit the result of such audit to the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 법 제86조의5제2항제1호에 해당하는 경우: 받은 피해구제급여액의 5배에 해당하는 금액",
+      "en_txt": "1. In cases falling under Article 86-5 (2) 1 of the Act: An amount equivalent to 5 times the amount of benefits for relief of injury the claimant received;",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 법 제86조의5제2항제2호에 해당하는 경우: 과다하게 청구하여 받은 피해구제급여액에서 받아야 할 피해구제급 여액을 뺀 금액의 3배에 해당하는 금액",
+      "en_txt": "2. In cases falling under Article 86-5 (2) 2 of the Act: An amount equivalent to 3 times the amount calculated by subtracting the amount of benefits for relief of injury the claimant is entitled to receive from the amount of benefits for relief of injury he or she excessively claimed and received;",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 법 제86조의5제2항제3호에 해당하는 경우: 받은 피해구제급여액에 해당하는 금액",
+      "en_txt": "3. In cases falling under Article 86-5 (2) 3 of the Act: The amount equivalent to the amount of benefits for relief of injury the claimant received;",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 법 제86조의5제2항제4호에 해당하는 경우: 잘못 지급된 피해구제급여액에 해당하는 금액 [본조신설 2025. 2. 18.]",
+      "en_txt": "4. In cases falling under Article 86-5 (2) 4 of the Act: The amount equivalent to the erroneously paid amount of benefits for relief of injury. [This Article Added on Feb. 18, 2025]",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 의약품안전관리원의 장은 피해구제사업을 효과적으로 추진하기 위하여 매년 다 음 각 호의 내용을 포함한 평가보고서를 작성하여야 한다. 의약품 부작용 피해구제에 관한 규정",
+      "en_txt": "(1) Each year, the head of the Institute of Drug Safety and Risk Management shall prepare an evaluation report containing the following details, to advance with projects for relief of injury effectively:",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 부담금의 부과ㆍ징수 실적",
+      "en_txt": "1. Results from imposing and collecting charges;",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 피해구제급여의 지급 신청 및 지급 실적",
+      "en_txt": "2. Results from payment of benefits for relief of injury and the payment thereof;",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 피해구제사업에 필요한 부담금의 징수 계획",
+      "en_txt": "3. A plan for collecting charges necessary for projects for relief of injury;",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 식품의약품안전처장이 필요하다고 인정하는 사항",
+      "en_txt": "4. Other matters the Minister of Food and Drug Safety deems necessary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 의약품안전관리원의 장은 제1항에 따라 작성한 평가보고서를 재정운용위원회의 심의를 거쳐 다음 연도 2월 말 하기 위하여 불가피한 경우 「개인정보 보호법」 제23조에 따른 건강에 관한 정보(제2호부터 제5호까지의 사무로 한 정한다), 같은 법 시행령 제19조제1호ㆍ제2호 또는 제4호에 따른 주민등록번호ㆍ여권번호 또는 외국인등록번호가 포함된 자료를 처리할 수 있다. <개정 2022. 12. 20.>",
+      "en_txt": "(2) The head of the Institute of Drug Safety and Risk Management shall submit each evaluation report prepared pursuant to paragraph (1), to the Minister of Food and Drug Safety by the last day of February in the following year, following deliberation by the Finance Steering Committee.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식품의약품안전처장과 의약품안전관리원의 장은 다음 각 호의 사무를 수행하기 위하여 불가피한 경우 「개인정보 보호법」 제23조에 따른 건강에 관한 정보(제2호부터 제5호까지의 사무로 한정한다), 같은 법 시행령 제19조제1호ㆍ제2호 또는 제4호에 따른 주민등록번호ㆍ여권번호 또는 외국인등록번호가 포함된 자료를 처리할 수 있다. <개정 2022. 12. 20.>",
+      "en_txt": "The Minister of Food and Drug Safety and the head of the Institute of Drug Safety and Risk Management may process data, including information regarding health (limited to business affairs referred to in subparagraphs 2 through 5) pursuant to Article 23 of the Personal Information Protection Act or resident registration numbers, passport numbers, or alien registration numbers pursuant to subparagraphs 1, 2, or 4 of Article 19 of the Enforcement Decree of that Act, where essential to conduct affairs regarding: <Amended on Dec. 20, 2022>",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 법 제86조의2에 따른 부담금의 부과ㆍ징수에 관한 사무",
+      "en_txt": "1. The imposition and collection of charges referred to in Article 86-2 of the Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 법 제86조의3에 따른 피해구제급여의 지급에 관한 사무",
+      "en_txt": "2. The payment of benefits for relief of injury referred to in Article 86-3 of the Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 법 제86조의4에 따른 피해구제 절차 등에 관한 사무",
+      "en_txt": "3. The procedures, for relief of injury referred to in Article 86-4 of the Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 법 제86조의5에 따른 피해구제급여의 지급중단 결정 및 부당이득의 징수 등에 관한 사무",
+      "en_txt": "4. Decisions on suspending the payment of benefits for relief of injury and regarding the collection, of unfair gains referred to in Article 86-5 of the Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 법 제86조의6에 따른 부작용 피해의 조사 등에 관한 사무 부칙 <제35280호,2025. 2. 18.> 이 영은 2025년 2월 21일부터 시행한다.",
+      "en_txt": "5. Investigations, of injury from adverse reaction referred to in Article 86-6 of the Act.",
+      "align_score": null
+    }
+  ]
+}

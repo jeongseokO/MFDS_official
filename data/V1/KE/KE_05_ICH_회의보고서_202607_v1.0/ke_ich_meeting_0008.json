@@ -1,0 +1,676 @@
+{
+  "document_id": "ke_ich_meeting_0008",
+  "meta": {
+    "set": "KE",
+    "source_folder": "3",
+    "source_code": "ich_meeting",
+    "source_name": "ICH 미팅보고서",
+    "orig_doc_id": "15_상반기_ICH회의보고서",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 미팅보고서",
+    "title_ko": "2015년 상반기 의약품규제자포럼(IPRF) 및 의약품국제조화회의(ICH) 참석 결과 보고(요약)",
+    "title_en": "ICH and IPRF Meeting Report for 1st Half of 2015 (Summary)",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": null,
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 0,
+      "type": "title",
+      "section": null,
+      "path": {
+        "ko": [],
+        "en": []
+      },
+      "ko_txt": "2015년 상반기 의약품규제자포럼(IPRF) 및 의약품국제조화회의(ICH) 참석 결과 보고(요약)",
+      "en_txt": "ICH and IPRF Meeting Report for 1st Half of 2015 (Summary)",
+      "align_score": null
+    },
+    {
+      "seg_id": 1,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": "회의개요",
+      "en_txt": "Meeting Overview",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": {
+        "ICH": [
+          {
+            "key": "일정",
+            "value": {
+              "IPRF": "’15. 6. 8(월) ～ 6. 9(화)",
+              "ICH": "’15. 6. 7(일) ～ 6. 11(목)"
+            }
+          },
+          {
+            "key": "장소",
+            "value": "일본(후쿠오카)"
+          }
+        ],
+        "우리처 대표단": [
+          {
+            "key": "한국대표(수석/부)",
+            "value": "이선희 부장(의약품심사부), 박희영 사무관(의약품정책과)"
+          },
+          {
+            "key": "APEC지역대표",
+            "value": "최영주 과장(의약품심사조정과)"
+          },
+          {
+            "key": "IPRF WG 대표",
+            "value": "박윤주 과장(유전자재조합의약품과)"
+          },
+          {
+            "key": "전문위원회대표(E17)",
+            "value": "오우용 연구관(소화계약품과)"
+          },
+          {
+            "key": "전문위원회대표(M4E)",
+            "value": "강주혜 연구관(순환계약품과)"
+          }
+        ]
+      },
+      "en_txt": {
+        "ICH": [
+          {
+            "key": "Date",
+            "value": {
+              "IPRF": "Jun 8 (Mon) - Jun 9 (Tue), 2015",
+              "ICH": "Jun 7 (Sun) - Jun 11 (Thu), 2015"
+            }
+          },
+          {
+            "key": "Location",
+            "value": "Japan (Fukuoka)"
+          }
+        ],
+        "MFDS Representatives": [
+          {
+            "key": "Korean representatives (Head/Deputy)",
+            "value": "Sun Hee Lee, Director General (Drug Evaluation Department) Hee Young Park, Deputy Director (Pharmaceutical Policy Division)"
+          },
+          {
+            "key": "APEC regional representative",
+            "value": "Youngju Choi, Director (Drug Review Management Division)"
+          },
+          {
+            "key": "IPRF WG representative",
+            "value": "Younjoo Park, Director (Recombinant Protein Products Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Woo Yong Oh, Deputy Director (Gastroenterology and Metabolism Products Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Ju Hye Kang, Deputy Director (Cardiovascular and Neurology Products Division)"
+          }
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용"
+        ],
+        "en": [
+          "Meeting Summary"
+        ]
+      },
+      "ko_txt": "주요내용",
+      "en_txt": "Meeting Summary",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "IPRF 회의",
+      "en_txt": "IPRF Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(우리처 워킹그룹 활동) 바이오시밀러 워킹그룹 활동사항 및 향후 계획 승인"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS WG Updates) Share Biosimilars WG activities and endorse future plans"
+        ]
+      },
+      "ko_txt": "(우리처 워킹그룹 활동) 바이오시밀러 워킹그룹 활동사항 및 향후 계획 승인",
+      "en_txt": "(MFDS WG Updates) Share Biosimilars WG activities and endorse future plans",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(우리처 워킹그룹 활동) 바이오시밀러 워킹그룹 활동사항 및 향후 계획 승인"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS WG Updates) Share Biosimilars WG activities and endorse future plans"
+        ]
+      },
+      "ko_txt": "바이오시밀러 적응증 외삽에 관한 Reflection Paper 발간('16.3), WHO와 공동으로 교육‧훈련 프로그램 자료 개발추진",
+      "en_txt": "Initiate work on a “Reflection paper on extrapolation of indications for biosimilars” (Mar. 2016) and joint development of training materials with WHO",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(우리처 워킹그룹 활동) 바이오시밀러 워킹그룹 활동사항 및 향후 계획 승인"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS WG Updates) Share Biosimilars WG activities and endorse future plans"
+        ]
+      },
+      "ko_txt": "공동심사정보집(PASIB1))의 예시를 다음 번 회의 시 회원들에게 공유 및 소개 요청 받음",
+      "en_txt": "MFDS was requested to share and introduce examples of PASIB1 to ICH members at the next meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(참가국 규제현황 공유) 우리 처의 유익성‧위해성 관리계획(Risk Management Plan) 도입, 글로벌바이오컨퍼런스(GBC) 개최 등 소개"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS Regulatory Updates) Inform about MFDS regulatory activities including adoption of Risk Management Plan and hosting Global Bio Conference (GBC), etc."
+        ]
+      },
+      "ko_txt": "(참가국 규제현황 공유) 우리 처의 유익성‧위해성 관리계획(Risk Management Plan) 도입, 글로벌바이오컨퍼런스(GBC) 개최 등 소개",
+      "en_txt": "(MFDS Regulatory Updates) Inform about MFDS regulatory activities including adoption of Risk Management Plan and hosting Global Bio Conference (GBC), etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(참가국 규제현황 공유) 우리 처의 유익성‧위해성 관리계획(Risk Management Plan) 도입, 글로벌바이오컨퍼런스(GBC) 개최 등 소개"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS Regulatory Updates) Inform about MFDS regulatory activities including adoption of Risk Management Plan and hosting Global Bio Conference (GBC), etc."
+        ]
+      },
+      "ko_txt": "미국, 브라질 등의 ICH 가이드라인 및 e-CTD의 도입‧운영현황 공유",
+      "en_txt": "Share current status of ICH Guideline and e-CTD adoption and operation by the U.S. and Brazil",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "ICH 회의",
+      "en_txt": "ICH Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc."
+        ]
+      },
+      "ko_txt": "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+      "en_txt": "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+          "기존 안에서 ICH 총회(Assembly) 권한 확대, 관리위원회(Management Committee) 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+          "From the original draft, the right of the ICH Assembly is expanded while that of the Management Committee (MC) is limited"
+        ]
+      },
+      "ko_txt": "기존 안에서 ICH 총회(Assembly) 권한 확대, 관리위원회(Management Committee) 권한 축소",
+      "en_txt": "From the original draft, the right of the ICH Assembly is expanded while that of the Management Committee (MC) is limited",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+          "기존 안에서 ICH 총회(Assembly) 권한 확대, 관리위원회(Management Committee) 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+          "From the original draft, the right of the ICH Assembly is expanded while that of the Management Committee (MC) is limited"
+        ]
+      },
+      "ko_txt": "(회원) 일반회원, 관리위원회(MC) 회원으로 구성",
+      "en_txt": "(Membership) Consist of ICH members and MC members",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+          "기존 안에서 ICH 총회(Assembly) 권한 확대, 관리위원회(Management Committee) 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+          "From the original draft, the right of the ICH Assembly is expanded while that of the Management Committee (MC) is limited"
+        ]
+      },
+      "ko_txt": "(총회) 일반회원+관리위원회원+옵서버 참여, 가이드라인 제·개정관련 모든 의사결정",
+      "en_txt": "(Assembly) Participated by ICH members, MC members, and Observers, involved in all decision making related to establishment/revision of ICH Guidelines",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+          "기존 안에서 ICH 총회(Assembly) 권한 확대, 관리위원회(Management Committee) 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+          "From the original draft, the right of the ICH Assembly is expanded while that of the Management Committee (MC) is limited"
+        ]
+      },
+      "ko_txt": "(관리위원회) 행정적인 업무 수행(총회 회원 중에서 이사회 회원 선정)",
+      "en_txt": "(Management Committee) Responsible for administrative tasks (Appoint Executive Board members from the Assembly)",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+          "기존 안에서 ICH 총회(Assembly) 권한 확대, 관리위원회(Management Committee) 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+          "From the original draft, the right of the ICH Assembly is expanded while that of the Management Committee (MC) is limited"
+        ]
+      },
+      "ko_txt": "(옵서버) 총회 참관, 전문가위원회에 자동적으로 참여할 수 있는 권한은 없음",
+      "en_txt": "(Observer) Observe the Assembly, but has no right to participate in EWG",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+          "중국, 브라질 등 신흥 제약강국의 회원가입에 대한 관심이 높았으나 ICH 구조개혁 관련 일부 핵심 사안은 여전히 검토 중임"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+          "Participants highly indicate their interest for becoming ICH members. However, some main issues regarding the ICH Reforms are still under review."
+        ]
+      },
+      "ko_txt": "중국, 브라질 등 신흥 제약강국의 회원가입에 대한 관심이 높았으나 ICH 구조개혁 관련 일부 핵심 사안은 여전히 검토 중임",
+      "en_txt": "Participants highly indicate their interest for becoming ICH members. However, some main issues regarding the ICH Reforms are still under review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+          "중국, 브라질 등 신흥 제약강국의 회원가입에 대한 관심이 높았으나 ICH 구조개혁 관련 일부 핵심 사안은 여전히 검토 중임"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+          "Participants highly indicate their interest for becoming ICH members. However, some main issues regarding the ICH Reforms are still under review."
+        ]
+      },
+      "ko_txt": "(가이드라인 실행) 총회 회원 가입요건 중 ‘가이드라인 도입’ 정의에 대한 추가 논의 필요, 향후 ICH 가이드라인 의무도입 방향 등에 대한 언급 없었음",
+      "en_txt": "(Implementation of ICH Guideline) Further discussion is required for the definition of “Implementation of ICH Guidelines” under Membership in the Assembly - Eligibility Criteria for Regulators. Future direction for compulsory implementation of ICH Guideline, etc. is not discussed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련",
+          "중국, 브라질 등 신흥 제약강국의 회원가입에 대한 관심이 높았으나 ICH 구조개혁 관련 일부 핵심 사안은 여전히 검토 중임"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc.",
+          "Participants highly indicate their interest for becoming ICH members. However, some main issues regarding the ICH Reforms are still under review."
+        ]
+      },
+      "ko_txt": "(회비 등 재정구조) 회비규모 또는 ICH 재정개혁 방안에 대해서는 현재까지 전혀 공개되지 않은 상태임(향후 2년간은 회비 징수 없이 운영예정)",
+      "en_txt": "(Financial matters including annual membership fees, etc.) Such fee size or ICH financial reform has not yet disclosed (for upcoming 2 years, ICH will be operated without collection of membership fees)",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등 비회원국 의견을 반영한 조직개편 최종(안) 마련"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Prepare final draft of ICH Reforms, which reflected views of non-ICH members including Korea, etc."
+        ]
+      },
+      "ko_txt": "2016.1월에 ICH 법인화 출범을 목표로 하고 있으며, 2015.12월 회의부터는 총회(Assembly) 체제로 ICH 운영방식 변경 예정",
+      "en_txt": "ICH plans to set up of the legal entity in January 2016 and its way of operation will be changed into Assembly system from December 2015.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(AHC-ICH 가이드라인 온라인교육프로그램 공동개발) 공동소유의 교육프로그램 개발(애니메이션 방식의 인터넷기반 강의) 추진"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(AHC-ICH Joint Online Training Program) Develop training program with joint-ownership (animated training via the Internet)"
+        ]
+      },
+      "ko_txt": "(AHC-ICH 가이드라인 온라인교육프로그램 공동개발) 공동소유의 교육프로그램 개발(애니메이션 방식의 인터넷기반 강의) 추진",
+      "en_txt": "(AHC-ICH Joint Online Training Program) Develop training program with joint-ownership (animated training via the Internet)",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(AHC-ICH 가이드라인 온라인교육프로그램 공동개발) 공동소유의 교육프로그램 개발(애니메이션 방식의 인터넷기반 강의) 추진"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(AHC-ICH Joint Online Training Program) Develop training program with joint-ownership (animated training via the Internet)"
+        ]
+      },
+      "ko_txt": "ICH는 교육자료 등 콘텐츠 제공, AHC는 프로그램 개발비 지원 및 개발",
+      "en_txt": "ICH provides training contents including training materials, etc. while AHC supports program development costs and develops the program.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(전문가위원회) 의약품 허가심사 관련 가이드라인 공동 개발 및 초안 마련"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(EWGs) Jointly develop drug approval and review related guidelines and prepare drafts"
+        ]
+      },
+      "ko_txt": "(전문가위원회) 의약품 허가심사 관련 가이드라인 공동 개발 및 초안 마련",
+      "en_txt": "(EWGs) Jointly develop drug approval and review related guidelines and prepare drafts",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(전문가위원회) 의약품 허가심사 관련 가이드라인 공동 개발 및 초안 마련",
+          "(E17) 다지역임상시험의 계획·설계 시 원칙(시험자 등록, 평가변수, 시험대상자수 산정 및 지역 간 분배 등)의 고려사항 선정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(EWGs) Jointly develop drug approval and review related guidelines and prepare drafts",
+          "(E17) Select points to consider in principles for planning/designing MRCT (subject registration, endpoints, sample size calculation, regional allocation, etc.)"
+        ]
+      },
+      "ko_txt": "(E17) 다지역임상시험의 계획·설계 시 원칙(시험자 등록, 평가변수, 시험대상자수 산정 및 지역 간 분배 등)의 고려사항 선정",
+      "en_txt": "(E17) Select points to consider in principles for planning/designing MRCT (subject registration, endpoints, sample size calculation, regional allocation, etc.)",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(전문가위원회) 의약품 허가심사 관련 가이드라인 공동 개발 및 초안 마련",
+          "(E17) 다지역임상시험의 계획·설계 시 원칙(시험자 등록, 평가변수, 시험대상자수 산정 및 지역 간 분배 등)의 고려사항 선정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(EWGs) Jointly develop drug approval and review related guidelines and prepare drafts",
+          "(E17) Select points to consider in principles for planning/designing MRCT (subject registration, endpoints, sample size calculation, regional allocation, etc.)"
+        ]
+      },
+      "ko_txt": "2016년 4분기 또는 2017년 2분기 최종안 마련예정",
+      "en_txt": "Final draft will be prepared either in the 4th quarter 2016 or 2nd quarter 2017",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(전문가위원회) 의약품 허가심사 관련 가이드라인 공동 개발 및 초안 마련",
+          "(E17) 다지역임상시험의 계획·설계 시 원칙(시험자 등록, 평가변수, 시험대상자수 산정 및 지역 간 분배 등)의 고려사항 선정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(EWGs) Jointly develop drug approval and review related guidelines and prepare drafts",
+          "(E17) Select points to consider in principles for planning/designing MRCT (subject registration, endpoints, sample size calculation, regional allocation, etc.)"
+        ]
+      },
+      "ko_txt": "중국 CFDA는 다지역임상시험 EWG에 자국의 전문가가 참여할 수 있도록 ICH 운영위원회에 승인을 요청",
+      "en_txt": "China CFDA requested endorsement of ICH Management Committee to ensure that Chinese experts may be able to participate in the MRCT EWG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(전문가위원회) 의약품 허가심사 관련 가이드라인 공동 개발 및 초안 마련"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(EWGs) Jointly develop drug approval and review related guidelines and prepare drafts"
+        ]
+      },
+      "ko_txt": "(M4E) CTD의 유익성, 위해성 평가항목(2.5.6)을 질환특성, 유익성, 위해성, 유익성 및 위해성의 비교로 세분하는 가이드라인 개정안 마련",
+      "en_txt": "(M4E) Work on the revision of the Common Technical Document Efficacy Guideline where Benefit-risk Assessment (Section 2.5.6) of the CTD is subdivided into disease characteristics, benefit, risk, and benefit-risk comparison.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "Public Assessment Summary Information of Biosimilar",
+      "en_txt": "Public Assessment Summary Information of Biosimilars",
+      "align_score": null
+    }
+  ]
+}

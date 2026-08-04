@@ -1,0 +1,1288 @@
+{
+  "document_id": "ke_ich_0002",
+  "meta": {
+    "set": "KE",
+    "source_folder": "1",
+    "source_code": "ich",
+    "source_name": "ICH 가이드라인",
+    "orig_doc_id": "E1",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 가이드라인",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 문서가 어떠한 경우로든 적용, 수정, 또는 번역이 되는 경우 명확히 기재/표기를 하거나 변경이 이루어졌다는 사실을 확인하거나 또는 원 문서를 기반으로 한 합당한 단계를 거쳐야만 한다.",
+      "en_txt": "In case of any adaption, modification or translation of the document, reasonable steps must be taken to clearly label, demarcate or otherwise identify that changes were made to or based on the original document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "원 문서의 적용, 수정, 또는 번역이 ICH에 의해 승인 또는 후원되었다는 표식은 어떠한 경우에도 금한다.",
+      "en_txt": "Any impression that the adaption, modification or translation of the original document is endorsed or sponsored by the ICH must be avoided.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 문서는 보증서 없이 “원문 그대로” 제공된다.",
+      "en_txt": "The document is provided \"as is\" without warranty of any kind.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "어떠한 경우라도 ICH 또는 원문의 저자는 문서 사용으로 야기된 모든 소송, 손상, 또는 기타 책임사항에 대한 책임이 없다.",
+      "en_txt": "In no event shall the ICH or the authors of the original document be liable for any claim, damages or other liability arising from the use of the document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "상기 명시된 허가사항은 제 3자가 제공하는 내용에는 적용되지 않는다.",
+      "en_txt": "The above-mentioned permissions do not apply to content supplied by third parties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 저작권이 제 3자에게 있는 문서의 경우 재생산은 저작권 소지자로부터 허가를 받아야만 한다.",
+      "en_txt": "Therefore, for documents where the copyright vests in a third party, permission for reproduction must be obtained from this copyright holder.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E11 가이드라인 부속서(R1)의 범위와 목적",
+      "en_txt": "Scope and Objective of the ICH E11 Guideline Addendum",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최초 ICH E11 가이드라인(2000) 이후 소아용 의약품 개발이 발전하면서 소아군과 관련된 규제 및 과학적 진보를 고려할 것이 요구되고 있다.",
+      "en_txt": "Pediatric drug development has evolved since the original ICH E11 Guideline (2000), requiring consideration of regulatory and scientific advances relevant to pediatric populations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 부속서는 소아용 의약품 개발과 관련된 주제의 현재 규제 관점을 제공하고 내용을 명확화하기 위한 목적으로 작성되었다.",
+      "en_txt": "The purpose of this addendum is to complement and provide clarification and current regulatory perspective on topics in pediatric drug development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 부속서에서 사용되는 “~해야 한다(should)”는 전 세계 규제 당국의 권고에 따라 구체적인 규제 또는 법적 요건에 기술된 경우를 제외하고 제안 또는 권고일 뿐 필수적인 요건을 의미하지는 않는다.",
+      "en_txt": "The use of the word “should” means that something is suggested or recommended, but not required, unless specific regulatory or statutory requirements are specified as advised by regulatory authorities worldwide.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위 항목들에서 위 주제들의 진화하는 특성을 반영하여 소아용 의약품 개발에서 중요한 접근법들을 시행하는 고수준의 지침을 제공하는 목적의 필수 요건들을 서술한다.",
+      "en_txt": "These sections describe essential considerations intended to provide high level guidance on the implementation of these important approaches in pediatric drug development, reflecting the evolving nature of these topics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 조화된 부속서는 현재 권고사항을 정의하는 데 도움이 될 것이며 전 세계 소아용 의약품 개발 프로그램에서 발생되는 데이터의 수용에 있어 지역 간 존재할 수 있는 중대한 차이의 가능성을 줄이고 소아용 의약품의 시기적절한 접근성을 보장할 것이다.",
+      "en_txt": "This harmonized addendum will help to define the current recommendations and reduce the likelihood that substantial differences will exist among regions for the acceptance of data generated in pediatric global drug development programs and ensure timely access to medicines for children.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "Section 2.6은 임상시험심사위원회/독립적인윤리위원회 (IRB/IEC)의 역할과 책임, 시험 피험자 모집, 부모(법적 보호자)의 동의/허가 및 아동의 동의(용어정의 참조), 위험과 고통의 최소화 등 소아 임상시험의 윤리적 수행과 관련된 원칙을 다룬다.",
+      "en_txt": "Section 2.6 addresses relevant principles for the ethical conduct of pediatric studies, including the roles and responsibilities of the Institutional Review Board/Independent Ethics Committee (IRB/IEC), recruitment of study participants, parental (legal guardian) consent/permission and child assent (See Glossary), and minimization of risk and distress.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이런 윤리적 원칙은 연구에 참여하는 아동을 보호하기 위한 안전을 책임지는 전 세계의 보건 당국의 현재 법과 규제 프레임워크에 정의되어 있다.",
+      "en_txt": "These ethical principles are also defined in the current legal and regulatory framework of health authorities worldwide responsible for ensuring safeguards for the protection of children participating in research.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발의 기본 원칙에 따르면 아동은 중요한 소아 보건을 달성할 필요성이 있는 경우를 제외하고는 임상시험에 참여해서는 안 된다.",
+      "en_txt": "A fundamental principle in pediatric drug development requires that children should not be enrolled in a clinical study unless necessary to achieve an important pediatric public health need.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 사용과 관련된 정보 수집 목적으로 임상시험이 필요한 경우, 예외 상황의 타당성이 입증되지 않았다면 이와같은 임상시험은 임상시험용 의약품의 치료 목적에 해당하는 질환/질병이 있는 소아군을 대상으로만 실시해야 한다.",
+      "en_txt": "When clinical studies are required to obtain information relevant to the use of a medicinal product, such studies should be conducted in pediatric populations having the disease or condition for which the investigational product is intended, unless an exception is justified.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시험 중재 또는 절차로 인한 직접적인 임상적 유익성 가능성이 없다면 소아 피험자에 대한 노출로 인한 예측가능한 위험 및 부담이 낮아야만 한다.",
+      "en_txt": "Without a prospect of direct clinical benefit from an experimental intervention or procedure, the foreseeable risks and burdens to which pediatric participants would be exposed must be low, i.e., comparable to those risks and burdens encountered in their routine clinical care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 피험자에 대한 저위험 이상의 시험 중재 또는 절차 소아에 대한 이런 위험 노출의 타당성을 입증할 수 있도록 가능한 충분한 임상적 유익성 가능성을 반드시 제시해야 한다.",
+      "en_txt": "Experimental interventions or procedures that present greater than low risk to participants must offer a sufficient prospect of clinical benefit to justify or outweigh exposure of a pediatric population to such risk.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "마찬가지로 위해와 예측되는 임상 유익성 간의 균형은 적어도 가능한 대안적 치료법과 반드시 동등해야 하고 이를 통해 아동이 연구에 참여로 인해 불이익을 받아서는 안 된다.",
+      "en_txt": "Likewise, the balance of risk and anticipated clinical benefit must be at least comparable to the available alternative treatments, such that the child is not disadvantaged by enrollment in the research study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 결과 얻은 지식이 소아군의 건강에 기여할 것이란 합리적 기대가 있어야 한다.",
+      "en_txt": "There should be a reasonable expectation that knowledge resulting from the clinical study will contribute to the health of the pediatric population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "부모(법적 보호자)의 동의/허가 및 아동의 동의를 위한 윤리적 고려사항의 일반적 원칙은 ICH E11(2000) Section 2.6.3에 기술되어 있으며 계속해서 적용된다.",
+      "en_txt": "The general principles of ethical considerations for parental (legal guardian) consent/permission and child assent are outlined in ICH E11 (2000) Section 2.6.3 and continue to apply.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "부모(법적 보호자)의 동의/허가 및 아동의 동의의 절차와 임상시험과 관련된 정보는 임상시험 등록 시 부모(법적 보호자)에게 반드시 투명하게 제공되어야 하며 적절하다고 여겨지는 경우 아동에게도 제공해야 한다.",
+      "en_txt": "Information regarding participation in the clinical study and the process of parental (legal guardian) consent/permission and child assent must be clearly provided to the parent (legal guardian) and as appropriate to the child participant, at the time of enrollment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "아동의 동의를 얻는 경우 사전동의서 내 관련된 요소를 아동이 이해할 수 있는 수준으로 제공해야 한다.",
+      "en_txt": "When obtaining child assent, relevant elements of informed consent should be provided that are appropriate to the child’s capability to understand.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 중 아동이 법적 동의 연령이 되면 소아 피험자의 적절한 사전동의서 수집 요건이 있다.",
+      "en_txt": "During clinical studies there is a requirement for obtaining adequate informed consent for continued participation from pediatric participants once a child reaches the age of legal consent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 피험자의 개인정보 및 기밀유지와 관련된 지역별 규제를 반드시 준수해야 한다.",
+      "en_txt": "Local regulations related to confidentiality and privacy of pediatric participants must be followed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "아용 의약품 개발 중 임상 연구의 투명성을 보장하려면 공개적으로 접근할 수 있고 알려진 데이터베이스에 임상시험을 등록하고 임상시험 결과가 공개되어야 한다.",
+      "en_txt": "The transparency of clinical research in pediatric drug development includes the registration of clinical trials on publicly accessible and recognized databases, and the public availability of clinical trial results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 객관적이며 비뚤림 없는 정보는 임상 연구 강화, 불필요한 임상시험 감소, 소아 진료의 임상 결정사항 안내를 통해 소아 피험자에게 유익성이 보장할 수 있다.",
+      "en_txt": "Objective and unbiased information thus made available can benefit pediatric populations through enhancing clinical research, reducing unnecessary clinical trials, and informing clinical decisions in pediatric practice.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발 프로그램을 위한 과학적 접근법의 공통성 ICH E11(2000) Section 1.4와 2.1에 기술된 일반 원칙이 계속해서 적용된다.",
+      "en_txt": "COMMONALITY OF SCIENTIFIC APPROACH FOR PEDIATRIC DRUG DEVELOPMENT PROGRAMS General principles outlined in ICH E11 (2000) Sections 1.4 and 2.1 continue to apply.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발 프로그램이 점차 다지역화 되고 있으며 이러한 프로그램은 소아 규제 요건, 운영 실용성, 문화적 기대사항의 지역차로 인해 해당 프로그램 특이적인 문제가 존재한다.",
+      "en_txt": "Pediatric drug development programs are increasingly multiregional, and these programs face specific challenges due to regional differences in pediatric regulatory requirements, operational practicalities, standards of care, and cultural expectations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이런 지역차의 일부의 경우 소아용 의약품 개발 요건을 충족하기 위한 보건 당국의 역량을 제한한다.",
+      "en_txt": "These regional differences in some instances limit the ability of health authorities to align requirements for pediatric product development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "고려될 수 있는 적절한 소아 환자군 또는 하위그룹은?",
+      "en_txt": "Who are the appropriate pediatric populations or subgroups that could be considered?",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "발달 생리학, 질병 병리생리학, 비임상 데이터, 성인 또는 소아군 또는 소아 상업적인 목적으로 사용할 수 없음 하위그룹의 데이터 또는 관련 화합물의 데이터 등 기존 지식을 고려했을 때 의약품의 안전하고 효과적인 사용을 구축하는 데 필요한 지식의 격차가 어디에서 발생하는가?",
+      "en_txt": "Based on the existing knowledge, including developmental physiology, disease pathophysiology, nonclinical data, data in adult or pediatric populations, or data from related compounds, what are the knowledge gaps that should be addressed to establish the safe and effective use of the drug?",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "고려할 수 있는 임상시험 및/또는 방법론적 접근법은 무엇인가?",
+      "en_txt": "What clinical studies and/or methodological approaches could be considered?",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최적의 용량-결정 전략을 활성화하기 위해 특정 소아 하위그룹에서 필요하고 다양한 하위 그룹의 소아 환자 치료에 필요할 다양한 조성/제형 또는 전달 장치가 있는가?",
+      "en_txt": "Are there different formulations/dosage forms or delivery devices that will be needed for specific pediatric subgroups, both to facilitate an optimal dose-finding strategy, and for treatment of pediatric patients in different subgroups?",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "(Section 7 참조) 공통적인 과학적 접근법은 이해관계자의 (예, 임상의, 환자, 학계 전문가) 의견을 고려하고 최신 지식과 과학적 진보를 기반으로 해야 한다.",
+      "en_txt": "(See Section 7) A common scientific approach should consider input from stakeholders (e.g., clinicians, patients, experts from academia), and should be based on scientific advances and up-to-date knowledge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전 세계 규제 당국과 의약품 개발자 간의 초기 상호작용과 의약품 개발 계획 기간 중 소아군과 관련된 초기 고려사항은 공통적인 과학적 접근법 합의를 촉진할 수 있다.",
+      "en_txt": "Early consideration of pediatric populations during drug development planning, along with early interactions between drug developers and regulatory authorities worldwide can facilitate agreement on a common scientific approach to a pediatric development program.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "차이점이 확인된 경우, 이런 차이점의 영향을 최소화하기 위한 기존에 수립된 규제 방침을 활용할 수 있다.",
+      "en_txt": "When differences are identified, established regulatory pathways to minimize the impact of these differences can be utilized.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 공통 지역 요건이 아닌 공통적 과학 접근법은 안전하고 효과적인 소아용 의약품의 시기적절한 제공과 효과적 소아용 의약품 개발의 토대이다.",
+      "en_txt": "Therefore, a common scientific approach, not common regional requirements, is at the cornerstone of efficient pediatric drug development and timely delivery of safe and effective medicines for children.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연령구분 및 신생아 등 소아 하위그룹 ICH E11(2000) Section 2.5에 기술된 일반 원칙이 계속 적용된다.",
+      "en_txt": "AGE CLASSIFICATION AND PEDIATRIC SUBGROUPS, INCLUDING NEONATES General principles outlined in ICH E11 (2000) Section 2.5 continue to apply.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험에 포함될 소아군의 선정 근거가 제공되어야 한다.",
+      "en_txt": "A rationale for the selection of the pediatric population to be included in clinical studies should be provided.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 시험의 발달 하위그룹을 상업적인 목적으로 사용할 수 없음 정의하기 위한 적절한 분류 결정 요인으로 생활연령 하나만을 사용할 수는 없다.",
+      "en_txt": "Chronological age alone may not serve as an adequate categorical determinant to define developmental subgroups in pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생리학적 발달과 장기 성숙도, 질병 또는 질환의 병리생리학과 자연사, 가능한 치료 옵션, 임상시험용 의약품의 약리학은 소아 시험 하위그룹 결정 시 고려하는 요소이다.",
+      "en_txt": "Physiological development and maturity of organs, pathophysiology and natural history of the disease or condition, available treatment options, and the pharmacology of the investigational product are factors to be considered in determining the subgroups in pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한, 일부 질환을 위한 생활연령을 통한 소아 하위그룹의 임의 분류는 과학적 기준이 없을 수 있으며 시험군 제한으로 인해 소아용 의약품 개발을 불필요하게 지연시킬 수 있다.",
+      "en_txt": "Further, the arbitrary division of pediatric subgroups by chronological age for some conditions may have no scientific basis and could unnecessarily delay development of medicines for children by limiting the population for study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "질환과 치료, 시험 설계에 따라 소아 하위그룹을 성인 시험에 포함시키거나(Section 6 참조) 성인 하위그룹을 소아 시험에 포함시킬 수도 있다.",
+      "en_txt": "Depending on factors such as the condition, the treatment, and the study design, it may be justifiable to include pediatric subpopulations in adult studies (See Section 6) or adult subpopulations in pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발 최적화를 위한 접근법 ICH E11(2000) Section 2.4의 개념이 계속해서 적용된다.",
+      "en_txt": "APPROACHES TO OPTIMIZE PEDIATRIC DRUG DEVELOPMENT The concepts presented in ICH E11 (2000) Section 2.4 continue to apply.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E4, E5, E6, E9, E10에 기술된 원칙을 고려해야 한다.",
+      "en_txt": "The principles outlined in ICH E4, E5, E6, E9, and E10 should be consulted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 분야에서 소아 시험 수와 지식이 ICH E11(2000) 이후 증가했다.",
+      "en_txt": "The number of pediatric studies and knowledge in the field of pediatrics has increased since ICH E11 (2000).",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전 세계 소아용 의약품 개발을 위한 개별 규정이 진화해왔다.",
+      "en_txt": "Respective regulations for pediatric drug development worldwide have also evolved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그렇지만 소아용 의약품 개발에는 여전히 문제와 기회가 존재한다.",
+      "en_txt": "However, drug development in pediatrics continues to present challenges and opportunities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일부 경우, 윤리적 고려사항과 실행가능성 문제의 다양성으로 인해 소아군 전반에 걸친 데이터 생성이 어렵다.",
+      "en_txt": "In some cases, there are difficulties with generating data across a pediatric population due to a variety of ethical considerations and feasibility issues.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 부속서에 기술된 원칙에 따라 의약품 개발 프로그램에 기술되고 통합된 경우 대안적 접근법이 이와같은 문제를 해결할 기회를 제공할 수 있다.",
+      "en_txt": "Alternative approaches may provide opportunities to address these issues when structured and integrated into the drug development program as per the principles outlined in this addendum.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "규제당국의 이런 접근법 수용과 관련된 선제적인 다학제적 논의가 권고된다.",
+      "en_txt": "Proactive multi-disciplinary dialogue regarding the acceptability of such approaches with regulatory authorities is recommended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "성인용 의약품 개발이 완료될 때까지 계획을 미루면 소아용 의약품 개발을 위한 의미있는 데이터를 생성할 기회가 제한될 수 있다.",
+      "en_txt": "Waiting to begin planning until adult development has concluded can limit the opportunity to generate meaningful data for pediatric drug development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "개발 중인 의약품의 기존 지식에는 유사하거나 기타 관련 질병/질환이 있는 성인과 소아 환자군에서 기존에 또는 동반적으로 생성된 증거를 포함한다.",
+      "en_txt": "Existing knowledge about a drug under development includes evidence already or concurrently generated in adult and pediatric populations with similar or other relevant diseases or conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "기존 지식은 또한 비임상 자료, 관련 화합물 자료, 질병 병태생리학, 소아군 또는 하위그룹의 임상 데이터를 포함한다.",
+      "en_txt": "Existing knowledge also integrates nonclinical data, data about related compounds, disease pathophysiology, consideration of the developmental physiology, and clinical data from the pediatric population or subgroup.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 정보의 활용은 소아용 의약품 허가 기준을 축소시키지 않으면서 소아용 의약품 개발 프로그램을 최적화시킬 수도 있다.",
+      "en_txt": "Use of such information may optimize pediatric drug development programs without reducing standards for pediatric authorization.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 기존 지식의 활용과 관련된 불확실성은 반드시 규명하고 전향적으로 관리해야 한다.",
+      "en_txt": "However, any uncertainties related to the use of existing knowledge must be identified and managed prospectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "자료가 의약품 개발주기를 통해 생성되기 때문에 개발전략 및 방법에 사용된 평가변수에 대한 가정은 새로운 정보를 감안하여 재검토가 필요할 수 있다.",
+      "en_txt": "As data are generated through the drug development cycle, it is possible that the assumptions behind the parameters that have gone into the development strategy and methodology may need to be revisited to take new information into account.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 새 정보를 통하여 지속적으로 전략을 알리고 불확실성을 보다 잘 해결하기 위한 기회를 제시해야 할 것이다.",
+      "en_txt": "This new information will continue to inform the strategy and present an opportunity to further address uncertainties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발을 최적화하기 위한 추가 방법에는 다른 시험군(성인 또는 소아 하위그룹)으로부터 얻은 정보의 외삽뿐만 아니라 기존 지식을 통합하고 활용하는 M&S를 포함한 통계 및 계량약리학 방법이 포함될 수 있다(이에 국한되는 것은 아니다).",
+      "en_txt": "Additional approaches to optimize pediatric drug development may include, but are not limited to, statistical and pharmacometric methods, including M&S (see Glossary) that integrate and leverage existing knowledge, as well as extrapolation of information from other populations (adults or pediatric subgroups).",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다음 하위항목에서는 소아용 의약품 개발에서 외삽 활용 및 M&S에 대한 일반적인 고려사항을 제공한다.",
+      "en_txt": "The following subsections provide general considerations on the use of extrapolation and M&S in pediatric drug development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발 시 외삽 활용 “외삽”이라는 개념은 의약품 개발 시 다른 방법으로 사용된다.",
+      "en_txt": "The Use of Extrapolation in Pediatric Drug Development The concept of “extrapolation” is used in different ways in drug development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "“소아 외삽”은 질병의 진행과정과 의료제품에 대한 예측 반응이 소아군과 대조군(성인 또는 다른 소아군)에서 충분히 유사하다는 점을 가정할 수 있을 때 소아군 대상 의약품의 사용이 유효성 있고 안전하다는 근거를 제공하는 방법으로 정의된다.",
+      "en_txt": "“Pediatric extrapolation” is defined as an approach to providing evidence in support of effective and safe use of drugs in the pediatric population when it can be assumed that the course of the disease and the expected response to a medicinal product would be sufficiently similar in the pediatric and reference (adult or other pediatric) population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아군을 대상으로 의약품을 시험할 때 한 시험군에서 다른 시험군으로의 상업적인 목적으로 사용할 수 없음 외삽에 영향을 미칠 수 있는 내적(예. 발달적) 및 외적(지리학적)요인과 같이 다른 약물반응을 초래할 수 있는 모든 요인을 고려해야 한다.",
+      "en_txt": "When a drug is studied in a pediatric population, one should consider all factors which may result in different drug responses, such as intrinsic (e.g., developmental) and extrinsic (e.g., geographic) factors that could impact on the extrapolation of data from one population to the other.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 외삽 과정에서 질병발병학, 질병 진단 기준 및 분류, 질병 진행 측정, 병태생리학, 조직병리학, 병리생물학적 특성 등 소아군과 대조군 간 질병의 유사성 및 치료에 대한 반응의 유사성 가정을 뒷받침하는 몇 가지 요소를 확인해야 한다.",
+      "en_txt": "The process of pediatric extrapolation examines several factors that support the assumptions of similarity of disease and similarity of response to therapy between the pediatric and the reference populations, including disease pathogenesis, criteria for disease diagnosis and classification, measures of disease progression, and pathophysiological, histopathological, and pathobiological characteristics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이용가능한 치료의 임상적 맥락과 의약품의 작용기전과 약리작용뿐만 아니라 질병의 병태생리학, 이용 가능한 생체지표/평가변수, 기관계 생리학(예. 신장, 간, 중추신경계, 골격계, 면역계)과 관련하여 소아군과 대조군 간 차이에 대한 완벽한 이해가 요구된다.",
+      "en_txt": "A thorough understanding of the differences between pediatric and reference populations is required relative to the pathophysiology of the disease, available biomarker/endpoints, organ systems physiology (i.e., renal, hepatic, central nervous system, skeletal, and immune systems), as well as clinical context of available therapeutics, the Clinical Investigation of Medicinal Products in the Pediatric Population 10 mechanism of action of the drug and its pharmacological behavior.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "새로운 정보가 생성되면 소아 외삽 과정을 검토하고 확인해야 한다.",
+      "en_txt": "As new information is generated, the process of pediatric extrapolation should be reviewed and confirmed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "노출-반응 관계 등 질병 및 치료 반응 유사성에 대한 가정과 대상 시험군의 유효량과 용법 예측의 근거는 의약품 사용에 대한 기존의 자료, 발행 문헌, 전문가 패널, 합의서 또는 동일한 치료제 분류 내 다른 제품에 대한 과거 경험을 통해 나올 수 있다.",
+      "en_txt": "Support for the assumptions of similarity of disease and response to therapy, including exposure-response relationship and prediction of an effective dose and regimen for the intended population, may be derived from existing data about the use of the drug; published literature; expert panels and consensus documents; or previous experience with other products in the same therapeutic class.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "수집된 모든 자료 및 정보를 통해 외삽법을 재확인하거나 어떻게 개선될 수 있는지 알 수 있다.",
+      "en_txt": "All data and information gathered can either confirm the extrapolation approach or inform how it might be improved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "궁극적으로 소아 외삽을 뒷받침하는 충분한 자료가 있는지 또는 추가 임상정보가 필요한지 여부를 확인하는 활동을 실시해야 한다.",
+      "en_txt": "Ultimately, the exercise should identify if there are sufficient data to support pediatric extrapolation, or if additional clinical information is needed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "하지만 기존의 데이터는 소아 대상 의약품 사용의 잠재적인 안전성 우려사항 정보를 일부만 제공할 것이므로 추가 소아 안전성 데이터가 대부분 필요하다[ICH E11 (2000) Section 2.4].",
+      "en_txt": "When efficacy in the pediatric population can be extrapolated from data obtained in the reference populations, leveraging of safety data from the reference to the pediatric population may be utilized; however, additional pediatric safety data are usually required, as existing data may only provide some information about potential safety concerns related to the use of a drug in the pediatric population [See ICH E11 (2000) Section 2.4].",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발 전략에서 소아 외삽이 고려될 때 어떤 추가 뒷받침 데이터 필요한지 확인하기 위해 다음 질문에 대해 평가가 이루어져야 한다",
+      "en_txt": "When pediatric extrapolation is considered in a pediatric drug development strategy, the following framework of questions should be assessed to identify what additional supportive data are needed",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대조군과 소아군간 질병의 일반적인 병태생리학, 자연 이력, 질병 진행 유사성을 뒷받침하는 근거는?",
+      "en_txt": "What evidence supports a common pathophysiology of disease, natural history, and similarity of the disease course between the reference and pediatric population(s)?",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대조군과 의도한 환자군 간 유사한 노출-반응의 근거는 무엇인가?",
+      "en_txt": "What evidence supports a similar exposure-response between the reference and intended populations?",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "기존 데이터가 지닌 불확실성 및/또는 제한사항은 무엇이며(예. 임상 또는 이력 데이터, 출간된 문헌) 소아군에게 남아있는 불확실성은 무엇인가?",
+      "en_txt": "What uncertainties and/or limitations do the existing data (e.g., clinical or historical data and published literature) have, and what uncertainties about the pediatric population remain?",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "불확실성이 남아있는 경우, 외삽법 수용가능성에 대한 정보를 제공하기 위해 어떤 추가 정보가 있어야 하는가(예. M&S, 동물, 성인, 소아 하위그룹 시험)?",
+      "en_txt": "If uncertainties remain, what additional information should be generated (e.g., information from M&S, animal, adult, pediatric subgroup studies) in order to inform the acceptability of the extrapolation approach?",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발 시 모델링과 모의실험 활용 임상약리학, 정성적 모델링과 시뮬레이션(M&S) 기술 증진을 통해 의약품 개발에서 모델-정보제공 방법 사용에 있어 발전이 가능해졌다(예. 생리학, 병리학, 약리학을 기반으로 한 수학적/통계적 모델과 시뮬레이션).",
+      "en_txt": "The Use of Modelling and Simulation in Pediatric Drug Development Advancement in clinical pharmacology and quantitative M&S techniques has enabled progress in utilizing model-informed approaches (e.g., mathematical/statistical models and simulations based on physiology, pathology and pharmacology) in drug development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "M&S를 통해 이용가능한 정보를 정량화하고 소아 임상시험 설계 및/또는 용량 전략을 정의하는 데 도움을 줄 수 있다.",
+      "en_txt": "M&S can help quantify available information and assist in defining the design of pediatric clinical studies and/or the dosing strategy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아군에서 데이터를 수집하는 제한된 능력을 생각하면 소아용 의약품 개발 시 지식적 격차를 해결하기 위한 도구가 필요하다.",
+      "en_txt": "Considering the limited ability to collect data in the pediatric population, pediatric drug development requires tools to address knowledge gaps.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "M&S는 불필요한 소아시험을 하지 않도록 도와주며 최소한의 소아환자만으로 알맞은 데이터를 생성하도록 해주는 도구이다.",
+      "en_txt": "M&S is one such tool that can help avoid unnecessary pediatric studies and help ensure appropriate data are generated from the smallest number of pediatric patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품 개발에서 M&S의 유용성에는 임상시험 시뮬레이션, 용량 선정, 시험 설계, 변수 선정, 외삽이 있지만 이에 국한되는 것은 아니다.",
+      "en_txt": "The usefulness of M&S in pediatric drug development includes, but is not limited to, clinical trial simulation, dose selection, choice and optimization of study design, endpoint selection, and pediatric extrapolation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "M&S와 더불어 정성적 수학적 모델은 모든 이용가능한 관련 기존 지식 출처를 통해 수립된다.",
+      "en_txt": "With M&S, quantitative mathematical models are built with all available and relevant sources of existing knowledge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "M&S가 잘 수행된다면 M&S를 통해 의약품의 약동학, 약력학, 유효성, 안전성에 대한 정보를 알 수 있다.",
+      "en_txt": "Well conducted M&S can inform on the pharmacokinetics, pharmacodynamics, efficacy and safety of a drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "M&S를 소아용 의약품 개발에 도입할 때 목적, 방법, 추정, 결과물, 활동 스케줄에 대한 다학제적 논의를 통해 수립된 전략 계획이 기반이 되어야 한다.",
+      "en_txt": "The incorporation of M&S into pediatric drug development should be based on a strategic plan established through multidisciplinary discussions outlining objectives, methods, assumptions, deliverables and timelines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "추정은 모델을 뒷받침하는 수학 및 통계적 추정, 약리학, 생리학, 질병 고려사항, 기존 데이터 등 대개 5개 주요 분야를 중심으로 구성된다.",
+      "en_txt": "Assumptions are usually structured around five main areas: pharmacology, physiology, disease considerations, existing data, as well as the mathematical and statistical assumptions underpinning the model.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일단 추정이 이루어지면 기존 지식의 잠재적 불확실성의 영향 분석을 뒷받침하기 위해 여러 시나리오가 수립되고 시험되어야 한다.",
+      "en_txt": "Once assumptions are set, different scenarios should be defined and tested to support the analysis of the impact of potential uncertainty in existing knowledge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "모델을 재검토하고 향상시키기 위한 상호작용 방식에서 새로 등장하는 지식이 모델에 적용된다.“배우고 확인하는(learn and confirm)”일련의 주기가 모델 구축과 시뮬레이션/예측에 사용되어야 하고 새로운 정보가 생성되자마자 확인되어야 한다.",
+      "en_txt": "A series of “learn and confirm” cycles should be used for model building and simulation/prediction, and be confirmed as soon as new information is generated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일부 모델은 처리할 질문(들), 모델 신뢰도, 발생하는 생성된 새로 등장하는 데이터에 따라 주어진 소아용 의약품 프로그램을 지원하는 데 필요할 수 있다.",
+      "en_txt": "Several models may be needed to support a given pediatric drug development program depending on the question(s) to be addressed, the credibility of the model, and the emerging data generated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다루게 될 위해사항을 정의하기 위해 전문가와 특정 방법의 임상 및 통계적 결과를 논의해야 한다.",
+      "en_txt": "The clinical and statistical consequences of a specific approach should be discussed with experts to define the risks to be handled.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "모델 채택과 관련된 위험은 제품 개발 중 의사결정 시 모델의 연관된 기여와 그 결과에 따라 달라진다.",
+      "en_txt": "The risks associated with accepting the model depend on the relative contribution of the model in making a decision during product development and its consequences.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위험은 사용 측면에서 모델의 신뢰도에 따라 평가되고 판단되어야 한다.",
+      "en_txt": "These risks should be assessed and weighed against the credibility of the model for the context of use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 임상시험 설계 및 수행 시 실용성 임상시험 설계와 시행에서 어떤 방법론적 유형이 사용될지 결정하기 전에 소아 임상시험 설계 및 실행에 영향을 미치는 몇몇 실질적 요소를 고려해야 한다.",
+      "en_txt": "PRACTICALITIES IN THE DESIGN AND EXECUTION OF PEDIATRIC CLINICAL TRIALS Before deciding which types of methodological approaches are to be used in clinical trial design and execution, one should consider several practical factors that influence the design and execution of pediatric clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "세 가지 주요 실질적 고려사항은 실현가능성, 결과 평가, 안전성 등 장기간 임상적 측면이 있다.",
+      "en_txt": "Three key practical factors to consider are feasibility, outcome assessments, and long-term clinical aspects, including safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "상업적인 목적으로 사용할 수 없음 6.1 실현가능성 소아용 의약품 개발의 경우 적은 수의 임상연구 적격 아동의 수, 연구 센터의 소아 특이적 자원 부족, 소아 임상시험 전문 네트워크 부족 등 소아용 의약품 개발 고유의 실현가능성 이슈가 존재한다.",
+      "en_txt": "Feasibility Pediatric drug development faces unique feasibility issues, including a small number of eligible children for clinical research, limited pediatric specific resources at research centers, and the scarcity of dedicated pediatric trial networks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 참여를 희망하며 적격 소아 참여자에 대한 접근성이 있으며 소아환자 연구 및 임상진료가 가능한 알맞은 직원을 갖춘 센터에 대해 고려해야 한다.",
+      "en_txt": "Consideration should be given to the available centers that are willing to participate, have access to eligible pediatric participants, and are appropriately staffed in research and clinical care of pediatric patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "즉, 소아 연구 협동 센터 활용, 단일 관리 기구와 동일 질병/질환에 대한 복수 치료를 평가하기 위해 협업으로 계획되고 시행되는 소아 임상시험 또는 등록을 위한 임상시험 총괄 계획서 개발, 소아 임상연구 네트워크 증진 등이 고려사항에 포함될 수 있으나 이에 국한되는 것은 아니다.",
+      "en_txt": "When studying pediatric conditions, it may be necessary to consider implementing clinical trial operational strategies, including, but not limited to, the use of pediatric research coordinating centers; the development of master protocols for pediatric clinical trials or registries, planned and conducted in a collaborative manner to evaluate multiple therapies for the same disease or condition with a common control arm; and the enhancement of pediatric clinical research networks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 운영 전략과 임상시험관리기준(ICH E6) 준수는 향상된 실행가능성과 시기적절하고 효율적인 소아용 의약품 개발 증가로 이어져야 한다.",
+      "en_txt": "These operational strategies and adherence to Good Clinical Practice (ICH E6) should result in improved feasibility and increase timely and efficient pediatric drug development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "현재 보호 기준은 소아 임상시험 설계와 실행에 영향을 줄 수 있는 의사/환자 치료 선택에 영향을 미친다.",
+      "en_txt": "Current standards of care can influence physician/patient treatment choices that may impact the design and conduct of pediatric clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "아동 및 보호자, 지원 그룹의 의견을 장려하는 전략을 통해 임상시험 참여, 모집, 수용성을 촉진시킬 수 있다.",
+      "en_txt": "Strategies that foster input from children, their caregivers, and the advocacy communities can facilitate participation, recruitment, and acceptability of a clinical study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E11(2000) Section 2.4.2에 기술되어 있듯이 특정 연령 및 발달별 하위그룹에 대한 다양한 평가변수의 개발, 검증, 채택이 필요할 수 있다.",
+      "en_txt": "As stated in the ICH E11 (2000) Section 2.4.2, it may be necessary to develop, validate, and employ different endpoints for specific age and developmental subgroups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표준화된 측정, 수집, 분석, 결과 평가 보고는 소아용 의약품 개발 최적화를 위해 권장된다[ICH E11(2000) Section 2.4, ICH E11(R1) Section 5].",
+      "en_txt": "The standardized measurement, collection, analysis, and reporting of outcome assessments are encouraged to optimize pediatric drug development [See ICH E11 (2000) Section 2.4 and ICH E11 (R1) Section 5].",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가능하다면 알맞은 연령의 소아 참여자가 이러한 측정법에 직접 기여할 수 있도록 하는 시험계획서 설계 특징을 포함하는 것이 중요하다.",
+      "en_txt": "It is important to include protocol design features that allow pediatric participants at appropriate ages to contribute directly in these measures when possible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연관성이 있는 경우 소아용 프로그램에 통합하기 전 성인용 의약품 개발 프로그램의 일부로써 잠재적인 소아용 변수 평가를 시작하는 것은 신중해야 할 수 있다.",
+      "en_txt": "Where relevant, it may be prudent to initiate the evaluation of potential pediatric endpoints as part of the adult development program prior to their incorporation into the pediatric program.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "상업적인 목적으로 사용할 수 없음 6.3 안전성 등 장기 임상적 측면 ICH E11(2000) Section 2.4.3과 Section 2.4.4에 제시된 안전성 개념과 ICH E6, ICH E2 주제가 여전히 적용된다.",
+      "en_txt": "Long-term Clinical Aspects The concepts on safety presented in ICH E11 (2000) Section 2.4.3 and Section 2.4.4; ICH E6 and ICH E2 topics continue to apply.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예비등록 개발에서 희귀사례를 파악하지 못할 수도 있고 규모와 기간이 제한된 개발 프로그램에서 소아 특이적 이상사례가 발견되지 않을 수 있다는 사실을 인지하고 있다.",
+      "en_txt": "It is acknowledged that rare events may not be identifiable in pre-registration development, and that pediatric-specific adverse events are unlikely to be detected in development programs that are limited in size and duration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "용량이나 적응증 또는 기타 출처의 정보(예. M&S)에 관계없이 비임상시험 및 성인 임상시험에서 안전성 데이터의 계획된 수집은 특정 소아 안전성 우려사항에 대응하기 위해 소아 임상시험 설계와 약물감시 활동을 향상시켜야 한다.",
+      "en_txt": "Planned collection of safety data in nonclinical studies, adult clinical studies regardless of dose or indication, or information from other sources (e.g., M&S), should serve to improve the design of pediatric studies and pharmacovigilance activities to address specific pediatric safety concerns.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물 투여가 아동에게 미치는 장기적인 영향에는 발달, 성장 및/또는 장기/체계 기능 성숙 등이 있다.",
+      "en_txt": "Long-term effects of drug treatment in children can include impacts on development, growth, and/or maturation of organ/system function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 성장/발달 및 장기 기능에 대한 적절한 기저 평가와 정기적인 후속 측정이 계획되고 알맞게 규제당국과 논의를 해야한다.",
+      "en_txt": "Therefore, adequate baseline assessments of growth/development and organ function, and regular follow-up measurements should be planned and discussed with regulatory authorities, as appropriate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 개발 프로그램에서 빨리 후속조치 계획을 수립하는 것은 질병/질환에서 장기적인 영향에 대해 체계적으로 파악하고 평가하며 데이터 해석용이성 향상시키는 기회가 된다.",
+      "en_txt": "Early planning for follow- up in a drug development program offers the opportunity to systematically capture and evaluate long-term effects in a disease or condition, and increase data interpretability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 제제1) ICH E11(2000) Section 2.2에 기술된 소아용 의약품의 안전하고 정확한 사용을 위한 연령별 소아용 제제 개발의 원칙적 고려사항이 계속 적용된다.",
+      "en_txt": "PEDIATRIC FORMULATIONS1 Principal considerations for the development of age-appropriate pediatric formulations to allow for safe and accurate use of pediatric medicines as outlined in ICH E11 (2000) Section 2.2 continue to apply.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유효성을 최적화하고 투여와 용량 오류의 위험을 줄이기 위한 소아용 제제를 위한 추가 고려사항에는 연령별 제형, 보호자 대상 사용 준비 및 지시 용이성, 수용성(예. 기호성, 정제 크기), 첨가제 선정 및 양, 대안 투여 방법, 알맞은 포장이 포함되어야 한다.",
+      "en_txt": "Additional considerations for pediatric formulations to optimize efficacy and reduce the risk for medication and dosing errors should include age-appropriate dosage forms, ease of preparations and instructions for use for caregivers, acceptability (e.g., palatability, tablet size), choice and amount of excipients, as well as use of alternative delivery systems and appropriate packaging.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예시로는 성인 단회용 약병을 소량으로 나누어 다회 사용, 식품과 혼합하여 소아 용량으로 투여하기 위해 성인용 캡슐을 개봉하거나 정제를 으깨어 사용, 분할선이 없는 정제를 쪼개어 사용하는 경우가 있다.",
+      "en_txt": "Examples of this include multiple small volume acquisitions from a vial designed for a single adult use; use of an opened adult capsule formulation or crushed tablets to mix with food for administration of a pediatric dose; and breaking tablets for dose reductions that do not have a functional score line.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "기존 제제 유형의 조작이 불가피하다면 용량 정확성, 안정성, 생체이용률, 안전성에 미치는 영향을 최소화하는 방법을 반드시 찾아야 한다.",
+      "en_txt": "When modifications of the available preparations are unavoidable, measures to minimize the impact on dose accuracy, stability, bioavailability and safety must be addressed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연령별 소아용 제형 개발 계획은 의약품 개발 매우 초기 단계에 포함되어야 한다.",
+      "en_txt": "Planning for development of age-appropriate dosage forms for pediatric populations should be incorporated into the earliest stages of drug development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "기존 제형 조작이 의약품 개발 중 임상시험의 소아 환자의 이른 참여를 가능하게 하는데 필요한 경우 연령별 제품 사용을 뒷받침하는 적용가능한 가교 시험이 계획되어야 한다.",
+      "en_txt": "If modifications to the available forms are necessary to allow earlier inclusion of pediatric patients in clinical trials during drug development, an age-appropriate product and the applicable bridging studies in support of its use should be planned.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "목표로 한 약물 노출을 달성하기 위해 해당 의약품을 투여 받을 소아 환자군 범위를 포함하려면 주성분(API)의 제제 또는 그 함량이 한 종류 이상일 필요가 있다.",
+      "en_txt": "In order to achieve the targeted drug exposure, more than one dosage form of the active pharmaceutical ingredient (API) and/or strengths may be needed to cover the range of pediatric populations intended to receive the medicinal product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 의약품의 경우, 개발 시 제형을 선정할 때 제품이 투여될 가능성이 있는 환경을 고려해야 한다.",
+      "en_txt": "For pediatric drugs, the setting where the product is likely to be administered should be considered when selecting the formulation for development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그리고 관리 및 보관 요건을 축소시킨 특정 제형이 다른 제형에 비해 더욱 적합할 수도 있다.",
+      "en_txt": "Further, certain dosage forms that reduce the requirements for handling and storage may be more appropriate than others.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 제형을 개발하는 데 있어 정확한 용량 측정의 용이성과 용법 오류 위험을 최소화하기 위해 액체로 소량 투여하는 방법이 고려사항에 포함되어야 하며 이는 특히 신생아, 영아, 유아에서 중요하다.",
+      "en_txt": "In developing a formulation for pediatric use, considerations should include the ease of accurate dose measurement and the capability to deliver small volumes of liquids to minimize the risk for dosing errors, especially in neonates, infants and young children.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 방법에는 최소 용량과 용량 증가를 정확히 측정할 수 있도록 설계된 눈금이 있는 기기 및/또는 확실하게 표시가 되어있는 투여 기기 제공이 있을 수 있다.",
+      "en_txt": "Such approaches could include clearly marked administration devices, and/or devices with scaling capability designed for accurate measurement of the smallest dose volume and dose increments.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "첨가제가 성인에게서 관찰되지 않은 (또는 동일한 정도가 아닌) 이상반응을 소아에게서 일으킬 수 있다.",
+      "en_txt": "Excipients may lead to adverse reactions in children that are not observed (or not to the same extent) in adults.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 소아용 의약품에서 첨가제를 사용할 때 연령(예. 생리적 발달 관련 신생아 및 미숙아), 투여 빈도, 의도한 투여 기간, 상업적인 목적으로 사용할 수 없음 일반적으로 동반 투여되는 의약품으로 인한 첨가제 추가 노출 가능성 등의 요소를 고려해야 한다.",
+      "en_txt": "Thus, the use of excipients in pediatric medicines should take into account factors such as age, weight, maturity (e.g., term and preterm newborns related to their physiologic development), frequency of dosing, intended duration of treatment, and potential for additional excipient exposure from commonly co-administered medicines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "첨가제 사용과 제제 내 첨가제 양은 위해성을 최소화하고 제품 성능, 안정성, 기호성, 미생물 관리, 용량균일성을 보장해야 한다.",
+      "en_txt": "The use of excipients and their quantity in a formulation should minimize risk and ensure product performance, stability, palatability, microbial control, and dose uniformity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아에 중대한 위험을 미치는 첨가제의 대안법도 항상 고려해야 하며 첨가제로 인한 위험은 질병의 중증도와 대안법 이용가능성에 대하여 비교되어야 한다.",
+      "en_txt": "Alternatives to excipients that pose a significant risk to children should always be considered, and the risk posed by the excipient weighed against the severity of the disease and availability of alternative treatments.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "첨가제 선정 시 주성분의 흡수 및 생체이용률에 미치는 잠재적 영향 역시 항상 고려해야 한다.",
+      "en_txt": "When selecting excipients, one should always consider the potential impact on absorption and bioavailability of the API.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "기호성이 높은 제제를 개발하기 위한 전략에는 API의 불쾌한 특성을 최소화/제거하고 기호가 좋은 향미 조성이 포함된다.",
+      "en_txt": "A formulation strategy for developing palatable drug preparations includes minimizing/eliminating aversive attributes of the API and considering favorable flavor attributes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "API의 기호성을 향상시키기 위해 종종 불쾌한 맛을 은폐해야 한다.",
+      "en_txt": "Taste masking is often needed to improve the palatability of the API.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의도한 제형에 적응할 수 없는 소아군의 경우 다른 투여 전략이 고려되어야 한다(예. 정제 분리 또는 으깸, 식품 또는 액체와 함께 투여).",
+      "en_txt": "Alternative dose administration strategies should be considered for pediatric populations who cannot be accommodated by the intended dosage form (e.g., segmenting or crushing tablets, co-administration with food or liquids).",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "환자 및 보호자 측면 등 소아 환자군 대상 대안 전략의 적합성(예. 맛/기호성, 조작 용이 및 정확성, 여러 요인으로 인한 생체이용률의 잠재적 변경)은 시판용 이미지 제제 선정 전에 연구되어야 한다.",
+      "en_txt": "Appropriateness of the alternative strategy for a pediatric population, including patient and caregiver aspects (e.g., taste/palatability, ease and Clinical Investigation of Medicinal Products in the Pediatric Population 16 accuracy of modification, and potential changes in bioavailability due to a variety of factors) should be investigated prior to selection of the final market image formulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 제형 투여 시 실제 사용 행위와 관련된 위험 완화를 이해하면 안전하게 투여할 수 있는 의약품 개발에 기여할 수 있을 것이다.",
+      "en_txt": "Understanding real-world use behaviors in administering pediatric drugs and the mitigation of associated risks will contribute to the development of a drug product that allows for safe dose administration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전해질, 액체 또는 영양적 균형에 미치는 영향 등 신생아를 위한 제제의 조성 요건은 특별한 주의를 요한다.",
+      "en_txt": "Formulation requirements for neonates warrant special attention, such as its effects on electrolyte, fluid or nutritional balance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "근육주사는 통증, 과도한 침투 위험성(예. 뼈, 혈관), 예측불가능한 의약품 흡수로 인해 가능하다면 지양해야한다.",
+      "en_txt": "Intramuscular preparations should be avoided where possible due to pain, risk of over-penetration (e.g., bone, vasculature), and unpredictable drug absorption.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "신생아의 경우 환경적 조건(예. 온도, 빛), 의약품 투여에 사용된 장비(예. 경장급식관)가 의약품 투여, 생체이용률에 영향을 미칠 수 있다.",
+      "en_txt": "For neonates, environmental conditions (e.g., temperature, light) and equipment used for drug administration (e.g., enteral feeding tubes) may have an effect on drug delivery and bioavailability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비경구 제형 개발 시, 신생아에서 정맥투여가 제한되는 경우가 많으므로 기타 흔히 투여되는 비경구 의약품 또는 비경구 영양의 양립성 역시 고려되어야 한다.",
+      "en_txt": "When developing a parenteral dosage form, compatibility with other commonly administered parenteral medicines or parenteral nutrition should also be considered and investigated as necessary, since intravenous access is often limited in neonates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "부모(법적 보호자) 동의/허가: 임상시험책임자/의뢰자가 임상시험에 아동이 등록할 수 있도록 허가하는 임상시험에 대한 정보를 숙지한 부모(들) 또는 법적보호자에 의한 이해 및 동의 표현.",
+      "en_txt": "Parental (legal guardian) consent/permission: Expression of understanding and agreement by fully informed parent(s) or legal guardian to permit the investigator/sponsor of a clinical study to enroll a child in a clinical investigation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "여러 다른 지역에서 부모 동의/부모 허가 등 용어 선정은 지역 법적/규제, 윤리적 고려사항을 반영할 수 있다.",
+      "en_txt": "The choice of the terms parental consent or parental permission in different regions may reflect local legal/regulatory and ethical considerations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "아동의 동의: 연구에 참여하거나 의료적 중재 대상인 아동의 확인 동의.",
+      "en_txt": "Child assent: The affirmative agreement of a child to participate in research or to undergo a medical intervention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "반대 또는 거부 의사 표현이 부족하거나 없는 것이 동의로 해석되어서는 안 된다.",
+      "en_txt": "Lack or absence of expression of agreement or disagreement must not be interpreted as assent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "모델링과 시뮬레이션(M&S): 향후 실험에서 기관계의 행동 및/또는 의약품의 정량적 결과를 예측할 수 있는 의약품과 기관계 간 상호작용을 정량적으로 특성확인을 하는 생리학, 병리학, 약리학을 기반으로 한 기타 수학적/통계적 방법과 계량약리학/기관계약리학 등 정량적 방법의 범위.",
+      "en_txt": "Modelling and Simulation (M&S): A range of quantitative approaches, including pharmacometrics/systems pharmacology and other mathematical/statistical approaches based on physiology, pathology and pharmacology to quantitatively characterize the interactions between a drug and an organ system which could predict quantitative outcomes of the drug and/or system’s behavior in future experiments.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "모델링과 시뮬레이션에서 기존 지식은 종종 “사전(prior)” 지식을 일컫는다.",
+      "en_txt": "In modelling and simulation, existing knowledge is often referred to as “prior” knowledge.",
+      "align_score": null
+    }
+  ]
+}

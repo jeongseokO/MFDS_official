@@ -1,0 +1,712 @@
+{
+  "document_id": "ke_ich_0007",
+  "meta": {
+    "set": "KE",
+    "source_folder": "1",
+    "source_code": "ich",
+    "source_name": "ICH 가이드라인",
+    "orig_doc_id": "E1",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 가이드라인",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 절차 Step 4의 최종 문서는 유럽연합, 일본, 미국의 규제 당국에서 채택하도록 권고된다.",
+      "en_txt": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표의 사용은 보다 안전하고 효과적인 의약품 또는 생물의약품의 개발을 용이하게 하고, 용량설정에 도움을 주고, 위험성 대비 유익성을 강화하는 잠재력을 가지고 있다.",
+      "en_txt": "The use of biomarkers has the potential to facilitate the availability of safer and more effective drug or biotechnology products, to guide dose selection and to enhance their benefit-risk profile.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 여러 지역에서의 생체지표를 포함한 제출자료에 대한 기존 경험을 바탕으로 한다.",
+      "en_txt": "This guideline is based on previous experiences with submissions containing biomarker data in the various regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 자료의 제출에 관한 일관된 형식이 갖춰지면 심사가 용이하게 되고, 지역 간 평가 교류가 촉진될 것이다.",
+      "en_txt": "The development of a consistent format for submission of biomarker data will facilitate easy review and exchange of assessments between regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 유전체 생체지표의 적격성 평가를위한 심사 자료신청의 내용, 구조 및 양식에 대한 권고사항을 설명하고 있다(ICH E151)의 정의에 따라).",
+      "en_txt": "The guideline describes recommendations regarding context, structure and format of regulatory submissions for qualification of genomic biomarkers (as defined in ICH E151).",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "적절한 경우, 의약품 등 허가 신청을 위한 국제공통기술문서(CTD)에 생체지표 적격성 평가 자료가 포함되도록 하는 일반적 가이드라인을 이 문서에서 제공한다.",
+      "en_txt": "For those instances where it is appropriate, general guidance for inclusion of biomarker qualification data into the Common Technical Document for the Registration of Pharmaceuticals for Human Use (CTD) format marketing authorization applications is provided in this document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 생체지표 자료가 신약 허가(NDAs)/ 생물학적 제제 허가(BLAs)/ 제조판매 허가(MAAs) 또는 시판 후 규제 절차의 일부로 제출되었을 경우, 혹은 규제 당국의 요청에 의해 제출되는 경우 국제공통기술문서 양식을 사용하는 것이 적절할 것이다.",
+      "en_txt": "The use of the CTD format would be considered appropriate when biomarker data are submitted as part of an NDA, a BLA, a MAA, other post-approval regulatory procedures or upon request by the regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 중개의학적 접근, 약동학, 약력학, 유효성 및 안전성 측면을 포함한 의약품 또는 생물의약품의 개발과 관련된 임상 및 비임상 유전체 생체지표의 적격성 평가 제출자료의 내용, 구조 및 양식을 포함한다.",
+      "en_txt": "The scope of this guideline is the context, structure, and format of qualification submissions for clinical and nonclinical genomic biomarkers related to development of drug or biotechnology products including translational medicine approaches, pharmacokinetics, pharmacodynamics, efficacy and safety aspects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표의 적격성 평가는 의약품 또는 생물의약품의 개발과정부터 시판 후 과정까지 전 과정 중 언제든지 1) ICH E15에서 유전체 생체지표를 “정상적인 생물학적 과정, 병리학적 과정 및/또는 치료나 다른 처치에 대한 반응의 지표인 측정 가능한 DNA 및/또는 RNA의 특징“으로 정의한다.",
+      "en_txt": "A qualification submission can include data and claims for a single genomic biomarker, or for multiple 1 ICH E15 defines a genomic biomarker as a “measurable DNA and/or RNA characteristic that is an indicator of normal biologic processes, pathogenic processes, and/or response to therapeutic or other interventions”.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인이 비유전체 생체지표는 분명하게 다루지 않지만, 이 문서에 설명된 원칙들이 다양한 다른 생체지표 범주(예. 유전체, 단백체, 이미징(imaging)) 및 의약품 또는 생물의약품 개발과 관련된 다른 적격성 평가 내용에 적용될 수 있다.",
+      "en_txt": "While this guideline does not explicitly cover non-genomic biomarkers, the principles described in this document are applicable to a variety of biomarker categories (e.g., genomics, proteomics, imaging) and other qualification contexts associated with drug or biotechnology product development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 조합(예. 유전체 생체지표와 비유전체 생체지표)의 적격성 평가 신청도 가능하다.",
+      "en_txt": "A qualification submission for a combination of biomarkers (e.g., genomic together with non-genomic biomarkers) is also possible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "별도로 기술되어 있지 않는 한, 이 문서에서는 \"생체지표\"라는 일반적 용어를 사용할 것이다.",
+      "en_txt": "Unless otherwise specified, we will use the generic term “biomarker” throughout the remainder of this document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "참고자료는 신약 또는 생물의약품 개발 중 생체지표의 특정한 사용에 대하여 작성되어야 한다.",
+      "en_txt": "Reference should be made to the specific use of the biomarker in drug or biotechnology product development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 적격성 평가에서 생체지표의 사용에 대한 내용은 한정될 수도, 개괄적일 수도 있다: 생체지표는 단일 의약품 또는 생물의약품에, 혹은 동일 의약품 계열내의 다수의 의약품 또는 생물의약품에 도움이 되거나, 또는 여러 의약품 계열에 걸쳐 도움이 될 수도 있다.",
+      "en_txt": "The context of use of a biomarker in a biomarker qualification can be narrow or broad: the biomarker(s) might be useful for only a single drug or biotechnology product, or for several drug or biotechnology products in a drug class, or even across several drug classes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "덧붙여, 권고된 구조의 사용은 예를 들어 비임상 자료에서 임상 자료로 확대하는 것과 같이, 새로운 내용에 대한 생체지표 사용범위를 확대시켜 장래의 생체지표 적격성 평가 신청 시 제출과 심사를 용이하게 할 것이다.",
+      "en_txt": "In addition, use of the recommended structure should facilitate submission and review of future biomarker qualification submissions expanding the use of the biomarker to new contexts, as would be the case e.g., if a nonclinical context of use expands to a clinical context of use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 생체지표 적격성 평가 신청을 위한 자료 양식에 대한 일반적인 가이드라인만을 제시할 수 있다.",
+      "en_txt": "It is therefore only possible to provide general guidelines on data format for a biomarker qualification submission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "양식은 유전체 자료의 평가를 지원해야 하며, 보고서, 표, 그리고 (규제당국에서 요구할 경우) 기초자료를 포함 할 수도 있다.",
+      "en_txt": "The format should support an evaluation of the data and can include reports, tabulations, and raw data (if requested by regulatory authorities according to the relevant practices in place).",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인에서 설명되고 있는 제출서류의 구조는 적절한 근거자료가 생산된 후의 생체지표 적격성 평가 신청을 목적으로 한다.",
+      "en_txt": "The dossier structure described in this guideline is intended for biomarker qualification submissions after sufficient supporting data have been generated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나, 이 구조는 적격성 평가를위한 생체지표 자료의 생산 전 또는 생산 중에 규제당국으로부터 과학적 자문을 구하기 위한 자료 제출에서도 활용될 수 있다.",
+      "en_txt": "However, this structure can also be considered for submissions intended to obtain scientific advice from regulatory authorities before or during the generation of the biomarker data intended to support qualification.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "여기서 설명한 생체지표 적격성 평가신청자료의 제안된 전반적인 구조는 5개의 부분으로 구성된 CTD 양식과 일치한다(모듈 1-5).",
+      "en_txt": "The proposed overall organization of the biomarker qualification submission described herein corresponds to the CTD format, which consists of 5 parts (Modules 1-5).",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "추천되는 생체지표 적격성 평가신청의 섹션과 해당 CTD 섹션의 연계는 다음과 같다: ICH E-16 섹션 1 (지역 행정 정보)은 적격성 평가 과정에 대한 구체적인 정보를 포함한 CTD 모듈 1과 연계; 섹션 2 (요약)는 CTD 모듈 2와 연계; 섹션 3 (품질 보고서)은 CTD 모듈 3과 연계; 섹션 4 (비임상 연구 보고서)는 CTD 모듈 4와 연계; 섹션 5 (임상 연구 보고서)는 CTD 모듈 5와 연계된다.",
+      "en_txt": "The sections of the biomarker qualification submission and their corresponding CTD sections are as follows: ICH E-16 Section 1 (Regional Administrative Information) corresponds to CTD Module 1 with specific information on the qualification procedures; Section 2 (Summaries) corresponds to CTD Module 2; Section 3 (Quality Reports) corresponds to CTD Module 3; Section 4 (Nonclinical Study Reports) corresponds to Module 4; and Section 5 (Clinical Study Reports) corresponds to Module 5.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "더욱 자세한 내용은 ICH M4와 다른 관련 가이드라인에 설명되어 있다.",
+      "en_txt": "More details are described in the ICH M4 and other relevant guidelines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전자공통기술문서(eCTD) 양식에 따라 자료를 제출하고자 하는 신청자는 ICH M2 가이드라인(규제정보전달을 위한 전자기준) 및 기타 관련된 가이드라인, 국법 및 지방법규, 규정, 권고사항 등도 참고해야 한다.",
+      "en_txt": "Applicants who wish to submit in accordance with the Electronic Common Technical 2 Biomarkers Related to Drug or Biotechnology Product Development: Context, Structure and Format of Qualification Submissions Document (eCTD) format should also consult the ICH M2 guideline (Electronic Standards for Transmission of Regulatory Information) and other relevant guidelines, as well as national and regional laws, regulations, and recommendations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "글로벌 신약 또는 생물의약품의 개발에서 생체지표의 통합을 용이하게 하기 위하여, 적격성 평가의 제출은 관련 규제 당국에 일제히 제출할 것을 권고한다.",
+      "en_txt": "To facilitate the integration of biomarkers in global drug or biotechnology product development it is recommended that qualification submissions be submitted simultaneously to pertinent regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "섹션 2: 요약: 서론, 생체지표 사용에 대한 제안 내용, 높은 수준의 자료 설명, 중대한 통합적자료/방법 평가, 현재 진행 중이거나 계획 중인 연구에서 필요한 추가적 자료 및 생체지표 사용에 대한 제안 내용의 타당한 이유 만약 의약품 허가신청에 포함되었다면, 섹션 2의 내용은 개요 및/또는 총괄 요약)과 같이 적절한 CTD 모듈 2의 장으로 전환되어야 한다.",
+      "en_txt": "-Section 2: Summaries: Introduction, proposed context of use, high-level data description, integrated critical appraisal of the data / methods, additional data needed from ongoing or planned studies, and justification for the proposed context of use.If included in an NDA / BLA / MAA, the contents in the Section 2 should be converted into chapters in the appropriate CTD Module 2 such as Overview(s) and / or Overall Summary(ies).",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "섹션 3: 품질 보고서: 생체지표 적격성 평가연구를 위한 임상시험용 의약품의 구조, 제조 및 품질의 특성 (적용되는 경우) 이러한 정보는 의약품 품목허가신청과 독립적인 단일 생체지표 적격성 평가 자료로 제출될 것으로 예상되지 않는다.",
+      "en_txt": "Section 3: Quality Reports: Structural, manufacturing and quality characteristics of investigational drug(s) for the biomarker qualification studies (as applicable) Such information is not expected to be included in a stand-alone biomarker qualification submission, independent from an NDA, BLA or MAA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "섹션 1: 지역 행정: 정보 이 섹션은 각 지역에 특이적인 문건, 예를 들면 신청양식 및/또는 첨부편지를 포함해야 한다.",
+      "en_txt": "Section 1: Regional Administrative: Information4 This section should contain documents specific to each region, for example application forms and / or cover letter.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "관련 규제당국이 이 섹션의 내용과 양식을 규정할 수 있다.",
+      "en_txt": "The content and format of this section can be specified by the relevant regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "섹션 2: 요약: CTD 양식과 유사하게, 생체지표 적격성 평가 자료제출은 제출된 자료의 강점 및 한계에 대하여 논하고 이를 설명하기 위하여 생체지표 개요를 포함해야 한다.",
+      "en_txt": "Section 2: Summaries5: By analogy to the CTD structure, biomarker qualification submissions should contain a Biomarker Overview to discuss and interpret the strengths and limitations of the submitted data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이는 사실에 기반을 두고 글, 표, 그림 등을 사용하여 작성된 상세한 요약 형태의 연구 자료를 나타내는 각각의 기술적, 전임상 및 임상 자료 요약으로 뒷받침 되어야 한다.",
+      "en_txt": "It should be supported by the separate technical, preclinical and clinical Data Summaries which should present the study data as a detailed factual summarisation in text, tables and figures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 섹션은 간략해야 한다.",
+      "en_txt": "This section should be concise.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 섹션은 질환의 설명 및/또는 실험설정, 생체지표의 정의(예. 유전체 생체지표의 경우, 단일염기다형성(SNP), 복제수변이(CNV) 또는 차등유전자발현 증상)를 포함할 수 있다.",
+      "en_txt": "It can include a description of the disease and / or experimental setting, the definition of the biomarker (e.g., in the case of genomic biomarkers, whether a SNP, CNV or differential gene expression signature) and a rationale for the biomarker’s use in drug or biotechnology product development, from discovery through post-approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 사용의 전체 내용을 포함한 보다 자세한 사항은 다음 섹션에 설명되어야 한다.",
+      "en_txt": "More details, including the full context of biomarker use, should be described in the next section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표의 사용에 대한 내용을 설명하는 구성물은 1) 일반적 영역, 2) 특이적 생체지표의 사용, 3) 언제 그리고 어떻게 생체지표가 이용되어야 하는가를 정의하는 중요 측정지표를 포함해야 한다.",
+      "en_txt": "The elements describing the context of use for a biomarker should include (i) the general area, (ii) the specific biomarker use, and (iii) the critical parameters which define when and how the biomarker should be used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "내용은 신약 또는 생물의약품 개발 중 사용으로 한정될 수 있다.",
+      "en_txt": "The context of use can be limited to use in drug or biotechnology product development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "적격성 평가를 위해 제안된 생체지표는 신약 또는 생물의약품 개발 프로그램 또는 사용을 용이하게 할 것으로 기대되며, 이는 현재 사용되고 있는 생체지표 또는 안전성/유효성 평가를 개선시킬 수 있다.",
+      "en_txt": "It is expected that a biomarker proposed for qualification would facilitate drug or biotechnology product development program(s) or drug or biotechnology product use and could offer an improvement over currently available biomarkers or safety or efficacy endpoint assessments.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "만일 심사당국이 제안된 내용과 자료 간에 불일치성을 발견하게 되면, 심사당국이 동의하는 경우에 한해서 적격성 평가 과정 중에 추가 자료를 제공할 수 있다.",
+      "en_txt": "If the reviewing authority identifies an inconsistency between the proposed context and the data, additional data can be provided during the qualification processes, if the authority agrees.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특정 생체지표의 사용, 생체지표는 다양한 용도로 사용될 수 있음. 다음의 예시를 포함하나, 이에 한정되지는 않음.",
+      "en_txt": "Specific Biomarker Use(s) Biomarkers can be used for a wide range of purposes, including, but not limited to, the following examples",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "아래의 유전체 생체지표 예시와 같이, 생체지표는 단일 신청 건 내에서 일반영역 및/또는 특이적 사용에 따라 하나 이상의 내용에 해당될 수 있다. 유전체 생체지표의 가설적 예시가 아래에 자세히 서술 되었지만, 내용 설명의 원칙은 적격성 평가을 신청한 모든 유형의 생체지표에 해당된다.",
+      "en_txt": "A biomarker measurement could apply to more than one context of use, depending on the general area and / or specific use within a single submission, as shown in the following examples of genomic biomarkers. While hypothetical examples for genomic biomarkers are depicted here, the principles for context description are applicable for all types of biomarkers submitted for qualification.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "i) 비임상 안전성: Kidney injury module 1(Kim-1)과 clusterin(Clu)의 mRNA 수준은 랫드의 독성학 연구에서 의약품 또는 생물의약품에 의한 급성 신장관 독성의 유전체 생체지표가 될 수 있다.",
+      "en_txt": "i) Nonclinical Safety: Messenger RNA levels of kidney injury molecule 1 (Kim-1) and clusterin (Clu) can be included as genomic biomarkers of drug or biotechnology-induced acute renal tubular toxicity in rat toxicology studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 적격성 평가 신청을 위한 제출자료의 내용은 다음과 같이 정의될 수 있다: 일반영역: 비임상 안전성 및 독성학 특이적 생체지표 사용: 독성 기전의 평가 및 동물 모델에서의 용량 최적화(NOAEL) 내용 설명의 중요 측정지표: 의약품 또는 생물의약품의 특이적 사용: 해당사항 없음, 시험법 규격: mRNA ,조직 또는 생리학적/병리학적 과정에 대한 설명: 신장, 종: 랫드",
+      "en_txt": "The context of the submission in the biomarker qualification application would be defined as follows: General Area: Nonclinical safety and toxicology Specific Biomarker Use: assessment of mechanism of toxicity and dose optimization (NOAEL) in animal models Critical Parameters of Context of Use: o Drug or biotechnology product-specific use: no o Assay specifications: mRNA o Tissue or physiological / pathological process addressed: kidney o Species: Rattus norvegicus",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "CYP2C9의 유전적 변이는 느린대사군(PM)과 빠른대사군(EM)으로 나타낼 수 있고 의약품 A의 노출에 따라 다르게 나타날 수 있다. CYP2C9의 느린대사군(PM)으로 알려진 환자 또는 임상시험 대상자에서 의약품 A의 혈장 농도는 대사능력의 감소로 인해 증가한다. 생체지표 적격성 평가 신청을 위한 제출자료의 내용은 다음과 같이 정의될 수 있다.",
+      "en_txt": "CYP2C9 genetic polymorphism produces poor metabolizer (PM) and extensive metabolizer phenotypes and differences in Drug A exposure. Plasma levels of Drug A in patients / clinical trial subjects who are known to be CYP2C9 PMs are increased due to reduced metabolic clearance. Context of the submission in the biomarker qualification application would be defined as follows.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "HLA-B*1502 대립유전자는 한족 중국인에서 의약품 B 복용 후 스티븐스-존슨 증후군의 발생 위험성의 증가와 연관이 있다.",
+      "en_txt": "The HLA-B*1502 allele is associated with an increased risk of the development of Stevens-Johnson Syndrome following administration of Drug B in Han-Chinese.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제안된 내용과 관련된 토론 및 발견의 해석을 포함한 핵심평가와 전체 결과의 평가 후 검토가 이루어져야 한다.",
+      "en_txt": "The review should be followed by a critical assessment and appraisal of overall results, including discussion and interpretation of the findings with regard to the proposed context.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 적격성 평가 프로그램의 강점 및 제한점 그리고 연구 결과를 제출해야 하고, 생체지표 사용의 이익을 그 내용에 맞춰 분석하고, 어떻게 연구 결과가 제안된 내용에서 생체지표의 사용을 뒷받침하는 지를 설명해야 한다.",
+      "en_txt": "It should present and discuss the strengths and limitations of the biomarker qualification program and study results, analyze the benefits of the biomarker for its context, and describe how the study results support its use in the proposed context.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "자료의 출처, 확인된 결함, 제안된 내용과 이들이 어떻게 관련이 있으며 이후 자료제출에서 이들을 어떻게 반영할 수 있을 지에 대한 간결한 개요가 포함되어야 한다.추가적으로, 논의를 위해 선정된 주요 핵심사항에 대해서도 언급되어야 한다.",
+      "en_txt": "Important observations regarding the source of data, identified deficiencies, a brief overview of how they relate to the proposed context and how they could be addressed in future submissions should be included. Additionally, key topics identified for discussion should be mentioned.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "자료 요약은 분석적(시험법 개발) 또는 모든 추가적인 기술적 정보, 적절한 비임상 또는 임상 연구로부터의 사실에 기반을 둔 상세한 정보 요약을 포함해야 하며, 이는 생체지표 적격성 평가 연구와 개별적 연구 개괄(synopsis)의 통합적 분석도 역시 포함해야 한다.",
+      "en_txt": "The Data Summaries should include a detailed factual summarisation of information from the analytical (assay development) or any additional technical information, nonclinical or clinical studies (as appropriate), including integrated analysis of the biomarker qualification studies and individual study synopses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제안된 내용에서 생체지표가 어떻게 사용될 수 있는지에 대한 설명을 포함하여, 관련된 연구의 결과를 바탕으로 생체지표 신청에서 기대할 수 있는 이익에 대한 정보를 제공해야 한다.",
+      "en_txt": "Provide an assessment of expected benefits for the application of the biomarker based upon results of relevant studies, including interpretation of how the biomarker performance supports its use in the proposed context;",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 적격성 평가 연구가 진행되는 동안 일어난 문제점이 어떻게 논의되고 해결 되었는가를 설명해야 한다.",
+      "en_txt": "Address issues encountered during the biomarker qualification studies, explaining how they have been evaluated and resolved;",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "해결되지 않은 문제점을 확인하고, 왜 이 문제가 제안된 내용의 적격성 평가에 있어 장애가 되지 않는 지를 설명하고/하거나 가능하다면 이 문제점을 해결 할 계획을 설명해야 한다.",
+      "en_txt": "Identify unresolved issues, and explain why they should not be considered barriers to qualification for the proposed context of use and / or describe plans to resolve them, if applicable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "자료 요약은 분석적(시험법 개발) 또는 모든 추가적인 기술적 정보, 적절한 비임상 또는 임상 연구로부터의 사실에 기반을 둔 상세한 정보 요약을 포함해야 하며, 이는 생체지표 적격성 평가 연구와 개별적 연구 개괄(synopsis)의 통합적 분석도 역시 포함해야 한다.",
+      "en_txt": "The Data Summaries should include a detailed factual summarisation of information from the analytical (assay development) or any additional technical information, nonclinical or clinical studies (as appropriate), including integrated analysis of the biomarker qualification studies and individual study synopses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 섹션은 연구 전반에 걸친 결과는 가능하다면 도표 형식을 통해서 제공해야 한다.",
+      "en_txt": "These should provide results across studies, using tabular representations or figures as applicable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 목적을 달성하기 위해 본 섹션은 다음과 같은 것을 포함 한다.",
+      "en_txt": "To achieve these objectives, this section should",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1) 연구 설계의 방법과 관련 측면 2) 기술적/생물학적 반복 및 3) 통계분석 관련사항(가설, 종료점, 분석군 크기에 대한 타당한 이유 포함)을 포함하는 생체지표 적격성 평가 프로그램의 전반적 접근방법에 대한 설명; 생체지표 적격성 평가에서 연구된 집단 선택에 대한 논리적 근거 설명과 집단 선택으로부터 유래된 제약(인종 또는 질병의 상태와 같은)에 대한 논의; 검체의 적합성(예: 유형, 양 및/또는 표본의 나이, DNA 수득율등)을 확인하기 위한 기준; 검체의 취급, 저장 및 품질 요건에 적용 가능한 특정 권고사항을 포함, 시험법의 분석능 특성(예: in vitro 연구 시험에서 정확도, 정밀도 및 기타 표준 측정지표에 대한 설명; 생체지표의 비임상/임상 사용(예: 표현형/최종 결과에 대한 후향적/전향적 상관성)을 뒷받침하는 결과에 대한 설명; ",
+      "en_txt": "Describe and explain the overall approach to the biomarker qualification program including 1) methods and relevant aspects of study design, 2) technical and biological replication, and 3) statistical analysis, including hypothesis statements, endpoints and justification for sample size. Describe the rationale for the selection of the population sample studied in the biomarker qualification and discuss constraints derived from this selection, such as those associated with ethnicity or disease state; Contain criteria for determining sample suitability (e.g., type, amount and / or age of specimen, DNA yield, etc.); Describe the analytical performance characteristics of the assay (e.g., for in vitro assays, accuracy, precision, and other standard parameters) including any specific recommendations where applicable on sample handling, storage, and quality requirements; Describe the results supporting the nonclinical / clinical use of the biomarker (e.g., retrospective / prospective correlation with phenotype / outcome);",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "규제 심사 과정을 보다 용이하게 하기 위해 본문에서 그래프나 표를 사용할 수 있다. 다른 곳에서 충분하게 제시된 자료의 경우, 이 섹션에서 반복할 필요는 없다; 다만, 연구보고서나 다른 문서 (섹션 4와 5)에서 제공한 자료에 대해 적절한 참고문헌을 제시하는 것을 추천한다.",
+      "en_txt": "The use of graphs and tables in the body of the text is encouraged to facilitate the regulatory review process. It is suggested that material presented fully elsewhere not be repeated in this section; rather, appropriate cross-references to more detailed presentations provided elsewhere in the study reports and other documents (Section 4 and 5) are encouraged.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 섹션에서는 적격성 평가 제출서류를 포함한 개별 연구에 대한 개괄을 제공해야 한다.",
+      "en_txt": "This section should provide synopses of the individual studies included in the qualification dossier.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이들은 섹션 4와 5에 포함된 보고서 및/또는 논문에 대한 개별 연구에서 얻어진 정보를 요약할 수 있어야 한다.",
+      "en_txt": "These should summarize information obtained from each of the studies for which reports and / or manuscripts have been included in Sections 4 and 5.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이들 섹션의 길이는 실려 있는 정보의 양에 따라 다를 수 있다.",
+      "en_txt": "The length of these sections can vary according to the information to be conveyed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "섹션 3: 품질: 의약품 또는 생물학적제제 등 품목허가 신청자료가 아닌 별도의 생체지표 자료제출에 대해서는 품질과 제조 자료가 포함되지 않을 것으로 예상된다.",
+      "en_txt": "Section 3: Quality: Drug or biotechnology product quality and manufacturing data would not be expected in a stand alone biomarker qualification submission independent from an NDA, BLA or MAA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "섹션 4 (비임상)과 섹션 5(임상): 이 섹션에서는 생체지표 적격성 평가에 사용된 전체 연구보고서를 제공하여야 하고, 규제 당국이 요구할 시에는 기초자료도 제출 가능하여야 한다.",
+      "en_txt": "Sections 4 (Nonclinical) and 5 (Clinical): In these sections, full study reports for biomarker qualification should be provided, and raw data made available to the regulatory authorities upon request.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "적절한 경우, 연구보고서는 관련 ICH 가이드라인(예. E3, E15, M4E, M4S)을 따를 것을 추천한다.",
+      "en_txt": "The study reports can follow relevant ICH guidelines (e.g., E3, E15, M4E, M4S) where appropriate for their preparation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연구보고서 내에서 적절한 유전체 자료의 형식은 측정된 유전체 생체지표의 특성(예. SNPs 및/또는 CNV), 그리고 사용된 기술(예. 마이크로어레이, 중합효소연쇄반응)에 따라 다르다.",
+      "en_txt": "Within the study reports, the appropriate format of the data will depend on the characteristics of the biomarker measured (e.g., for genomic biomarkers, SNPs and / or CNV) and the methodology used (e.g., for genomic biomarkers, microarray and / or Polymerase Chain Reaction).",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연구된 생체지표 또는 연구에 사용된 기술과 상관없이, 인구집단(예. 종, 나이, 성별)와 표현형과 관련된 다른 변수의 선택에 대한 논리적 근거를 명확하게 설명해야 한다.",
+      "en_txt": "Regardless of the biomarker investigated or technology used, the rationale for selection of the population sample (e.g., species, age, sex) and of other variables related to the phenotype studied should be clearly described.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "검체의 품질 확인 기준 (예. 표본의 보관기간(age), DNA 수율(yield) 등) 유전자 발현 또는 DNA 서열을 확인하기 위해 사용된 방법 및 변이된 뉴클레오타이드를 포함하는 다른 구조적 특성(예. 5-methylcytosine과 같은 후성유전체학 변이마크) 선택된 방법인 경우, 후보유전자들의 선별 기준(위치, 기능, 발현프로파일 정보) 현재 국제적으로 인정되는 표준을 이용하여 설명할 수 있는 유전체 생체지표의 분석 결과 생체지표 적격성 평가 자료제출을 뒷받침하는 다른 서류의 사본도 비임상 정보의 경우 섹션 4에서, 임상정보의 경우 섹션 5에서 제시하여야 한다.",
+      "en_txt": "As an example, in the case of genomic biomarkers, additional critical parameters could also include: Criteria for determining sample quality (e.g., age of specimen, DNA yield, etc.); Methods used for determination of gene expression or DNA sequence and other structural characteristics including modified DNA bases (e.g., epigenetic marks such as 5-methylcytosine); Criteria used for selection of candidate genes, if this is the chosen approach (candidate by position, by function, based on expression profiling data); Results of analyses of genomic biomarkers, all of which should be described, as applicable, to current internationally recognized standards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이것은 섹션 2, 4, 5와 관련된 참고자료의 사본을 포함하나 그것에 한정되지 않으며, 참고자료는 다음의 것을 포함할 수 있으나 여기에 한정되지는 않는다.생체지표 적격성 평가 자료를 만들기 위한 연구보고서는 다음의 예시를 포함한 중요 변수들을 반드시 명시해야 하나 여기에 제한되지는 않는다.",
+      "en_txt": "This includes, but is not limited to, copies of reference material relating to Sections 2, 4 and 5.This reference material can include, but is not limited to, the following. ",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 연구에 참여한 환자/임상시험 대상자 수 및 분류, 평가 가능한 생체지표 자료를 가진 환자/임상시험 대상자 수 및 분류",
+      "en_txt": "The number and classification of patients / clinical trial subjects who participated in the biomarker study, and the number and classification of patients / clinical trial subjects with assessable biomarker data;",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 시험에 사용되는 연구의 특성은 비임상 및/또는 임상 자료와 전향적 및/또는 후향적 상관성에 근거한다. 이 보고서들은 수행된 기능연구 결과뿐만 아니라 방법과 연구 설계에 대한 설명을 포함해야 한다.",
+      "en_txt": "Performance characteristics of the biomarker test used, based on retrospective and / or prospective correlation with nonclinical and / or clinical endpoint data. These reports should include a description of the methods and study designs as well as the results of any functional studies performed;",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "선택한 시험법의 타당성에 대한 영향을 미치고 결과 분석에 기여하는 변수: 사용된 하드웨어와 플랫폼; 선택한 기술의 현재 국제적으로 인정되는 표준; 음식, 운동, 측정 일정 등과 같이 결과 해석에 기여하는 임상적 변수",
+      "en_txt": "Variables that might both impact on the validity of the assay chosen and contribute to interpretation of results: Hardware or platform used;Current internationally recognized standards for the chosen technology;Clinical variables that might contribute to interpretation of results such as food, exercise, measurement schedule;",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "원천자료의 분석에 사용된 방법 및 소프트웨어",
+      "en_txt": "Methods and software used for analyses of raw data",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일례로, 유전체 생체지표의 경우 추가적인 중요 매개변수가 포함될 수 있다.",
+      "en_txt": "As an example, in the case of genomic biomarkers, additional critical parameters could also include.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "검체의 품질 확인 기준 (예. 표본의 보관기간(age), DNA 수율(yield) 등)",
+      "en_txt": "Criteria for determining sample quality (e.g., age of specimen, DNA yield, etc.);",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전자 발현 또는 DNA 서열을 확인하기 위해 사용된 방법 및 변이된 뉴클레오타이드를 포함하는 다른 구조적 특성(예. 5-methylcytosine과 같은 후성유전체학 변이마크)",
+      "en_txt": "Methods used for determination of gene expression or DNA sequence and other structural characteristics including modified DNA bases (e.g., epigenetic marks such as 5-methylcytosine);",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "선택된 방법인 경우, 후보유전자들의 선별 기준(위치, 기능, 발현프로파일 정보)",
+      "en_txt": "Criteria used for selection of candidate genes, if this is the chosen approach (candidate by position, by function, based on expression profiling data);",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "현재 국제적으로 인정되는 표준을 이용하여 설명할 수 있는 유전체 생체지표의 분석 결과",
+      "en_txt": "Results of analyses of genomic biomarkers, all of which should be described, as applicable, to current internationally recognized standards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체지표 적격성 평가 자료제출을 뒷받침하는 다른 서류의 사본도 비임상 정보의 경우 섹션 4에서, 임상정보의 경우 섹션 5에서 제시하여야 한다. 이것은 섹션 2, 4, 5와 관련된 참고자료의 사본을 포함하나 그것에 한정되지 않으며, 참고자료는 다음의 것을 포함할 수 있으나 여기에 한정되지는 않는다.",
+      "en_txt": "Copies of other documents supporting the biomarker qualification submission should be provided in Section 4 for nonclinical information or Section 5 for clinical information. This includes, but is not limited to, copies of reference material relating to Sections 2, 4 and 5. This reference material can include, but is not limited to, the following",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피어리뷰저널(메타분석 포함)에 출판된 논문; 대학 또는 상업적 연구기관, 환자협회, 공공ㆍ민간 협회, 생체지표의 유용성에 가이던스를 제공하는 의료감시기구에서 발행하는 생체지표의 유용성에 대한 전문가 의견; 규제 당국에서 발행된 평가보고서 또는 기타 관련 문서(예. 관련 과학적 사전검토 보고서); 적절한 경우, 제조사의 상업적으로 이용 가능한 생체지표 시험법의 기술적 서술",
+      "en_txt": "Published articles in peer-reviewed journals (including meta-analyses); Expert statements regarding the utility of the biomarker(s) issued by academic or commercial institutions, patient organizations, public-private consortia, and medical practice oversight boards providing guidance on such utility; Evaluation reports or other relevant documents as issued by regulatory authorities (e.g., report of relevant scientific advice etc.); Manufacturer’s technical description of commercially available biomarker assays (if appropriate).",
+      "align_score": null
+    }
+  ]
+}

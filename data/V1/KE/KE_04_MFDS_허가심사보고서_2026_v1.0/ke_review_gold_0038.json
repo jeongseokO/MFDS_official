@@ -1,0 +1,2493 @@
+{
+  "document_id": "ke_review_gold_0038",
+  "meta": {
+    "set": "KE",
+    "source_folder": "5",
+    "source_code": "review_gold",
+    "source_name": "의약품허가심사보고서(gold)",
+    "orig_doc_id": "44_씬지록신정_aligned",
+    "category_l1": "규제·지침",
+    "category_l2": "허가·심사",
+    "category_l3": "허가심사보고서",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].접수.접수일자",
+      "ko_txt": "2024-08-30",
+      "en_txt": "2024-08-30",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].접수.접수번호",
+      "ko_txt": "20240165937",
+      "en_txt": "20240165937",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].접수.신청구분",
+      "ko_txt": "자료제출의약품",
+      "en_txt": "Drug requiring data submission",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].접수.신청인(회사명)",
+      "ko_txt": "(주)다림바이오텍",
+      "en_txt": "Darim Biotech Co., Ltd.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].제품.제품명",
+      "ko_txt": "씬지록신정137마이크로그램(레보티록신나트륨수화물)",
+      "en_txt": "Synthyroxine Tablets 137 micrograms (Levothyroxine Sodium Hydrate)",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].제품.주성분명(원료의약품등록번호)",
+      "ko_txt": "레보티록신나트륨수화물",
+      "en_txt": "Levothyroxine sodium hydrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].제품.제조수입품목",
+      "ko_txt": "제조",
+      "en_txt": "Manufacturing",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].제품.전문일반",
+      "ko_txt": "전문",
+      "en_txt": "Prescription",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].제품.제형함량.제형",
+      "ko_txt": "나정",
+      "en_txt": "Uncoated tablet",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].제품.제형함량.함량",
+      "ko_txt": "1정(185밀리그램) 중 레보티록신나트륨수화물 0.137밀리그램",
+      "en_txt": "Each tablet (185 milligrams) contains levothyroxine sodium hydrate 0.137 milligrams",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].최종허가사항.허가일자",
+      "ko_txt": "2025-04-21",
+      "en_txt": "2025-04-21",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].최종허가사항.효능효과",
+      "ko_txt": "붙임참조",
+      "en_txt": "See attached",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].최종허가사항.용법용량",
+      "ko_txt": "붙임참조",
+      "en_txt": "See attached",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].최종허가사항.사용상의 주의사항",
+      "ko_txt": "붙임참조",
+      "en_txt": "See attached",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].최종허가사항.저장방법 및 사용기간",
+      "ko_txt": "붙임참조",
+      "en_txt": "See attached",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].최종허가사항.허가조건",
+      "ko_txt": "붙임참조",
+      "en_txt": "See attached",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].국외허가현황.FDA 허가",
+      "ko_txt": "미국 : SYNTHROID® (levothyroxine sodium) tablets, AbbVie 25, 50, 75, 88, 100, 112, 125, 137, 150, 175, 200, 300 mcg",
+      "en_txt": "USA: SYNTHROID® (levothyroxine sodium) tablets, AbbVie 25, 50, 75, 88, 100, 112, 125, 137, 150, 175, 200, 300 mcg",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].국외허가현황.EMA 허가",
+      "ko_txt": "영국 : Levothyroxine 12.5, 25, 50, 75, 100 microgram Tablets, Teva / 일본 : THYRADIN-S Tablets, 12.5, 25, 50, 75, 100 mcg 아스카제약",
+      "en_txt": "UK: Levothyroxine 12.5, 25, 50, 75, 100 microgram Tablets, Teva / Japan: THYRADIN-S Tablets, 12.5, 25, 50, 75, 100 mcg, Aska Pharmaceutical",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].부서.허가부서",
+      "ko_txt": "의약품허가총괄과",
+      "en_txt": "Drug Approval Management Division",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].부서.허가담당자",
+      "ko_txt": "최지연 주무관, 우나리 연구관, 김영주 과장",
+      "en_txt": "Choi Ji-yeon, Deputy Director; Woo Nari, Research Officer; Kim Young-ju, Director",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].부서.심사부서",
+      "ko_txt": "종양항생약품과, 첨단의약품품질심사과, 약효동등성과",
+      "en_txt": "Oncology Antibiotics Division, Advanced Biopharmaceutical Quality Review Division, Bioequivalence Division",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].부서.심사담당자",
+      "ko_txt": "(안유) 김송이 주무관, 박소라 연구관, 안미령 과장 (기시) 이나영 심사원, 최정윤 연구관, 고용석 과장 (생동) 이하나 심사원, 이경신 연구관, 홍정희 과장",
+      "en_txt": "(Safety) Kim Song-i, Deputy Director; Park So-ra, Research Officer; Ahn Mi-ryeong, Director (Review) Lee Na-young, Reviewer; Choi Jeong-yoon, Research Officer; Ko Yong-seok, Director (BE) Lee Ha-na, Reviewer; Lee Kyung-shin, Research Officer; Hong Jeong-hee, Director",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].부서.GMP 평가부서",
+      "ko_txt": "해당 없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": "$[0].부서.GMP 담당자",
+      "ko_txt": "해당 없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.안전성유효성심사결과",
+      "ko_txt": "붙임 1 참조",
+      "en_txt": "See Appendix 1",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.효능효과",
+      "ko_txt": "갑상선기능저하증, 점액부종, 크레틴병",
+      "en_txt": "Hypothyroidism, myxedema, cretinism",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.용법용량",
+      "ko_txt": "성인 : 레보티록신나트륨으로서 보통 1일 1회 25-400㎍ 경구투여한다.",
+      "en_txt": "Adults: As levothyroxine sodium, usually 25-400㎍ is administered orally once daily.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[0]",
+      "ko_txt": "1. 경고: 갑상선 기능이 정상인 사람이 체중감소를 위해 갑상선 호르몬제를 단독 또는 다른 약물과 병용투여하는 것은 적절하지 않으며 효과가 없다.",
+      "en_txt": "1. Warning: In persons with normal thyroid function, administration of thyroid hormone products alone or in combination with other drugs for weight reduction is inappropriate and ineffective.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[1]",
+      "ko_txt": "특히 식욕감퇴 효과가 있는 교감신경 흥분성 아민과 병용투여시 생명을 위협할 정도의 심각한 독성이 발생할 수 있다.",
+      "en_txt": "In particular, when co-administered with sympathomimetic amines with appetite-suppressing effects, severe life-threatening toxicity may occur.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[2]",
+      "ko_txt": "2. 다음 환자에는 투여하지 말 것:",
+      "en_txt": "2. Do not administer to the following patients:",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[3]",
+      "ko_txt": "1) 급성 심근경색, 급성 심근염, 급성 전층 심장염 환자 (기초대사항진으로 심부하가 증대되어 병세가 악화될 수 있다)",
+      "en_txt": "1) Patients with acute myocardial infarction, acute myocarditis, or acute pancarditis (due to increased cardiac workload caused by increased basal metabolic rate, the condition may worsen)",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[4]",
+      "ko_txt": "2) 중증 협심증 환자",
+      "en_txt": "2) Patients with severe angina pectoris",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[5]",
+      "ko_txt": "3) 빈맥을 동반한 심부전 환자",
+      "en_txt": "3) Patients with heart failure accompanied by tachycardia",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[6]",
+      "ko_txt": "4) 심근염 환자",
+      "en_txt": "4) Patients with myocarditis",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[7]",
+      "ko_txt": "5) 갑상선기능항진증 환자",
+      "en_txt": "5) Patients with hyperthyroidism",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[8]",
+      "ko_txt": "6) 치료 전 부신기능부전증 환자",
+      "en_txt": "6) Patients with adrenal insufficiency prior to treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[9]",
+      "ko_txt": "7) 갑상선중독증 환자",
+      "en_txt": "7) Patients with thyrotoxicosis",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[10]",
+      "ko_txt": "8) 이 약에 과민증 환자",
+      "en_txt": "8) Patients with hypersensitivity to this drug",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[11]",
+      "ko_txt": "9) 이 약은 유당을 함유하고 있으므로, 갈락토오스 불내성(galactose intolerance), Lapp 유당분해효소 결핍증(Lapp lactase deficiency) 또는 포도당-갈락토오스 흡수장애(glucose-galactose malabsorption) 등의 유전적인 문제가 있는 환자에게는 투여하면 안된다.",
+      "en_txt": "9) This drug contains lactose; therefore, it must not be administered to patients with rare hereditary problems such as galactose intolerance, Lapp lactase deficiency, or glucose-galactose malabsorption.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[12]",
+      "ko_txt": "3. 다음 환자에는 신중히 투여할 것:",
+      "en_txt": "3. Administer with caution to the following patients:",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[13]",
+      "ko_txt": "1) 고혈압, 협심증, 진구성 심근경색, 동맥경화증, 관상동맥질환 등 심혈관계 질환 환자(기초대사항진으로 심부하가 증대되어 병세가 악화될 수 있으므로 투여할 필요가 있는 경우에는 투여개시량을 소량으로 하고 보통보다 장기간에 걸쳐 증량하며 유지량은 최소필요량으로 한다)",
+      "en_txt": "1) Patients with cardiovascular diseases such as hypertension, angina pectoris, old myocardial infarction, arteriosclerosis, and coronary artery disease (as cardiac workload may increase due to increased basal metabolic rate and the condition may worsen, if administration is necessary, start with a small initial dose, increase the dose over a longer period than usual, and set the maintenance dose at the minimum required dose)",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[14]",
+      "ko_txt": "2) 부신피질기능부전, 뇌하수체기능부전 환자(부신발증, 쇽 등을 유발할 수 있으므로 부신피질기능부전의 개선을 충분히 고려하여 투여한다)",
+      "en_txt": "2) Patients with adrenocortical insufficiency or pituitary insufficiency (as adrenal crisis, shock, etc. may be induced, administer with full consideration given to sufficient improvement of adrenocortical insufficiency)",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[15]",
+      "ko_txt": "3) 당뇨병 환자(혈당조절조건이 변화될 수 있으므로 충분히 고려하여 신중히 투여한다)",
+      "en_txt": "3) Patients with diabetes mellitus (as glycemic control conditions may change, administer cautiously with sufficient consideration)",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[16]",
+      "ko_txt": "4) 고령자",
+      "en_txt": "4) Elderly patients",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[17]",
+      "ko_txt": "5) 중증 또는 장기간 지속된 갑상선기능저하증 환자",
+      "en_txt": "5) Patients with severe or long-standing hypothyroidism",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[18]",
+      "ko_txt": "4. 부작용: 1) 이 약은 과량투여로 다음과 같은 부작용이 나타날 수 있으므로 감량 또는 휴약 등 적절한 처치를 한다.",
+      "en_txt": "4. Adverse reactions: 1) Overdosage of this drug may result in the following adverse reactions; therefore, implement appropriate measures such as dose reduction or temporary discontinuation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[19]",
+      "ko_txt": "① 순환기계 : 심계항진, 맥박증가, 부정맥, 협심증, 맥압의 상승",
+      "en_txt": "① Cardiovascular: palpitations, increased pulse rate, arrhythmia, angina pectoris, increased pulse pressure",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[20]",
+      "ko_txt": "② 정신신경계 : 진전, 불면, 두통, 어지러움, 발한, 신경과민, 흥분, 불안, 조울 등의 정신 질환, 경련",
+      "en_txt": "② Neuropsychiatric: tremor, insomnia, headache, dizziness, sweating, nervousness, excitation, anxiety, psychiatric disorders such as manic-depressive illness, convulsions",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[21]",
+      "ko_txt": "③ 소화기계 : 식욕부진, 구토, 설사, 복부경련",
+      "en_txt": "③ Gastrointestinal: anorexia, vomiting, diarrhea, abdominal cramps",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[22]",
+      "ko_txt": "④ 기타 : 근육통, 월경장애, 체중감소, 무력감, 다한증, 피부의 홍조",
+      "en_txt": "④ Other: myalgia, menstrual disorders, weight loss, asthenia, hyperhidrosis, skin flushing",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[23]",
+      "ko_txt": "2) 과민증 : 발진 등이 나타날 수 있으며 이러한 경우에는 투여를 중지한다.",
+      "en_txt": "2) Hypersensitivity: rash, etc. may occur; in such cases, discontinue administration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[24]",
+      "ko_txt": "3) 간 : 간기능 장애가 나타날 수 있으며 발열, 권태감, 간기능 검사치의 이상 등이 나타난 경우에는 감량 또는 휴약 등 적절한 처치를 한다.",
+      "en_txt": "3) Hepatic: hepatic dysfunction may occur; if fever, malaise, or abnormal liver function test values occur, implement appropriate measures such as dose reduction or temporary discontinuation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[25]",
+      "ko_txt": "4) 기타 : 동공산대, 소아의 고칼슘뇨증, 발작성향 증가(발작질환이 있는 소아의 경우)가 나타날 수 있다.",
+      "en_txt": "4) Other: mydriasis, hypercalciuria in children, increased seizure tendency (in children with seizure disorders) may occur.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[26]",
+      "ko_txt": "5. 일반적 주의:",
+      "en_txt": "5. General precautions:",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[27]",
+      "ko_txt": "1) 갑상선기능저하증 및 점액부종 환자에게는 소량부터 시작하여 투여하고 충분히 관찰하면서 점차 증량하여 유지량으로 하는 것이 바람직하다.",
+      "en_txt": "1) In patients with hypothyroidism and myxedema, it is desirable to start with a small dose, observe carefully, and gradually increase the dose to the maintenance dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[28]",
+      "ko_txt": "2) 당뇨병 환자에 갑상선 호르몬 요법을 병용시 인슐린 또는 경구용 혈당강하제의 용량을 증량한다.",
+      "en_txt": "2) When thyroid hormone therapy is used concomitantly in patients with diabetes mellitus, increase the dose of insulin or oral hypoglycemic agents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[29]",
+      "ko_txt": "3) 고혈압을 포함한 심혈관계 질환 환자에게 이 약을 투여할 경우 흉통의 발전 또는 다른 심혈관계 질환의 악화가 있을 경우 이 약을 감량하는 등 주의한다.",
+      "en_txt": "3) When administering this drug to patients with cardiovascular disease including hypertension, exercise caution; if angina worsens or other cardiovascular disease deteriorates, reduce the dose of this drug, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[30]",
+      "ko_txt": "4) 당뇨병, 요붕증 또는 부신피질부전 환자에게 갑상선호르몬 요법시 그 증상의 강도를 심화시키므로 이러한 병행하는 내분비 질환에 대한 다양한 치료적 조치를 적절히 한다.",
+      "en_txt": "4) Thyroid hormone therapy may exacerbate the severity of symptoms in patients with diabetes mellitus, diabetes insipidus, or adrenocortical insufficiency; therefore, appropriately implement various therapeutic measures for these concomitant endocrine disorders.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[31]",
+      "ko_txt": "5) 점액부종 혼수에 있어 당질코르티코이드의 병용투여가 필요하다.",
+      "en_txt": "5) In myxedema coma, concomitant administration of glucocorticoids is required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[32]",
+      "ko_txt": "6) 초극저체중 신생아 치료시 부신기능 미성숙으로 인해 순환허탈이 발생할 수 있으므로 혈행 역학적 지표를 모니터링해야 한다.",
+      "en_txt": "6) When treating extremely low birth weight neonates, circulatory collapse may occur due to immature adrenal function; therefore, hemodynamic parameters should be monitored.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[33]",
+      "ko_txt": "7) 비오틴은 갑상선 면역분석검사에 간섭을 유발하여 검사 결과가 실제보다 낮게 또는 높게 측정될 수 있다.",
+      "en_txt": "7) Biotin can interfere with thyroid immunoassays, and test results may be measured lower or higher than the actual values.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[34]",
+      "ko_txt": "갑상선 기능검사가 요구될 때 비오틴 성분제제를 복용 중인 환자는 그 사실을 검사원에게 알려야 한다.",
+      "en_txt": "When thyroid function tests are required, patients taking biotin-containing products should inform the laboratory personnel of this fact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[35]",
+      "ko_txt": "가능한 경우, 비오틴 간섭에 영향을 받지 않는 대체 검사를 실시해야 한다.",
+      "en_txt": "Where possible, alternative tests not affected by biotin interference should be performed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[36]",
+      "ko_txt": "6. 상호작용:",
+      "en_txt": "6. Drug interactions:",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[37]",
+      "ko_txt": "1) 쿠마린계 항응고제와 병용투여시 갑상선호르몬이 비타민 K 의존성 응고인자의 이화를 촉진하여 상승작용이 나타날 수 있으므로 프로트롬빈시간을 측정하는 등 충분히 관찰하고 쿠마린계 항응고제의 용량을 조절하는 등 신중히 투여한다.",
+      "en_txt": "1) When co-administered with coumarin anticoagulants, thyroid hormones may promote catabolism of vitamin K-dependent clotting factors and produce a potentiating effect; therefore, administer cautiously by closely monitoring, including measuring prothrombin time, and adjusting the dose of the coumarin anticoagulant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[38]",
+      "ko_txt": "2) 에피네프린, 노르에피네프린, 에페드린 및 메칠에페드린 함유제제 등 교감신경효능약과 병용투여시 교감신경효능약의 작용이 증강되어 관상동맥질환 환자에서 관부전의 위험이 증대되므로 신중히 투여한다.",
+      "en_txt": "2) When co-administered with sympathomimetics such as products containing epinephrine, norepinephrine, ephedrine, and methylephedrine, the effects of sympathomimetics may be enhanced and the risk of coronary insufficiency may increase in patients with coronary artery disease; therefore, administer cautiously.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[39]",
+      "ko_txt": "3) 디곡신, 디기톡신 등 강심배당체와 병용투여시 갑상선 기능 항진상태에서의 혈청 디곡신 농도가 저하되어 갑상선기능항진 상태가 상승된다는 보고가 있으므로 갑상선 기능 항진 상태에는 보통 다량, 갑상선 기능 저하 상태에는 보통 소량의 강심배당체를 투여한다.",
+      "en_txt": "3) When co-administered with cardiac glycosides such as digoxin and digitoxin, there are reports that serum digoxin concentrations decrease in hyperthyroid states and hyperthyroid status increases; therefore, administer cardiac glycosides usually in large amounts in hyperthyroid states and usually in small amounts in hypothyroid states.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[40]",
+      "ko_txt": "병용투여시 강심배당체의 혈중농도를 측정하면서 신중히 투여한다.",
+      "en_txt": "When co-administered, administer cautiously while measuring blood concentrations of the cardiac glycoside.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[41]",
+      "ko_txt": "4) 인슐린 등 혈당강하제를 투여받는 환자에게 이 약을 투여하는 경우 혈당조절 조건이 변화될 수 있으므로 병용투여시 혈당치 및 환자의 상태를 충분히 관찰하면서 두 약물의 투여량을 조절하는 등 신중히 투여한다.",
+      "en_txt": "4) When this drug is administered to patients receiving hypoglycemic agents such as insulin, glycemic control conditions may change; therefore, administer cautiously by closely observing blood glucose levels and the patient’s condition and adjusting the doses of both drugs during concomitant administration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[42]",
+      "ko_txt": "5) 콜레스티라민, 철분제제, 알루미늄 함유 제산제와 병용투여시 이 약의 흡수가 지연 또는 감소될 수 있으므로 투여간격에 주의하며 신중히 투여한다.",
+      "en_txt": "5) When co-administered with cholestyramine, iron preparations, or aluminum-containing antacids, absorption of this drug may be delayed or decreased; therefore, administer cautiously with attention to the dosing interval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[43]",
+      "ko_txt": "6) 항전간제(페니토인, 카르바마제핀 등), 바르비탈계 약물, 리팜피신 등의 효소유도약물은 이 약의 신진대사를 증가시켜 이 약의 혈중농도를 저하시킬 수 있으므로 병용투여시 이 약을 증량하는 등 신중히 투여한다.",
+      "en_txt": "6) Enzyme-inducing drugs such as antiepileptics (phenytoin, carbamazepine, etc.), barbiturates, and rifampicin may increase the metabolism of this drug and decrease its blood concentration; therefore, administer cautiously, such as by increasing the dose of this drug during concomitant administration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[44]",
+      "ko_txt": "7) 페니토인 및 카르바마제핀은 이 약을 혈장 단백 결합에서 해리함으로써 이 약의 효능을 상승시킬 수 있다.",
+      "en_txt": "7) Phenytoin and carbamazepine may increase the efficacy of this drug by displacing it from plasma protein binding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[45]",
+      "ko_txt": "8) 에스트로겐 또는 에스트로겐을 함유하는 경구용 피임약과 병용투여시 티록신결합글로불린의 양이 증가되어 이 약의 수요가 증가될 수 있다.",
+      "en_txt": "8) When co-administered with estrogen or estrogen-containing oral contraceptives, the amount of thyroxine-binding globulin may increase, increasing the requirement for this drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[46]",
+      "ko_txt": "9) 아미오다론 및 프로프라놀롤은 이 약의 분해를 늦춰 효능발현기간을 연장할 수 있다.",
+      "en_txt": "9) Amiodarone and propranolol may delay the degradation of this drug and prolong the time to onset of efficacy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[47]",
+      "ko_txt": "10) 이 약은 삼환계 항우울약의 작용발현개시를 촉진할 수 있다.",
+      "en_txt": "10) This drug may accelerate the onset of action of tricyclic antidepressants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[48]",
+      "ko_txt": "11) 살리실산, 푸로세미드, 클로피브레이트 등은 이 약의 혈장 함유율을 증가시킬 수 있다.",
+      "en_txt": "11) Salicylic acid, furosemide, clofibrate, etc. may increase the plasma content of this drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[49]",
+      "ko_txt": "12) 칼슘제제, 세벨라머, 란타늄 등의 인산염과 결합하는 약물을 병용투여시 이 약의 흡수가 지연 또는 감소될 수 있으므로 투여간격에 주의하여 신중히 투여한다.(최소 4 시간 간격)",
+      "en_txt": "12) When co-administered with phosphate-binding drugs such as calcium preparations, sevelamer, and lanthanum, absorption of this drug may be delayed or decreased; therefore, administer cautiously with attention to the dosing interval. (At least 4 hours apart)",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[50]",
+      "ko_txt": "13) 레보티록신과 오르리스타트 동시 복용 시 갑상선 저하증 및/또는 갑상선 저하증 조절 저하가 발생할 수 있다.",
+      "en_txt": "13) Concomitant use of levothyroxine and orlistat may cause hypothyroidism and/or reduced control of hypothyroidism.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[51]",
+      "ko_txt": "14) 비오틴은 비오틴/스트렙타비딘 상호작용을 기반으로 하는 갑상선 면역분석법을 방해하여 검사 결과가 감소하거나 증가할 수 있다.",
+      "en_txt": "14) Biotin may interfere with thyroid immunoassays based on biotin/streptavidin interactions, and test results may decrease or increase.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[52]",
+      "ko_txt": "15) 세인트존스워트가 포함된 제품과 같은 효소 유도 약물은 레보티록신의 간 청소율을 증가시켜 갑상선 호르몬의 혈청 농도를 감소시킬 수 있다.",
+      "en_txt": "15) Enzyme-inducing drugs, such as products containing St. John’s wort, may increase the hepatic clearance of levothyroxine and decrease serum concentrations of thyroid hormones.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[53]",
+      "ko_txt": "갑상선 대체 요법을 받는 환자는 이러한 제품을 동시 투여 시 갑상선 호르몬 용량을 늘려야 할 수 있다.",
+      "en_txt": "Patients receiving thyroid replacement therapy may need to increase the thyroid hormone dose when co-administering these products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[54]",
+      "ko_txt": "16) 프로톤 펌프 억제제(PPI)와의 병용투여는 갑상선 호르몬의 흡수를 감소시킬 수 있다.",
+      "en_txt": "16) Concomitant administration with proton pump inhibitors (PPIs) may decrease absorption of thyroid hormone.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[55]",
+      "ko_txt": "병용 치료 동안 갑상선 기능의 정기적 모니터링 및 임상 모니터링이 권장되며, 갑상선 호르몬의 용량을 늘려야 할 수도 있다.",
+      "en_txt": "Regular monitoring of thyroid function and clinical monitoring are recommended during concomitant therapy, and the dose of thyroid hormone may need to be increased.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[56]",
+      "ko_txt": "PPI 치료가 끝날 때도 주의를 기울여야 한다.",
+      "en_txt": "Caution should also be exercised when PPI treatment is discontinued.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[57]",
+      "ko_txt": "7. 임부 및 수유부에 대한 투여:",
+      "en_txt": "7. Use in pregnant and lactating women:",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[58]",
+      "ko_txt": "1) 갑상선 호르몬은 태반 관문을 쉽게 통과하지 않는다.",
+      "en_txt": "1) Thyroid hormones do not readily cross the placental barrier.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[59]",
+      "ko_txt": "현재까지의 임상 경험 결과 임부에 갑상선 호르몬을 투여했을 때 태아에 대한 부작용이 나타나지 않았으므로 임신 중에도 치료를 중단하지 않는다.",
+      "en_txt": "Based on clinical experience to date, adverse effects on the fetus have not been observed when thyroid hormones were administered to pregnant women; therefore, treatment should not be discontinued during pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[60]",
+      "ko_txt": "2) 갑상선 호르몬은 소량 유즙으로 분비된다.",
+      "en_txt": "2) Thyroid hormones are excreted in breast milk in small amounts.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[61]",
+      "ko_txt": "갑상선호르몬은 심각한 부작용과 관련이 없으며 종양을 발생시키지 않으나 이 약을 수유부에 투여시 주의한다.",
+      "en_txt": "Thyroid hormones are not associated with serious adverse effects and do not cause tumors; however, exercise caution when administering this drug to lactating women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[62]",
+      "ko_txt": "8. 소아에 대한 투여:",
+      "en_txt": "8. Use in pediatric patients:",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[63]",
+      "ko_txt": "1) 크레틴병에 대한 진단 및 치료의 시작은 발육결핍을 방지하기 위하여 가능한 한 출생 후 바로 시작한다.",
+      "en_txt": "1) Diagnosis and initiation of treatment for cretinism should be started as soon as possible after birth in order to prevent growth and developmental deficiency.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[64]",
+      "ko_txt": "혈장 레보티록신(T4) 및 갑상선자극호르몬(TSH) 농도의 선별검사를 하여 신생아 중 이런 집단을 구분할 수 있다.",
+      "en_txt": "Screening tests of plasma levothyroxine (T4) and thyroid-stimulating hormone (TSH) concentrations can identify such groups among neonates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[65]",
+      "ko_txt": "2) 선천성 및 후천성 갑상선 저하증 소아 환자의 경우, 불충분한 치료는 인지 발달과 선형 성장에 부정적 영향을 미칠 수 있으며, 과잉 치료는 두개골 유합증과 골연령 가속화와 연관이 있다.",
+      "en_txt": "2) In pediatric patients with congenital and acquired hypothyroidism, insufficient treatment may adversely affect cognitive development and linear growth, and overtreatment is associated with craniosynostosis and accelerated bone age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[66]",
+      "ko_txt": "9. 고령자에 대한 투여: 고령자에 이 약을 투여시 기초대사항진으로 심부하가 증대되어 협심증 등의 증상이 나타날 수 있고 일반적으로 고령자는 생리기능이 저하되어 있으므로 투여 개시량을 소량으로 하고 보통보다 장기간에 걸쳐 증량하며 유지량은 최소 필요량으로 한다.",
+      "en_txt": "9. Use in elderly patients: When administering this drug to elderly patients, cardiac workload may increase due to increased basal metabolic rate and symptoms such as angina pectoris may occur; moreover, physiological functions are generally decreased in the elderly. Therefore, start with a small initial dose, increase the dose over a longer period than usual, and set the maintenance dose at the minimum required dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[67]",
+      "ko_txt": "10. 임상검사치에의 영향:",
+      "en_txt": "10. Effects on laboratory test values:",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[68]",
+      "ko_txt": "1) 갑상선결합글로불린(TBG)의 농도 변화를 T4 및 T3 치의 해석에 있어 고려한다.",
+      "en_txt": "1) Consider changes in thyroxine-binding globulin (TBG) concentrations when interpreting T4 and T3 values.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[69]",
+      "ko_txt": "그런 경우에는 비결합 호르몬의 농도치를 측정한다.",
+      "en_txt": "In such cases, measure the concentration of unbound hormone.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[70]",
+      "ko_txt": "임신, 에스트로겐, 에스트로겐 함유 경구용 피임약 및 전염성 간염은 티록신결합글로불린의 농도를 증가시키는 반면 신증, 선단비대증 및 안드로겐 또는 코르티코이드 요법 동안에는 감소된다.",
+      "en_txt": "Pregnancy, estrogen, estrogen-containing oral contraceptives, and infectious hepatitis increase thyroxine-binding globulin concentrations, whereas nephrosis, acromegaly, and during androgen or corticosteroid therapy, they are decreased.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[71]",
+      "ko_txt": "가족성 티록신결합 저글로불린혈증 및 고글로불린혈증이 보고되었다. 티록신결합글로불린 결핍의 확률은 약 1/9,000 이다.",
+      "en_txt": "Familial thyroxine-binding hypoglobulinemia and hyperglobulinemia have been reported. The probability of thyroxine-binding globulin deficiency is approximately 1/9,000.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[72]",
+      "ko_txt": "알부민과 티록신의 결합은 살리실산에 의해 억제된다.",
+      "en_txt": "Binding of albumin and thyroxine is inhibited by salicylic acid.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[73]",
+      "ko_txt": "2) 의약용 또는 식이성 요오드는 모든 방사선 요오드 흡착 생체내 (in vivo) 시험을 방해하여 낮은 흡착율을 보이는데, 이것은 호르몬 생합성이 실제로 감소함을 반영하는 것은 아니다.",
+      "en_txt": "2) Medicinal or dietary iodine interferes with all radioactive iodine uptake in vivo tests, showing low uptake, which does not reflect an actual decrease in hormone biosynthesis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[74]",
+      "ko_txt": "3) 적절한 용량 대체에도 불구하고 갑상선기능저하증의 지속이 임상적 및 실험실적 증거로 나타나는 것은 환자의 낮은 순응성, 낮은 흡수율, 변으로의 배출과다 또는 제제의 비활성화를 의미하며 갑상선 호르몬에 대한 세포내 저항은 매우 드물다.",
+      "en_txt": "3) Persistence of hypothyroidism, despite appropriate dose replacement, as evidenced by clinical and laboratory findings, indicates poor patient compliance, poor absorption, excessive fecal excretion, or inactivation of the formulation; intracellular resistance to thyroid hormone is very rare.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[75]",
+      "ko_txt": "11. 과량투여시의 처치:",
+      "en_txt": "11. Treatment in case of overdose:",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[76]",
+      "ko_txt": "1) 증상 : 심계항진, 맥박증가, 부정맥, 협심증, 울혈성 심부전, 진전, 불면, 두통, 어지러움, 발한, 신경과민, 흥분, 불안, 조울 등의 정신증상, 식욕부진, 구토, 설사, 근육통, 월경장애, 체중감소, 무력감, 피부의 홍조",
+      "en_txt": "1) Symptoms: palpitations, increased pulse rate, arrhythmia, angina pectoris, congestive heart failure, tremor, insomnia, headache, dizziness, sweating, nervousness, excitation, anxiety, psychiatric symptoms such as manic-depressive illness, anorexia, vomiting, diarrhea, myalgia, menstrual disorders, weight loss, asthenia, skin flushing",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[77]",
+      "ko_txt": "2) 처치: ① 1 회의 과량투여시 구토유발, 위세척, 콜레스티라민 또는 약용탄을 투여하여 이 약의 흡수를 억제하거나 대증요법을 실시한다.",
+      "en_txt": "2) Treatment: ① In the event of a single acute overdose, induce vomiting, perform gastric lavage, administer cholestyramine or activated charcoal to inhibit absorption of this drug, or provide symptomatic therapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[78]",
+      "ko_txt": "② 처치 : 환기유지를 위해 산소를 공급한다. 교감신경흥분증상에는 프로프라놀롤 등 베타차단제를, 울혈성 심부전에는 강심배당체를 투여하며 발열, 저혈당 및 체액손실에 대해서는 적절한 처치를 한다.",
+      "en_txt": "② Treatment: Provide oxygen to maintain ventilation. For sympathomimetic symptoms, administer beta-blockers such as propranolol; for congestive heart failure, administer cardiac glycosides; and provide appropriate measures for fever, hypoglycemia, and fluid loss.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[79]",
+      "ko_txt": "티록신의 흡수를 억제하기 위해 콜레스티라민을 투여하거나 T4 의 T3 로의 전환을 억제하기 위해 당질코르티코이드를 적용하는 등 다른 보조적인 방법이 있다.",
+      "en_txt": "Other adjunctive measures include administering cholestyramine to inhibit thyroxine absorption or using glucocorticoids to inhibit conversion of T4 to T3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[80]",
+      "ko_txt": "12. 의약품동등성시험 정보: 시험약 씬지록신정150마이크로그램(레보티록신나트륨수화물)((주)다림바이오텍)과 대조약 씬지로이드정0.1밀리그램(레보티록신나트륨수화물)(부광약품(주))을 2X2 교차시험으로 시험약 4정 및 대조약 6정씩 건강한 성인 38명에게 공복 시 단회 경구투여하여 혈중 레보티록신을 측정한 결과, 비교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 기하평균비율의 90% 신뢰구간이 80.00~125.00% 이내로서 생물학적으로 동등함을 입증하였다.",
+      "en_txt": "12. Information on bioequivalence testing: In a 2X2 crossover study, the test product Synthyroxine Tablets 150 micrograms (levothyroxine sodium hydrate) (Darim Biotech Co., Ltd.) and the reference product Synthroid Tablets 0.1 milligrams (levothyroxine sodium hydrate) (Bukwang Pharmaceutical Co., Ltd.) were administered as a single oral dose under fasting conditions to 38 healthy adults (4 tablets of the test product and 6 tablets of the reference product), and blood levothyroxine was measured. When the comparative evaluation parameters (AUCt, Cmax) were log-transformed and statistically analyzed, the 90% confidence interval of the geometric mean ratio was within 80.00~125.00%, thereby demonstrating bioequivalence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[81]",
+      "ko_txt": {
+        "제목": "의약품동등성시험 정보",
+        "열": [
+          "구분",
+          "비교평가항목 AUC0-480hr (ng·hr/mL)",
+          "비교평가항목 Cmax (ng/mL)",
+          "참고평가항목 Tmax(hr)",
+          "참고평가항목 t1/2(hr)"
+        ],
+        "행": [
+          [
+            "대조약 씬지로이드정0.1밀리그램(레보티록신나트륨수화물)(부광약품㈜)",
+            "1676±284",
+            "61.54±12.41",
+            "1.50 (1.00~4.00)",
+            "65.53±25.15"
+          ],
+          [
+            "시험약 씬지록신정150마이크로그램(레보티록신나트륨수화물)(㈜다림바이오텍)",
+            "1580±231",
+            "59.87±10.26",
+            "1.50 (1.00~4.00)",
+            "77.57±46.75"
+          ],
+          [
+            "기하평균비율의 90% 신뢰구간(기준 : 80.00~125.00%)",
+            "92.73~98.14%",
+            "94.08~102.71%",
+            "-",
+            "-"
+          ]
+        ],
+        "각주": [
+          "AUCt, Cmax, t1/2 ; 평균값±표준편차, Tmax ; 중앙값(범위), n=38",
+          "AUCt : 투약시간부터 최종혈중농도 정량시간 t까지의 혈중농도-시간곡선하면적",
+          "Cmax : 최고혈중농도",
+          "Tmax : 최고혈중농도 도달시간",
+          "t1/2 : 말단 소실 반감기"
+        ]
+      },
+      "en_txt": {
+        "제목": "Information on bioequivalence testing",
+        "열": [
+          "Category",
+          "Comparative evaluation parameter AUC0-480hr (ng·hr/mL)",
+          "Comparative evaluation parameter Cmax (ng/mL)",
+          "Reference evaluation parameter Tmax(hr)",
+          "Reference evaluation parameter t1/2(hr)"
+        ],
+        "행": [
+          [
+            "Reference product Synthroid Tablets 0.1 milligrams (levothyroxine sodium hydrate) (Bukwang Pharmaceutical Co., Ltd.)",
+            "1676±284",
+            "61.54±12.41",
+            "1.50 (1.00~4.00)",
+            "65.53±25.15"
+          ],
+          [
+            "Test drug: Synthyroxine Tablets 150 micrograms (Levothyroxine sodium hydrate) (Darim Biotech Co., Ltd.)",
+            "1580±231",
+            "59.87±10.26",
+            "1.50 (1.00~4.00)",
+            "77.57±46.75"
+          ],
+          [
+            "90% confidence interval of the geometric mean ratio (criteria: 80.00~125.00%)",
+            "92.73~98.14%",
+            "94.08~102.71%",
+            "-",
+            "-"
+          ]
+        ],
+        "각주": [
+          "AUCt, Cmax, t1/2: mean±standard deviation, Tmax: median (range), n=38",
+          "AUCt: area under the plasma concentration-time curve from dosing time to the last quantifiable plasma concentration time t",
+          "Cmax: maximum plasma concentration",
+          "Tmax: time to reach maximum plasma concentration",
+          "t1/2: terminal elimination half-life"
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.사용상 주의사항[82]",
+      "ko_txt": "13. 기타: 유사약물 (리오티로닌나트륨)의 투여에 의해 드물게 쇽, 울혈성 심부전이 나타날 수 있다는 보고가 있다. 과량투여에 의해 이러한 증상이 나타날 수 있으므로 감량 또는 휴약하는 등 적절한 처치를 한다.",
+      "en_txt": "13. Other: There are reports that administration of a similar drug (liothyronine sodium) may rarely cause shock and congestive heart failure. As such symptoms may occur due to overdose, appropriate measures such as dose reduction or drug interruption should be taken.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.저장방법 및 사용기간[0]",
+      "ko_txt": "제조일로부터 18개월",
+      "en_txt": "18 months from the date of manufacture",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.저장방법 및 사용기간[1]",
+      "ko_txt": "차광기밀용기, 실온(1~30℃)보관",
+      "en_txt": "Light-resistant, airtight container; store at room temperature (1~30℃)",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.최종허가사항.제조원",
+      "ko_txt": "자사제조, (주)다림바이오텍, 강원특별자치도 원주시 지정면 신평로 33 A동1~3층, B동1층, S동",
+      "en_txt": "In-house manufacture, Darim Biotech Co., Ltd., 33 Sinpyeong-ro, Jijeong-myeon, Wonju-si, Gangwon Special Self-Governing Province, Building A 1st~3rd floors, Building B 1st floor, Building S",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.원료의약품등록(DMF)사항",
+      "ko_txt": "해당 없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.허가조건",
+      "ko_txt": "해당 없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.개량신약지정여부",
+      "ko_txt": "해당 없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.중앙약사심의위원회자문결과",
+      "ko_txt": "해당 없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.사전검토",
+      "ko_txt": "해당 없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": null,
+      "path": "$[1].허가심사개요.검토이력",
+      "ko_txt": {
+        "제목": "검토이력",
+        "열": [
+          "구 분",
+          "품목허가",
+          "기준및시험방법 관련 자료",
+          "안전성·유효성 관련 자료"
+        ],
+        "행": [
+          [
+            "신청일자",
+            "2024.08.30.",
+            "",
+            ""
+          ],
+          [
+            "보완요청일자",
+            "2024.11.06.",
+            "2024.11.06.",
+            "2024.11.06."
+          ],
+          [
+            "보완접수일자",
+            "2025.03.14.",
+            "2025.03.14.",
+            "2025.03.14."
+          ],
+          [
+            "최종처리일자",
+            "2025.04.21.",
+            "2025.04.21.",
+            "2025.04.21"
+          ]
+        ],
+        "각주": []
+      },
+      "en_txt": {
+        "제목": "Review history",
+        "열": [
+          "Category",
+          "Marketing authorization",
+          "Data related to specifications and test methods",
+          "Data related to safety and efficacy"
+        ],
+        "행": [
+          [
+            "Application date",
+            "2024.08.30.",
+            "",
+            ""
+          ],
+          [
+            "Date of request for supplementation",
+            "2024.11.06.",
+            "2024.11.06.",
+            "2024.11.06."
+          ],
+          [
+            "Date of receipt of supplementation",
+            "2025.03.14.",
+            "2025.03.14.",
+            "2025.03.14."
+          ],
+          [
+            "Final processing date",
+            "2025.04.21.",
+            "2025.04.21.",
+            "2025.04.21"
+          ]
+        ],
+        "각주": []
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.관련규정",
+      "ko_txt": "의약품의 품목허가․신고․심사 규정(식약처 고시) 제5조제2항 [별표1]에 따른 구분",
+      "en_txt": "Classification pursuant to Article 5(2) [Annex Table 1] of the Regulations on Product Approval/Notification/Review of Medicinal Products (MFDS Notification)",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료표",
+      "ko_txt": {
+        "제목": "제출자료 목록",
+        "열": [
+          "제출자료 구분",
+          "자료번호 1가",
+          "1나",
+          "2가1)",
+          "2가2)",
+          "2가3)",
+          "2가4)",
+          "2가5)",
+          "2가6)",
+          "2가7)",
+          "2가8)",
+          "2나1)",
+          "2나2)",
+          "2나3)",
+          "2나4)",
+          "2나5)",
+          "2나6)",
+          "2나7)",
+          "3가1)",
+          "3가2)",
+          "3나1)",
+          "3나2)",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "행": [
+          [
+            "제출자료",
+            "○",
+            "△",
+            "△",
+            "△",
+            "○",
+            "○",
+            "○",
+            "△",
+            "△",
+            "△",
+            "△",
+            "○",
+            "○",
+            "○",
+            "△",
+            "△",
+            "×",
+            "×",
+            "○",
+            "×",
+            "※",
+            "×",
+            "×",
+            "×",
+            "×",
+            "△",
+            "○",
+            "※",
+            "※",
+            "○",
+            "×",
+            "○",
+            "○"
+          ],
+          [
+            "제출여부",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "×",
+            "×",
+            "○",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "○",
+            "×",
+            "×",
+            "○"
+          ],
+          [
+            "면제사유",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "각주": []
+      },
+      "en_txt": {
+        "제목": "List of submitted data",
+        "열": [
+          "Category of submitted data",
+          "Data No. 1(a)",
+          "1(b)",
+          "2(a)1)",
+          "2(a)2)",
+          "2(a)3)",
+          "2(a)4)",
+          "2(a)5)",
+          "2(a)6)",
+          "2(a)7)",
+          "2(a)8)",
+          "2(b)1)",
+          "2(b)2)",
+          "2(b)3)",
+          "2(b)4)",
+          "2(b)5)",
+          "2(b)6)",
+          "2(b)7)",
+          "3(a)1)",
+          "3(a)2)",
+          "3(b)1)",
+          "3(b)2)",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "행": [
+          [
+            "Submitted data",
+            "○",
+            "△",
+            "△",
+            "△",
+            "○",
+            "○",
+            "○",
+            "△",
+            "△",
+            "△",
+            "△",
+            "○",
+            "○",
+            "○",
+            "△",
+            "△",
+            "×",
+            "×",
+            "○",
+            "×",
+            "※",
+            "×",
+            "×",
+            "×",
+            "×",
+            "△",
+            "○",
+            "※",
+            "※",
+            "○",
+            "×",
+            "○",
+            "○"
+          ],
+          [
+            "Submission status",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "×",
+            "×",
+            "○",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "○",
+            "×",
+            "×",
+            "○"
+          ],
+          [
+            "Reason for exemption",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "각주": []
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[0]",
+      "ko_txt": "1. 기원 또는 발견 및 개발경위에 관한 자료",
+      "en_txt": "1. Data on origin or discovery and development history",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[1]",
+      "ko_txt": "2. 구조결정, 물리화학적 성질에 관한 자료(품질에 관한 자료)",
+      "en_txt": "2. Data on structural elucidation and physicochemical properties (quality data)",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[2]",
+      "ko_txt": "가. 원료의약품에 관한 자료",
+      "en_txt": "A. Data on drug substance",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[3]",
+      "ko_txt": "1) 구조결정에 관한 자료",
+      "en_txt": "1) Data on structural elucidation",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[4]",
+      "ko_txt": "2) 물리화학적 성질에 관한 자료",
+      "en_txt": "2) Data on physicochemical properties",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[5]",
+      "ko_txt": "3) 제조방법에 관한 자료",
+      "en_txt": "3) Data on manufacturing method",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[6]",
+      "ko_txt": "4) 기준 및 시험방법이 기재된 자료",
+      "en_txt": "4) Data describing specifications and test methods",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[7]",
+      "ko_txt": "5) 기준 및 시험방법에 관한 근거자료",
+      "en_txt": "5) Supporting data for specifications and test methods",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[8]",
+      "ko_txt": "6) 시험성적에 관한 자료",
+      "en_txt": "6) Data on test results",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[9]",
+      "ko_txt": "7) 표준품 및 시약·시액에 관한 자료",
+      "en_txt": "7) Data on reference standards and reagents/solutions",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[10]",
+      "ko_txt": "8) 용기 및 포장에 관한 자료",
+      "en_txt": "8) Data on container and packaging",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[11]",
+      "ko_txt": "나. 완제의약품에 관한 자료",
+      "en_txt": "B. Data on drug product",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[12]",
+      "ko_txt": "1) 원료약품 및 그 분량에 관한 자료",
+      "en_txt": "1) Data on active substances and their amounts",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[13]",
+      "ko_txt": "2) 제조방법에 관한 자료",
+      "en_txt": "2) Data on manufacturing method",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[14]",
+      "ko_txt": "3) 기준 및 시험방법이 기재된 자료",
+      "en_txt": "3) Data describing specifications and test methods",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[15]",
+      "ko_txt": "4) 기준 및 시험방법에 관한 근거자료",
+      "en_txt": "4) Supporting data for specifications and test methods",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[16]",
+      "ko_txt": "5) 시험성적에 관한 자료",
+      "en_txt": "5) Data on test results",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[17]",
+      "ko_txt": "6) 표준품 및 시약·시액에 관한 자료",
+      "en_txt": "6) Data on reference standards and reagents/solutions",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[18]",
+      "ko_txt": "7) 용기 및 포장에 관한 자료",
+      "en_txt": "7) Data on container and packaging",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[19]",
+      "ko_txt": "3. 안정성에 관한 자료",
+      "en_txt": "3. Data on stability",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[20]",
+      "ko_txt": "가. 원료의약품에 관한 자료",
+      "en_txt": "A. Data on drug substance",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[21]",
+      "ko_txt": "1) 장기보존시험 또는 가속시험자료",
+      "en_txt": "1) Long-term storage test or accelerated test data",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[22]",
+      "ko_txt": "2) 가혹시험자료",
+      "en_txt": "2) Stress test data",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[23]",
+      "ko_txt": "나. 완제의약품에 관한 자료",
+      "en_txt": "B. Data on drug product",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[24]",
+      "ko_txt": "1) 장기보존시험 또는 가속시험자료",
+      "en_txt": "1) Long-term storage test or accelerated test data",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[25]",
+      "ko_txt": "2) 가혹시험자료6. 임상시험성적에 관한 자료",
+      "en_txt": "2) Stress test data6. Data on clinical trial results",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.제출자료목록.제출자료목록[26]",
+      "ko_txt": "8. 국내 유사제품과의 비교검토 및 당해 의약품등의 특성에 관한 자료",
+      "en_txt": "8. Data on comparative review with similar domestic products and characteristics of the relevant medicinal product, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.심사자 종합의견[0]",
+      "ko_txt": "신청사는 자사 고함량제제인 씬지록신정 150μg(레보티록신나트륨)을 근거로 함량을 감소시켜 개발하고자 함(레보티록신나트륨 150→137μg).",
+      "en_txt": "The applicant intends to develop the product by reducing the strength based on its in-house high-strength formulation, Synthyroxine Tablets 150μg (levothyroxine sodium) (levothyroxine sodium 150→137μg).",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.심사자 종합의견[1]",
+      "ko_txt": "레보티록신나트륨은 갑상선기능저하증, 점액부종, 크레틴병 환자에서 레보티록신 보충 또는 대체요법으로 초회 25-100μg, 유지량으로 100-400μg을 투여하도록 허가되었으며, 레보티록신나트륨 25, 37.5, 50, 75, 88, 100, 112, 125, 150, 200μg 함량제제가 허가되어 있음.",
+      "en_txt": "Levothyroxine sodium is approved for administration as initial 25-100μg and maintenance 100-400μg as levothyroxine supplementation or replacement therapy in patients with hypothyroidism, myxedema, and cretinism, and formulations with strengths of levothyroxine sodium 25, 37.5, 50, 75, 88, 100, 112, 125, 150, 200μg have been approved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.심사자 종합의견[2]",
+      "ko_txt": "갑상선 기능 저하증 환자 등에서 갑상선자극호르몬(TSH) 또는 혈장 레보티록신(T4)에 따라 레보티록신 용량조절이 필요하며, 신청 함량(137μg)은 세밀한 용량조절 목적 등으로 국내 기허가된 용법용량 범위내로 개발될 수 있음.",
+      "en_txt": "In patients with hypothyroidism, etc., levothyroxine dose adjustment is required according to thyroid-stimulating hormone (TSH) or plasma levothyroxine (T4), and the applied strength (137μg) may be developed within the range of dosage and administration already approved in Korea for purposes such as fine dose adjustment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.심사자 종합의견[3]",
+      "ko_txt": "임상자료 : 신청사는 품목허가를 뒷받침하기 위하여 자사 고함량제제인 씬지록신정 150μg(레보티록신나트륨)과의 비교용출시험자료(고시조건)을 제출하였음.",
+      "en_txt": "Clinical data: To support marketing authorization, the applicant submitted comparative dissolution test data (notification conditions) against its in-house high-strength formulation, Synthyroxine Tablets 150μg (levothyroxine sodium).",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.심사자 종합의견[4]",
+      "ko_txt": "신청품목은 레보티록신나트륨의 이미 허가된 용법용량 범위내에서 단위제형당 주성분의 함량을 감량하여 허가받고자 하는 품목으로, 주성분과 첨가제의 원료약품의 분량이 비율적으로 유사하고 제조방법이 동일한 경우에 한하여 「의약품동등성시험기준」(식품의약품안전처 고시)에 따른 비교용출시험자료로 임상시험성적에 관한 자료를 갈음할 수 있음",
+      "en_txt": "The applied product seeks approval by reducing the amount of active ingredient per unit dosage form within the already approved dosage and administration range of levothyroxine sodium; provided that the active ingredient and excipients are proportionally similar in composition and the manufacturing method is the same, comparative dissolution test data pursuant to the \"Guidelines for Bioequivalence Studies\" (MFDS Notification) may be used in lieu of data on clinical trial results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.심사자 종합의견[5]",
+      "ko_txt": "의약품동등성시험자료 : 약효동등성과 적합의견 ※약효동등성과-618",
+      "en_txt": "Bioequivalence study data: Therapeutic equivalence and acceptable opinion ※Therapeutic equivalence-618",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.심사자 종합의견[6]",
+      "ko_txt": "허가사항 : 신청 효능효과, 용법용량 및 사용상의 주의사항(전문가를 위한정보 제외)은 동일 주성분의 자사 저함량제제인 레보티록신 88 μg과 동일하게 신청함에 따라 인정가능함",
+      "en_txt": "Approved labeling: As the applicant applied for the claimed indications, dosage and administration, and precautions for use (excluding information for healthcare professionals) to be the same as those of its in-house low-strength formulation of the same active ingredient, levothyroxine 88 μg, this is acceptable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.심사자 종합의견[7]",
+      "ko_txt": "전문가를 위한 정보 중 레보티록신 150 μg에 대한 생물학적동등성시험 정보는 동일 주성분의 자사 함량증감제제인 레보티록신 25, 75, 88, 125 μg과 동일하게 신청하였으나, 약효동등성과에서 검토한 레보티록신 112 μg 회신사항과 동일하게 시정이 필요함.",
+      "en_txt": "Among the information for healthcare professionals, the bioequivalence study information for levothyroxine 150 μg was applied to be the same as that of its in-house strength-adjusted formulations of the same active ingredient, levothyroxine 25, 75, 88, 125 μg; however, correction is required in the same manner as the response items for levothyroxine 112 μg reviewed in the therapeutic equivalence assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.1. 기원 또는 발견 및 개발경위에 관한 자료.제품정보[0]",
+      "ko_txt": "제품명 : 씬지록신정137마이크로그램(레보티록신나트륨수화물)",
+      "en_txt": "Product name: Synthyroxine Tablets 137 micrograms (Levothyroxine sodium hydrate)",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.1. 기원 또는 발견 및 개발경위에 관한 자료.제품정보[1]",
+      "ko_txt": "약리작용 기전 : 갑상샘 호르몬인 thyroxine(T4)의 합성 화합물로 TSH 분비 억제",
+      "en_txt": "Mechanism of pharmacological action: A synthetic compound of the thyroid hormone thyroxine (T4) that suppresses TSH secretion",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.1. 기원 또는 발견 및 개발경위에 관한 자료.기원 및 개발경위[0]",
+      "ko_txt": "레보티록신은 갑상선기능저하증, 점액부종, 크레틴병 환자에서 보통 1일 1회 25-400 ug을 경구 투여하도록 허가됨.",
+      "en_txt": "Levothyroxine is approved for oral administration of 25-400 ug once daily in patients with hypothyroidism, myxedema, and cretinism.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.1. 기원 또는 발견 및 개발경위에 관한 자료.기원 및 개발경위[1]",
+      "ko_txt": "일반적인 초회 투여량은 25-100 ug이며 유지량은 100-400 ug 임.",
+      "en_txt": "The usual initial dose is 25-100 ug, and the maintenance dose is 100-400 ug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.1. 기원 또는 발견 및 개발경위에 관한 자료.기원 및 개발경위[2]",
+      "ko_txt": "씬지록신정137마이크로그램을 비롯하여 여러 가지 함량의 개발을 통해 환자의 치료선택 및 정확한 용량 선택의 폭을 넓히고자 힘",
+      "en_txt": "Through development of various strengths including Synthyroxine Tablets 137 micrograms, we aim to broaden patients' treatment options and the range for accurate dose selection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[0]",
+      "ko_txt": "레보티록신나트륨수화물",
+      "en_txt": "Levothyroxine sodium hydrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[1]",
+      "ko_txt": "명칭: Levothyroxine sodium",
+      "en_txt": "Name: Levothyroxine sodium",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[2]",
+      "ko_txt": "화학명: L-tyrosine-O-(4-hydroxy-3,5-diiodophenyl)-3,5-diiodo-monosodium salt, hydrate",
+      "en_txt": "Chemical name: L-tyrosine-O-(4-hydroxy-3,5-diiodophenyl)-3,5-diiodo-monosodium salt, hydrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[3]",
+      "ko_txt": "또는 Sodium-(S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3.5-diiodophenyl]propionate",
+      "en_txt": "or Sodium-(S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3.5-diiodophenyl]propionate",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[4]",
+      "ko_txt": "또는 3-[4-(4-Hydroxy-3,5,-diiodophenoxy)-3,5-diiodophenyl]-L-alanine, sodium salt, pentahydrate",
+      "en_txt": "or 3-[4-(4-Hydroxy-3,5,-diiodophenoxy)-3,5-diiodophenyl]-L-alanine, sodium salt, pentahydrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[5]",
+      "ko_txt": "또는 L-3,3',5,5'-Tetraiodothyronine, sodium salt, pentahydrate",
+      "en_txt": "or L-3,3',5,5'-Tetraiodothyronine, sodium salt, pentahydrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[6]",
+      "ko_txt": "분자식: C15H10I4NNaO4 ·x H10O (x≈5*) 5수화물이 가장 안정한 형태임",
+      "en_txt": "Molecular formula: C15H10I4NNaO4 ·x H10O (x≈5*) The pentahydrate is the most stable form",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[7]",
+      "ko_txt": "분자량: 무수물로서 798.86",
+      "en_txt": "Molecular weight: 798.86 as anhydrous",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).일반정보[8]",
+      "ko_txt": "구조식:",
+      "en_txt": "Structural formula:",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).원료의약품(Drug substance).원료의약품 시험항목",
+      "ko_txt": "유럽약전(EP) '레보티록신나트륨'항에 따름",
+      "en_txt": "In accordance with the European Pharmacopoeia (EP) monograph \"Levothyroxine sodium\"",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).완제의약품(Drug product).첨가제의 종류",
+      "ko_txt": "해당사항 없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).완제의약품(Drug product).완제의약품 시험항목",
+      "ko_txt": {
+        "제목": "완제의약품 시험항목",
+        "열": [
+          "시험구분",
+          "항목"
+        ],
+        "행": [
+          [
+            "성상",
+            "■"
+          ],
+          [
+            "확인시험",
+            "■"
+          ],
+          [
+            "시성치",
+            "□ pH □ 비중 □ 기타"
+          ],
+          [
+            "순도시험",
+            "■ 유연물질 ■ 기타"
+          ],
+          [
+            "건조감량/수분",
+            "□"
+          ],
+          [
+            "특수시험",
+            "□"
+          ],
+          [
+            "기타시험",
+            "■"
+          ],
+          [
+            "함량시험",
+            "■"
+          ],
+          [
+            "표준품/시약․시액",
+            "□"
+          ]
+        ],
+        "각주": [
+          "*시험항목이 설정된 경우 ■로 기재한다."
+        ]
+      },
+      "en_txt": {
+        "제목": "Drug product test items",
+        "열": [
+          "Test category",
+          "Item"
+        ],
+        "행": [
+          [
+            "Description",
+            "■"
+          ],
+          [
+            "Identification test",
+            "■"
+          ],
+          [
+            "Physicochemical values",
+            "□ pH □ specific gravity □ others"
+          ],
+          [
+            "Purity test",
+            "■ related substances ■ others"
+          ],
+          [
+            "Loss on drying/moisture",
+            "□"
+          ],
+          [
+            "Special tests",
+            "□"
+          ],
+          [
+            "Other tests",
+            "■"
+          ],
+          [
+            "Assay",
+            "■"
+          ],
+          [
+            "Reference standards/reagents·solutions",
+            "□"
+          ]
+        ],
+        "각주": [
+          "*If a test item is established, indicate with ■."
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료).완제의약품(Drug product).제제시험",
+      "ko_txt": {
+        "제목": "제제시험",
+        "열": [
+          "시험구분",
+          "항목"
+        ],
+        "행": [
+          [
+            "붕해/용출시험",
+            "■"
+          ],
+          [
+            "질량(용량)편차/제제균일성시험",
+            "■"
+          ],
+          [
+            "입도시험/입자도시험",
+            "□"
+          ],
+          [
+            "금속성이물시험",
+            "□"
+          ],
+          [
+            "단위분무량시험/단위분무당함량시험",
+            "□"
+          ],
+          [
+            "무균시험",
+            "□"
+          ],
+          [
+            "미생물한도시험",
+            "■"
+          ],
+          [
+            "불용성미립자시험",
+            "□"
+          ],
+          [
+            "불용성이물시험",
+            "□"
+          ],
+          [
+            "알코올수시험",
+            "□"
+          ],
+          [
+            "엔도톡신/발열성물질시험",
+            "□"
+          ],
+          [
+            "점착력시험",
+            "□"
+          ],
+          [
+            "형상시험",
+            "□"
+          ],
+          [
+            "기타시험",
+            "□"
+          ]
+        ],
+        "각주": [
+          "*시험항목이 설정된 경우 ■로 기재한다.",
+          "* 특수시험 : 안전성시험, 항원성시험, 히스타민시험, 소화력시험",
+          "* 기타시험 : 미생물한도시험, 원료의 입자도시험 등"
+        ]
+      },
+      "en_txt": {
+        "제목": "Formulation tests",
+        "열": [
+          "Test category",
+          "Item"
+        ],
+        "행": [
+          [
+            "Disintegration/dissolution test",
+            "■"
+          ],
+          [
+            "Mass (volume) variation/content uniformity test",
+            "■"
+          ],
+          [
+            "Particle size distribution test/particle size test",
+            "□"
+          ],
+          [
+            "Metallic foreign matter test",
+            "□"
+          ],
+          [
+            "Delivered dose uniformity test/assay per spray test",
+            "□"
+          ],
+          [
+            "Sterility test",
+            "□"
+          ],
+          [
+            "Microbial limits test",
+            "■"
+          ],
+          [
+            "Insoluble particulate matter test",
+            "□"
+          ],
+          [
+            "Insoluble foreign matter test",
+            "□"
+          ],
+          [
+            "Alcohol number test",
+            "□"
+          ],
+          [
+            "Endotoxin/Pyrogen Test",
+            "□"
+          ],
+          [
+            "Adhesiveness Test",
+            "□"
+          ],
+          [
+            "Appearance Test",
+            "□"
+          ],
+          [
+            "Other Tests",
+            "□"
+          ]
+        ],
+        "각주": [
+          "* If a test item has been established, indicate it with ■.",
+          "* Special tests: safety test, antigenicity test, histamine test, digestive activity test",
+          "* Other tests: microbial limits test, particle size test of raw materials, etc."
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.3. 안정성에 관한 자료.원료의약품의 안정성",
+      "ko_txt": "해당없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.3. 안정성에 관한 자료.완제의약품의 안정성",
+      "ko_txt": {
+        "제목": "완제의약품의 안정성",
+        "열": [
+          "시험종류",
+          "시험조건",
+          "용기형태/재질",
+          "결과"
+        ],
+        "행": [
+          [
+            "장기보존시험",
+            "25℃/60% RH",
+            "HDPE병 LDPP마개",
+            "기준 내 적합"
+          ],
+          [
+            "가속시험",
+            "40℃/75% RH",
+            "",
+            "기준 내 적합"
+          ]
+        ],
+        "각주": []
+      },
+      "en_txt": {
+        "제목": "Stability of the Finished Pharmaceutical Product",
+        "열": [
+          "Test type",
+          "Test conditions",
+          "Container type/material",
+          "Results"
+        ],
+        "행": [
+          [
+            "Long-term storage test",
+            "25℃/60% RH",
+            "HDPE bottle, LDPP cap",
+            "Complies within specifications"
+          ],
+          [
+            "Accelerated test",
+            "40℃/75% RH",
+            "",
+            "Complies within specifications"
+          ]
+        ],
+        "각주": []
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.3. 안정성에 관한 자료.신청사항 및 외국의 허가현황[0]",
+      "ko_txt": "차광기밀용기, 실온(1~30℃)보관",
+      "en_txt": "Light-resistant tight container, store at room temperature (1~30℃)",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.3. 안정성에 관한 자료.신청사항 및 외국의 허가현황[1]",
+      "ko_txt": "제조일로부터 18개월",
+      "en_txt": "18 months from the date of manufacture",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.3. 안정성에 관한 자료.안정성에 대한 심사자 의견[0]",
+      "ko_txt": "안정성 시험 결과 유의적인 변화 없이 기준 내 적합함",
+      "en_txt": "Stability test results: complies within specifications with no significant changes",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.3. 안정성에 관한 자료.안정성에 대한 심사자 의견[1]",
+      "ko_txt": "제출된 근거자료에 따라 신청 저장방법 및 사용기간 타당함",
+      "en_txt": "Based on the submitted supporting data, the proposed storage method and shelf life are appropriate",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.4. 독성에 관한 자료",
+      "ko_txt": "해당사항 없음",
+      "en_txt": "None",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.4_상세.4.2. 독성시험자료 개별 요약 (신약만 해당).4.2.4.4. 발육기동물시험 및 기타",
+      "ko_txt": "해당없음",
+      "en_txt": "Not applicable",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.5. 약리작용에 관한 자료",
+      "ko_txt": "해당사항 없음",
+      "en_txt": "None",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[0]",
+      "ko_txt": "비교용출시험자료 제출",
+      "en_txt": "Submission of comparative dissolution test data",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[1]",
+      "ko_txt": "신청사는 품목허가를 뒷받침하기 위하여 자사 고함량제제인 씬지록신정 150μg(레보티록신나트륨)과의 비교용출시험자료(고시조건)을 제출하였음.",
+      "en_txt": "To support the marketing authorization, the applicant submitted comparative dissolution test data (per notified conditions) with its own high-strength product, Synthyroxine Tablets 150μg (levothyroxine sodium).",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[2]",
+      "ko_txt": "신청품목은 레보티록신나트륨의 이미 허가된 용법용량 범위내에서 단위제형당 주성분의 함량을 감량하여 허가받고자 하는 품목으로, 주성분과 첨가제의 원료약품의 분량이 비율적으로 유사하고 제조방법이 동일한 경우에 한하여 「의약품동등성시험기준」(식품의약품안전처 고시)에 따른 비교용출시험자료로 임상시험성적에 관한 자료를 갈음할 수 있음",
+      "en_txt": "The applied product is intended to be authorized by reducing the content of the active ingredient per unit dosage form within the already approved dosage and administration range for levothyroxine sodium; only when the quantities of the active ingredient and excipients in the drug substances are proportionally similar and the manufacturing method is identical, comparative dissolution test data in accordance with the \"Standard for Pharmaceutical Equivalence Tests\" (MFDS Notification) may be substituted for clinical trial data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[3]",
+      "ko_txt": "의약품동등성시험자료 : 약효동등성과 적합의견 ※약효동등성과-618",
+      "en_txt": "Pharmaceutical equivalence test data: therapeutic equivalence and favorable opinion ※Therapeutic equivalence-618",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[4]",
+      "ko_txt": "※ 관련규정",
+      "en_txt": "※ Relevant regulations",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[5]",
+      "ko_txt": "의약품의 품목허가․신고․심사규정(식품의약품안전처고시) 제2조제8호",
+      "en_txt": "Regulations on Marketing Authorization/Notification/Review of Drugs (MFDS Notification), Article 2, Paragraph 8",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[6]",
+      "ko_txt": "[별표1] II. 자료제출의약품 3. 유효성분의 새로운 조성 또는 함량만의 증감(단일제→단일제)",
+      "en_txt": "[Annex 1] II. Drugs requiring submission of data 3. New composition of active ingredient or increase/decrease in content only (single-ingredient product → single-ingredient product)",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[7]",
+      "ko_txt": "주 4. 환자의 복약 순응도를 높일 목적 등으로 이미 허가된 용법·용량의 범위내에서 단위제형당 주성분의 함량을 증감하여 허가받고자 하는 품목(서방성제제 등 제형의 특수성이 인정되는 제제 중 방출기전이 동일하지 않은 제제 제외) 중 분말주사제는 4, 5 및 6의 자료를 면제할 수 있으며, 경구용 정제 및 캡슐제는 주성분과 첨가제의 원료약품의 분량이 비율적으로 유사하고 제조방법이 동일한 경우에 한하여 「의약품동등성시험기준」(식품의약품안전처 고시)에 따른 비교용출시험자료로 4, 5 및 6의 자료를 갈음할 수 있고, 주성분과 첨가제의 원료의약품의 분량이 유사하지 않거나 제조방법이 동일하지 않은 경우는 「의약품 등의 안전에 관한 규칙」별표 4 의약품 임상시험 관리기준에 따른 생물학적동등성시험자료 혹은 비교임상시험성적에 관한 자료로 4, 5 및 6의 자료를 갈음할 수 있다.",
+      "en_txt": "Note 4. Among products for which authorization is sought by increasing or decreasing the content of the active ingredient per unit dosage form within the range of already approved dosage and administration for the purpose of improving patient medication adherence, etc. (excluding, among formulations for which formulation-specific characteristics such as modified-release formulations are recognized, those with a different release mechanism), powder for injection may be exempted from the data in 4, 5, and 6; and oral tablets and capsules, only when the quantities of the active ingredient and excipients in the drug substances are proportionally similar and the manufacturing method is identical, may substitute comparative dissolution test data in accordance with the \"Standard for Pharmaceutical Equivalence Tests\" (MFDS Notification) for the data in 4, 5, and 6; and when the quantities of the active ingredient and excipients in the drug substances are not similar or the manufacturing method is not identical, bioequivalence study data or comparative clinical trial results in accordance with the \"Rules on the Safety of Drugs, etc.\" Annex 4 Good Clinical Practice for drug clinical trials may substitute for the data in 4, 5, and 6.",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[8]",
+      "ko_txt": "다만, 기허가품목보다 고함량 제제인 경우는 치료용량범위내에서 유효성분의 선형 소실 약물동태(linear elimination kinetics)가 입증되고 유효성분의 특성을 고려할 때 제제의 안전성이 인정되는 경우에 한한다.",
+      "en_txt": "However, in the case of a higher-strength formulation than the already authorized product, this applies only when linear elimination kinetics of the active ingredient within the therapeutic dose range is demonstrated and, considering the characteristics of the active ingredient, the safety of the formulation is recognized.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.6. 임상시험성적에 관한 자료.6.7.임상에 대한 심사자의견[9]",
+      "ko_txt": "(예 : 100㎎정제의 허가사항이 1회 2정 복용으로 되어 있어 복약 순응도를 높이기 위하여 200㎎정제 1회 1정 복용으로 허가받고자 하는 경우 등)",
+      "en_txt": "(Example: where the approved labeling for a 100 mg tablet is 2 tablets per dose, and authorization is sought for a 200 mg tablet at 1 tablet per dose to improve medication adherence, etc.)",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.7. 외국의사용현황에관한자료",
+      "ko_txt": "해당사항 없음",
+      "en_txt": "None",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": null,
+      "path": "$[2].붙임.붙임1_안전성유효성심사결과.8.국내유사제품과의비교검토및당해의약품등의특성에관한자료[0]",
+      "ko_txt": "씬지로이드정(레보티록신나트륨수화물), 씬지록신정(레보티록신나트륨수화물) 등",
+      "en_txt": "Synthroid Tablets (levothyroxine sodium hydrate), Synthyroxine Tablets (levothyroxine sodium hydrate), etc.",
+      "align_score": null
+    }
+  ]
+}

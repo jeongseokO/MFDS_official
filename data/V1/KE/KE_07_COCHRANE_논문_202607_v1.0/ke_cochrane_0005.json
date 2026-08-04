@@ -1,0 +1,478 @@
+{
+  "document_id": "ke_cochrane_0005",
+  "meta": {
+    "set": "KE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000024.PUB5",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000024.pub5/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "뇌졸중은 전 세계적으로 조기 사망의 세 번째 주요 원인입니다.",
+      "en_txt": "Stroke is the third leading cause of early death worldwide.",
+      "align_score": 0.8777
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "대부분의 허혈성 뇌졸중은 뇌의 동맥을 막는 혈전에 의해 발생합니다.",
+      "en_txt": "Most ischaemic strokes are caused by a blood clot blocking an artery in the brain.",
+      "align_score": 0.8459
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "새로운 혈전 발생 위험을 줄이고 출혈 위험을 증가시키지 않는 항응고제를 제공하면 환자의 결과가 향상될 수 있습니다.",
+      "en_txt": "Patient outcomes might be improved if they are offered anticoagulants that reduce their risk of developing new blood clots and do not increase the risk of bleeding.",
+      "align_score": 0.8874
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "이것은 1995년에 처음 출판된 Cochrane Review의 업데이트이며 2004년, 2008년 및 2015년에 업데이트되었습니다.",
+      "en_txt": "This is an update of a Cochrane Review first published in 1995, with updates in 2004, 2008, and 2015.",
+      "align_score": 0.9363
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "급성 허혈성 뇌졸중이 의심되거나 확인된 사람들에 대한 조기 항응고제의 효과 및 안전성(발병 후 처음 14일 이내)을 평가합니다.",
+      "en_txt": "To assess the effectiveness and safety of early anticoagulation (within the first 14 days of onset) for people with acute presumed or confirmed ischaemic stroke.",
+      "align_score": 0.886
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "우리의 가설은 사용을 피하는 정책과 비교할 때 조기 항응고 요법이 다음과 관련이 있다는 것입니다.",
+      "en_txt": "Our hypotheses were that, compared with a policy of avoiding their use, early anticoagulation would be associated with:",
+      "align_score": 0.8242
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "• 뇌졸중 발병 몇 개월 후 사망 또는 일상 생활의 의존도 감소;",
+      "en_txt": "• reduced risk of death or dependence in activities of daily living a few months after stroke onset;",
+      "align_score": 0.8986
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "• 조기 재발성 허혈성 뇌졸중의 위험 감소;",
+      "en_txt": "• reduced risk of early recurrent ischaemic stroke;",
+      "align_score": 0.9054
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "• 증상이 있는 두개내 및 두개외 출혈의 위험 증가; 그리고",
+      "en_txt": "• increased risk of symptomatic intracranial and extracranial haemorrhage; and",
+      "align_score": 0.916
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "• 심부정맥 혈전증 및 폐색전증의 위험 감소.",
+      "en_txt": "• reduced risk of deep vein thrombosis and pulmonary embolism.",
+      "align_score": 0.8522
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Cochrane Database of Systematic Reviews(CDSR); Cochrane Central Register of Controlled Trials(CENTRAL; 2021, 7호), Cochrane Library(2021년 8월 5일 검색); MEDLINE(2014년 ~ 2021년 8월 5일); 및 Embase(2014년 ~ 2021년 8월 5일).",
+      "en_txt": "We searched the Cochrane Stroke Group Trials Register (August 2021); the Cochrane Database of Systematic Reviews (CDSR); the Cochrane Central Register of Controlled Trials (CENTRAL; 2021, Issue 7), in the Cochrane Library (searched 5 August 2021); MEDLINE (2014 to 5 August 2021); and Embase (2014 to 5 August 2021).",
+      "align_score": 0.9329
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "또한 진행 중인 시험 레지스트리와 관련 논문의 참고 문헌 목록을 검색했습니다.",
+      "en_txt": "In addition, we searched ongoing trials registries and reference lists of relevant papers.",
+      "align_score": 0.8446
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "이 리뷰의 이전 버전에 대해 우리는 Antithrombotic Trialists'(ATT) Collaboration의 레지스터를 검색하고 MedStrategy(1995)에 문의했으며 관련 제약 회사에 문의했습니다.",
+      "en_txt": "For previous versions of this review, we searched the register of the Antithrombotic Trialists' (ATT) Collaboration, consulted MedStrategy (1995), and contacted relevant drug companies.",
+      "align_score": 0.9049
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "24,025명의 참가자가 참여한 28건의 시험을 포함했습니다.",
+      "en_txt": "We included 28 trials involving 24,025 participants.",
+      "align_score": 0.9432
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "시험의 질은 상당히 다양했습니다.",
+      "en_txt": "Quality of the trials varied considerably.",
+      "align_score": 0.8773
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "일부 연구는 선택, 성과, 탐지, 감소 또는 보고 편향의 위험이 불명확하거나 높은 것으로 간주했습니다.",
+      "en_txt": "We considered some studies to be at unclear or high risk of selection, performance, detection, attrition, or reporting bias.",
+      "align_score": 0.8593
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "테스트한 항응고제는 표준 미분획 헤파린, 저분자량 헤파린, 헤파리노이드, 경구 항응고제 및 트롬빈 억제제였습니다.",
+      "en_txt": "Anticoagulants tested were standard unfractionated heparin, low‐molecular‐weight heparins, heparinoids, oral anticoagulants, and thrombin inhibitors.",
+      "align_score": 0.8876
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "증거의 90% 이상이 발병 후 처음 48시간 이내에 시작된 항응고 요법의 효과와 관련이 있습니다.",
+      "en_txt": "Over 90% of the evidence is related to effects of anticoagulant therapy initiated within the first 48 hours of onset.",
+      "align_score": 0.9371
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "조기 항응고 요법이 추적 종료 시 사망 또는 의존 가능성을 감소시켰다는 증거는 없습니다(교차비(OR) 0.98, 95% 신뢰 구간(CI) 0.92~1.03, 12건의 RCT, 22,428명의 참가자, 높은 확실성 근거).",
+      "en_txt": "No evidence suggests that early anticoagulation reduced the odds of death or dependence at the end of follow‐up (odds ratio (OR) 0.98, 95% confidence interval (CI) 0.92 to 1.03; 12 RCTs, 22,428 participants; high‐certainty evidence).",
+      "align_score": 0.9224
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "유사하게, 우리는 뇌졸중 발병 후 첫 14일 이내에 항응고제 요법을 시작했을 때 모든 원인으로 인한 사망 확률이 감소했다는 증거를 찾지 못했습니다(OR 0.99, 95% CI 0.90에서 1.09; 22건의 RCT, 22,602명의 참가자; 낮은 확실성 증거).",
+      "en_txt": "Similarly, we found no evidence suggesting that anticoagulant therapy started within the first 14 days of stroke onset reduced the odds of death from all causes (OR 0.99, 95% CI 0.90 to 1.09; 22 RCTs, 22,602 participants; low‐certainty evidence) during the treatment period.",
+      "align_score": 0.8894
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "조기 항응고 요법이 더 적은 재발성 허혈성 뇌졸중과 관련이 있었지만(OR 0.75, 95% CI 0.65~0.88, 12건의 RCT, 참가자 21,665명, 중간 정도의 확실성 증거), 증상이 있는 두개내 출혈의 증가(OR 2.47, 9 % CI 1.90 ~ 3.21, 20개의 RCT, 23,221명의 참가자, 중간 정도의 확실성).",
+      "en_txt": "Although early anticoagulant therapy was associated with fewer recurrent ischaemic strokes (OR 0.75, 95% CI 0.65 to 0.88; 12 RCTs, 21,665 participants; moderate‐certainty evidence), it was also associated with an increase in symptomatic intracranial haemorrhage (OR 2.47; 95% CI 1.90 to 3.21; 20 RCTs, 23,221 participants; moderate‐certainty evidence).",
+      "align_score": 0.8977
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "유사하게, 조기 항응고는 증상이 있는 폐색전의 빈도를 감소시켰지만(OR 0.60, 95% CI 0.44에서 0.81로; 14건의 RCT, 22,544명의 참가자, 높은 확실성 증거), 이 이점은 두개외 출혈의 증가로 상쇄되었습니다(OR 2.99, 95 % CI 2.24 ~ 3.99, 18건의 RCT, 22,255명의 참가자, 중간 정도의 확실성).",
+      "en_txt": "Similarly, early anticoagulation reduced the frequency of symptomatic pulmonary emboli (OR 0.60, 95% CI 0.44 to 0.81; 14 RCTs, 22,544 participants; high‐certainty evidence), but this benefit was offset by an increase in extracranial haemorrhage (OR 2.99, 95% CI 2.24 to 3.99; 18 RCTs, 22,255 participants; moderate‐certainty evidence).",
+      "align_score": 0.9098
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "이 검토의 마지막 버전 이후 4개의 새로운 관련 연구가 발표되었으며 결론은 일관되게 유지됩니다.",
+      "en_txt": "Since the last version of this review, four new relevant studies have been published, and conclusions remain consistent.",
+      "align_score": 0.9032
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "급성 허혈성 뇌졸중 후 조기 항응고제 치료를 받은 사람들은 순 장단기 이익을 나타내지 않습니다.",
+      "en_txt": "People who have early anticoagulant therapy after acute ischaemic stroke do not demonstrate any net short‐ or long‐term benefit.",
+      "align_score": 0.8506
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "항응고제 치료는 뇌졸중 재발, 심부정맥 혈전증, 폐색전증을 감소시켰지만 출혈 위험은 증가시켰습니다.",
+      "en_txt": "Treatment with anticoagulants reduced recurrent stroke, deep vein thrombosis, and pulmonary embolism but increased bleeding risk.",
+      "align_score": 0.8393
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "데이터는 급성 허혈성 뇌졸중에 대해 현재 사용 가능한 항응고제의 일상적인 사용을 뒷받침하지 않습니다.",
+      "en_txt": "Data do not support the routine use of any of the currently available anticoagulants for acute ischaemic stroke.",
+      "align_score": 0.8776
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "리뷰 질문 우리는 뇌졸중이 발생한 직후 항응고제(혈액 희석제)로 치료한 사람들이 호전되었는지 여부와 출혈 문제가 있는지 여부를 알고 싶었습니다.",
+      "en_txt": "Review question We wanted to know whether people treated with anticoagulants (blood‐thinning drugs) soon after having a stroke got better or not, and whether they had problems with bleeding.",
+      "align_score": 0.8781
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "배경 매년 전 세계 수백만 명의 사람들이 뇌졸중에 걸립니다.",
+      "en_txt": "Background Millions of people around the world have a stroke every year.",
+      "align_score": 0.8982
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "대부분의 뇌졸중은 혈전이 뇌로 통하는 혈관을 막을 때 일어난다.",
+      "en_txt": "Most strokes take place when a blood clot blocks a blood vessel leading to the brain.",
+      "align_score": 0.8951
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌로의 혈액 공급이 제한되거나 차단되면 뇌 세포가 죽기 시작합니다.",
+      "en_txt": "When the blood supply to the brain is restricted or blocked, brain cells begin to die.",
+      "align_score": 0.9237
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이것은 영구적일 수 있는 뇌 손상으로 이어져 장애와 사망을 유발할 수 있습니다.",
+      "en_txt": "This can lead to brain injury, which can be permanent, causing disability and possibly death.",
+      "align_score": 0.9073
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌졸중으로 인한 손상은 팔이나 다리의 쇠약, 언어 또는 시각 장애를 유발할 수 있습니다.",
+      "en_txt": "Damage from a stroke can cause arm or leg weakness, or difficulties with language or vision.",
+      "align_score": 0.8572
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌졸중은 때때로 치명적이지만 생존자들이 예전에 하던 일을 할 수 없게 만드는 경우가 더 많습니다.",
+      "en_txt": "Strokes are sometimes fatal but more often leave survivors unable to do the things they used to do.",
+      "align_score": 0.8804
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌졸중은 흔하고 그러한 손상을 유발하기 때문에 연구자들은 뇌졸중이 발생한 직후 혈전을 제거하는 방법을 찾고 있습니다.",
+      "en_txt": "Because strokes are common and cause such damage, researchers are looking at ways to get rid of the blood clot soon after the stroke happens.",
+      "align_score": 0.853
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이를 수행하는 한 가지 방법은 항응고제라고 하는 혈액 희석제를 사용하는 것입니다.",
+      "en_txt": "One way to do this is to use blood‐thinning drugs called anticoagulants.",
+      "align_score": 0.8639
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "환자가 항응고제에 잘 반응하면 뇌졸중의 나쁜 영향을 피할 수 있습니다.",
+      "en_txt": "If patients respond well to anticoagulants, they might be able to avoid the bad effects of a stroke.",
+      "align_score": 0.8911
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "항응고제의 주요 문제는 출혈을 일으키면 환자가 이로 인해 매우 심각한 결과를 초래할 수 있다는 것입니다.",
+      "en_txt": "The main problem with anticoagulants is that if they cause bleeding, the patient can have very serious outcomes from this.",
+      "align_score": 0.8758
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "검색 날짜 증거는 2021년 8월까지입니다.",
+      "en_txt": "Search date The evidence is current to August 2021.",
+      "align_score": 0.914
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "연구 특성 최선의 답을 찾기 위해 연구자들이 항응고제를 다른 약, 활성 성분을 포함하지 않는 더미 약(위약) 또는 일반 치료와 비교한 연구를 찾았습니다.",
+      "en_txt": "Study characteristics To find the best answer, we looked for studies in which investigators compared any anticoagulant to another medicine, to a dummy medicine that does not contain any active ingredients (placebo), or to normal care.",
+      "align_score": 0.8394
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비교를 공정하게 하기 위해, 이 연구의 모든 환자는 항응고제, 다른 치료 또는 정상적인 치료를 받을 동일한 무작위 기회(예: 동전 던지기)를 가졌어야 합니다.",
+      "en_txt": "To make the comparison fair, all patients in these studies must have had the same random chance (like the flip of a coin) to receive the anticoagulant, the other treatment, or normal care.",
+      "align_score": 0.8816
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "우리는 이 업데이트된 리뷰에 뇌졸중 환자 24,025명을 대상으로 하는 28건의 연구를 포함했습니다.",
+      "en_txt": "We included in this updated review 28 studies involving 24,025 people with stroke.",
+      "align_score": 0.9285
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "2건의 연구는 뇌졸중 발병 후 12시간 이내, 4건은 24시간 이내, 10건은 48시간 이내 참가자를 등록했습니다.",
+      "en_txt": "Two studies enrolled participants within 12 hours of stroke onset, four within 24 hours, and 10 within 48 hours.",
+      "align_score": 0.9174
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "주요 결과 항응고제로 치료받은 사람들은 장기 장애가 덜하지 않았으며 더 많은 출혈을 경험했습니다.",
+      "en_txt": "Key results People treated with anticoagulants did not have less long‐term disability, and they experienced more bleeding.",
+      "align_score": 0.8761
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "항응고제 치료를 받은 환자는 뇌졸중 후 다리와 폐에 혈전이 발생할 가능성이 적었지만 출혈 횟수가 증가하여 이러한 이점이 상쇄되었습니다.",
+      "en_txt": "Anticoagulant‐treated patients had a lesser chance of developing blood clots in their legs and in their lungs following their stroke, but these benefits were offset by an increased number of bleeds.",
+      "align_score": 0.8921
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "근거의 확실성 우리는 증거의 확실성을 평가하기 위해 표준 방법을 사용했습니다.",
+      "en_txt": "Certainty of the evidence We used standard methods to assess the certainty of the evidence.",
+      "align_score": 0.9293
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "우리는 연구 방법, 연구에 포함된 참가자 수, 연구 전반에 걸친 결과의 일관성과 같은 요소를 기반으로 증거에 대한 신뢰도를 평가했습니다.",
+      "en_txt": "We rated our confidence in the evidence based on factors such as study methods, numbers of participants included in the studies, and consistency of findings across studies.",
+      "align_score": 0.9104
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "증거가 확실하지 않다는 것은 결과에 대해 불확실하다는 것을 의미합니다.",
+      "en_txt": "Low‐certainty evidence means we are uncertain about the results.",
+      "align_score": 0.8348
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "마찬가지로, 높은 확실성 증거는 우리가 이 검토의 결과에 대해 매우 확신한다는 것을 의미합니다.",
+      "en_txt": "In the same way, high‐certainty evidence means we are very certain about the results of this review.",
+      "align_score": 0.8974
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "결론 이 검토에서는 항응고제의 조기 사용이 혈전으로 인한 뇌졸중 환자에게 전반적으로 유익하다는 증거를 제공하지 않았습니다.",
+      "en_txt": "Conclusion This review did not provide any evidence to suggest that early use of anticoagulants is beneficial overall for people with stroke caused by blood clots.",
+      "align_score": 0.8865
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "출혈 합병증을 겪지 않고 항응고제를 가장 많이 사용할 수 있는 뇌졸중 환자를 선택하는 방법이 있는지 알아보려면 더 많은 연구가 필요합니다.",
+      "en_txt": "More research is needed to find out if there are ways to select people with stroke who will benefit most from anticoagulants without suffering the bleeding complications.",
+      "align_score": 0.8585
+    }
+  ]
+}

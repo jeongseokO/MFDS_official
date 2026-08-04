@@ -1,0 +1,628 @@
+{
+  "document_id": "ke_ich_meeting_0003",
+  "meta": {
+    "set": "KE",
+    "source_folder": "3",
+    "source_code": "ich_meeting",
+    "source_name": "ICH 미팅보고서",
+    "orig_doc_id": "13_상반기_ICH회의보고서",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 미팅보고서",
+    "title_ko": "2013년 상반기 의약품국제조화회의(ICH) 참석 결과 보고(요약)",
+    "title_en": "ICH Meeting Report for 1st Half of 2013 [Summary]",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": null,
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 0,
+      "type": "title",
+      "section": null,
+      "path": {
+        "ko": [],
+        "en": []
+      },
+      "ko_txt": "2013년 상반기 의약품국제조화회의(ICH) 참석 결과 보고(요약)",
+      "en_txt": "ICH Meeting Report for 1st Half of 2013 [Summary]",
+      "align_score": null
+    },
+    {
+      "seg_id": 1,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": "회의개요",
+      "en_txt": "Meeting Overview",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": {
+        "ICH": [
+          {
+            "key": "일정",
+            "value": "’13. 6. 2(일) ～ 6. 6(목)"
+          },
+          {
+            "key": "장소",
+            "value": "벨기에(브뤼셀)"
+          }
+        ],
+        "우리처 대표단": [
+          {
+            "key": "ICH-GCG 식약처 대표(DRA)",
+            "value": "이선희 부장(의약품심사부)"
+          },
+          {
+            "key": "ICH-GCG APEC 부대표(RHI)",
+            "value": "김정미 사무관(의약품심사조정과)"
+          },
+          {
+            "key": "ICH-GCG 식약처 부대표(DRA)",
+            "value": "박은혜 주무관(의약품심사조정과)"
+          },
+          {
+            "key": "전문위원회대표(Q3D)",
+            "value": "김은경 연구관(의약품규격과)"
+          },
+          {
+            "key": "전문위원회대표(S10)",
+            "value": "안미령 연구관(종양약품과)"
+          },
+          {
+            "key": "전문위원회대표(S1)",
+            "value": "이종권 연구관(독성연구과)"
+          }
+        ]
+      },
+      "en_txt": {
+        "ICH": [
+          {
+            "key": "Date",
+            "value": "June 2(Sun) - 6(Thu), 2013"
+          },
+          {
+            "key": "Location",
+            "value": "Belgium (Brussels)"
+          }
+        ],
+        "MFDS Representatives": [
+          {
+            "key": "ICH-GCG Korean head representative (DRA)",
+            "value": "Sun Hee Lee, Director General (Drug Evaluation Department)"
+          },
+          {
+            "key": "ICH-GCG APEC Deputy representative (RHI)",
+            "value": "Jeong Mi Kim, Deputy Director (Drug Review Management Division)"
+          },
+          {
+            "key": "ICH-GCG Korean deputy representative (DRA)",
+            "value": "Eun Hye Park, Assistant Director (Drug Review Management Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Eun Kyung Kim, Deputy Director (Pharmaceutical Standardization Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Mee Ryung Ahn, Deputy Director (Oncology and Antimicrobial Products Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Jong Kwon Lee, Director (Toxicological Screening & Testing Division)"
+          }
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용"
+        ],
+        "en": [
+          "Meeting Summary"
+        ]
+      },
+      "ko_txt": "주요내용",
+      "en_txt": "Meeting Summary",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates"
+        ]
+      },
+      "ko_txt": "우리처 활동",
+      "en_txt": "MFDS Regulatory Updates",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates"
+        ]
+      },
+      "ko_txt": "의약품규제당국대표 회의 의장으로 우리나라 선정(‘13.11.부터)",
+      "en_txt": "MFDS will serve International Pharmaceutical Regulators Forum (IPRF) chiarmanship from November 2013",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "우리나라의 바이오시밀러 상황 발표"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "MFDS Update on Biosimilars in Korea"
+        ]
+      },
+      "ko_txt": "우리나라의 바이오시밀러 상황 발표",
+      "en_txt": "MFDS Update on Biosimilars in Korea",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "우리나라의 바이오시밀러 상황 발표"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "MFDS Update on Biosimilars in Korea"
+        ]
+      },
+      "ko_txt": "좋은 반응을 얻었으며, 추후 국제협력과제 중 하나로 제안됨",
+      "en_txt": "Received good response for its activities and suggested the area as one of the future international cooperation activities",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates"
+        ]
+      },
+      "ko_txt": "우리나라의 ICH 전면 실행 로드맵, ICH 가이드라인을 적용 시 우선순위에 대한 사항 발표",
+      "en_txt": "Made a presentation on MFDS’ roadmap for the implementation of all ICH Guidelines and priority in implementation",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "아시아태평양지역 규제조화 협력 경과보고(서면보고)"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Update on cooperation for regulatory harmonization in APEC"
+        ]
+      },
+      "ko_txt": "아시아태평양지역 규제조화 협력 경과보고(서면보고)",
+      "en_txt": "Update on cooperation for regulatory harmonization in APEC",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "아시아태평양지역 규제조화 협력 경과보고(서면보고)"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Update on cooperation for regulatory harmonization in APEC"
+        ]
+      },
+      "ko_txt": "‘13년 아시아태평양경제협력체(APEC) 규제조화센터 운영보고",
+      "en_txt": "Update on APEC Harmonization Center’s activities in 2013",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "아시아태평양지역 규제조화 협력 경과보고(서면보고)"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Update on cooperation for regulatory harmonization in APEC"
+        ]
+      },
+      "ko_txt": "불법위조의료제품 퇴치를 위한 국가 간 단일연락체계 구축에 대한 워크숍 개최(‘13.5)",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "‘유해물질기준 협의체’ 에 ICH 가이드라인 개정 요청"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Proposed to revise Q3C Expert Working Group"
+        ]
+      },
+      "ko_txt": "‘유해물질기준 협의체’ 에 ICH 가이드라인 개정 요청",
+      "en_txt": "Proposed to revise Q3C Expert Working Group",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "‘유해물질기준 협의체’ 에 ICH 가이드라인 개정 요청"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Proposed to revise Q3C Expert Working Group"
+        ]
+      },
+      "ko_txt": "잔류용매 가이드라인(1급 발암물질(예. 포름알데히드)을 추가 요청 (제안국가: 한국)",
+      "en_txt": "Q3C Impurities: Guideline for Residual Solvents (Requested to add IARC Group 1 Carcinogens (e.g. formaldehyde)) (Proposed by Korea)",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "ICH 가이드라인에 대한 교육 요청"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Request for ICH Guideline Training"
+        ]
+      },
+      "ko_txt": "ICH 가이드라인에 대한 교육 요청",
+      "en_txt": "Request for ICH Guideline Training",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "ICH 가이드라인에 대한 교육 요청"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Request for ICH Guideline Training"
+        ]
+      },
+      "ko_txt": "안전성정보 수집 가이드라인(E2C), GMP 가이드라인(Q7) 교육 요청",
+      "en_txt": "Request for training on Periodic Benefit-Risk Evaluation Guideline (E2C) and Good Manufacturing Practice Guideline (Q7)",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "ICH 가이드라인에 대한 교육 요청"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Request for ICH Guideline Training"
+        ]
+      },
+      "ko_txt": "공통 교육 요청분야인 QbD은 개념이 아닌 사례중심의 교육 요청",
+      "en_txt": "Many requests for Quality by Design (QbD) training especially focusing on cases rather than concept",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리처 활동",
+          "ICH 가이드라인에 대한 교육 요청"
+        ],
+        "en": [
+          "Meeting Summary",
+          "MFDS Regulatory Updates",
+          "Request for ICH Guideline Training"
+        ]
+      },
+      "ko_txt": "안전성정보 수집 가이드라인에 대해서는 7월 APEC 규제조화운영위원회와 논의 후 일정준비",
+      "en_txt": "Details including schedule for E2C training will be discussed with APEC Regulatory Harmonization Steering Committee (RHSC) in July",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues"
+        ]
+      },
+      "ko_txt": "주요 논의 내용",
+      "en_txt": "Main Issues",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "규제자포럼이 확대 개편됨으로 인하여 기존 비ICH 회원국외에 국제협력과제에 참여하고 싶은 모든 나라에게 참여 기회 제공"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "With the reform of IPRF (expansion), any former non-ICH members are now qualified to participate in international cooperative tasks."
+        ]
+      },
+      "ko_txt": "규제자포럼이 확대 개편됨으로 인하여 기존 비ICH 회원국외에 국제협력과제에 참여하고 싶은 모든 나라에게 참여 기회 제공",
+      "en_txt": "With the reform of IPRF (expansion), any former non-ICH members are now qualified to participate in international cooperative tasks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "규제자포럼이 확대 개편됨으로 인하여 기존 비ICH 회원국외에 국제협력과제에 참여하고 싶은 모든 나라에게 참여 기회 제공"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "With the reform of IPRF (expansion), any former non-ICH members are now qualified to participate in international cooperative tasks."
+        ]
+      },
+      "ko_txt": "의장, 사무국: 스위스(1년), 부의장: 일본",
+      "en_txt": "Chair, Secretariat: Switzerland (1 year), Vice-Chair: Japan",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues"
+        ]
+      },
+      "ko_txt": "규제자포럼에서 새로운 협력과제로 공급중단의약품관리제도(Drug Shortage) 분야 선정",
+      "en_txt": "Chose Drug Shortage Management System as new collaborative task in IPRF",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues"
+        ]
+      },
+      "ko_txt": "MedDRA 홈페이지 개편 예정",
+      "en_txt": "MedDRA webpage will be renewed",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues"
+        ]
+      },
+      "ko_txt": "각 국가 및 지역의 ICH 가이드라인 도입현황, 도입계획/우선순위에 대한 자료 공유",
+      "en_txt": "Each country and region shared the implementation status of ICH Guidelines and implementation plan and/or priority",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "WHO 가이드라인 도입과의 사례비교"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Comparison with the implementation of WHO Guidelines"
+        ]
+      },
+      "ko_txt": "WHO 가이드라인 도입과의 사례비교",
+      "en_txt": "Comparison with the implementation of WHO Guidelines",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "WHO 가이드라인 도입과의 사례비교"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Comparison with the implementation of WHO Guidelines"
+        ]
+      },
+      "ko_txt": "WHO는 각 지역 대표부를 중심으로 지역국가와의 업무협력을 활발히 진행",
+      "en_txt": "WHO actively cooperates with countries in different region centering around on Regional Offices",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "WHO 가이드라인 도입과의 사례비교"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Comparison with the implementation of WHO Guidelines"
+        ]
+      },
+      "ko_txt": "WHO 가이드라인 개발 시 지역 전문가의 적극 참여로 최종 가이드라인의 주인 인식으로 각국의 도입이 수월",
+      "en_txt": "The implementation is simply done by member countries based on ownership of guidelines because experts in each region participated in the whole process of development of WHO guidelines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "WHO 가이드라인 도입과의 사례비교"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Comparison with the implementation of WHO Guidelines"
+        ]
+      },
+      "ko_txt": "WHO는 World Health Assembly Platform들을 통해 지역국가의 의견을 수렴하여 최종 가이드라인 마련 등 지역 맞춤의 유연한 절차 운영",
+      "en_txt": "WHO has a regional-specific and flexible process in terms of the development of guidelines and one example is public consultation conducted by World Health Assembly Platform",
+      "align_score": null
+    }
+  ]
+}

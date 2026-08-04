@@ -1,0 +1,874 @@
+{
+  "document_id": "ke_law_0010",
+  "meta": {
+    "set": "KE",
+    "source_folder": "2",
+    "source_code": "law",
+    "source_name": "법령",
+    "orig_doc_id": "ACT ON REGULATORY SCIENCE INNOVATION FOR SUPPORTING FOOD AND DRUG SAFETY AND COMMERCIALIZATION (1)",
+    "category_l1": "규제·지침",
+    "category_l2": "법령·고시",
+    "category_l3": "법령",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법은 식품ㆍ의약품 등의 안전한 사용과 신속한 제품화를 위하여 식품ㆍ의약품 등의 안전관리를 규제과 학에 기반하여 합리적으로 수행함으로써 국민이 안전하고 건강한 삶을 영위하는 데 이바지함을 목적으로 한다.",
+      "en_txt": "The purpose of this Act is to contribute to enabling citizens to lead safe and healthy lives by reasonably managing the safety of foods, drugs, etc. based on regulatory science for the safe use of foods, drugs, etc. and the prompt commercialization thereof.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법에서 사용하는 용어의 뜻은 다음과 같다.",
+      "en_txt": "The terms used in this Act are defined as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 식품ㆍ의약품 등 해당 여부 및 적용 가능 법령",
+      "en_txt": "1. The term “foods, drugs, etc.” means any of the following:",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. “식품ㆍ의약품 등”이란 다음 각 목의 어느 하나에 해당하는 것을 말한다. 가. 「식품위생법」에 따른 식품, 식품첨가물, 기구 또는 용기ㆍ포장 나. 「농수산물 품질관리법」에 따른 농수산물 및 농수산가공품 다. 「축산물 위생관리법」에 따른 축산물 라. 「주세법」에 따른 주류(酒類) 마. 「건강기능식품에 관한 법률」에 따른 건강기능식품 바. 「약사법」에 따른 의약품(동물용 의약품은 제외한다), 한약, 한약제제(韓藥製劑) 및 의약외품(醫藥外品)(동물용 의약외품은 제외한다) 사. 「마약류 관리에 관한 법률」에 따른 마약류 아. 「화장품법」에 따른 화장품 자. 「의료기기법」에 따른 의료기기(동물용 의료기기는 제외한다) 차. 「위생용품 관리법」에 따른 위생용품 카. 그 밖에 가목부터 차목까지에서 규정한 것과 유사한 것으로서 대통령령으로 정하는 것",
+      "en_txt": "(f) Drugs (excluding veterinary drugs), herbal medicines, herbal medication, and quasi-drugs (excluding veterinary quasi-drugs) as defined in the Pharmaceutical Affairs Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. “식품ㆍ의약품 등의 규제과학”이란 식품ㆍ의약품 등의 안전성, 유효성, 품질, 성능 등의 평가부터 인가ㆍ허가 및 사용에 이르기까지 안전관리 전반에 대한 기술, 기준 및 접근방법 등에 관한 과학을 말한다.",
+      "en_txt": "2. The term \"regulatory science for foods, drugs, etc.\" means science related to technologies, standards, and approaches in all aspects of safety management, ranging from the evaluation in terms of safety, efficacy, quality, performance, etc. of foods, drugs, etc. to authorization, permission, and use;",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. “규제과학혁신”이란 식품ㆍ의약품 등의 규제과학(이하 “규제과학”이라 한다) 진흥을 위하여 제7조에 따른 연구개 발사업 및 제14조에 따른 전문인력 양성 사업을 추진하고 그 성과물을 안전관리, 제품화 지원 등에 활용함으로써 식품ㆍ의약품 등의 안전한 사용과 신속한 제품화에 필요한 합리적인 규제 기반을 조성하여 나가는 일련의 과정 을 말한다.",
+      "en_txt": "3. The term \"regulatory science innovation\" means a series of processes in which a reasonable regulatory foundation is created to ensure the safe use of foods, drugs, etc. and prompt commercialization thereof by promoting research and development programs under Article 7 and programs for training specialized  human resources under Article 14 and by utilizing the outcomes therefrom in order to promote regulatory science for foods, drugs, etc. (hereinafter referred to as \"regulatory science\").",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "국가는 식품ㆍ의약품 등이 신속하게 제품화되어 국민이 안전하게 사용할 수 있도록 평가 기준과 방 법 등을 지속적으로 개발하고 전문인력을 양성하며 개발 초기 단계부터 제품화를 지원하는 등 규제과학혁신을 위하 여 노력하여야 한다.",
+      "en_txt": "The State shall endeavor to innovate regulatory science, constantly developing evaluation standards, methods, etc., training specialized human resources, providing support for commercialization from the initial stage of development so that foods, drugs, etc. are quickly commercialized for the safe use by citizens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "규제과학과 규제과학혁신에 관하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따른다.",
+      "en_txt": "Except as provided in other statutes, this Act shall apply to regulatory science and to regulatory science innovation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 관계 중앙행정기관의 장과 협의를 거쳐 5년마다 규제과 학혁신을 위한 기본계획(이하 “기본계획”이라 한다)을 수립하여야 한다. 이 경우 제6조에 따른 식품ㆍ의약품규제과 학혁신위원회 및 「국가과학기술자문회의법」에 따른 국가과학기술자문회의의 심의를 거쳐야 한다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety shall formulate a five-year mater plan for regulatory science innovation (hereinafter referred to as “master plan”), in consultation with the heads of the related central administrative agencies. In such cases, the master plan shall undergo deliberation by the Regulatory Science Innovation Committee for Foods and Drugs under Article 6 and the Presidential Advisory Council on Science and Technology under the Presidential Advisory Council on Science and Technology Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 기본계획에는 다음 각 호의 사항이 포함되어야 한다. 식품ㆍ의약품 등의 안전 및 제품화 지원에 관한 규제과학혁신법",
+      "en_txt": "(2) A master plan shall include the following matters:",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 규제과학혁신의 방향과 목표",
+      "en_txt": "1. Direction and objectives of regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 규제과학혁신 관련 국내외 환경 분석",
+      "en_txt": "2. Analysis of domestic and global environments of regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 규제과학혁신 관련 핵심 전략",
+      "en_txt": "3. Core strategies related to regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 규제과학혁신을 위한 재원의 확보 및 배분에 관한 사항",
+      "en_txt": "4. Matters related to securing and distributing financial resources for regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 제7조에 따른 연구개발사업의 추진에 관한 사항",
+      "en_txt": "5. Matters related to promoting research and development programs under Article 7;",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 혁신제품(새로운 기술을 이용한 식품ㆍ의약품 등을 말한다. 이하 같다)의 제품화 지원에 관한 사항",
+      "en_txt": "6. Matters related to support for the commercialization of innovative products (referring to foods, drugs, etc. utilizing new technology; hereinafter the same shall apply);",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 제14조에 따른 전문인력 양성에 관한 사항",
+      "en_txt": "7. Matters related to training specialized human resources referred to in Article 14;",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "8. 그 밖에 규제과학혁신을 위하여 식품의약품안전처장이 필요하다고 인정하는 사항",
+      "en_txt": "8. Other matters deemed by the Minister of Food and Drug Safety to be necessary for regulatory science innovation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 기본계획 수립을 위하여 필요한 경우 관계 중앙행정기관의 장, 지방자치단체의 장, 기업 ㆍ교육기관ㆍ연구기관의 장, 규제과학혁신 관련 기관ㆍ단체의 장에게 필요한 자료의 제출 등 협조를 요청할 수 있 다.",
+      "en_txt": "(3) Where necessary for formulating a master plan, the Minister of Food and Drug Safety may request that the heads of relevant central administrative agencies, the heads of local governments, the heads of enterprises, educational institutions or research institutes, and the heads of institutions or organizations  related to regulatory science innovation provide cooperation, such as submission of necessary data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 기본계획에 따라 연도별 시행계획(이하 “시행계획”이라 한다)을 수립하고 시행하여야 한 다.",
+      "en_txt": "(4) The Minister of Food and Drug Safety shall formulate and implement an annual action plan (hereinafter referred to as “action plan”) in compliance with a master plan.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 기본계획과 시행계획의 수립 및 시행에 필요한 사항은 대통령령으로 정한다.",
+      "en_txt": "(5) Matters necessary for the formulation and implementation of a master plan and an action plan shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 규제과학혁신에 관한 다음 각 호의 사항을 심의하기 위하여 식품의약품안 전처장 소속으로 식품ㆍ의약품규제과학혁신위원회(이하 “위원회”라 한다)를 둔다.",
+      "en_txt": "(1) The Regulatory Science Innovation Committee for Foods and Drugs (hereinafter referred to as the “Committee”) shall be established under the jurisdiction of the Minister of Food and Drug Safety to deliberate on the following matters with regard to regulatory science innovation:",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 기본계획 및 시행계획에 관한 사항",
+      "en_txt": "1. Matters related to a master plan and an action plan;",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 규제과학혁신에 필요한 주요 정책 수립 및 조정에 관한 사항",
+      "en_txt": "2. Matters related to the formulation and adjustment of major policies for regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 규제과학혁신 관련 예산투자 방향에 관한 사항",
+      "en_txt": "3. Matters related to direction-setting for budget investment for regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제7조에 따른 연구개발사업의 추진, 혁신제품의 제품화 지원 및 제14조에 따른 전문인력 양성에 관한 사항",
+      "en_txt": "4. Matters related to the promotion of research and development programs under Article 7, support for the commercialization of innovative products, and training of professional human resources under Article 14;",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 규제과학혁신 성과관리에 관한 사항",
+      "en_txt": "5. Matters related to the management of performance in regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 그 밖에 규제과학혁신과 관련하여 식품의약품안전처장이 심의에 부치는 사항",
+      "en_txt": "6. Other matters related to regulatory science innovation submitted by the Minister of Drug and Safety for deliberation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 위원회를 구성하는 경우에는 공무원이 아닌 자로서 규제과학 또는 규제과학혁신에 관한 학식과 경험이 풍부한 전문가가 전체 위원의 과반수가 되도록 하여야 한다.",
+      "en_txt": "(2) It shall be ensured that a majority of the total members of the Committee are comprised of experts with the extensive knowledge of and experience in regulatory science or regulatory science innovation, who are not public officials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 그 밖에 위원회의 구성 및 운영 등에 필요한 사항은 대통령령으로 정한다.",
+      "en_txt": "(3) Other matters necessary for the organization, operation, etc. of the Committee shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 식품ㆍ의약품 등이 신속하게 제품화되어 국민이 안전하게 사용 하는 데 필요한 새로운 평가 기술ㆍ기준 및 방법 등의 과학적 근거를 개발하는 등 식품ㆍ의약품 등의 안전관리를 합 리적으로 수행하기 위하여 필요한 연구개발사업(이하 “연구개발사업”이라 한다)을 한다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety shall conduct research and development programs necessary to reasonably manage the safety of foods, drugs, etc. (hereinafter referred to as \"research and development program\"), such as developing scientific grounds for new evaluation technologies, standards, methods, etc. necessary for the prompt commercialization of foods, drugs, etc. so that citizens can safely use them.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 연구개발사업을 할 때에 연도별ㆍ분야별 연구과제를 선정하여 다음 각 호의 기관이나 단 체 등(이하 “연구개발기관”이라 한다)과 협약을 맺어 연구개발기관으로 하여금 연구하게 할 수 있다. 이 경우 제5호 의 기관이 법인이 아닌 경우에는 그 기관이 속한 법인과 협약을 맺을 수 있다.",
+      "en_txt": "(2) In implementing research and development programs, the Minister of Food and Drug Safety may select a research task by year and field and conclude an agreement with the following institutes, organizations, etc.  (hereinafter referred to as “research and development institute”) to have them conduct research. In such cases, the Minister may enter into an agreement with the corporation with which an institute specified in subparagraph 5 is affiliated, if such institute is a non-corporate entity:",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 국공립 연구기관",
+      "en_txt": "1. A national or public research institute;",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「특정연구기관 육성법」 제2조에 따른 특정연구기관",
+      "en_txt": "2. A specific research institute as defined in Article 2 of the Specific Research Institutes Support Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 「정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률」에 따라 설립된 정부출연연구기관 또는 「과학기술분 야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률」에 따라 설립된 과학기술분야 정부출연연구기관",
+      "en_txt": "3. A Government-funded research institute established pursuant to the Act on the Establishment, Operation and Fostering of Government-Funded Research Institutes or a Government-funded science and technology research institute established pursuant to the Act on the Establishment, Operation and Fostering of Government-Funded Science and Technology Research Institutes;",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 「고등교육법」 제2조에 따른 학교",
+      "en_txt": "4. A school as defined in Article 2 of the Higher Education Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 연구인력 등이 대통령령으로 정하는 기준에 해당하는 기업부설연구소",
+      "en_txt": "5. A company-affiliated research institute that satisfies the requirements prescribed by Presidential Decree, in terms of research personnel and others;",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 「민법」이나 다른 법률에 따라 설립된 법인인 연구기관으로서 연구인력 등이 대통령령으로 정하는 기준에 해당하 는 연구기관 식품ㆍ의약품 등의 안전 및 제품화 지원에 관한 규제과학혁신법",
+      "en_txt": "6. A research institute that satisfies the requirements prescribed by Presidential Decree, in terms of research personnel and others, being a corporate research institute established pursuant to the Civil Act or other statutes;",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 그 밖에 규제과학 분야의 연구기관 또는 단체로서 연구인력 등이 대통령령으로 정하는 기준에 해당하는 연구기 관 또는 단체",
+      "en_txt": "7. Other research institutes or organizations specializing in the field of regulatory science for foods, drugs, etc., that satisfy the requirements prescribed by Presidential Decree, in terms of research personnel and others.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제2항에 따른 연구에 필요한 비용은 정부가 지원하는 연구개발비나 정부 외의 연구개발기관이 부담하는 연구개 발비, 그 밖에 기업의 기술개발비로 충당한다.",
+      "en_txt": "(3) Expenses incurred in conducting research under paragraph (2) shall be covered by Government contributions, non-governmental contributions by research and development institutes, and technology development funds from corporations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 연구개발사업을 효율적으로 추진하기 위하여 대통령령으로 정하는 기관 또는 단체(이하 “전문기관”이라 한다)로 하여금 다음 각 호의 업무를 대행하게 할 수 있다.",
+      "en_txt": "(4) To efficiently implement research and development programs, the Minister of Food and Drug Safety may authorize an institution or organization prescribed by Presidential Decree (hereinafter referred to as “specialized institution”) to perform the following duties on his or her behalf:",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 연구개발사업의 기획ㆍ관리 및 평가",
+      "en_txt": "1. Planning, management, and evaluation of research and development programs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제2항에 따른 연구과제에 대한 협약",
+      "en_txt": "2. Entering into agreements on the research tasks under paragraph (2);",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 연구개발사업을 통하여 개발된 기술의 보급",
+      "en_txt": "3. Dissemination of technology developed through research and development programs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 식품의약품안전처장이 연구개발과 관련된 업무 중 전문기관이 대행하도록 결정하는 사항",
+      "en_txt": "4. Other business affairs related to research and development, which are determined by the Minister of Food and Drug Safety to be handled by a specialized institution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 제2항에 따른 연구과제의 선정방법, 협약의 체결방법에 관하여 필요한 사항은 대통령령으로 정한다.",
+      "en_txt": "(5) Matters regarding the methods for selecting research tasks and entering into agreements under paragraph (2) and other necessary matters shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 제7조제2항에 따른 연구를 수행하는 데 드는 비용을 충당하게 하기 위하여 예 산의 범위에서 연구개발기관에 출연금을 지급할 수 있다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety may award financial contributions, within the budget, to research and development institutes to help them cover the expenses incurred in conducting research pursuant to Article 7 (2).",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 출연금의 지급ㆍ사용ㆍ관리에 필요한 사항은 대통령령으로 정한다.",
+      "en_txt": "(2) Matters necessary for the award, use, and management of the financial contributions referred to in paragraph (1) shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 연구개발사업을 효율적으로 관리하기 위하여 분류체계 를 작성하여 관리하고, 지속적으로 보완ㆍ발전시켜야 한다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety shall prepare and manage a classification system to efficiently manage research and development programs and shall continuously supplement and develop such system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제7조부터 제9조까지의 연구개발사업 추진과 관련하여 이 장에서 따로 정하 지 아니한 사항에 대하여는 「국가연구개발혁신법」 등 국가과학기술 연구개발사업 관련 규정을 따르거나 준용한다.",
+      "en_txt": "(2) Matters necessary for the preparation and management of the classification system referred to in paragraph (1) and other matters shall be prescribed by Ordinance of the Prime Minister. Article 10 (Application Mutatis Mutandis of the National Research and Development Innovation Act) Except as provided in this Chapter, the relevant provisions of the National Research and Development Innovation Act and other statutes or regulations pertaining to national science and technology research and development programs shall apply, or apply mutatis mutandis, to matters regarding the implementation of research and development programs under Articles 7 through 9.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 혁신제품 개발의 효과성을 높이고 안전하고 신속한 시장 진입을 지원하기 위하여 연구개발사업 등을 통하여 개발된 평가기준 등이 혁신제품의 개발 계획 단계부터 적용되도 록 협력하여야 한다.",
+      "en_txt": "(1) To enhance the effectiveness of the development of innovative products and support their prompt entry into the market, the Minister of Food and Drug Safety shall cooperate so that the evaluation standards developed through research and development programs can be adopted from the development stage of such innovative products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 혁신제품의 안전성, 효과성, 품질 등에 대한 평가기준 등을 식품의약품안전처장이 정하는 바에 따라 공개할 수 있다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety may disclose to the public the standards for evaluation in terms of safety, efficacy, quality, etc. of innovative products, as prescribed by the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 혁신제품의 개발을 위하여 「국가연구개발혁신법」 제2조에 따른 국가연구개발사업을 추진 하거나 추진할 예정인 중앙행정기관의 장은 해당제품의 안전성, 유효성, 품질 등에 대한 다음 각 호의 사항을 검토 (이하 “규제정합성 검토”라 한다)하여 줄 것을 식품의약품안전처장에게 요청할 수 있다.",
+      "en_txt": "(1) For the development of an innovative product, the head of a central administrative agency who has promoted, or is expected to promote, a national research and development program under Article 2 of the National Research and Development Innovation Act may request that the Minister of Food and Drug Safety examine the following matters related to the safety, efficacy, quality, etc. of the relevant product (hereinafter referred to as \"examination of regulatory coherence\"):",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 혁신제품 개발에 필요한 평가 기준 및 방법, 요건",
+      "en_txt": "2. Evaluation standards, methods, and requirements necessary for the development of an innovative product;",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 식품의약품안전처와의 공동 연구개발사업 추진 필요 여부",
+      "en_txt": "3. Whether it is necessary to implement a research and development program jointly with the Ministry of Food and Drug Safety;",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 식품의약품안전처장이 필요하다고 인정하는 사항",
+      "en_txt": "4. Other matters the Minister of Food and Drug Safety deems necessary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따라 규제정합성 검토를 요청받은 경우 이를 검토하고 그 결과를 요청한 중앙행 정기관의 장에게 알려주어야 한다.",
+      "en_txt": "(2) Upon receipt of a request for the examination of regulatory coherence under paragraph (1), the Minister of Food and Drug Safety shall conduct examination and inform the head of the central administrative agency who has made such request of the results thereof.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 규제정합성 검토와 관련하여 관계 중앙행정기관의 장에게 필요한 자료의 요청 등을 할 수 있으며, 해당 중앙행정기관의 장은 특별한 사유가 없으면 협조하여야 한다.",
+      "en_txt": "(3) The Minister of Food and Drug Safety may request necessary data from the head of a relevant central administrative agency in relation to the examination of regulatory coherence, and the head of the relevant central administrative agency so requested shall cooperate, unless there is a compelling reason not to do so.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 규제정합성 검토와 관련하여 필요한 기준, 방법 및 절차 등 세부사항은 총리령으로 정한다.",
+      "en_txt": "(4) Details such as the standards, methods, and procedures for the examination of regulatory coherence shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 혁신제품을 개발하려는 자(제12조제1항에 따른 중앙행정기관의 장은 제외한다)는 해당 제품의 안전성, 유효성, 품질 등에 대한 다음 각 호의 사항을 검토하여 줄 것을 식품의약품안전처장에게 요청할 수 있다. 식품ㆍ의약품 등의 안전 및 제품화 지원에 관한 규제과학혁신법",
+      "en_txt": "(1) A person who intends to develop an innovative product (excluding the head of a central administrative agency under Article 12 (1)) may request that the Minister of Food and Drug Safety examine the following matters with respect to the safety, efficacy, quality, etc. of the relevant product:",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제12조제1항제1호ㆍ제2호ㆍ제4호에 해당하는 사항",
+      "en_txt": "1. Matters falling under Article 12 (1) 1, 2, and 4;",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 임상시험 등 안전성 시험 필요 여부, 평가 방법, 인가ㆍ허가 등 절차 및 요건 등",
+      "en_txt": "2. Whether any safety test, such as a clinical test, is required, the evaluation methods, and the procedures and requirements for necessary authorization, permission, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 검토를 요청받은 경우 이를 검토하고 그 결과를 요청한 자에게 알려주어야 한다.",
+      "en_txt": "(2) Upon receipt of a request for examination under paragraph (1), the Minister of Food and Drug Safety shall conduct examination and inform the person who has made such request of the results thereof.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제2항에 따른 통보를 받은 자가 희망하는 경우에는 제품개발의 진행 사항에 따라 행정적 ㆍ기술적 지원을 할 수 있다.",
+      "en_txt": "(3) Where a person notified under paragraph (2) so desires, the Minister of Food and Drug Safety may provide administrative and technical support depending on the progress of product development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 혁신제품의 개발과 제품화 지원 등을 위하여 식품ㆍ의약 품 등에 대한 제도와 법령, 혁신제품에 대한 기술과 규제 등에 관하여 전문성을 갖춘 인력(이하 “전문인력”이라 한다 )을 양성하여야 한다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety shall train human resources who have expertise in systems and statutes or regulations  regarding foods, drugs, etc., and expertise in technologies and regulations for innovative products (hereinafter referred to as \"specialized human resources\") so as to support the development and commercialization of innovative products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 전문인력 양성을 위하여 기본계획 및 시행계획 수립 시 다음 각 호의 사항을 포함하여야 한다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety shall include the following matters in a master plan and an action plan for training specialized human resources:",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 전문인력 양성 분야 및 방법에 관한 사항",
+      "en_txt": "1. Matters related to areas requiring training of specialized human resources and methods therefor;",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 전문인력 양성을 위한 산ㆍ학ㆍ관 협력에 관한 사항",
+      "en_txt": "2. Matters related to industry-academia-government cooperation for training specialized human resources;",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 전문인력 양성을 위한 연구, 교육ㆍ훈련 등에 관한 사항",
+      "en_txt": "3. Matters related to research, education, training, etc. for specialized human resources;",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 전문인력 양성과 관련하여 식품의약품안전처장이 필요하다고 인정하는 사항",
+      "en_txt": "4. Other matters deemed by the Minister of Food and Drug Safety to be necessary for training specialized human resources.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 총리령으로 정하는 바에 따라 전문인력의 자격 요건, 활동 분야 및 교육ㆍ훈련 등에 관한 사항을 정하고 자격제도를 운영할 수 있다.",
+      "en_txt": "(3) The Minister of Food and Drug Safety may determine matters regarding qualifications of specialized human resources, their fields of activities, education, and training and may operate a licensing system, as prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 전문인력 양성을 위하여 교육ㆍ훈련을 할 수 있는 적정 인력과 시설 등을 갖춘 대학ㆍ연구기관 및 그 밖의 관련 기관을 전문인력 양성기관으로 지정할 수 있다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety may designate universities, research institutes, and other related institutions, equipped with appropriate human resources, facilities, etc., capable of providing education and training programs for specialized human resources, as institutions for training specialized human resources.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따라 지정된 전문인력 양성기관에 대하여 예산의 범위 내에서 교육ㆍ훈련에 필 요한 비용의 전부 또는 일부를 지원할 수 있다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety may, within the budget, fully or partially subsidize the expenses required for education and training provided by an institution for training specialized human resources designated under paragraph (1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항에 따른 전문인력 양성기관이 다음 각 호의 어느 하나에 해당하는 경우에는 그 지정을 취소하거나 1년 이 내의 기간을 정하여 업무의 전부 또는 일부의 정지를 명하거나 시정명령 등 필요한 조치를 할 수 있다. 다만, 제1호 에 해당하는 경우에는 지정을 취소하여야 하며, 지정을 취소하려면 청문을 실시하여야 한다.",
+      "en_txt": "(1) falls under any of the following cases, necessary measures may be taken such as the revocation of designation, suspension of all or some of its business operations for up to one year, or an order for correction: Provided, That where subparagraph 1 is applicable, such designation shall be revoked and a hearing shall be held beforehand:",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 거짓이나 그 밖의 부정한 방법으로 지정받은 경우",
+      "en_txt": "1. Where it was designated by fraud or other improper means;",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제1항에 따른 지정 기준에 적합하지 아니하게 된 경우",
+      "en_txt": "2. Where it no longer meets the requirements for designation under paragraph (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 지정받은 사항을 위반하는 등 위법ㆍ부당한 행위를 한 경우",
+      "en_txt": "3. Where it committed an illegal or wrongful act, such as violating any matter designated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 실태조사 등을 통하여 다음 각 호의 사항을 평가하고, 그 결과를 규제과학 혁신 정책에 반영할 수 있다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety may evaluate the following matters through the fact-finding survey, etc. prescribed in paragraph (1), and reflect the results thereof in the policies for regulatory science innovation:",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 규제과학혁신이 국민 건강 및 산업 환경 등에 미치는 영향",
+      "en_txt": "1. Impact of regulatory science innovation on national health, industrial environment, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 규제과학혁신 관련 국내외 기반조성 수준 등",
+      "en_txt": "2. Levels of overseas and domestic infrastructure for regulatory science innovation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항 및 제2항에 따른 조사ㆍ평가의 내용, 범위, 방법 및 절차 등에 관하여 필요한 사항은 총리령으로 정한다. 식품ㆍ의약품 등의 안전 및 제품화 지원에 관한 규제과학혁신법",
+      "en_txt": "(3) Matters necessary for the details and scope of surveys and evaluation referred to in paragraphs (1) and",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식품의약품안전처장은 규제과학혁신을 위하여 학계ㆍ연구기관ㆍ산업계ㆍ정부 간의 협의체 구성 및 공동연구 등 교류와 협력ㆍ소통을 촉진하기 위한 정책을 마련하여 시행할 수 있다.",
+      "en_txt": "(2), and the methods, procedures, etc. therefor shall be prescribed by Ordinance of the Prime Minister. Article 17 (Facilitation of Private-Pubic Cooperation) The Minister of Food and Drug Safety may formulate and implement policies for facilitating exchanges, cooperation, and communication, such as the composition of a consultative body among academic circles, research institutes, industrial circles, and the Government and the conduct of joint research, for the purpose of regulatory science innovation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 규제과학혁신을 위하여 외국의 정부, 관련 분야 국제기구 및 연구개 발 기관ㆍ단체 등과 협력하여 다음 각 호의 사업을 할 수 있다. 이 경우 식품의약품안전처장은 해당 사업에 우리나라 의 관련 기관ㆍ단체 등을 공동으로 참여하게 할 수 있다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety may conduct the following projects in cooperation with foreign governments, related international organizations, foreign research and development institutions, organizations, etc. for regulatory science innovation. In such cases, the Minister of Food and Drug Safety may have domestic institutions and organizations related thereto participate in the relevant projects:",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 규제과학에 관한 국제 공동 제품화 지원체계 구축, 전문인력 양성 및 연구개발사업 추진",
+      "en_txt": "1. Establishment of an international joint commercialization support system for regulatory science, training of specialized human resources, and the promotion of research and development programs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 규제과학 관련 정보 및 기술 교류",
+      "en_txt": "2. Sharing of information and technology related to regulatory science;",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 그 밖에 식품의약품안전처장이 규제과학과 관련하여 필요하다고 인정하는 사항",
+      "en_txt": "3. Other matters deemed by the Minister of Food and Drug Safety to be necessary for regulatory science.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항 각 호의 사업에 참여하는 우리나라의 기관ㆍ단체 등에 대하여 예산의 범위에서 필 요한 지원을 할 수 있다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety may provide necessary support, within the budget, to domestic institutions, organizations, etc. that participate in any of the projects referred to in paragraph (1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식품의약품안전처장은 관계 중앙행정기관의 장과의 협의를 거쳐 규제과학과 관련된 남북한 상호 협력 및 교류를 활성화하기 위한 시책을 수립할 수 있다.",
+      "en_txt": "The Minister of Food and Drug Safety may formulate policies for facilitating inter-Korean cooperation and exchanges with  respect to regulatory science, in consultation with the heads of the relevant central administrative agencies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 이 법에 따른 식품의약품안전처장의 권한은 대통령령으로 정하는 바에 따라 그 일부를 소속 기관의 장에게 위임할 수 있다.",
+      "en_txt": "(1) Part of the authority bestowed on the Minister of Food and Drug Safety under this Act may be delegated to the heads of subordinate agencies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 이 법에 따른 식품의약품안전처장의 업무 중 제13조 및 제16조부터 제18조까지에 해당하는 업무의 전부 또는 그 일부를 대통령령으로 정하는 바에 따라 대통령령으로 정하는 기관 또는 단체 등에 위탁할 수 있다.",
+      "en_txt": "(2) All or part of the duties of the Minister of Food and Drug Safety under this Act, which fall under Articles 13 and 16 through 18, may be entrusted to the institutions or organizations prescribed by Presidential Decree, as prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다음 각 호의 어느 하나에 해당하는 사람은 「형법」 제127조 및 제129조부터 제 132조까지에 따른 벌칙을 적용할 때에는 공무원으로 본다.",
+      "en_txt": "Any of the following persons shall be deemed a public official for purposes of penalty provisions under Articles 127 and 129 through 132 of the Criminal Act:",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제6조제1항에 따른 위원회의 위원 중 공무원이 아닌 위원",
+      "en_txt": "1. A member who is not a public official, from among the members of the Committee prescribed in Article 6",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제7조제4항에 따라 업무를 대행하는 기관 또는 단체의 임직원",
+      "en_txt": "2. An executive officer or an employee of the institution or organization performing duties by proxy under Article 7 (4);",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제20조제2항에 따라 식품의약품안전처장이 위탁한 업무에 종사하는 기관 또는 단체의 임직원",
+      "en_txt": "2. An executive officer or an employee of the institution or organization performing the duties entrusted by the Minister of Land, Infrastructure and Transport under Article 20 (2).",
+      "align_score": null
+    }
+  ]
+}

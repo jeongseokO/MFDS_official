@@ -1,0 +1,616 @@
+{
+  "document_id": "ke_ich_meeting_0005",
+  "meta": {
+    "set": "KE",
+    "source_folder": "3",
+    "source_code": "ich_meeting",
+    "source_name": "ICH 미팅보고서",
+    "orig_doc_id": "14_상반기_ICH회의보고서",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 미팅보고서",
+    "title_ko": "2014년 상반기 의약품규제자포럼(IPRF) 및 의약품국제조화회의(ICH)  참석 결과 보고(요약)",
+    "title_en": "ICH and IPRF Meeting Report for 1st Half of 2014 (Summary)",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": null,
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 0,
+      "type": "title",
+      "section": null,
+      "path": {
+        "ko": [],
+        "en": []
+      },
+      "ko_txt": "2014년 상반기 의약품규제자포럼(IPRF) 및 의약품국제조화회의(ICH)  참석 결과 보고(요약)",
+      "en_txt": "ICH and IPRF Meeting Report for 1st Half of 2014 (Summary)",
+      "align_score": null
+    },
+    {
+      "seg_id": 1,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": "회의개요",
+      "en_txt": "Meeting Overview",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": {
+        "ICH": [
+          {
+            "key": "일정",
+            "value": {
+              "IPRF": "’14. 6. 2(월) ～ 6. 3(화)",
+              "ICH": "’14. 6. 1(일) ～ 6. 5(목)"
+            }
+          },
+          {
+            "key": "장소",
+            "value": "미국(미니애폴리스)"
+          }
+        ],
+        "우리처 대표단": [
+          {
+            "key": "한국대표(수석/부)",
+            "value": "이선희 부장(의약품심사부), 박희영 사무관(의약품정책과)"
+          },
+          {
+            "key": "APEC지역대표(대리)",
+            "value": "박은혜 주무관(의약품심사조정과)"
+          },
+          {
+            "key": "전문위원회대표(Q3D)",
+            "value": "김은경 연구관(의약품규격과)"
+          },
+          {
+            "key": "전문위원회 대표(M7)",
+            "value": "송영미 연구관(소화계약품과)"
+          },
+          {
+            "key": "MedDRA 담당",
+            "value": "이유빈 주무관(의약품정책과)"
+          }
+        ]
+      },
+      "en_txt": {
+        "ICH": [
+          {
+            "key": "Date",
+            "value": {
+              "IPRF": "Jun. 2(Mon) - Jun. 3(Tue), 2014",
+              "ICH": "Jun. 1(Mon) - Jun. 5(Tue), 2014"
+            }
+          },
+          {
+            "key": "Location",
+            "value": "U.S.A. (Minneapolis)"
+          }
+        ],
+        "MFDS Representatives": [
+          {
+            "key": "Korean representatives (Head/Deputy)",
+            "value": "Sun Hee Lee, Director General (Drug Evaluation Department), Hee Young Park, Deputy Director (Pharmaceutical Policy Division)"
+          },
+          {
+            "key": "APEC regional representative",
+            "value": "Eun Hye Park, Assistant Director (Drug Review Management Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Eun Kyung Kim, Deputy Director (Pharmaceutical Standardization Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Youngme Song, Deputy Director (Cardiovascular and Neurology Products Division)"
+          },
+          {
+            "key": "MedDRA representative",
+            "value": "Yubin Lee, Assistant Director (Pharmaceutical Policy Division)"
+          }
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용"
+        ],
+        "en": [
+          "Meeting Summary"
+        ]
+      },
+      "ko_txt": "주요내용",
+      "en_txt": "Meeting Summary",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "IPRF 회의",
+      "en_txt": "IPRF Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "(우리처 활동) 우리처, APEC에 대한 업데이트 발표 및 신규 워킹그룹 참여 등 적극적 활동",
+      "en_txt": "(MFDS Regulatory Updates) Updates on activities of MFDS and APEC, and participation in new EWGs",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(우리처 활동) 우리처, APEC에 대한 업데이트 발표 및 신규 워킹그룹 참여 등 적극적 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS Regulatory Updates) Updates on activities of MFDS and APEC, and participation in new EWGs"
+        ]
+      },
+      "ko_txt": "PIC/S 가입, 한국 MedDRA 번역 현황, WHO Prequalification 워크숍 결과 보고 등 발표(발표자: 이선희 부장)",
+      "en_txt": "Presentation on Korea’s PIC/S membership, progress on translation of Korean MedDRA, WHO Prequalification workshop result (presenter: Sun Hee Lee)",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(우리처 활동) 우리처, APEC에 대한 업데이트 발표 및 신규 워킹그룹 참여 등 적극적 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS Regulatory Updates) Updates on activities of MFDS and APEC, and participation in new EWGs"
+        ]
+      },
+      "ko_txt": "APEC 규제조화센터 워크숍 개최결과 및 계획, RHSC 회의결과, WHO Good Review Practice Guideline초안 마련, MRCT 우수규제교육센터 시범운영 보고(발표자: 박은혜 주무관)",
+      "en_txt": "Updates on APEC Harmonization Center (AHC) workshop, RHSC meeting results, development of draft WHO Good Review Practice Guideline, pilot training of MRCT Center of Excellence (presenter: Eun Hye Park)",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(우리처 활동) 우리처, APEC에 대한 업데이트 발표 및 신규 워킹그룹 참여 등 적극적 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS Regulatory Updates) Updates on activities of MFDS and APEC, and participation in new EWGs"
+        ]
+      },
+      "ko_txt": "바이오시밀러 워킹그룹 대면회의 승인, 우리처가 제출한 워킹그룹의 권한 및 업무계획을 모델로 다른 워킹그룹도 제출하기로 함",
+      "en_txt": "Decided to have Biosimilars Working Group face-to-face meeting, and to request other WGs to submit rights and work plans of the WG submitted by MFDS as well",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "(워킹그룹) IPRF에서 제안된 운영기준(안)의 위원회 명칭, 워킹그룹 업무 보고 방식 등 수정(안) 회람 예정",
+      "en_txt": "(WG Updates) Proposals including the name of the committee, and how to report the work of WG report were reflected in the Terms of Reference (ToR), and revised ToR will be circulated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(워킹그룹) IPRF에서 제안된 운영기준(안)의 위원회 명칭, 워킹그룹 업무 보고 방식 등 수정(안) 회람 예정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(WG Updates) Proposals including the name of the committee, and how to report the work of WG report were reflected in the Terms of Reference (ToR), and revised ToR will be circulated."
+        ]
+      },
+      "ko_txt": "(결론) 이번 회의에서 논의된 사항을 반영한 수정본을 의견조회 할 예정이며 이에 대하여 8월 말까지 회신 요청",
+      "en_txt": "(Results) ToR, reflecting the result of this meeting, will be released for comments. (by the end of August)",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "(나노의약품 관련 정보공유) 미국, 일본, 유럽, 스위스, 캐나다, 호주로 구성된 나노의약품 정보공유 그룹 확대를 제안",
+      "en_txt": "(Nanomedicines) Expansion of the work of nanomedicines information sharing group, which consists of U.S., Japan, EU, Switzerland, Canada and Australia was suggested.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "(제네릭의약품 심사공유 관련) 제네릭의약품국제협력기구(IGDRP) 활동을 통해 각 국가의 제네릭의약품 심사관련 기준 등 정보 공유 완료",
+      "en_txt": "(Generic Drugs) Trough the work of International Generic Drug Regulators Pilot (IGDRP), information related to review of generic drugs including standards were shared.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(제네릭의약품 심사공유 관련) 제네릭의약품국제협력기구(IGDRP) 활동을 통해 각 국가의 제네릭의약품 심사관련 기준 등 정보 공유 완료"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(Generic Drugs) Trough the work of International Generic Drug Regulators Pilot (IGDRP), information related to review of generic drugs including standards were shared."
+        ]
+      },
+      "ko_txt": "특정 규제기관에 접수된 제네릭의약품 심사를 공동으로 실시(peer review)하고 동 결과보고서를 활용할 수 있는 시범사업 실시 예정",
+      "en_txt": "For the pilot program, generic drugs will go through peer review once application is submitted to one of regulatory authorities, and report will be shared among regulatory agencies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "ICH 회의",
+      "en_txt": "ICH Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "우리처 활동",
+      "en_txt": "MFDS Activities",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "MFDS Activities"
+        ]
+      },
+      "ko_txt": "AHC의 e러닝 센터를 통한 ICH가이드라인 교육자료 공동개발 요청 제안",
+      "en_txt": "Proposal for co-development of ICH Guidelines training materials operated by using e-Learning center of APEC Harmonization Center (AHC)",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "MFDS Activities"
+        ]
+      },
+      "ko_txt": "우리나라의 MedDRA1) 번역 현황 및 국내 도입을 위한 정보 수집",
+      "en_txt": "Collection of information to support translation and implementation of MedDRA1 in Korea",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "ICH 조직개편(안) 및 회원기준(안) 마련",
+      "en_txt": "Discussion on reform of ICH governance and membership",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 조직개편(안) 및 회원기준(안) 마련"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Discussion on reform of ICH governance and membership"
+        ]
+      },
+      "ko_txt": "(개편목적) 제약업계에 의존하던 ICH 재원의 독립성 확보를 위해, 참여 범위를 확대, 세계 규제조화를 위한 중심 역할 강화",
+      "en_txt": "(Objective) The reform is to secure financial base, open its membership to more countries, and play a key role in the global pharmaceutical harmonization process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 조직개편(안) 및 회원기준(안) 마련"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Discussion on reform of ICH governance and membership"
+        ]
+      },
+      "ko_txt": "(회원확대범위) 비회원국의 규제당국, 세계 제네릭 제약협회, 세계 대중약협회 등 국제제약단체 대표 추가 고려 중(‘15년 시행 예정)",
+      "en_txt": "(Broader Range of Membership) Non-member regulatory authorities, International Generic and Biosimilar Medicines Association (IGBA), World Self-Medicine Industry (WSMI) were considered as new members of ICH. (During 2015)",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "우리나라의 MedDRA2) 번역 현황 및 국내 도입을 위한 정보 수집",
+      "en_txt": "Collection of information to support translation and implementation of MedDRA in Korea",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "ICH 가이드라인 공동개발",
+      "en_txt": "Participation in ICH Guidelines Development",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 가이드라인 공동개발"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Participation in ICH Guidelines Development"
+        ]
+      },
+      "ko_txt": "(Q3D) ‘13년 7월 공개된 가이드라인(안)에 대한 제출의견 검토 및 이에 따른 수정본 마련함. 다만, 기허가의약품 및 대용량 수액제 적용 논의를 위해 최종 합의 및 승인요청(Step 4)은 9월로 연기",
+      "en_txt": "(Q3D) Comments from the public consultation on the draft Guideline (released in July 2013 for public comments) was reviewed and reflected. For the discussion of previously approved medicines and large volume parenteral infusion, final agreement on reaching Step 4 will be delayed until September.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 가이드라인 공동개발"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Participation in ICH Guidelines Development"
+        ]
+      },
+      "ko_txt": "(M7) '13년 2월 마련된 가이드라인(안)에 대한 각국의 의견을 수렴하고 이른 기반으로 가이드라인 내용을 명확히 하여 최종안에 합의함",
+      "en_txt": "(M7) After reflecting comments made by different countries, Guideline (released in February 2013) reached Step 4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 가이드라인 공동개발"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Participation in ICH Guidelines Development"
+        ]
+      },
+      "ko_txt": "(M1) MedDRA 버전 변경에 따른 지침(Points to Consider) 개정",
+      "en_txt": "(M1) As with the new version of MedDRA, points to Consider was updated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "MedDRA(Medical Dictionary for Regulatory Activities) : 전세계적으로 의약품 임상시험 및 시판 후 부작용 보고 등에 사용하는 표준화된 용어로서, ICH 주관으로 관리되고 있음.",
+      "en_txt": "MedDRA: Medical Dictionary for Regulatory Activities",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "MedDRA(Medical Dictionary for Regulatory Activities) : 전세계적으로 의약품 임상시험 및 시판 후 부작용 보고 등에 사용하는 표준화된 용어로서, ICH 주관으로 관리되고 있음.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+ "document_id": "ke_cris_0004",
+ "meta": {
+  "set": "KE",
+  "source_folder": "12",
+  "source_code": "cris",
+  "source_name": "국내 임상연구(CRIS)",
+  "orig_doc_id": "KCT0000004",
+  "category_l1": "임상연구정보",
+  "category_l2": "임상시험 등록정보",
+  "category_l3": "국내 임상연구(CRIS)",
+  "title_ko": null,
+  "title_en": null,
+  "source_doc": null,
+  "target_doc": null,
+  "doc_type": "CRIS",
+  "source_language": "en",
+  "target_language": "ko",
+  "pub_date_ko": null,
+  "pub_date_en": null,
+  "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=951",
+  "domain_tag": null,
+  "align_method": "LaBSE cosine (sentence-transformers/LaBSE)",
+  "n_pairs": 23
+ },
+ "segments": [
+  {
+   "seg_id": 1,
+   "type": "sentence",
+   "section": "1. 연구개요_요약제목",
+   "path": null,
+   "ko_txt": "다제내성결핵 접촉자의 접촉 후 2년 간의 결핵 발병률",
+   "en_txt": "Incidence of tuberculosis for 2 years after contact to patients with multidrug-resistant tuberculosis",
+   "align_score": 0.7963
+  },
+  {
+   "seg_id": 2,
+   "type": "sentence",
+   "section": "1. 연구개요_연구제목",
+   "path": null,
+   "ko_txt": "다제내성결핵 접촉자의 접촉 후 2년 간의 결핵 발병률에 대한 다기관 전향적 코호트 연구",
+   "en_txt": "Multicenter, prospective cohort study about incidence of tuberculosis for 2 years after contact to patients with multidrug-resistant tuberculosis",
+   "align_score": 0.7872
+  },
+  {
+   "seg_id": 3,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_성명",
+   "path": null,
+   "ko_txt": "심태선",
+   "en_txt": "Tae Sun Shim",
+   "align_score": 0.8228
+  },
+  {
+   "seg_id": 4,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+   "path": null,
+   "ko_txt": "가톨릭대학교부천성모병원",
+   "en_txt": "The Catholic University of Korea, Bucheon St. Mary's Hospital",
+   "align_score": 0.7558
+  },
+  {
+   "seg_id": 5,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+   "path": null,
+   "ko_txt": "건국대학교병원",
+   "en_txt": "Konkuk University Medical Center",
+   "align_score": 0.7514
+  },
+  {
+   "seg_id": 6,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_4.참여기관_기관명",
+   "path": null,
+   "ko_txt": "강원대학교병원",
+   "en_txt": "Kangwon National University Hospital",
+   "align_score": 0.8066
+  },
+  {
+   "seg_id": 7,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_5.참여기관_기관명",
+   "path": null,
+   "ko_txt": "경상국립대학교병원",
+   "en_txt": "Gyeongsang National University Hospital",
+   "align_score": 0.8673
+  },
+  {
+   "seg_id": 8,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_6.참여기관_기관명",
+   "path": null,
+   "ko_txt": "강동경희대학교의대병원",
+   "en_txt": "Kyung Hee University Hospital at Gangdong",
+   "align_score": 0.8733
+  },
+  {
+   "seg_id": 9,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_7.참여기관_기관명",
+   "path": null,
+   "ko_txt": "계명대학교동산병원",
+   "en_txt": "Keimyung University Dongsan Hospital",
+   "align_score": 0.9154
+  },
+  {
+   "seg_id": 10,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_8.참여기관_기관명",
+   "path": null,
+   "ko_txt": "대구가톨릭대학교병원",
+   "en_txt": "Daegu Catholic University Medical Center",
+   "align_score": 0.8604
+  },
+  {
+   "seg_id": 11,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_9.참여기관_기관명",
+   "path": null,
+   "ko_txt": "고려대학교의과대학부속안산병원",
+   "en_txt": "Korea University Ansan Hospital",
+   "align_score": 0.7909
+  },
+  {
+   "seg_id": 12,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_10.참여기관_기관명",
+   "path": null,
+   "ko_txt": "삼성서울병원",
+   "en_txt": "Samsung Medical Center",
+   "align_score": 0.7993
+  },
+  {
+   "seg_id": 13,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_12.참여기관_기관명",
+   "path": null,
+   "ko_txt": "부산대학교병원",
+   "en_txt": "Pusan National University Hospital",
+   "align_score": 0.7502
+  },
+  {
+   "seg_id": 14,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_13.참여기관_기관명",
+   "path": null,
+   "ko_txt": "분당서울대학교병원",
+   "en_txt": "Seoul National University Bundang Hospital",
+   "align_score": 0.8452
+  },
+  {
+   "seg_id": 15,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_14.참여기관_기관명",
+   "path": null,
+   "ko_txt": "서울대학교병원",
+   "en_txt": "Seoul National University Hospital",
+   "align_score": 0.8372
+  },
+  {
+   "seg_id": 16,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_15.참여기관_기관명",
+   "path": null,
+   "ko_txt": "학교법인연세대학교의과대학세브란스병원",
+   "en_txt": "Yonsei University Health System, Severance Hospital",
+   "align_score": 0.7525
+  },
+  {
+   "seg_id": 17,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_18.참여기관_기관명",
+   "path": null,
+   "ko_txt": "충북대학교병원",
+   "en_txt": "Chungbuk National University Hospital",
+   "align_score": 0.831
+  },
+  {
+   "seg_id": 18,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_19.참여기관_기관명",
+   "path": null,
+   "ko_txt": "인제대학교부산백병원",
+   "en_txt": "Inje University Busan Paik Hospital",
+   "align_score": 0.8821
+  },
+  {
+   "seg_id": 19,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_20.참여기관_기관명",
+   "path": null,
+   "ko_txt": "한림대학교성심병원",
+   "en_txt": "Hallym University Medical Center",
+   "align_score": 0.7868
+  },
+  {
+   "seg_id": 20,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_24.참여기관_기관명",
+   "path": null,
+   "ko_txt": "인제대학교 상계백병원",
+   "en_txt": "Inje University Sanggye Paik Hospital",
+   "align_score": 0.8801
+  },
+  {
+   "seg_id": 21,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_25.참여기관_기관명",
+   "path": null,
+   "ko_txt": "중앙대학교병원",
+   "en_txt": "Chung-Ang Univerisity Hospital",
+   "align_score": 0.7846
+  },
+  {
+   "seg_id": 22,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_26.참여기관_기관명",
+   "path": null,
+   "ko_txt": "강북삼성병원",
+   "en_txt": "Kangbuk Samsung Medical Center",
+   "align_score": 0.7517
+  },
+  {
+   "seg_id": 23,
+   "type": "sentence",
+   "section": "7. 연구요약",
+   "path": null,
+   "ko_txt": "본 연구의 목적은 다제내성결핵 환자의 밀접접촉자에서 접촉 후 2년 간결핵 발생률을 규명하는 것이다.",
+   "en_txt": "Therefore, the aim of this study is to evaluate the incidence of TB in close contact of MDR TB for 2 years after contact.",
+   "align_score": 0.7926
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "document_id": "ke_cris_0007",
+ "meta": {
+  "set": "KE",
+  "source_folder": "12",
+  "source_code": "cris",
+  "source_name": "국내 임상연구(CRIS)",
+  "orig_doc_id": "KCT0000007",
+  "category_l1": "임상연구정보",
+  "category_l2": "임상시험 등록정보",
+  "category_l3": "국내 임상연구(CRIS)",
+  "title_ko": null,
+  "title_en": null,
+  "source_doc": null,
+  "target_doc": null,
+  "doc_type": "CRIS",
+  "source_language": "en",
+  "target_language": "ko",
+  "pub_date_ko": null,
+  "pub_date_en": null,
+  "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=939",
+  "domain_tag": null,
+  "align_method": "LaBSE cosine (sentence-transformers/LaBSE)",
+  "n_pairs": 19
+ },
+ "segments": [
+  {
+   "seg_id": 1,
+   "type": "sentence",
+   "section": "1. 연구개요_연구제목",
+   "path": null,
+   "ko_txt": "술중 지속적으로 투여된 저농도의 esmolol이 흡입마취제와 마약제제의 요구량에 미치는 효과",
+   "en_txt": "The effect of continuous infusion of low-dose esmolol on the requirement of inhalation anesthetics and opioid during surgery",
+   "align_score": 0.854
+  },
+  {
+   "seg_id": 2,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_성명",
+   "path": null,
+   "ko_txt": "이재민",
+   "en_txt": "Jae-min Lee",
+   "align_score": 0.8451
+  },
+  {
+   "seg_id": 3,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_직위",
+   "path": null,
+   "ko_txt": "교수",
+   "en_txt": "professor",
+   "align_score": 0.933
+  },
+  {
+   "seg_id": 4,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_기관명",
+   "path": null,
+   "ko_txt": "가톨릭대학교서울성모병원",
+   "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+   "align_score": 0.7772
+  },
+  {
+   "seg_id": 5,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_성명",
+   "path": null,
+   "ko_txt": "황원정",
+   "en_txt": "Won-jung Hwang",
+   "align_score": 0.8244
+  },
+  {
+   "seg_id": 6,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_기관명",
+   "path": null,
+   "ko_txt": "가톨릭대학교서울성모병원",
+   "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+   "align_score": 0.7772
+  },
+  {
+   "seg_id": 7,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_성명",
+   "path": null,
+   "ko_txt": "황원정",
+   "en_txt": "Won-jung Hwang",
+   "align_score": 0.8244
+  },
+  {
+   "seg_id": 8,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_기관명",
+   "path": null,
+   "ko_txt": "가톨릭대학교서울성모병원",
+   "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+   "align_score": 0.7772
+  },
+  {
+   "seg_id": 9,
+   "type": "sentence",
+   "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+   "path": null,
+   "ko_txt": "없음",
+   "en_txt": "none",
+   "align_score": 0.9009
+  },
+  {
+   "seg_id": 10,
+   "type": "sentence",
+   "section": "8. 연구설계_중재상세설명",
+   "path": null,
+   "ko_txt": "esmolol : 술중 0.5 mg/kg 일회 정주 후 30 µg/kg/min 지속 정주",
+   "en_txt": "esmolol: a 0.5 mg/kg loading dose of followed by an infusion of 30 µg/kg/min during surgery",
+   "align_score": 0.9023
+  },
+  {
+   "seg_id": 11,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 제외기준",
+   "path": null,
+   "ko_txt": "고혈압, 허혈성심질환, 부정맥 등 심혈관 질환이 있는 경우 출혈, 저혈량, 체액 손실 등으로 혈역학적 불안정을 보이는 환자 천식이나 만성폐쇄성폐질환 같은 폐질환이 있는 경우, 그 외 연구 약제에 대해 알레르기가 있는 경우, 체질량 지수 16 kg/m2미만 이거나 30 kg/m2초과인 자, 통증 질환으로 마약성 제재 복용중인 자, 연구에 참여를 거부한 자",
+   "en_txt": "patients with cardiovascular diseases such as hypertension, arrhythmia, or myocardial ischemia; unstable hemodynamics due to haemorrhage, hypovolemia, or loss of body fluids; asthma or chronic obstructive pulmonary diseases; allergies to the study drug; or body mass index below 16 or over 30 kg/m2, as well as patients requiring opioids for pain diseases and those who refused to participate",
+   "align_score": 0.8688
+  },
+  {
+   "seg_id": 12,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+   "path": null,
+   "ko_txt": "remifentanil의 평균농도",
+   "en_txt": "average effect-site concentration of remifentanil",
+   "align_score": 0.8008
+  },
+  {
+   "seg_id": 13,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술 종료 직후",
+   "en_txt": "immediately after the surgery",
+   "align_score": 0.8806
+  },
+  {
+   "seg_id": 14,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_2.주요결과변수_평가항목",
+   "path": null,
+   "ko_txt": "remifentanil의 적정농도에 대한 평균농도의 비",
+   "en_txt": "ratio of average to adequate effect-site concentration of remifentanil",
+   "align_score": 0.804
+  },
+  {
+   "seg_id": 15,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_2.주요결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술 종료 직후",
+   "en_txt": "immediately after the surgery",
+   "align_score": 0.8806
+  },
+  {
+   "seg_id": 16,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_3.주요결과변수_평가항목",
+   "path": null,
+   "ko_txt": "단위시간당 remifentanil 효과처농도의 상승/하강 횟수",
+   "en_txt": "frequency of increase and decrease in the effect-site concentration of remifentanil per hour",
+   "align_score": 0.8492
+  },
+  {
+   "seg_id": 17,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_3.주요결과변수_평가시기",
+   "path": null,
+   "ko_txt": "수술 종료 직후",
+   "en_txt": "immediately after the surgery",
+   "align_score": 0.8806
+  },
+  {
+   "seg_id": 18,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+   "path": null,
+   "ko_txt": "술후 통증의 정도",
+   "en_txt": "level of postoperative pain",
+   "align_score": 0.7756
+  },
+  {
+   "seg_id": 19,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+   "path": null,
+   "ko_txt": "총 fentanyl 요구량",
+   "en_txt": "total dose of fentanyl",
+   "align_score": 0.9037
+  }
+ ]
+}

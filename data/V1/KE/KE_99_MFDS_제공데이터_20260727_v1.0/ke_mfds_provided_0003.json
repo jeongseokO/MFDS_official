@@ -1,0 +1,784 @@
+{
+ "document_id": "mfds_provided_0003",
+ "meta": {
+  "set": "KE",
+  "source_folder": "4",
+  "source_code": "mfds_provided",
+  "source_name": "식약처 제공 번역본",
+  "orig_doc_id": "mfds-review-parallel-alignment",
+  "category_l1": "규제·지침",
+  "category_l2": "허가·심사",
+  "category_l3": "식약처 제공 번역본",
+  "title_ko": null,
+  "title_en": null,
+  "source_doc": "10__통계_도프텔렛정20밀리그램_아바트롬보팍말레산염__국문.json",
+  "target_doc": "10__통계_도프텔렛정20밀리그램_아바트롬보팍말레산염__영문.json",
+  "doc_type": null,
+  "source_language": "ko",
+  "target_language": "en",
+  "pub_date_ko": null,
+  "pub_date_en": null,
+  "url": null,
+  "domain_tag": null,
+  "align_method": "structure-anchored alignment (section/heading match + in-section DP); align_score = LaBSE cosine (sentence-transformers/LaBSE)",
+  "n_pairs": 84
+ },
+ "segments": [
+  {
+   "seg_id": 1,
+   "type": "sentence",
+   "section": "문서",
+   "path": null,
+   "ko_txt": "임상통계검토서",
+   "en_txt": "Clinical Statistics Review",
+   "align_score": 0.7337
+  },
+  {
+   "seg_id": 2,
+   "type": "sentence",
+   "section": "의약품/ 바이오/ 의료기기",
+   "path": null,
+   "ko_txt": "의약품",
+   "en_txt": "Medicinal product",
+   "align_score": 0.7985
+  },
+  {
+   "seg_id": 3,
+   "type": "sentence",
+   "section": "담당자",
+   "path": null,
+   "ko_txt": "정지원",
+   "en_txt": "Jeong Ji-won",
+   "align_score": 0.4857
+  },
+  {
+   "seg_id": 4,
+   "type": "sentence",
+   "section": "연구관",
+   "path": null,
+   "ko_txt": "김문신",
+   "en_txt": "Kim Moon-shin",
+   "align_score": 0.8896
+  },
+  {
+   "seg_id": 5,
+   "type": "sentence",
+   "section": "과장",
+   "path": null,
+   "ko_txt": "정지원",
+   "en_txt": "Jeong Ji-won",
+   "align_score": 0.4857
+  },
+  {
+   "seg_id": 6,
+   "type": "sentence",
+   "section": "민원 분류",
+   "path": null,
+   "ko_txt": "임상결과보고서",
+   "en_txt": "Clinical study report",
+   "align_score": 0.873
+  },
+  {
+   "seg_id": 7,
+   "type": "sentence",
+   "section": "유형 구분 (최초, 추가, 변경, 해당없음)",
+   "path": null,
+   "ko_txt": "최초",
+   "en_txt": "Initial",
+   "align_score": 0.7603
+  },
+  {
+   "seg_id": 8,
+   "type": "sentence",
+   "section": "유형 구분 (확증 임상, 탐색 임상, 연구자 확증, 연구자 탐색, 해당없음)",
+   "path": null,
+   "ko_txt": "확증 임상",
+   "en_txt": "Pivotal study",
+   "align_score": 0.4159
+  },
+  {
+   "seg_id": 9,
+   "type": "sentence",
+   "section": "임상단계",
+   "path": null,
+   "ko_txt": "제 3 상",
+   "en_txt": "Phase 3",
+   "align_score": 0.8004
+  },
+  {
+   "seg_id": 10,
+   "type": "sentence",
+   "section": "신청자(회사명)",
+   "path": null,
+   "ko_txt": "(주)한독",
+   "en_txt": "Handok Inc.",
+   "align_score": 0.6009
+  },
+  {
+   "seg_id": 11,
+   "type": "sentence",
+   "section": "문서(접수)번호 및 요청부서",
+   "path": null,
+   "ko_txt": "20230044833(2023.03.10.) 순환신경계약품과",
+   "en_txt": "20230044833\n(10 Mar 2023)\nCardiovascular and Neurology Products Division",
+   "align_score": 0.7044
+  },
+  {
+   "seg_id": 12,
+   "type": "sentence",
+   "section": "제품명/품목명(코드명/품목분류번호, 등급)",
+   "path": null,
+   "ko_txt": "도프텔렛정",
+   "en_txt": "Doptelet Tab.",
+   "align_score": 0.4651
+  },
+  {
+   "seg_id": 13,
+   "type": "sentence",
+   "section": "검토 회신일",
+   "path": "/1차",
+   "ko_txt": "2023.05.11.",
+   "en_txt": "11 May 2023",
+   "align_score": 0.8336
+  },
+  {
+   "seg_id": 14,
+   "type": "sentence",
+   "section": "원료약품 및 그 분량(필요시 작성)",
+   "path": null,
+   "ko_txt": "시험군: 아바트로보팍, 대조군: 위약",
+   "en_txt": "Test group: avatrombopag, Control group: placebo",
+   "align_score": 0.7944
+  },
+  {
+   "seg_id": 15,
+   "type": "sentence",
+   "section": "시험제목",
+   "path": null,
+   "ko_txt": "예정된 시술 전 간 질환과 관련된 혈소판 감소증이 있는 성인의 치료를 위한 1일 1회 경구용 아바트롬보팍 사용의 효능 및 안전성을 평가하는 무작위배정, 글로벌, 이중눈가림, 위약대조, 평행군 시험 [E5501-G000-310, Version 1.0, 2017.08.22.]",
+   "en_txt": "A Randomized, Global, Double-Blind, Placebo-Controlled, Parallel-Group Study to Evaluate the Efficacy and Safety of Once-Daily Oral Avatrombopag for the Treatment of Adults with Thrombocytopenia Associated with Liver Disease Prior to an Elective Procedure.[E5501-G000-310, Version 1.0, 2017.08.22.]",
+   "align_score": 0.8613
+  },
+  {
+   "seg_id": 16,
+   "type": "sentence",
+   "section": "임상시험 목적",
+   "path": null,
+   "ko_txt": "아바트로보팍(혈소판 수가 40X10^9/L 미만인 시험대상자는 아바트롬보팍 60mg, 혈소판 수가 40 이상 50X10^9/L 미만인 시험대상자는 아보트롬보팍 40mg)이 혈소판감소증이 있는 CLD 시험대상자에서 무작위배정 후 및 예정된 시술 후 최대 7일까지 출혈에 대한 혈소판 수혈 또는 구제요법의 필요성을 없애는 데 있어 위약보다 우월함을 확인하기 위함",
+   "en_txt": "To confirm that avatrombopag (60 mg avatrombopag for subjects with platelet count <40×10^9/L and 40 mg avatrombopag for subjects with platelet count from 40 to <50×10^9/L) was superior to placebo in reducing the need for platelet transfusions or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure in subjects with chronic liver disease (CLD) who have thrombocytopenia.",
+   "align_score": 0.864
+  },
+  {
+   "seg_id": 17,
+   "type": "sentence",
+   "section": "대상 적응증 또는 의료기기 사용목적",
+   "path": null,
+   "ko_txt": "혈소판 수혈이 필요한 혈소판감소증 및 CLD(Chronic Liver Disease)",
+   "en_txt": "Thrombocytopenia and chronic liver disease (CLD) requiring platelet transfusion",
+   "align_score": 0.8742
+  },
+  {
+   "seg_id": 18,
+   "type": "sentence",
+   "section": "시험대상자 수",
+   "path": null,
+   "ko_txt": "FAS: 231 명, PPS: 194 명, Safety: 227 명 (한국인: 총 43 명)",
+   "en_txt": "FAS: 231 subjects, PPS: 194 subjects, Safety: 227 subjects (Korean: Total 43 subjects)",
+   "align_score": 0.9102
+  },
+  {
+   "seg_id": 19,
+   "type": "sentence",
+   "section": "연구방법",
+   "path": "/설계 (평행 설계, 단일 설계, 교차설계, 기타(명시)",
+   "ko_txt": "평행 설계",
+   "en_txt": "Parallel design",
+   "align_score": 0.8433
+  },
+  {
+   "seg_id": 20,
+   "type": "sentence",
+   "section": "연구방법",
+   "path": "/디자인 (우월성, 동등성(마진:  ), 비열등성(마진:  ), 차이검정, 기타(명시)",
+   "ko_txt": "우월성",
+   "en_txt": "Superiority",
+   "align_score": 0.8128
+  },
+  {
+   "seg_id": 21,
+   "type": "sentence",
+   "section": "연구방법",
+   "path": "/연구개요",
+   "ko_txt": "무작위배정, 글로벌, 이중눈가림, 위약대조, 평행군 시험",
+   "en_txt": "A randomized, global, double-blind, placebo-controlled, parallel-group study",
+   "align_score": 0.7002
+  },
+  {
+   "seg_id": 22,
+   "type": "sentence",
+   "section": "평가지표 및 통계분석 방법",
+   "path": "/분석대상군",
+   "ko_txt": "FAS",
+   "en_txt": "FAS",
+   "align_score": 1.0
+  },
+  {
+   "seg_id": 23,
+   "type": "sentence",
+   "section": "평가지표 및 통계분석 방법",
+   "path": "/평가변수[0]",
+   "ko_txt": "• 일차 유효성 평가변수",
+   "en_txt": "• Primary efficacy endpoint",
+   "align_score": 0.5253
+  },
+  {
+   "seg_id": 24,
+   "type": "sentence",
+   "section": "평가지표 및 통계분석 방법",
+   "path": "/평가변수[1]",
+   "ko_txt": "- 무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율",
+   "en_txt": "- Proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure",
+   "align_score": 0.8838
+  },
+  {
+   "seg_id": 25,
+   "type": "sentence",
+   "section": "평가지표 및 통계분석 방법",
+   "path": "/평가변수[2]",
+   "ko_txt": "• 이차 유효성 평가변수",
+   "en_txt": "• Secondary efficacy endpoint",
+   "align_score": 0.5863
+  },
+  {
+   "seg_id": 26,
+   "type": "sentence",
+   "section": "평가지표 및 통계분석 방법",
+   "path": "/평가변수[3]",
+   "ko_txt": "- 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수가 50X10^9/L 이상인 시험대상자의 비율",
+   "en_txt": "- Proportion of subjects who achieved a platelet count at least 50×10^9/L on procedure day  (i.e., before platelet transfusion or the scheduled procedure)",
+   "align_score": 0.9023
+  },
+  {
+   "seg_id": 27,
+   "type": "sentence",
+   "section": "평가지표 및 통계분석 방법",
+   "path": "/평가변수[4]",
+   "ko_txt": "- 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수의 베이스라인 대비 변화량",
+   "en_txt": "- Change in platelet count from baseline on procedure day (i.e., before platelet transfusion or the scheduled procedure)",
+   "align_score": 0.8814
+  },
+  {
+   "seg_id": 28,
+   "type": "sentence",
+   "section": "평가지표 및 통계분석 방법",
+   "path": "/결측치 처리방법",
+   "ko_txt": "Worst Case Imputation",
+   "en_txt": "Worst case imputation",
+   "align_score": 0.9661
+  },
+  {
+   "seg_id": 29,
+   "type": "sentence",
+   "section": "통계분석결과",
+   "path": "[0]",
+   "ko_txt": "• 일차 유효성 평가변수",
+   "en_txt": "• Primary efficacy endpoint",
+   "align_score": 0.5253
+  },
+  {
+   "seg_id": 30,
+   "type": "sentence",
+   "section": "통계분석결과",
+   "path": "[1]",
+   "ko_txt": "주 유효성 평가 분석군인 FAS 분석 결과",
+   "en_txt": "Based on the results of the FAS analysis, the primary efficacy analysis set",
+   "align_score": 0.8164
+  },
+  {
+   "seg_id": 31,
+   "type": "sentence",
+   "section": "통계분석결과",
+   "path": "[2]",
+   "ko_txt": "무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율에 대하여 Low cohort의 경우 시험군(Avatrombopag 60mg)과 대조군(Placebo)간 비교를 실시한 결과 시험군이 대조군 보다 우월한 것으로 나타났음(p<0.0001).",
+   "en_txt": "Proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure was compared between the test group (avatrombopag 60 mg) and the placebo group in the low cohort. Avatrombopag demonstrated statistically significantly superior to placebo(p<0.0001).",
+   "align_score": 0.9047
+  },
+  {
+   "seg_id": 32,
+   "type": "sentence",
+   "section": "통계분석결과",
+   "path": "[3]",
+   "ko_txt": "무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율에 대하여 High cohort의 경우 시험군(Avatrombopag 40mg)과 대조군(Placebo)간 비교를 실시한 결과 시험군이 대조군 보다 우월한 것으로 나타났음(p<0.0001).",
+   "en_txt": "Proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure was compared between the test group (avatrombopag 40 mg) and the placebo group in the high cohort. Avatrombopag demonstrated statistically significantly superior to placebo(p<0.0001).",
+   "align_score": 0.9029
+  },
+  {
+   "seg_id": 33,
+   "type": "sentence",
+   "section": "통계분석결과",
+   "path": "[4]",
+   "ko_txt": "그 외 통계분석 결과는 [붙임 2] 임상통계 검토요약 참고.",
+   "en_txt": "Refer to [Attachment 2] Clinical Statistics Review Summary for other statistical analysis results.",
+   "align_score": 0.8955
+  },
+  {
+   "seg_id": 34,
+   "type": "sentence",
+   "section": "검토결과",
+   "path": null,
+   "ko_txt": "검토의견",
+   "en_txt": "Refer to [Attachment 1] Review comments",
+   "align_score": 0.4882
+  },
+  {
+   "seg_id": 35,
+   "type": "sentence",
+   "section": "통계보완",
+   "path": null,
+   "ko_txt": "NA",
+   "en_txt": "NA",
+   "align_score": 1.0
+  },
+  {
+   "seg_id": 36,
+   "type": "sentence",
+   "section": "붙임",
+   "path": "[0]",
+   "ko_txt": "[붙임 1] 검토의견 (보완사항, 시정사항, 권고사항)",
+   "en_txt": "[Attachment 1] Review Comments (Supplementation Required, Revisions, Recommendations)",
+   "align_score": 0.9378
+  },
+  {
+   "seg_id": 37,
+   "type": "sentence",
+   "section": "붙임",
+   "path": "[1]",
+   "ko_txt": "[붙임 2] 임상통계 검토요약",
+   "en_txt": "[Attachment 2] Clinical Statistics Review Summary",
+   "align_score": 0.8467
+  },
+  {
+   "seg_id": 38,
+   "type": "sentence",
+   "section": "[붙임 1] 검토의견",
+   "path": null,
+   "ko_txt": "본 임상시험의 3상 시험결과는 동일하게 재현되었음. 다만, 한국인 포함 가교임상자료는 제출되지 않아 이에 대한 확인이 필요함.  끝.",
+   "en_txt": "The phase 3 trial results of this multinational clinical study that includes Korean were identically reproduced. However, the bridging study has not been submitted and needs to be confirmed. The End.",
+   "align_score": 0.8554
+  },
+  {
+   "seg_id": 39,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 1. 시험제목",
+   "path": "[0]",
+   "ko_txt": "예정된 시술 전 간 질환과 관련된 혈소판 감소증이 있는 성인의 치료를 위한 1일 1회 경구용 아바트롬보팍 사용의 효능 및 안전성을 평가하는 무작위배정, 글로벌, 이중눈가림, 위약대조, 평행군 시험",
+   "en_txt": "A Randomized, Global, Double-Blind, Placebo-Controlled, Parallel-Group Study to Evaluate the Efficacy and Safety of Once-Daily Oral Avatrombopag for the Treatment of Adults with Thrombocytopenia Associated with Liver Disease Prior to an Elective Procedure.",
+   "align_score": 0.8313
+  },
+  {
+   "seg_id": 40,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 1. 시험제목",
+   "path": "[1]",
+   "ko_txt": "[E5501-G000-310, Version 1.0, 2017.08.22.]",
+   "en_txt": "[E5501-G000-310, Version 1.0, 2017.08.22.]",
+   "align_score": 1.0
+  },
+  {
+   "seg_id": 41,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 2. 대상 적응증",
+   "path": null,
+   "ko_txt": "혈소판 수혈이 필요한 혈소판감소증 및 CLD(Chronic Liver Disease)",
+   "en_txt": "Thrombocytopenia and chronic liver disease (CLD) requiring platelet transfusion",
+   "align_score": 0.8742
+  },
+  {
+   "seg_id": 42,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 3. 임상단계",
+   "path": null,
+   "ko_txt": "제 3 상",
+   "en_txt": "Phase 3",
+   "align_score": 0.8004
+  },
+  {
+   "seg_id": 43,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 4. 연구 디자인",
+   "path": null,
+   "ko_txt": "무작위배정, 글로벌, 이중눈가림, 위약대조, 평행군 시험",
+   "en_txt": "A randomized, global, double-blind, placebo-controlled, parallel-group study",
+   "align_score": 0.7002
+  },
+  {
+   "seg_id": 44,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 5. 무작위배정 방법 및 눈가림",
+   "path": "/무작위배정[0]",
+   "ko_txt": "2개 코호트에서 시험군 vs 대조군(위약) 2:1",
+   "en_txt": "2:1 in 2 Cohorts (test group vs. control group (placebo))",
+   "align_score": 0.7943
+  },
+  {
+   "seg_id": 45,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 5. 무작위배정 방법 및 눈가림",
+   "path": "/무작위배정[1]",
+   "ko_txt": "Low Baseline Platelet Count Cohort: 혈소판 수가 40X10^9/L 미만인 시험대상자",
+   "en_txt": "Low Baseline Platelet Count Cohort: Subjects with a baseline platelet count of <40X10^9/L",
+   "align_score": 0.9106
+  },
+  {
+   "seg_id": 46,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 5. 무작위배정 방법 및 눈가림",
+   "path": "/무작위배정[2]",
+   "ko_txt": "High Baseline Platelet Count Cohort: 혈소판 수가 40 이상 50X10^9/L 미만인 시험대상자",
+   "en_txt": "High Baseline Platelet Count Cohort: Subjects with a baseline platelet count of ≥40 or <50X10^9/L",
+   "align_score": 0.9188
+  },
+  {
+   "seg_id": 47,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 5. 무작위배정 방법 및 눈가림",
+   "path": "/무작위배정[3]",
+   "ko_txt": "층화 블록 무작위배정",
+   "en_txt": "Stratified block randomization",
+   "align_score": 0.7901
+  },
+  {
+   "seg_id": 48,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 5. 무작위배정 방법 및 눈가림",
+   "path": "/무작위배정[4]",
+   "ko_txt": "층화요인: 예정된 시술과 관련된 출혈 위험(low, moderate or high), and HCC status(Yes or No)",
+   "en_txt": "Stratification factors: Risk of bleeding associated with the scheduled procedure (low, moderate, or high) and HCC status (Yes or No)",
+   "align_score": 0.9256
+  },
+  {
+   "seg_id": 49,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 5. 무작위배정 방법 및 눈가림",
+   "path": "/눈가림",
+   "ko_txt": "이중눈가림",
+   "en_txt": "Double-blinding",
+   "align_score": 0.8218
+  },
+  {
+   "seg_id": 50,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 6. 시험목적",
+   "path": "/Primary Objective",
+   "ko_txt": "아바트로보팍(혈소판 수가 40X10^9/L 미만인 시험대상자는 아바트롬보팍 60mg, 혈소판 수가 40 이상 50X10^9/L 미만인 시험대상자는 아보트롬보팍 40mg)이 혈소판감소증이 있는 CLD 시험대상자에서 무작위배정 후 및 예정된 시술 후 최대 7일까지 출혈에 대한 혈소판 수혈 또는 구제요법의 필요성을 없애는 데 있어 위약보다 우월함을 확인하기 위함",
+   "en_txt": "To confirm that avatrombopag (60 mg avatrombopag for subjects with platelet count <40×10^9/L and 40 mg avatrombopag for subjects with platelet count from 40 to <50×10^9/L) was superior to placebo in reducing the need for platelet transfusions or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure in subjects with chronic liver disease (CLD) who have thrombocytopenia.",
+   "align_score": 0.864
+  },
+  {
+   "seg_id": 51,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 7. 평가항목/방법",
+   "path": "/일차 유효성 평가변수",
+   "ko_txt": "무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율",
+   "en_txt": "Proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure",
+   "align_score": 0.8579
+  },
+  {
+   "seg_id": 52,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 7. 평가항목/방법",
+   "path": "/이차 유효성 평가변수[0]",
+   "ko_txt": "시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수가 50X10^9/L 이상인 시험대상자의 비율",
+   "en_txt": "Proportion of subjects who achieved a platelet count at least 50×10^9/L on procedure day  (i.e., before platelet transfusion or the scheduled procedure)",
+   "align_score": 0.8969
+  },
+  {
+   "seg_id": 53,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 7. 평가항목/방법",
+   "path": "/이차 유효성 평가변수[1]",
+   "ko_txt": "시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수의 베이스라인 대비 변화량",
+   "en_txt": "Change in platelet count from baseline on procedure day (i.e., before platelet transfusion or the scheduled procedure)",
+   "align_score": 0.8543
+  },
+  {
+   "seg_id": 54,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 8. 가설",
+   "path": null,
+   "ko_txt": "우월성",
+   "en_txt": "Superiority",
+   "align_score": 0.8128
+  },
+  {
+   "seg_id": 55,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 9. 시험대상자수",
+   "path": null,
+   "ko_txt": "FAS: 231 명(한국인: 43 명), PPS: 194 명, Safety: 227 명",
+   "en_txt": "FAS: 231 subjects (Korean: 43 subjects), PPS: 194 subjects, Safety: 227 subjects",
+   "align_score": 0.9062
+  },
+  {
+   "seg_id": 56,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[0]",
+   "ko_txt": "통계분석 결과에 대한 재분석(재현) 실시와 관련하여,",
+   "en_txt": "Regarding the reanalysis (reproduction) of statistical analysis results:",
+   "align_score": 0.8686
+  },
+  {
+   "seg_id": 57,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[1]",
+   "ko_txt": "- 결과보고서 본문에 제시된 일차 및 이차 유효성 평가변수의 분석결과 전체에 대하여 재분석을 실시하였으며 재분석의 결과가 결과보고서의 내용과 일치함을 확인하여 분석이 계획된 방법에 따라 적절히 수행되었는지를 확인해보았으며, 각 평가변수별 결과보고서와 재분석 결과는 아래에 각 평가변수별로 제시하였음.",
+   "en_txt": "All results for the primary and secondary efficacy endpoints outlined throughout the clinical study report have been reanalyzed. It was confirmed that these reanalysis results were consistent with the findings presented in the original clinical study report and that the analysis was conducted appropriately according to the planned methods. The clinical study report and reanalysis results for each endpoint are presented below.",
+   "align_score": 0.778
+  },
+  {
+   "seg_id": 58,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[2]",
+   "ko_txt": "- 통계분석 방법은 일차 유효성 평가변수의 경우 Low cohort와 High cohort 각각에서 대조군 대비 시험군의 우월성을 층화요인(예정된 시술과 관련된 출혈 위험)을 보정한 Cochran- Mantel-Haenszel test를 통해 유의수준 0.05에서 비교하였음. 본 임상시험의 성공은 2개의 Cohort 모두에서 우월성을 입증하는 것으로 계획하였음. 이차 유효성 평가변수의 경우 범주형 변수의 경우 일차 유효성 평가변수와 동일한 방법으로 비교하였고, 연속형 변수의 경우 Wilcoxon rank sum test를 통해 분석을 실시하였음.",
+   "en_txt": "For the primary efficacy endpoint, the statistical analysis method involved testing the superiority of the test group over the control group in each of the low and high cohorts using the Cochran–Mantel–Haenszel test, adjusted for stratification factors (risk of bleeding associated with the scheduled procedure), with a significance level of α=0.05.The success of this clinical trial was designed to demonstrate superiority in both cohorts. For secondary efficacy endpoints, categorical variables were analyzed using the same method as for the primary endpoint, and continuous variables were analyzed using the Wilcoxon rank-sum test.",
+   "align_score": 0.9199
+  },
+  {
+   "seg_id": 59,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[2]",
+   "ko_txt": "- 통계분석 방법은 일차 유효성 평가변수의 경우 Low cohort와 High cohort 각각에서 대조군 대비 시험군의 우월성을 층화요인(예정된 시술과 관련된 출혈 위험)을 보정한 Cochran- Mantel-Haenszel test를 통해 유의수준 0.05에서 비교하였음. 본 임상시험의 성공은 2개의 Cohort 모두에서 우월성을 입증하는 것으로 계획하였음. 이차 유효성 평가변수의 경우 범주형 변수의 경우 일차 유효성 평가변수와 동일한 방법으로 비교하였고, 연속형 변수의 경우 Wilcoxon rank sum test를 통해 분석을 실시하였음.",
+   "en_txt": "For the primary efficacy endpoint, the statistical analysis method involved testing the superiority of the test group over the control group in each of the low and high cohorts using the Cochran–Mantel–Haenszel test, adjusted for stratification factors (risk of bleeding associated with the scheduled procedure), with a significance level of α=0.05.The success of this clinical trial was designed to demonstrate superiority in both cohorts. For secondary efficacy endpoints, categorical variables were analyzed using the same method as for the primary endpoint, and continuous variables were analyzed using the Wilcoxon rank-sum test.",
+   "align_score": 0.9199
+  },
+  {
+   "seg_id": 60,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[3]",
+   "ko_txt": "• 일차 유효성 평가변수",
+   "en_txt": "Primary efficacy endpoint",
+   "align_score": 0.3901
+  },
+  {
+   "seg_id": 61,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[4]",
+   "ko_txt": "- 무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율",
+   "en_txt": "Proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure",
+   "align_score": 0.8263
+  },
+  {
+   "seg_id": 62,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[5]",
+   "ko_txt": "·주 분석군인 FAS군을 대상으로 일차 유효성 평가변수인 무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율에 대하여 Low cohort의 경우 시험군(Avatrombopag 60mg)과 대조군(Placebo)간 비교를 실시한 결과 시험군이 대조군 보다 우월한 것으로 나타났음(p<0.0001).",
+   "en_txt": "In the FAS group, the primary analysis set, the primary efficacy endpoint was the Proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure. In the low cohort, the test group receiving avatrombopag 60 mg demonstrated statistically significantly superior to placebo(p<0.0001).",
+   "align_score": 0.8449
+  },
+  {
+   "seg_id": 63,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[6]",
+   "ko_txt": "·주 분석군인 FAS군을 대상으로 일차 유효성 평가변수인 무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율에 대하여 High cohort의 경우 시험군(Avatrombopag 40mg)과 대조군(Placebo)간 비교를 실시한 결과 시험군이 대조군 보다 우월한 것으로 나타났음(p<0.0001).",
+   "en_txt": "In the FAS group, the primary analysis set, the primary efficacy endpoint was the Proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure. In the high cohort, the test group receiving avatrombopag 40 mg demonstrated statistically significantly superior to placebo(p<0.0001).",
+   "align_score": 0.8465
+  },
+  {
+   "seg_id": 64,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[6]",
+   "ko_txt": "·주 분석군인 FAS군을 대상으로 일차 유효성 평가변수인 무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율에 대하여 High cohort의 경우 시험군(Avatrombopag 40mg)과 대조군(Placebo)간 비교를 실시한 결과 시험군이 대조군 보다 우월한 것으로 나타났음(p<0.0001).",
+   "en_txt": "In the FAS group, the primary analysis set, the primary efficacy endpoint was the Proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure. In the high cohort, the test group receiving avatrombopag 40 mg demonstrated statistically significantly superior to placebo(p<0.0001).",
+   "align_score": 0.8465
+  },
+  {
+   "seg_id": 65,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[7]",
+   "ko_txt": "• 이차 유효성 평가변수",
+   "en_txt": "Secondary efficacy endpoint",
+   "align_score": 0.4483
+  },
+  {
+   "seg_id": 66,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[8]",
+   "ko_txt": "- 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수가 50X10^9/L 이상인 시험대상자의 비율",
+   "en_txt": "Proportion of subjects who achieved a platelet count at least 50×10^9/L on procedure day (i.e., before platelet transfusion or the scheduled procedure)",
+   "align_score": 0.8841
+  },
+  {
+   "seg_id": 67,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[9]",
+   "ko_txt": "·주 분석군인 FAS군을 대상으로 이차 유효성 평가변수인 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수가 50X10^9/L 이상인 시험대상자의 비율에 대하여 시험군(Avatrombopag)과 대조군(Placebo)간 비교를 실시한 결과 Low Cohort, High Cohort 모두 시험군과 대조군간 통계적으로 유의한 차이가 나타나는 것을 확인하였음(p<0.0001, p<0.0001)",
+   "en_txt": "In the FAS group, the primary analysis set, the proportion of subjects who achieved a platelet count at least 50×10^9/L on procedure day  (i.e., before platelet transfusion or the scheduled procedure). The results showed a statistically significant difference between the study and control groups in both the low cohort and the high cohort (p<0.0001, p<0.0001).",
+   "align_score": 0.8288
+  },
+  {
+   "seg_id": 68,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[9]",
+   "ko_txt": "·주 분석군인 FAS군을 대상으로 이차 유효성 평가변수인 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수가 50X10^9/L 이상인 시험대상자의 비율에 대하여 시험군(Avatrombopag)과 대조군(Placebo)간 비교를 실시한 결과 Low Cohort, High Cohort 모두 시험군과 대조군간 통계적으로 유의한 차이가 나타나는 것을 확인하였음(p<0.0001, p<0.0001)",
+   "en_txt": "In the FAS group, the primary analysis set, the proportion of subjects who achieved a platelet count at least 50×10^9/L on procedure day  (i.e., before platelet transfusion or the scheduled procedure). The results showed a statistically significant difference between the study and control groups in both the low cohort and the high cohort (p<0.0001, p<0.0001).",
+   "align_score": 0.8288
+  },
+  {
+   "seg_id": 69,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[10]",
+   "ko_txt": "- 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수의 베이스라인 대비 변화량",
+   "en_txt": "The change in platelet count from baseline to procedure day (i.e., before platelet transfusion or the scheduled procedure)",
+   "align_score": 0.8488
+  },
+  {
+   "seg_id": 70,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 10. 통계분석방법 / 통계분석결과",
+   "path": "[11]",
+   "ko_txt": "·주 분석군인 FAS군을 대상으로 이차 유효성 평가변수인 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수의 베이스라인 대비 변화량에 대하여 시험군(Avatrombopag)과 대조군(Placebo)간 비교를 실시한 결과 Low Cohort, High Cohort 모두 시험군과 대조군간 통계적으로 유의한 차이가 나타나는 것을 확인하였음(p<0.0001, p<0.0001).",
+   "en_txt": "In the FAS group, the primary analysis set, the change in platelet count from baseline to procedure Day (i.e., before platelet transfusion or the scheduled procedure was compared between the test group (avatrombopag) and the control group (placebo). The results showed a statistically significant difference between the study and control groups in both the low cohort and the high cohort (p<0.0001, p<0.0001).",
+   "align_score": 0.8507
+  },
+  {
+   "seg_id": 71,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[0]",
+   "ko_txt": "통계분석 결과에 대한 재분석(재현) 실시와 관련하여,",
+   "en_txt": "Regarding the reanalysis (reproduction) of statistical analysis results:",
+   "align_score": 0.8686
+  },
+  {
+   "seg_id": 72,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[1]",
+   "ko_txt": "결과보고서 본문에 제시된 일차 및 이차 유효성 평가변수의 분석결과 전체에 대하여 재분석을 실시하였으며 재분석의 결과가 결과보고서의 내용과 일치함을 확인하여 분석이 계획된 방법에 따라 적절히 수행되었는지를 확인해보았으며, 각 평가변수별 결과보고서와 재분석 결과는 아래에 각 평가변수별로 제시하였음.",
+   "en_txt": "All results for the primary and secondary efficacy endpoints outlined throughout the clinical study report have been reanalyzed. It was confirmed that these reanalysis results were consistent with the findings presented in the original clinical study report and that the analysis was conducted appropriately according to the planned methods. The clinical study report and reanalysis results for each endpoint are presented below.",
+   "align_score": 0.8114
+  },
+  {
+   "seg_id": 73,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[2]#s1",
+   "ko_txt": "통계분석 방법은 일차 유효성 평가변수의 경우 Low cohort와 High cohort 각각에서 대조군 대비 시험군의 우월성을 층화요인(예정된 시술과 관련된 출혈 위험)을 보정한 Cochran- Mantel-Haenszel test를 통해 유의수준 0.05에서 비교하였음.",
+   "en_txt": "For the primary efficacy endpoint, the statistical analysis method involved testing the superiority of the test group over the control group in each of the low and high cohorts using the Cochran–Mantel–Haenszel test, adjusted for stratification factors (risk of bleeding associated with the scheduled procedure), with a significance level of α=0.05.",
+   "align_score": 0.9076
+  },
+  {
+   "seg_id": 74,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[2]#s2",
+   "ko_txt": "본 임상시험의 성공은 2개의 Cohort 모두에서 우월성을 입증하는 것으로 계획하였음.",
+   "en_txt": "The success of this clinical trial was designed to demonstrate superiority in both cohorts.",
+   "align_score": 0.8487
+  },
+  {
+   "seg_id": 75,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[2]#s3",
+   "ko_txt": "이차 유효성 평가변수의 경우 범주형 변수의 경우 일차 유효성 평가변수와 동일한 방법으로 비교하였고, 연속형 변수의 경우 Wilcoxon rank sum test를 통해 분석을 실시하였음.",
+   "en_txt": "For secondary efficacy endpoints, categorical variables were analyzed using the same method as for the primary endpoint, and continuous variables were analyzed using the Wilcoxon rank-sum test.",
+   "align_score": 0.8653
+  },
+  {
+   "seg_id": 76,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[2]#s1",
+   "ko_txt": "통계분석 방법은 일차 유효성 평가변수의 경우 Low cohort와 High cohort 각각에서 대조군 대비 시험군의 우월성을 층화요인(예정된 시술과 관련된 출혈 위험)을 보정한 Cochran- Mantel-Haenszel test를 통해 유의수준 0.05에서 비교하였음.",
+   "en_txt": "For the primary efficacy endpoint, the statistical analysis method involved testing the superiority of the test group over the control group in each of the low and high cohorts using the Cochran–Mantel–Haenszel test, adjusted for stratification factors (risk of bleeding associated with the scheduled procedure), with a significance level of α=0.05.",
+   "align_score": 0.9076
+  },
+  {
+   "seg_id": 77,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[2]#s2",
+   "ko_txt": "본 임상시험의 성공은 2개의 Cohort 모두에서 우월성을 입증하는 것으로 계획하였음.",
+   "en_txt": "The success of this clinical trial was designed to demonstrate superiority in both cohorts.",
+   "align_score": 0.8487
+  },
+  {
+   "seg_id": 78,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[2]#s3",
+   "ko_txt": "이차 유효성 평가변수의 경우 범주형 변수의 경우 일차 유효성 평가변수와 동일한 방법으로 비교하였고, 연속형 변수의 경우 Wilcoxon rank sum test를 통해 분석을 실시하였음.",
+   "en_txt": "For secondary efficacy endpoints, categorical variables were analyzed using the same method as for the primary endpoint, and continuous variables were analyzed using the Wilcoxon rank-sum test.",
+   "align_score": 0.8653
+  },
+  {
+   "seg_id": 79,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[3]",
+   "ko_txt": "유효성 평가변수",
+   "en_txt": "Efficacy endpoint",
+   "align_score": 0.4855
+  },
+  {
+   "seg_id": 80,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[4]",
+   "ko_txt": "주 분석군인 FAS군을 대상으로 일차 유효성 평가변수인 무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율에 대하여 Low cohort의 경우 시험군(Avatrombopag 60mg)과 대조군(Placebo)간 비교를 실시한 결과 시험군이 대조군 보다 우월한 것으로 나타났음(p<0.0001).",
+   "en_txt": "In the FAS group, the primary analysis set, the primary efficacy endpoint was the proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure. In the low cohort, the test group receiving avatrombopag 60 mg demonstrated statistically significantly superior to placebo(p<0.0001).",
+   "align_score": 0.8653
+  },
+  {
+   "seg_id": 81,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[5]",
+   "ko_txt": "주 분석군인 FAS군을 대상으로 일차 유효성 평가변수인 무작위배정 후부터 각종 시술 후 최대 7일까지 혈소판 수혈 또는 출혈에 대한 구조 시술이 필요하지 않은 시험대상자의 비율에 대하여 High cohort의 경우 시험군(Avatrombopag 40mg)과 대조군(Placebo)간 비교를 실시한 결과 시험군이 대조군 보다 우월한 것으로 나타났음(p<0.0001).",
+   "en_txt": "In the FAS group, the primary analysis set, the primary efficacy endpoint was the proportion of subjects who did not require a platelet transfusion or any rescue procedure for bleeding after randomization and up to 7 days following a scheduled procedure. In the high cohort, the test group receiving avatrombopag 40 mg demonstrated statistically significantly superior to placebo(p<0.0001).",
+   "align_score": 0.8659
+  },
+  {
+   "seg_id": 82,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[6]",
+   "ko_txt": "주 분석군인 FAS군을 대상으로 이차 유효성 평가변수인 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수가 50X10^9/L 이상인 시험대상자의 비율에 대하여 시험군(Avatrombopag)과 대조군(Placebo)간 비교를 실시한 결과 Low Cohort, High Cohort 모두 시험군과 대조군간 통계적으로 유의한 차이가 나타나는 것을 확인하였음(p<0.0001, p<0.0001).",
+   "en_txt": "In the FAS group, the primary analysis set, the proportion of subjects who achieved a platelet count at least 50×10^9/L on procedure day  (i.e., before platelet transfusion or the scheduled procedure) was compared between the test group (avatrombopag) and the control group (placebo). The results showed a statistically significant difference between the study and control groups in both the low cohort and the high cohort (p<0.0001, p<0.0001).",
+   "align_score": 0.8673
+  },
+  {
+   "seg_id": 83,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[7]",
+   "ko_txt": "주 분석군인 FAS군을 대상으로 이차 유효성 평가변수인 시술일(즉, 혈소판 수혈을 받거나 예정된 시술을 받기 전)혈소판 수의 베이스라인 대비 변화량에 대하여 시험군(Avatrombopag)과 대조군(Placebo)간 비교를 실시한 결과 Low Cohort, High Cohort 모두 시험군과 대조군간 통계적으로 유의한 차이가 나타나는 것을 확인하였음(p<0.0001, p<0.0001).",
+   "en_txt": "In the FAS group, the primary analysis set, the change in platelet count from baseline to procedure Day (i.e., before platelet transfusion or the scheduled procedure) was compared between the test group (avatrombopag) and the control group (placebo). The results showed a statistically significant difference between the study and control groups in both the low cohort and the high cohort (p<0.0001, p<0.0001).",
+   "align_score": 0.8626
+  },
+  {
+   "seg_id": 84,
+   "type": "sentence",
+   "section": "[붙임 2] 임상통계 검토요약 / 11. 종합적 검토의견",
+   "path": "[8]",
+   "ko_txt": "본 임상시험의 3상 시험결과는 동일하게 재현되었음. 다만, 한국인 포함 가교임상자료는  제출되지 않아 이에 대한 확인이 필요함.  끝.",
+   "en_txt": "The phase 3 trial results of this clinical study that includes Korean were identically reproduced. However, the bridging study has not been submitted and needs to be confirmed. The End.",
+   "align_score": 0.8704
+  }
+ ]
+}

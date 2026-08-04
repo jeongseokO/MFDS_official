@@ -1,0 +1,208 @@
+{
+  "document_id": "ke_cochrane_0009",
+  "meta": {
+    "set": "KE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000048",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000048/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "정상 출산 시점에 수술을 위해 전신 마취를 받는 성장 중인 조산아들은 수술후 초기에 무호흡, 청색증 및 서맥의 발현이 있을 수 있다.",
+      "en_txt": "Growing ex‐preterm infants who undergo general anaesthesia for surgery at about term‐equivalent age may have episodes of apnoea, cyanosis and bradycardia during the early postoperative period.",
+      "align_score": 0.7754
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "수술시 주어지는 카페인과 같은 호흡 자극제가 이러한 증상의 발현을 예방할 수 있다.",
+      "en_txt": "A breathing stimulant such as caffeine given at the time of operation might prevent these episodes.",
+      "align_score": 0.8366
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Neonatal Review Group의 표준 검색법을 사용하였다.",
+      "en_txt": "The standard strategy of the Neonatal Review Group was used.",
+      "align_score": 0.8064
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "이것은 코크란 라이브러리, Oxford Database 중 분만시 임상시험, MEDLINE, EMBASE, CINAHL 및 소아 연구 학회 (Society for Pediatric Research)의 초록 검색을 포함하였다.",
+      "en_txt": "This included searches of the The Cochrane Library, Oxford Database of Perinatal Trials, MEDLINE, EMBASE, CINAHL and abstracts of the Society for Pediatric Research.",
+      "align_score": 0.9446
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "2011년 1월에 업데이트 되었다.",
+      "en_txt": "Seach updated in January 2011.",
+      "align_score": 0.7703
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "각 임상시험에서 카페인 치료를 받은 영아군에서 무호흡증/서맥이 더 적게 나타났다.",
+      "en_txt": "In each trial apnoea/bradycardia occurred in fewer infants treated with caffeine.",
+      "align_score": 0.83
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "상대 위험도의 일반적 추정치는 0.09 (95 % CI 0.02 ˜ 0.34)이었다.",
+      "en_txt": "The typical estimate for relative risk is 0.09 (95% CI 0.02 to 0.34).",
+      "align_score": 0.934
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "절대 위험도의 차이에 대한 일반적 추정치는 ‐0.58 (95 % CI ‐0.74 ˜ ‐0.43)로, 수술 후 무호흡증을 가진 한 명의 소아를 예방하기 위해 2 명 미만의 유아를 카페인으로 치료해야한다는 것을 나타낸다.",
+      "en_txt": "The typical estimate for absolute risk difference is ‐0.58 (95% CI ‐0.74 to ‐0.43) indicating that fewer than two infants have to be treated with caffeine to expect to prevent one with postoperative apnoea.",
+      "align_score": 0.9179
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "2개의 임상시험 (Welborn 1989, LeBard 1989)에서 산소 포화도를 지속적으로 측정하였을 경우 대조군에 비해 치료군에서 저산소 혈증 (90 % 미만)이 더 적게 나타났다 (RR 0.13,95 % CI 0.03 ˜ 0.63).",
+      "en_txt": "In two trials (Welborn 1989; LeBard 1989), continuous recordings of oxygen saturation detected hypoxaemic episodes (< 90%) in fewer treatment than control infants [typical RR 0.13 (95% CI 0.03 to 0.63)].",
+      "align_score": 0.8821
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "어느 임상시험에서도 삽관 및 인공 호흡기의 사용이 필요하게 된 유아는 없었다.",
+      "en_txt": "No infant in any trial required intubation and mechanical ventilation.",
+      "align_score": 0.8155
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "부작용은 보고되지 않았다.",
+      "en_txt": "No adverse effects were reported.",
+      "align_score": 0.9093
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "임상 실습에 대한 시사점: 전신 마취 후, 카페인은 임상적으로 필요한 것으로 판단되는 경우 미숙아 성장에서 수술 후 무호흡증 / 서맥 및 산소 불포화의 발현을 방지하기 위해 사용될 수 있다.",
+      "en_txt": "After general anaesthesia, caffeine can be used to prevent postoperative apnoea/bradycardia and episodes of oxygen desaturation in growing preterm infants if this is deemed clinically necessary.",
+      "align_score": 0.824
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "이 임상시험에서 연구된 소수의 영아와 발생 에피소드의 임상적 유의미함에 관한 불확실성을 고려했을때, 이러한 결과를 일상적인 임상 실습에 적용하는 데에 주의를 기울여야 한다.",
+      "en_txt": "In view of the small numbers of infants studied in these trials and uncertainty concerning the clinical significance of the episodes, caution is warranted in applying these results to routine clinical practice.",
+      "align_score": 0.8732
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "연구에 대한 시사점.",
+      "en_txt": "Implications for research.",
+      "align_score": 0.7717
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "이 치료를 통해 어떤 유아가 가장 혜택을 볼 수 있는지 판단할 필요가 있다.",
+      "en_txt": "There is a need to determine which infants might benefit most by this treatment.",
+      "align_score": 0.9246
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "무호흡의 위험이 가장 높은 인구 (이전 병력, 어린 월경 후 연령)와 기계적 인공호흡을 필요로 하거나 또는 만성 폐 질환을 가진 이들로 제한된 연구가 가치가 있을 것이다.",
+      "en_txt": "Studies confined to those most at risk of apnoea (prior history, younger postmenstrual age) and those that might require mechanical ventilation or chronic lung disease would be of value.",
+      "align_score": 0.853
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "카페인은 조산아의 수술 후 무호흡 및 서맥을 예방할 수 있다.",
+      "en_txt": "Caffeine may be able to prevent postoperative apnoea and bradycardia in preterm babies.",
+      "align_score": 0.8005
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "너무 일찍 태어나 (조산) 성장중이거나 수술을 위해 전신 마취를 하는 아기는 무호흡 (호흡 일시 정지), 청색증 (혈중 산소 부족으로 인한) 및 서맥 (느린 심장 박동)의 발현을 포함하여 합병증이 있을 수 있다.",
+      "en_txt": "Growing babies who were born too early (preterm) and who undergo general anaesthetic for surgery may have complications, including episodes of apnoea (pauses in breathing), cyanosis (from lack of oxygen in the blood), and bradycardia (slow heartbeat).",
+      "align_score": 0.8507
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "메틸잔틴 약물인 카페인은 호흡 기능을 자극하여 무호흡 및 그 이후의 문제를 예방하는 것으로 생각된다.",
+      "en_txt": "Caffeine, a methylxanthine drug, is thought to stimulate breathing, and so possibly prevent apnoea and subsequent problems.",
+      "align_score": 0.8679
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이 문헌고찰에서 수술 당시 제공된 카페인이 마취 후 무호흡, 서맥 및 청색증을 감소시킨다는 근거가 발견되었지만 이 근거의 중요성은 불분명하다.",
+      "en_txt": "The review found some evidence that caffeine given at the time of surgery reduces apnoea, bradycardia, and cyanosis after anaesthetic, but the importance of this is unclear.",
+      "align_score": 0.7813
+    }
+  ]
+}

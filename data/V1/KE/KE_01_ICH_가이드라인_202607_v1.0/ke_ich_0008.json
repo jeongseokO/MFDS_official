@@ -1,0 +1,2638 @@
+{
+  "document_id": "ke_ich_0008",
+  "meta": {
+    "set": "KE",
+    "source_folder": "1",
+    "source_code": "ich",
+    "source_name": "ICH 가이드라인",
+    "orig_doc_id": "E1",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 가이드라인",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다지역임상시험",
+      "en_txt": "GENERAL PRINCIPLES FOR PLANNING AND DESIGN OF MULTI-REGIONAL CLINICAL TRIALS",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 절차의 Step 4에 ICH 지역의 규제당국에서 채택할 것이 권고된다.",
+      "en_txt": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of ICH regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2017년 11월 16일 법적 공지: 이 문서는 저작권에 의해 보호되며 항상 이 문서의 저작권이 ICH에 있다는 공증 하에 사용, 재생산, 다른 문서에 통합, 적용, 수정, 번역, 또는 배포 될 수 있다.",
+      "en_txt": "16 November 2017 Legal notice: This document is protected by copyright and may, with the exception of the ICH logo, be used, reproduced, incorporated into other works, adapted, modified, translated or dis- tributed under a public license provided that ICH's copyright in the document is acknowledged at all times.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 문서가 어떠한 경우로든 적용, 수정, 또는 번역이 되는 경우 명확히 기재/표기를 하거나 변경이 이루어졌다는 사실을 확인하거나 또는 원 문서를 기반으로 한 합당한 단계를 거쳐야만 한다.",
+      "en_txt": "In case of any adaption, modification or translation of the document, reasonable steps must be taken to clearly label, demarcate or otherwise identify that changes were made to or based on the original document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "원 문서의 적용, 수정, 또는 번역이 ICH에 의해 승인 또는 후원되었다는 표식은 어떠한 경우에도 금한다.",
+      "en_txt": "Any impression that the adaption, modification or translation of the original document is endorsed or sponsored by the ICH must be avoided.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 문서는 보증서 없이 “원문 그대로” 제공된다.",
+      "en_txt": "The document is provided \"as is\" without warranty of any kind.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "어떠한 경우라도 ICH 또는 원문의 저자는 문서 사용으로 야기된 모든 소송, 손상, 또는 기타 책임사항에 대한 책임이 없다.",
+      "en_txt": "In no event shall the ICH or the authors of the original document be liable for any claim, damages or other liability arising from the use of the document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "상기 명시된 허가사항은 제 3자가 제공하는 내용에는 적용되지 않는다.",
+      "en_txt": "The above-mentioned permissions do not apply to content supplied by third parties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 저작권이 제 3자에게 있는 문서의 경우 재생산은 저작권 소지자로부터 허가를 받아야만 한다.",
+      "en_txt": "Therefore, for documents where the copyright vests in a third party, permission for reproduction must be obtained from this copyright holder.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 조화 가이드라인 다지역 임상시험의 계획 및 설계에 관한 일반적인 원칙",
+      "en_txt": "ICH HARMONISED GUIDELINE GENERAL PRINCIPLES FOR PLANNING AND DESIGN OF MULTI-REGIONAL CLINICAL TRIALS ",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "도입",
+      "en_txt": "INTRODUCTION ",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가이드라인의 목표",
+      "en_txt": "Objectives of the Guideline",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "기본 원칙",
+      "en_txt": "Basic Principles",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs 계획과 설계에 관한 일반적인 권고 사항",
+      "en_txt": "GENERAL RECOMMENDATIONS IN THE PLANNING AND DESIGN OF MRCTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전략 관련 문제",
+      "en_txt": "Strategy-related Issues",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 개발에서 MRCTs의 가치 ",
+      "en_txt": "The Value of MRCTs in Drug Development",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품임상시험관리기준 (GCP)필요조건과 MRCTs",
+      "en_txt": "Good Clinical Practice (GCP) Requirements and MRCTs",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "규제 당국과의 과학적 협의",
+      "en_txt": "Scientific Consultation Meetings with Regulatory Authorities",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 설계와 프로토콜 관련 문제",
+      "en_txt": "Clinical Trial Design and Protocol-related Issues",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역적인 가변성과 그 가변성이 의약품의 유효율과 안전성에 끼치는 잠재적인 영향에 관한 고려",
+      "en_txt": "Pre-consideration of Regional Variability and its Potential Impact on Efficacy and Safety",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피험자 선택",
+      "en_txt": "Subject Selection",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "확증 MRCTs에서 사용 용량 선택",
+      "en_txt": "Selection of Doses for Use in Confirmatory MRCTs",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "종료점의 선택",
+      "en_txt": "Choice of Endpoints",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 크기 계획",
+      "en_txt": "Sample Size Planning",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유효율 및 안전성 정보 수집 및 처리",
+      "en_txt": "Collecting and Handling of Efficacy and Safety Information",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "통계 분석 계획",
+      "en_txt": "Statistical Analysis Planning",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비교약물 선택",
+      "en_txt": "Selection of Comparators",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "병용약물 처리",
+      "en_txt": "Handling Concomitant Medications",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가이드라인의 목표",
+      "en_txt": "Objectives of the Guideline",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 개발의 세계화가 진행됨에 따라, 규제당국이 의약품 마케팅 승인을 지원하기 위한 증거의 주요 자료로 다지역 임상시험(MRCTs) 데이터를 여러 지역과 국가에 걸쳐 인정할 수 있게 되는 것이 중요해졌다.",
+      "en_txt": "With the increasing globalisation of drug development, it has become important that data from multi-regional clinical trials (MRCTs) can be accepted by regulatory authorities across regions and countries as the primary source of evidence, to support marketing ap- proval of drugs (medicinal products).",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인의 목적은, 국제적인 심사 절차 제출시 MRCTs의 수용 가능성을 높이는 것을 목표로 MRCT를 계획하고 설계하기 위한 일반적인 원칙들을 설명하는 것이다.",
+      "en_txt": "The purpose of this guideline is to describe general principles for the planning and design of MRCTs with the aim of increasing the accepta- bility of MRCTs in global regulatory submissions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 가이드라인은 확실한 MRCTs의 계획과 설계를 겨냥하는 문제 뿐만 아니라 전략적인 프로그램 문제도 다루고 있으며, E5, E6, E8, E9, E10, E18을 포함하는 다른 ICH 가이드라인들과 함께 사용되어야 한다.",
+      "en_txt": "The guideline addresses strategic pro- gramme issues as well as issues that are specific to the planning and design of confirma- tory MRCTs, and it should be used together with other ICH guidelines, including E5, E6, E8, E9, E10, and E18.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 개발 세계화 시대에, 의약품 개발 프로그램을 세계적으로 수행하는 것은, 한편으로 규제 당국의 분명하고 때로는 상충되는 필요조건으로 인해 어려울 수 있다.",
+      "en_txt": "In the era of globalisation of drug development, it may be challenging to conduct a drug development programme globally, in part due to distinct and sometimes conflicting re- quirements from regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이와 동시에, 규제 당국은 MRCTs로부터 의약품 승인에 필요한 데이터를 받아 평가하는 어려움이 증가하는 현실에 직면하고 있다.",
+      "en_txt": "At the same time, regulatory authorities face in- creasing challenges in evaluating data from MRCTs for drug approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs의 데이터는 개발 프로그램에 관해 이전에 규제 당국들 간의 의견 조율 없이 다지역 당국에 제출되는 경우가 많다.",
+      "en_txt": "Data from MRCTs are often submitted to multiple regulatory authorities without a previously har- monised regulatory view on the development programme.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E5 가이드라인이 한 지역과 다른 지역에서 나온 결과를 연결하는 것과 관련된 문제를 다루지만, 현재 MRCTs의 계획과 설계를 구체적으로 다루는 ICH 가이드라인은 없다.",
+      "en_txt": "There are currently no ICH guidelines that deal specifically with the planning and design of MRCTs, although the ICH E5 guideline covers issues relating to the bridging of results from one region to an- other.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "현재 가이드라인에 따라 수행되는 MRCTs은 치료 효과에 대한 내인과 외인(ICH E5 가이드라인에서는 민족 요인으로 설명)의 잠재적인 영향력뿐만 아니라 전체 인구의 안전성 평가를 포함하는 치료 효과의 연구를 가능하게 할 것이다.",
+      "en_txt": "MRCTs conducted according to the present guideline will allow investigation of treat- ment effects including safety evaluations in the overall population as well as investiga- tions of the potential impact of intrinsic and extrinsic factors (described as ethnic factors in the ICH E5 guideline) on the treatment effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 가이드라인에 따라 적합하게 설계되고 수행되는 MRCTs는 보다 효율적인 의약품 개발을 촉진하고, 다른 지역들에서 동시에 다규제당국에 시판 허가 신청서를 제출하여, 전세계에 신약을 더 빨리 선보일 수 있는 가능성을 높일 수 있다.",
+      "en_txt": "MRCTs, which are properly designed and executed according to this guideline, may facilitate more efficient drug development and increase the possibility of submitting marketing authorisation applications to multiple regulatory authorities in different regions simultaneously, thus providing earlier access to new drugs worldwide.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 현 가이드라인에 따라 수행되는 MRCTs는, 단일 연구 프로토콜 산하에서 치료 효과가 지역과 인구에 따라 얼마나 다양하며 이 다양성이 내인과 외인으로 어떻게 설명될 수 있을지에 대한 과학적 지식을 확장할 수 있다.",
+      "en_txt": "In addition, MRCTs conducted according to the present guideline may enhance scientific knowledge about how treatment effects vary across regions and populations under the umbrella of a single study protocol, and how this variation may be explained by intrinsic and extrinsic factors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "현 가이드라인은 MRCT를, 단일 프로토콜에 따라 한 곳 이상의 지역에서 수행되는 임상시험이라고 정의한다.",
+      "en_txt": "MRCT is defined in the present guideline as a clinical trial conducted in more than one region under a single protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 맥락에서, 지역은 지리적 지역, 국가 또는 규제 지역을 가리킨다.(3항 용어 정의를 참고) 본 가이드라인이 주로 집중하는 것은, 의약품 승인(추가 적응증, 새로운 제형, 새로운 투약 요법의 승인을 포함)과 시판 후 필요조건을 만족시키기 위해 수행된 연구를 위해 다지역 규제 당국에 제출될 데이터를 제공하기 위해 설계된 MRCTs이다.",
+      "en_txt": "The primary focus of this guideline is on MRCTs designed to provide data that will be submitted to multiple regu- latory authorities for drug approval (including approval of additional indications, new formulations and new dosing regimens) and for studies conducted to satisfy post-market- ing requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 이 가이드라인의 일부 방향은 임상 개발 또는 그 후의 단계들에서 먼저 수행된 연구와 관련이 있을 수도 있다.",
+      "en_txt": "Certain aspects of this guideline may also be relevant to studies con- ducted early in clinical development or in later phases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일부 항목은 모든 개발 프로그램에 적용할 수 없을 수도 있지만(예를 들면, 예방 백신 용량 결정에 사용되지 않는 약물동력학(PK) )현 가이드라인은 생물학적 제제를 포함한 의약품을 주로 다루고 있다.",
+      "en_txt": "The present guideline mainly covers drugs including biological products, although some sections may not be applicable to all development programmes (e.g., pharmacokinetics (PK) not used for preventive vac- cine dose-finding).",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs를 설계하는 기본 원칙들은 다음과 같다.",
+      "en_txt": "Basic principles for designing MRCTs are described below.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이어지는 항목들은 이 원칙들을 더 자세히 확장한다.",
+      "en_txt": "Subsequent sections expand on these principles in more detail.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 개발 프로그램에서 본 가이드라인에 따라 적합하게 설계되고 수행되는 MRCTs를 전략적으로 사용하면, 의약품 개발의 효율성을 높일 수 있다.",
+      "en_txt": "Strategic use of MRCTs in drug development programmes, properly designed and executed according to this guideline, can increase efficiency of drug development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs는 다지역에서 시판 허가 신청서를 동시에 제출할 수 있도록 하고 규제 의사 결정을 지원하여, 전세계에 신약을 더 빨리 선보일 수 있도록 할 수 있다.",
+      "en_txt": "MRCTs may enable simultaneous submission of marketing authorisation applica- tions and support regulatory decision-making in multiple regions, allowing earlier access to new drugs worldwide.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs가 일반적으로 다지역에서 심사 절차 제출이 계획되는 시약 연구의 우선 선택이 될 수 있지만, 연구 결과의 해석 가능성에 영향을 끼치는 지역 간의 차이 가능성은 신중하게 고려되어야 한다.",
+      "en_txt": "Although MRCTs may generally become the preferred option for investigating a new drug for which regulatory submission is planned in multiple regions, the potential for regional differences to impact the interpretability of study results should be carefully considered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 개발 프로그램에 중요한 내인과 외인은 먼저 확인되어야 한다.",
+      "en_txt": "The intrinsic and extrinsic factors important to the drug development programme, should be identified early.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이런 요인들의 잠재적인 영향은 확증 MRCTs 설계 전에 탐색 단계에서 검토될 수 있다.",
+      "en_txt": "The potential impact of these factors could be exam- ined in the exploratory phases before the design of confirmatory MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs는, 치료 효과가 표적 모집단 전체에 특히 임상시험에 포함된 지역에 적용된다는 추정에 따라 계획된다.",
+      "en_txt": "MRCTs are planned under the assumption that the treatment effect applies to the entire target population, particularly to the regions included in the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유사성에 관한 인정받는 지식에 토대를 둔, 지역 또는 부분 모집단의 사전동의된 통합은, 지역에 같은 크기 할당에 유연성 제공을 돕고, 여러 지역에 치료 효과의 일관성 평가를 촉진하고 규제 의사 결정을 지원할 수 있다.",
+      "en_txt": "Pre-specified pooling of regions or subpopulations, based on established knowledge about similarities, may help provide flexibility in sample size alloca- tion to regions, facilitate the assessment of consistency in treatment effects across regions, and support regulatory decision-making.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가설 검증과 전체 치료 효과의 추정을 위한 주요 분석 기법 한 가지는 계획되어, 모든 관련 규제 당국이 수용할 수 있도록 해야 한다.",
+      "en_txt": "A single primary analysis approach for hypothesis testing and estimation of the overall treatment effect should be planned so that it will be acceptable to all con- cerned regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "여러 지역과 부분 모집단에서 치료 효과의 일관성을 검토하는 구조적인 탐색이 계획되어야 한다.",
+      "en_txt": "A structured exploration to examine the consistency of treatment effects across regions and subpopulations should be planned.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다양한 지역의 관행들을 볼 때, 모든 지역에서 ICH E6에 따라 연구 설계와 시행의 높은 품질을 보장하는 것은, 연구 결과를 해석 가능하게 보장하기 위해서 가장 중요하다.",
+      "en_txt": "In light of diverse regional practices, ensuring high quality of study design and conduct in accordance with ICH E6 in all regions is of paramount importance to ensure the study results are interpretable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 계획, 연구자 트레이닝, 임상시험 모니터링을 하는 동안 활동 품질에 주의를 기울이면, 성공적인 MRCT에 필요조건이 되는 높은 임상 품질을 일관성 있게 확보할 수 있을 것이다.",
+      "en_txt": "Careful attention to quality during trial planning, investigator training, and trial monitoring will help achieve consistently high trial quality required for a successful MRCT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs 계획과 설계에 관한 일반적인 권고 사항 2.1 전략 관련 문제 2.1.1 의약품 개발에서 MRCTs의 가치 역사적으로, 의약품 개발은 구체적인 규제 지역을 위해 설계된 규제 전략에 초점을 맞추었다.",
+      "en_txt": "GENERAL RECOMMENDATIONS IN THE PLANNING AND DESIGN OF MRCTS 2.1 Strategy-related Issues 2.1.1 The Value of MRCTs in Drug Development Historically, drug development focused on regulatory strategies designed for specific reg- ulatory regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그런 맥락으로 볼 때, MRCTs는 과거에 질병 또는 질환이 희귀하거나(예를 들면, 효소결핍증)특정한 모집단(예를 들면, 노인 집단, 소아 집단)에서 나타날 때, 또는 매우 많은 피험자가 필요할 때 (예를 들면, 심혈관 결과 연구, 백신유효율 연구), 합당한 기간 안에 계획된 숫자의 임상시험 피험자를 모집할 수 있는 효과적인 방법으로 인정받았다.",
+      "en_txt": "In that context, MRCTs had been recognised as an efficient way to enable recruitment of the planned number of trial subjects within a reasonable timeframe when either the disease and/or condition was rare (e.g., an enzyme deficiency disorder), for special (e.g., elderly, paediatric) populations, or when very large numbers of subjects were required (e.g., cardiovascular outcome studies, vaccine efficacy studies).",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최근에는 세계적인 규제 전략도 연구를 더 효율적으로 계획하고 수행하여 전세계 환자들이 더 빨리 의약품을 입수할 수 있도록 사용된다.",
+      "en_txt": "More re- cently, global regulatory strategies are also used to plan and conduct studies more effi- ciently to facilitate more rapid availability of drugs to patients worldwide.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품에 대한 반응에 영향을 끼친다고 사람들이 믿거나 의심하는 내인 또는 외인은 단일 프로토콜을 사용하여 다양한 지역에서 온 데이터를 토대로 심도 있게 평가될 수 있다.",
+      "en_txt": "The intrinsic and/or extrinsic factors that are believed or suspected to impact upon responses to the drug can be further evaluated based on data from various regions using a single protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 약제대사효소 또는 의약품의 분자표적 속의 유전적 차이 또는 유전체 다형성의 다른 분포가 치료 효과에 끼치는 영향은 지역에 따라 다른 내인을 갖고 있는 피험자들을 포함한 탐색 MRCT 와(또는) 확증 MRC에서 검토될 수 있다.",
+      "en_txt": "For example, the impact on the treatment effect of genetic differences or different distribution of gene polymorphisms in drug metabolising enzymes or the mo- lecular target of a drug can be examined in exploratory and/or confirmatory MRCTs that include subjects with different intrinsic factors across regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "내인과 외인의 영향에 대한 지식이 축적되고 다양한 지역의 경험을 세계적으로 공유하여, MRTS에 추가 지역을 포함시킬 것을 홍보할 수 있다.",
+      "en_txt": "Accumulated knowledge of the impact of intrinsic and extrinsic factors and global sharing of experiences in various regions may promote inclusion of additional regions in MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs를 수행하는 주된 이유는 모든 지역에서 온 피험자들의 데이터를 토대로 전체 치료 효과를 평가하려는 것이다.",
+      "en_txt": "The primary reason for performing MRCTs is to evaluate the overall treatment effect based on data from subjects in all regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나, 내인과(또는) 외인은 피험자의 의약품 반응에 지역에 따라 다르게 영향을 끼칠 것으로 예상되므로 MCRTs를 계획할 때 고려되어야 한다.",
+      "en_txt": "However, intrinsic and/or extrinsic factors may be expected to impact subjects’ responses to drugs differently across regions and should be considered when planning MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "치료 효과에 큰 차이가 예상된다면, 입수 가능한 데이터는, MRCT를 수행하는 것이 적합하고 실현 가능한가 결정하기 위해 평가되어야 한다.",
+      "en_txt": "If major differences in treatment effects are expected, available data should be assessed to decide, whether it is appropriate and feasible to conduct the MRCT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "치료 효과의 큰 차이가 예상되는 경우라도, 신중한 고려 후에, 일부 지역 또는 한 지역의 제한된 부분 모집단을 제외하면 MRCT를 수행하는 것이 여전히 가능할 수 있다.",
+      "en_txt": "Even in the case of expected major differences in treat- ment effects, it may still be possible, to conduct MRCTs by excluding some regions or a defined subgroup within a region, after careful consideration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제외된 지역에서 질병과(또는) 의약품을 연구하는 추가 전략도 고려되어야 한다.",
+      "en_txt": "Additional strategies to study a disease and/or drug in the excluded regions should be considered (see ICH E5).",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "(ICH E5 참고) MRCTs가 ICH E5 가이드라인을 토대로 한 가교 전략 데이터의 자료 출처라면, MRCTs는 단일 지역의 임상시험 보다는 연구 결과의 추정에 강력한 증거를 제공할 수 있을 것이다.",
+      "en_txt": "If MRCTs are the source of data in the bridging strategy based on the ICH E5 guideline, MRCTs could provide more robust evidence than single regional trials for extrapolation of study results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "몇몇 경우에는, 단일 지역에 퍼져 있는 질병을 치료 또는 예방하는 의약품을 평가하는 것과 같은 단일 지역 연구가 적합할 수 있다. (예를 들어, 항말라리아제, 지역 전염병에 특화된 백신, 지역 특유의 종을 처리하는 항생제) ",
+      "en_txt": "In some cases, single-region studies may be appropriate, such as in the evaluation of drugs to treat or prevent a disease that is prevalent in a single region (e.g., anti-malarial drugs, vaccines specific to local epidemics, or antibiotics for region-specific strains).",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs는 의약품의 세계적인 동시 개발을 촉진하고, 각 지역에서 각각 수행되는 임상 연구 숫자를 줄여서, 연구의 불필요한 중복을 최소화할 수 있게 한다.",
+      "en_txt": "MRCTs can facilitate simultaneous global development of a drug and reduce the number of clinical studies conducted separately in each region, thereby minimising unnecessary duplication of studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs가 계획 단계에서 조율이 더 필요하고 시작 시간이 늘어날 수 있지만, 이런 시간 사용으로 여러 지역들을 거쳐 초기에 승인을 받도록 촉진하여 전 세계에 신약을 더 빨리 보급할 수 있는 길을 마련하여, 일부 지역에서 신약 입수의 상당한 지체가 일어나는 것을 피할 수 있다.",
+      "en_txt": "Although MRCTs require more coordination during the planning stage and possibly increase start-up time, their use may provide a pathway for earlier access to new drugs worldwide by facilitating earlier approval across regions, thereby avoiding significant lag in the availability of new drugs in some regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그림1의 예에서 분명히 볼 수 있는 바와 같이, 다른 지역들의 임상 의약품 개발 시간표는, 각 지역에서 독자적으로 수행된 지역 연구와는 달리, MRCTs의 사용으로 동시에 진행될 수 있다.",
+      "en_txt": "As shown in the illustrative examples in Figure 1, the timing of clinical drug development across different regions can be synchronised by the use of MRCTs, in comparison to local studies conducted independently in each region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 그림1은 MRCTs 사용을, 확증 단계에서 뿐만 아니라 가능한 경우 탐색 단계에서 선택으로 하는 등 의약품 개발 프로그램 전체 설계에서도 보인다.",
+      "en_txt": "Figure 1 also illustrates the use of MRCTs in the overall design of the drug development programme, not only in the con- firmatory stage, but also as an option in the exploratory stage, where it is feasible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "관련 있는 내인과 외인을 초기에 확인하면, 확증 MRCTs 계획에 훌륭한 기초를 마련할 수 있다.",
+      "en_txt": "Early identification of relevant intrinsic and extrinsic factors could set a good foundation for planning confirmatory MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCT가 심사 절차 제출을 지원하는 유일한 주요 임상시험이 되는 것이 타당하고 효율적일 수 있으며, 이런 경우에, MRCT는 승인을 지원하는 충분하고 강력한 증거를 제공하도록 설계되어야 한다.",
+      "en_txt": "It may be plausible and efficient for an MRCT to be the single pivotal trial to support regulatory submission, and if this is the case, it should be designed to provide sufficient and robust evidence to support approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "요약하면, 본 가이드라인에 따라 적합하게 설계되고 시행된 MRCTs를 전략적으로 사용하면, 의약품 개발의 효율성을 높일 수 있고, 다양한 모집단에 치료 효과를 탐색할 수 있고, 다지역에서 동시에 시판 허가 신청서를 제출하고 규제 의사 결정을 내릴 수 있다.",
+      "en_txt": "In summary, strategic use of MRCTs, properly designed and executed according to this guideline, can increase efficiency of drug development, allow for exploration of the treat- ment effect to diverse populations, and enable simultaneous submission of marketing au- thorisation applications and regulatory decision-making in multiple regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서, MRCTs는 일반적으로 다지역에서 심사 절차 제출이 계획된 신약 연구를 위한 우선 선택이 될 수 있다.",
+      "en_txt": "Therefore, MRCTs may generally become the preferred option for investigating a new drug for which regulatory submission is planned in multiple regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품임상시험관리기준 (GCP): 필요조건과 MRCTs MRCTs에 참여하는 모든 장소는 해당되는 품질, 윤리적 규제 기준에 부합해야 한다.",
+      "en_txt": "Good Clinical Practice (GCP): Requirements and MRCTs All sites participating in MRCTs should meet applicable quality, ethical and regulatory standards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특히, 규제 당국이 참여 장소를 GCP 검사할 수 있도록 하는 등 모든 지역과 장소에서 ICH E6 GCP 기준을 준수하여 MRCTs를 수행해야 한다.",
+      "en_txt": "Specifically, MRCTs should be conducted in compliance with ICH E6 GCP standards in all regions and sites, including making sites available for GCP inspections by regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피험자의 권리, 안전성, 건강과 연구 결과의 신뢰도에 끼칠 수 있는 잠재적인 위험을 다루기 위해서, 모니터링 계획과 다른 품질 점검을 사전에 명시하고 시행해야 한다.",
+      "en_txt": "Monitoring plans and other quality checks should be pre-spec- ified and implemented in order to address potential risks to subject rights, safety and well- being, and to the reliability of study results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 임상시험 피험자 정체 또는 유해 효과 보고(ICH E6) 등에서 지역 간의 차이 발생의 영향을 모니터하고 완화하기 위해서, 중앙집중되고 위험에 기반을 둔 모니터링이 MRCTs에 특히 유용할 수 있다.",
+      "en_txt": "Centralised and risk-based monitoring may be particularly useful for MRCTs in order to monitor and mitigate the impact of emerging regional differences in, for example, trial subject retention or adverse event reporting (ICH E6).",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "후원자, 임상시험 관리 팀, 참여 장소들 간에 시기 적절하고 정확한 정보의 흐름이 이루어져야 한다.",
+      "en_txt": "Timely and accurate flow of information should occur between the sponsor, the trial management team and the participating sites.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "규제 당국과의 과학적 협의 회의: MRCTs 후원자들은 관련 규제 당국과 과학적 협의 회의를 할 것을 권고 받는다.",
+      "en_txt": "Scientific Consultatio Meetings with Regulatory Authorities: Sponsors of MRCTs are encouraged to have scientific consultation meetings with rele- vant regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 상호작용은 MRCTs의 계획 단계에서 이루어져서, 전체적인 개발 계획과 시판 허가를 지원하는 MRCT 데이터의 용인 가능성을 위한 규제 필요조건을 논의해야 한다.",
+      "en_txt": "These interactions should take place during the planning stage of MRCTs to discuss the regulatory requirements for the overall development plan and the acceptability of MRCT data to support marketing authorisations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "당국과의 협의는 프로토콜 전개의 다양한 양상에 영향을 끼치는 여러 단계에서 이루어질 수 있다.",
+      "en_txt": "Consultation with authorities may happen at various stages affecting different aspects of protocol development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "관계 당국간의 과학적인 논의는 연구 필요조건의 조화를 이룰 수 있도록 하기 위해 권고된다.",
+      "en_txt": "Inter-authority scientific dis- cussions are encouraged to allow for harmonisation of study requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역적인 가변성과 그 가변성이 의약품의 유효율과 안전성에 끼치는 잠재적인 영향에 관한 사전 고려: 의약품 개발 전략에서 MRCTs이 할 수 있는 역할을 결정할 때, 계획 단계에 지역적인 가변성, 내인과 외인으로 설명할 수 있는 이 가변성의 범위, 연구 결과에 영향을 끼치는 가변성의 잠재력을 신중하게 고려해야 한다.",
+      "en_txt": "Pre-consideration of Regional Variability and its Potential Impact on Efficacy and Safety: At the planning stage, regional variability, the extent to which it can be explained by intrinsic and extrinsic factors, and its potential to influence the study results, should be carefully considered in determining the role MRCTs can play in the drug development strategy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역 간의 내인과 외인의 차이를 고려할 수 있도록, 참여 지역을 대표하는 연구자들과 전문가들이 MRCTs를 계획하고 설계할 때 상담을 받도록 권고한다.",
+      "en_txt": "To facilitate taking into consideration differences among regions in intrinsic and extrinsic factors, it is recommended that investigators and experts representing par- ticipating regions are consulted in the planning and design of MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이런 가변성의 규모는 확증 MRCTs를 계획하고 설계하기 전에 탐색 연구에서 검토될 수 있을 것이다.",
+      "en_txt": "The magni- tude of such variability could be examined in exploratory studies before the planning and design of confirmatory MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 개발 프로그램에 중요한 내인과 외인은 MRCT 계획 단계에 확인되어야 하며, 이에 대한 정보는 확증 임상시험 기간 동안 수집되어 추후 치료 효과에 끼친 영향 평가에 이용되어야 한다.",
+      "en_txt": "The intrinsic and extrinsic factors important to the drug development programme, should be identified during the planning stage of an MRCT, and information about them should be collected during the confirmatory trial for later evaluation of their impact on treatment effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E5 가이드라인은 치료 효과에 영향을 끼칠 수 있는 내인과 외인을 설명한다.",
+      "en_txt": "The ICH E5 guideline describes intrinsic and extrinsic factors, which may affect the treatment effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCT 장소에서, 다음의 요인들은 특히 중요하며, 전체 임상시험 결과와 비교하여 치료 효과의 차이를 보인다고 의심되는 지역을 확인하기 위해 고려되어야 한다.",
+      "en_txt": "In the MRCT setting, the following factors are particularly important and should be considered to identify regions that are suspected to show differences in treatment effects compared to the overall trial results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "질병의 정의, 진단 방법, 특정한 종료점에 관한 이해는 지역에 따라 매우 다양할 수 있다.",
+      "en_txt": "Disease definitions, methods of diagnosis and the understanding of certain end- points may vary between regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 차이는 연구 절차뿐만 아니라 포함 범주와 배제 범주를 정확하게 정의하면 완화될 수 있다.",
+      "en_txt": "These differences could be mitigated by pre- cisely defining inclusion and exclusion criteria as well as study procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역에 따라 의료 관행과 치료에 차이가 있을 수 있다.",
+      "en_txt": "There may be differences in medical practices and treatments across regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 차이는 임상시험 결과 그리고/또는 해석에 영향을 끼칠 수도 있다.",
+      "en_txt": "Such differences may have an impact on the trial results and/or their interpretation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "섭식, 환경적 요인, 문화적 또는 사회경제적 요인 (예를 들면 피임약 사용, 특정한 투여 경로 선호), 의료 서비스 이용 기회가 임상시험 결과에 영향을 끼칠 수 있다.",
+      "en_txt": "Diet, environmental factors, cultural or socio-economic factors (e.g., contracep- tive use, preferences for a particular route of administration) and access to healthcare may impact trial results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 의약품 물질대사 속의 유전체 다형성 또는 수용체 감도(ICH E5 부록 D에서 설명) 또는 체중과 연령이 의약품의 유효율과 안전성 뿐만 아니라 PK- 약력학(PD)에 영향을 줄 수 있다.",
+      "en_txt": "For example, genetic polymorphisms in drug metabolism or receptor sensitivity (described in ICH E5 Appendix D) or body weight and age may impact PK-pharmacodynamics (PD), as well as efficacy and safety of the drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이는 임상연구 의약품에뿐만 아니라 비교약물이나 병용약물에도 적용되며, MRCTs 를 계획하는 동안 고려되어야 한다.",
+      "en_txt": "This applies not only to the investigational drug, but also to comparators and concomitant medications and should be taken into account during planning of MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "여러 다른 지역에서 내인/외인에 대한 치료 효과의 일부 민감성은 예상될 수 있지만, MRCTs의 고려를 불가능하게 해서는 안 된다.",
+      "en_txt": "Some sensitivity of the treatment effect to intrinsic and/or extrinsic factors may be ex- pected in different regions, but should not preclude consideration of MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위에서 언급한 요인들에 토대를 둔 가변성 정도는 MRCTs의 적합한 설계와 시행으로 완화될 수 있는 경우가 많다.",
+      "en_txt": "Often, the degree of variability based on the factors mentioned above can be mitigated by proper design and execution of MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역적인 가변성을 줄이기 위해서 특정 지역에 필요하다면 추가 지원(예를 들면 물류, 기간시설, 실험실)을 제공하거나 다른 완화 전략을 고려하고 시행해야 한다.",
+      "en_txt": "Providing additional support as needed (e.g., logistical, infrastructure, laboratory) to specific regions or other mitigation strategies should be con- sidered and implemented to reduce variability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 완화 정도가 연구 결과의 일반화 가능성에 영향을 끼칠 수 있을지를 고려하는 것이 중요하다.",
+      "en_txt": "However, it is important to consider whether the degree of mitigation may impact the generalizability of the study results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위에서 설명한 완화 전략을 사용해도 지역적인 차이는 여전히 존재할 수 있으며, 이러한 차이는 일반적으로 근본적인 내인과 외인에서 비롯된다.",
+      "en_txt": "Even with the mitigation strategies described above, regional differences may still exist, and these differences are usually due to underlying intrinsic and extrinsic factors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이런 관점에서 볼 때, 지역은 치료 효과의 지역적 차이를 초래하는 다른, 알려지지 않은 경우가 많은(또는 예상하지 않은) 요인들의 지표이다.",
+      "en_txt": "In this sense, region is an indicator for other, often unknown (or unanticipated) factors causing regional differences in treatment effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 이유로, MRCTs는 일반적으로 지역에 따라 계층이 나뉜다 (2.2.5 항 참고).",
+      "en_txt": "For this reason, MRCTs are usually stratified by region (see Section 2.2.5).",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그림 2는 질병의 위중도(그림2a) 또는 민족성(그림2b) 같은 내인/외인이 치료 반응에서 지역적 차이로 나타날 수 있는 방식을 보인다.",
+      "en_txt": "Figure 2 illustrates the way in which intrinsic and/or extrinsic factors such as disease severity (Figure 2a) or ethnicity (Figure 2b) may manifest as re- gional differences in treatment response.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나, 이런 요인들은 지역간의 뚜렷한 차이를 설명할 수 있다.",
+      "en_txt": "However, these factors may explain such ap- parent differences across regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그림 2a에서, 위중도에 따른 치료 증가에 대한 반응과 위중도는 지역에 따라 다르다.",
+      "en_txt": "In Figure 2a, response to treatment increases with dis- ease severity, and disease severity differs by region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 시나리오는 지역들 간의 근본적인 요인(질병의 위중도)의 분포 차이가 설명하는 치료에 대한 반응으로서 관찰된 지역적 차이로 나타난다.",
+      "en_txt": "This scenario is manifested by ob- served regional differences in response to treatment that are explained by differences in the distribution of the underlying factor (disease severity) among regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "여러 지역에서 수용할 만하고 적용될 수 있는 분명하고 구체적인 배제 범주가 프로토콜에 포함되어야 한다.",
+      "en_txt": "Clear and specific inclusion and exclusion criteria, that are acceptable and can be applied across regions, should be included in the protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피험자 선택의 조화를 이루기 위해서, 질병 정의에 적합한 가이드라인 사용 등 질병 진단 또는 위험에 처한 모집단의 정의에 관한 단일한 등급 분류와 범주가 시행되어야 한다.",
+      "en_txt": "To harmonise subject selection, uniform classification and criteria for diagnosis of the disease or definition of the at-risk population should be implemented, such as the use of relevant guidelines for disease definitions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피험자를 선택하는데 진단 도구(예를 들어 생화학 검사 또는 염색체 검사)가 필요할 때, 지역의 타당성이 증명된 도구와 자격 있는 실험실이 사용될 수 있는 등급을 포함하여 이 도구들은 분명히 명시되어야 한다.",
+      "en_txt": "When diagnostic tools (e.g., biochemical test- ing, genetic testing) are needed for the selection of subjects, these should be clearly spec- ified including the degree to which local validated tools and qualified laboratories may be used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특히 피험자 선택이 주관적인 범주(예를 들면, 류마티스 관절염 증상등급을 사용)에 토대를 둘 때, 전 지역에서 동일하게 같은 방법(적합한 언어로 타당성이 증명된 증상등급/점수)을 사용해야 한다.",
+      "en_txt": "In particular, when subject selection is based on subjective criteria (e.g., use of symptom scales in rheumatoid arthritis), the same methods (e.g., validated symptom scales and/or scores in the appropriate language) should be used uniformly across regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그렇게 해도 증상 보고는 지역에 따라 다양할 수 있고 연구에 포함되는 피험자들의 유형에도 차이가 있을 수 있다.",
+      "en_txt": "Even so, reporting of symptoms may vary by region and may lead to differences in the types of subjects included in the studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "트레이닝 필요조건과 영향을 잠재적으로 경감하는 다른 전략들을 시행하기 위해서 계획 단계에 이런 양상이 고려되어야 한다.",
+      "en_txt": "This aspect should be considered in the planning stage, in order to implement training requirements and other strategies for potential miti- gation of the impact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 추출, 처리, 저장 방식뿐만 아니라 영상 방식은 필요한 정도로 전 지역에서 분명하게 정의되고 표준화되어야 한다.",
+      "en_txt": "Imaging methods, as well as methods for specimen collection, handling and storage should be clearly defined and standardised across regions to the degree required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "확증 MRCTs에서 사용 용량 선택: 용량 선택에 영향을 줄 수 있는 지역적 차이를 확인하기 위해서, 적용 가능한 매개변수의 PK 연구/ PK-PD 연구를 포함하는 잘 계획된 초기 개발 프로그램을 시행하는 것은 중요하다.",
+      "en_txt": "Selection of Doses for Use in Confirmatory MRCTs: It is important to execute well-planned early development programmes that include PK and/or PK-PD studies of applicable parameters, in order to identify regional differences which may impact dose selection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "PK /PK-PD에 끼친 민족성의 영향을 이해하려면, 다지역에서 실시한 단일지역 임상시험 또는 한 지역에서 수행된 다민족성 임상시험으로부터 데이터를 입수해야 할 것이다.",
+      "en_txt": "To understand the impact of ethnicity on PK and/or PK-PD, data may be obtained from single-region trials in multiple regions, or a trial with multiple ethnicities conducted in one region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그 대신에, 초기 단계 MRCTs가 효과적으로 그런 데이터 수집을 돕고 PK-PD에서 지역적 차이의 이해도를 높인다면 고려될 수 있을 것이다.",
+      "en_txt": "Alternatively, early phase MRCTs may be considered, if they aid in efficiently gathering such data and improve the understanding of regional differences in PK-PD.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "아직 적합하게 이해하지 못한 차이가 예상된다면 (ICH E5 참고), MRCTs에 포함된 지역에 가장 적절한 주요 민족 그룹에서 PK 연구가 수행되어야 한다.",
+      "en_txt": "PK studies should be undertaken in the major ethnic groups most relevant to the regions to be included in MRCTs, if differences are expected that are not yet adequately under- stood (see ICH E5).",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "PK의 차이와 관련되었다고 알려진 부분 모집단들 사이의 적합한 PK 비교는, 다른 지역/부분 모집단의 약력학 연구와 용량-반응 연구의 필요성에 대한 결정을 가능하게 할 것이다.",
+      "en_txt": "Adequate PK comparisons between subpopulations known to be associated with differences in PK will allow for decisions with respect to the need for pharmacodynamic studies and dose-response studies in different regions and/or subpop- ulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "초기 연구에 등록된 피험자들로부터 유전자 데이터(예를 들어, 약제대사효소의 유전자형)를 모아서 PK와 PD에 끼친 유전 요인의 효과를 검토할 것을 권고한다.",
+      "en_txt": "It is encouraged to collect genetic data (e.g., genotypes of drug metabolising enzymes) from subjects enrolled in the early studies to examine the effects of genetic factors on PK and PD.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 초기 데이터는 구체적인 유전자형을 갖고 있는 피험자들이 부분 모집단으로 간주되는, 미래 연구의 투약 요법을 결정할 때 유용한 정보를 제공할 것이다.",
+      "en_txt": "Such early data may provide useful information when determining dosing regi- men(s) for future studies, where subjects with specific genotypes may be considered a subpopulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "모집단 PK 접근법/모델 기반 접근법(예를 들면 노출-반응 모델)을 포함한 용량 선택 전략은, 다른 모집단에서 의약품 반응에 영향을 끼치는 중요한 요인들을 확인하고, 추가적인 용량-반응의 적합한 용량 범위를 정하는데 유용할 것이다.",
+      "en_txt": "A strategy for dose-selection involving population PK approaches and/or model-based approaches (e.g., exposure-response models) may be useful to identify important factors affecting drug responses in different populations, and to set an appropriate dose range for further dose-response studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "용량-반응 연구는 광범위한 용량 범위를 다루어야 하며 일반적으로 확증 MRCTs에 등록된 모집단을 포함해야 한다.",
+      "en_txt": "Dose-response studies should cover a broad range of doses and generally include the populations to be enrolled in confirmatory MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나, PK/PD 와 용량-반응의 중요한 지역 차이가 예상되지 않는다면, (예를 들어, 의약품에 대한 반응이 내인과 외인에 민감한 것 같지 않은 경우) (ICH E5, 부록D 참고) 확증 MRCTs에 포함될 계획인 모든 지역의 피험자의 용량-반응 데이터 또는 PK-PD를 확보하는 것이 필수적이지 않을 수 있다.",
+      "en_txt": "However, it may not be necessary to obtain PK-PD or dose-response data from subjects in all regions planned to be included in confirmatory MRCTs, if important regional differences in PK and/or PD and dose-response are not anticipated (e.g., response to the drug is unlikely to be sensitive to intrinsic and extrinsic factors) (see ICH E5, appendix D).",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "용량 선택 전략의 수용성에 대해서는 먼저 관련 규제 당국과 논의해야 한다.",
+      "en_txt": "The acceptability of dose-selection strategies should be discussed in advance with the relevant regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "상당한 차이가 예상된다면 (예를 들어, 의약품 반응이 내인/외인에 민감한 경우), 임상 연구를 추가할 필요가 있을 수 있다.",
+      "en_txt": "If substantial differences are anticipated (e.g., the drug response is sensitive to intrinsic and/or extrinsic factors), further investigations may be needed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특정한 민족 모집단에서 PK-PD 또는 용량-반응 연구를 수행하거나, 더 광범위한 모집단에서 연구를 수행하여 용량-반응에 끼친 내인/외인의 영향을 추가로 평가할 수 있도록 한다.",
+      "en_txt": "These could include a PK-PD or dose-response study conducted in a particular ethnic population or studies conducted for a broader population, that would allow further evaluation of the impact of intrinsic and extrinsic factors on dose-response.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "확증 MRCTs의 투약 요법(위에서 언급한 연구 데이터를 토대로 함)은 원칙적으로 참가하는 민족 모집단 모두와 같다.",
+      "en_txt": "The dose regimens in confirmatory MRCTs (based on data from studies mentioned above) should in principle be the same in all participating ethnic population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 초기 임상시험 데이터가 한 민족 모집단에 용량-반응/노출-반응 관계에서 분명한 차이를 보인다면, 투약 요법이 용인 가능한 안전성 한계가 있는 유사한 치료 효과를 나타낼 것으로 예상되고 연구 프로토콜에서 과학적으로 타당성이 입증된다는 가정 하에, 다른 투약 요법을 사용하는 것이 적합할 수 있다.",
+      "en_txt": "However, if earlier trial data show a clear difference in dose-response and/or exposure-response relationships for an ethnic population, it may be appropriate to use a different dosing regimen, provided that the regimen is expected to produce similar therapeutic effects with an acceptable safety margin, and provided it is scientifically justified in the study proto- col.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다른 용량이 사용되는 평가 전략을 신중하게 계획하는 일은, 각 경우에 따라 맞춤으로 정해져야 하며 분석 계획에 설명되어야 한다.",
+      "en_txt": "Prospective careful planning of assessment strategies where different doses are used should be tailored to each case and described in the analysis plans.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2.2.4 종료점의 선택 ICH E9에서 제공된 종료점 선택과 정의에 대한 일반적인 원칙이 적용된다.",
+      "en_txt": "2.2.4 Choice of Endpoints The general principles for endpoint selection and definitions that are provided in ICH E9 apply.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCT에 특히 중요한 면모는 다음에 설명되어 있다.",
+      "en_txt": "The aspects of particular importance to MRCTs are described here.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs에서 이러한 관련성은, 임상시험의 모든 지역에, 해당 지역에 대표되는 다양한 의약품, 질병, 모집단 특성들과 관련하여, 고려될 필요가 있다.",
+      "en_txt": "In MRCTs, this rele- vance needs to be considered for all regions in the trial and with respect to the various drug, disease and population characteristics represented in those regions (see Section 2.2.1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "(2.2.1 항목 참고) 이상적인 임상시험 종료점은, 임상적으로 관련이 있고, 의료 관행에서 수용되고(예를 들면, 규제 가이던스 또는 직업 사회 가이드라인), 치료의 예상 효과를 탐지하는 충분히 민감하고 구체적인 변수이다.",
+      "en_txt": "An ideal clinical trial endpoint is one that is clinically relevant, accepted in med- ical practice (e.g., by regulatory guidance or professional society guidelines) and suffi- ciently sensitive and specific to detect the anticipated effect of the treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs에는, MRCT의 성공 또는 실패 해석이 여러 지역들과 규제 당국들 사이에서 일관성이 있도록 보장하기 위해서, 1차종료점이 모든 관련 규제 당국들에 수용될 뿐만 아니라 유효율이든 안전성이든 이 범주를 만족시켜야 한다.",
+      "en_txt": "For MRCTs, the primary endpoint, whether efficacy or safety, should satisfy these criteria as well as being acceptable to all concerned regulatory authorities, to ensure that interpretation of the success or failure of the MRCT is consistent across regions and among regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "타당성이 제대로 입증된 과학적 규제적 이유로 합의가 이루어질 수 없다면, 규제 당국의 각 필요조건에 부합하기 위해 맞춤으로 정해진 종료점 관련 부항목들과 함께 프로토콜이 개발되어야 한다.",
+      "en_txt": "If agreement cannot be reached due to well-justified scientific or regulatory reasons, a single protocol should be developed with endpoint-related sub-sections tailored to meet the respective requirements of the reg- ulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 경우에, 규제 승인이 다른 당국에 의한 다른 1차종료점을 토대로 했기 때문에, 규제 의사 결정에 다원성 조정이 필요하지 않다.",
+      "en_txt": "In this case, because regulatory approvals are based on different pri- mary endpoints by different authorities, no multiplicity adjustment is needed for regula- tory decision-making.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs 사용은 1차종료점 정의에 관한 더 깊은 고려의 필요성을 알릴 수 있다.",
+      "en_txt": "Using MRCTs may introduce the need for further consideration regarding the definition of the primary endpoint.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들면, 입원, 심리 측정 척도, 삶의 질 평가와 고통의 척도 등이다.",
+      "en_txt": "Examples are hospitalisation, psychometric scales, assessment of quality of life and pain scales.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 척도들이 적합하게 해석될 수 있는지 보장하기 위해서, MRCT를 시작하기 전에 모든 해당 지역에서 이 척도들이 타당성 입증을 받고 적용 가능해야 한다.",
+      "en_txt": "To guarantee that such scales can be properly interpreted, the scales should be validated and their applicability to all relevant regions justified before starting the MRCT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs의 1차 종료점은 참여 지역들에서 이미 경험이 가능한 것이어야 한다.",
+      "en_txt": "The primary endpoint of MRCTs should be one for which experience is already available in the participating regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "종료점과 관련한 사전 경험이 MRCT에 관련된 지역 한 곳 또는 부분에서만 존재한다면, 1차 종료점 채택을 위해 증거를 기반으로 규제 당국과 논의하고 합의하여, 앞으로의 임상시험이 합의한 종료점의 임상 타당성에 대한 정보를 추가할 수 있도록 해야 한다.",
+      "en_txt": "In cases where prior experience with an endpoint only exists in one or a subset of regions involved in the MRCT, its adoption as primary endpoint will require discussion and agreement with regulatory authorities regarding the basis for the evidence, keeping in mind that the forthcoming trial can add information about clinical relevance of the agreed upon endpoint.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "종료점 선택과 정의에 추가하여, 1차 종료점 평가의 시간과 방법에 대해서도 규제 합의를 이루어야 한다.",
+      "en_txt": "In addition to endpoint selection and definition, regulatory agreement should also be ob- tained on the timing and methods of the primary endpoint assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 일부 경우에는, 각각의 규제 당국이 관심과 경험에 따른 다른 2차종료점을 제안할 수 있다.",
+      "en_txt": "However, in some cases, individual regulatory authorities may propose different secondary endpoints relevant to their inter- ests and experience.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "후원자의 관심사는, 다종료점을 다수 조정할 필요성(영향)을 줄임으로써 의도된 효과를 성공적으로 나타낼 기회를 높이기 위해서, MRCTs 계획 단계 중에 가능한 정확하게 2차 종료점 관점에서 임상 연구 의약품의 구체적인 이점을 설명하는 것이다.",
+      "en_txt": "It is in the interest of the sponsor to describe the specific advantages of the investigational drug, in terms of secondary endpoints as precisely as possible during the planning stage of MRCTs, to reduce the need for (and impact of) multiplicity adjustments for multiple endpoints, thereby improving the chance for successfully demonstrating the intended effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다른 고려 사항 종료점은 공식적인 타당성 검증을 필요조건으로 하지 않겠지만, 일부 종료점은 다른 문화 배경에서 사용될 때 미묘한 이해 차이의 대상이 될 수 있다.",
+      "en_txt": "Other Considerations Although endpoints may not require formal validation, some endpoints may be subject to subtle differences in understanding, when used in different cultural settings.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 특정 유형의 유해효과가 어떤 지역에서 다른 지역보다 더 민감하게 보고되어(예를 들면, 다소 자주), 유해효과의 실제 차이보다, 문화적인 차이로 인해 보고 유형에 차이를 나타내는 결과를 보일 수 있다.",
+      "en_txt": "For example, certain types of adverse events may be more sensitively reported (e.g., more or less fre- quently) in some regions than others, resulting in differences in reporting patterns due to cultural variation, rather than true differences in incidence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs에서 이런 변수들을 종료점으로 사용하려면 신중한 계획이 필요할 것이다.",
+      "en_txt": "Use of these variables as endpoints in MRCTs will require careful planning.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "데이터 수집과 임상시험 결과의 해석에서 이런 차이의 영향을 최소화하는 접근이, 연구 프로토콜에 설명되고 타당성이 증명되어야 한다.",
+      "en_txt": "Approaches to minimise the impact of this variation in data collection and interpretation of the trial results should be described and justified in the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "한 지역 또는 두세 지역에만 관심을 끄는 종료점은 MRC의 지역 하위임상시험으로 고려될 수 있다.",
+      "en_txt": "Endpoints that are only of interest to one or a few regions could be considered for a re- gional sub-trial of the MRCT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 지역 하위임상시험 종료점 확인이 주요 임상시험의 수행을 방해하지 않도록 보장하는 데 주의를 기울여야 한다.",
+      "en_txt": "However, care should be taken to ensure that ascertainment of regional sub-trial endpoints do not hamper the conduct of the main trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특히, 지역 하위임상시험이 수행될 수 있는지 또는 하나의 분리된 임상시험이 필요한지를 결정하는 데, 다른 종료점들과 관련해서 보고의 편견을 일으킬 수 있는 잠재성, 연구 주제와 연구 인력들에 대한 추가적인 부담의 영향을 고려해야 한다.",
+      "en_txt": "In particular, consideration should be given to the impact of additional burden to study subjects and study personnel, and the potential to induce reporting bias with respect to other endpoints, in determining whether regional sub-trials can be conducted or whether a separate trial is needed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2.2.5 표본 크기 계획 일반적인 고려 사항 표본 크기 계획의 핵심 고려 사항은, 치료 효과가 전체 표적 모집단, 특히 임상시험에 포함된 지역에 적용된다는 가정하에, 전체 치료 효과를 평가할 수 있는 충분한 표본 크기를 보장하는 것이다.",
+      "en_txt": "2.2.5 Sample Size Planning General Considerations The key consideration for sample size planning, is ensuring sufficient sample size to be able to evaluate the overall treatment effect, under the assumption that the treatment effect applies to the entire target population, particularly to the regions included in the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCT는 이런 가정이 포함하는 크기를 평가하는 고유한 기회를 제공한다.",
+      "en_txt": "MRCT offers a unique opportunity to evaluate the extent to which this assumption holds.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs는 지역에 따라 무작위 추출과 분석으로 계층화된다.",
+      "en_txt": "MRCTs are usually stratified by region for both randomization and analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 고려사항들은 MRCT 전체 설계에 반영되어야 하며, 표본 크기 계획과 지역 할당에 영향을 줄 것이다.",
+      "en_txt": "These considerations should be reflected in the overall design of the MRCT and will influence the sample size planning and allocation to regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전체 표본 크기 MRCT의 주요 목표는 일반적으로 MRCT 모든 지역에 있는 모든 피험자들에게 평균인 치료 효과의 평가(추정과 검사)에 해당한다.",
+      "en_txt": "Overall Sample Size The primary objective of an MRCT generally corresponds to an evaluation (estimation and testing) of the treatment effect averaged across all subjects in all regions of the MRCT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전체 표본 크기는 이 목표에 도달할 수 있다고 보장하기 위해 결정된다.",
+      "en_txt": "The overall sample-size is determined to ensure that this objective can be met.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs에서도 사용되는 보편적으로 정의된 치료 효과의 예들은, 이환율 또는 사망률의 위험 비율, 치료 그룹 간의 평균 혈압 수준(기준선에 따라 조정) 차이, 무해효과 또는 유해효과의 상대위험 등이 있다.",
+      "en_txt": "Examples of commonly defined treatment effects also used in MRCTs, are hazard ratios for morbidity or mortality, differences between treatment groups in average blood pres- sure levels (adjusted for baseline) and relative risks of either favourable or adverse events.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험의 표본 크기를 결정하는데 ICH E9에서 제공한 것과 동일한 일반적인 원칙이 MRCTs에도 적용된다.",
+      "en_txt": "The same general principles provided in ICH E9 for determining sample sizes of clinical trials apply to MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이런 요인들은 한 지역의 단일 임상시험과 비교할 때, MRCT의 표본 크기가 커지는 결과가 나올 수 있다.",
+      "en_txt": "These factors may result in a sample size increase for an MRCT compared to a single trial in one region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 증가의 크기는, 내인과 외인, 각 지역에서 의약품 반응에 대한 내인과 외인의 잠재적인 영향뿐만 아니라, 구체적인 질병과 의약품의 작용기전에 따라 달라질 것이다.",
+      "en_txt": "The extent of this increase will depend on the specific disease and the mechanism of action of the drug, as well as the intrinsic and extrinsic factors and their potential impact on drug response in each region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상 연구 의약품의 초기 탐색 임상시험으로부터 나온 데이터는 표본 크기 결정에 영향을 끼칠 수 있다.",
+      "en_txt": "Data from early exploratory trials with the investigational drug in relevant populations may inform sample size determination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 크기 지역 할당 MRCT는 지역들 간의 치료 효과의 일관성 평가를 포함하도록 계획되어야 하며, 일관성이란 임상적으로 관련된 차이가 없다는 뜻이다.",
+      "en_txt": "Sample Size Allocation to Regions The MRCT should be planned to include an evaluation of the consistency of treatment effects among regions, where consistency is defined as a lack of clinically relevant dif- ferences.",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역 간에 임상적으로 관련된 차이가 관찰된다면, MRCT는 이런 차이를 설명할 수 있는 요인들에 대한 추가 학습의 고유한 기회를 제공할 것이다.",
+      "en_txt": "If clinically relevant differences among regions are observed, then the MRCT provides a unique opportunity for additional learning about the factors that may explain these differences.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역 할당은 (임의적인 표적보다) 과학적인 기준을 가지고 있어야 하며, 일관성 평가를 지지해야 하고, 규제 결정을 지원하는데 필요한 정보를 제공해야 한다.",
+      "en_txt": "Regional allocation should have a scientific basis (rather than arbitrary targets), should support the evaluation of consistency and should provide the information needed to support regulatory decisions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 크기 지역 할당은 지역의 질병 유행 유형, 각 지역의 질병 유행 크기와 예상되는 질병 증가율, 치료 효과에 영향을 끼치는 동의 된(또는 가설이 세워진) 내인과 외인, 각 지역의 이런 요인들의 유행, 질병 증가에 영향을 준다고 생각되는 다른 물류적인 고려 사항들을 고려해야 한다.",
+      "en_txt": "Sample size allocation to regions should take into consideration patterns of disease prev- alence across regions, the size and expected accrual rate of each region, the intrinsic and extrinsic factors understood (or hypothesized) to influence treatment effects, the preva- lence of those factors in each region and other logistical considerations thought to impact accrual.",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 고려사항들에 균형을 맞추는 지역 할당 전략은, 시기 적절하게 등록을 완료할 수 있고 MRCT 목표에도 부합하게 보장하도록 도움을 줄 것이다.",
+      "en_txt": "A regional allocation strategy that balances these considerations will help to ensure that enrolment can be completed in a timely fashion and that the MRCT objectives are met.",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCT의 표본 크기 할당에 한결같이 수용 가능하거나 최적인 방법은 없다.",
+      "en_txt": "There is no uniformly acceptable or optimal approach to sample size allocation in an MRCT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "현재 사용 중인 몇 가지 방법은 다음과 같:",
+      "en_txt": "Some approaches currently in use include",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비례 할당: 지역의 크기와 질병 유행 정도에 비례하여 피험자들을 지역들에 할당한다.",
+      "en_txt": "Proportional Allocation: Allocation of subjects to regions in proportion to size of region and disease prevalence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "동일 할당: 피험자들을 각 지역에 동일한 숫자로 할당한다.",
+      "en_txt": "Equal Allocation: Allocation of equal numbers of subjects to each region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "효과 유지: 전체 치료 효과의 구체적인 비율을 유지하는 것을 토대로 1개 이상의 지역에 피험자들을 할당한다.",
+      "en_txt": "Preservation of Effect: Allocation of subjects to one or more regions based on preserving some specified proportion of the overall treatment effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역적 중요성: 각 지역 내에서 중요한 결과를 얻을 수 있도록, 피험자 수를 충분히 할당한다.",
+      "en_txt": "Local Significance: Allocation of a sufficient number of subjects to be able to achieve significant results within each region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최소 고정 수: 한 지역에 피험자들을 최소 고정 수로 할당한다.",
+      "en_txt": "Fixed Minimum Number: Allocation of a fixed minimum number of subjects to a region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비례 할당은, 피험자들을 질병 부담이 가장 크고 다른 장애물이 없는 지역으로 할당하여 신규 모집을 가능하게 하고, 일반적으로 등록을 완료하는 데 필요한 시간을 최소화할 것이다.",
+      "en_txt": "Proportional allocation facilitates recruitment by allocating subjects to the regions with the greatest disease burden, and absent other impediments, will generally minimize the time needed to complete enrolment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "동일 할당에는 주어진 전체 표본 크기 표적에 지역들 간의 치료 효과의 차이를 탐지하는데 쓸 수 있는 힘을 최대한 활용할 수 있다는 장점이 있다.",
+      "en_txt": "Equal allocation has the advantage of optimizing the power available to detect differences in treatment effects between regions for a given overall sample size target.",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "신규 모집을 실현 가능하게 하면서 시간도 맞춰서 완료할 수 있게 보장하면서도, 지역 사정에 따라 의약품을 평가하는 충분한 정보를 제공하려면, 비례 할당과 동일 할당 사이의 균형을 맞추면 된다.",
+      "en_txt": "A balance between proportional and equal allocation is recommended, to ensure that recruitment is feasible and able to be completed in a timely fashion, but also to pro- vide sufficient information to evaluate the drug in its regional context.",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최소를 선택하는 과학적인 타당성 증명이 없다면, 여러 지역의 표본 크기를 최소 고정 수로 할당하는 것은 권장하지 않는다.",
+      "en_txt": "Allo- cating a fixed minimum sample size for regions is not recommended, if there is no scien- tific justification for selecting the minimum.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "실제로는, 표본 크기 할당을 숙고할 때, 과학적 물류적 고려 사항을 반영할 것이다.",
+      "en_txt": "In practice, sample size allocation deliberations will reflect both scientific and logistical considerations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 질병에 영향을 받은 모집단을 표적으로 하는 첫 할당은 질병 유행과 지역의 크기를 고려하여 결정될 수 있다.",
+      "en_txt": "For example, an initial allocation may be determined that targets the pop- ulation affected by the disease, taking disease prevalence and regional size into account.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 첫 할당은 전체 표본 크기가 확보될 수 있다고 보장해야 한다.",
+      "en_txt": "This initial allocation should ensure that the overall sample size can be achieved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그리고 이 할당은 변경되어 지역 표본 크기의 큰 불균형을 줄이고, 지역들 간의 치료 효과의 일관성 평가를 지원할 것이다.",
+      "en_txt": "The allocation would then be modified to reduce any large imbalances in regional sample sizes and to support an evaluation of consistency of treatment effects across regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 변경은 일부 지역들을 모아서(다음 설명에 나옴) 동일한 크기 할당에 융통성을 줄 수 있다.",
+      "en_txt": "This modification could entail pooling some regions (as described below) to provide flexibility in sample size allocation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "과학적으로 타당성이 증명된 최소 지역 표본 크기 표적도 이 단계에서 고려될 수 있다.",
+      "en_txt": "Minimum regional sample size targets that are scientifically justified could also be taken into consideration at this step.",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "한 가지 예는, 최소 표본 크기를 확인하여 충분히 정확하고 엄밀한, 의미 있는 서술 개요(예를 들면, 숲 그림)를 제공하는 것이다.",
+      "en_txt": "One example would be to specify a minimum sample size to provide meaningful descriptive summaries (e.g., forest plots) with sufficient accuracy and precision.",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위의 다섯 가지 방법은 완벽하지 않다는 점을 주의하자.",
+      "en_txt": "Note that the five approaches discussed above are not exhaustive.",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs에서 표본 크기 할당의 새로운 방법은 미래에 개발될 것이고, 지금은 이 분야의 혁신을 권장한다.",
+      "en_txt": "New approaches for sample size allocation in MRCTs may be developed in the future, and innovation in this area is encouraged.",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역 풀링과 부분 모집단 풀링 사전 명시된 지역 또는 부분 모집단 풀링은, 지역의 표본 크기 할당에 융통성을 제공하고, 여러 지역의 치료 효과의 일관성 평가를 가능하게 하고, 규제 의사 결정을 지원할 것이다.",
+      "en_txt": "Pooled Regions and Pooled Subpopulations Pre-specified pooling of regions or subpopulations may help provide flexibility in sample size allocation to regions, facilitate the assessment of consistency in treatment effects across regions, and support regulatory decision-making.",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들면, 캐나다와 미국을 북아메리카 지역으로 모으는 풀링은, 유사한 의료 관행과 유사한 병용 약물 사용 때문에 타당성이 증명되는 경우가 많다.",
+      "en_txt": "For example, pooling Canada and the United States into a North American re- gion is often justified because of similar medical practices and similar use of concomitant medications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "풀링 전략은 적용 가능하면 연구 프로토콜과 통계 분석 계획에 명시되어야 한다.",
+      "en_txt": "Pooling strategies should be specified in the study protocol and statistical analysis plan, if applicable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 설계 단계에서 이 요인들에 대한 충분한 지식이 있다면, 그런 요인들에 기반한 부분 모집단을 정의하고 계층화와 분석에서 새로 정의된 부분 모집단을 지역에 더하여 포함시키는 것이 가능할 것이다.",
+      "en_txt": "If there is suffi- cient knowledge about these factors at the trial design stage, it may be possible to define subpopulations based on those factors, and then incorporate these newly defined subpop- ulations in the stratification and analysis, in addition to region.",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "공식적으로, 부분 모집단 풀링은, 한 지역에서 온 피험자들의 부분집합과 유사하게 정의될 다른 지역의 부분집합이 모인 풀을 말하며, 이 풀의 일원들은 의약품 개발 프로그램에 중요한 내인 또는 되인 하나 이상을 공유한다.",
+      "en_txt": "Formally, the term pooled subpopulation refers to pooling of a subset of the subjects from one region with similarly defined subsets from other regions whose members share one or more intrinsic or extrin- sic factors important for the drug development programme.",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들면, 북아메리카와 남아메리카에 살고 있는 히스패닉 또는 유럽과 북아메리카에 살고 있는 백인을 들 수 있다.",
+      "en_txt": "Examples include Hispan- ics living in North and South America, or Caucasians living in Europe and North America.",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 크기 할당은 부분 모집단 풀링의 치료 효과의 가변성 분석 계획을 고려해야 하며, 지역들의 할당에 대해 위에서 설명한 원칙도 부분 모집단 풀링에 적용되어야 한다.",
+      "en_txt": "The sample size allocation should consider the planned analysis of variability of treatment effect among pooled subpopulations, and the principles described above for allocation to regions may also apply to pooled subpopulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다른 표본 크기 고려사항 표본 크기와 표본 크기 할당에 영향을 끼치는 요인들을 임상시험에 나타난 지역들을 관할하는 다른 규제 기구들과 함께 미리 합의해야 한다.",
+      "en_txt": "Other Sample Size Considerations The factors that influence sample size and sample size allocation should be agreed upon in advance with the different regulatory agencies governing the regions represented in the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "규제 당국들 간의 합의에 도달하는 광범위한 시도 후에, 잘 설명된 과학적인 주장 때문에 다른 규제 필요조건들이 남아 있는 경우라면, 가장 엄격한 차이가 표본 크기 계산에 고려되어야 한다.",
+      "en_txt": "If, after extensive attempts to reach consensus among regulatory author- ities, it is the case that different regulatory requirements remain due to well-described scientific arguments, the most stringent margin should be considered for sample size cal- culation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 희귀한 질병 또는 전염병 발병 연구에서, 질병 유행은 지역들 사이에 상당히 다를 수 있으며, 한 지역 이상이 임상시험 신규모집을 현실적으로 지배하도록 허용하는 것이 필수적일 수 있다.",
+      "en_txt": "In studies of rare diseases or an infectious disease outbreak, for example, disease prevalence may differ substantially between regions, and it may be necessary to allow one or more regions to dominate the trial for recruitment to be feasible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "신규 모집 전략은 계획 중에 규제 당국과 논의되어야 한다.",
+      "en_txt": "The recruitment strategy should be discussed with the regulatory authorities during planning.",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "요약하자면, 지역 또는 지방 연구에서 표본 크기 필요조건과 비교할 때, MRCTs에서 전체 표본 크기의 잠재적인 증가는, 주로 다지역 모집단에 예상되는 가변성 증가 때문이지, 과도하게 엄격하거나 자의적인 지역 표본 크기 필요조건 때문이 아니다.",
+      "en_txt": "In summary, comparing with sample size requirements in regional or local studies, the potential increase of the overall sample size in MRCTs should be due primarily to the increased variability anticipated for a multi-regional population and not due to overly stringent or arbitrary regional sample size requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역들/부분 모집단들을 모으는 타당성을 잘 증명하고 사전에 명시하는 풀링 전략과 신중하게 고려한 표본 할당 계획을 합쳐서, MRCT의 목표에 부합하도록 할 수 있다.",
+      "en_txt": "The use of a well-justified and pre-specified strategy for pooling regions and/or subpopulations in conjunction with a carefully thought out sample allocation plan can facilitate meeting the objectives of the MRCT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유효율 및 안전성 정보 수집 및 처리: ICH E6에 설명된 대로, GCP를 준수하는 것은, 임상 실험이 GCP에 나온 목표에 부합하는데 중요하며, 다양한 지리적 지역에서 임상시험을 수행하는데 필요한 조율 때문에 특히 MRCT에서 중요하다.",
+      "en_txt": "Collecting and Handling of Efficacy and Safety Information: Adherence to GCP, as described in ICH E6, is critical for any clinical trial to meet its stated objectives and is particularly important in an MRCT, because of the coordination required to conduct a trial in diverse geographic regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유효율 및 안전성 정보를 수집하고 처리하는 방법은 참여 지역들 사이에서 표준화되어야 한다.",
+      "en_txt": "Methods of collecting and han- dling efficacy and safety information should be standardised across participating regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 각 지역에서 임상시험을 시작하기 전에 연구자들과 연구 직원들을 위한 표준화된 트레이닝을 제공하고, 연구 프로토콜의 표준화된 시행을 통해 임상시험 목표에 부합하도록 보장하는 것이 중요하다.",
+      "en_txt": "It is also important to provide standardised training for investigators and study personnel in each region before initiating the trial in that region to ensure that the trial objectives are met through standardised implementation of the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E2에 따라 안전성 보고를 해야 한다.",
+      "en_txt": "Safety reporting should be conducted in accordance with ICH E2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "안전성 보고를 위한 구체적인 시간표가 프로토콜에 설명되어야 하며, 연구자들은 ICH E6과 다른 관련 가이드라인을 따라 충분한 트레이닝을 받아야 한다.",
+      "en_txt": "The specific timeframe for safety reporting should be described in the protocol, and the investigators should receive sufficient train- ing in accordance with ICH E6 and other relevant guidelines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs의 경우, 중요한 안전성 정보는 지방 규제에 따를 뿐만 아니라 ICH E2에 따라 처리되어야 한다.",
+      "en_txt": "In the case of MRCTs, important safety information should be handled both with adherence to any local regula- tions and in adherence to ICH E2A.",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "중요한 안정성 정보는 항상 관련 이해당사자(예를 들면 연구자들, 윤리 위원회)에게 시기적절한 방식으로 제공되어야 한다.",
+      "en_txt": "Important safety information should always be pro- vided to the relevant stakeholders (e.g., investigators, ethics committees) in a timely man- ner.",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특별한 우려(예를 들면 심각한 유해 효과)가 확인되고, 시험 지역이 꽤 넓은 경우(일반적으로 3단계 확증 연구에서)인 장기간에 걸친 MRCTs에서, 진행 중인 임상시험의 완결성을 유지하면서, 축적된 유효율 /MRCT로부터 온 안전성 정보를 모니터하기 위해서, 위원회(참여 지역으로부터 적합하게 임상시험 맥락을 평가하기 위해 대표로 나옴)를 모니터하는 독자적인 중심 데이터 사용이 고려되어야 한다.",
+      "en_txt": "In MRCTs of long duration, where special concerns (e.g., serious adverse events) have been identified, and/or where operational regions are quite large (usually Phase III con- firmatory studies), the use of a central independent data monitoring committee (with rep- resentation from participating regions to adequately assess the context of the trial) should be considered, in order to monitor the accumulating efficacy and/or safety information from the MRCT while maintaining integrity of the ongoing trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "종료점/임무의 조정이 계획된다면, 단일 조정 위원회가 중앙으로 집중하여 평가하는 것이 고려되어야 한다.",
+      "en_txt": "If adjudication of end- points and/or events is planned, a centralised assessment by a single adjudication com- mittee should be considered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "실험실 평가 또는 영상 평가에 기초한 종료점을 위해 중앙으로 집중한 실험실 조정 또는 중앙으로 집중한 영상 조정을 사용할 것을 일반적으로 권고한다.",
+      "en_txt": "For endpoints based on laboratory or imaging assessments, it is generally recommended to use a centralised laboratory or centralised adjudication of imaging.",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다수의 실험실이 사용된다면, 실험실들 간에 적합한 교차 타당성 증명 방법이 임상 표본을 검사하기 전에 수행되어야 한다.",
+      "en_txt": "If multiple labora- tories are used, appropriate cross-validation of methods between laboratories should be conducted before testing clinical samples.",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs에서 조율된 현장 개시는, 적합한 수행, 완료, 지역에서 지연 없는 결과 보고를 보장하기 위해 특히 중요하다.",
+      "en_txt": "Coordinated site initiation is particularly important in MRCTs to ensure proper conduct, completion and reporting of results without any delays among regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "후원자는 ICH E6에 설명된 품질 관리를 준수하기 위해서, MRCTs의 설계, 수행, 감독, 기록, 평가, 보고, 기록 보관의 품질을 관리하기 위한 시스템을 실행해야 한다.",
+      "en_txt": "To comply with the quality management described in ICH E6, the sponsor should implement a system to manage quality in design, conduct, oversight, recording, evaluation, reporting and archiv- ing of MRCTs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "완화 방법은 지역의 차이를 고려해야 한다.",
+      "en_txt": "Mitigation approaches should take regional variations into consideration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 전자 데이터를 확보하고 보고하고, 지연 없이 표준화된 방식으로 모든 지역에서 (관련 내인과 외인을 포함한) 정보와 데이터를 모으는 것이 고려될 수 있다.",
+      "en_txt": "It could also be considered to use electronic data capturing and re- porting, to gather information and data (including relevant intrinsic and extrinsic factors) from all regions in a standardised way without delays.",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "통계 분석 계획: ICH E9는 무작위 임상시험 통계 분석을 계획하고 수행하는 일반적인 통계 원칙을 제공한다.",
+      "en_txt": "Statistical Analysis Planning: ICH E9 provides general statistical principles for planning and conducting statistical anal- yses of randomised clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs에 특히 중요한 분석 계획의 면모는 다음에 설명되어 있다.",
+      "en_txt": "Aspects of analysis planning that are particularly im- portant for MRCTs are described below.",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "분석 전략은 MRCT에 나오는 지역들 또는 중요한 부분 모집단의 유용성/위험의 질적/양적 평가(ICH M4E) 가 가능하도록 계획되어야 한다.",
+      "en_txt": "The analysis strategy should be planned to en- able the qualitative and/or quantitative evaluation of benefit/risk (ICH M4E) across re- gions or important subpopulations represented in the MRCT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "분석 전략에 대한 규제 조언 획득 MRCT와 관련된 규제 당국과 사전에 논의하고 제안된 분석 전략에 대한 동의를 얻을 것을 권고한다.",
+      "en_txt": "Obtaining Regulatory Input on Analysis Strategy It is recommended to have early discussions with the regulatory authorities involved in the MRCT, and to obtain their agreement on the proposed analysis strategy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "기준은, 임상시험 개시에 앞서서 연구 프로토콜의 통계 항목에 단 하나의 주요 분석법을 당국의 동의를 얻어 명시하는 것이다.",
+      "en_txt": "The standard is to specify a single primary analysis approach in the statistical section of the study pro- tocol to be agreed upon with the authorities in advance of initiating the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCT에서 주요 분석 전략의 규제 필요조건이, 타당성 증명이 잘된 과학적 규제적 이유 때문에 다르다면, 이 다른 필요조건을 만족시키기 위한 계획의 분석 전략들이 연구 프로토콜에 설명되어야 한다.",
+      "en_txt": "If in an MRCT, regulatory requirements for the primary analysis strategy differ due to well-jus- tified scientific or regulatory reasons, the analysis strategies planned to satisfy the differ- ent requirements should be described in the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한, 전략 분석 계획이 1개 이상의 규제 당국의 다른 문서로서 필요조건이 된다면, 다른 규제 필요조건들을 통합하는 분석 계획 한 가지가 개발되어야 한다.",
+      "en_txt": "If, in addition, a statistical analysis plan is required as a separate document by more than one regulatory authority, a single analysis plan integrating the different regulatory requirements should be devel- oped.",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCT의 분석 전략은, 적용된다면, 임상시험의 무결성을 보장하기 위해서, 치료 배정의 맹검해제 이전에 완결되어야 한다.",
+      "en_txt": "The analysis strategy for an MRCT should be finalized prior to unblinding of treat- ment assignments, if applicable, to ensure trial integrity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "주요 분석 MRCT를 계획할 때, 주요 분석 전략은 (1) 표적 모집단 (2) 주요 관심사의 종료점/변수(3)다지역, 다- 부분모집단의 맥락에서 관련 있는 내인과 외인 (4) 치료 효과를 설명하는데 필수적인 데이터의 모집단 수준 요약을 세심하게 고려할 것이다.",
+      "en_txt": "Primary Analysis In planning an MRCT, the primary analysis strategy should carefully consider (1) the target population, (2) the endpoints/variables of primary interest, (3) the relevant intrinsic and extrinsic factors in the multi-regional, multi-subpopulation context and (4) the popu- lation-level summary of data required to describe the treatment effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대부분의 MRCTs에 있어서, 주요 분석은, 임상시험에 포함된 모든 지역과 부분모집단으로부터 온 데이터를 고려한 치료 효과와 치료 효과의 추정에 대한 가설을 검사하는 것에 해당할 것이다.",
+      "en_txt": "For most MRCTs, the primary analysis will correspond to a test of the hypothesis about the treatment effect and the estimation of that effect, considering data from all regions and subpopulations included in the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "무작위 추출이 지역에 따라 계층화된다면, 주요 분석은 적합한 통계 방법을 사용하여 지역 조정을 해야 한다.",
+      "en_txt": "If randomisation is stratified by region, the primary analysis should adjust for regions using appropriate statistical methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일부 지역이 내인/외인에 토대를 두고 모여 풀을 이루거나, 풀을 이룬 부분모집단이 임상시험 계획 기간 동안 계층화 목적으로 정의된다면, 이러한 풀링은 분석에 반영되어야 한다.",
+      "en_txt": "If some regions were pooled based on intrinsic and/or extrinsic factors, or if pooled subpopulations were defined for stratification pur- poses during trial planning, then this pooling should be reflected in the analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역과 부분모집단의 일관성 검사 통계 분석 전략은 여러 지역과 부분모집단의 치료 효과 일관성 평가를 포함해야 한다.",
+      "en_txt": "Examination of Consistency across Regions and Subpopulations The statistical analysis strategy should include the evaluation of the consistency of treat- ment effects across regions and subpopulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이런 목적으로 볼 때, 치료 효과의 일관성이란, 여러 다른 지역 또는 부분 모집단들에서 치료 효과 간의 임상적으로 유의미한 차이가 없는 것이라고 정의된다.",
+      "en_txt": "For this purpose, consistency in treat- ment effects is defined as a lack of clinically relevant differences between treatment ef- fects in different regions or subpopulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 평가에 대한 다양한 분석법은, 아마도 조합으로 사용될 것인데, (1) 설명 요약 (2) 그래픽 디스플레이(예를 들면, 숲 그림) (3) 공변량 조정 분석을 포함한 모델 기반 추정 (4) 지역별 치료 상호작용 검사를 포함하지만 이것들에만 국한되지는 않는다.",
+      "en_txt": "Various analytical approaches to this evalu- ation, possibly used in combination, include but are not limited to (1) descriptive sum- maries, (2) graphical displays (e.g., forest plots), (3) model-based estimation including covariate-adjusted analysis and (4) test of treatment-by-region interaction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "어떤 방법에도 강점과 제한점이 있으며, (예를 들면, 상호작용 검사의 권한은 매우 낮다) 분석 계획 기간동안 이런 점들을 면밀하게 고려해야 한다.",
+      "en_txt": "There are strengths and limitations to any method (e.g., interaction tests often have very low power), and these should be carefully considered during analysis planning.",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역들 간의 치료 효과에 임상적으로 유의미한 차이가 관찰된다면, 이 차이의 구조적인 탐색이 계획되어야 한다.",
+      "en_txt": "If clinically relevant differences in treatment effects among regions are observed, a struc- tured exploration of these differences should be planned.",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "탐색은 다음 단계들을 거쳐 진행될 수 있다.",
+      "en_txt": "The exploration could proceed in the following steps.",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역들마다 다양하고 전조가 되거나 예측 가능한 것으로 가설을 이룬 선험적이라고 알려진 요인들이 분석 모델에 계획되고 평가되어야 한다.",
+      "en_txt": "Factors known a priori to vary among regions and hypothesized to be prognostic or predictive should be planned for and evaluated in the analysis model.",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전조가 될 것으로 보이는 내인과 외인의 예는, 질병의 위중도, 인종, 다른 피험자 특성(예를 들면 흡연 지위, 체질량 지수), 의료 관행/치료법(예를 들면, 임상 관행에서 사용되는 병용약물의 다른 투여량), 유전 요인(예를 들면, 약제대사효소의 다형성)을 포함하며, 이것들은 질병 또는 치료에 따라 자리를 확실히 잡고 있으며 연구 초기 단계에서 제안된다.",
+      "en_txt": "Examples of intrinsic and extrinsic factors likely to be prognostic include disease severity, race, other subject characteristics (e.g., smoking status, body mass index), medical practice/therapeutic approach (e.g., different doses of concomitant medications used in clinical practice) or genetic factors (e.g., polymorphisms in drug metabo- lising enzymes), that are well-established for the disease or therapy and suggested from early stages of investigation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "세심하게 계획을 해도 예상치 못한 지역적 차이가 발견될 수 있으며, 추가 연구에 사후분석이 사용되어야 한다.",
+      "en_txt": "Even with careful planning, unexpected regional differences may be observed, and post-hoc analyses should be used for further investigation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전조가 되는 요인이 지역들마다 다르게 분포하는 것으로 보인다면, 치료 효과에서 분명한 지역적 차이는 전조가 되는 요인의 차이로 설명될 수 있다.",
+      "en_txt": "If the distribution of a prognostic factor is found to differ between regions, then apparent regional differences in treatment effects may be explained by differences in the prognostic factors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "알려진 요인들을 검토해도 설명되지 않는 지역 차이를 보이는 경우, 추가 사후 연구를 실시하여, 차이의 타당한 이유를 확인하거나 관찰된 이질성을 더 잘 이해할 수 있도록 할 수 있다.",
+      "en_txt": "Regional differences not explained by examination of known factors may require further post-hoc investigation to either identify plausible reasons for the differ- ences or to better understand the observed heterogeneity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "몇몇 경우에는 관찰된 지역 차이를 이해하기 위해서, 다른 임상시험으로부터 온 데이터를 포함한 추가적인 데이터, 다른 자료에서 온 지원 증거가 필요할 수 있다.",
+      "en_txt": "In some cases, addi- tional data, including data from other clinical trials, or supportive evidence from other sources, may be needed to understand the regional differences observed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이런 만일의 사태들이 계획 단계에서 신중하게 고려되어야 한다.",
+      "en_txt": "These eventualities should be carefully considered at the planning stage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "부분집단 분석 계획 MRCT에서 관찰될 수 있는 치료 효과가 지역적으로 차이를 보이거나 부분 모집단 풀에서 차이를 보이는 것을 연구하기 위한 분석에 더하여, 일반적으로 다른 부분집단 분석도 관심의 대상이 될 것이다.",
+      "en_txt": "Planned Subgroup Analyses In addition to analyses intended to investigate any regional or pooled subpopulation dif- ferences in treatment effects that may be observed in an MRCT, other subgroup analyses will usually also be of interest, just as they are for any clinical trial (e.g., analyses to investigate differential treatment effects by sex and age) and should be planned.",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "전체 치료 효과에서 부분집단 차이가 관찰되면, 부분집단 차이가 지역 또는 지역 풀에 일관적인지를 탐색하는 것이 유익할 수 있다.",
+      "en_txt": "If sub- group differences in overall treatment effects are observed, then exploring whether the subgroup differences are consistent across regions or pooled regions may be informative.",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "요약하면, 치료 효과의 일관성 평가는 성실하게 수행되어 규제 의사 결정을 알려야 한다.",
+      "en_txt": "In summary, the assessment of consistency of treatment effects should be done with dili- gence to inform regulatory decision-making.",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역, 부분모집단 풀, 부분집단의 조사결과의 신뢰성은 생물학적 타당성, 내부의 일관성(예를 들며, 다른 2차종료점에 관찰된 지역 가변성의 유사한 형태)/외부의 일관성(예를 들면, 같은 의약품의 다른 임상시험에서 관찰된 유사한 형태), 증거의 힘, 임상 관련성, 통계적인 불확실성을 고려해야 한다.",
+      "en_txt": "The credibility of regional, pooled subpop- ulation, or subgroup findings should take into consideration biological plausibility, inter- nal consistency (e.g., similar patterns of regional variability observed for other secondary endpoints) and/or external consistency (e.g., similar patterns observed in another clinical trial of the same drug), the strength of evidence, the clinical relevance, and the statistical uncertainty.",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "앞서 언급한 고려 사항들이 잠재적인 조사결과를 더 지원할수록, 조사결과가 부정확하지 않을 가능성이 커진다.",
+      "en_txt": "The more of the aforementioned considerations support a potential finding, the greater the likelihood the finding is not false.",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일관성 평가는 공동의 임상 통계적 관점으로부터 도움을 받을 것이다.",
+      "en_txt": "The evaluation of consistency will ben- efit from joint clinical and statistical perspectives.",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역 치료 효과 추정 프로토콜의 통계 분석 항목은 각 지역의 불확실성 측정과 치료 효과를 추정하고 보고하는 적합한 통계 방법을 설명해야 한다.",
+      "en_txt": "Estimation of Regional Treatment Effects The statistical analysis section of the protocol should describe appropriate statistical methods for estimating and reporting treatment effects and measures of their uncertainty for individual regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 계획은, 치료 효과 보고가 관심사인 각 지역 또는 지역 풀 안에서 강건한 추정을 지원하기 위해, 표본 크기의 적합성 결정을 포함해야 한다.",
+      "en_txt": "This plan should include a determination of the adequacy of sam- ple sizes to support robust estimation within each region or pooled region for which re- porting of treatment effect is of interest.",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "한 지역의 표본 크기가 매우 작아서 치료 효과 추정이 믿을 만하지 않을 것 같으면, 공통성에 토대를 둔 추가된 지역 풀의 선택 검색을 포함하거나, 적합한 통계 모델을 사용하여 다른 지역 또는 지역 풀로부터 정보를 빌리는 등, 다른 방법 사용을 고려해야 한다.",
+      "en_txt": "If the sample size in a region is so small that the estimates of effect will likely be unreliable, the use of other methods should be consid- ered, including the search for options for additional pooling of regions based on common- alities, or borrowing information from other regions or pooled regions using an appropri- ate statistical model.",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특히 지역 표본 크기가 작아서, 늘어난 가치가 과하게 영향력이 커질 수 있을 때, 전체 효과 추정의 치우친 평균과 각 지역으로부터 온 데이터를 사용한 추정(수축 추정)을 이용하는 방법이 고려될 수 있다.",
+      "en_txt": "Methods using weighted av- erages of the overall effect estimate and the estimate using data from individual regions (shrinkage estimates) may be considered, particularly when regional sample sizes are small and outlying values may be overly influential.",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "모델의 선택은 내인/외인이 지역 추정에 어떤 영향을 끼치며 적합한 통계 방법을 어떻게 토대로 하는지에 관한 이해를 반영해야 한다.",
+      "en_txt": "The choice of model should reflect an understanding of how intrinsic/extrinsic factors affect the regional estimates and be based on appropriate statistical methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "민감도 분석을 계획하여 모델에 필요한 가정들에 변화를 주어야 한다.",
+      "en_txt": "Sensitivity analyses should be planned that vary the assumptions required for the model.",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "분석에 끼친 임상시험 품질의 영향 지역에 따른 임상시험 수행의 차이는, 분석 단계에서 치료 효과의 일관성을 조사하는 능력뿐만 아니라 전체 치료 효과를 발견하는 능력에도 부정적인 영향을 줄 수 있다.",
+      "en_txt": "Impact of Trial Quality on Analysis Differences in trial conduct across regions can negatively impact the power to detect an overall treatment effect as well as the ability to examine consistency of treatment effects at the analysis stage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연구 피험자에 대한 후속 조치 등, 임상시험 품질에 영향을 주는 중요한 요인들은 여러 지역들에서 일관적으로 관리되어야 하며, 임상시험 중에 확인된 문제들은 가능한 빨리 교정되어야 한다.",
+      "en_txt": "Important factors impacting the quality of the trial, such as follow- up of study subjects, should be managed consistently across regions, and issues identified during the trial corrected as early as possible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCT를 수행하는 동안, 임상시험 모니터링과 블라인드 데이터 검토는 임상시험 분석 계획의 변경이 필요하게 만드는 다양한 문제들을 보일 수 있다.",
+      "en_txt": "During the conduct of an MRCT, trial monitoring and blinded data review may uncover various issues that require modifications to be made to the analysis plan for the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 충분한 데이터가 다지역 모집단의 기준 특징(예를 들면 내인과 외인)에 따라 축적된 후에, 임상시험 계획 중에 신중하게 정의된, 지역 또는 부분모집단의 풀링 전략을 변경하기 위해 MRCT를 더 잘 평가할 필요가 있을 것이다.",
+      "en_txt": "For example, it might be necessary in an MRCT for better assessment to modify pooling strat- egies for regions or subpopulations, that were carefully defined during trial planning, after sufficient data have been accumulated on the baseline characteristics (e.g., intrinsic and extrinsic factors) of the multi-regional population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 이런 변화의 타당성 증명을 하고, 관련 규제 당국과 논의하고 임상시험 무결성을 유지하는 방법으로 변화를 수행해야 한다.",
+      "en_txt": "However, such changes should be justified, discussed with the relevant regulatory authorities, and carried out in a way that preserves trial integrity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2.2.8 비교약물 선택 대조군 선택은 기준 치료법, 선택된 설계를 지원하는 증거의 적합성, 윤리적인 고려 사항의 맥락에서 고려되어야 한다.",
+      "en_txt": "2.2.8 Selection of Comparators The choice of control groups should be considered in the context of the available standard therapies, the adequacy of the evidence to support the chosen design, and ethical consid- erations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비교약물 선택을 할 때는 관련 규제 당국과 논의하고 합의해야 한다.",
+      "en_txt": "The selection of comparators should be discussed and agreed with the relevant regulatory authorities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs의 비교약물은 원칙적으로 모든 참여 지역에서 동일해야 한다.",
+      "en_txt": "Comparators in MRCTs should in principle be the same in all participating regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs를 계획하는 복잡성에 따른 일부 핵심 요소가 다음 문단에, 비교약물 사용과 관련된 관행적 윤리적 문제에 초점을 맞추어 설명되어 있다: 비교약물 선택은 과학적 정보와 국제 치료 가이드라인을 포함한 다른 관련 정보를 토대로 한 연구 프로토콜에서 타당성이 입증되어야 한다.",
+      "en_txt": "Due to the complexity in setting up MRCTs, some key points are addressed in the following paragraphs, focusing on practical and ethical issues associated with the use of comparators: The choice of comparators should be justified in the study protocol based on sci- entific and other relevant information, including international treatment guide- lines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비교약물의 승인받은 투약 요법이 지역에 따라 다르다면, 제안된 연구 투약 요법은 입수 가능한 데이터에 따라 타당성이 입증되어야 하며, 이 타당성 입증 내용은 연구 프로토콜에 포함되어야 한다.",
+      "en_txt": "If the approved dosing regimen of active comparators are different among regions, the proposed study dosing regimen should be justified by availa- ble data, and the justification should be included in the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 MRCT 데이터의 분석과 평가에 투약 차이의 영향이 계획 단계에서 고려되어야 한다.",
+      "en_txt": "Addition- ally, the impact of such a dosage difference on analysis and evaluation of MRCT data should be considered in the planning stage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 비교약물에 동일한 투약 형태(예를 들면 물약 vs 정제)가 MRCTs에 참여하는 지역들 사이에 사용되어, 치료 효과의 일관성과 데이터의 해석 가능성을 보장해야 한다.",
+      "en_txt": "The same dosage form (e.g., liquid drugs vs tablets) for active comparators should generally be used among regions participating in MRCTs to ensure consistency of treatment effects and data interpretability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "용해 개요서와 생물학적 이용 가능성이 의약품의 특성을 잘 살리고 차이점은 무시해도 될 정도라면, 다른 투약 형태가 사용될 수 있다.",
+      "en_txt": "Different dosage forms could be used if the dissolution profiles and bioavailability are well-characterised, and dif- ferences are negligible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "비교 약물의 일관적인 품질을 보장하기 위해서, 모든 참여 지역에서 동일한 출처를 사용할 것을 권고한다.",
+      "en_txt": "In order to ensure the consistent quality of the active comparators, it is recom- mended to use the same source in all participating regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다른 출처에서 나온 비교약물이 MRCTs에서 사용될 때, 타당성을 증명하여(동등성 또는 용해 연구에 관해 제조업자로부터 온, 분석 증명서 또는 보고서 형태)비교약물이 모든 참여 지역에서 동일한 품질을 갖는다고 보장해야 한다.",
+      "en_txt": "When active compar- ators from different sources are used in MRCTs, justification should be provided (e.g., in form of Certification of Analysis or report from the manufacturer on equivalence or dissolution studies), to ensure that the comparator has the same quality in all participating regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "한 지역에서 사용되는 가장 포괄적인 제품 정보를 모든 참여 지역에서 일관적으로 사용하도록 권고한다.",
+      "en_txt": "The most comprehensive product information used in a region is recommended to be used consistently in all participating regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제품 정보가 지역 제품 정보와 다르다면 (예를 들어, 경고, 유해 반응 등), 지역 동의서 형태로 통지하여 설명해야 한다.",
+      "en_txt": "If the product information differs from local product information (e.g., differences in the warnings, adverse reac- tions), this should be explained in the local informed consent form.",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "동일하거나 유사한 의약품 등급의 다른 의약품을 비교약물로 사용한다고 제안할 때, 사용 가능한 과학적인 증거를 토대로 프로토콜에 타당성을 입증해야 한다.",
+      "en_txt": "If different drugs in the same or similar drug class are proposed to be used as active comparators, justification should be provided in the protocol based on available scientific evidence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위의 고려사항들은, 지역 치료 기준을 연구자가 선택한 것을 토대로 선택된 비교약물의 경우에도 적용될 수 있다.",
+      "en_txt": "The above considerations may also be applicable in case of comparators which are se- lected based on investigator's choice of local standard care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "MRCTs의 비교약물은 이상적으로는 모든 참여 지역에서 승인받아야 한다.",
+      "en_txt": "Active comparators in MRCTs should ideally be approved in all participating regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나, MRCTs에 사용되는 비교약물이 특정 지역에서는 승인받지 못하거나 이용할 수 없지만 일부 ICH 지역에서는 승인받고 이용할 수 있었던 상황도 있을 수 있었다.",
+      "en_txt": "However, there could be situations where active comparators used in MRCTs are not approved or not available in specific regions, but have been approved and available in some ICH regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 승인받지 못한 의약품 사용의 타당성을 증명하는 것이(안전성 고려사항 포함) 과학적인 정보, 치료 가이드라인, 다른 관련 문서를 토대로 한 프로토콜에 기록되어야 한다.",
+      "en_txt": "The justification (including safety considerations) for the use of an unapproved drug should therefore be described in the protocol based on scientific infor- mation, treatment guidelines and other relevant documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "승인받지 못한 비교약물을 계속 사용하는 것을 포함하는 연구 후 치료 계획은, 환자에게 사전동의를 얻어 고려되고 제공되어야 한다.",
+      "en_txt": "Plans for post-study treatment, including continued access to unapproved comparator, should be considered and provided to the patient in the informed consent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "병용약물 처리: 일반적으로, 임상 연구 의약품과 병용으로 사용되는 의약품은 가능한 정도까지는 지역마다 동일해야 하지만, 의료 관행의 차이 때문에, 의약품과 투여량에 어느 정도 차이가 있을 수 있다.",
+      "en_txt": "Handling Concomitant Medications: In general, drugs used concomitantly with the investigational drug should be the same throughout the regions to the extent possible, but there may be some differences in the drugs and/or doses actually used due to variations in medical practices.",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 프로토콜은 허용 가능한 병용약물과 투여량, 허용 가능하지 않은 병용약물과 투여량을 명시해야 한다.",
+      "en_txt": "The clinical trial protocol should specify allowable and not allowable concomitant medications and doses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "병용약물은 치료의 중요한 부분으로서 프로토콜의 필요조건이 될 수 있다.",
+      "en_txt": "Concomitant medications may be required in the protocol as an important part of the treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "승인받은 의약품이 임상 연구 의약품과 병용되는 상황에서(예를 들면 항암제의 병용 투여) 일반적으로 모든 지역에서 동일한 투여량으로 적용되어야 한다.",
+      "en_txt": "In circumstances where approved drugs are combined with an investigational drug (e.g., a combination regimen of anticancer drugs) the same dosage regimen in all regions should generally be applied.",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "병용약물이 프로토콜의 필요조건이라면, 한 지역에서 승인받지 않은 병용약물의 경우, 과학적인 정보, 치료 가이드라인, 다른 관련 문서에 토대를 두어 사용의 타당성이 증명되어야 한다.",
+      "en_txt": "If required by protocol, concomitant medications that are not approved in a region should have their use justified based on scientific infor- mation, treatment guidelines and other relevant documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이는 병용약물이 ICH지역 중 최소한 한 곳에서 승인을 받은 사실이 기록된 문서를 포함할 수 있다.",
+      "en_txt": "This could include documen- tation that the concomitant medication is approved in at least one of the ICH regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "승인받지 못한 병용약물을 사용하는 것이 일반적으로 허용되어야 하지만, 관련 지역에서 승인받지 못한 병용약물을 사용하는 영향은 규제 당국과 논의되어야 하며 프로토콜에 기록되어야 한다.",
+      "en_txt": "It should generally be allowed to use an unapproved concomitant medication, however the impact of using the unapproved concomitant medication in the relevant regions should be discussed with regulatory authorities and described in the protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "병용약물이 다른 농도나 투약 형태로만 입수가능하고 그렇지 않다면 입수 가능하지 않은 지역에서, 또는 한 지역이 임상시험 기간 동안 계속 공급을 확보할 수 없다면, 병용약물이 공급될 필요가 있을 것이다.",
+      "en_txt": "The medication will need to be supplied in regions in which it is otherwise not available, only available at different strength and/or dosage form, or if a region cannot secure continuous supply dur- ing the course of the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물 반응에 영향을 끼칠 수 있는 병용약물의 사용과 투여의 지역 차이는 먼저 고려되어야 하며, 투여량의 변화를 포함한 이 병용약물은 임상시험 기간 동안 기록되어야 한다.",
+      "en_txt": "Regional differences in the use and dosing of concomitant medications that may have impact on drug responses should be considered in advance and these medications includ- ing changes in doses should be documented during the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역: 지리적 지역, 국가, 또는 규제 지역 규제 지역: 의약품 승인을 위해 규제 필요조건의 공통 세트가 적용되는 국가들로 구성되는 지역(예를 들면 EU) 지역 풀: 지역의 피험자들이 연구 중인 질병 또는 의약품에 관련된 내인과 외인에 관해 충분히 유사하다고 생각된다면, 계획 단계에서 일부 지리적인 지역, 국가, 규제 지역을 모은 집합.",
+      "en_txt": "Region: A geographical region, country or regulatory region Regulatory Region: A region comprised of countries for which a common set of regulatory requirements ap- plies for drug approval (e.g., EU).",
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "부분 모집단 풀은 민족성 관련 부분집합으로서 특히 MRCT 장소에서 중요하다고 추정된다.",
+      "en_txt": "Pooled subpopula- tions is assumed as ethnicity-related subgroup particular important in the MRCT setting.",
+      "align_score": null
+    }
+  ]
+}

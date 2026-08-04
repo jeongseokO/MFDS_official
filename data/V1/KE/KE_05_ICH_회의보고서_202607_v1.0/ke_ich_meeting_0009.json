@@ -1,0 +1,748 @@
+{
+  "document_id": "ke_ich_meeting_0009",
+  "meta": {
+    "set": "KE",
+    "source_folder": "3",
+    "source_code": "ich_meeting",
+    "source_name": "ICH 미팅보고서",
+    "orig_doc_id": "15_하반기_ICH회의보고서",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 미팅보고서",
+    "title_ko": "2015년 하반기 의약품규제자포럼(IPRF) 및 의약품규제조화위원회(ICH) 참석 결과 보고(요약)",
+    "title_en": "ICH and IPRF Meeting Report for 2nd Half of 2015 (Summary)",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": null,
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 0,
+      "type": "title",
+      "section": null,
+      "path": {
+        "ko": [],
+        "en": []
+      },
+      "ko_txt": "2015년 하반기 의약품규제자포럼(IPRF) 및 의약품규제조화위원회(ICH) 참석 결과 보고(요약)",
+      "en_txt": "ICH and IPRF Meeting Report for 2nd Half of 2015 (Summary)",
+      "align_score": null
+    },
+    {
+      "seg_id": 1,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": "회의개요",
+      "en_txt": "Meeting Overview",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": {
+        "ICH": [
+          {
+            "key": "일정",
+            "value": {
+              "IPRF": "’15. 12. 7(월) ～ 12. 8(화)",
+              "ICH": "’15. 12. 6(일) ～ 12. 10(목)"
+            }
+          },
+          {
+            "key": "장소",
+            "value": "미국(잭슨빌)"
+          }
+        ],
+        "우리처 대표단": [
+          {
+            "key": "한국대표(수석/부)",
+            "value": "이선희 부장(의약품심사부)"
+          },
+          {
+            "key": "APEC지역대표",
+            "value": "김희성 연구관(의약품심사조정과)"
+          },
+          {
+            "key": "IPRF WG 대표",
+            "value": "박윤주 과장(유전자재조합의약품과)"
+          },
+          {
+            "key": "전문가위원회",
+            "value": "이종권 과장(특수독성과)"
+          },
+          {
+            "key": "전문가위원회",
+            "value": "김소희 연구관(종양약품과)"
+          },
+          {
+            "key": "전문가위원회",
+            "value": "오우용 연구관(소화계약품과)"
+          }
+        ]
+      },
+      "en_txt": {
+        "ICH": [
+          {
+            "key": "Date",
+            "value": {
+              "IPRF": "Dec 7 (Mon) - 8 (Tue), 2015",
+              "ICH": "Dec 6 (Sun) - 10 (Thu), 2015"
+            }
+          },
+          {
+            "key": "Location",
+            "value": "U.S.A.(Jacksonville)"
+          }
+        ],
+        "MFDS Representatives": [
+          {
+            "key": "Korean representatives (Head)",
+            "value": "Sun Hee Lee, Director General (Drug Evaluation Department)"
+          },
+          {
+            "key": "APEC representative",
+            "value": "Hee Sung Kim, Deputy Director (Drug Review Management Division)"
+          },
+          {
+            "key": "IPRF WG representative",
+            "value": "Younjoo Park, Director (Recombinant Protein Products Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Jong Kwon Lee, Director (Toxicological Screening & Testing Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "So Hee Kim, Deputy Director (Oncology and Antimicrobial Products Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Woo Yong Oh, Deputy Director (Gastroenterology and Metabolism Products Division)"
+          }
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용"
+        ],
+        "en": [
+          "Meeting Summary"
+        ]
+      },
+      "ko_txt": "주요내용",
+      "en_txt": "Meeting Summary",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "IPRF 회의",
+      "en_txt": "IPRF Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(국내 규제현황) 유익성-위해성 평가제도 및 국제공통기술문서 범위 확대 등 하반기 국내 주요 제도개선 활동 보고, 우리나라의 최근 도입 ICH 가이드라인(M7, E14, Q1B)과 전체 누적 허가심사 분야 ICH 가이드라인 도입률보고(발표자: 이선희 의약품심사부장/ICH 수석대표）"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS Regulatory Updates) Provide updates on Korea’s regulatory improvements in the 2nd half of 2015 including Risk Management Plan and CTD submission expansion. Report recently implemented ICH guidelines (M7, E14 and Q1B) and implementation rate of ICH guidelines(presenter: Sun Hee Lee, Director General of Drug Review Department/ICH lead representative)"
+        ]
+      },
+      "ko_txt": "(국내 규제현황) 유익성-위해성 평가제도 및 국제공통기술문서 범위 확대 등 하반기 국내 주요 제도개선 활동 보고, 우리나라의 최근 도입 ICH 가이드라인(M7, E14, Q1B)과 전체 누적 허가심사 분야 ICH 가이드라인 도입률보고(발표자: 이선희 의약품심사부장/ICH 수석대표）",
+      "en_txt": "(MFDS Regulatory Updates) Provide updates on Korea’s regulatory improvements in the 2nd half of 2015 including Risk Management Plan and CTD submission expansion. Report recently implemented ICH guidelines (M7, E14 and Q1B) and implementation rate of ICH guidelines(presenter: Sun Hee Lee, Director General of Drug Review Department/ICH lead representative)",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(IGDRP1)) 식약처 주관 '15년도 국제 제네릭 의약품협의회 회의결과 발표, 향후 IGDRP와 IFRP간 협력 구축 토의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(IGDRP1) Presented IGDRP meeting results in 2015 hosted by MFDS and discussed collaboration between IGDRP and IPRF"
+        ]
+      },
+      "ko_txt": "(IGDRP1)) 식약처 주관 '15년도 국제 제네릭 의약품협의회 회의결과 발표, 향후 IGDRP와 IFRP간 협력 구축 토의",
+      "en_txt": "(IGDRP1) Presented IGDRP meeting results in 2015 hosted by MFDS and discussed collaboration between IGDRP and IPRF",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(APEC 활동 보고) APEC 규제조화센터의 하반기 워크숍, 홈페이지 개편 등 활동 및 온라인교육에 대한 진행사항 보고 등(발표자: 김희성 보건연구관）"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(APEC Updates) Report on AHC2’s workshops in 2nd half of 2015, website renewal and the progress of online training program (presenter: Hee Sung Kim, Deputy Director）"
+        ]
+      },
+      "ko_txt": "(APEC 활동 보고) APEC 규제조화센터의 하반기 워크숍, 홈페이지 개편 등 활동 및 온라인교육에 대한 진행사항 보고 등(발표자: 김희성 보건연구관）",
+      "en_txt": "(APEC Updates) Report on AHC2’s workshops in 2nd half of 2015, website renewal and the progress of online training program (presenter: Hee Sung Kim, Deputy Director）",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(바이오시밀러 워킹그룹) 활동사항 및 향후계획 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(Biosimilars WG) Activities Updates and Discussion on future plan"
+        ]
+      },
+      "ko_txt": "(바이오시밀러 워킹그룹) 활동사항 및 향후계획 논의",
+      "en_txt": "(Biosimilars WG) Activities Updates and Discussion on future plan",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(바이오시밀러 워킹그룹) 활동사항 및 향후계획 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(Biosimilars WG) Activities Updates and Discussion on future plan"
+        ]
+      },
+      "ko_txt": "바이오시밀러 심사결과요약서(PASIB2))에 대한 외부 의견조회 절차 논의",
+      "en_txt": "Discuss the procedure of public consultation on PASIB3",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "선진외국 동향"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "NRAs Updates"
+        ]
+      },
+      "ko_txt": "선진외국 동향",
+      "en_txt": "NRAs Updates",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "선진외국 동향"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "NRAs Updates"
+        ]
+      },
+      "ko_txt": "(일본) 국내 개발 현신신약 허가기간 및 약가 인센티브(‘사키가케’ 전략) 및 아시아 의약품‧의료기기 규제교육센터 설립",
+      "en_txt": "(Japan) Established the basis for approving innovative products and promote review and designation system(‘Sakigake’ strategy) Asia Training Center for Pharmaceuticals and Medical Devices Regulatory Affairs",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "선진외국 동향"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "NRAs Updates"
+        ]
+      },
+      "ko_txt": "(유럽) WHO와 EMA간 공동심사 추진",
+      "en_txt": "(Europe) Collaborative registration process between WHO and EMA",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "ICH 회의",
+      "en_txt": "ICH Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015)."
+        ]
+      },
+      "ko_txt": "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의",
+      "en_txt": "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의",
+          "ICH 회원 및 옵서버 신규 모집"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015).",
+          "ICH Membership and Observership"
+        ]
+      },
+      "ko_txt": "ICH 회원 및 옵서버 신규 모집",
+      "en_txt": "ICH Membership and Observership",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의",
+          "ICH 회원 및 옵서버 신규 모집"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015).",
+          "ICH Membership and Observership"
+        ]
+      },
+      "ko_txt": "우리나라는 자동으로 옵서버 자격 획득. 규제당국회원 신규가입 조건은 만족하나, 가입시기 검토 필요",
+      "en_txt": "MFDS Acquired ICH observership automatically and needs to discuss the time to apply for the ICH membership although it meets the criteria of regulatory members.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의",
+          "ICH 회원 및 옵서버 신규 모집"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015).",
+          "ICH Membership and Observership"
+        ]
+      },
+      "ko_txt": "안정성(Q1), 원료의약품 GMP(Q7), GCP(E6) 가이드라인, 가입시 이행 필요",
+      "en_txt": "Tier 1 Guidelines: Stability(Q1), API GMP(Q7), GCP(E6) - necessity for membership",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의",
+          "ICH 회원 및 옵서버 신규 모집"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015).",
+          "ICH Membership and Observership"
+        ]
+      },
+      "ko_txt": "E2A, E2B, E2D3)(이상 안전성 정보관리), M4(CTD) 및 M1(MedDRA) 5년내 수행",
+      "en_txt": "Tier 2 Guidelines: E2A, E2B, E2D4, M4(CTD), M1(MedDRA) - implement within 5 years after joining the ICH",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의",
+          "신규 규제당국 회원의 의무사항은 구두설명 되었으나, 정관내에 문서화 하기로 함(정관 제26조 절차(Rules of Procedure))"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015).",
+          "Rights of new regulatory members have been discussed and explained it will be in written in the Articles of Association (Article 26 Rules of Procedures)"
+        ]
+      },
+      "ko_txt": "신규 규제당국 회원의 의무사항은 구두설명 되었으나, 정관내에 문서화 하기로 함(정관 제26조 절차(Rules of Procedure))",
+      "en_txt": "Rights of new regulatory members have been discussed and explained it will be in written in the Articles of Association (Article 26 Rules of Procedures)",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의",
+          "신규 규제당국 회원의 의무사항은 구두설명 되었으나, 정관내에 문서화 하기로 함(정관 제26조 절차(Rules of Procedure))"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015).",
+          "Rights of new regulatory members have been discussed and explained it will be in written in the Articles of Association (Article 26 Rules of Procedures)"
+        ]
+      },
+      "ko_txt": "현재 관리위원회: 미국, 유럽, 일본, 캐나다, 스위스",
+      "en_txt": "Management Committee: US, EU, Japan, Canada, Switzerland",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) ICH 조직개편('15.10.26)후 첫 총회 개최, 세부 운영 사항 논의",
+          "신규 규제당국 회원의 의무사항은 구두설명 되었으나, 정관내에 문서화 하기로 함(정관 제26조 절차(Rules of Procedure))"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Discussed operating models in details at the first Assembly Meeting since ICH Reforms (26 Oct. 2015).",
+          "Rights of new regulatory members have been discussed and explained it will be in written in the Articles of Association (Article 26 Rules of Procedures)"
+        ]
+      },
+      "ko_txt": "2년 후(’18.1.) 관리위원회에 4개국 추가 대비하여 준비전략 필요",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH가이드라인 실행현황) 우리나라 최근도입 ICH 가이드라인(M7/E14/Q1B)과 전체 총 ICH가이드라인 도입률 발표에 좋은 반응 얻음"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH implementation) Received good response on updates of MFDS’ implementation status of ICH guidelines including recently implemented guidelines: M7, E14, Q1B"
+        ]
+      },
+      "ko_txt": "(ICH가이드라인 실행현황) 우리나라 최근도입 ICH 가이드라인(M7/E14/Q1B)과 전체 총 ICH가이드라인 도입률 발표에 좋은 반응 얻음",
+      "en_txt": "(ICH implementation) Received good response on updates of MFDS’ implementation status of ICH guidelines including recently implemented guidelines: M7, E14, Q1B",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH가이드라인 온라인교육프로그램 공동개발) AHC에서 공동개발한 ICH E2 가이드라인 교육 동영상 시연에 총회참가자의 큰 박수 호응 받음"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(AHC-ICH Joint Online Training Program) Participants showed positive response to video demonstration of online training program of ICH E2 guidelines co-developed by AHC and ICH."
+        ]
+      },
+      "ko_txt": "(ICH가이드라인 온라인교육프로그램 공동개발) AHC에서 공동개발한 ICH E2 가이드라인 교육 동영상 시연에 총회참가자의 큰 박수 호응 받음",
+      "en_txt": "(AHC-ICH Joint Online Training Program) Participants showed positive response to video demonstration of online training program of ICH E2 guidelines co-developed by AHC and ICH.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(국가 및 지역대표 사전회의) ICH 조직개편에 대한 각국 동향 수집, ‘17년 APEC이 지역대표 의장 수행 결정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(DRAs/DoH & RHIs Pre-meeting) Discussed on ICH Reforms and decided the next chairmanship as APEC in 2017."
+        ]
+      },
+      "ko_txt": "(국가 및 지역대표 사전회의) ICH 조직개편에 대한 각국 동향 수집, ‘17년 APEC이 지역대표 의장 수행 결정",
+      "en_txt": "(DRAs/DoH & RHIs Pre-meeting) Discussed on ICH Reforms and decided the next chairmanship as APEC in 2017.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(국가 및 지역대표 사전회의) ICH 조직개편에 대한 각국 동향 수집, ‘17년 APEC이 지역대표 의장 수행 결정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(DRAs/DoH & RHIs Pre-meeting) Discussed on ICH Reforms and decided the next chairmanship as APEC in 2017."
+        ]
+      },
+      "ko_txt": "중국은 신규 규제당국회원으로 직접 신청 가능(대만 중 1개국만 승인가능)",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(국가 및 지역대표 사전회의) ICH 조직개편에 대한 각국 동향 수집, ‘17년 APEC이 지역대표 의장 수행 결정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(DRAs/DoH & RHIs Pre-meeting) Discussed on ICH Reforms and decided the next chairmanship as APEC in 2017."
+        ]
+      },
+      "ko_txt": "APEC, SADC, GCC, PANDRH(이상 지역대표4)), 브라질은 옵서버 기승인(자동 옵서버 확인서 12월 회의기간 중 제출)",
+      "en_txt": "APEC, SADC, GCC, PANDRH(RHIs 5 ), Brazil was granted ICH observership(Submit an observership letter during this December meeting)",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(국가 및 지역대표 사전회의) ICH 조직개편에 대한 각국 동향 수집, ‘17년 APEC이 지역대표 의장 수행 결정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(DRAs/DoH & RHIs Pre-meeting) Discussed on ICH Reforms and decided the next chairmanship as APEC in 2017."
+        ]
+      },
+      "ko_txt": "브라질, 싱가포르, 러시아, 호주: 유력한 회원국 후보임",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "IGDRP, International Generic Drug Regulators Program:. ’15.11.2∼5, 서울 개최, 우리나라가 회의 의장국 활동",
+      "en_txt": "IGDRP, International Generic Drug Regulators Program: IGDRP meeting held in 2-5 Nov. 2015 hosted by MFDS serving chairmanship.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": null,
+      "en_txt": "AHC, APEC Harmonization Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "Public Assessment Summary Information for Biosimilar",
+      "en_txt": "Public Assessment Summary Information for Biosimilar",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "E2A: 임상시험 안전성 정보관리: 신속보고에 대한 정의 및 절차, E2B: 임상적 안전성 정보관리: 개별사례 안전성 보고항목, E2D: 시판 후 안전성 정보 관리: 신속보고에 대한 정의 및 절차",
+      "en_txt": "E2A: Clinical Safety Data Management: Definitions and Standards for Expedited Reporting, E2B: Clinical Safety Data Management: Data Elements for Transmission of Individual Case Safety Reports, E2D: Post-Approval Safety Data Management: Definitions and Standards for Expedited Reporting",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "APEC: 아시아태평앙지역, SADC: 남아프리카지역, GCC: 중동지역, PANDRH: 미주지역",
+      "en_txt": "APEC: Asia-Pacific Economic Cooperation , SADC: South African Development Community, GCC: Gulf Cooperation Council, PANDRH: Pan American Network on Drug Regulatory Harmonization",
+      "align_score": null
+    }
+  ]
+}

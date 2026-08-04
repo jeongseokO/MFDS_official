@@ -1,0 +1,960 @@
+{
+  "document_id": "ke_ich_meeting_0006",
+  "meta": {
+    "set": "KE",
+    "source_folder": "3",
+    "source_code": "ich_meeting",
+    "source_name": "ICH 미팅보고서",
+    "orig_doc_id": "14_하반기_ICH회의보고서",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 미팅보고서",
+    "title_ko": "2014년 하반기 의약품규제자포럼(IPRF) 및 의약품국제조화회의(ICH)  참석 결과 보고(요약)",
+    "title_en": "ICH and IPRF Meeting Report for 2nd Half of 2014 (Summary)",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": null,
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 0,
+      "type": "title",
+      "section": null,
+      "path": {
+        "ko": [],
+        "en": []
+      },
+      "ko_txt": "2014년 하반기 의약품규제자포럼(IPRF) 및 의약품국제조화회의(ICH)  참석 결과 보고(요약)",
+      "en_txt": "ICH and IPRF Meeting Report for 2nd Half of 2014 (Summary)",
+      "align_score": null
+    },
+    {
+      "seg_id": 1,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": "회의개요",
+      "en_txt": "Meeting Overview",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": {
+        "ICH": [
+          {
+            "key": "일정",
+            "value": {
+              "IPRF": "’14. 11. 10(월) ～ 11. 11(화)",
+              "ICH": "’14. 11. 9(일) ～ 11. 13(목)"
+            }
+          },
+          {
+            "key": "장소",
+            "value": "포르투갈(리스본)"
+          }
+        ],
+        "우리처 대표단": [
+          {
+            "key": "한국대표(수석/부)",
+            "value": "이선희 부장(의약품심사부), 최선희 연구관(의약품심사조정과)"
+          },
+          {
+            "key": "APEC지역대표(대리)",
+            "value": "박은혜 주무관(의약품심사조정과)"
+          },
+          {
+            "key": "전문위원회대표(E6)",
+            "value": "남태균 사무관(임상제도과)"
+          },
+          {
+            "key": "전문위원회 대표(E17)",
+            "value": "오우용 연구관(소화계약품과)"
+          },
+          {
+            "key": "전문위원회대표(E18)",
+            "value": "정호상 연구관(임상연구과)"
+          },
+          {
+            "key": "전문위원회대표(M4E)",
+            "value": "강주혜 연구관(순환계약품과)"
+          }
+        ]
+      },
+      "en_txt": {
+        "ICH": [
+          {
+            "key": "Date",
+            "value": {
+              "IPRF": "Nov 10 (Mon) - 11 (Tue), 2014",
+              "ICH": "Nov 9 (Sun) - 13 (Thu), 2014"
+            }
+          },
+          {
+            "key": "Location",
+            "value": "Portugal (Lisbon)"
+          }
+        ],
+        "MFDS Representatives": [
+          {
+            "key": "Korean representatives (Lead/Deputy)",
+            "value": "Sun Hee Lee, Director General (Drug Evaluation Department), Seon Hee Choi, Scientific officer (Drug Review Management Division)"
+          },
+          {
+            "key": "APEC regional representative",
+            "value": "Eun Hye Park, Assistant Director (Drug Review Management Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Tae Kyun Nam, Deputy Director (Clinical Trials Management Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Woo Yong Oh, Deputy Director (Gastroenterology and Metabolism Products Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Ho Sang Jeong, Deputy Director (Clinical Research Division)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Ju Hye Kang, Deputy Director (Cardiovascular and Neurology Products Division)"
+          }
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용"
+        ],
+        "en": [
+          "Meeting Summary"
+        ]
+      },
+      "ko_txt": "주요내용",
+      "en_txt": "Meeting Summary",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "IPRF 회의",
+      "en_txt": "IPRF Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(우리처 활동) 위해성관리계획(Risk Management Plan, RMP) 시행 예정(‘15.7.1), 국제제네릭의약품규제당국자회의(IGDRP1)) 국내 개최(의장국, ’15.11.2~5)등 발표"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(MFDS Activities) Presentation on MFDS future plans: implementation of Risk Management Plan (RMP) (July 1, 2015), hosting the International Generic Drug Regulators Program (IGDRP)1 in Korea (as chair country, Nov 2-5, 2015), etc."
+        ]
+      },
+      "ko_txt": "(우리처 활동) 위해성관리계획(Risk Management Plan, RMP) 시행 예정(‘15.7.1), 국제제네릭의약품규제당국자회의(IGDRP1)) 국내 개최(의장국, ’15.11.2~5)등 발표",
+      "en_txt": "(MFDS Activities) Presentation on MFDS future plans: implementation of Risk Management Plan (RMP) (July 1, 2015), hosting the International Generic Drug Regulators Program (IGDRP)1 in Korea (as chair country, Nov 2-5, 2015), etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "ICH 한글번역본 마련, e-CTD 도입, 팜나비사업, PIC/S 가입 등 홍보"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "Informed about MFDS activities: preparation for Korean-translated version of ICH guidelines, adoption of e-CTD, PharmNavi Project, joining PIC/S membership, etc."
+        ]
+      },
+      "ko_txt": "ICH 한글번역본 마련, e-CTD 도입, 팜나비사업, PIC/S 가입 등 홍보",
+      "en_txt": "Informed about MFDS activities: preparation for Korean-translated version of ICH guidelines, adoption of e-CTD, PharmNavi Project, joining PIC/S membership, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "ICH 한글번역본 마련, e-CTD 도입, 팜나비사업, PIC/S 가입 등 홍보"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "Informed about MFDS activities: preparation for Korean-translated version of ICH guidelines, adoption of e-CTD, PharmNavi Project, joining PIC/S membership, etc."
+        ]
+      },
+      "ko_txt": "브라질 의약품청(ANVISA): 우리처의 KiFDA 시스템과 e-CTD의 운영 노하우 공유 요청",
+      "en_txt": "Brazil ANVISA: Requested sharing MFDS know-hows of KiFDA system and e-CTD operation",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "ICH 한글번역본 마련, e-CTD 도입, 팜나비사업, PIC/S 가입 등 홍보"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "Informed about MFDS activities: preparation for Korean-translated version of ICH guidelines, adoption of e-CTD, PharmNavi Project, joining PIC/S membership, etc."
+        ]
+      },
+      "ko_txt": "일본, 스위스 등 많은 국가에서 팜나비사업에 관심 표명",
+      "en_txt": "Several countries including Japan, Switzerland, etc. showed interest in PharmNavi Project",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "ICH 한글번역본 마련, e-CTD 도입, 팜나비사업, PIC/S 가입 등 홍보",
+          "(APEC) AHC 워크숍 개최 활동, 우수심사기준(Good Review Practice) 개발현황(주도국 대만) 등 보고"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "Informed about MFDS activities: preparation for Korean-translated version of ICH guidelines, adoption of e-CTD, PharmNavi Project, joining PIC/S membership, etc.",
+          "(APEC) Report AHC Workshop activities, current development status of Good Review Practices (championed by Chinese Taipei), etc."
+        ]
+      },
+      "ko_txt": "(APEC) AHC 워크숍 개최 활동, 우수심사기준(Good Review Practice) 개발현황(주도국 대만) 등 보고",
+      "en_txt": "(APEC) Report AHC Workshop activities, current development status of Good Review Practices (championed by Chinese Taipei), etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "ICH 한글번역본 마련, e-CTD 도입, 팜나비사업, PIC/S 가입 등 홍보",
+          "(APEC) AHC 워크숍 개최 활동, 우수심사기준(Good Review Practice) 개발현황(주도국 대만) 등 보고"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "Informed about MFDS activities: preparation for Korean-translated version of ICH guidelines, adoption of e-CTD, PharmNavi Project, joining PIC/S membership, etc.",
+          "(APEC) Report AHC Workshop activities, current development status of Good Review Practices (championed by Chinese Taipei), etc."
+        ]
+      },
+      "ko_txt": "우수심사기준 가이드라인은 WHO 기술위원회에서 승인되어 내년에 최종승인 예정",
+      "en_txt": "GRP has taken up by the WHO Technical Committee, and will be expected to be finally endorsed in 2015.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(워킹그룹 추진현황 보고) 바이오시밀러 워킹그룹 활동사항 및 향후 계획 승인"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(WG Updates) Shared Biosimilars WG activities and gained approval for future plans"
+        ]
+      },
+      "ko_txt": "(워킹그룹 추진현황 보고) 바이오시밀러 워킹그룹 활동사항 및 향후 계획 승인",
+      "en_txt": "(WG Updates) Shared Biosimilars WG activities and gained approval for future plans",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(워킹그룹 추진현황 보고) 바이오시밀러 워킹그룹 활동사항 및 향후 계획 승인",
+          "언론 등의 인터뷰 요청시, IPRF 사무국에서 조정, 대응절차 공지예정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(WG Updates) Shared Biosimilars WG activities and gained approval for future plans",
+          "In case of interview request from media, the IPRF Secretariat would coordinate the situation and announce response procedure"
+        ]
+      },
+      "ko_txt": "언론 등의 인터뷰 요청시, IPRF 사무국에서 조정, 대응절차 공지예정",
+      "en_txt": "In case of interview request from media, the IPRF Secretariat would coordinate the situation and announce response procedure",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(워킹그룹 추진현황 보고) 바이오시밀러 워킹그룹 활동사항 및 향후 계획 승인",
+          "언론 등의 인터뷰 요청시, IPRF 사무국에서 조정, 대응절차 공지예정"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(WG Updates) Shared Biosimilars WG activities and gained approval for future plans",
+          "In case of interview request from media, the IPRF Secretariat would coordinate the situation and announce response procedure"
+        ]
+      },
+      "ko_txt": "15년 회의계획, 과학적 규제조화사업 및 심사정보 분석사업 등",
+      "en_txt": "2015 meeting plan, scientific regulatory harmonization project and review information analysis project, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(나노의약품 관련 정보공유) 정보공유 워킹그룹 운영하기로 결정, 워킹그룹 기능 정비 및 업무계획 마련 추진"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(Nanomedicines information sharing) Decide to operate information-sharing WG and worked on improvement of WG function and preparation for work plans"
+        ]
+      },
+      "ko_txt": "(나노의약품 관련 정보공유) 정보공유 워킹그룹 운영하기로 결정, 워킹그룹 기능 정비 및 업무계획 마련 추진",
+      "en_txt": "(Nanomedicines information sharing) Decide to operate information-sharing WG and worked on improvement of WG function and preparation for work plans",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(의약품 유익성/위해성 정보공유) ICH에서 현재 가동 중인 전문가위원회(M4E)와의 중복 배제를 위해 정보공유만 추진키로 함"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(Drug Benefit-Risk information sharing) To avoid duplication of works with M4E EWG currently operated under the ICH, information-sharing only will be pursued."
+        ]
+      },
+      "ko_txt": "(의약품 유익성/위해성 정보공유) ICH에서 현재 가동 중인 전문가위원회(M4E)와의 중복 배제를 위해 정보공유만 추진키로 함",
+      "en_txt": "(Drug Benefit-Risk information sharing) To avoid duplication of works with M4E EWG currently operated under the ICH, information-sharing only will be pursued.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(다른 국제단체와의 협력) 의약품 정상회의 및 제네릭 분야에 대한 IPRF의 협력체계 방안 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(Cooperation with international organizations) Discussed IPRF cooperative system for ICMRA2 and generic drugs"
+        ]
+      },
+      "ko_txt": "(다른 국제단체와의 협력) 의약품 정상회의 및 제네릭 분야에 대한 IPRF의 협력체계 방안 논의",
+      "en_txt": "(Cooperation with international organizations) Discussed IPRF cooperative system for ICMRA2 and generic drugs",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(다른 국제단체와의 협력) 의약품 정상회의 및 제네릭 분야에 대한 IPRF의 협력체계 방안 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(Cooperation with international organizations) Discussed IPRF cooperative system for ICMRA2 and generic drugs"
+        ]
+      },
+      "ko_txt": "세계 의약품 등 규제기관 정상회의(ICMRA2))와의 협력체계 구축 및 두 단체 간의 명확한 업무 분장 추진",
+      "en_txt": "Establish cooperative system with ICMRA and clearly assign tasks between the two groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "(다른 국제단체와의 협력) 의약품 정상회의 및 제네릭 분야에 대한 IPRF의 협력체계 방안 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "(Cooperation with international organizations) Discussed IPRF cooperative system for ICMRA2 and generic drugs"
+        ]
+      },
+      "ko_txt": "국제 제네릭의약품 규제당국자협의체(IGDRP3))와의 협력 방안 논의",
+      "en_txt": "Discussed ways to cooperate with the IGDRP3",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "ICH 회의",
+      "en_txt": "ICH Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc."
+        ]
+      },
+      "ko_txt": "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중",
+      "en_txt": "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중",
+          "ICH 회원* 분류를 단일화, 총회 권한 확대, 이사회 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc.",
+          "Unification of ICH membership classification, expansion of right of the ICH Assembly and limiting the right of Executive Board"
+        ]
+      },
+      "ko_txt": "ICH 회원* 분류를 단일화, 총회 권한 확대, 이사회 권한 축소",
+      "en_txt": "Unification of ICH membership classification, expansion of right of the ICH Assembly and limiting the right of Executive Board",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중",
+          "ICH 회원* 분류를 단일화, 총회 권한 확대, 이사회 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc.",
+          "Unification of ICH membership classification, expansion of right of the ICH Assembly and limiting the right of Executive Board"
+        ]
+      },
+      "ko_txt": "(회원) 총회회원과 운영위원회 회원(2014.6 회의) → 총회회원으로 일원화(2014.11 회의)",
+      "en_txt": "(Membership) ICH Assembly and ICH Steering Committee Parties (Jun 2014 meeting) → Unification as ICH Assembly (Nov 2014 meeting)",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중",
+          "ICH 회원* 분류를 단일화, 총회 권한 확대, 이사회 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc.",
+          "Unification of ICH membership classification, expansion of right of the ICH Assembly and limiting the right of Executive Board"
+        ]
+      },
+      "ko_txt": "(총회) 가이드라인 제·개정 관련 모든 의사결정",
+      "en_txt": "(Assembly) All decision-making related to establishment and revision of guidelines",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중",
+          "ICH 회원* 분류를 단일화, 총회 권한 확대, 이사회 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc.",
+          "Unification of ICH membership classification, expansion of right of the ICH Assembly and limiting the right of Executive Board"
+        ]
+      },
+      "ko_txt": "(이사회) 행정적인 업무수행(총회 회원 중에서 이사회 회원 선정)",
+      "en_txt": "(Executive Board) Administrative tasks (Select Executive Board members from the ICH Assembly)",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중",
+          "ICH 회원* 분류를 단일화, 총회 권한 확대, 이사회 권한 축소"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc.",
+          "Unification of ICH membership classification, expansion of right of the ICH Assembly and limiting the right of Executive Board"
+        ]
+      },
+      "ko_txt": "(옵서버) 총회, 전문가위원회 참관만 가능, 전문가위원회 명단에서는 배제",
+      "en_txt": "(Observer) Observing the ICH Assembly and EWG only and being excluded from the EWG list",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중",
+          "총회 회원 가입요건 중 ‘가이드라인 도입’ 의무의 유연성 확보"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc.",
+          "Securing flexibility in obligations for “implementing ICH Guidelines” under ICH Assembly membership requirements"
+        ]
+      },
+      "ko_txt": "총회 회원 가입요건 중 ‘가이드라인 도입’ 의무의 유연성 확보",
+      "en_txt": "Securing flexibility in obligations for “implementing ICH Guidelines” under ICH Assembly membership requirements",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "(ICH 조직개편) 한국 등의 의견을 반여, 조직개편 최종(안) 마련 중",
+          "총회 회원 가입요건 중 ‘가이드라인 도입’ 의무의 유연성 확보"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "(ICH Reforms) Preparation for final draft for ICH reforms by taking views of stakeholders including Korea, etc.",
+          "Securing flexibility in obligations for “implementing ICH Guidelines” under ICH Assembly membership requirements"
+        ]
+      },
+      "ko_txt": "일단 채택(adoption)후 각 국가별 환경에 따라 실행(implementation)",
+      "en_txt": "After adoption of the guidelines, implementation will be conducted based on each country’s circumstances",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "워킹그룹 활동현황 발표"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Working Group Updates"
+        ]
+      },
+      "ko_txt": "워킹그룹 활동현황 발표",
+      "en_txt": "Working Group Updates",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "워킹그룹 활동현황 발표"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Working Group Updates"
+        ]
+      },
+      "ko_txt": "(유전자치료제) 대면회의 결과 및 향후 계획에 대한 일정 및 목적 확인",
+      "en_txt": "(Gene Therapy) Shared outcome of face-to-face meetings and confirm schedules and purpose for future plan",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "워킹그룹 활동현황 발표"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Working Group Updates"
+        ]
+      },
+      "ko_txt": "(세포치료제) 발간된 세포치료제 백서에 수록된 우리처 현황 확인 및 향후 계획에 대한 일정 및 목적 확인",
+      "en_txt": "(Cell Therapy) Check MFDS updates listed on the published White Paper for Cell Therapy and confirm schedules and purpose for future plan",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "워킹그룹 활동현황 발표"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Working Group Updates"
+        ]
+      },
+      "ko_txt": "(바이오시밀러) 원격회의 등 활동 경과 발표 및 제2차 대면회의 등 ‘15년 활동계획 발표(발표자 : 박윤주 과장)",
+      "en_txt": "(Biosimilars) Make a presentation on past activities including teleconference, etc. and share 2015 Action Plan (e.g. secondary face-to-face meeting, etc.)(Presenter: Younjoo Park, Director)",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "워킹그룹 활동현황 발표"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Working Group Updates"
+        ]
+      },
+      "ko_txt": "(나노의약품) 워킹그룹의 운영계획 및 범위 확인 필요",
+      "en_txt": "(Nanomedicines) Confirmation of WG operation plan and scope is necessary",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "AHC-ICH 가이드라인 온라인교육프로그램 공동개발"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "AHC-ICH Joint Online Training Program"
+        ]
+      },
+      "ko_txt": "AHC-ICH 가이드라인 온라인교육프로그램 공동개발",
+      "en_txt": "AHC-ICH Joint Online Training Program",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "AHC-ICH 가이드라인 온라인교육프로그램 공동개발"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "AHC-ICH Joint Online Training Program"
+        ]
+      },
+      "ko_txt": "APEC 규제조화센터와 ICH와의 공동개발을 원칙적으로 승인하고, 세부사항을 명시한 제안서 제출 요청",
+      "en_txt": "Request submission of proposal where AHC-ICH joint development is principally endorsed and details are specified",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "AHC-ICH 가이드라인 온라인교육프로그램 공동개발"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "AHC-ICH Joint Online Training Program"
+        ]
+      },
+      "ko_txt": "ICH에서 교육 내용 제공, APEC 규제조화센터에서 강의 촬영 등 IT 시스템 운영",
+      "en_txt": "Operate IT system where ICH provides training contents while AHC video-records lectures, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 가이드라인 관련 전문가 위원회 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "EWGs Updates"
+        ]
+      },
+      "ko_txt": "ICH 가이드라인 관련 전문가 위원회 활동",
+      "en_txt": "EWGs Updates",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 가이드라인 관련 전문가 위원회 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "EWGs Updates"
+        ]
+      },
+      "ko_txt": "(다지역임상시험 전문가위원회(E17 EWG: Multi-Reginal Clinical Trial)) 품목허가를 위해 규제당국에 제출하기 위한 다지역임상시험 계획/설계 시 일반적 원칙 논의",
+      "en_txt": "(E17 EWG: Multi-Regional Clinical Trial) discusses general principles in case of planning/designing MRCT to be submitted to DRAs for marketing approval",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 가이드라인 관련 전문가 위원회 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "EWGs Updates"
+        ]
+      },
+      "ko_txt": "(유전체 검체채취 전문가위원회(E18 EWG: Genomic Sampling Methodologies)) Step 1 draft 문서에 대한 검토 및 토의 후 Step 1 문서 확정",
+      "en_txt": "(E18 EWG: Genomic Sampling Methodologies) After reviewing and discussion on Step 1 draft, finalize Step 1 document",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "ICH 가이드라인 관련 전문가 위원회 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "EWGs Updates"
+        ]
+      },
+      "ko_txt": "(유익성/위해성 평가양식 전문가위원회(M4E EWG: Format and Structure of Benefit-Risk Information)) CTD 2.5.6 유익성·위해성 평가개정(안)에 대한 논의",
+      "en_txt": "(M4E EWG: Format and Structure of Benefit-Risk Information) Discuss the revised version (draft) of CTD 2.5.6 Benefit-risk assessment",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "국제제네릭의약품규제당국자회의(International Generic Drug Regulators Program, IGDRP): 제네릭의약품의 안전성, 효능 및 품질의 유용성과 적절한 심사추진을 위해 구성된 규제당국자 모임(’12)",
+      "en_txt": "International Generic Drug Regulators Programme (IGDRP): Meeting of Regulators organized for pursuing availability of safety, effectiveness, and quality of generic drugs and appropriate review (2012)",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "세계의약품등 규제기관 정상회의 : Inbternational Coalition of medicines Regulatory Authorities, ICMRA",
+      "en_txt": "ICMRA: International Coalition of Medicines Regulatory Authorities",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "footnote",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "국제 제네릭의약품 규제당국자 협의체 : international Generic Drug Regulators Pilot, IGDRP",
+      "en_txt": "IGDRP: International Generic Drug Regulators Programme",
+      "align_score": null
+    }
+  ]
+}

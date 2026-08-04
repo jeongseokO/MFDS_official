@@ -1,0 +1,2134 @@
+{
+  "document_id": "ke_law_0009",
+  "meta": {
+    "set": "KE",
+    "source_folder": "2",
+    "source_code": "law",
+    "source_name": "법령",
+    "orig_doc_id": "SPECIAL ACT FOR PROMOTION OF THE DEVELOPMENT AND EMERGENCY SUPPLY OF MEDICAL PRODUCTS IN RESPONSE TO PUBLIC HEALTH CRISIS",
+    "category_l1": "규제·지침",
+    "category_l2": "법령·고시",
+    "category_l3": "법령",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법은 공중보건상의 위기를 신속하게 극복하기 위하여 위기대응을 위한 의료제품의 개발을 촉진하고 긴 급 사용을 위한 공급 기반을 조성하는 데 필요한 사항을 정함으로써 국민의 안전과 건강의 보호에 이바지함을 목적 으로 한다.",
+      "en_txt": "The purpose of this Act is to contribute to the protection of public safety and health by prescribing matters necessary to promote the development of medical products in response to a crisis and to create a supply base for emergency use in order to quickly overcome a public health crisis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법에서 사용하는 용어의 뜻은 다음과 같다.",
+      "en_txt": "The terms used in this Act are defined as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. “의료제품”이란 「약사법」에 따른 의약품(「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」에 따른 첨단바이오의약품을 포함한다)과 의약외품 및 「의료기기법」에 따른 의료기기(「체외진단의료기기법」에 따른 체 외진단의료기기를 포함한다)를 말한다.",
+      "en_txt": "1. The term \"medical product\" means a drug (including an advanced biological product under the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products) and a quasi-drug under the Pharmaceutical Affairs Act, and a medical device under the Medical Devices Act (including an in vitro diagnostic medical device under the Act on In Vitro Diagnostic Medical Devices);",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. “공중보건 위기상황”이란 「감염병의 예방 및 관리에 관한 법률」에 따른 감염병의 대유행(대유행이 현저히 우려 되는 감염병의 발생을 포함한다. 이하 같다) 또는 탄저균ㆍ독성화학물질 등 생화학무기의 사용 등으로 인한 질병 의 발생이나 「원자력시설 등의 방호 및 방사능 방재 대책법」 제2조제1항제6호부터 제8호까지에 따른 핵물질 위 협, 방사선비상, 방사능재난 등으로 국민의 생명ㆍ신체가 심각한 피해를 입거나 입을 수 있어 국가가 긴급하게 대 처할 필요가 있는 상황을 말한다.",
+      "en_txt": "2. The term \"public health crisis\" means a situation where the State needs to respond urgently because people's life or body is or is likely to be seriously harmed by a pandemic of an infectious disease under the Infectious Disease Control and Prevention Act (including an outbreak of an infectious disease that is of significant concern to become a pandemic; hereinafter the same shall apply), by an outbreak of a disease caused by the use, etc. of a biochemical weapon such as anthrax bacillus or toxic chemicals, or by a nuclear material threat, radiation emergency, or radiological disaster, etc. under Article 2 (1) 6 through 8 under the Act on Physical Protection and Radiological Emergency;",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. “공중보건 위기대응 의료제품”이란 공중보건 위기상황에서 다음 각 목의 어느 하나에 해당하는 질병 또는 상해 정을 받은 것을 말한다.",
+      "en_txt": "3. The term \"medical product in response to a public health crisis\" means a medical product that has been designated by the Minister of Food and Drug Safety as a medical product that can be used to diagnose, treat, mitigate, cure, or prevent any of the following diseases or injuries in a public health crisis:",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가. 「감염병의 예방 및 관리에 관한 법률」 제2조제1호에 따른 감염병",
+      "en_txt": "(a) Infectious diseases under subparagraph 1 of Article 2 of the Infectious Disease Control and Prevention Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "나. 탄저균ㆍ독성화학물질 등 생화학무기의 사용 등으로 인하여 발생하는 질병 또는 상해",
+      "en_txt": "(b) Diseases or injuries caused by the use, etc. of biochemical weapons, such as anthrax bacillus or toxic chemicals;",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다.「원자력시설 등의 방호 및 방사능 방재 대책법」 제2조제6호부터 제8호까지에 따른 핵물질 위협, 방사선비상, 방사능재난 등으로 발생하는 질병 또는 상해",
+      "en_txt": "(c) Diseases or injuries caused by a nuclear material threat, radiation emergency, or radiological disaster, etc. under subparagraphs 6 through 8 of Article 2 under the Act on Physical Protection and Radiological Emergency;",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. “비임상시험”이란 「약사법」 제2조제16호에 따른 시험, 「의료기기법」 제10조의2제1항에 따른 시험 또는 체외진 단의료기기의 분석적 성능을 확인하기 위한 성능시험을 말한다.",
+      "en_txt": "4. The term \"non-clinical trial\" means a study under subparagraph 16 of Article 2 of the Pharmaceutical Affairs Act, a trial under Article 10-2 (1) of the Medical Devices Act, or a performance test to ascertain the analytical performance of an in vitro diagnostic medical device;",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. “임상시험”이란 「약사법」 제2조제15호에 따른 시험 또는「의료기기법」 제10조제1항에 따른 시험(「체외진단의료 기기법」 제2조제3호에 따른 임상적 성능시험을 포함한다)을 말한다.",
+      "en_txt": "5. The term \"clinical trial\" means a trial under subparagraph 15 of Article 2 of the Pharmaceutical Affairs Act or a trial under Article 10 (1) of the Medical Devices Act (including a clinical performance study under subparagraph 3 of Article 2 of the Act on In Vitro Diagnostic Medical Devices);",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. “치료적 확증 임상시험”이란 의약품의 안전성과 유효성을 확증하기 위한 임상시험을 말한다.",
+      "en_txt": "6. The term \"therapeutic confirmatory trial\" means a clinical trial to confirm the safety and effectiveness of a drug;",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. “치료적 탐색 임상시험”이란 환자군에서 치료적 유효성을 탐색하여 가능한 용량을 설정하고 치료적 확증 임상시 험을 위한 시험설계, 평가항목, 평가방법 등을 마련하기 위한 임상시험을 말한다.",
+      "en_txt": "7. The term \"therapeutic exploratory trial\" means a trial to explore therapeutic effectiveness in a patient group to establish a feasible dose and to prepare the trial design, evaluation items, evaluation methods, etc. for a therapeutic confirmatory trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 국가는 공중보건 위기대응 의료제품(이하 “위기대응 의료제품”이라 한다)의 개발을 지원ㆍ촉 진하고, 위기대응 의료제품을 원활하고 긴급하게 공급하도록 노력하여야 한다.",
+      "en_txt": "(1) The State shall endeavor to support and promote the development of medical products in response to a public health crisis (hereinafter referred to as \"crisis response medical products\") and to ensure the smooth and urgent supply of crisis response medical products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 위기대응 의료제품의 품질, 안전성 및 유효성을 신속하게 예측, 평가할 수 있는 방법을 개발하기 위하여 관련 체계를 구축하고 이에 필요한 전문인력을 양성하는 등의 시책을 마련하여야 한다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety shall formulate policy measures such as establishing a relevant system and training specialized personnel to develop a method to promptly predict and evaluate the quality, safety, and effectiveness of crisis response medical products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 「약사법」(「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」을 포함한다) 및 「의료기기법」(「체외 진단의료기기법」을 포함한다)에 따라 의료제품을 제조하거나 수입하려는 자는 위기대응 의료제품의 연구ㆍ개발을 위하여 노력하여야 하며, 공중보건 위기상황에서 국가가 수행하는 의료제품의 공급 및 안전관리 등의 업무에 적극 협조하여야 한다.",
+      "en_txt": "(3) A person who intends to manufacture or import medical products in accordance with the Pharmaceutical Affairs Act (including the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products) and the Medical Devices Act (including the Act on In Vitro Diagnostic Medical Devices) shall endeavor to research and develop crisis response medical products and shall actively cooperate with the State's work on supply and safety control of medical products, etc. in a public health crisis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위기대응 의료제품과 관련하여 이 법에 규정된 것을 제외하고는 의약품과 의약외품은 「약 사법」을, 첨단바이오의약품은 「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」과 「약사법」을, 의료 기기는 「의료기기법」을, 체외진단의료기기는 「체외진단의료기기법」과 「의료기기법」을 각각 적용한다.",
+      "en_txt": "Except as provided in this Act with respect to crisis response medical products, the Pharmaceutical Affairs Act shall apply to drugs and quasi-drugs, the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products and the Pharmaceutical Affairs Act to advanced biological products, the Medical Devices Act to medical devices, and the Act on In Vitro Diagnostic Medical Devices and the Medical Devices Act to in vitro diagnostic medical devices, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 다음 각 호의 사항을 심의하고 식품의약품안전처장의 자문에 응하기 위하여 식품의약품안전처에 공중보건 위기대응 의료제품 안전관리ㆍ공급위원회(이하 “위원회”라 한다)를 둔다.",
+      "en_txt": "(1) A Commission on Safety Control and Supply of Medical Products in Response to a Public Health Crisis (hereinafter referred to as the \"Commission\") shall be established under the control of the Ministry of Food and Drug Safety to deliberate on the following matters and to provide advice regarding the inquiry of the Minister of Food and Drug Safety:",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 위기대응 의료제품에 대한 안전관리ㆍ공급체계 및 제도의 발전에 관한 사항",
+      "en_txt": "1. Development of safety control and supply systems for crisis response medical products;",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 위기대응 의료제품의 개발 지원ㆍ촉진 등에 관한 사항",
+      "en_txt": "2. Support for and promotion of the development of crisis response medical products, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 위기대응 의료제품(제6조에 따른 예비 위기대응 의료제품을 포함한다)에 대한 지정 및 지정취소, 허가 및 허가취 소, 양도ㆍ양수 등에 대한 심의와 자문에 관한 사항",
+      "en_txt": "3. Deliberation and consultation on designation of, revocation of designation of, permission for, revocation of permission for, transfer of, or acquisition, etc. of, crisis response medical products (including preliminary crisis response medical products under Article 6);",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 위기대응 의료제품의 긴급사용승인에 관한 사항",
+      "en_txt": "4. Authorization for emergency use of crisis response medical products;",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 위기대응 의료제품의 부작용 보고 결과에 따른 계속 사용 여부 결정에 관한 사항",
+      "en_txt": "5. Decision on whether to continue using crisis response medical products based on the report of its adverse effects;",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 위기대응 의료제품의 긴급 생산ㆍ수입명령, 유통개선조치 및 비축 등에 관한 사항",
+      "en_txt": "6. Emergency production or import orders, distribution improvement measures, stockpiling, etc. of crisis response medical products;",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 그 밖에 위기대응 의료제품의 개발 및 공급과 관련하여 관계 중앙행정기관의 장 또는 식품의약품안전처장이 심의 또는 자문을 요청하는 사항",
+      "en_txt": "7. Other matters for which the head of the relevant central administrative agency or the Minister of Food and Drug Safety requests deliberation or advice with regard to the development and supply of crisis response medical products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 위원회는 위원장 1명을 포함한 30명 이내의 위원으로 구성한다.",
+      "en_txt": "(2) The Commission shall consist of up to 30 members including one chairperson.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 위원회의 위원장은 식품의약품안전처 차장으로 하고, 위원은 대통령령으로 정하는 관계 중앙행정기관의 고위공무원단에 소속된 공무원 및 공중보건 위기대응 의료제품에 관한 학식과 경험이 풍부한 사람 중에서 식품의약품안 전처장이 임명 또는 위촉하는 사람으로 한다. 이 경우 공무원이 아닌 위원이 전체 위원의 과반수가 되도록 하여야 한다.",
+      "en_txt": "(3) The Vice Minister of Food and Drug Safety shall serve as the chairperson of the Commission; and its members shall be appointed or commissioned by the Minister of Food and Drug Safety, from among public officials belonging to the Senior Executive Service of the relevant central administrative agency prescribed by Presidential Decree and persons with extensive knowledge of and experience in medical products in response to a public health crisis. In such cases, the non-public official members shall constitute the majority of the members.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 위원회의 업무를 효율적으로 수행하기 위하여 위원회에 분야별 분과위원회를 둘 수 있다.",
+      "en_txt": "(4) The Commission may have sectoral subcommittees to efficiently perform its duties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 분과위원회에서 심의ㆍ의결한 사항은 위원장에게 보고하고 위원회의 의결을 거쳐야 한다. 다만, 위원장이 경미 하다고 인정하는 사항에 대하여는 분과위원회의 의결로써 위원회의 의결을 갈음할 수 있다.",
+      "en_txt": "(5) The deliberation and resolution of a subcommittee shall be reported to the chairperson and be resolved on by the Commission: Provided, That the resolution of a subcommittee may substitute for the resolution of the Commission for matters deemed minor by the chairperson.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 위기대응 의료제품을 개발하려는 자는 식품의약품안전처장에게 해당 의료제품을 예비 위기대응 의료제품으로 지정하여 줄 것을 신청할 수 있다. 이 경우 다음 각 호의 자료를 함께 제출하여야 한다.",
+      "en_txt": "(1) A person intending to develop a crisis response medical product may file an application to designate such product as a preliminary crisis response medical product with the Minister of Food and Drug Safety; in such cases, the following materials shall be submitted together:",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 예비 위기대응 의료제품으로 지정받아 개발하려는 의료제품의 적용 대상이 되는 질병 또는 상해(傷害)에 대한 설 명 자료",
+      "en_txt": "1. Materials describing a disease or injury targeted by the medical product to be designated and developed as a preliminary crisis response medical product;",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 예비 위기대응 의료제품으로 지정받아 개발하려는 의료제품이 제1호에 따른 질병 또는 상해(傷害)를 진단ㆍ치료 ㆍ경감ㆍ처치 또는 예방할 수 있음을 입증하는 비임상시험 결과 및 임상시험의 계획 또는 결과 등에 관한 자료 각 목의 어느 하나에 해당하는 질병 또는 상해의 진단ㆍ치료 등을 목적으로 사용되는 것으로서 다음 각 호의 요건 을 충족하는 경우에는 위원회의 심의를 거쳐 해당 의료제품을 예비 위기대응 의료제품으로 지정할 수 있다.",
+      "en_txt": "2. Materials on the results of non-clinical trials or the plans or results of clinical trials, etc. that prove that the medical product to be designated and developed as a preliminary crisis response medical product can diagnose, treat, mitigate, cure, or prevent a disease or injury under subparagraph 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따라 예비 위기대응 의료제품으로 지정받아 개발하려는 의료제품이 제2조제3호 각 목의 어느 하나에 해당하는 질병 또는 상해의 진단ㆍ치료 등을 목적으로 사용되는 것으로서 다음 각 호의 요건을 충족하는 경우에는 위원회의 심의를 거쳐 해당 의료제품을 예비 위기대응 의료제품으로 지정할 수 있다.",
+      "en_txt": "(2) Where a medical product to be designated and developed as a preliminary crisis response medical product under paragraph (1) is used for the purpose of diagnosis, treatment, etc. of any disease or injury specified in the items of subparagraph 3 of Article 2 and meets the following requirements, the Minister of Food and Drug Safety may designate the medical product as a preliminary crisis response medical product after deliberation by the Commission:",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 다음 각 목의 어느 하나에 해당하는 의료제품으로서 해당 질병을 진단ㆍ치료ㆍ경감ㆍ처치 또는 예방하기 위하여 사용함을 목적으로 할 것",
+      "en_txt": "1. The medical product shall be one of the following items and is intended to be used to diagnose, treat, mitigate, cure, or prevent the relevant disease:",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가. 기존의 의약품에 대하여 내성(耐性)이 생긴 병원생물(病原生物)에 작용하는 항생제, 항바이러스제, 항진균제 또는 백신 등의 의약품",
+      "en_txt": "(a) Drugs such as antibiotics, antivirals, antifungals, or vaccines that work against pathogens that have developed resistance to existing drugs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "나. 새로운 병원생물 또는 치료경험이 없는 병원생물에 작용하는 항생제, 항바이러스제, 항진균제 또는 백신 등의 의약품",
+      "en_txt": "(b) Drugs such as antibiotics, antivirals, antifungals, or vaccines that work against new or untreated pathogens;",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다. 기존의 의료기기나 치료기술과 비교하여 안전성ㆍ유효성이 현저히 개선되었거나 개선될 것으로 예상되거나 사용목적, 작용원리 등이 본질적으로 동등하지 않은 의료기기",
+      "en_txt": "(c) Medical devices that have significantly improved or are expected to improve safety and effectiveness compared to existing medical devices or therapeutic technologies or that are not essentially equivalent thereto in terms of the purpose of use, operating principle, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "라. 감염병의 대유행 또는 생화학적 무기의 사용으로 인한 질병을 진단ㆍ치료ㆍ경감ㆍ처치 또는 예방할 수 있는 의료제품",
+      "en_txt": "(d) Medical products that can diagnose, treat, mitigate, cure, or prevent a disease caused by a pandemic of an infectious disease or the use of a biochemical weapon;",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "마. 방사선 또는 방사능의 방호 의료제품 품",
+      "en_txt": "(e) Medical products to protect against radiation or radioactivity;",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 비임상시험 또는 임상시험에서 공중보건에 심각한 위해를 끼칠 우려가 있는 질병 또는 상해를 진단ㆍ치료ㆍ경감 ㆍ처치 또는 예방할 수 있을 것이 예측될 것",
+      "en_txt": "2. The medical product shall be predicted to diagnose, treat, mitigate, cure, or prevent a disease or injury that is likely to cause serious harm to public health in non-clinical or clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제1항에 따른 신청을 받은 날부터 30일 이내에 제2항에 따른 지정 여부를 결정하여야 한다.",
+      "en_txt": "(3) The Minister of Food and Drug Safety shall decide whether to make a designation under paragraph (2) within 30 days from the date of receipt of the application under paragraph (1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 제2항에 따라 지정을 받은 예비 위기대응 의료제품이 다음 각 호의 어느 하나에 해당하는 경우에는 위원회의 심의를 거쳐 그 지정을 취소할 수 있다. 다만, 제1호의 경우에는 그 지정을 취소하여야 한다.",
+      "en_txt": "(4) Where any of the following cases is applicable to a preliminary crisis response medical product designated under paragraph (2), the Minister of Food and Drug Safety may revoke the designation of such medical product after deliberation by the Commission: Provided, That the designation shall be revoked in the case of subparagraph 1:",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 거짓이나 그 밖의 부정한 방법으로 제2항의 지정을 받은 경우",
+      "en_txt": "1. Where the designation under paragraph (2) has been obtained by fraud or other improper means;",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 예비 위기대응 의약품 또는 의약외품과 같은 수준 이상의 개선효과가 있는 의약품 또는 의약외품(이하 “의약품등 ”이라 한다)이 「약사법」 제31조제2항부터 제4항까지 및 제42조제1항에 따른 품목허가를 받은 경우(「첨단재생의 료 및 첨단바이오의약품 안전 및 지원에 관한 법률」 제23조제2항, 제3항 및 제27조제1항에 따른 품목허가를 받 은 경우를 포함한다)",
+      "en_txt": "2. Where permission by item under Articles 31 (2) through (4) and 42 (1) of the Pharmaceutical Affairs Act (including permission by item under Articles 23 (2) and (3) and 27 (1) of the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products) has been granted for drugs or quasi-drugs (hereinafter referred to as \"drugs, etc.\") that have improvement effects equal to or higher than those of preliminary crisis response drugs or quasi-drugs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 예비 위기대응 의료기기와 같은 수준 이상의 성능 및 유효성이 있는 의료기기가 「의료기기법」 제6조제2항 또는 제15조제2항에 따른 의료기기 제조 또는 수입허가ㆍ인증을 받은 경우(「체외진단의료기기법」 제5조제3항 또는 제11조제2항에 따라 체외진단의료기기 제조 또는 수입허가ㆍ인증을 받은 의료기기를 포함한다)",
+      "en_txt": "3. Where permission or certification for manufacturing or importing medical devices has been granted under  Article 6 (2) or 15 (2) of the Medical Devices Act for medical devices that have performance and effectiveness equal to or higher than those of preliminary crisis response medical devices (including medical devices for which permission or certification for manufacturing or importing in vitro diagnostic medical devices is granted under Article 5 (3) or 11 (2) of the Act on In Vitro Diagnostic Medical Devices).",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 제4항에 따라 예비 위기대응 의료제품의 지정을 취소하려면 청문을 하여야 한다.",
+      "en_txt": "(5) To revoke the designation of a preliminary crisis response medical product under paragraph (4), a hearing shall be held.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 제1항 및 제2항에 따른 지정의 절차와 방법 등에 관하여 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(6) Details necessary for the procedures, methods, etc. of the designation under paragraphs (1) and (2) shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 다음 각 호의 어느 하나에 해당하는 경우에는 특별한 사유가 있는 경우를 제외하고는 예비 위기대응 의료제품에 대하여 다른 의료제품에 대한 심사보다 우선하여 심사하여야 한다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety shall prioritize the review of a preliminary crisis response medical product over the review of other medical products, except for a good cause, in any of the following cases:",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 예비 위기대응 의료제품에 대하여 제조판매품목허가, 수입품목허가, 제조허가, 수입허가, 제조인증 또는 수입인 증(이하 “품목허가”라 한다)이 신청(변경신청을 포함한다)된 경우",
+      "en_txt": "1. Where permission for manufacturing and distributing each item, permission for importing each item, manufacturing  permission,  import  permission,  manufacturing  certification,  or  import  certification (hereinafter referred to as \"permission by item\") has been applied (including an application for change) for the preliminary crisis response medical product;",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 예비 위기대응 의료제품에 대하여 임상시험계획 승인이 신청(변경신청을 포함한다)된 경우",
+      "en_txt": "2. Where an application for approval of a clinical trial plan (including an application for change) has been filed for the preliminary crisis response medical product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 우선심사 처리기한과 그 밖에 필요한 사항은 총리령으로 정한다.",
+      "en_txt": "(2) The deadline for the prioritized review under paragraph (1) and other necessary matters shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 예비 위기대응 의료제품의 지정을 받은 자가 그 의료제품의 품목허가를 받으려는 경우에는 품 목허가를 신청하기 전에 개발 과정별로 작성되는 품목허가 신청에 필요한 서류의 전부 또는 일부를 그 과정별로 식 품의약품안전처장에게 미리 제출하고, 이를 수시로 심사(이하 “수시동반심사”라 한다)하여 줄 것을 식품의약품안전 처장에게 신청할 수 있다.",
+      "en_txt": "(1) Where a person who has obtained the designation of a preliminary crisis response medical product intends to obtain permission by item for that medical product, the person may pre-submit, before filing an application for permission by item, all or part of the documentation required for such application, which is completed at each phase of the development process, to the Minister of Food and Drug Safety at each such phase and may file an application to conduct a review whenever necessary (hereinafter referred to as \"on-call concomitant review\") with the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 신청이 수시동반심사에 적합하다고 판단하면 수시동반심사에 제출할 자료의 종류ㆍ범위, 제출 일정 및 심사 결과의 통보시기에 관하여 신청인과 협의한 후 제1항에 따른 신청에 대하여 승인 할 수 있다. 제출한 자료의 종류ㆍ범위 등 승인받은 내용을 변경하려는 경우에도 또한 같다.",
+      "en_txt": "(2) Where deeming that the application under paragraph (1) is suitable for an on-call concomitant review, the Minister of Food and Drug Safety may approve the application under paragraph (1) after consulting with the applicant regarding the type and scope of documentation to be submitted for the on-call concomitant review, the submission schedule, and the timing of notification of the review results. The same shall apply when intending to change the approved details, such as the type and scope of the documentation submitted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 과정별 수시동반심사가 완료되면 신청인에게 제2항에서 협의된 심사 결과의 통보시기에 따라 미리 제출된 서류에 대하여 각 심사 결과를 통보하여야 하고, 심사 결과가 품목허가를 신청하기에 충분하다고 판단되는 경우에는 신청인에게 그 사실을 통보하여야 한다.",
+      "en_txt": "(3) When an on-call concomitant review is completed for each phase, the Minister of Food and Drug Safety shall notify the applicant of the results of each review of the documentation pre-submitted, in accordance with the timing of notification of the review results agreed upon under paragraph (2); and if the results of the review are deemed sufficient to file an application for permission by item, the Minister shall notify the applicant of such fact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 과정별 수시동반심사가 완료되면 신청인에게 제2항에서 협의된 심사 결과의 통보시기에 제3항에 따라 통보한 심사 결과를 품목허가 여부 결정에 반영하여야 한다.",
+      "en_txt": "(4) Where an application for permission by item is filed for a preliminary crisis response medical product for which an on-call concomitant review is completed, the Minister of Food and Drug Safety shall reflect the results of the review notified under paragraph (3) in the decision whether to grant permission by item.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 제1항에 따른 심사의 신청, 제2항에 따른 승인ㆍ변경승인 및 제3항에 따른 심사 결과의 통보 등에 관하여 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(5) Details necessary for an application for review under paragraph (1), approval or approval for change under paragraph (2), notification of review results under paragraph (3), etc. shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식품의약품안전처장은 다음 각 호의 어느 하나에 해당하는 경우 품목허가에 관한 심사를 함께 실시할 수 있다.",
+      "en_txt": "The Minister of Food and Drug Safety may conduct a concurrent review for permission by item in any of the following cases:",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 예비 위기대응 의약품과 예비 위기대응 의료기기가 조합되어 있거나 복합구성된 경우",
+      "en_txt": "1. Where a preliminary crisis response drug and a preliminary crisis response medical device are assembled or combined together;",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 예비 위기대응 의약품과 예비 위기대응 의약품의 적응증(適應症) 진단을 위한 의료기기에 대하여 동시에 품목허 가를 신청한 경우",
+      "en_txt": "2. Where applications are concurrently filed for permission by item for a preliminary crisis response drug and for permission by item for a medical device for diagnosing an indication for the preliminary crisis response drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 예비 위기대응 의료제품의 지정을 받은 자가 그 의료제품에 대하여 임상시험(치료적 탐색 임상시험 및 치료적 확증 임상시험을 포함한다) 또는 비임상시험(이하 “임상시험등”이라 한 다. 이하 이 조에서 같다)을 하려는 경우 임상시험등 계획서 작성, 대상자 모집, 종사자 교육, 국제공동시험의 실시 등 을 지원할 수 있다.",
+      "en_txt": "(1) Where a person who has obtained the designation of a preliminary crisis response medical product intends to conduct clinical trials (including therapeutic exploratory trials and therapeutic confirmatory trials) or non-clinical trials (hereinafter referred to as \"clinical trials, etc.\"; hereafter in this Article, the same shall apply) on such medical product, the Minister of Food and Drug Safety may provide support for preparation of plans for clinical trials, etc., recruitment of subjects, training of personnel, implementation of international collaborative trials, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 예비 위기대응 의료제품의 효율적이고 신속한 임상시험등의 실시 및 관련 정보의 질 향상을 위하여 임상시험등의 결과에 관하여 필요한 정보를 전자적 형태로 수집ㆍ관리할 수 있으며, 예비 위기대응 의 료제품에 대한 임상시험등을 하려는 자에게 그 정보를 제공하는 등의 지원을 할 수 있다.",
+      "en_txt": "(2) To efficiently and promptly conduct clinical trials, etc. for preliminary crisis response medical products and to improve the quality of related information, the Minister of Food and Drug Safety may collect and manage necessary information on the results of clinical trials, etc. in electronic form and may provide support, including providing such information, to persons who intend to conduct clinical trials on preliminary crisis response medical products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항에 따른 임상시험등 계획서 작성, 대상자 모집, 종사자 교육, 국제공동시험 실시 등에 대한 지원 및 제2항에 따른 임상시험등 정보의 수집ㆍ관리에 대한 절차와 방법 등에 관하여 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(3) Details necessary for the support for the preparation of plans for clinical trials, etc., recruitment of subjects, training of personnel, implementation of international collaborative trials, etc. under paragraph (1) and the procedures and methods, etc. for collecting and managing information on clinical trials, etc. under paragraph (2) shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 의약품의 안전성ㆍ유효성 및 대상 질병의 특성상 치료적 확증 임상시험과 그 형태와 목적이 유사한 치료적 탐색 임상시험을 완료한 예비 위기대응 의약품에 대하여 해당 의약품의 치 료적 확증 임상시험 자료 등을 별도로 정하는 기간 내에 제출할 것을 조건으로 하여 품목허가를 할 수 있다. 이 경우 다음 각 호에서 정하는 자료를 제출하여야 한다.",
+      "en_txt": "(1) For preliminary crisis response drugs that have completed a therapeutic exploratory trial similar in form and purpose to a therapeutic confirmatory trial in terms of the safety and effectiveness of the drug and the nature of the target disease, the Minister of Food and Drug Safety may grant permission by item on the condition that the confirmatory trial data, etc. of the drugs be submitted within a specified period; in such cases, the following data shall be submitted:",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 해당 의약품이 약물역학(藥物疫學), 약물치료학(藥物治療學), 병태생리학(病態生理學) 등의 관점에서 임상적 효과 가 있음을 입증하는 임상시험 자료 또는 해당 의약품의 임상적 효과를 합리적으로 예측할 수 있는 대리평가변수 를 통해 효과가 있음을 입증하는 임상시험 자료",
+      "en_txt": "1. Clinical trial data proving that the drugs have clinical effectiveness from a pharmacoepidemiologic, pharmacotherapeutic, or pathophysiologic perspective, etc. or those proving effectiveness with surrogate endpoints that can reasonably predict the clinical effectiveness of the drugs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 그 밖에 해당 의약품의 안전성ㆍ유효성 등과 관련하여 총리령으로 정하는 자료",
+      "en_txt": "2. Other materials prescribed by Ordinance of the Prime Minister with regard to the safety and effectiveness of the drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 적응증에 대한 임상시험을 위한 대상자 수를 확보하는 것이 현실적으로 곤란한 예비 위기대응 의료기기에 대하여 해당 의료기기의 안전성과 유효성을 확증할 수 있는 임상시험자료 등을 별도로 정하는 기간 내에 제출할 것을 조건으로 하여 품목허가를 할 수 있다. 이 경우 다음 각 호에서 정하는 자료를 제출하여야 한다.",
+      "en_txt": "(2) For preliminary crisis response medical devices for which it is impractical to obtain the number of subjects for a clinical trial for the indication, the Minister of Food and Drug Safety may grant permission by item on the condition that clinical trial data that can confirm the safety and effectiveness of the medical devices be submitted within a specified period; in such cases, the following data shall be submitted:",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 통계적으로 타당한 임상시험을 위한 대상자 수보다 적더라도 임상적 효과가 있음을 확인할 수 있는 임상시험 자 료",
+      "en_txt": "1. Clinical trial data ascertaining that the medical devices have clinical effectiveness, even if the number of subjects is less than that for a statistically valid trial;",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 그 밖에 해당 의료기기의 안전성ㆍ유효성 등과 관련하여 총리령으로 정하는 자료",
+      "en_txt": "2. Other materials prescribed by Ordinance of the Prime Minister with regard to the safety and effectiveness of the medical devices.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 핵물질ㆍ생화학무기 등에 대한 유효성을 연구하기 위한 임상시험을 실시할 수 없음이 명백하다고 인정하는 예비 위기대응 의료제품에 대하여 다음 각 호별로 정하는 자료가 제출된 경우에는 해당 의료제 품의 안전성과 유효성을 확증할 수 있는 임상시험 자료 등을 별도로 정하는 기간 내에 제출할 것을 조건으로 하여 품목허가를 할 수 있다.",
+      "en_txt": "(3) For preliminary crisis response medical products for which it is deemed clear that clinical trials to study their effectiveness against nuclear, biological weapons, etc. cannot be conducted, the Minister of Food and Drug Safety may grant permission by item on the condition that clinical trial data that can confirm the safety and effectiveness of the medical products be submitted within a specified period, if the following data are submitted:",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 의약품",
+      "en_txt": "1. Drugs:",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가. 해당 의약품이 독성물질을 감소시키는 방법 등 그 의약품의 작용기전(作用機轉)이 병태생리학 등의 관점에서 합리적임을 설명하는 자료",
+      "en_txt": "(a) Explanation that the mechanism of action of the relevant drug, including how the drug reduces toxicity, is reasonable in light of pathophysiology, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "나. 동물을 대상으로 한 비임상시험 결과가 사람에 대한 반응을 예측하기에 충분하다고 입증하는 자료",
+      "en_txt": "(b) Evidence that the results from non-clinical trials on animals are sufficient to predict response in humans;",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다. 동물을 대상으로 한 비임상시험에서 사용된 평가변수가 사람의 생존가능성 향상 등 유익성과 관련이 있음을 명확하게 설명하는 자료",
+      "en_txt": "(c) A clear explanation that the endpoints used in non-clinical trials on animals are related to a benefit, such as increasing survivability of humans;",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "라. 신청된 의약품에 대한 사람 또는 동물의 약물동태(藥物動態)ㆍ약물동력(藥物動力) 자료 등이 사람에게 적용할 적절한 투여량임을 설명하는 자료",
+      "en_txt": "(d) Evidence demonstrating that pharmacokinetic and pharmacodynamic data in humans or animals are the appropriate dose for use in humans for the relevant drug for which an application has been filed;",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다. 그 밖에 해당 의약외품의 안전성ㆍ유효성 입증 등과 관련하여 총리령으로 정하는 자료",
+      "en_txt": "(e) Other materials prescribed by Ordinance of the Prime Minister with regard to proving, etc. the safety and effectiveness of the relevant drug;",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 의약외품",
+      "en_txt": "2. Quasi-drugs:",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가. 해당 질병의 치료ㆍ경감ㆍ처치 또는 예방에 있어 그 의약외품의 작용기전이 안전성 및 유효성의 관점에서 합 리적임을 설명하는 자료",
+      "en_txt": "(a) Explanation that the mechanism of action of the relevant quasi-drug is reasonable in light of the safety and effectiveness in the treatment, mitigation, cure, or prevention of the disease in question;",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "나. 비임상시험 결과가 사람에 대한 안전성 및 유효성을 예측하기에 충분하다고 입증하는 자료",
+      "en_txt": "(b) Evidence that the results from non-clinical trials are sufficient to predict safety and efficacy in humans;",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "마. 그 밖에 해당 의약품의 안전성ㆍ유효성 입증 등과 관련하여 총리령으로 정하는 자료",
+      "en_txt": "(c) Other materials prescribed by Ordinance of the Prime Minister with regard to proving, etc. the safety and effectiveness of the relevant quasi-drug;",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 의료기기",
+      "en_txt": "3. Medical devices:",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가. 해당 질병의 진단ㆍ치료ㆍ경감ㆍ처치 또는 예방에 있어 그 의료기기의 작용원리가 안전성 및 유효성의 관점 에서 합리적임을 설명하는 자료",
+      "en_txt": "(a) Explanation that the relevant medical device's principle of action is reasonable in light of the safety and effectiveness in the diagnosis, treatment, mitigation, cure, or prevention of the disease in question;",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "나. 동물을 대상으로 한 비임상시험 결과가 사람에 대한 안전성 및 유효성을 예측하기에 충분하다고 입증하는 자 료",
+      "en_txt": "(b) Evidence that the results from non-clinical trials on animals are sufficient to predict safety and effectiveness in humans;",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다. 그 밖에 해당 의료기기의 안전성ㆍ유효성 입증 등과 관련하여 총리령으로 정하는 자료",
+      "en_txt": "(c) Other materials prescribed by Ordinance of the Prime Minister with regard to proving, etc. the safety and effectiveness of the relevant medical device.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제1항 및 제3항에 따라 의약품의 품목허가를 받은 자는 「약사법」 제31조제2항부터 제3항까지 및 제42조제1항 에 따른 품목허가(「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」제23조제2항ㆍ제3항 및 제27조 제1항에 따른 품목허가를 포함한다)를 받은 자로, 제3항에 따라 의약외품의 품목허가를 받은 자는 「약사법」 제31조 제4항 및 제42조제1항에 따른 품목허가를 받은 자로, 제2항 및 제3항에 따라 의료기기의 제조 또는 수입허가ㆍ인증 을 받은 자는 「의료기기법」 제6조제2항 또는 제15조제2항에 따른 의료기기 제조 또는 수입허가ㆍ인증(「체외진단 의료기기법」 제5조제3항 또는 제11조제2항에 따른 체외진단의료기기 제조 또는 수입허가ㆍ인증을 포함한다)을 받 은 자로 본다.",
+      "en_txt": "(4) A person who has received permission by item for a drug under paragraphs (1) and (3) shall be deemed a person  who  has  received  permission  by  item  under  Articles  31  (2)  through  (3)  and  42  (1)  of  the Pharmaceutical Affairs Act (including permission by item under Articles 23 (2) and (3) and 27 (1) of the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products); a person who has received permission by item for a quasi-drug under paragraph (3) shall be deemed a person who has received permission by item under Articles 31 (4) and 42 (1) of the Pharmaceutical Affairs Act; and a person who has received manufacturing or import permission or certification for a medical device under paragraphs (2) and (3) shall be deemed a person who has received manufacturing or import permission or certification for a medical device under Article 6 (2) or 15 (2) of the Medical Devices Act (including manufacturing or import permission or certification for an in vitro diagnostic medical device under Article 5 (3) or 11 (2) of the Act on In Vitro Diagnostic Medical Devices).",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 식품의약품안전처장은 제1항부터 제3항까지에 따라 해당 의료제품의 품목허가를 받은 자가 그 조건을 이행하지 아니하는 경우에는 총리령으로 정하는 바에 따라 그 품목허가를 즉시 취소하여야 한다. 다만, 해당 의료제품을 투여 ㆍ사용하는 자의 치료기회 보장이 필요한 경우 등 총리령으로 정하는 경우에는 필요한 조치를 시행하도록 한 이후 에 그 품목허가를 취소할 수 있다.",
+      "en_txt": "(5) Where a person who has received permission by item for the relevant medical product under paragraphs (1) through (3) fails to fulfill the conditions of the permission, the Minister of Food and Drug Safety shall immediately revoke such permission by item as prescribed by Ordinance of the Prime Minister: Provided, That in cases prescribed by Ordinance of the Prime Minister, such as when it is necessary to ensure treatment opportunities for those to whom the medical product are administered or for those who use the medical product, the Minster may revoke the permission by item after requiring the person to take necessary measures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 제1항부터 제5항까지에 따른 신청 방법, 처리 절차, 제출자료 등에 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(6) Details necessary for the application methods, processing procedures, and materials to be submitted under paragraphs (1) through (5) shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 공중보건 위기상황에 적절히 대처하기 위하여 필요하다고 인정하는 경우 또는 관계 중앙행정기관의 장의 요청이 있는 경우 위원회의 심의를 거쳐 다음 각 호의 어느 하나에 해당하 는 처분(이하 “긴급사용승인”이라 한다)을 할 수 있다. 다만, 긴급한 경우에는 위원회의 심의를 거치지 아니할 수 있 다.",
+      "en_txt": "(1) In cases where deeming it necessary for responding appropriately to a public health crisis or at the request of the head of the relevant central administrative agency, the Minister of Food and Drug Safety may, after deliberation by the Commission, make any of the following dispositions (hereinafter referred to as \"approval for emergency use\"): Provided, That deliberation by the Commission may be omitted in urgent cases:",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「약사법」 제31조제2항ㆍ제4항 및 제42조제1항, 「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」 제23조제2항 및 제27조제1항에 따른 품목허가를 받거나 품목신고를 하지 아니한 의약품등을 제조업자 또는 수 입업자에게 제조 또는 수입하게 하여 공급하게 하는 행위. 다만, 의약품 수입ㆍ공급을 승인하는 경우 우리나라와 31조 및 제42조 또는 「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」 제23조 및 제27조에 따른 허가 등에 준하는 조치를 받은 의약품에 한한다.",
+      "en_txt": "1. Allowing a manufacturer or importer to manufacture or import and then supply drugs, etc. for which permission by item has not been obtained or a notification by item has not been filed under Article 31 (2) or (4) or 42 (1) of the Pharmaceutical Affairs Act, or Article 23 (2) or 27 (1) of the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products: Provided, That approval for the importation and supply of drugs, etc. shall be limited for those which have been subjected to measures equivalent to permission, etc. under Article 31 or 42 of the Pharmaceutical Affairs Act or Article 23 or 27 of the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological  Products  in  a  foreign  country  recognized  by  the  Minister  of  Food  and  Drug  Safety  as implementing drug safety control at a level equal to or higher than that of the Republic of Korea;",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 이미 품목허가를 받거나 품목신고를 한 의약품등에 대하여 허가 또는 신고된 내용과 다른 용법ㆍ용량, 효능ㆍ효 과 및 사용기간 등을 정하여 의약품등 제조업자에게 제조하게 하거나 수입업자에게 수입하게 하여 공급하게 하 는 행위",
+      "en_txt": "2. Allowing a manufacturer or importer to manufacture or import and then supply drugs, etc. for which permission by item has already been obtained or a notification by item has already been filed, specifying the use, dose, efficacy, effectiveness, and duration of use that is different from the details of the permission or notification;",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 「의료기기법」 제6조제2항 및 제15조제2항, 「체외진단의료기기법」 제5조제3항 및 제11조제2항에 따른 제조ㆍ수 입허가 또는 제조ㆍ수입인증을 받지 아니하거나 제조ㆍ수입신고를 하지 아니한 의료기기를 제조업자 또는 수입 업자에게 제조 또는 수입하게 하여 공급하게 하는 행위. 다만, 의료기기 수입ㆍ공급을 승인하는 경우 우리나라와 제6조 및 제15조 또는 「체외진단의료기기법」 제5조 및 제11조에 따른 허가 등에 준하는 조치를 받은 의료기기에 한한다.",
+      "en_txt": "3. Allowing a manufacturer or importer to manufacture or import and then supply medical devices for which manufacturing or import permission or manufacturing or import certification has not been obtained, or a manufacturing or import notification has not been filed under Article 6 (2) or 15 (2) of the Medical Devices Act or Article 5 (3) or 11 (2) of the Act on In Vitro Diagnostic Medical Devices: Provided, That approval for the importation and supply of medical devices shall be limited for those which have been subjected to measures equivalent to permission, etc. under Article 6 or 15 of the Medical Devices Act or Article 5 or 11 of the Act on In Vitro Diagnostic Medical Devices in a foreign country recognized by the Minister of Food and Drug Safety as implementing medical device safety control at a level equal to or higher than that of the Republic of Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따라 긴급사용승인을 하기 위하여 해당 의료제품의 제조업자ㆍ수입업자 또는 관계 중앙행정기관의 장에게 필요한 자료의 제출을 요청할 수 있다.",
+      "en_txt": "(2) To grant approval for emergency use under paragraph (1), the Minister of Food and Drug Safety may request the manufacturer or importer of the relevant medical product or the head of the relevant central administrative agency to submit necessary materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 공중보건 위기상황의 효과적인 극복을 위하여 특정 분야 의료제품에 대한 긴급사용승인이 필요하다고 인정되는 경우 다음 각 호에 해당하는 사항을 공고하여 의료제품의 제조업자ㆍ수입업자의 긴급사용 승인 신청을 받을 수 있다. 이 경우 긴급사용승인을 신청하는 의료제품의 제조업자ㆍ수입업자는 총리령으로 정하는 바에 따라 해당 의료제품의 안전성 및 유효성을 입증할 수 있는 자료 등을 제출하여야 한다.",
+      "en_txt": "(3) Where deeming that approval for emergency use of a medical product in a specific field is necessary to effectively overcome a public health crisis, the Minister of Food and Drug Safety may receive an application for approval for emergency use from the manufacturer or importer of a medical product by publicly announcing the following; in such cases, the manufacturer or importer of the medical product for which an application for emergency use is filed shall submit materials, etc. proving the safety and effectiveness of the medical product as prescribed by Ordinance of the Prime Minister:",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 긴급사용승인의 대상이 되는 의료제품의 범위",
+      "en_txt": "1. The scope of the medical product eligible for approval for emergency use;",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 그 밖에 긴급사용승인 요건, 승인기간 등 식품의약품안전처장이 필요하다고 정하는 사항",
+      "en_txt": "2. Other matters determined by the Minister of Food and Drug Safety to be necessary, such as the requirements for approval for emergency use and duration of the approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 제1항에 따라 긴급사용승인을 받은 의료제품의 제조업자 또는 수입업자에게 제13조부터 제15조까지에 따른 조치를 할 것을 명할 수 있다.",
+      "en_txt": "(4) The Minister of Food and Drug Safety may order the manufacturer or importer of a medical product approved for emergency use under paragraph (1) to take measures under Articles 13 through 15.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 식품의악품안전처장은 다음 각 호의 어느 하나에 해당하는 경우에는 대통령령으로 정하는 바에 따라 긴급사용 승인을 받은 의료제품의 제조업자ㆍ수입업자 또는 의료기관 개설자 등에게 제조ㆍ수입의 중지, 회수ㆍ폐기, 사용 중지 및 긴급사용승인 취소 등 필요한 조치를 명할 수 있다. 다만, 제2호에 해당하는 경우에는 제조ㆍ수입의 중지, 회수ㆍ폐기, 사용 중지 및 긴급사용승인 취소 조치를 하여야 한다.<개정 2024. 2. 6.>",
+      "en_txt": "(5) The Minister of Food and Drug Safety may order the manufacturer or importer of a medical product approved for emergency use, the founder of a medical institution, etc. to take such necessary measures as suspension of manufacturing or importation, recall and disposal, or suspension of use, as prescribed by Presidential Decree, in any of the following cases: Provided, That in cases falling under subparagraph 2, such measures as suspension of manufacturing or importation, recall and disposal, or suspension of use shall be taken:",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 공중보건 위기상황이 종료된 경우",
+      "en_txt": "1. Where the public health crisis has ended;",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 해당 의료제품의 사용현황 및 효과 등을 확인ㆍ평가한 결과 국민건강에 중대한 피해를 주거나 치명적인 영향을 주거나 줄 가능성이 있는 것으로 인정되는 경우",
+      "en_txt": "2. Where the medical product is recognized as causing or likely to cause significant damage to public health or as having or likely to have a fatal effect on public health;",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 해당 의료제품을 제조ㆍ수입하는 자가 이 법에 따른 조치 또는 의무를 이행하지 아니하는 경우",
+      "en_txt": "3. Where the person who manufactures or imports the medical product fails to implement measures or fulfill obligations under this Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 식품의약품안전처장은 제1항에 따른 긴급사용승인을 받은 자가 총리령으로 정하는 바에 따라 품목허가를 신청하는 경우 해당 의료제품의 안전성 및 유효성을 확증할 수 있는 해당 의료제품의 사용 결과 자료나 임상시험 자료 등을 별도로 정하는 기간 내에 제출할 것을 조건으로 하여 품목허가를 할 수 있다.",
+      "en_txt": "(6) Where a person who has received approval for emergency use under paragraph (1) files an application for permission by item as prescribed by Ordinance of the Prime Minister, the Minister of Food and Drug Safety may grant permission by item on the condition that the evidence of the safety and effectiveness of the relevant medical product, such as the results of use of the medical product or clinical trial data be submitted within a specified period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑦ 식품의약품안전처장은 제6항에 따라 품목허가 신청된 의료제품에 대하여 제7조부터 제9조까지의 규정을 적용할 수 있다.",
+      "en_txt": "(7) The Minister of Food and Drug Safety may apply Articles 7 through 9 to a medical product for which an application for permission by item has been filed under paragraph (6).",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑧ 제6항에 따라 품목허가를 받은 의료제품 또는 그 품목허가를 받은 자에 관하여는 제11조제4항ㆍ제5항, 제13조 부터 제16조까지를 준용한다.",
+      "en_txt": "(8) Articles 11 (4) and (5) and 13 through 16 shall apply mutatis mutandis to a medical product for which permission by item has been granted or a person who has received such permission by item pursuant to paragraph (6).",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑨ 제1항에 따른 처분, 제3항에 따른 신청 절차 및 제출 자료의 범위, 제5항에 따른 조치, 제6항에 따른 처리 절차 등에 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(9) The details necessary for the dispositions under paragraph (1), the application process and scope of materials to be submitted under paragraph (3), the measures under paragraph (5), the processing procedures under paragraph (6), and other similar matters shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 국가는 제12조제1항에 따라 긴급사용승인을 받은 의약 품을 사용한 사람이 그 의약품의 부작용으로 인하여 질병에 걸리거나 장애가 발생하거나 사망한 때에는 다음 각 호 에 따른 보상금을 지급하여야 한다.",
+      "en_txt": "(1) Where a person who has used a drug authorized for emergency use pursuant to Article 12 (1) becomes ill, becomes disabled, or dies as a result of a side effect of such drug, the State shall pay compensation under the following subparagraphs:",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 진료비",
+      "en_txt": "1. Medical expenses:",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 장애일시보상금",
+      "en_txt": "2. Lump-sum compensation for disability;",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 사망일시보상금",
+      "en_txt": "3. Lump-sum compensation for death;",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 장례비",
+      "en_txt": "4. Funeral expenses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 보상금 지급과 관련된 업무의 일부를 「약사법」 제68조의3제1항에 따른 한국의약품안전관리원(이하 “한국의약품안전관리원”이라 한다)에 위탁할 수 있다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety may entrust part of the business affairs related to the payment of compensation under paragraph (1) to the Korea Institute of Drug Safety and Risk Management (hereinafter referred to as the \"Korea Institute of Drug Safety and Risk Management\") under Article 68-3 (1) of the Pharmaceutical Affairs Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항에 따른 보상금 지급에 관하여는 「약사법」 제86조의3부터 제86조의8까지를 준용한다. 이 경우 “피해구제 급여”는 “보상금”으로, “부담금 회계의 수익금으로 하여야 한다”는 “국고에 귀속시켜야 한다”로 본다.",
+      "en_txt": "(3) Articles 86-3 through 86-8 of the Pharmaceutical Affairs Act shall apply mutatis mutandis to the payment of compensation under paragraph (1). In such cases, \"benefits for relief of injury\" shall be construed as \"compensation\", and \"deposit them in the charges account as earnings\" shall be construed as \"revert to the National Treasury\". [This Article Newly Inserted on Mar. 28, 2023] SECTION 2 Safety Control and Evaluation of Medical Products",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 제11조에 따라 의료제품의 품목허가를 받은 의료제품으로서 사용 후 일정기간 동안 이상사례의 발생 여부를 확인할 필요가 있다고 인정하는 의료제품을 추적조사 대상으 따라 추적조사 실시기관을 지정하여 업무의 전부 또는 일부를 위탁할 수 있다.",
+      "en_txt": "(1) A person who has received permission by item for a medical product under Article 11 shall conduct an investigation, etc. on the safe use measures and usage performance of the medical product and report the results to the Minister of Food and Drug Safety, as prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 안전사용 조치 및 사용 성적에 관한 조사 등의 결과에 따라 필요한 경우에는 해당 의료제품의 품목허가를 받은 자에게 안전사용에 관한 추가 조치를 할 것을 명할 수 있다.",
+      "en_txt": "(2) Where necessary based on the results of an investigation, etc. of safe use measures and usage performance under paragraph (1), the Minister of Food and Drug Safety may order a person who has received permission by item for the relevant medical product to take additional measures to ensure safe use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 해당 의료제품의 품목허가를 받은 자가 제2항에 따른 조치명령을 이행하지 아니한 경우에는 해당 품목허가를 받은 자에게 해당 의료제품을 회수ㆍ폐기할 것을 명하거나 그 밖에 필요한 조치를 명할 수 있다.",
+      "en_txt": "(3) Where a person who has received permission by item for a medical product fails to comply with an order to take measures under paragraph (2), the Minister of Food and Drug Safety may order the person to recall and dispose of the relevant medical product or to take other necessary measures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 제3항에 따른 명령을 받은 자가 그 명령을 이행하지 아니한 경우에는 관계 공무원으로 하여금 해당 의료제품을 회수ㆍ폐기하거나 그 밖에 필요한 조치를 하게 할 수 있다.",
+      "en_txt": "(4) Where a person who has received an order under paragraph (3) fails to comply with the order, the Minister of Food and Drug Safety may authorize a relevant public official to recall and dispose of the relevant medical product or to take other necessary measures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 식품의약품안전처장은 제3항에 따라 유통 중인 의료제품을 회수ㆍ폐기하게 하거나 그 밖에 필요한 조치를 하게 한 경우에는 해당 의료제품의 품목허가를 받은 자에게 그 사실을 공표하도록 명할 수 있다.",
+      "en_txt": "(5) Where ordering a person who has received permission by item for a medical product to recall and dispose of the medical product in circulation or to take other necessary measures under paragraph (3), the Minister of Food and Drug Safety may order the person to publish the fact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 제3항부터 제5항까지에 따른 회수ㆍ폐기, 그 밖의 조치 및 공표명령 등에 관하여 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(6) Details necessary for orders for recall, disposal, other measures, and publication, etc. under paragraphs (3) through (5) shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 다음 각 호의 어느 하나에 해당하는 자는 제11조에 따라 의료제품의 품목허가를 받은 의 료제품으로 인하여 발생하였다고 의심되는 유해사례로서 질병ㆍ장애ㆍ사망 사례, 그 밖에 총리령으로 정하는 의료 제품의 안전성ㆍ유효성에 관한 사례를 알게 된 경우에는 한국의약품안전관리원의 장 또는 「의료기기법」 제42조제 1항에 따른 한국의료기기안전정보원(이하 “한국의료기기안전정보원”이라 한다)의 장에게 보고하여야 한다. <개정 2023. 3. 28.>",
+      "en_txt": "(1) Upon learning of any harmful cases such as illness, disability, death, and other cases related to the safety and effectiveness of the medical products prescribed by Ordinance of the Prime Minister, which are suspected to be caused by a medical product for which permission by item has been granted under Article 11, any of the following persons shall report to the head of the Korea Institute of Drug Safety and Risk Management or the head of the National Institute of Medical Device Safety Information (hereinafter referred to as \"National Institute of Medical Device Safety Information\") under Article 42 (1) of the Medical Devices Act: <Amended on March 28, 2023>",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제11조에 따른 의료제품의 품목허가를 받은 자",
+      "en_txt": "1. A person who has received permission by item for a medical product under Article 11;",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「약사법」 제20조제2항에 따른 약국개설자",
+      "en_txt": "2. A pharmacy founder under Article 20 (2) of the Pharmaceutical Affairs Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 「약사법」 제45조제1항에 따른 의약품도매상",
+      "en_txt": "3. A drug wholesaler under Article 45 (1) of the Pharmaceutical Affairs Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 「의료기기법」 제16조제1항에 따른 수리업자",
+      "en_txt": "4. A repairer under Article 16 (1) of the Medical Devices Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 「의료기기법」 제17조제1항에 따른 판매업자 및 임대업자",
+      "en_txt": "5. A distributor or lessor under Article 17 (1) of the Medical Devices Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 「의료법」 제33조에 따른 의료기관 개설자",
+      "en_txt": "6. The founder of a medical institution under Article 33 of the Medical Service Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따라 보고를 받은 한국의약품안전관리원의 장 또는 한국의료기기안전정보원의 장은 부작용 등과 해당 장은 해당 의료제품에 대한 사용 중지를 결정하면 지체 없이 해당 품목에 대한 허가 취소, 판매 중단 및 회수ㆍ폐기 명령 등 필요한 조치를 하여야 한다.",
+      "en_txt": "(3) Where the results reported under paragraph (2) show that the relevant medical product is deemed likely to cause significant harm to the public, the Minister of Food and Drug Safety shall determine whether the medical product may continue to be used after deliberation by the Commission. In such cases, where deciding to suspend the use of the relevant medical product, the Minister of Food and Drug Safety shall take necessary measures without delay, such as revocation of the permission by item for the medical product, suspension of sale, or recall and disposal orders.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제1항에 따른 부작용 등의 보고 절차 및 방법, 제2항에 따른 보고 절차 및 방법, 제3항에 따른 허가 취소 등 조치 에 관하여 필요한 세부 사항은 총리령으로 정한다.",
+      "en_txt": "(4) Details necessary for the procedures and methods for reporting side effects under paragraph (1), the procedures and methods for reporting under paragraph (2), and the measures including revocation of permission under paragraph (3) shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따라 추적조사 대상으로 지정받은 의료제품에 대하여 임상시험계획 승인이나 품목허가를 받은 자 또는 해당 의료제품의 수입업자(“추적조사 의료제품의 품목허가 받은 자 등”이라 한다. 이하 이 조에서 같다)는 총리령으",
+      "en_txt": "(2) A person who has received approval of a clinical trial plan or permission by item for a medical product designated as a subject of a tracing investigation under paragraph (1) or an importer of such medical product (hereinafter referred to as \"person who has received permission by item for a medical product subject to a tracing investigation, etc.\"; hereafter in this Article, the same shall apply) shall formulate a tracing investigation plan as prescribed by Ordinance of the Prime Minister and report it to the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제1항에 따른 추적조사 대상 의료제품을 취급하는 의사ㆍ치과의사ㆍ약사는 사용 대상자의 동의를 받아 사용 대 는 기관에 등록하여야 한다.",
+      "en_txt": "(4) A medical doctor, dentist, or pharmacist who handles a medical product subject to a tracing investigation under paragraph (1) shall, with the consent of a person to use the product, register the personal information of the person to use it and the details of use with an institution designated by the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 추적조사 의료제품의 품목허가 받은 자 등은 해당 의료제품의 판매ㆍ공급 내역을 식품의약품안전처장이 지정하는 기관에 등록하여야 한다.",
+      "en_txt": "(5) A person who has received permission by item for a medical product subject to a tracing investigation, etc. shall register the details of the sale and supply of the relevant medical product with an institution designated by the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 식품의약품안전처장은 제2항 및 제3항에 따른 추적조사에 드는 비용과 제4항 및 제5항에 따른 등록에 드는 비용의 전부 또는 일부를 예산의 범위에서 지원할 수 있다.",
+      "en_txt": "(6) The Minister of Food and Drug Safety may provide subsidies to cover all or part of the expenses incurred in conducting a tracing investigation under paragraphs (2) and (3) and filing for registration under paragraphs (4) and (5) within the budget.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑦ 식품의약품안전처장은 추적조사 결과 등에 따라 필요한 경우 추적조사 의료제품의 품목허가 받은 자 등에 대하여 임상시험의 중지, 해당 품목의 제조ㆍ수입 또는 판매 중단, 회수ㆍ폐기 명령 등 대통령령으로 정하는 공중보건상 필요한 조치를 취할 수 있다.",
+      "en_txt": "(7) Where necessary based on the results of a tracing investigation, etc., the Minister of Food and Drug Safety may take measures necessary for public health on a person who has received permission by item for a medical product subject to a tracing investigation, etc., as prescribed by Presidential Decree, such as suspending clinical trials, suspending the manufacture, importation, or sale of the relevant medical product, or ordering its recall and disposal.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑧ 제1항에 따른 추적조사 대상 의료제품의 지정, 추적조사의 범위와 절차ㆍ방법, 제3항에 따른 이상사례의 보고 방 법, 제4항에 따른 동의의 절차와 등록 방법, 제5항에 따른 등록 방법 등에 필요한 사항은 대통령령으로 정한다.",
+      "en_txt": "(8) Matters necessary for the designation of medical products subject to tracing investigations under paragraph (1), the scope, procedures, and methods of tracing investigations, the methods of reporting adverse events under paragraph (3), the procedures for consent and methods of registration under paragraph (4), the methods of registration under paragraph (5), etc. shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 제11조에 따라 의료제품의 품목허가를 한 경우에는 다음 각 호의 사항을 평가하여 그 결과를 인터넷 홈페이지 등에 공고할 수 있다.",
+      "en_txt": "(1) Where the Minister of Food and Drug Safety approves a medical product under Article 11, he or she may assess the following and publicly announce the results on the website, etc.:",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 해당 의료제품의 치료 효과 등 환자에게 미친 영향",
+      "en_txt": "1. The impact of the medical product on patients, including its therapeutic effectiveness;",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 해당 의료제품의 안전성ㆍ유효성 등에 대한 종합적인 예방적ㆍ치료적 가치",
+      "en_txt": "2. The overall preventive and therapeutic value of the medical product, regarding its safety and effectiveness.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 의료제품의 가치 평가를 위하여 필요한 경우에는 관계 중앙행정기관 또는 공공기관의 장에게 협조를 요청할 수 있다.",
+      "en_txt": "(2) Where necessary for the value assessment of a medical product under paragraph (1), the Minister of Food and Drug Safety may request cooperation from the head of the relevant central administrative agency or relevant public institution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 제1항에 따른 위기대응 의료제품의 지정 방법 및 절차, 제3항에 따른 공고 및 통보 내용과 방법, 제4항에 따른 지 정 해제 등에 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(3) Details necessary for the period of and the procedures and methods for public announcement under paragraph (1) shall be prescribed by Ordinance of the Prime Minister. CHAPTER IV DESIGNATION, MANAGEMENT, AND SUPPLY MANAGEMENT OF CRISIS RESPONSE MEDICAL PRODUCTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 공중보건 위기상황에 효과적으로 대비하기 위하여「약사법」, 「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」, 「의료기기법」, 「체외진단의료기기법」에 따라 품목허가 또는 인증ㆍ신고된 의료제품에 대하여 위원회의 심의를 거쳐 위기대응 의료제품으로 지정하여 관리 할 수 있다.",
+      "en_txt": "(1) To effectively prepare for a public health crisis, the Minister of Food and Drug Safety may designate and manage medical products for which permission by item has been granted or which have been certified or notified under the Pharmaceutical Affairs Act, the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products, the Medical Devices Act, or the Act on In Vitro Diagnostic Medical Devices, as crisis response medical products, after deliberation by the Commission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에도 불구하고 다음 각 호의 어느 하나에 해당하는 의료제품은 제1항에 따라 위기대응 의료제품으로 지정 된 것으로 본다.",
+      "en_txt": "(2) Notwithstanding paragraph (1), any of the following medical products shall be deemed to be designated as a crisis response medical product under paragraph (1):",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제6조에 따라 예비 위기대응 의료제품으로 지정되어 품목허가를 받은 의료제품",
+      "en_txt": "1. A medical product that has been designated as a preliminary crisis response medical product under Article 6 and for which permission by item has been granted;",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제12조에 따라 긴급사용승인 되거나 긴급사용승인 후 품목허가를 받은 의료제품",
+      "en_txt": "2. A medical product that has been approved for emergency use under Article 12 or for which permission by item has been granted after having been approved for emergency use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제1항에 따라 위기대응 의료제품으로 지정한 경우 또는 제2항에 따라 위기대응 의료제품으로 지정된 것으로 보는 경우 지체 없이 이를 공고하고, 해당 의료제품을 제조ㆍ수입 또는 판매하는 자에게 지정된 사실과 관리계획 등을 통보하여야 한다.",
+      "en_txt": "(3) In cases of designation as a crisis response medical product under paragraph (1) or in cases of being deemed to be designated as a crisis response medical product under paragraph (2), the Minister of Food and Drug Safety shall publicly announce such designation without delay and shall notify a person who manufactures, imports, or sells the medical product of the designation, management plan, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 다음 각 호의 어느 하나에 해당하는 경우에는 위원회의 심의를 거쳐 위기대응 의료제품의 지정을 해제할 수 있다.",
+      "en_txt": "(4) The Minister of Food and Drug Safety may revoke the designation of a crisis response medical product after deliberation by the Commission in any of the following cases:",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 공중보건 위기상황이 종료되었거나 종료가 명백하게 예상되는 경우",
+      "en_txt": "1. Where the public health crisis has ended or is clearly expected to end;",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 해당 의료제품이 수급여건 변화 등으로 공중보건 위기상황을 대비하여 별도 관리가 불필요하다고 인정되는 경우",
+      "en_txt": "2. Where it is deemed unnecessary to separately manage the medical product in case of a public health crisis due to changes in supply and demand conditions, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 공중보건 위기상황에 효과적으로 대응하기 위하여 필요하다고 인정하는 경우 또는 관계 중앙행정기관의 장의 요청이 있는 경우에는 위원회의 심의를 거쳐 다음 각 호의 어느 하나 에 해당하는 자(이하 “생산자등”이라 한다)에게 제17조에 따라 지정된 위기대응 의료제품을 생산하거나 수입하도록 명령(이하 “긴급 생산ㆍ수입명령”이라 한다)을 할 수 있다.",
+      "en_txt": "(1) Where deeming it necessary for responding effectively to a public health crisis, or at the request of the head of the relevant central administrative agency, the Minister of Food and Drug Safety may, after deliberation by the Commission, issue an order to produce or import crisis response medical products designated under Article 17 (hereinafter referred to as \"emergency production or import order\") to any of the following persons (hereinafter referred to as \"producers, etc.\"):",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「약사법」 제31조제1항ㆍ제4항에 따른 의약품등 제조업자 또는 「약사법」 제42조제1항에 따른 의약품등 수입업 자",
+      "en_txt": "1. A manufacturer of drugs, etc. under Article 31 (1) or (4) of the Pharmaceutical Affairs Act or an importer of drugs, etc. under Article 42 (1) of that Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」 제23조제1항에 따른 첨단바이오의약품 제조업 자 또는 「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」 제27조제1항에 따른 첨단바이오의약품 수입업자",
+      "en_txt": "2. A manufacturer of advanced biological products under Article 23 (1) of the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products or an importer of advanced biological products under Article 27 (1) of that Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 「의료기기법」 제6조제1항에 따른 의료기기 제조업자 또는 「의료기기법」 제15조제1항에 따른 의료기기 수입업 자",
+      "en_txt": "3. A manufacturer of medical devices under Article 6 (1) of the Medical Devices Act or an importer of medical devices under Article 15 (1) of that Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 「체외진단의료기기법」 제5조제1항에 따른 체외진단의료기기 제조업자 또는 「체외진단의료기기법」 제11조제 1항에 따른 체외진단의료기기 수입업자",
+      "en_txt": "4. A manufacturer of in vitro diagnostic medical devices under Article 5 (1) of the Act on In Vitro Diagnostic Medical Devices or an importer of in vitro diagnostic medical devices under Article 11 (1) of that Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 명령을 받은 생산자등은 정당한 사유가 없으면 이에 따라야 한다.",
+      "en_txt": "(2) Producers, etc. who receive an order under paragraph (1) shall comply with such order in the absence of good cause.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제1항에 따른 의료제품의 긴급 생산에 사용되는 원자재가 부족하거나 수입물량이 부족하여 국가 간 협의 등이 필요한 경우에는 관계 중앙행정기관의 장에게 관계 법령에 따른 필요한 조치를 요청할 수 있 다. 이 경우 관계 중앙행정기관의 장은 정당한 사유가 없으면 이에 협조하여야 한다.",
+      "en_txt": "(3) Where consultation, etc. among countries is necessary due to the shortage of raw materials used for the emergency production of medical products or the shortage of imported goods referred to in paragraph (1), the Minister of Food and Drug Safety may request the heads of the relevant central administrative agencies to take necessary measures pursuant to the relevant statutes and regulations. In such cases, the heads of the relevant central administrative agencies shall cooperate with such request in the absence of good cause.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 제1항에 따른 명령을 이행하기 위하여 필요하다고 인정되는 경우에는 생산자등에게 재정적ㆍ행정적 지원을 할 수 있다.",
+      "en_txt": "(4) Where deeming it necessary for fulfilling the order under paragraph (1), the Minister of Food and Drug Safety may provide financial and administrative support to producers, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 식품의약품안전처장은 제1항에 따른 명령을 지속해야 할 사유가 없어졌거나 없어질 것으로 명백하게 예상되는 경우에는 지체 없이 이를 해제하여야 한다.",
+      "en_txt": "(5) Where the reason for continuing the order under paragraph (1) has ceased to exist or is clearly expected to cease to exist, the Minister of Food and Drug Safety shall revoke the order without delay.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 제1항부터 제5항까지의 규정에 따른 긴급 생산ㆍ수입명령의 절차와 방법 등에 필요한 세부사항은 대통령령으로 정한다.",
+      "en_txt": "(6) Details necessary for the procedures and methods for the emergency production or import orders under paragraphs (1) through (5) shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 공중보건 위기상황에 따라 지정된 위기대응 의료제품의 공급이 현저하게 지장을 받는다고 판단되거나 관계 중앙행정기관의 장의 요청이 있는 경우에는 위원회의 심의를 거쳐 조치 대상이 되는 의료제품과 그 판매처ㆍ판매 절차ㆍ판매량ㆍ판매조건 등에 대하여 필요한 유통개선조치를 할 수 있다.",
+      "en_txt": "(1) In cases where it is deemed that the supply of crisis response medical products designated due to a public health crisis is significantly disrupted or at the request of the head of the relevant central administrative agency, the Minister of Food and Drug Safety may, after deliberation by the Commission, take distribution improvement measures as necessary on the medical products subject to the measures and on their sales outlets, sales procedures, sales volume, sales conditions, etc.; in such cases, the following persons shall comply therewith in the absence of good cause:",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「약사법」 제20조제2항에 따른 약국개설자",
+      "en_txt": "1. A pharmacy founder under Article 20 (2) of the Pharmaceutical Affairs Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「약사법」 제45조제1항에 따른 의약품 도매상",
+      "en_txt": "2. A drug wholesaler under Article 45 (1) of the Pharmaceutical Affairs Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 「의료기기법」 제17조제1항에 따른 의료기기 판매업자",
+      "en_txt": "3. A distributor of medical devices under Article 17 (1) of the Medical Devices Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 「의료법」 제33조에 따른 의료기관 개설자 여야 한다.",
+      "en_txt": "4. The founder of a medical institution under Article 33 of the Medical Service Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 제1호부터 제4호까지에 준하는 자로서 식품의약품안전처장이 정하는 자",
+      "en_txt": "5. A person equivalent to those under subparagraphs 1 through 4, as determined by the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 조치가 물가안정 정책과 관련되는 경우에는 기획재정부장관과 미리 협의하여야 한다.",
+      "en_txt": "(2) Where the measures under paragraph (1) are related to the price stability policy, the Minister of Food and Drug Safety shall consult with the Minister of Economy and Finance in advance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제1항에 따른 의료제품의 유통개선조치를 위하여 필요한 경우에는 관계 중앙행정기관의 장에게 협조를 요청할 수 있다. 이 경우 관계 중앙행정기관의 장은 특별한 이유가 없으면 이에 응하여야 한다.",
+      "en_txt": "(3) Where necessary for the distribution improvement measures for medical products under paragraph (1), the Minister of Food and Drug Safety may request cooperation from the head of the relevant central administrative agency. In such cases, the head of the relevant central administrative agency shall comply therewith unless there are special reasons.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 제1항에 따른 조치를 지속해야 할 사유가 없어졌거나 없어질 것으로 명백하게 예상되는 경우에는 지체 없이 이를 해제하여야 한다.",
+      "en_txt": "(4) Where the reason for continuing the measures under paragraph (1) has ceased to exist or is clearly expected to cease to exist, the Minister of Food and Drug Safety shall revoke the measure without delay.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 제1항부터 제4항까지에 따른 판매 절차, 판매 조건 등의 기준, 개선조치의 범위 및 조치 해제 등에 필요한 세부 사항은 대통령령으로 정한다.",
+      "en_txt": "(5) Details necessary for the sales procedures, the standards for sales conditions, etc., the scope of improvement measures, the revocation of the measures, etc. under paragraphs (1) through (4) shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 위기대응 의료제품을 공중보건 위기상황에서 긴급하게 공급하기 위하여 필요하다고 인정하는 경우, 다음 각 호의 구분에 따른 위기대응 의료제품에 할 수 있다. <개정 2023. 6. 13.>",
+      "en_txt": "(1) Where deeming it necessary for supplying crisis response medical products urgently in a public health crisis, the Minister of Food and Drug Safety may exempt the following crisis response medical products from the application of all or part of the provisions specified in each relevant subparagraph, as determined by the Minister of Food and Drug Safety: <Amended on Jun. 13, 2023>",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 의약품(제2호의 제품을 제외한다) 또는 의약외품: 「약사법」 제38조(같은 법 제42조제5항에서 준용하는 경우에 한정한다) 및 제56조부터 제60조까지의 규정",
+      "en_txt": "1. Drugs (excluding products under subparagraph 2) or quasi-drugs: Article 38 of the Pharmaceutical Affairs Act (limited to cases applied mutatis mutandis under Article 42 (5) of that Act) and Articles 56 through 60 of that Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 첨단바이오의약품: 「첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률」 제26조(같은 법 제27조제5항 에서 준용하는 경우에 한정한다) 및 제31조의 규정,「약사법」 제57조부터 제60조까지의 규정",
+      "en_txt": "2. Advanced biological products: Article 26 of the Act on the Safety of and Support for Advanced Regenerative Medicine and Advanced Biological Products (limited to cases applied mutatis mutandis under  Article 27 (5) of that Act) and Article 31 of that Act, and Articles 57 through 60 of the Pharmaceutical Affairs Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 의료기기(제4호의 제품을 제외한다): 「의료기기법」 제13조(같은 법 제15조제6항에서 준용하는 경우에 한정한다) 및 제20조부터 제23조까지, 제23조의2 및 제24조",
+      "en_txt": "3. Medical devices (excluding products under subparagraph 4): Article 13 of the Medical Devices Act (limited to cases applied mutatis mutandis under Article 15 (6) of that Act) and Articles 20 through 23, 23-2, and 24 of that Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 체외진단의료기기: 「체외진단의료기기법」 제13조부터 제15조까지의 규정, 「의료기기법」 제13조(같은 법 제15조 제6항에서 준용하는 경우에 한정한다) 및 제23조ㆍ제24조의 규정",
+      "en_txt": "4. In vitro diagnostic medical devices: Articles 13 through 15 of the Act on In Vitro Diagnostic Medical Devices, Article 13 of the Medical Devices Act (limited to cases applied mutatis mutandis under Article 15 (6) of that Act), and Articles 23 and 24 of the Medical Devices Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따라 식품의약품안전처장이 위기대응 의료제품의 표시에 관하여 정한 규정을 적용하지 아니하도록 하는 경우에는 식품의약품안전처장이 정하는 바에 따라 위기대응 의료제품의 제품명, 제조번호, 사용기한 등 주요 정보를 용기 및 포장에 기재하고 그 밖에 필요한 정보를 전자적 방법 등으로 제공하도록 하여야 한다. 이 경우 용기 또는 포장의 기재를 외국어로 표시하게 할 수 있다.",
+      "en_txt": "(2) Where the Minister of Food and Drug Safety decides not to apply the specified provisions on the labeling of crisis response medical products as prescribed in paragraph (1), key information such as the product name, manufacturing number, and the use-by date of the crisis response medical products shall be indicated on the containers and packaging, and other necessary information shall be provided electronically, as determined by the Minister of Food and Drug Safety. In such cases, such indication may be provided in a foreign language on the containers or packaging.",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항에 따라 식품의약품안전처장이 위기대응 의료제품 수입업자의 수입 관리에 관한 규정을 적용하지 아니하도록 하는 경우에는 수입업자로 하여금 식품의약품안전처장이 정하는 바에 따라 해외 제조소 등의 품질검사 결과 등을 확인하게 하는 등 해당 위기대응 의료제품의 품질을 보증하도록 하여야 한다.",
+      "en_txt": "(3) Where the Minister of Food and Drug Safety decides not to apply the provisions on import management for the importer of crisis response medical products as prescribed in paragraph (1), the relevant importer shall be required to ensure the quality of the crisis response medical products by ascertaining the quality inspection results of overseas manufacturing places, etc. as determined by the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 위기대응 의료제품의 품질 및 안전성 확보를 위하여 위기대응 의료제품의 제조ㆍ수입ㆍ판매ㆍ사용 등에 관하여 조사할 수 있다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety may investigate the manufacture, import, sale, use, etc. of crisis response medical products to ensure the quality and safety of such products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 위기대응 의료제품의 원활한 공급 확보를 위하여 위기대응 의료제품의 재고물량 및 수급 관리 등에 관하여 조사할 수 있다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety may investigate the inventory, supply management, etc. of crisis response medical products to ensure a smooth supply of such products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제1항 및 제2항의 조사를 위하여 필요한 경우에는 위기대응 의료제품의 품목허가를 받은 자, 위기대응 의료제품에 대한 임상시험계획의 승인을 받은 자, 위기대응 의료제품의 수입업자 및 판매업자에게 관 련 자료의 제출이나 의견의 진술 등을 요구할 수 있다. 이 경우 자료의 제출이나 의견의 진술 등을 요구받은 자는 정당한 사유가 없으면 이에 따라야 한다.",
+      "en_txt": "(3) Where necessary for investigations under paragraphs (1) and (2), the Minister of Food and Drug Safety may require a person who has received permission by item for a crisis response medical product, a person who has received approval of a clinical trial plan for a crisis response medical product, or an importer or distributor of a crisis response medical product to submit relevant materials, to express opinions, or to conduct any similar acts. In such cases, a person requested to submit materials, to express opinions, or to conduct any similar acts shall comply therewith in the absence of good cause.",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제1항부터 제3항까지에 따른 조사의 범위ㆍ방법 및 절차 등에 필요한 사항은 총리령으로 정한다.",
+      "en_txt": "(4) Matters necessary for the scope of, and methods and procedures for, investigations under paragraphs (1) through (3) shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 이 법에 따라 위기대응 의료제품의 품목허가를 받은 자가 다음 각 호의 어느 하나에 해당하는 경우 해당 위기대응 의료제품의 품목허가를 취소하여야 한다.",
+      "en_txt": "(1) Where any of the following cases is applicable to a person who has received permission by item for a crisis response medical product under this Act, the Minister of Food and Drug Safety shall revoke permission by item for the crisis response medical product:",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 거짓이나 그 밖에 부정한 방법으로 제11조 또는 제12조제6항에 따른 위기대응 의료제품의 품목허가를 받은 경우",
+      "en_txt": "1. Where the person has received permission by item for the crisis response medical product under Article 11 or 12 (6) by fraud or other improper means;",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제13조제2항 또는 제3항에 따른 명령을 위반한 경우",
+      "en_txt": "2. Where the person violates an order under Article 13 (2) or (3);",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제14조제1항을 위반하여 고의로 부작용 등의 보고를 하지 아니한 경우",
+      "en_txt": "3. Where the person intentionally fails to report a side effect, etc. in violation of Article 14 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제15조제3항을 위반하여 고의로 중대한 이상사례를 보고하지 아니한 경우",
+      "en_txt": "4. Where the person intentionally fails to report a serious adverse event in violation of Article 15 (3);",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 제2항에 따른 업무정지 기간 중에 업무를 한 경우",
+      "en_txt": "5. Where the person continues business operations during the business suspension period under paragraph (2).",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 이 법에 따라 위기대응 의료제품의 품목허가를 받은 자, 위기대응 의료제품에 대한 임상시험계획의 승인을 받은 자, 위기대응 의료제품의 수입업자 및 판매업자(의료기기의 경우 「의료기기법」에 따른 수 리업자 및 임대업자를 포함한다)가 다음 각 호의 어느 하나에 해당하면 해당 위기대응 의료제품의 품목허가를 취소 하거나 1년의 범위에서 그 제조ㆍ수입ㆍ판매 업무의 정지를 명할 수 있다.",
+      "en_txt": "(2) Where any of the following cases is applicable to a person who has received permission by item for a crisis response medical product under this Act, a person who has received approval of a clinical trial plan for a crisis response medical product, or an importer or distributor of a crisis response medical product (including repairers and lessors under the Medical Devices Act in cases of medical devices), the Minister of Food and Drug Safety may revoke the permission by item for the crisis response medical product or order the business suspension of manufacturing, importing, and selling such medical product for a period of up to one year:",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제14조제1항을 위반하여 부작용 등의 보고를 하지 아니한 경우",
+      "en_txt": "1. Where the person fails to report a side effect, etc. in violation of Article 14 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제15조제3항을 위반하여 중대한 이상사례를 보고하지 아니한 경우",
+      "en_txt": "2. Where the person fails to report a serious adverse event in violation of Article 15 (3);",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제21조제3항을 위반하여 정당한 사유 없이 관련 자료의 제출이나 의견의 진술을 거부한 경우",
+      "en_txt": "3. Where the person refuses to submit relevant materials or to express opinions without good cause in violation of Article 21 (3);",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 이 법에 따른 의료제품의 판매 중단 및 회수ㆍ폐기 등의 조치 명령을 따르지 않은 경우",
+      "en_txt": "4. Where the person fails to comply with an order to take measures under this Act, such as suspension of sale of the relevant medical product or its recall and disposal.",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항 및 제2항에 따른 품목허가 등의 취소 및 제조ㆍ수입ㆍ판매 업무의 정지 등에 관한 세부 기준은 그 위반행 위의 종류와 위반의 정도 등을 고려하여 총리령으로 정한다.",
+      "en_txt": "(3) Detailed standards for the revocation of permission by item, etc., the business suspension, etc. of manufacture, importation, and sale under paragraphs (1) and (2) shall be prescribed by Ordinance of the Prime Minister, taking into consideration the type, severity, etc. of the relevant violation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 제22조에 따라 업무정지를 명하여야 하는 경우로서 위기대응 의료제품을 이용하는 자에게 심한 불편을 주거나 공익을 해칠 우려가 있는 경우에는 대통령령으로 정하는 바에 따라 업무정 지처분을 갈음하여 10억원 이하의 과징금을 부과할 수 있다.",
+      "en_txt": "(1) Where the suspension of business operations is to be ordered under Article 22, but there is a risk of severe inconvenience to persons using the crisis response medical products or harm to the public interest, the Minister of Food and Drug Safety may impose a penalty surcharge not exceeding one billion won in lieu of such suspension as prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 과징금의 부과 및 징수 절차 등에 관하여는 해당 의료제품에 따라 각각 「약사법」 제81조 또는 「의 료기기법」 제38조를 준용한다.",
+      "en_txt": "(2) Article 81 of the Pharmaceutical Affairs Act or Article 38 of the Medical Devices Act shall apply mutatis mutandis to the imposition of penalty surcharges under paragraph (1) and the procedures for collection thereof, depending on the medical product in question. CHAPTER VI SUPPLEMENTARY PROVISIONS",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 국가는 위기대응 의료제품의 개발 및 국산화 등을 촉진하기 위하여 위기대응 의료제품 을 연구ㆍ개발하는 자의 비임상시험 또는 임상시험의 실시를 지원하거나, 필요한 연구 자료를 제공하는 등 위기대응 의료제품의 연구ㆍ개발에 대한 지원을 할 수 있다. <개정 2024. 2. 6.>",
+      "en_txt": "(1) The State may provide support for the research and development of crisis response medical products, such as assisting persons researching and developing crisis response medical products in conducting non-clinical or clinical trials or providing necessary research materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 연구ㆍ개발 지원의 절차 및 방법과 그 밖에 필요한 사항은 총리령으로 정한다.",
+      "en_txt": "(2) The procedures and methods for research and development support under paragraph (1) and other necessary matters shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 위기대응 의료제품의 개발을 촉진하기 위하여 국제기구 등과 협력하여 위기대응 의료제품을 개발하려는 자에게 국내외 관련 정보를 제공하거나 관련 기술ㆍ인력의 국제 교류 및 국제 공동연구ㆍ개발을 실시하는 등 필요한 지원을 할 수 있다.",
+      "en_txt": "(1) In order to promote the development of crisis response medical products, the Minister of Food and Drug Safety may cooperate with international organizations to provide necessary support to a person who intends to develop crisis response medical products, such as providing domestic and foreign relevant information, conducting international exchange of relevant technologies and personnel, or conducting international joint research and development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항의 지원을 위하여 필요한 경우에는 관계 중앙행정기관의 장 또는 공공기관의 장에게 협조를 요청할 수 있다.",
+      "en_txt": "(2) Where necessary for providing support under paragraph (1), the Minister of Food and Drug Safety may request cooperation from the head of the relevant central administrative agency or relevant public institution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 위기대응 의료제품의 품목허가를 받은 자는 해당 의료제품을 필요로 하는 자에게 무상으로 제공할 수 있다.",
+      "en_txt": "(1) A person who has received permission by item for a crisis response medical product may provide it free of charge to a person who needs it.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 의료제품을 무상 제공하려는 자는 해당 무상 제공 계획 등을 첨부하여 총리령으로 정하는 바에 따라 식품의약품안전처장의 승인을 받아야 한다.",
+      "en_txt": "(2) A person who intends to provide free medical products under paragraph (1) shall obtain approval of the Minister of Food and Drug Safety with a free provision plan, etc. attached, as prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제2항에 따른 승인을 한 경우 「약사법」 제91조제1항에 따른 한국희귀ㆍ필수의약품센터 또는 한국의료기기안전정보원에 공급 등과 관련된 사항에 대한 협조를 요청할 수 있다. 이 경우 해당 기관은 특별한 사정이 없으면 이에 응하여야 한다.",
+      "en_txt": "(3) Where having granted approval under paragraph (2), the Minister of Food and Drug Safety may request cooperation on supply-related matters from the Korea Center for Rare and Essential Drugs under Article 91 (1) of the Pharmaceutical Affairs Act or the Korea Medical Device Safety Information Center. In such cases, the relevant institution shall comply therewith except in exceptional circumstances.",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제1항에 따른 의료제품의 무상 제공을 완료한 자는 해당 무상 제공 결과 등 총리령으로 정하는 사항을 식품의약 품안전처장에게 보고하여야 한다.",
+      "en_txt": "(4) A person who has completed the free provision of medical products under paragraph (1) shall report the results of such free provision and other matters prescribed by Ordinance of the Prime Minister to the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 제3항에 따른 협조 요청, 제4항에 따른 보고의 절차 등에 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(5) Details necessary for the request for cooperation under paragraph (3), the procedures for reporting under paragraph (4), etc. shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 제6조에 따라 예비 위기대응 의료제품을 지정받은 자는 그 지정받은 지위를 양도할 수 있다. 이 경우 양도하려는 자는 양수받을 자에 관한 사항 등 총리령으로 정하는 자료를 갖추어 식 품의약품안전처장에게 신청하여야 한다.",
+      "en_txt": "(1) A person who has obtained the designation of a preliminary crisis response medical product under Article 6 may transfer the status of designation. In such cases, the person who intends to transfer such designation shall prepare materials prescribed by Ordinance of the Prime Minister, such as information on another person to acquire the designation, and shall file an application with the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 신청을 받은 식품의약품안전처장은 양수받을 자의 의료제품 개발 능력이 충분히 있다고 판단되는 경우 위원회의 심의를 거쳐 그 양도를 승인할 수 있다.",
+      "en_txt": "(2) Upon receiving an application under paragraph (1), the Minister of Food and Drug Safety may approve the transfer after deliberation by the Commission, if he or she determines that the transferee has sufficient capacity to develop medical products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항 및 제2항에 따른 양도ㆍ양수의 절차와 방법 등에 관하여 필요한 세부사항은 총리령으로 정한다.",
+      "en_txt": "(3) Details necessary for the procedures and methods for transfer and acquisition under paragraphs (1) and (2) shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제8조제2항에 따른 수시동반심사의 승인 또는 변경승인을 받으려는 자",
+      "en_txt": "1. A person who intends to obtain approval for an on-call concomitant review or approval for change under Article 8 (2);",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제11조 또는 제12조제6항에 따른 의료제품의 품목허가를 받으려는 자",
+      "en_txt": "2. A person who intends to obtain permission by item for a medical product under Article 11 or 12 (6).",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따라 유효기간의 연장을 요청할 수 있는 위기대응 의료제품의 종류ㆍ대상, 유효기간 연장 요청 절차, 저 장 조건ㆍ방법, 기준 등에 관하여 필요한 사항은 총리령으로 정한다.",
+      "en_txt": "(2) Matters necessary for the types and targets of crisis response medical products whose effective period can be requested to be extended under paragraph (1), the procedures for requesting the extension of the effective period, and the storage conditions, methods, standards, etc. shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 제19조에 따른 유통개선조치를 효율적으로 추진하고 위기대응 의료제품의 공급 등을 관리하기 위하여 정보시스템을 구축하여 운영할 수 있다.",
+      "en_txt": "(1) In order to efficiently promote distribution improvement measures under Article 19 and to manage the supply of crisis response medical products, the Minister of Food and Drug Safety may establish and operate an information system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 제1항에 따른 정보시스템 구축ㆍ운영의 효율적 추진을 위하여 관계 중앙행정기관의 장, 위기대응 의료제품의 제조업자ㆍ수입업자ㆍ판매자 등에게 생산량, 출고량, 판매량, 판매이력 등 유통관리에 필요한 정보의 제출을 요청할 수 있다. 이 경우 요청을 받은 자는 정당한 사유가 없으면 이에 따라야 한다.",
+      "en_txt": "(2) In order to efficiently promote the establishment and operation of the information system under paragraph (1), the Minister of Food and Drug Safety may request the heads of relevant central administrative agencies and manufacturers, importers, distributors, etc. of crisis response medical products to submit information necessary for distribution management, such as production, shipment, and sales volumes and sales history. In such cases, a person receiving such request shall comply therewith in the absence of good cause.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제1항에 따른 정보시스템을 다음 각 호의 정보시스템과 전자적으로 연계하여 활용할 수 있다. 이 경우 연계를 통하여 수집할 수 있는 정보는 위기대응 의료제품의 생산량, 출고량, 판매량, 판매이력 등 유통 관리에 필요한 정보에 한정한다.",
+      "en_txt": "(3) The Minister of Food and Drug Safety may utilize the information system under paragraph (1) by electronically linking it with the following information systems; in such cases, the information that can be collected through the linkage shall be limited to information necessary for distribution management, such as production, shipment, and sales volumes and sales history of crisis response medical products:",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「약사법」 제23조의3에 따른 의약품안전사용정보시스템",
+      "en_txt": "1. The information system for safe use of drugs under Article 23-3 of the Pharmaceutical Affairs Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「약사법」 제83조의5에 따른 의약품통합정보시스템",
+      "en_txt": "2. The integrated drug information system under Article 83-5 of the Pharmaceutical Affairs Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 「의료기기법」 제31조의3에 따른 의료기기통합정보시스템",
+      "en_txt": "3. The integrated medical device information system under Article 31-3 of the Medical Devices Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 대통령령으로 정하는 정보시스템 할 수 있다.",
+      "en_txt": "4. Any other information system prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 제1항에 따른 정보시스템의 유지ㆍ관리에 필요한 업무를 한국의약품안전관리원에 위탁할 수 있다. 이 경우 식품의약품안전처장은 그 정보시스템의 유지ㆍ관리에 소요되는 비용의 전부 또는 일부를 지원할 수 있다. <신설 2023. 3. 28.>",
+      "en_txt": "(4) The Minister of Food and Drug Safety may entrust business affairs necessary for the maintenance and management of information systems under paragraph (1) to the Korea Institute of Drug Safety and Risk Management. In such cases, the Minister of Food and Drug Safety may provide subsidies to cover all or part of the expenses incurred in maintaining and managing the information systems. <Newly Inserted on Mar. 28, 2023>",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 제1항, 제2항 및 제4항에 따른 정보시스템의 구축ㆍ운영, 필요한 정보의 제공 요청, 위탁 등에 필요한 사항은 대 통령령으로 정한다.<개정 2023. 3. 28.>",
+      "en_txt": "(5) Matters necessary for the establishment and operation of an information system under paragraphs (1), (2), and (4), a request for provision of necessary information, entrustment, etc. shall be prescribed by Presidential Decree. <Amended on March 28, 2023>",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 공중보건 위기상황에서 위기대응 의료제품과 함께 사용되는 물품에 관하여 특별히 그 사용에 대한 조치가 필요하다고 인정하는 경우에는 해당 물품을 소관하는 중앙 행정기관의 장과 협의한 후 위원회의 심의를 거쳐 해당 물품에 대하여 제18조, 제19조 및 제30조에 따른 필요한 조 치를 할 수 있다.",
+      "en_txt": "(1) Where deeming that special measures need to be taken on goods used in conjunction with crisis response medical products in a public health crisis, the Minister of Food and Drug Safety may take necessary measures under Articles 18, 19, and 30 on the goods after consultation with the head of the central administrative agency in charge of the goods and subsequent deliberation by the Commission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 중앙행정기관의 장과의 협의 등에 필요한 사항은 대통령령으로 정한다.",
+      "en_txt": "(2) Matters necessary for the consultation with the head of the central administrative agency under paragraph (1) shall be prescribed by Presidential Decree. CHAPTER VII PENALTY PROVISIONS",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 거짓이나 그 밖의 부정한 방법으로 제11조 또는 제12조제6항에 따른 의료제품의 품목허가를 받은 자 는 7년 이하의 징역 또는 7천만원 이하의 벌금에 처한다.",
+      "en_txt": "(1) A person who obtains permission by item for a medical product under  Article 11 or 12 (6) by fraud or other improper means shall be punished by imprisonment with labor for up to seven years or by a fine not exceeding 70 million won.",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항의 징역과 벌금은 병과할 수 있다.",
+      "en_txt": "(2) Imprisonment with labor and fines prescribed in paragraph (1) may be imposed concurrently.",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 다음 각 호의 어느 하나에 해당하는 자는 2년 이하의 징역 또는 5천만원 이하의 벌금에 처한다.",
+      "en_txt": "(1) Any of the following persons shall be punished by imprisonment with labor for up to two years or by a fine not exceeding 50 million won:",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제18조제1항에 따른 긴급 생산ㆍ수입명령을 받고 정당한 사유 없이 따르지 아니한 자",
+      "en_txt": "1. A person who receives an emergency production or import order under Article 18 (1) and fails to comply therewith without good cause;",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제19조제1항에 따른 유통개선조치를 정당한 사유 없이 따르지 아니한 자",
+      "en_txt": "2. A person who fails to comply with the distribution improvement measures under Article 19 (1) without good cause.",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 제12조의2제3항에 따라 준용되는 「약사법」 제86조의5제2항제1호를 위반하여 거짓 또는 그 밖의 부정한 방법으로 보상금을 받은 자는 1년 이하의 징역 또는 1천만원 이하의 벌금에 처한다.",
+      "en_txt": "(1) A person who receives compensation by fraud or other improper means in violation of Article 86-5 (2) 1 of the Pharmaceutical Affairs Act, which is applied mutatis mutandis pursuant to Article 12-2 (3), shall be punished by imprisonment for not more than one year or by a fine not exceeding 10 million won.",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다음 각 호의 어느 하나에 해당하는 자는 200만원 이하의 벌금에 처한다. <개정 2023. 3. 28.>",
+      "en_txt": "Any of the following persons shall be punished by a fine not exceeding two million won: <Amended on March 28, 2023>",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제12조의2제3항에 따라 준용되는 「약사법」 제86조의6제3항에 따른 조사ㆍ열람 또는 복사를 정당한 이유 없이 거부ㆍ방해 또는 기피한 자",
+      "en_txt": "1. A person who refuses, interferes with, or evades an investigation, peruse, or duplication under Article 86-6(3) of the Pharmaceutical Affairs Act, which is applied mutatis mutandis under article 12-2 (3) without good cause;",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제21조제3항에 따른 자료 제출 요구 또는 의견 진술 요구를 거부하거나 기피한 자",
+      "en_txt": "2. A person who refuses or evades a request to submit data or to state an opinion under Article 21 (3).",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "법인의 대표자나 법인 또는 개인의 대리인, 사용인, 그 밖의 종업원이 그 법인 또는 개인의 업무에 관 하여 제32조부터 제34조까지의 위반행위를 하면 그 행위자를 벌하는 외에 그 법인 또는 개인에게도 해당 조문의 벌 금형을 과(科)한다. 다만, 법인 또는 개인이 그 위반행위를 방지하기 위하여 해당 업무에 관하여 정당한 주의와 감독 을 게을리하지 아니한 경우에는 그러하지 아니하다.",
+      "en_txt": "If the representative of a corporation or an agent or employee of, or any other person employed by, the corporation or an individual commits any violations described in Articles 32 through 34 in conducting the business affairs of the corporation or individual, the corporation or individual shall be punished by a fine prescribed in the relevant Article in addition to punishing the violators accordingly: Provided, That the foregoing shall not apply if the corporation or individual has not neglected to exercise due care and supervision over the relevant business affairs to prevent the violations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 다음 각 호의 어느 하나에 해당하는 자에게는 1천만원 이하의 과태료를 부과한다.",
+      "en_txt": "(1) Any of the following persons shall be subject to an administrative fine not exceeding 10 million won:",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제13조제1항을 위반하여 안전사용 조치 및 사용 성적에 관한 조사 결과를 식품의약품안전처장에게 보고하지 아니한 자",
+      "en_txt": "1. A person who fails to report the results of the investigation on the safe use measures and usage performance to the Minister of Food and Drug Safety in violation of Article 13 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제14조제1항을 위반하여 위기대응 의료제품으로 인하여 발생하였다고 의심되는 유해사례를 한국의약품안전관 리원의 장 또는 한국의료기기안전정보원의 장에게 보고하지 아니한 자",
+      "en_txt": "2. A person who fails to report a harmful case suspected to be caused by a crisis response medical product to the president of the Korea Institute of Drug Safety and Risk Management or the president of the National Institute of Medical Device Safety Information in violation of Article 14 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제15조제4항 및 제5항을 위반하여 위기대응 의료제품 사용 또는 판매ㆍ공급내역을 등록하지 아니한 자",
+      "en_txt": "3. A person who fails to register the details of the use or the sale and supply of crisis response medical products in violation of Article 15 (4) or (5);",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제30조제2항을 위반하여 정당한 사유 없이 유통관리에 필요한 정보를 제출하지 아니한 자",
+      "en_txt": "4. A person who fails to submit information necessary for distribution management without good cause in violation of Article 30 (2).",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 다음 각 호의 어느 하나에 해당하는 자에게는 100만원 이하의 과태료를 부과한다.<신설 2023. 3. 28.>",
+      "en_txt": "(2) Any of the following persons shall be subject to an administrative fine not exceeding one million won: <Newly Inserted on Mar. 28, 2023>",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제12조의2제3항에 따라 준용되는 「약사법」 제86조의6제1항에 따른 출석요구를 받고 정당한 사유 없이 출석하 지 아니한 자(참고인은 제외한다)",
+      "en_txt": "1. A person (excluding a witness) who fails to appear in response to summons under Article 86-6 (1) of the Pharmaceutical Affairs Act, which is applied mutatis mutandis pursuant to Article 12-2 (3), without good cause;",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제12조의2제3항에 따라 준용되는 「약사법」 제86조의6제1항에 따른 자료 및 물건 등의 제출요구를 받고 정당한 사유 없이 제출하지 아니한 자(참고인은 제외한다)",
+      "en_txt": "2. A person (excluding a witness) who fails to submit data, articles, etc. under Article 86-6 (1) of the Pharmaceutical Affairs Act, which is applied mutatis mutandis pursuant to Article 12-2 (3), without good cause;",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제12조의2제3항에 따라 준용되는 「약사법」 제86조의6제2항에 따른 소명요구를 받고 정당한 사유 없이 따르지 아니한 자",
+      "en_txt": "3. A person who fails to comply with a request for clarification under Article 86-6 (2) of the Pharmaceutical Affairs Act, which is applied mutatis mutandis pursuant to Article 12-2 (3), without good cause.",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항 및 제2항에 따른 과태료는 대통령령으로 정하는 바에 따라 식품의약품안전처장이 부과ㆍ징수한다.<개정 2023. 3. 28.>",
+      "en_txt": "(3) Administrative fines prescribed in paragraphs (1) and (2) shall be imposed and collected by the Minister of Food and Drug Safety, as prescribed by Presidential Decree. <Amended on March 28, 2023>",
+      "align_score": null
+    }
+  ]
+}

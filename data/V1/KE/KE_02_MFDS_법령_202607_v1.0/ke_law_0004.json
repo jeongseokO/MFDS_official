@@ -1,0 +1,1054 @@
+{
+  "document_id": "ke_law_0004",
+  "meta": {
+    "set": "KE",
+    "source_folder": "2",
+    "source_code": "law",
+    "source_name": "법령",
+    "orig_doc_id": "LABORATORY ANIMAL ACT2",
+    "category_l1": "규제·지침",
+    "category_l2": "법령·고시",
+    "category_l3": "법령",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법은 실험동물 및 동물실험의 적절한 관리를 통하여 동물실험에 대한 윤리성 및 신뢰성을 높여 생명과 학 발전과 국민보건 향상에 이바지함을 목적으로 한다.",
+      "en_txt": "The purpose of this Act is to contribute to the development of life sciences and improvement in national health by enhancing the ethical standards in and reliability of animal testing through appropriate administration of laboratory animals and animal testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법에서 사용하는 용어의 정의는 다음과 같다.",
+      "en_txt": "The terms used in this Act are defined as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. “동물실험”이란 교육ㆍ시험ㆍ연구 및 생물학적 제제(製劑)의 생산 등 과학적 목적을 위하여 실험동물을 대상으로 실시하는 실험 또는 그 과학적 절차를 말한다.",
+      "en_txt": "1. The term \"animal testing\" means testing conducted for laboratory animals or the scientific procedure for scientific purposes, such as education, testing, research and production of biological medicines or such;",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. “실험동물”이란 동물실험을 목적으로 사용 또는 사육되는 척추동물을 말한다.",
+      "en_txt": "2. The term \"laboratory animal\" means vertebrate used or raised for the purpose of animal testing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. “재해”란 동물실험으로 인한 사람과 동물의 감염, 전염병 발생, 유해물질 노출 및 환경오염 등을 말한다.",
+      "en_txt": "3. The term \"disaster\" means infection in humans and animals, occurrence of an infectious disease, exposure to harmful substances and environmental pollution or such, due to animal testing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. “동물실험시설”이란 동물실험 또는 이를 위하여 실험동물을 사육하는 시설로서 대통령령으로 정하는 것을 말한 다.",
+      "en_txt": "4. The term \"animal testing facilities\" means facilities prescribed by Presidential Decree, as facilities for conducting animal testing or raising laboratory animals therefor;",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. “실험동물생산시설”이란 실험동물을 생산 및 사육하는 시설을 말한다.",
+      "en_txt": "5. The term \"laboratory animal production facilities\" means facilities producing and raising laboratory animals;",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. “운영자”란 동물실험시설 혹은 실험동물생산시설을 운영하는 자를 말한다.",
+      "en_txt": "6. The term \"operator\" means a person who operates animal testing facilities or laboratory animal production facilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법은 다음 각 호의 어느 하나에 필요한 실험에 사용되는 동물과 그 동물실험시설의 관리 등에 적 용한다.",
+      "en_txt": "This Act shall apply to administration of animals used in testing required for any of the following subparagraphs and of animal testing facilities thereof or such:",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 식품ㆍ건강기능식품ㆍ의약품ㆍ의약외품ㆍ생물의약품ㆍ의료기기ㆍ화장품의 개발ㆍ안전관리ㆍ품질관리",
+      "en_txt": "1.  Development,  safety  control  and  quality  control  of  foods,  functional  health  foods,  medical  and pharmaceutical products, non-medical and pharmaceutical products, biomedicines, medical appliances, and cosmetics;",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 마약의 안전관리ㆍ품질관리 제4조(다른 법률과의 관계) 실험동물의 사용 또는 관리에 관하여 이 법에서 규정한 것을 제외하고는 「동물보호법」으로 정하는 바에 따른다.",
+      "en_txt": "The Animal Protection Act shall apply to the use or administration of laboratory animals, except as prescribed by this Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 실험동물의 사용 및 관리에 관한 정책의 수립 및 추진",
+      "en_txt": "1. Formulation and promotion of policies concerning the use and administration of laboratory animals;",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 동물실험시설의 설치ㆍ운영에 관한 지원",
+      "en_txt": "2. Support for the establishment and operation of animal testing facilities;",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 동물실험시설 내에서 실험동물의 유지ㆍ보존 및 개발에 관한 지원 3의2. 실험동물자원은행(실험동물 종의 보존과 실험적 개입을 받은 실험동물 유래 자원의 관리를 위한 시설을 말한 다)의 설치ㆍ운영",
+      "en_txt": "3. Support for the maintenance, conservation and development of laboratory animals in animal testing facilities; 3-2. Establishment and operation of laboratory animal resources banks (referring to facilities for the preservation of laboratory animal species and the management of resources originated from experimentally induced laboratory animals);",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 실험동물의 품질향상 등을 위한 연구 지원",
+      "en_txt": "4. Research support for the improvement in quality of laboratory animals;",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 실험동물 관련 정보의 수집ㆍ관리 및 교육에 대한 지원",
+      "en_txt": "5. Support for the collection and management of information, and education in connection with laboratory animals;",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 동물실험을 대체할 수 있는 방법의 개발ㆍ인정에 관한 정책의 수립 및 추진",
+      "en_txt": "6. Formulation and promotion of policies concerning the development and approval of methods which can substitute animal testing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 그 밖에 실험동물의 사용과 관리에 필요한 사항",
+      "en_txt": "7. Other matters concerning the use and administration of laboratory animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항을 수행하기 위하여 필요한 사항은 총리령으로 정한다.<개정 2010. 1. 18., 2013. 3. 23.> [제목개정 2013. 3. 23.] 제2장 실험동물의 과학적 사용 제6조(동물실험시설 운영자의 책무) 동물실험시설의 운영자는 동물실험의 안전성 및 신뢰성 등을 확보하기 위하여 다음 각 호의 사항을 수행하여야 한다.",
+      "en_txt": "(2) Matters necessary for carrying out paragraph (1) shall be prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "18., 2013. 3. 23., 2024. 1. 2.> 제13조(실험동물공급자의 준수사항) 실험동물공급자는 실험동물의 안전성 및 건강을 확보하기 위하여 다음 각 호의 사 항을 준수하여야 한다. <개정 2010. 1. 18., 2013. 3. 23., 2024. 1. 2.>",
+      "en_txt": "An operator of animal testing facilities shall carry out matters referred to in the following subparagraphs in order to ensure the safety and reliability of animal testing:",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 실험동물의 과학적 사용 및 관리에 관한 지침 수립",
+      "en_txt": "1. Formulation of guidelines on the scientific use and administration of laboratory animals;",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 동물실험을 수행하는 자 및 종사자에 대한 교육",
+      "en_txt": "2. Education of those who carry out and engage in animal testing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 동물실험을 대체할 수 있는 방법의 우선적 고려",
+      "en_txt": "3. Preferential consideration of methods which can substitute animal testing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 동물실험의 폐기물 등의 적절한 처리 및 작업자의 안전에 관한 계획 수립",
+      "en_txt": "4. Formulation of plans concerning the appropriate disposal of animal waste left over after testing and the safety of workers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 실험동물운영위원회는 위원장 1명을 포함하여 4명 이상 15명 이내의 위원으로 구성한다.<개정 2016. 2. 3.>",
+      "en_txt": "(2) Each laboratory animal management committee shall be comprised of not less than four nor more than 15 members including one chairperson. <Amended on Feb. 3, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 위원은 다음 각 호의 어느 하나에 해당하는 사람 중에서 동물실험시설의 운영자가 위촉하고, 위원장은 위원 중에 서 호선(互選)한다.<신설 2016. 2. 3., 2024. 1. 2.>",
+      "en_txt": "(3) Members of each committee shall be commissioned by the manager of the laboratory animal facility among the following persons, and the chairperson of the committee shall be elected among such members: <Newly Inserted on Feb. 3, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「수의사법」에 따른 수의사",
+      "en_txt": "1. A veterinarian under the Veterinarians Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 동물실험 분야에서 박사 학위를 취득한 사람으로서 동물실험의 관리 또는 동물실험 업무 경력(박사 학위 취득 전 의 경력을 포함한다)이 있는 사람",
+      "en_txt": "2. A person who has a doctor's degree in the area of animal testing and has experience in managing animal testing or animal testing affairs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 동물보호에 관한 학식과 경험이 풍부한 사람 중에서 「민법」에 따른 법인 또는 「비영리민간단체 지원법」에 따른 비영리민간단체가 추천하는 사람으로서 대통령령으로 정하는 자격요건에 해당하는 사람",
+      "en_txt": "3. A person recommended by a corporation prescribed by the Civil Act or by a non-profit, non-governmental organization prescribed by the Assistance for Non-Profit, Non-Governmental Organizations Act among persons who have an abundant knowledge and experience in protecting animals, and has qualifications prescribed by Presidential Decree;",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 동물실험에 관한 학식과 경험이 풍부한 사람으로서 총리령으로 정하는 사람",
+      "en_txt": "4. A person who has abundant knowledge and experience in animal testing and who is prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 다음 각 호의 사항은 실험동물운영위원회의 심의를 거쳐야 한다.<신설 2017. 12. 19.>",
+      "en_txt": "(4) The following matters shall undergo deliberation by a laboratory animal management committee: <Newly Inserted on Dec. 19, 2017>",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 동물실험의 계획 및 실행에 관한 사항",
+      "en_txt": "1. Matters relating to the planning and execution of animal testing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 동물실험시설의 운영과 그에 관한 평가",
+      "en_txt": "2. Operation of animal testing facilities and evaluation thereof;",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 유해물질을 이용한 동물실험의 적정성에 관한 사항",
+      "en_txt": "3. Matters relating to the appropriateness of animal testing using harmful substances;",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 실험동물의 사육 및 관리에 관한 사항",
+      "en_txt": "4. Matters relating to raising and managing laboratory animals;",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 그 밖에 동물실험의 윤리성, 안전성 및 신뢰성 등을 확보하기 위하여 위원회의 위원장이 필요하다고 인정하는 사 항",
+      "en_txt": "5. Other matters deemed necessary by the chairperson of the laboratory animal management committee to ensure the ethics, safety and reliability of animal testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 제1항의 실험동물운영위원회의 운영 등에 관하여 필요한 사항은 대통령령으로 정한다.<신설 2016. 2. 3., 2017.",
+      "en_txt": "(5) Matters necessary for operating laboratory animal management committees referred to in paragraph (1) and others shall be prescribed by Presidential Decree. <Newly Inserted on Feb. 3, 2016; Dec. 19, 2017> CHAPTER III ANIMAL TESTING FACILITIES",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항에 따른 등록기준 및 절차 등에 관하여 필요한 사항은 총리령으로 정한다.<개정 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(3) Matters necessary for standards and procedures for registration referred to in paragraph (1) shall be prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 동물실험시설에서 대통령령으로 정하는 실험동물을 사용하는 경우에는 다음 각 호의 자 가 아닌 자로부터 실험동물을 공급받아서는 아니 된다. <개정 2017. 12. 19.>",
+      "en_txt": "(1) Where animal testing facilities use laboratory animals prescribed by Presidential Decree, they shall not come from sources other than the following: <Amended on Dec. 19, 2017>",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 다른 동물실험시설",
+      "en_txt": "1. Other animal testing facilities;",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제15조제1항에 따른 우수실험동물생산시설",
+      "en_txt": "2. Excellent laboratory animal production facilities prescribed in Article 15 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제12조에 따라 등록된 실험동물공급자",
+      "en_txt": "3. Suppliers of laboratory animals registered under Article 12.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 외국으로부터 수입된 실험동물을 사용하고자 하는 경우에는 총리령으로 정하는 기준에 적합한 실험동물을 사용 하여야 한다.<개정 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(2) Where a person intends to use laboratory animals imported from abroad, he or she shall use laboratory animals meeting the standards prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 실험동물의 적절한 사용 및 관리를 위하여 적절한 인력 및시설을 갖추고 운영상태가 우수한 동물실험시설을 우수동물실험시설로 지정할 수 있다. 이 경우 지정기준, 지정사항 변경 등에 관한 사항은 총리령으로 정한다. <개정 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(1) The Minister of Food and Drug Safety may, for the appropriate use and administration of laboratory animals, designate animal testing facilities which have appropriate human resources and facilities, and the operating condition of which is excellent as excellent animal testing facilities. In such cases, matters concerning the standard for designation, change of matters designated or such, shall be prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 우수동물실험시설로 지정받고자 하는 자는 총리령으로 정하는 바에 따라 지정신청을 하여야 한다. <개정 2010. 1. 18., 2013. 3. 23.> 된 우수동물실험시설에서 그 업무를 수행하도록 권고할 수 있다.<개정 2013. 3. 23.>",
+      "en_txt": "(2) Any facility who intends to be designated as an excellent animal testing facility pursuant to paragraph (1) shall apply for designation as prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 제12조에 따라 실험동물공급자로 등록하거나 제15조에 따라 우수 실험동물생산시설로 지정받은 자는 식품의약품안전처장의 지도ㆍ감독을 받아야 한다. <개정 2013. 3. 23.>",
+      "en_txt": "(1) Any facility who has registered as animal testing facilities pursuant to Article 8 or has been designated as excellent animal testing facilities pursuant to Article 10 shall be guided and supervised by the Minister of Food and Drug Safety. <Amended on Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 대통령령으로 정하는 실험동물의 생산ㆍ수입 또는 판매를 업으로 하고자 하는 자 8조의 동물실험시설에서 유지 또는 연구 과정 중 생산된 실험동물을 공급하는 경우에는 그러하지 아니하다. <개정",
+      "en_txt": "(1) Any person who intends to engage in business of producing, importing or selling laboratory animals prescribed by Presidential Decree (hereinafter referred to as \"supplier of laboratory animals\") shall register with the Minister of Food and Drug Safety, as prescribed by Ordinance of the Prime Minister: Provided, That this shall not apply to cases where he or she supplies laboratory animals produced in the process of maintenance or research in animal testing facilities referred to in Article 8. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 등록사항을 변경하고자 할 때에는 총리령으로 정하는 바에 따라 변경등록을 하여야 한다. 다만, 총",
+      "en_txt": "(2) When a person intends to change any matters registered pursuant to paragraph (1), he or she shall register such change, as prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 실험동물생산시설과 실험동물을 보건위생상 위해(危害)가 없고 안전성이 확보되도록 관리할 것",
+      "en_txt": "1. he or she shall maintain laboratory animal production facilities and laboratory animals so that no harm is caused to health and hygiene and the safety is ensured;",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 실험동물을 운반하는 경우 그 실험동물의 생태에 적합한 방법으로 운송할 것 것",
+      "en_txt": "2. When he or she transports laboratory animals, he or she shall do so by a method suitable to the ecology of such laboratory animals;",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 제1호 및 제2호에 준하는 사항으로서 실험동물의 안전성 확보 및 건강관리를 위하여 필요하다고 인정하 여 총리령으로 정하는 사항 제14조(실험동물 수입에 관한 사항) 실험동물의 수입과 검역에 관하여는 「가축전염병예방법」 제32조, 제34조, 제35조 및 제36조의 규정에 따른다.",
+      "en_txt": "3. Other matters prescribed by Ordinance of the Prime Minister deemed necessary for securing the safety and health care of laboratory animals, as matters equivalent to subparagraphs 1 and 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항에 따라 우수실험동물생산시설로 지정된 경우가 아니면 실험동물의 운송용기나 문서 등에 우수실험동물생 산시설 또는 이와 유사한 표지를 부착하거나 이를 홍보하여서는 아니 된다.",
+      "en_txt": "(3) No person, other than excellent laboratory animal production facilities designated pursuant to paragraph (1), shall attach a mark of excellent laboratory animal production facilities or any other mark similar thereto to transporting containers or documents or such, or shall publicize such.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 다음 각 호의 자는 실험동물의 사용ㆍ관리 등에 관하여 교육을 받아야 한다. <개정 2017. 2. 8.>",
+      "en_txt": "(1) Persons referred to in the following subparagraphs shall receive education on the use, administration, etc., of laboratory animals: <Amended on Feb. 8, 2017>",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 동물실험시설 운영자",
+      "en_txt": "1. An operator of an animal testing facility;",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제8조제2항에 따른 관리자",
+      "en_txt": "2. An administrator prescribed in Article 8 (2);",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 동물실험시설의 운영자 또는 관리자는 재해를 유발할 수 있는 물질 또는 병원체 등을 사용하는 동물실험을 실시하는 경우 사람과 동물에 위해를 주지 아니하도록 필요한 조치를 취하여야 한다.",
+      "en_txt": "(1) Where an operator or an administrator of animal testing facilities conducts animal testing using substances or pathogens or such, which may cause any disasters, he or she shall take the necessary measures so as not to do any harm to humans and animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 동물실험시설 및 실험동물생산시설로 인한 재해가 국민 건강과 공익에 유해하다고 판단되는 경우 운영자 또는 관리자는 즉시 폐쇄, 소독 등 필요한 조치를 취한 후 그 결과를 식품의약품안 전처장에게 보고하여야 한다. 이 경우 「가축전염병예방법」 제19조를 준용한다.<개정 2013. 3. 23.>",
+      "en_txt": "(2) Where a disaster caused by animal testing facilities and laboratory animal production facilities is deemed detrimental to national health and public good, an operator or an administrator shall take the necessary measures immediately, such as closure, disinfection or such, and then report the results thereof to the Minister of Food and Drug Safety. In such cases, Article 19 of the Act on the Prevention of Contagious Animal Diseases shall apply mutatis mutandis. <Amended on Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항의 보고에 관한 사항은 총리령으로 정한다.<개정 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(2) Matters concerning reporting referred to in paragraph (1) shall be prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 삭제 <2016. 2. 3.>",
+      "en_txt": "(1) Deleted. <Feb. 3, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 동물실험시설의 운영자 및 관리자 또는 실험동물공급자는 동물실험시설과 실험동물생산시설 에서 배출된 실험동물의 사체 등의 폐기물은 「폐기물관리법」에 따라 처리한다. 다만, 제5조제 1항제3호의2에 따른 실험동물자원은행에 제공하는 경우에는 그러하지 아니하다.<개정 2016. 2.",
+      "en_txt": "(2) The operator and manager of each animal testing facility or every laboratory animal supplier shall dispose of waste byproducts, such as carcasses of laboratory animals from animal testing facilities and laboratory animal production facilities under the Wastes Control Act: Provided, That the same shall not apply to the supply to laboratory animal resources banks mentioned in Article 5 (1) 3-2. <Amended on Feb. 3, 2016> CHAPTER VI DISCLOSURE OF RECORDS AND INFORMATION TO PUBLIC",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 동물실험을 수행하는 자는 실험동물의 종류 및 수, 수행된 연구의 절차, 연 구에 참여한 자, 동물실험 후의 실험동물의 처리 등에 대하여 기록하여야 한다. <개정 2010. 1. 18., 2013. 3. 23., 2024. 1. 2.>",
+      "en_txt": "Any person who conducts animal testing shall record types of laboratory animals, quantity of animals used, procedures for researches conducted, participants in research as prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 동물실험에 관한 실태보고서를 매년 작성하여 발표하여야 한다. <개정 2013. 3. 23.>",
+      "en_txt": "(1) The Minister of Food and Drug Safety shall prepare and publish a report on the current status of animal testing each year. <Amended on Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 실태보고서에는 다음 각 호의 사항이 포함되어야 한다.<개정 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(2) Matters referred to in the following subparagraphs shall be included in a report on the current status prescribed in paragraph (1): <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 동물실험에 사용된 실험동물의 종류 및 수",
+      "en_txt": "1. The types and number of laboratory animals used for animal testing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 동물실험 후의 실험동물의 처리",
+      "en_txt": "2. Disposal of laboratory animals after animal testing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 동물실험시설 및 실험동물공급시설의 종류 및 수",
+      "en_txt": "3. The types and number of animal testing facilities and laboratory animal production facilities;",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제11조에 따른 동물실험시설 등에 대한 지도ㆍ감독에 관한 사항",
+      "en_txt": "4. Matters concerning guidance and supervision on animal testing facilities prescribed in Article 11;",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 제18조에 따른 재해유발 물질 또는 병원체 등의 사용에 관한 사항",
+      "en_txt": "5. Matters concerning the use of substances or pathogens causing disasters or such, prescribed in Article 18;",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 제24조에 따른 지정취소 등에 관한 사항",
+      "en_txt": "7. Matters concerning the revocation, etc., of designation prescribed in Article 24;",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "8. 그 밖에 총리령으로 정하는 사항 제7장 보칙",
+      "en_txt": "8. Other matters prescribed by Ordinance of the Prime Minister. CHAPTER VII SUPPLEMENTARY PROVISIONS",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 동물실험의 신뢰성 증진 및 실험동물산업의 건전한 발전을 위하여 실험동 물협회(이하 “협회”라 한다)를 둘 수 있다.",
+      "en_txt": "(1) The Laboratory Animal Association (hereinafter referred to as the \"Association\") may be established for the promotion of reliability of animal testing and the sound development of the laboratory animal industry.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 협회는 법인으로 한다.",
+      "en_txt": "(2) The Association shall be a juristic person.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 다음 각 호에 해당하는 자는 협회의 회원이 될 수 있다.",
+      "en_txt": "(3) Any of the following persons may be members of the Association:",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제8조제1항에 따른 등록을 한 자",
+      "en_txt": "1. A person who has made registration prescribed in Article 8 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 실험동물분야에 관한 지식과 기술이 있는 자 중 협회의 정관으로 정하는 자",
+      "en_txt": "3. A person determined by the articles of association of the Association among those who have knowledge and technology in the field of laboratory animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 협회를 설립하고자 하는 경우에는 대통령령으로 정하는 바에 따라 정관을 작성하여 식품의약 품안전처장의 설립인가를 받아야 한다.<개정 2013. 3. 23.>",
+      "en_txt": "(4) Where a person intends to establish the Association, he or she shall prepare the articles of association, as prescribed by Presidential Decree and obtain approval for the establishment of the Minister of Food and Drug Safety. <Amended on Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 협회의 정관 기재 사항과 업무에 관하여 필요한 사항은 대통령령으로 정한다.",
+      "en_txt": "(5) Matters to be entered in the articles of association and matters necessary for business of the Association shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 협회에 관하여 이 법에 규정되지 아니한 사항은 「민법」 중 사단법인에 관한 규정을 준용한다.",
+      "en_txt": "(6) The provisions concerning incorporated associations of the Civil Act shall apply mutatis mutandis to matters not prescribed in this Act on the Association.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑦ 국가는 협회가 제1항에 따라 사업을 하는 때에 필요하다고 인정하는 경우 재정 등의 지원을 할 수 있다.",
+      "en_txt": "(7) The State may, where deemed necessary for the Association to conduct business pursuant to paragraph (1), support finance or such.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "실험동물공급자로 등록한 자가 다음 각 호의 어느 하나에 해당하는 때에는 해당 시설 또는 공급 자의 등록을 취소하거나 6개월의 범위에서 동물실험시설의 운영 또는 실험동물공급자의 영업(실 험동물생산시설의 운영을 포함한다)을 정지할 수 있다. 다만, 제1호에 해당하는 경우에는 그 등록 을 취소하여야 한다. <개정 2013. 3. 23., 2017. 12. 19., 2022. 6. 10., 2024. 1. 2.>",
+      "en_txt": "(1) When any person who has registered an animal testing facility pursuant to Article 8 or who is registered as a supplier of laboratory animals pursuant to Article 12 falls under any of the following subparagraphs, the Minister of Food and Drug Safety may revoke the registration of the relevant facilities or supplier, or suspend the operation of the animal testing facilities or the business operation of a supplier of laboratory animals (including operation of laboratory animal production facilities) for up to six months: Provided, That where the person falls under subparagraph 1, the Minister of Food and Drug Safety shall revoke the registration. <Amended on Mar. 23, 2013; Dec. 19, 2017; Jun. 10, 2022>",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 속임수나 그 밖의 부정한 방법으로 등록한 것이 확인된 경우",
+      "en_txt": "1. Where he or she is found to have registered by fraud or other improper means;",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제11조 또는 제16조에 따른 지도ㆍ감독을 따르지 아니하거나 기준에 미달한 경우",
+      "en_txt": "3. Where he or she fails to follow guidance and supervision or fails to meet the standard prescribed in Article 11 or 16;",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 동물실험시설이 제9조제1항을 위반하여 다른 동물실험시설, 우수실험동물생산시설 또는 실험 동물공급자가 아닌 자로부터 실험동물을 공급받은 경우",
+      "en_txt": "4. Where he or she is supplied with laboratory animals from sources other than other animal testing facilities, excellent laboratory animal production facilities or suppliers of laboratory animals in violation of Article 9 (1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 제13조제1호 및 제2호에 따른 실험동물공급자의 준수사항을 지키지 아니한 경우 산시설로 지정을 받은 자가 다음 각 호의 어느 하나에 해당하는 때에는 해당 시설의 지정을 취소 하거나 6개월의 범위에서 지정의 효력을 정지할 수 있다. 다만, 제1호에 해당하는 경우에는 그 지정을 취소하여야 한다.<개정 2013. 3. 23., 2022. 6. 10.>",
+      "en_txt": "(2) When any person whose facilities are designated as excellent animal testing facilities pursuant to Article 10 or as excellent laboratory animal production facilities pursuant to Article 15 falls under any of the following subparagraphs, the Minister of Food and Drug Safety may revoke such designation or suspend the designation of the relevant facilities for up to six months: Provided, That where the person falls under subparagraph 1, the Minister of Food and Drug Safety shall revoke the designation: <Amended on Mar. 23, 2013; Jun. 10, 2022>",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 속임수나 그 밖의 부정한 방법으로 지정을 받은 것이 확인된 경우",
+      "en_txt": "1. Where he or she is found to have been designated by fraud or other improper means;",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 우수동물실험시설 또는 우수실험동물생산시설로부터 국민의 건강 또는 공익을 해하는 질병 등 재해가 발생한 경우",
+      "en_txt": "2. Where a disaster, such as a disease or such which undermines the health of people or public good, has occurred from excellent animal testing facilities or excellent laboratory animal production facilities;",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항 및 제2항에 따른 처분의 기준은 총리령으로 정한다.<개정 2010. 1. 18., 2013. 3. 23.> 제25조(결격사유) 다음 각 호의 어느 하나에 해당하는 자는 동물실험시설의 운영자 또는 관리자 및 실험동물공급자가 될 수 없다. <개정 2016. 2. 3., 2017. 12. 19., 2022. 6. 10.>",
+      "en_txt": "Any of the following persons may not be an operator or an administrator of animal testing facilities and a supplier of laboratory animals: <Amended on Feb. 3, 2016; Dec. 19, 2017; Jun. 10, 2022>",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률」 제3조제1호에 따른 정신질환자. 다만, 전문의가 운영자 또는 관리자로서 적합하다고 인정하는 사람은 그러하지 아니하다.",
+      "en_txt": "1. A mental patient prescribed in subparagraph 1 of Article 3 of the Act on the Improvement of Mental Health and the Support for Welfare Services for Mental Patients: Provided, That this shall not apply to a person deemed appropriate as an operator or an administrator of animal testing facilities by a medical specialist;",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 피성년후견인 또는 피한정후견인",
+      "en_txt": "2. A person under adult guardianship or limited guardianship;",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 마약ㆍ대마ㆍ향정신성의약품 중독자",
+      "en_txt": "3. An addict of narcotics, hemp or other anti-psychotic drugs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 이 법을 위반하여 금고 이상의 실형을 선고받고, 집행이 종료(집행이 종료된 것으로 보는 경우 를 포함한다)되거나 집행이 면제된 날부터 2년이 지나지 아니한 자",
+      "en_txt": "4. A person in whose case two years have not passed since his or her imprisonment without labor or heavier punishment was completely executed (including cases where the execution is deemed to have been completed) or exempted by court order, in violation of this Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 제24조제1항에 따라 동물실험시설의 운영정지처분 또는 실험동물공급자의 영업정지처분을 받거나 등록이 취소된 후 1년이 지나지 아니한 자 을 하고자 하는 때에는 미리 청문을 실시하여야 한다. <개정 2013. 3. 23.> 관계 공무원으로 하여금 현장조사를 하게 하거나 필요한 자료의 제출을 요구할 수 있다. <개정 2013. 3. 23.>",
+      "en_txt": "6. A person in whose case one year has not passed since the person received a disposition to suspend operation of the animal testing facilities or a disposition to suspend business operation as the supplier of laboratory animals or registration under Article 24 (1) thereof was revoked.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따라 조사를 하는 공무원은 그 권한을 표시하는 증표를 지니고 이를 관계인에게 제 시하여야 한다.",
+      "en_txt": "(2) A public official who performs an investigation pursuant to paragraph (1) shall carry identification indicating his or her authority and present it to interested persons.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따라 과징금을 부과하는 위반행위의 정도 등에 따른 과징금의 금액 등에 관하여 필 요한 사항은 대통령령으로 정한다.",
+      "en_txt": "(2) Matters necessary for an amount of a penalty surcharge according to degree, etc., of an offense for which the penalty surcharge is imposed pursuant to paragraph (1) shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 납세자의 인적사항",
+      "en_txt": "1. Personal information of the taxpayer;",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 사용 목적",
+      "en_txt": "2. Purpose of use;",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 과징금의 부과기준이 되는 매출금액",
+      "en_txt": "3. Sales amount which is the basis for the imposition of a penalty surcharge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제3항에 따라 요청을 받은 자는 정당한 사유가 없으면 이에 따라야 한다.<신설 2016. 2. 3.> 통령령으로 정하는 바에 따라 제1항에 따른 과징금 부과처분을 취소하고 제24조제1항에 따른 운영정지처분을 하거나 국세 체납처분의 예에 따라 이를 징수한다. 다만, 폐업 등으로 제24조제 1항에 따른 운영정지처분을 할 수 없는 경우에는 국세 체납처분의 예에 따라 이를 징수한다.<신 설 2016. 2. 3., 2022. 6. 10.> 하는 사유로 과징금의 전액을 일시에 납부하기 어렵다고 인정되는 경우에는 12개월의 범위에서 납부기한을 연장하거나 분할납부하게 할 수 있다.<신설 2017. 2. 8.>",
+      "en_txt": "(5) Where a person obliged to pay a penalty surcharge under paragraph (1) fails to do so by the deadline for payment, the Minister of Food and Drug Safety shall either revoke the disposition to impose a penalty surcharge under paragraph (1) as prescribed by Presidential Decree and issue a disposition to suspend operation under Article 24 (1), or collect the penalty surcharge in the same manner as delinquent national taxes: Provided, That if it is not possible to render a disposition to suspend operation prescribed in Article 24",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 재해 등으로 인하여 재산에 현저한 손실을 입은 경우",
+      "en_txt": "1. Where a person hit with a penalty surcharge suffers from a substantial property loss due to a disaster, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 과징금의 일시납부에 따라 자금사정에 현저한 어려움이 예상되는 경우",
+      "en_txt": "2. Where a person hit with a penalty surcharge is expected to undergo substantial difficulty financially due to the lump sum payment of the penalty surcharge;",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 그 밖에 제1호 또는 제2호에 준하는 사유가 있을 때",
+      "en_txt": "3. Where a person hit with a penalty surcharge has grounds equivalent to those in subparagraph 1 or 2;",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑧ 제6항 및 제7항에 의한 과징금 납부기한의 연장, 분할납부 등에 관하여 필요한 사항은 총리령 으로 정한다.<신설 2017. 2. 8.> 제29조(수수료) 다음 각 호의 어느 하나에 해당하는 자는 총리령으로 정하는 바에 따라 수수료를 납부하여야 한다. <개정 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(7) Where a person obliged to pay a penalty surcharge for whom the deadline for payment is extended or installment payment is allowed under paragraph (6) falls under any of the following cases, the Minister of Food and Drug Safety may collect the penalty surcharge in a lump sum by revoking the decision to extend deadline for payment or installment payment: <Newly Inserted on Feb. 8, 2017>",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 분할납부가 결정된 과징금을 그 납부기한 내에 납부하지 아니하였을 때",
+      "en_txt": "1. Where a person obliged to pay a penalty surcharge fails to pay the penalty surcharge for which installment payment is determined, within the deadline for its payment;",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 강제집행, 경매의 개시, 파산선고, 법인의 해산, 국세 또는 지방세의 체납처분을 받는 등 과징 금의 전부 또는 잔여분을 징수할 수 없다고 인정될 때",
+      "en_txt": "2. Where it is recognized that the entire amount or remaining amount of a penalty surcharge cannot be collected, for the person obliged to pay the penalty surcharge is subject to compulsory execution or the commencement of auction, declares bankruptcy or the dissolution of a corporation, or is subject to the disposition of national or local taxes in arrears;",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제8조에 따른 등록 또는 제10조에 따른 지정을 받고자 하는 자",
+      "en_txt": "1. A person who intends to make registration prescribed in Article 8 or to receive designation prescribed in Article 10;",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 다음 각 호의 어느 하나에 해당하는 자에게는 100만원 이하의 과태료를 부과한다.<개정 2017. 2. 8., 2017. 12. 19., 2024. 1. 2.>",
+      "en_txt": "Any of the following persons shall be subject to an administrative fine not exceeding two million won:",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제9조제1항을 위반하여 다른 동물실험시설, 우수실험동물생산시설 또는 실험동물공급자가 아 닌 자로부터 실험동물을 공급받은 자",
+      "en_txt": "1. A person supplied with laboratory animals from sources other than other animal laboratory facilities, excellent laboratory animal production facilities or suppliers of laboratory animals, in violation of Article 9 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제27조제1항에 따른 현장조사를 정당한 사유 없이 거부ㆍ기피ㆍ방해한 자 또는 자료제출 요 구에 응하지 아니하거나 거짓의 자료를 제출한 자 [전문개정 2017. 12. 19.] 제32조(양벌규정) 법인의 대표자나 법인 또는 개인의 대리인ㆍ사용인 및 그 밖의 종업원이 그 법인 또는 개인의 업무에 대하여 제31조에 해당하는 행위를 한 때에는 행위자를 벌하는 외에 그 법인 또는 개인에 대하여도 각 해당 조의 벌금형을 과한다. 다만, 법인 또는 개인이 그 위반행위를 방 지하기 위하여 해당 업무에 관하여 상당한 주의와 감독을 게을리하지 아니한 경우에는 그러하지 아니하다. <개정 2013. 7. 30.>",
+      "en_txt": "2. A person who has refused, evaded or interfered with a field investigation prescribed in Article 27 (1) without good cause, or who fails to comply with a request for presentation of materials, or has presented false materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제7조제1항을 위반하여 실험동물운영위원회를 설치ㆍ운영하지 아니한 동물실험시설의 운영 자 또는 관리자",
+      "en_txt": "1. An operator or administrator of animal testing facilities who fails to establish and operate a laboratory animal management committee, in violation of Article 7 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제7조제4항을 위반하여 실험동물운영위원회의 심의를 거치지 아니한 동물실험시설의 운영자 또는 관리자",
+      "en_txt": "2. An operator or administrator of animal testing facilities who fails to undergo deliberation by the laboratory animal management committee, in violation of Article 7 (4).  (1) Any of the following persons shall be punished by an administrative fine not exceeding one million won: <Amended on Feb. 8, 2017; Dec. 19, 2017>",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제15조제3항을 위반하여 우수실험동물생산시설 또는 이와 유사한 표지를 부착하거나 이를 홍보한 자",
+      "en_txt": "2. A person who has attached a mark of excellent laboratory animal production facilities or any other mark similar thereto or has publicized it, in violation of Article 15 (3);",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제17조제1항을 위반하여 교육을 받지 아니한 동물실험시설 운영자, 관리자 또는 실험동물공 급자",
+      "en_txt": "3. A person who operated animal testing facilities, an administrator or a supplier of laboratory animals, who has not received education, in violation of Article 17 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 삭제<2013. 3. 23.>",
+      "en_txt": "(4) Deleted. <Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 삭제<2013. 3. 23.>",
+      "en_txt": "(5) Deleted. <Mar. 23, 2013>",
+      "align_score": null
+    }
+  ]
+}

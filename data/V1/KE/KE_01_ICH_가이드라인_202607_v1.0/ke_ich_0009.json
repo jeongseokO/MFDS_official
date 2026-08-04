@@ -1,0 +1,1531 @@
+{
+  "document_id": "ke_ich_0009",
+  "meta": {
+    "set": "KE",
+    "source_folder": "1",
+    "source_code": "ich",
+    "source_name": "ICH 가이드라인",
+    "orig_doc_id": "E1",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 가이드라인",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 ICH 절차에 따라 ICH 전문가위원회에서 개발했으며 규제당국 대상으로 의견조회를 실시했다.",
+      "en_txt": "This Guideline has been developed by the appropriate ICH Expert Working Group and has been subject to consultation by the regulatory parties, in accordance with the ICH Process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 절차의 Step 4에 ICH 지역의 규제당국에서 채택할 것이 권고된다.",
+      "en_txt": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of ICH regions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 문서가 어떠한 경우로든 적용, 수정, 또는 번역이 되는 경우 명확히 기재/표기를 하거나 변경이 이루어졌다는 사실을 확인하거나 또는 원 문서를 기반으로 한 합당한 단계를 거쳐야만 한다.",
+      "en_txt": "In case of any adaption, modification or translation of the document, reasonable steps must be taken to clearly label, demarcate or otherwise identify that changes were made to or based on the original document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "원 문서의 적용, 수정, 또는 번역이 ICH에 의해 승인 또는 후원되었다는 표식은 어떠한 경우에도 금한다.",
+      "en_txt": "Any impression that the adaption, modification or translation of the original document is endorsed or sponsored by the ICH must be avoided.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 문서는 보증서 없이 “원문 그대로” 제공된다.",
+      "en_txt": "The document is provided \"as is\" without warranty of any kind.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "어떠한 경우라도 ICH 또는 원문의 저자는 문서 사용으로 야기된 모든 소송, 손상, 또는 기타 책임사항에 대한 책임이 없다.",
+      "en_txt": "In no event shall the ICH or the authors of the original document be liable for any claim, damages or other liability arising from the use of the document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "상기 명시된 허가사항은 제 3자가 제공하는 내용에는 적용되지 않는다.",
+      "en_txt": "The above-mentioned permissions do not apply to content supplied by third parties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 저작권이 제 3자에게 있는 문서의 경우 재생산은 저작권 소지자로부터 허가를 받아야만 한다.",
+      "en_txt": "Therefore, for documents where the copyright vests in a third party, permission for reproduction must be obtained from this copyright holder.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가이드라인 목적: 이 가이드라인의 주된 목적은 임상시험에서 유전체 시료 채취와 유전체 데이터 관리의 조화된 원칙은 제공하는 것이다.",
+      "en_txt": "Objectives of the Guideline: The main objective of this guideline is to provide harmonised principles of genomic sampling and management of genomic data in clinical studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 유전체 시료와 데이터의 비뚤림 없는 채취, 저장, 최적의 사용에 대한 중요한 평가변수에 대한 공통의 이해를 통해 유전체 연구 시행을 촉진시킬 것이다.",
+      "en_txt": "This guideline will facilitate the implementation of genomic studies by enabling a common understanding of critical parameters for the unbiased collection, storage, and optimal use of genomic samples and data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 또한 피험자의 개인정보 보호, 생성된 데이터 보호, 알맞은 사전동의 확보 필요성, 지역의 법령 및 규정에 따른 결과의 투명성 고려 필요성에 대한 인식 제고와 이에 대해 상기시켜주기 위해 작성되었다.",
+      "en_txt": "This guideline also intends to increase awareness and provide a reminder regarding subjects’ privacy, protection of the data generated, the need to obtain suitable informed consent, and the need to consider transparency of findings in line with local legislation and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 의약품 개발자, 임상시험자, 규제자 등 이해관계자들 간 상호작용 및 임상연구 중 유전체 연구를 장려하기 위해 작성되었다.",
+      "en_txt": "This guideline is intended to foster interactions amongst stakeholders, including drug developers, investigators and regulators, and to encourage genomic research within clinical studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "배경: 임상시험에서 획득한 유전체 데이터에 대한 인식 및 관심이 높아지고 있다.",
+      "en_txt": "Background: Awareness of, and interest in, genomic data obtained from clinical studies are growing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특히 유전체 연구는 약물 반응의 유전적 상관관계를 평가하고 질병이나 약리학의 기전을 이해하기 위해 의약품 개발 중 모든 단계에서 사용될 수 있다.",
+      "en_txt": "In particular, genomic research could be used in all phases of drug development to assess genomic correlates of drug response, and to understand mechanisms of disease or drug pharmacology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물 반응의 다양성에 기반한 유전체 생체지표 확인은 환자 치료 최적화, 보다 효율적인 시험 설계, 의약품 라벨 정보제공에 유용할 수 있다.",
+      "en_txt": "The identification of genomic biomarkers underlying variability in drug response may be valuable to optimize patient therapy, design more efficient studies, and inform drug labelling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그리고 각 임상시험과 의약품 개발 프로그램 내에서, 여러 시험과 프로그램 간에 유전적 데이터 생성 및 해석을 통해 약리학, 병리학적 기전의 보다 높은 이해가 가능하며 새로운 의약품 표적 확인도 가능하다.",
+      "en_txt": "Furthermore, the generation and interpretation of genomic data, both within and across clinical studies and drug development programs, allow for a better understanding of pharmacological and pathological mechanisms and enable the identification of new drug targets.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 지역 내 규제당국은 유전체 전주기에 걸쳐 유전체 시료 채취를 장려하는 가이드라인을 개별적으로 출간해왔다.",
+      "en_txt": "Regulatory agencies in the ICH regions have independently published guidelines encouraging genomic sample collection throughout the life cycle of a drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 임상시험에서 유전체 시료 채취 및 데이터 관리에 대한 ICH 조화 가이드라인이 부재하면 글로벌 임상시험에서 일관되게 유전체 시료를 채취하고 유전체 연구를 수행하는 데 임상시험의뢰자와 연구자들이 어려울 수 있다.",
+      "en_txt": "The lack of a harmonised ICH guideline on genomic sampling and data management from clinical studies makes it difficult for sponsors and researchers to collect genomic samples and conduct genomic research in a consistent manner in global clinical studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 시료는 단일 유전자, 유전자 셋, 전체 유전체 등 여러 가지 분석에 사용될 수 있으나 채취 당시 임상시험 목적에 사전 명시되어 있을 수도 있고 그렇지 않을 수도 있다.",
+      "en_txt": "Genomic samples may be used for a variety of analyses, including single genes, sets of genes and the whole genome, which may or may not be pre-specified in the clinical study objectives at the time of collection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 연구는 임상시험 진행 중 또는 임상시험 이후에 실시될 수 있다.임상시험 계획서에 사전에 명시되어 있을 수도 있고 그렇지 않을 수도 있다.",
+      "en_txt": "Genomic research can be conducted during or after a clinical study. It may or may not be pre-specified in the clinical protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인에서는 분석시기와 사전 명시에 관계없이 유전체 시료 및 데이터 사용을 다룬다.",
+      "en_txt": "This document addresses use of genomic samples and data irrespective of the timing of analyses and both pre-specified and non-pre-specified use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인에 기술된 유전체 시료 및 데이터는 ICH E15에 정의된 디옥시리보핵산(DNA)와 리보핵산(RNA) 특성과 관계가 있다.",
+      "en_txt": "Genomic samples and data described in this guideline are consistent with the deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) characteristics defined in ICH E151.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 사전동의 범위 내에서 유전체 시료나 데이터 채취, 처리, 이송, 저장, 폐기의 일반원칙에 집중한다.",
+      "en_txt": "The focus of this guideline is on the general principles of collection, processing, transport, storage, and disposition of genomic samples or data, within the scope of an informed consent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "바이오뱅크 규정 또는 윤리적 내용은 헬싱키 선언 원칙과 개별 국가 규칙 및 규정에 따르므로 상세한 지침이 포함되어 있지 않다.",
+      "en_txt": "No detailed guidance is included on biobanking regulations or ethical aspects, as these are governed by the principles of the Declaration of Helsinki and national rules and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "개인정보 보호/데이터 보호 관련한 사안에도 동일하게 적용된다.",
+      "en_txt": "The same applies to issues related to privacy/data protection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E15는 유전체 생체지표를 “일반적인 생물학적 프로세스, 병리학적 프로세스 및/또는 치료나 기타 중재에 대한 반응의 지표가 되는 측정가능한 DNA 및/또는 RNA 특성”으로 정의한다.",
+      "en_txt": "ICH E15 defines a genomic biomarker as a “measurable DNA and/or RNA characteristic that is an indicator of normal biologic processes, pathogenic processes, and/or response to therapeutic or other interventions”.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "개인정보 보호/데이터 보호 관련한 사안에도 동일하게 적용된다.",
+      "en_txt": "2 The same applies to issues related to privacy/data protection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인의 원칙은 인체 유래 물질을 활용한 모든 유전체 연구에 적용될 수 있다.",
+      "en_txt": "The principles in this guideline may apply to any genomic research utilizing human-derived materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인의 권고사항은 원칙이며 유전체 연구가 시행되는 각 관할구역의 정책, 법령 및 규정에 따라 해석되어야 한다.",
+      "en_txt": "The recommendations in this guideline are principles and they should be interpreted in accordance with legislations, regulations as well as policies in each jurisdiction where genomic research is undertaken.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 유전체 시료 채취는 임상 개발의 모든 단계와 연구에서 강력히 장려된다.",
+      "en_txt": "Therefore, genomic sample acquisition is strongly encouraged in all phases and studies of clinical development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료의 완전성 유지는 중요하며 유전체 시료의 과학적 활용성에 중요한 영향을 미친다.",
+      "en_txt": "Maintaining sample integrity is important and has a major impact on the scientific utility of genomic samples.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료의 품질과 양 및 시험법의 기술적 능력(예. 정확성, 정밀성, 민감성, 특이성, 재현가능성)은 유전체 데이터의 신뢰성을 결정할 것이다.",
+      "en_txt": "The quality and amount of samples, and technical performance of the assay (e.g., accuracy, precision, sensitivity, specificity, reproducibility) will determine the reliability of genomic data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 시료 및 데이터는 비유전체 시료와 보건 정보와 유사하게 안전하게 저장, 유지, 접근제한이 이루어져야 한다.",
+      "en_txt": "Genomic samples and data should be securely stored, maintained, and access-controlled similar to non-genomic samples and health information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 시료채취 유전체 연구는 광범위한 방법과 적용을 포함한다.",
+      "en_txt": "GENOMIC SAMPLING Genomic research encompasses a wide variety of methods and applications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "핵산 염기서열 및 유전자형, RNA의 여러 유형 분석, 유전자 발현 또는 조절, 후성유전체 변화 탐지를 포함하나 이에 국한되는 것은 아닐 수 있다.",
+      "en_txt": "These may include, but are not limited to, nucleic acid sequencing and genotyping, analysis of various types of RNA, gene expression or regulation, and detection of epigenetic modifications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연구 범위는 평가될 표본 유형과 분해물질(들), 분해물질 추출, 유전체 시험을 위한 주석이 달린 표본을 안정화시키고 저장하기 위해 사용된 분석법을 결정할 것이다.",
+      "en_txt": "The scope of the research will determine the specimen type and the analyte(s) to be assessed, and the methodologies used to extract analytes and to stabilize and store well-annotated samples for genomic testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본의 질과 양은 생성된 데이터의 정확성과 신뢰성에 영향을 줄 수 있다.",
+      "en_txt": "Sample quality and amount can influence the accuracy and reliability of the generated data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 생물학적 표본의 채취, 처리, 준비는 연구 과정에서 중요한 단계이다.",
+      "en_txt": "Therefore, collection, handling, and preparation of the biological samples are critical steps in the research process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "사전 분석적 변이는 유전체 표본 채취, 처리, 이송, 저장의 표준화된 절차 작성 및 문서화에 따라 최소화 되어야 한다.",
+      "en_txt": "Pre-analytical variation should be minimized by developing and documenting standardized procedures for genomic sample collection, processing, transport, and storage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "절차와 품질 모니터링은 표본 유형, 분해물질, 수행될 시험에 따라 적합하게 맞춰져야 한다.",
+      "en_txt": "Procedures and quality monitoring should be tailored to the types of specimens, the analytes, and the tests to be performed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시험 기관 전반의 표본 처리 및 준비의 사전 분석적 절차는 실시 전 정의되고, 문서화되며, 검증되어야 한다.",
+      "en_txt": "The pre-analytical process for specimen handling and preparation across study sites should be defined, documented, and verified prior to implementation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료가 채취되는 시기, 방법, 장소(예. 시험 기관), 조건(예. 저장 온도 및 기간, 고정 기간)을 기록하는 것이 중요하다.",
+      "en_txt": "It is important that the timing, method, location (e.g., study site), and conditions (e.g., storage temperature and duration, fixation time) under which samples are collected are recorded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "정의된 절차의 모든 변경 및 이탈사항은 각 시료의 생애주기에 따라 문서로 작성되어야 한다.",
+      "en_txt": "Any changes and deviations from procedures defined should be well documented over the life time of each sample.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "각 단계 시기 등 채취, 처리, 분석의 모든 단계에서 연속성이 모든 시료 및 시료 부분에 대해 기록되어야 한다.",
+      "en_txt": "The chain of custody at all stages of collection, handling, and analysis including the timing of each step should be recorded for all samples and their aliquots.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "품질 관리 프로그램 시행을 매우 권장한다.",
+      "en_txt": "Implementation of quality control programs is highly recommended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 시료 획득 시기부터 시험 시기까지 각 단계에서 생물학적 시료의 안정성을 보장하기 위해 채취, 처리, 이송, 저장에 대한 지시사항이 정의 및 채택되어야 한다.",
+      "en_txt": "In general, instructions for collection, processing, transport, and storage should be defined and adopted to ensure the stability of the biological samples at each step from the time of acquisition to the time of testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 채취 및 절차: 많은 사전 분석적 변이는 유전체 시험 시 시료의 적합성을 보장하기 위해 시료 채취 및 처리 전략 개발 시 고려되어야 한다.",
+      "en_txt": "Collection and Processing of Samples: A number of pre-analytical variables should be considered when developing a strategy for sample collection and processing to ensure suitability of samples for genomic testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 참여 기관이 다양한 시료 채취 및 처리 절차를 사용하는 경우 기관별로 추후 시험 성능이 다를 수 있다.",
+      "en_txt": "If sites participating in a clinical study use different sample collection and handling procedures, then the subsequent test performance may differ by site.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이는 데이터의 해석능력 및 혼합능력에 영향을 미칠 수도 있고 신뢰할 수 없는 결과로 이어질 수도 있다.",
+      "en_txt": "This may affect the interpretability and 3 combinability of the data and may lead to unreliable results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "참여하는 모든 기관의 직원들은 적절한 교육을 받고 표준화 절차 사용에 대한 지식을 갖추고 있어야 한다.",
+      "en_txt": "Staff at all participating sites should be properly trained and knowledgeable in the use of standardized procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "알맞은 바이오안전성 기준, 피험자 개인정보 보호 규정, 사전동의에 따라 표본을 채취하고 라벨을 붙여 분류해야 한다.",
+      "en_txt": "Specimens should be collected and labelled in accordance with appropriate biosafety practices, subject privacy regulations, and the informed consent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2.1.1 표본 유형 핵산은 여러 가지 임상 표본 유형 및 모체(예. 혈구, 조직, 구강 상피세포, 타액, 골수천자액, 대소변)에서 추출할 수 있다.",
+      "en_txt": "Specimen Type Nucleic acids may be extracted from a variety of clinical specimen types and matrices (e.g., blood cells, tissue, buccal swab, saliva, bone marrow aspirate, urine, feces).",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "조직에서 추출된 핵산의 새로운 출처(예. 무세포 DNA, 순환종양세포)가 등장하고 있으며 별도의 분리 방법이 필요할 수 있다.",
+      "en_txt": "Novel sources of tissue-derived nucleic acids (e.g., cell-free DNA, circulating tumor cells) are emerging and might require distinct isolation methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인의 상세한 원칙 또한 이 출처에 적용한다.",
+      "en_txt": "The principles detailed herein also apply to these sources.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "채취된 표본 유형은 의도한 사용에 상응하는 것이어야 한다.",
+      "en_txt": "The type of specimens to be collected should be compatible with the intended use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 표본 유형 중 일부는 DNA와 RNA에 사용될 수 있으나 다른 표본 유형은 분해물질 안정성 부족으로 RNA 분석에 적합하지 않을 수 있다.",
+      "en_txt": "For example, some types of specimens could be used for both DNA and RNA studies while other specimen types may not be suitable for RNA analysis due to the lack of analyte stability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 피험자에서 이용할 수 있는 혈액 또는 다른 조직량이 제한될 수 있으므로 타액, 건조 혈반 또는 피부찰과 등 비침습적 대안이 고려될 수 있다.",
+      "en_txt": "In pediatric subjects, only limited amounts of blood or other tissues may be available and therefore non-invasive alternatives, such as saliva, dried blood spot or skin scrapings could be considered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특정 유형의 시료(예. 혈액, 근육생검)의 경우 주의해서 무균 채취를 해야 한다.",
+      "en_txt": "For certain types of sample (e.g., blood, muscle biopsy) attention should be paid to aseptic collection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "숙주 DNA 및 RNA 이외와 접촉할 위험성이 있는 생물학적 물질이 사용될 경우 주의해야 한다(예. 구강 상피세포, 타액).",
+      "en_txt": "Care should be taken when biological materials that may bear the risk for contamination with other than host DNA and RNA are used (e.g., buccal swabs, saliva).",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 채취 시기: 시료 채취 전략 설정 시 임상시험 목적 측면에서 피험자 간, 피험자 내 가변성이 고려되어야 한다.",
+      "en_txt": "Timing of Specimen Collection: Inter- and intra-subject variability should be considered in the context of the clinical study objectives when defining the sample collection strategy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 일일 변동 또는 투여제가 유전자 발현에 영향을 미칠 수 있고 시료채취 시기 선정 시 위 사항을 고려해야 한다.",
+      "en_txt": "For example, diurnal variation or administered treatments can influence gene expression and should be considered when selecting sampling time points.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "DNA 메틸화 등 후성유전학 또한 시간의 흐름에 따라 달라질 수 있다(예. 피험자 연령).",
+      "en_txt": "Epigenetics such as DNA methylation may also change over time (e.g., subject age).",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생식계열 DNA 염기서열은 시간이 흐르면서 상대적으로 안정적이지만 종양 DNA와 RNA에서 획득한 정보는 시료 채취 출처, 방법 및/또는 시기에 영향을 받을 수 있다.",
+      "en_txt": "While the sequence of germline DNA is relatively stable over time, information obtained from tumor DNA and RNA can be affected by the source, method and/or timing of the sample collection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 보존 조건: 채취 용기, 첨가제 필요성 및 유형, 안정제 또는 보존제는 핵산 표적, 표본 유형, 필요한 시료 크기 또는 양, 잠재적 시험법 및 기술에 따라 달라질 수 있다.",
+      "en_txt": "Specimen Preservation Conditions: The collection container, the need for and the type of an additive, stabilizing agent or preservative will depend upon the nucleic acid target, the specimen type, the size or volume of sample required, and the potential assay and technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 혈액 또는 골수천자액 표본은 의도한 핵산 유형에 적절한 항응고제나 첨가제를 함유한 관에 채취된다.",
+      "en_txt": "For example, blood or bone marrow aspirate specimens are collected in tubes containing anticoagulants or additives appropriate for the intended nucleic acid type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "장기 저장을 위해 조직을 고정 시키는 경우가 많다.",
+      "en_txt": "Tissues are often fixed for long-term storage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "조직 고정 시 주의깊게 고려해야 할 평가변수로는 하위 핵산 추출 방법 호환성 및 고정제 유형, 고정 시간, 습도, 산화, 온도가 있다.",
+      "en_txt": "Parameters that should be carefully considered for tissue fixation are the type of fixative, fixation time, humidity, oxygenation, and temperature, as well as the compatibility with the downstream nucleic acid extraction method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험 시 시료 채취 전 수행될 시험 유형과 관심 분해물질에 고정 및 첨가제가 미칠 영향을 평가할 것이 권장된다.",
+      "en_txt": "It is recommended to evaluate the impact of fixation and additives on the analytes of interest and the types of tests to be carried out prior to sample collection in a clinical study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그리고 표본 조직 유형 및 양은 적절한 고정 기간에 영향을 줄 수 있기 때문에 반드시 고려해야 한다.",
+      "en_txt": "In addition, the specimen tissue type and volume may affect the optimal duration of fixation and therefore should be taken into account.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최초 고정 후 표본 처리 방법 역시 표본의 완전성에 영향을 미칠 수 있다.",
+      "en_txt": "Sample handling methods subsequent to initial fixation could also impact the integrity of the specimens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 안정성 및 손상 시료 채취 및 처리 중 핵산 분해 및 유전체 프로파일 변경을 방지하기 위해 적절한 관리 조치가 취해져야 한다.",
+      "en_txt": "Sample Stability and Degradation Appropriate handling measures should be taken to prevent nucleic acid degradation and genomic profile alterations during sample collection and processing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "핵산 분절 및 명백한 유전자 발현 변화가 발생할 수 있고 pH, 저산소증, 핵산중간분해효소 존재 및/또는 기타 조직 특이적 평가변수와 관련된 조건에 따라 다를 수 있다.",
+      "en_txt": "Nucleic acid fragmentation and apparent changes in gene expression can occur and are dependent on conditions related to pH, hypoxia, the presence of endonucleases, and/or other tissue specific parameters.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그리고 표본 채취부터 저장 시간, 냉동, 고정 또는 처리까지 소요되는 시간은 필요에 따라 최적화 되어야 한다.",
+      "en_txt": "In addition, the time from specimen collection to freezing, fixation, or processing, as well as the storage time, should be optimized as needed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "저장 및 처리 조건을 모니터링할 것이 권고된다.",
+      "en_txt": "It is recommended to monitor conditions of storage and processing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 가능한 변이를 탐지하기 위해 온도를 모니터링하고 시료 간 일관성을 보장하기 위해 온도를 기록해야 한다.",
+      "en_txt": "For example, the temperature should be monitored for possible variations and documented to ensure consistency across samples.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피험자의 부담을 최소화하기 위해 의도한 목적에 필요한(예. 분석법) 최소한의 조직이나 세포량에 대해 반드시 생각해야 한다.",
+      "en_txt": "Consideration should be given to the minimum tissue or cell content needed for the intended purposes (e.g., analytical methodology) to minimize burden on subjects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최적의 조직량은 조직의 세포질(예. 더 적은 양이 고도의 세포조직 유형에는 충분할 수 있다)과 전체 표본에서 특정 세포 유형의 상대적 비율(예. 종양부위 및/또는 생검에서 대표되는 질병의 다른 부분)에 따라 달라질 수 있다.",
+      "en_txt": "The optimal amount of tissue may be dependent upon the cellularity of the tissue (e.g., smaller amounts may be sufficient for highly cellular tissue types) and the relative proportion of particular cell types in the entire specimen (e.g., tumor area and/or other aspects of a disease as represented in a biopsy).",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제하된 양의 조직만 이용할 수 있는 경우, 대안 생물학적 물질이 채취시 고려될 수 있다(Section 2.1.1 참조).",
+      "en_txt": "In the event that only a limited amount of tissue is available, alternative biological material may be considered for collection (see also section 2.1.1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "종양 조직이 분자이질성(모자이키즘)이 있고 종양 생검이 종종 일반 조직의 일부를 포함할 경우 유전체 분석 전 시료의 문서화된 병리학적 평가가 도움이 될 수 있다.",
+      "en_txt": "As tumor tissue may exhibit molecular heterogeneity (mosaicism) and tumor biopsies often consist in part of normal tissue, a documented pathological evaluation of the sample prior to genomic analysis may be helpful.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "한 쌍을 이룬 시료가 채취되면(예. 조양 대 일반 조직, 치료 전 대 치료 후 시료, 태아 대 모성 표본) 비교를 위해 추가 고려사항(예. 매치된 시료, 세포 유형)이 필요할 수 있다.",
+      "en_txt": "When paired samples are collected (e.g., tumor versus normal tissue, pre- versus post-treatment samples, prenatal versus maternal specimens), additional considerations (e.g., matched samples, cell types) may be needed to allow comparison.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 시료에 정성적, 정량적으로 영향을 미치는 변수: 추출된 핵산의 질과 양은 다른 요소들 간 표본 출처의 질에 따라 영향을 받는다(Section 2.1.5 참조).",
+      "en_txt": "Parameters Influencing Genomic Sample Quality and Quantity: The quality and yield of the extracted nucleic acids are affected by the quality of the source specimens amongst other factors (see also section 2.1.5).",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그 결과 처리 조건과 사용할 표본 유형에 대한 추출 절차가 정의되고 검증되어야 한다.",
+      "en_txt": "As a result, the extraction procedures should be defined and validated for the handling conditions and the specimen type to be used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 유형마다 핵산 회복에 영향을 미칠 수 있는 여러 특성과 요인이 있고 이는 핵산 추출법 선정 시 고려되어야 한다.",
+      "en_txt": "Specimen types have diverse characteristics and components that can affect the recovery of nucleic acids, and these should be considered when selecting a methodology for nucleic acid extraction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예를 들어, 세포 용해 절차는 여러 조직 및 체액 표본에 따라 다양할 수 있다.",
+      "en_txt": "For example, the procedures for cell lysis may vary for different tissue and body fluid specimens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "특정 세포 성분 제거 과정 역시 표본의 구성에 따라 다를 수 있다.",
+      "en_txt": "The process for removing specific cell constituents may also differ depending on the composition of the specimens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 과정이 유전자 발현에 영향을 미칠 수도 있고 의도치 않은 거짓 결과가 나올 수 있음을 주지해야 한다.",
+      "en_txt": "It should be noted that such processes may affect gene expression and lead to unintended spurious results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "DNA와 RNA가 모두 동일한 표본에서 추출될 경우, 추출이 동시에 잘 이루어졌는지, 조직 표본이 채취 시 나누어졌는지 판단해야한다.",
+      "en_txt": "If both DNA and RNA will be extracted from the same specimen it should be determined whether extraction is best performed simultaneously or if the tissue specimen should be divided at the time of collection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "DNA에 비해 불안정한 RNA 특성 때문에 RNase-free 장비 및 시약 사용 등 RNA 분리 시 특히 주의해야 한다.",
+      "en_txt": "Due to the labile nature of RNA compared to DNA, additional precautions are needed when isolating RNA, such as the use of RNase-free equipment and reagents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "핵산 추출 전 표본의 반복 냉동 및 해동이 유전체 시료 완전성에 영향을 줄 수 있고 가능한 경우 또는 달리 평가되는 경우 지양해야 한다.",
+      "en_txt": "Repeated freezing and thawing of specimens prior to nucleic acid extraction can affect genomic sample integrity and should be avoided when possible or otherwise evaluated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "추출된 핵산 표적의 질과 양이 의도한 하위 유전체 시험에서 적절한지 여부를 판단하기 위해서 측정된 분해물질 관련한 적절한 품질 관리방법이 적용되어야 한다.",
+      "en_txt": "To determine if the quality and quantity of the extracted nucleic acid targets are adequate for the intended downstream genomic testing, appropriate quality control methods should be applied relative to the analyte being measured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "간섭 인자: 간섭 및 오염의 잠재적 원인이 유전체 시험 성능에 영향을 줄 수 있고 여기에는 내인성 성분과 외인성 성분이 포함된다.",
+      "en_txt": "Sources of Interference: Potential sources of interference and contamination can affect the performance of genomic tests and these include endogenous and exogenous substances.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "폴리메라제 연쇄 반응(PCR) 효율성에 영향을 미칠 수 있는 표본 유형에 일반적으로 존재하는 내인성 성분과(예. 혈액의 헤모글로빈, 피분의 멜라닌) 특정 시험법에 간섭하는 외인성 성분을(예. 항응고제, 기타 첨가물, 고정제, 핵산 분리에 사용된 시약) 파악하는 것이 중요하다.",
+      "en_txt": "It is important to identify endogenous substances normally present in a specimen type (e.g., hemoglobin from blood, melanin from skin) that may affect, for example, polymerase chain reaction (PCR) efficiency and exogenous substances (e.g., anticoagulant, other additives, fixative, reagents used for nucleic acid isolation) that interfere with specific testing methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "잠재적 요인 또는 시험법 성능을 간섭하는 요소의 영향은 시험법 개발 중 해결이 되어야 한다.",
+      "en_txt": "The effects of potential factors or elements that interfere with assay performance should be addressed during assay development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 이송 및 저장: 이송 및 저장 조건은 표본 유형 및 핵산 표적에 따라 달라질 것이다.",
+      "en_txt": "Transport and Storage of Samples: Transport and storage conditions will vary according to the specimen type and the nucleic acid target.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 이송 및 저장 중 핵산 표적의 안정성에 영향을 미칠 수 있는 조건에 표본이 노출되어서는 안 된다.",
+      "en_txt": "In general, samples should not be exposed to conditions that may affect the stability of the nucleic acid targets during transport and storage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 이송: 시료 이송 전 알맞은 이송 조건이 수립되어야 한다.",
+      "en_txt": "Transport of Samples: The appropriate transport conditions should be established prior to sample shipment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본 및/또는 추출된 분해산물이 허용된 조건하에서 이송될 수 있도록 수령 받은 표본의 알맞은 온도 및 이송 일자, 영수 내역이 기록되어야 한다.",
+      "en_txt": "To ensure that specimens and/or extracted analytes are shipped under acceptable conditions, the dates of shipment and receipt should be documented, as well as the approximate temperature of the specimens when received.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가능하다면 시료는 시료 유형 및 해당 분해산물에 적합한 의도한 저장 온도에서 이송되어야 한다.",
+      "en_txt": "Where possible, samples should be transported at the intended storage temperature appropriate for the sample type and the analyte of interest.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 저장: 재사용 및/또는 추후 사용이 가능하도록 의약품 개발 프로그램 기간을 지나 장기간 표본을 저장할 것을 강력히 권고한다.",
+      "en_txt": "Storage of Samples: It is highly recommended that samples are stored long-term, i.e., over the course of and beyond a drug development program, to enable re-use and/or future use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "표본이나 추출된 핵산이 저장되는 조건은 의도한 유전체 시험 적용에 적합해야 한다.",
+      "en_txt": "The conditions under which specimens or extracted nucleic acids are archived should be suitable for the intended genomic testing application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "반복 냉동/해동 및 잠재적 오염을 피하기 위해 여러 부분으로 나눠진 시료와 추출된 핵산을 저장하는 것은 좋은 방법이다.",
+      "en_txt": "It is good practice to store samples and extracted nucleic acids as multiple aliquots to avoid repeated freeze/thaw cycles and potential contamination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료를 재사용하고 냉동/해동 주기가 있을 경우 각 단계의 온도와 시간 등 각 냉동/해동 주기를 기록해야 한다.",
+      "en_txt": "If a sample is re-used and undergoes freeze/thaw cycles, then each freeze/thaw cycle, including the temperature and time at each step, should be recorded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 저장은 제대로 된 실험실 정보 및 데이터 관리 시스템 뿐 아니라 물리적 시설을 필요로 한다.",
+      "en_txt": "Storage of samples requires a physical infrastructure, as well as a robust laboratory information and data management system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생체시료저장소에 시료를 저장할 때 고려해야 할 사항에는 품질 보증 및 품질 관리 프로그램 준수, 시료 추적 시스템, 정보 보안, 지역 규정 및 사전동의 준수가 있다.",
+      "en_txt": "Considerations when depositing samples into biorepositories include adherence to quality assurance and quality control programs, sample tracking systems, information security, and compliance with local legislations and informed consent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "환자 동의서에 기술된 허용된 전체 유지 기간 이상으로 시료를 저장해서는 안 도니다.",
+      "en_txt": "Samples should not be stored longer than the allowed total retention period as described in the informed consent document.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그리고 피험자가 동의를 철회하거나 결정된 보유 기간 종료 시 시료(들)을 알맞게 폐기하는 절차가 마련되어 있어야 한다.",
+      "en_txt": "Furthermore, procedures should be in place to ensure appropriate destruction of the sample(s) when a subject withdraws consent or at the end of the declared retention period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 인벤토리 정리: 시료 인벤토리는 다음 사항과 관련하여 모니터링하고 정리해야 한다: 시료 사용 동의서, 시료 보유 정책 관련 저장 기간, 생체시료저장소에서 시료를 폐기 요청, 시료 폐기 기록.",
+      "en_txt": "Curation of Sample Inventory: Sample inventory should be monitored and curated relative to the following: consent for use of the samples, length of storage relative to the sample retention policy, requests to withdraw samples from the biorepository, and record of sample destruction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위에 언급한 측면과 관련된 각 시료의 조화는 시료를 사용하기 전에 실시되어야 한다.",
+      "en_txt": "Reconciliation of each sample relative to the aforementioned aspects should be performed prior to the use of that sample.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 조화는 시료 간 예상된 특성을 일치시키기 위해 사용될 수 있다(예. 시료 부분, 종양/일반 시료쌍, 투여 전/투여 후 시료쌍).",
+      "en_txt": "Genomic concordance can be used to confirm the expected identities between samples (e.g., sample aliquots, tumor/normal pairs, pre- and post-treatment pairs).",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 자료: 인체 유전체 데이터는 생식계열(부모에서 물려받음), 체세포(예. 종양 세포 변이) 또는 미토콘드리아(미생물 DNA 또는 다른 잠재적으로 전염성이 있는 개체)가 그 출처가 될 수 있다.",
+      "en_txt": "GENOMIC DATA: Human genomic data can be derived from germline (inherited from parents), somatic (e.g., mutations in tumor tissues) or mitochondrial (e.g., for traceability of maternal lineage) sources.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생성된 유전체 데이터 유형은 분해물질과 적용되는 기술 플랫폼(들)에 따라 다르다.",
+      "en_txt": "The type of genomic data generated depends on the analytes and the applied technology platform(s).",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "포괄적인 유전체 비교를 하려면 건강한 세포 및 질병 세포, 다른 세포 유형 및/또는 다른 시기에 추출된 단일 피험자에서 채취된 여러 DNA 또는 RNA 시료를 확보하는 것이 적합할 수 있다.",
+      "en_txt": "For comprehensive genomic comparisons it may be appropriate to have multiple DNA or RNA samples collected from a single subject taken from healthy tissue and diseased tissues, different tissue types, and/or at different time points.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 자료 생성: 유전체 데이터는 여러 가지 급속하게 진화하는 기술 플랫폼 및 방법을 활용해서 생성될 수 있다.",
+      "en_txt": "Generation of Genomic Data: Genomic data can be generated by using many different and rapidly evolving technology platforms and methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피험자의 광범위한 유전체 프로파일링이 기술적으로 가능하고 생성된 데이터는 저장되고 반복적으로 사용할 수도 있다.",
+      "en_txt": "Broad genomic profiling of subjects is technologically feasible, and data generated may be stored and used repeatedly over time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 데이터의 의도한 목적에 따라 알맞은 플랫폼과 방법을 선택하는 것이 중요하다.",
+      "en_txt": "It is important to choose the appropriate platform and method in light of the intended purpose of the genomic data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 연구 등급이나 보다 검증된 방법이 데이터 생성 중 사용될 것인지 여부를 이해하는 것과 관련이 있다.",
+      "en_txt": "Therefore, it is relevant to understand whether research grade or more validated methods will be used during data generation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 데이터가 임상 의사결정에 사용되는 경우 지역별 규정 및 정책에 따라 알맞은 수준의 시험법 검증을 고려해야 한다.",
+      "en_txt": "When genomic data are to be used for clinical decision making, the appropriate level of assay validation should be considered in accordance with local regulations and policies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "실험적 조건에서 유전체 데이터는 임상 사용을 뒷받침하기 위해 검증되지 않았을 연구 등급 시약 및 장치를 사용하여 생성될 수 있다.",
+      "en_txt": "Under exploratory settings, genomic data can be generated using research grade reagents and instruments that may not have been validated to support clinical use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 임상 등급 검증이 필요하지 않은 실험적 조건이라 하더라도 신뢰할만한 결과 해석을 위한 알맞은 수준의 정확성과 일관성을 보장하기 위해 충분한 분석 밸리데이션이 실시되어야 한다.",
+      "en_txt": "However, even under exploratory settings where clinical-grade validation is not required, sufficient analytical validation should be conducted to ensure an adequate level of accuracy and consistency to allow for reliable interpretation of the results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "상위 단계 시료 채취 및 처리가 예상됨에 따라 보다 깊은 수준으로 유전체 연구의 경우 모든 분석 단계에 대한 처리 및 분석 작업흐름도를 문서화해야 한다.",
+      "en_txt": "For genomic research, the processing and analytical workflow for all stages of analysis should be documented in as much depth as would be expected for upstream sample collection and processing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 문서에는 각 분석 단계에서 사용된 툴, 버전, 평가변수, 활용된 유전체 레퍼런스 및 데이터베이스 출처 및 버전(예. 유전체 구조, 전사체 집합, 다양한 주석 데이터베이스), 데이터 처리에 사용된 컴퓨터 환경 및 자원이 포함되어야 한다.",
+      "en_txt": "This documentation should include tools, versions, and parameters used at each stage of the analysis, source and version of genomic references and databases utilized (e.g.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "적합한 품질 관리(QC) 절차 및 계량 역치는 작업도의 모든 단계에서 마련되어 있어야 한다.",
+      "en_txt": "Appropriate quality control (QC) procedures and metric thresholds should be set for all stages of the workflow.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 QC 절차 및 역치는 하위 분석으로 진행하기 전 작업도의 각 단계에 고정되어 있어야 한다.",
+      "en_txt": "Such QC procedures and thresholds should be fixed for each stage of the workflow before proceeding to downstream analyses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그리고 가능하다면 서로 다른 데이터셋 간 일관성을 보장하기 위해 QC 절차와 역치가 주어진 분석법 유형 및 의도한 결과에 대해 고정되어야 한다.",
+      "en_txt": "Further, where possible QC procedures and thresholds should be fixed for a given type of assay and intended output to ensure consistency between different datasets.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이와 마찬가지로 하위 분석을 진행하기 전 생체정보 툴, 알고리즘, 관련 평가변수가 선정되어야 하고 주어진 분석법 유형, 분해물질, 최대한 실험에서 탐지하려고 한 결과에 있어서 일관성이 유지되어야 한다.",
+      "en_txt": "Likewise, bioinformatics tools, algorithms and relevant parameters should be selected prior to downstream analyses and as far as possible should be consistent for a given type of assay, analyte, and the output which the experiment is intended to detect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체의 정보처리 방법이 계속 변화고 진화하고 선택할 수 있는 툴, 자원, 분석법이 상당히 많으며 “절대기준(gold-standard)”방식이나 자원이 커뮤니티에 따라 정해지고 있으며 이러한 사항들은 작업도 설계 시 고려되어야 한다.",
+      "en_txt": "While informatics methods in genomics change and evolve continuously, and numerous choices for tools, resources, and analysis methods may be available, where “gold-standard” approaches or resources have been defined by the community, these should be considered when designing a workflow.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 및 비유전체(예. 단백질군)의 여러 연구 결과의 크로스 플랫폼 비교 및 통합을 가능하게 하는 공개적으로 이용할 수 있는 주석 자원의 활용을 매우 권장한다.",
+      "en_txt": "The use of publicly available annotation resources is highly recommended to enable cross-platform comparisons and integration of genomic and non-genomic (e.g., proteomic) results from different studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "마지막으로 투여 결정이나 연구 목적으로 유전체 데이터와 임상 또는 생물학적 데이터를 결합하는 데 사용된 알고리즘이나(결과 해석에서 연구자나 임상의가 사용한 단순한 발견적 방법 포함) 통계적 시험을 알맞게 문서로 정리해야 한다.",
+      "en_txt": "Finally, any algorithms (including simple heuristics used by a researcher or clinician in interpretation of results) or statistical tests used to combine genomic data with clinical or biological data for treatment decisions or for research purposes should be documented appropriately.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3.2 유전체 자료 처리 및 저장 여러 유형의 유전체 데이터가 생성, 처리, 분석, 저장되는 방법을 이해하는 것이 중요하다.",
+      "en_txt": "Handling and Storage of Genomic Data It is important to understand how different types of genomic data are generated, handled, analyzed and stored.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 한 장치가 1개 이상의 원자료를 생성하고 이 자료는 임상 또는 생물학적 데이터와 통합할 준비가 된 포맷으로 처리되고 전환된다.",
+      "en_txt": "In general, an instrument generates one or more raw data files, which are then processed and converted to a format ready for integration with clinical or biological data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최종 처리된 데이터셋과 함께 완전한 원자료를 유지하는 데이터 파일을 보유할 것을 권장하며 이는 작업도 문서가 포함된 분석이 가능한 추출 파일이나 원자료 파일이 될 수 있다.",
+      "en_txt": "In addition to the final processed dataset, it is recommended to retain data files that maintain the complete features of the raw data; these could be either the raw data files or derived analysis-ready files along with workflow documentation, which allows for reconstruction of the primary data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 데이터 파일은 장기적으로 저장이 가능한 보호된 매체에 저장되어야 한다.",
+      "en_txt": "Genomic data files should be stored in secured media with long-term capabilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "알맞은 경우, 현재 및 미래 사용이 가능한 기타 임상 데이터와 유전체 데이터를 연계할 수도 있다.",
+      "en_txt": "In addition, there should be a possibility to link the genomic data to other clinical data to allow for current and future use, as appropriate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 시료가 참여자 요청에 따라 폐기될 수 있는 반면 데이터 폐기는 특히 임상시험 측면에서 과학적 완결성 원칙에 위배된다.",
+      "en_txt": "Whereas genomic samples may be destroyed upon participant request, destruction of data contradicts the principles of scientific 7 integrity, particularly in the context of clinical studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "실제로 일단 데이터가 분석되고 연구 결과에 통합되면 해당 데이터는 임상시험 과학적 완결성을 해치지 않으면서 폐기할 수는 없다.",
+      "en_txt": "Indeed, once data has been analysed and incorporated in the study results, the data cannot be destroyed without jeopardizing the scientific integrity of the clinical study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 한 번 생성되고 연구에서 사용된 데이터는 유지할 것을 권장한다.",
+      "en_txt": "Therefore it is recommended to retain data once generated and used in a study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "개인정보 보호 및 기밀유지: 유전체 시료 및 데이터 처리 및 관리는 피험자 개인정보를 보호하는 상태에서 이루어져야 한다.",
+      "en_txt": "PRIVACY AND CONFIDENTIALITY: Processing and handling of genomic samples and data should be conducted in a manner that protects the subjects’ privacy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다른 임상 데이터와 마찬가지로 유전체 데이터의 경우 보안 및 접속 절차, 코딩 기술이 기밀유지에 도움이 된다.",
+      "en_txt": "For genomic data, as for other clinical data, coding techniques as well as security and access procedures help maintain confidentiality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "코딩 스킴과 접속 제한을 활용한 적절한 보안 조치를 시료 채취, 이송, 분석, 저장의 각 단계에서 실시해야 한다.",
+      "en_txt": "Appropriate security measures using coding schemata and restriction of access should be implemented at each step of sample collection, transport, analysis and storage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "각 관할구역의 데이터 보호 및 기밀유지 법령과 정책도 고려해야 한다.",
+      "en_txt": "Consideration should also be given to data protection and confidentiality legislation and policies in each jurisdiction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 및 데이터 코딩: 다른 임상 데이터와 마찬가지로 유전체 데이터는 높은 기밀유지 기준에 따라 처 리해야 한다.",
+      "en_txt": "Coding of Samples and Data: Genomic data should be treated with the same high standards of confidentiality as other clinical data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E152)는 단일 및 이중 코딩 등 유전체 시료 및 데이터 코딩을 위한 다양한 방법을 기술하고 있다.",
+      "en_txt": "ICH E152 describes various ways for coding of genomic samples and data, including single and double coding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "오류의 가능성과 복잡성을 줄이기 위해 유 전체 시료와 데이터에 대해 단일 코드가 권장되지만 지역 규정 또는 법률과 일 치해야 한다.",
+      "en_txt": "To decrease complexity and likelihood of error, single coding is recommended for genomic samples and data, but should be consistent with local regulation or legislation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH E15에 코딩 키가 삭제된 경우 피험자의 신원을 재확인하는 것 이 불가능하므로 정의된 것과 같이 익명화는 한계가 있다.",
+      "en_txt": "Anonymization, as defined in ICH E15, in which coding does not allow for subjects to be re-identified as the coding keys have been deleted, has limitations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 정보 및 분석 방법 이용가능성이 증가하고 있기 때문에 피험자 확인식별자와 고유 코드(들) 간 연계를 삭제하여 각 시험 참가자의 신원 재확인을 방지하는 것이 항상 불가 능한 것은 아니다.",
+      "en_txt": "That is because with the increasing availability of genomic information and analysis methods, it is not always possible to prevent re-identification of each study participant by deleting the link between the subjects’ identifiers and the unique code(s).",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 데이터를 처리 할 때 임상시험자와 임상시험 의뢰기관은 적용되는 개인정보 보호 및 데이터 보 호 규정 및 법률을 준수해야 한다.",
+      "en_txt": "When processing genomic data, investigators and sponsoring organizations should respect the applicable privacy and data protection regulation and legislation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "접근 및 투명성 유전체 시료 및 데이터 사용 시 사전동의에 따라 시간의 흐름에 따라 반복적인 접근을 할 수도 있다(공유 및 배포를 허용하는 광범위한 동의는 Section 5 참조).",
+      "en_txt": "Access and Transparency Use of genomic samples and data may involve repeated access, over time, in accordance with the informed consent (broad consent permitting sharing and distribution is recommended: see section 5).",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 접근은 임상시험의뢰기관 내에서 또는 임상시험의뢰기관 또는 외부 연구 자 감독 아래 협력업체 내에서 이루어질 수 있다.",
+      "en_txt": "Such access could be within the sponsoring organization, or collaborators under supervision of the sponsoring organization, or external researchers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다른 임상 데이터와 유사한 방식으로 모든 유전 체 시료 및 데이터에 대한 사용자 접근 로그를 통한 엄격한 접속 권한 관리를 보장하기 위한 시스템이 포함된 정책 및 절차를 수립해야 한다.",
+      "en_txt": "Policies and procedures involving systems to ensure strict control of access rights with user access logs for all genomic samples and data, similar to those for other clinical data, should be developed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "접근 정책 및 절차에서 데이터 품질 및 해석이 손상될 위험과 각 연구 참가자의 개인정보 침 해 위험성이 고려되어야만 한다.",
+      "en_txt": "Policies and procedures governing access should consider risks of compromising the privacy of individual study participants as well as risks of compromising data quality and interpretation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위해기반의 유전체 시료 및 데이터 접근법은 동의한 연구 기관 이외로 검체와 데이터를 공유하는 경우뿐만 아니라 동의한 연구기관 내에서도 모두 적용되어야 한다.",
+      "en_txt": "Risk-based approaches to access of genomic samples and data should be applied both within the consenting research institution as well as for external institutions with which samples and data are shared.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시료 저장, 시료 분석, 또는 데이터 저장을 위탁할 때 계약서에는 책임 당 사자가 시료 및/또는 데이터가 알맞게 보호될 수 있도록 적절한 방식으로 위탁 시설을 감독할 것이란 사실이 명시되어 있어야 한다.",
+      "en_txt": "When outsourcing sample storage, genomic analysis or data storage, contractual agreements should specify that the responsible party will supervise the outsourced facility in an appropriate manner to ensure that the samples and/or data are properly safeguarded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "공공 데이터베이스 등 제 3자와 개별 수준의 데이터를 공유하는 내용을 다루는 다양한 국가 및 지역 규정도 총체적으로 채취되어야 한다.",
+      "en_txt": "Different national and local rules that govern sharing of individual level data with third parties including public databases shall be fully complied with.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 연구 를 위한 동의는 임상시험 동의에 포함되거나 개별적으로 이루어질 수 있다.",
+      "en_txt": "Consent for genomic research may be either included in the consent for the clinical study or obtained separately.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유 전체 연구는 적용되는 지역 법률을 따르고 유전체 시료 및 데이터 수집 및 저장 을 포함하는 사전동의 범위 내에서 실시되어야 한다.",
+      "en_txt": "Genomic research has to be conducted in accordance with applicable local legislation and within the scope of informed consent, which includes collection and storage of genomic samples and data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "사전동의는 채취할 생물학 적 물질의 유형과 양, 채취 절차, 유전체 데이터 회수 위치를 간결하게 기술해야 한다.",
+      "en_txt": "The informed consent should describe, in simple language, the type and quantity of biological material to be collected, the collection procedures and the position on returning genomic data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "법적 대리인 또는 후견인 동의를 통해서만 등록이 가능한 (예, 미성 년자, 중증 치매환자) 피험자에게 구체적인 고려사항을 안내해야 한다.",
+      "en_txt": "Specific considerations should be given to subjects who can only be enrolled in the study with the consent of the subjects’ legal representatives or guardians (e.g., minors, subjects with dementia).",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 시료 채취 및 사용을 위한 사전동의는 분석 시기에 관계없이 광범위한 시료 분석을 가능하게 해야 한다(예, 유전자군, 전사체, 전장유전체 염기서열 분 석).",
+      "en_txt": "Informed consent for the collection and use of genomic samples should permit broad analysis of the samples (e.g., sets of genes, transcriptome analysis or whole genome sequencing) regardless of the timing of analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이상적으로 사전동의는 시험법 개발, 질병 연구, 약물반응 또는 약물감시와 같은 광범위한 시료 사용을 가능하도록 해야 한다.",
+      "en_txt": "Ideally, informed consent should allow for broad use of the samples, such as assay development, disease research, drug response, or pharmacovigilance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역 규정과 정책을 고려하 고 준수해야 한다.",
+      "en_txt": "Local regulations and policies should be observed and respected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "결과에 대한 소통 임상시험의 맥락에서 유전체 연구의 목적은 약물반응과 유전체의 상관성 평가, 질환 생물학에 대한 이해 도모 및/또는 약물 약리학의 기전을 이해하는 것이다.",
+      "en_txt": "COMMUNICATION OF FINDINGS Genomic research, in the context of clinical studies, aims to assess genomic correlates of drug response, to advance understanding of disease biology and/or to identify mechanisms of drug pharmacology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 연구는 때때로 의도된 연구 질문의 주요 목표에 부수하는 자료를 생성할 수 있지만, 잠재적 임상적 연관성이 있을 수 있다.",
+      "en_txt": "This research may on occasion generate data incidental to the main objective of the intended research question, but may be of potential clinical relevance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 자료 중 일부는 또한 임 상적으로 이용할 수 있다.",
+      "en_txt": "Some of these data may also be clinically actionable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예로, BRCAl 변이는 암의 위해성 시험을 목적으로 하 지 않는 연구 중 전체유전체 염기서열 분석으로 확인될 수 있다.",
+      "en_txt": "For example, BRCA1 mutations may be identified with whole genome sequencing during research that has not been intended to investigate cancer risk.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이상적으로, 해당 입장은 해당 소통의 시기(임상시험 중 또는 이후), 누가(예. 연구자, 의사, 유전상담사), 누구에게(피험자 또는 아동이나 치매 진단을 받은 피험자의 경우 1차 보호자 또 는 법적보호자) 소통할 것인지 기술해야 한다.",
+      "en_txt": "Ideally, the position would describe the timing of such communication (during or after the clinical study), by whom (e.g., investigator, physician, genetic counselor), and to whom (subjects, or the primary care giver or legal guardian in case subjects are children or subjects have been diagnosed with dementia).",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피험자에게 결과를 전달할 때 유 전적 상담의 적절성을 평가해야 하며 치료 결정에 대한 결과의 영향을 임상적으로 해석하고 피험자와(또는 1차 보호자나 법적보호자) 논의해야 한다.",
+      "en_txt": "When communicating results to subjects, the pertinence of genetic counseling should be evaluated; the impact of results on treatment decisions should be interpreted clinically and discussed with the subject (or the primary care giver or legal guardian).",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한, 결과의 정확성 및 유효성에 영향을 줄 수 있으므로 적용한 분석법 및 그 밸리데이션 수준이 감안되어야 한다.",
+      "en_txt": "In addition, the applied assay and its level of validation should be considered, as this may affect the accuracy and validity of the results.",
+      "align_score": null
+    }
+  ]
+}

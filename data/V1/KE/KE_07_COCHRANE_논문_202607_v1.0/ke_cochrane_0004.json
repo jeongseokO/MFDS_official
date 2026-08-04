@@ -1,0 +1,460 @@
+{
+  "document_id": "ke_cochrane_0004",
+  "meta": {
+    "set": "KE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000023.PUB5",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000023.pub5/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "인후염은 사람들이 진료를 받고 항생제를 처방받는 일반적인 이유이다.",
+      "en_txt": "Sore throat is a common reason for people to present for medical care and to be prescribed antibiotics.",
+      "align_score": 0.8118
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "1차 의학에서 항생제 남용이 우려되므로 인후통 치료 및 2차 합병증 예방에 대한 항생제의 효능을 확립하는 것이 중요하다.",
+      "en_txt": "Overuse of antibiotics in primary medicine is a concern, hence it is important to establish their efficacy in treating sore throat and preventing secondary complications.",
+      "align_score": 0.802
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "소아 및 성인 환자의 인후통 증상을 감소시키기 위한 항생제의 효과를 평가한다.",
+      "en_txt": "To assess the effects of antibiotics for reducing symptoms of sore throat for child and adult patients.",
+      "align_score": 0.8599
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "CENTRAL 2021, 2호, MEDLINE(1966년 1월 ~ 2021년 4월 1주차), Embase(1990년 1월 ~ 2021년 4월) 및 2개의 시험 레지스트리(2021년 4월 6일 검색)를 검색했다.",
+      "en_txt": "We searched CENTRAL 2021, Issue 2, MEDLINE (January 1966 to April week 1, 2021), Embase (January 1990 to April 2021), and two trial registries (searched 6 April 2021).",
+      "align_score": 0.9412
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "15,337건의 인후통이 있는 29건의 시험을 포함했다.",
+      "en_txt": "We included 29 trials with 15,337 cases of sore throat.",
+      "align_score": 0.8946
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "포함된 연구의 대부분은 심각한 합병증(특히 급성 류마티스열)의 발병률이 오늘날보다 훨씬 높았던 1950년대에 수행되었다.",
+      "en_txt": "The majority of included studies were conducted in the 1950s, during which time the rates of serious complications (especially acute rheumatic fever) were much higher than today.",
+      "align_score": 0.916
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "인후통 및 호흡기 증상에 대한 임상 항생제 시험이 아직 진행 중이지만 검토에 포함해야 하는 위약 또는 '무치료' 대조군을 포함하는 것은 이례적이다.",
+      "en_txt": "Although clinical antibiotic trials for sore throat and respiratory symptoms are still being conducted, it is unusual for them to include placebo or 'no treatment' control arms, which is a requirement for inclusion in the review.",
+      "align_score": 0.8609
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "참가자의 연령은 1세 미만에서 50세 이상까지 다양했지만 모든 연구에서 대부분의 참가자는 성인이었다.",
+      "en_txt": "The age of participants ranged from younger than one year to older than 50 years, but most participants across all studies were adults.",
+      "align_score": 0.9287
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "모든 연구에서 인후통 증상을 보이는 환자를 모집했지만, 그 중 세균과 바이러스 병인을 구별하는 연구는 거의 없었다.",
+      "en_txt": "Although all studies recruited patients presenting with symptoms of sore throat, few of them distinguished between bacterial and viral aetiology.",
+      "align_score": 0.8247
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "일부 연구에서는 치료 할당 절차가 명확하지 않고 눈가림이 부족하여 비뚤림이 도입되었을 수 있다.",
+      "en_txt": "Bias may have been introduced through non‐clarity in treatment allocation procedures and lack of blinding in some studies.",
+      "align_score": 0.8175
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "항생제로 인한 위해는 저조하거나 일관되지 않게 보고되었으므로 이 검토에서 정량화되지 않았다.",
+      "en_txt": "Harms from antibiotics were poorly or inconsistently reported, and were thus not quantified for this review.",
+      "align_score": 0.8244
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "1.",
+      "en_txt": "1.",
+      "align_score": 1.0
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "증상",
+      "en_txt": "Symptoms",
+      "align_score": 0.8981
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "3일째의 인후통과 두통은 항생제를 사용함으로써 감소했지만, 위약군 또는 무치료군 참가자의 82%가 1주일까지 증상이 없었다.",
+      "en_txt": "Throat soreness and headache at day three were reduced by using antibiotics, although 82% of participants in the placebo or no treatment group were symptom‐free by one week.",
+      "align_score": 0.9046
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "3일차에 인후통 증상의 감소(위험비(RR) 0.70, 95% 신뢰 구간(CI) 0.60~0.80, 16개 연구, 참가자 3,730명, 중간 정도의 확실성 근거)는 두 치료 그룹의 많은 사례가 이 시간까지 해결되었기 때문에 절대 수치(RR 0.50, 95% CI 0.34 ~ 0.75, 연구 14개, 참가자 3083명, 중간 정도의 확실성 근거)에서 1주일보다 더 컸다.",
+      "en_txt": "The reduction in sore throat symptoms at day three (risk ratio (RR) 0.70, 95% confidence interval (CI) 0.60 to 0.80; 16 studies, 3730 participants; moderate‐certainty evidence) was greater than at one week in absolute numbers (RR 0.50, 95% CI 0.34 to 0.75; 14 studies, 3083 participants; moderate‐certainty evidence) due to many cases in both treatment groups having resolved by this time.",
+      "align_score": 0.9267
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "3일차에 1개의 인후통을 예방하기 위해 추가적인 유익한 결과(NNTB)를 치료하는 데 필요한 수는 6회 미만이었다.",
+      "en_txt": "The number needed to treat for an additional beneficial outcome (NNTB) to prevent one sore throat at day three was less than six; at week one it was 18.",
+      "align_score": 0.8036
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "위약 또는 무치료에 비해 항생제는 3일째에 열을 유의하게 감소시키지 않았지만(RR 0.75, 95% CI 0.53~1.07; 8건의 연구, 1443명의 참가자, 높은 확실성 근거), 3일째에 두통을 감소시켰다(RR 0.49, 95% CI 0.34 ~ 0.70, 4건의 연구, 1020명의 참가자, 높은 확실성 근거).",
+      "en_txt": "Compared with placebo or no treatment, antibiotics did not significantly reduce fever at day three (RR 0.75, 95% CI 0.53 to 1.07; 8 studies, 1443 participants; high‐certainty evidence), but did reduce headache at day three (RR 0.49, 95% CI 0.34 to 0.70; 4 studies, 1020 participants; high‐certainty evidence).",
+      "align_score": 0.9306
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "2.",
+      "en_txt": "2.",
+      "align_score": 1.0
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "화농성 합병증의 유병률은 낮았지만 항생제는 14일 이내에 급성 중이염의 발병률을 감소시켰고(Peto odds ratio(OR) 0.21, 95% CI 0.11~0.40; 10건의 연구, 3646명의 참가자; 높은 확실성 근거) 2개월 이내 후두염(Peto OR 0.16, 95% CI 0.07~0.35, 8개의 연구, 2433명의 참가자, 높은 확실성 근거)은 위약을 받았거나 치료를 받지 않았지만 14일 이내에 급성 부비동염이 아닌 환자와 비교하였다(Peto OR 0.46, 95% CI 0.10) ~ 2.05, 8건의 연구, 2387명의 참가자, 높은 확실성 근거).",
+      "en_txt": "Whilst the prevalence of suppurative complications was low, antibiotics reduced the incidence of acute otitis media within 14 days (Peto odds ratio (OR) 0.21, 95% CI 0.11 to 0.40; 10 studies, 3646 participants; high‐certainty evidence) and quinsy within two months (Peto OR 0.16, 95% CI 0.07 to 0.35; 8 studies, 2433 participants; high‐certainty evidence) compared to those receiving placebo or no treatment, but not acute sinusitis within 14 days (Peto OR 0.46, 95% CI 0.10 to 2.05; 8 studies, 2387 participants; high‐certainty evidence).",
+      "align_score": 0.9337
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "3.",
+      "en_txt": "3.",
+      "align_score": 1.0
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "급성 사구체신염의 사례가 너무 적어 이 합병증에 대해 위약과 비교하여 항생제의 보호 효과가 있는지 여부를 판단할 수 없었다(Peto OR 0.07, 95% CI 0.00~1.32, 연구 10개, 참가자 5,147명, 근거가 낮음).",
+      "en_txt": "There were too few cases of acute glomerulonephritis to determine whether there was a protective effect of antibiotics compared with placebo against this complication (Peto OR 0.07, 95% CI 0.00 to 1.32; 10 studies, 5147 participants; low‐certainty evidence).",
+      "align_score": 0.8953
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "항생제는 대조군에 비해 2개월 이내에 급성 류마티스열을 감소시켰다(Peto OR 0.36, 95% CI 0.26~0.50, 18개 연구, 12,249명의 참가자, 중간 정도의 확실성 근거).",
+      "en_txt": "Antibiotics reduced acute rheumatic fever within two months when compared to the control group (Peto OR 0.36, 95% CI 0.26 to 0.50; 18 studies, 12,249 participants; moderate‐certainty evidence).",
+      "align_score": 0.9077
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "급성 류마티스열의 전반적인 유병률은 특히 후기 연구에서 매우 낮았다는 점에 유의해야 한다.",
+      "en_txt": "It should be noted that the overall prevalence of acute rheumatic fever was very low, particularly in the later studies.",
+      "align_score": 0.8863
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "항생제는 아마도 인후통을 경험하는 사람들의 수를 줄이고 두통 및 일부 인후통 합병증의 가능성을 줄인다.",
+      "en_txt": "Antibiotics probably reduce the number of people experiencing sore throat, and reduce the likelihood of headache, and some sore throat complications.",
+      "align_score": 0.8253
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "증상에 대한 영향이 작을 수 있으므로 임상의는 이러한 효과를 생성하기 위해 항생제를 사용하는 것이 임상적으로 정당한지 여부와 인후통의 근본 원인이 세균성 기원일 가능성이 있는지 여부를 개별적으로 판단해야 한다.",
+      "en_txt": "As the effect on symptoms can be small, clinicians must judge on an individual basis whether it is clinically justifiable to use antibiotics to produce this effect, and whether the underlying cause of the sore throat is likely to be of bacterial origin.",
+      "align_score": 0.883
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "또한, 적당한 증상 감소와 항균제 내성의 잠재적 위험 사이의 균형을 인식해야 한다.",
+      "en_txt": "Furthermore, the balance between modest symptom reduction and the potential hazards of antimicrobial resistance must be recognised.",
+      "align_score": 0.9074
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "증상의 중증도를 측정하려는 시도는 거의 없다.",
+      "en_txt": "Few trials have attempted to measure symptom severity.",
+      "align_score": 0.8013
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "항생제가 증상의 심각성과 지속 기간을 줄인다면 이 메타 분석에서 항생제의 이점이 과소 평가되었을 것이다.",
+      "en_txt": "If antibiotics reduce the severity as well as the duration of symptoms, their benefit will have been underestimated in this meta‐analysis.",
+      "align_score": 0.8696
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "또한, 저소득 국가, 고소득 국가의 사회경제적 빈곤층, 아동에 대한 더 많은 실험이 필요하다.",
+      "en_txt": "Additionally, more trials are needed in low‐income countries, in socio‐economically deprived sections of high‐income countries, as well as in children.",
+      "align_score": 0.8876
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "항생제가 증상을 치료하고 인후통과 관련된 잠재적인 합병증을 줄이는 데 효과적입니까?",
+      "en_txt": "Are antibiotics effective in treating the symptoms and reducing the potential complications associated with sore throats?",
+      "align_score": 0.8868
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "인후염은 박테리아나 바이러스에 의한 감염이다.",
+      "en_txt": "Sore throats are infections caused by bacteria or viruses.",
+      "align_score": 0.8131
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "통증이나 불편함이 가장 두드러진 특징이다.",
+      "en_txt": "Pain or discomfort is the most distinguishing feature.",
+      "align_score": 0.919
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "그러나 발열과 두통도 동반되는 흔한 증상이다.",
+      "en_txt": "However, fever and headache are also common accompanying symptoms.",
+      "align_score": 0.9306
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "일부 사람들은 합병증을 일으키지만 일반적으로 빠르게(3~4일 후) 회복된다.",
+      "en_txt": "People usually recover quickly (after three or four days), although some develop complications.",
+      "align_score": 0.8466
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "심각하지만 드문 합병증은 심장과 관절에 영향을 미치는 류마티스열이다.",
+      "en_txt": "A serious but rare complication is rheumatic fever, which affects the heart and joints.",
+      "align_score": 0.8941
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "다른 합병증으로는 부비동, 중이, 편도선 및 신장의 급성 감염이 있다.",
+      "en_txt": "Other complications include acute infection of the sinuses, middle ear, tonsils, and kidney.",
+      "align_score": 0.7996
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "항생제는 박테리아에 의한 감염을 감소시키지만 바이러스에 의한 감염은 감소시키지 않으며 설사, 발진 및 기타 부작용을 유발할 수 있다.",
+      "en_txt": "Antibiotics reduce infections caused by bacteria, but not those caused by viruses, and they can cause diarrhoea, rash, and other adverse effects.",
+      "align_score": 0.8632
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "또한 커뮤니티는 이에 대한 저항을 구축한다.",
+      "en_txt": "In addition, communities build resistance to them.",
+      "align_score": 0.8785
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "2021년 업데이트에는 15,337건의 인후통에 대한 29건의 시험이 포함되어 있다.",
+      "en_txt": "The 2021 update includes 29 trials with 15,337 cases of sore throat.",
+      "align_score": 0.913
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "포함된 모든 연구는 항생제가 인후염, 발열, 두통 또는 더 심각한 합병증의 발생을 감소시키는 데 도움이 되는지 여부를 결정하는 무작위 대조 시험(참가자를 두 개 이상의 치료 그룹 중 하나에 무작위로 할당하는 연구 유형)이었다.",
+      "en_txt": "All of the included studies were randomised controlled trials (a type of study where participants are randomly assigned to one of two or more treatment groups) that sought to determine if antibiotics helped reduce symptoms of sore throat, fever, or headache or the occurrence of more serious complications.",
+      "align_score": 0.8876
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "포함된 연구는 증상에 대한 의학적 치료를 원하는 어린이와 성인 모두를 대상으로 수행되었다.",
+      "en_txt": "The included studies were conducted in both children and adults seeking medical care for their symptoms.",
+      "align_score": 0.872
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "초기 연구의 대부분은 미군의 자금 지원을 받아 젊고 성인 남성 군인을 모집했다.",
+      "en_txt": "Many of the early studies were funded by the United States Armed Forces and recruited young, adult male military personnel.",
+      "align_score": 0.8641
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이후의 연구는 대부분 정부 연구 보조금으로 지원되었으며 소수의 민간 제약 회사가 자금을 지원했다.",
+      "en_txt": "Later studies were mostly supported by governmental research grants, with a small number funded by private pharmaceutical companies.",
+      "align_score": 0.9086
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "항생제가 발병 3일째에도 여전히 두통을 경험하는 사람들의 수를 감소시킨다는 것을 발견했다.",
+      "en_txt": "We found that antibiotics reduced the number of people still experiencing headache on the third day of illness.",
+      "align_score": 0.774
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "항생제는 3일 및 1주일 후에 인후통이 있는 사람의 수를 감소시켰을 뿐만 아니라 이 합병증이 흔한 지역사회에서 2개월 이내에 류마티스 열을 감소시켰다.",
+      "en_txt": "Antibiotics probably reduced the number of people with sore throat after three days and one week, as well as rheumatic fever within two months in communities where this complication is common.",
+      "align_score": 0.8322
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "항생제 사용에 대한 근거에 대한 확신은 인후통과 관련된 다른 유형의 합병증에 대해 낮음에서 높음까지 다양했다.",
+      "en_txt": "Our confidence in the evidence for antibiotic use varied from low to high for other types of complications associated with sore throat.",
+      "align_score": 0.8438
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "전반적으로 포함된 연구에서 얻은 근거의 확실성은 낮음에서 높음으로 나타났다.",
+      "en_txt": "Overall, the certainty of the evidence from the included studies was low to high.",
+      "align_score": 0.8624
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "그러나 검토에 포함된 최근 연구는 매우 적기 때문에 지역사회의 박테리아 내성 변화가 항생제의 효과에 영향을 미쳤을 수 있는지 여부는 불분명하다.",
+      "en_txt": "However, there were very few recent trials included in the review, hence it is unclear if changes in bacterial resistance in the community may have affected the effectiveness of antibiotics.",
+      "align_score": 0.8868
+    }
+  ]
+}

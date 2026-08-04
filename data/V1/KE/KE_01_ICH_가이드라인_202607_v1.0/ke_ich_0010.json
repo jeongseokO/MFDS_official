@@ -1,0 +1,289 @@
+{
+  "document_id": "ke_ich_0010",
+  "meta": {
+    "set": "KE",
+    "source_folder": "1",
+    "source_code": "ich",
+    "source_name": "ICH 가이드라인",
+    "orig_doc_id": "E1",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 가이드라인",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 절차 Step 4의 최종 문서는 유럽연합, 일본, 미국의 규제 당국에서 채택하도록 권고된다.",
+      "en_txt": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품의 임상개발단계에서의 안전성 평가는 의약품의 장기적 임상사용에 상응하는 적절한 기간에 걸쳐 의약품의 안전성 프로파일을 규명하고 그 정도를 측정할 수 있을 것으로 기대된다.",
+      "en_txt": "The safety evaluation during clinical drug development is expected to characterise and quantify the safety profile of a drug over a reasonable duration of time consistent with the intended long-term use of the drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러므로 이러한 목적을 달성하기 위해 필요한 자료의 규모를 결정하는데 있어 약물의 투여기간과 이상반응의 발현 시기 및 중증도의 상관성을 중요하게 고려해야 한다.",
+      "en_txt": "Thus, duration of drug exposure and its relationship to both time and magnitude of occurrence of adverse events are important considerations in determining the size of the data base necessary to achieve such goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "단기간의 이상반응 발생률(3개월간 누적 발생빈도 약 1%)은 잘 규명될 것이다.",
+      "en_txt": "It is expected that short-term event rates (cumulative 3-month incidence of about 1%) will be well characterised.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "장기간에 걸쳐 발생률이 변하는 이상반응은 그 중증도와 약물의 위험성-유익성 평가에 대한 중요도에 따라 규명할 필요가 있다.",
+      "en_txt": "Events where the rate of occurrence changes over a longer period of time may need to be characterised depending on their severity and importance to the risk-benefit assessment of the drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품의 임상개발 중의 안전성 평가에서, 드물게 발생하는 이상반응, 예를 들어, 환자 1,000 명에서 1건 미만으로 발생하는 이상반응까지 규명하는 것은 기대하지는 않는다.",
+      "en_txt": "The safety evaluation during clinical drug development is not expected to characterise rare adverse events, for example, those occurring in less than 1 in 1000 patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험의 설계는 약물과 이상반응 간의 인과관계를 판단하는데 있어 상당한 영향을 미칠 수 있다.",
+      "en_txt": "The design of the clinical studies can significantly influence the ability to make causality judgements about the relationships between the drug and adverse events.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "양성 또는 활성 대조군으로 실시한 임상시험의 경우 시험약과 대조약 간의 이상반응 발생률은 비교할 수 있지만, 시험 대상자의 자연적 발생률은 직접 평가할 수 없다.",
+      "en_txt": "Although a study with a positive or active control will allow a comparison of adverse event rates to be made between the test drug and the control drug, no direct assessment of the background event rate in the population studied can be made.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "생명에 위협을 주지 않는 질병의 장기간의 치료를 목적으로 하는 의약품의 안전성 자료를 제공하기 위하여 필요한 투여 정도와 기간을 결정하기 위해서는 일치된 허가 기준이 중요하다.",
+      "en_txt": "A harmonised regulatory standard is of value for the extent and duration of treatment needed to provide the safety data base for drugs intended for long-term treatment of non-life-threatening conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "본 가이드라인이 많은 적응증과 의약품 분류들을 포괄하고 있지만 예외는 있다.",
+      "en_txt": "Although this standard covers many indications and drug classes, there are exceptions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품의 안전성 평가에 대한 허가 기준은 약물이상반응의 발생과 이를 발견했던 기존의 경험, 특정 발현빈도의 약물이상반응을 발견할 확률에 대한 통계학적 고려, 그리고 실제적인 고려사항에 근거해야 한다.",
+      "en_txt": "Regulatory standards for the safety evaluation of drugs should be based on previous experience with the occurrence and detection of adverse drug events (ADEs), statistical considerations of the probability of detecting specified frequencies of ADEs, and practical considerations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상에서 사용하고자 하는 용량으로 6개월 동안 투여하는 환자의 수는 시간에 따른 약물이상반응 양상을 규명하는데 충분하여야 한다.",
+      "en_txt": "The number of patients treated for 6 months at dosage levels intended for clinical use, should be adequate to characterise the pattern of ADEs over time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 목적을 달성하기 위해서, 의약품에 노출된 피험자 집단은, 적절한 빈도(예 : 일반적으로 0.5%~5%)의 지연형 이상반응을 관찰할 수 있을 뿐만 아니라, 보다 빈번히 발생하는 이상반응이 시간에 따라 증가 또는 감소하는지의 여부를 관찰할 수 있을 만큼 충분해야 한다.",
+      "en_txt": "To achieve this objective the cohort of exposed subjects should be large enough to observe whether more frequently occurring events increase or decrease over time as well as to observe delayed events of reasonable frequency (e.g., in the general range of 0.5%-5%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 보통 300 ~ 600 명의 환자가 적절하다.",
+      "en_txt": "Usually 300-600 patients should be adequate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러므로 일부 환자들은 12개월 동안 약물이 투여되어야 한다.",
+      "en_txt": "Therefore, some patients should be treated with the drug for 12 months.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "투여기간과 약물이상반응의 상관성에 대해 충분한 정보가 없을경우, 1년간 추적할 특정 환자수를 선정하는 것은 대부분, 약물이상반응의빈도 수준을 발견할 확률과 실제적인 고려사항을 근거로 결정된다.",
+      "en_txt": "In the absence of more information about the relationship of ADEs to treatment duration, selection of a specific number of patients to be followed for 1 year is to a large extent a judgement based on the probability of detecting a given ADE frequency level and practical considerations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "최소 1년간 약물이 투여된 100명의 환자에서 얻은 자료는 안전성 자료의 일부로서 포함시키는데 적합하다고 생각된다.",
+      "en_txt": "100 patients exposed for a minimum of one-year is considered to be acceptable to include as part of the safety data base.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 자료는 임상에서 사용하고자 하는 용량으로 적어도 1년간 투여되도록 적절히 설계된 전향적 연구로부터 얻어진 것이어야 한다.",
+      "en_txt": "The data should come from prospective studies appropriately designed to provide at least one year exposure at dosage levels intended for clinical use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "단기간 시험을 포함하여 임상시험용 의약품이 투여된 환자의 총수는 약 1,500명으로 예상된다.",
+      "en_txt": "It is anticipated that the total number of individuals treated with the investigational drug, including short-term exposure, will be about 1500.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일본은 현재 500 ~ 1,500명의 환자수로 인정한다 ; 보다 적은 수의 환자가 인정될 수 있는 것은 시판후 사용성적조사가 요구되기 때문이며, 특정 약물에 요구되는 환자수는 약물과 약물 분류에서 이용 가능한 정보를 토대로 결정된다.",
+      "en_txt": "Japan currently accepts 500-1500 patients: the potential for a smaller number of patients is due to the post-marketing surveillance requirement, the actual number for a specific drug being determined by the information available on the drug and drug class.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상적 안전성 평가에 대해 일치된 일반 기준을 적용할 수 없는 경우도 많다.",
+      "en_txt": "There are a number of circumstances where the harmonised general standards for the clinical safety evaluation may not be applicable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 예외 사유와 그 예는 다음에 열거하였다.",
+      "en_txt": "Reasons for, and examples of, these exceptions are listed below.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "예외",
+      "en_txt": "Exceptions",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지연형 약물이상반응(late developing ADEs)이나 시간에 따라 그 중증도나 빈도가 증가하는 약물이상반응을 일으킬우려가 있는 약물의 경우, 보다 많은 그리고/또는 보다 장기간의 안전성 자료가 요구될 수있다.",
+      "en_txt": "Instances where there is concern that the drug will cause late developing ADEs, or cause ADEs that increase in severity or frequency over time, would require a larger and/or longer-term safety data base.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "(1) 동물시험 자료 (2) 유사 화학 구조를 갖는 다른 성분이나 유사한 약효군의 임상 정보 (3) 해당 약물이상반응과 관련이 있다고 알려진 약동학 또는 약력학적 특성",
+      "en_txt": "The concern could arise from: (1) data from animal studies; (2) clinical information from other agents with related chemical structures or from a related pharmacologic class; (3) pharmacokinetic or pharmacodynamic properties known to be associated with such ADEs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "심각한 특정 약물이상반응이 유사 약물에서 확인되었거나 초기 임상시험에서 경고 반응으로 나타날 수 있는 중대한 반응이 관찰된 경우가 그 예이다.",
+      "en_txt": "Examples would include situations where a specific serious ADE has been identified in similar drugs or where a serious event that could represent an alert event is observed in early clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "해당 약물로부터 얻는 유익성이 (1) 작거나 (예 : 심각하지 않은 의학적 상황에서 증상의 개선) (2) 투여한 환자의 일부에서만 나타나거나 (예 : 건강한 사람의 예방적 처치) (3) 명확하지 않은 (예: 대리평가변수에 대한 유효성 평가) 경우에는 위험성/유익성 평가를 위하여 보다 대규모의 안전성 자료가 필요할 수 있다.",
+      "en_txt": "Larger safety data bases may be needed to make risk/benefit decisions in situations where the benefit from the drug is either (1) small (e.g., symptomatic improvement in less serious medical conditions) or (2) will be experienced by only a fraction of the treated patients (e.g., certain preventive therapies administered to healthy populations) or (3) is of uncertain magnitude (e.g., efficacy determination on a surrogate endpoint).",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물이 이미 유의적으로 배경 이환율 또는 사망률을 증가시킬 우려가 있는 경우, 임상시험은 기저 이환율 또는 사망률 대비 미리 규정된 증가를 관찰할 수 있을 정도의 검정력을 제공하기 위해 충분한 환자수로 설계될 필요가 있다.",
+      "en_txt": "In situations where there is concern that a drug may add to an already significant background rate of morbidity or mortality, clinical trials may need to be designed with a sufficient number of patients to provide adequate statistical power to detect prespecified increases over the baseline morbidity or mortality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "어떤 경우에는 보다 적은 수의 환자로도 가능한 경우가 있는데 예를 들면, 투여 대상 환자군이 작은 경우이다.",
+      "en_txt": "In some cases, a smaller number of patients may be acceptable, for example, where the intended treatment population is small.",
+      "align_score": null
+    }
+  ]
+}

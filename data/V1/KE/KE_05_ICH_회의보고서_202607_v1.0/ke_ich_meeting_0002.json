@@ -1,0 +1,602 @@
+{
+  "document_id": "ke_ich_meeting_0002",
+  "meta": {
+    "set": "KE",
+    "source_folder": "3",
+    "source_code": "ich_meeting",
+    "source_name": "ICH 미팅보고서",
+    "orig_doc_id": "11_하반기_ICH회의보고서",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 미팅보고서",
+    "title_ko": "2011년 하반기 의약품국제조화회의(ICH) 참석 결과 보고(요약)",
+    "title_en": "ICH Meeting Report for 2nd Half of 2011 [Summary]",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": null,
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 0,
+      "type": "title",
+      "section": null,
+      "path": {
+        "ko": [],
+        "en": []
+      },
+      "ko_txt": "2011년 하반기 의약품국제조화회의(ICH) 참석 결과 보고(요약)",
+      "en_txt": "ICH Meeting Report for 2nd Half of 2011 [Summary]",
+      "align_score": null
+    },
+    {
+      "seg_id": 1,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": "회의개요",
+      "en_txt": "Meeting Overview",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": {
+        "ICH": [
+          {
+            "key": "일정",
+            "value": "’11. 11. 06(일) ～ 11. 10(목)"
+          },
+          {
+            "key": "장소",
+            "value": "스페인(세비야)"
+          }
+        ],
+        "우리처 대표단": [
+          {
+            "key": "ICH-GCG 한국대표",
+            "value": "이선희 부장(의약품심사부)"
+          },
+          {
+            "key": "전문가위원회 대표(Q3D)",
+            "value": "김은경 연구관(의약품기준과)"
+          }
+        ]
+      },
+      "en_txt": {
+        "ICH": [
+          {
+            "key": "Date",
+            "value": "Nov. 6(Sun) - 10(Thu), 2011"
+          },
+          {
+            "key": "Location",
+            "value": "Spain (Seville)"
+          }
+        ],
+        "KFDA Representatives": [
+          {
+            "key": "ICH-GCG Korean representative",
+            "value": "Sun Hee Lee, Director General (Drug Evaluation Department)"
+          },
+          {
+            "key": "EWG representative",
+            "value": "Eun Kyung Kim, Deputy Director (Pharmaceutical Standardization Division)"
+          }
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용"
+        ],
+        "en": [
+          "Meeting Summary"
+        ]
+      },
+      "ko_txt": "주요내용",
+      "en_txt": "Meeting Summary",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리청 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "KFDA Regulatory Updates"
+        ]
+      },
+      "ko_txt": "우리청 활동",
+      "en_txt": "KFDA Regulatory Updates",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리청 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "KFDA Regulatory Updates"
+        ]
+      },
+      "ko_txt": "2011년 APEC 규제조화센터 활동 및 향후 계획을 보고하였고, 필요한 교육훈련 분야에 대하여 ICH 운영위원회에 요청하기로 함",
+      "en_txt": "Reported AHC activities and future plans in 2011 and planed to request needed training topics to ICH Steering Committee",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리청 활동",
+          "2011년 APEC 규제조화센터 활동 및 향후 계획을 보고하였고, 필요한 교육훈련 분야에 대하여 ICH 운영위원회에 요청하기로 함"
+        ],
+        "en": [
+          "Meeting Summary",
+          "KFDA Regulatory Updates",
+          "Reported AHC activities and future plans in 2011 and planed to request needed training topics to ICH Steering Committee"
+        ]
+      },
+      "ko_txt": "ICH Q8/Q9/Q10 가이드라인에 대한 워크숍(‘11.4, 한국), 한·중·일 다지역임상시험(MRCT) 공동 워크숍(’11.11, 일본) 개최 성과 보고",
+      "en_txt": "Reported the results of AHC-ICH Official Integrated Implementation Training Workshop for ICH Q8, 9, 10 (Korea, April 2011), Multi-Regional Clinical Trial Workshop (Japan, Nov. 2011)",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "우리청 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "KFDA Regulatory Updates"
+        ]
+      },
+      "ko_txt": "ICH Q3D Metal impurities EWG 회의에 참석하여 가이드라인 초안(pre-step2) 마련에 동참하였고, 향후 국내 의견수렴 예정임",
+      "en_txt": "Participated in Q3D (Metal Impurities) EWG meeting, and the guideline will be reached to Step 2 and public consultation will be conducted in each region including Korea",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues"
+        ]
+      },
+      "ko_txt": "주요 논의 내용",
+      "en_txt": "Main Issues",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "GCP 가이드라인(E6) 실행에 필요한 세부 지침 마련"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Guidance for the implementation of GCP Guideline (E6)"
+        ]
+      },
+      "ko_txt": "GCP 가이드라인(E6) 실행에 필요한 세부 지침 마련",
+      "en_txt": "Guidance for the implementation of GCP Guideline (E6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "GCP 가이드라인(E6) 실행에 필요한 세부 지침 마련"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Guidance for the implementation of GCP Guideline (E6)"
+        ]
+      },
+      "ko_txt": "일본 후생성이 각 정부기관 GCP 담당 contact point 명단 취합, GCP 실태조사 세부지침(안)을 공유하기로 함",
+      "en_txt": "MHLW will make a list of contact point of GCP experts in each regulatory agency and share GCP Inspection Guidance (draft)",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "GMP 실태조사 사전 알림제도"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "GMP Inspection Pre-Announcement"
+        ]
+      },
+      "ko_txt": "GMP 실태조사 사전 알림제도",
+      "en_txt": "GMP Inspection Pre-Announcement",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "GMP 실태조사 사전 알림제도"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "GMP Inspection Pre-Announcement"
+        ]
+      },
+      "ko_txt": "유럽 EMA가 각 정부기관 GMP 실태조사담당 contact point 명단 취합, 공유키로 함",
+      "en_txt": "EMA will make and share a list of contact point of GMP inspection staff in each regulatory agency",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "각국 안전성 조치 근거 정보 교환(우리청 제안 과제)"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Safety Information Exchange Network (Proposed by KFDA)"
+        ]
+      },
+      "ko_txt": "각국 안전성 조치 근거 정보 교환(우리청 제안 과제)",
+      "en_txt": "Safety Information Exchange Network (Proposed by KFDA)",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "각국 안전성 조치 근거 정보 교환(우리청 제안 과제)"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Safety Information Exchange Network (Proposed by KFDA)"
+        ]
+      },
+      "ko_txt": "각 정부기관 contact point 명단 초안을 공유하였으며, 올해 말까지 일본에서 취합, 공유하기로 함",
+      "en_txt": "Shared a list of contact points of each regulatory agency and Japan will finalize and share the list",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "각국 GRP 정보 공유"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Information Sharing of GRP"
+        ]
+      },
+      "ko_txt": "각국 GRP 정보 공유",
+      "en_txt": "Information Sharing of GRP",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "각국 GRP 정보 공유"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Information Sharing of GRP"
+        ]
+      },
+      "ko_txt": "심사결과서 양식(format)은 공유하되, 각 국별 허가심사 환경 차이로 인해 심사결과보고서 공개 범위의 표준화는 어렵다고 결론",
+      "en_txt": "Agreed to share a format of review report, but it would be difficult to standardize how much the report can go public due to different condition for reviewing in each country",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "세포치료 및 유전자 치료제 토의 그룹 운영"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Cell Therapy and Gene Therapy Discussion Groups (CTDG)"
+        ]
+      },
+      "ko_txt": "세포치료 및 유전자 치료제 토의 그룹 운영",
+      "en_txt": "Cell Therapy and Gene Therapy Discussion Groups (CTDG)",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "세포치료 및 유전자 치료제 토의 그룹 운영"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Cell Therapy and Gene Therapy Discussion Groups (CTDG)"
+        ]
+      },
+      "ko_txt": "미국 FDA 주관 세포치료제 토의그룹 활동을 다음 ICH 회의에서 보고하기로 함",
+      "en_txt": "FDA will update Cell Therapy Working Group activities as a chair",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "note",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "세포치료 및 유전자 치료제 토의 그룹 운영"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Cell Therapy and Gene Therapy Discussion Groups (CTDG)"
+        ]
+      },
+      "ko_txt": "우리청도 첨단제제과장 참여",
+      "en_txt": "Director of Advanced Therapy Products Division participates in CTDG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "세포치료 및 유전자 치료제 토의 그룹 운영"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Cell Therapy and Gene Therapy Discussion Groups (CTDG)"
+        ]
+      },
+      "ko_txt": "유전자치료분야의 국제협력 확대를 위하여 기존 ICH GTDG(Gene therapy discussion group)의 구성 범위 확대 제안(미FDA)",
+      "en_txt": "FDA suggested to expand the scope of participation in Gene Therapy Discussion Group (GTDG) for improving international cooperation in gene therapy area",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "각국 의약품 규제관련 동향"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Pharmaceutical Regulatory Updates"
+        ]
+      },
+      "ko_txt": "각국 의약품 규제관련 동향",
+      "en_txt": "Pharmaceutical Regulatory Updates",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "각국 의약품 규제관련 동향"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Pharmaceutical Regulatory Updates"
+        ]
+      },
+      "ko_txt": "Health Canada : 제네릭의약품 심사 국제조화를 위한 국제협력 컨소시움 참여 제안",
+      "en_txt": "Health Canada: Suggested the participation in International Generic Drug Regulators Pilot (IGDRP)",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "각국 의약품 규제관련 동향"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Pharmaceutical Regulatory Updates"
+        ]
+      },
+      "ko_txt": "미국 FDA : 의약품 안전성·품질 확보를 위해 수입의약품 검사 강화 계획을 발표",
+      "en_txt": "FDA : Presented a plan for strengthening inspection on imported drugs to ensure drug safety and quality",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "각국 의약품 규제관련 동향"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Pharmaceutical Regulatory Updates"
+        ]
+      },
+      "ko_txt": "일본 : 규제과학(Regulatory science)측면에서 규제당국의 역할 및 한·중·일 다지역임상연구 공동 추진 등의 발표 논문 보고",
+      "en_txt": "Japan: Presented the roles of regulatory agencies in terms of regulatory science and reported published papers including tripartite MRCT (Korea-China-Japan)",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "전문가위원회"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Expert Working Groups"
+        ]
+      },
+      "ko_txt": "전문가위원회",
+      "en_txt": "Expert Working Groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "전문가위원회"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Expert Working Groups"
+        ]
+      },
+      "ko_txt": "ICH Q3D Metal impurities 전문가위원회 회의에 참석하여 가이드라인 초안(pre-step2) 마련에 동참하였고, 향후 국내 의견수렴 예정임",
+      "en_txt": "Participated in Q3D (Metal Impurities) EWG meeting, and the guideline will be reached to Step 2 and public consultation will be conducted in each region including Korea",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "주요 논의 내용",
+          "전문가위원회"
+        ],
+        "en": [
+          "Meeting Summary",
+          "Main Issues",
+          "Expert Working Groups"
+        ]
+      },
+      "ko_txt": "ICH S10 Photosafety evaluation(광안전성 평가) 가이드라인 개발 현황 정보 입수",
+      "en_txt": "Collected information on the development status of ICH S10 Guideline: Photosafety evaluation",
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "document_id": "ke_law_0001",
+  "meta": {
+    "set": "KE",
+    "source_folder": "2",
+    "source_code": "law",
+    "source_name": "법령",
+    "orig_doc_id": "ACT ON REGULATORY SCIENCE INNOVATION FOR SUPPORTING FOOD AND DRUG SAFETY AND COMMERCIALIZATION (1)",
+    "category_l1": "규제·지침",
+    "category_l2": "법령·고시",
+    "category_l3": "법령",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "「식품ㆍ의약품 등의 안전 및 제품화 지원에 관한 규제과학혁신법」(이하 “법”이라 한다) 제2조제1호카목에서 “대통령령으로 정하는 것”이란 다음 각 호의 어느 하나에 해당하는 것을 말한다.",
+      "en_txt": "“Others prescribed by Presidential Decree” in subparagraph 1 (k) of Article 2 of the  (hereinafter referred to as the \"Act\") means either of the following:",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「실험동물에 관한 법률」 제2조제2호에 따른 실험동물",
+      "en_txt": "1. Laboratory animals defined in subparagraph 2 of Article 2 of the Laboratory Animal Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「인체조직안전 및 관리 등에 관한 법률」 제3조제1호에 따른 인체조직",
+      "en_txt": "2. Human tissues defined in subparagraph 1 of Article 3 of the Safety and Management of Human Tissue Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식품의약품안전처장은 법 제5조제1항에 따른 규제과학혁신을 위한 기본 계획(이하 “기본계획”이라 한다)을 수립한 경우에는 관계 중앙행정기관의 장에게 통보하고, 식품의약품안전처 인터 넷 홈페이지 등에 그 내용을 게시해야 한다.",
+      "en_txt": "If the Minister of Food and Drug Safety formulates a master plan for regulatory science innovation under Article 5 (1) of the Act (hereinafter referred to as \"master plan\"), he or she shall notify the heads of relevant central administrative agencies thereof and post the details thereof on the website, etc. of the Ministry of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 법 제5조제4항에 따른 연도별 시행계획(이하 “시행계획”이라 한다)을 수립하는 경우에는 법 제6조제1항에 따른 식품ㆍ의약품규제과학혁신위원회의 심의를 거쳐야 한다.",
+      "en_txt": "(1) If the Minister of Food and Drug Safety formulates an annual action plan under Article 5 (4) of the Act (hereinafter referred to as “action plan”), he or she shall submit it for deliberation by the Regulatory Science Innovation Committee for Foods and Drugs under Article 6 (1) of the Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 시행계획에는 다음 각 호의 사항이 포함되어야 한다.",
+      "en_txt": "(2) An action plan shall include the following matters:",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 규제과학혁신을 위한 연도별ㆍ분야별 추진방향 및 추진전략",
+      "en_txt": "1. Directions for the promotion of regulatory science innovation by year and by field and strategies therefor;",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 규제과학혁신을 위한 연도별ㆍ분야별 세부과제 및 추진방안",
+      "en_txt": "2. Detailed tasks and action plans by year and by field for regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 법 제7조제1항에 따른 연구개발사업(이하 “연구개발사업”이라 한다)에 대한 투자계획",
+      "en_txt": "3. Investment plans for a research and development program under Article 7 (1) of the Act (hereinafter referred to as \"research and development program\");",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 연구개발사업의 추진을 위한 관계 기관 간 협조에 관한 사항",
+      "en_txt": "4. Matters regarding cooperation among relevant agencies for promoting research and development programs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 그 밖에 기본계획의 시행을 위하여 식품의약품안전처장이 필요하다고 인정하는 사항",
+      "en_txt": "5. Other matters deemed necessary by the Minister of Food and Drug Safety to implement a master plan.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 시행계획을 수립하기 위하여 필요한 경우에는 관계 중앙행정기관의 장, 지방자치단체의 장, 기업ㆍ교육기관ㆍ연구기관의 장, 규제과학혁신 관련 기관ㆍ단체의 장에게 필요한 자료의 제출 등 협조를 요청 할 수 있다.",
+      "en_txt": "(3) If necessary to formulate an action plan, the Minister of Food and Drug Safety may request the heads of relevant  central  administrative  agencies,  the  heads  of  local  governments,  the  heads  of  enterprises, educational institutions, research institutes, and the heads of institutions and organizations related to regulatory science innovation to provide cooperation, such as submission of necessary data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제1항부터 제3항까지에서 규정한 사항 외에 시행계획의 수립 및 시행에 필요한 세부사항은 식품의약품안전처장 이 정한다.",
+      "en_txt": "(4) Except as provided in paragraphs (1) through (3), details necessary for formulating and implementing action plans shall be determined by the Minister of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 법 제6조제1항에 따른 식품ㆍ의약품규제과학혁신위원회(이하 “위 원회”라 한다)는 위원장 1명을 포함한 30명 이내의 위원으로 구성한다.",
+      "en_txt": "(1) The Regulatory Science Innovation Committee for Foods and Drugs under Article 6 (1) of the Act (hereinafter referred to as the \"Committee\") shall be comprised of up to 30 members, including one chairperson.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 위원회의 위원장은 식품의약품안전처장이 되며, 위원회의 위원은 다음 각 호의 사람이 된다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety shall serve as the chairperson of the Committee, and the following persons shall serve as members of the Committee:",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 식품의약품안전처 소속의 고위공무원단에 속하는 공무원 중에서 식품의약품안전처장이 지정하는 직위에 있는 사람",
+      "en_txt": "1. Persons in a position designated by the Minister of Food and Drug Safety from among public officials belonging to the Senior Executive Service of the Ministry of Food and Drug Safety;",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 식품ㆍ의약품 등의 규제과학(이하 “규제과학”이라 한다) 또는 규제과학혁신에 관한 학식과 경험이 풍부한 사람 중에서 식품의약품안전처장이 성별을 고려하여 위촉하는 사람",
+      "en_txt": "2. Persons commissioned by the Minister of Food and Drug Safety in consideration of gender, from among persons with extensive knowledge of and experience in regulatory science (hereinafter referred to as \"regulatory science\") or regulatory science innovation of innovation of food, drugs, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제5조제2항제2호에 따라 위촉된 위원(이하 “위촉위원”이라 한다)의 임기는 2년으로 한다. 다만, 위 촉위원의 사임 등으로 새로 위촉된 위원의 임기는 전임위원 임기의 남은 기간으로 한다.",
+      "en_txt": "The term of office of a member commissioned pursuant to Article 5 (2) 2 (hereinafter referred to as \"commissioned member\") shall be two years: Provided, That the term of office of a member newly commissioned due to the resignation, etc. of a commissioned member shall be the remainder of his or her predecessor's term of office.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식품의약품안전처장은 위촉위원이 다음 각 호의 어느 하나에 해당하는 경우에는 해당 위원을 해촉 (解囑)할 수 있다.",
+      "en_txt": "If a commissioned member of the Committee falls under any of the following cases, the Minister of Food and Drug Safety may dismiss the relevant member:",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 심신쇠약으로 직무를 수행할 수 없게 된 경우",
+      "en_txt": "1. Where he or she becomes incapable of performing his or her duties due to mental or physical disability;",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 직무와 관련된 비위 사실이 있는 경우",
+      "en_txt": "2. Where he or she engages in misconduct in relation to his or her duties;",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 직무태만, 품위손상이나 그 밖의 사유로 위원으로 적합하지 않다고 인정되는 경우",
+      "en_txt": "3. Where he or she is found unfit for office due to delinquency of duties, injury to dignity, or any other reason;",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제8조제1항 각 호의 어느 하나에 해당함에도 불구하고 회피(回避)하지 않은 경우",
+      "en_txt": "4. Where he or she fails to recuse himself or herself from participating in deliberation and resolution despite falling under any subparagraph of Article 8 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 위원회의 위원이 다음 각 호의 어느 하나에 해당하는 경우에는 위원회의 심의ㆍ의 결에서 제척(除斥)된다.",
+      "en_txt": "5. Where he or she voluntarily indicates that it is impracticable to perform his or her duties. Article 8 (Exclusion of, Challenge to, or Recusal of Members) (1) Where a member of the Committee falls under any of the following cases, he or she shall be excluded from deliberation and resolution by the Committee:",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 위원 또는 그 배우자나 배우자였던 사람이 해당 안건의 당사자(당사자가 법인ㆍ단체 등인 경우에는 그 임원을 포 함한다. 이하 이 호 및 제2호에서 같다)가 되거나 그 안건의 당사자와 공동권리자 또는 공동의무자인 경우",
+      "en_txt": "1. Where a member, or his or her spouse or his or her former spouse is a party to the relevant agenda item (including the executive officer or employee thereof if the party is a corporation, organization, etc.; hereinafter the same shall apply in this subparagraph and subparagraph 2), or is a party and joint holder of rights or joint obligor of the agenda item;",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 위원이 해당 안건의 당사자와 친족이거나 친족이었던 경우",
+      "en_txt": "2. Where a member is or was in a relative of a party to the relevant agenda item;",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 위원이나 위원이 속한 법인ㆍ단체 등이 해당 안건에 대하여 증언, 진술, 자문, 연구, 용역 또는 감정(鑑定)을 한 경 우",
+      "en_txt": "3. Where a member or any corporation, organization, etc. to which a member belongs has given testimony, made a statement, consulted on, researched, provided services for, or appraised, the relevant agenda item;",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 위원이나 위원이 속한 법인ㆍ단체 등이 해당 안건의 당사자의 대리인이거나 대리인이었던 경우",
+      "en_txt": "4. Where a member or the corporation, organization, etc. to which the member belongs is or was an agent for a party to the relevant agenda item;",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 위원이 해당 안건의 당사자인 법인ㆍ단체 등에서 최근 3년 이내에 임원 또는 직원으로 재직했던 경우",
+      "en_txt": "5. Where a member has served in the corporation, organization, etc. that is a party to the relevant agenda item as an executive officer or employee thereof during the latest three years;",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 당사자는 위원회의 위원에게 제1항에 따른 제척 사유가 있거나 공정한 심의ㆍ의결을 기대하기 어려운 사정이 있 는 경우에는 위원회에 기피(忌避) 신청을 할 수 있고, 위원회는 의결로 기피 여부를 결정한다. 이 경우 기피 신청의 대상인 위원은 그 의결에 참여하지 못한다.",
+      "en_txt": "(2) Where any ground for exclusion referred to in paragraph (1) exists with respect to a member, or the circumstances indicate that it would be impracticable to expect a fair deliberation or resolution from a member, any party may file a challenge with the Committee, and the Committee shall make a determination on the challenge by its resolution. In such cases, the member to whom a challenge is made shall not participate in the resolution on the relevant case.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 위원회의 위원은 제1항 또는 제2항의 사유에 해당하는 경우에는 스스로 해당 안건의 심의ㆍ의결에서 회피해야 한다.",
+      "en_txt": "(3) Where a member of the Committee falls under any of the grounds referred to in paragraph (1) or (2), he or she shall recuse himself or herself from deliberation or resolution on the relevant agenda item.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 위원장은 위원회를 대표하고, 위원회의 업무를 총괄한다.",
+      "en_txt": "(1) The chairperson shall represent the Committee and have general supervision and control of its business affairs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 위원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 위원장이 미리 지명한 위원이 그 직무를 대행한다.",
+      "en_txt": "(2) When the chairperson is unable to perform his or her duties in unavoidable circumstances, a member of the Committee pre-nominated by the chairperson shall act on his or her behalf.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 위원회의 회의는 위원장이 필요하다고 인정하는 경우에 소집한다.",
+      "en_txt": "(1) Meetings of the Committee shall be convened as deemed necessary by the chairperson.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 위원회의 회의는 재적위원 과반수의 출석으로 개의(開議)하고, 출석위원 과반수의 찬성으로 의결한다.",
+      "en_txt": "(2) A majority of the members of the Committee shall constitute a quorum, and any resolution thereof shall require the concurring vote of a majority of those present.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 위원회는 위원회의 업무를 효율적으로 수행하기 위하여 필요하다고 인정하는 경우 에는 위원회에 전문 분야별로 분과위원회를 둘 수 있다.",
+      "en_txt": "(1) The Committee may establish subcommittees for each specialized field within the Committee, as deemed necessary to efficiently perform its business affairs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 위원회는 위원회의 심의 사항에 대한 전문적인 조사ㆍ연구를 위하여 필요하다고 인정하는 경우에는 위원회에 5명 이내의 연구위원을 둘 수 있다.",
+      "en_txt": "(2) The Committee may have up to five research members in the Committee, as deemed necessary for specialized surveys and research on matters to be deliberated upon by the Committee.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제2항에 따른 연구위원은 규제과학 또는 규제과학혁신 분야에 관한 전문 지식을 갖춘 사람 중에서 식품의약품안 전처장이 임명한다.",
+      "en_txt": "(3) Research members under paragraph (2) shall be appointed by the Minister of Food and Drug Safety from among persons with expertise in the field of regulatory science or regulatory science innovation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위원장은 위원회의 효율적 심의를 위하여 필요하다고 인정하는 경우에는 관계 기관의 공무원 또 는 전문가 등을 회의에 출석하게 하여 의견을 들을 수 있다.",
+      "en_txt": "If the chairperson deems it necessary for the efficient deliberation of the Committee, he or she may have public officials of relevant agencies, experts, etc. attend a meeting to hear their opinions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 위원회의 사무를 처리하기 위하여 위원회에 간사 1명을 둔다.",
+      "en_txt": "(1) One administrative secretary shall be appointed to process the business affairs of the Committee.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 간사는 식품의약품안전처 소속 공무원 중에서 식품의약품안전처장이 지명한다.",
+      "en_txt": "(2) The administrative secretary shall be appointed by the Minister of Food and Drug Safety from among public officials of the Ministry of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위원회 또는 분과위원회에 출석하거나 안건을 검토한 위원회 및 분과위원회의 위원 등에게는 예산의 범위에서 수당과 여비를 지급할 수 있다. 다만, 공무원이 소관 업무와 직접적으로 관련되어 위원회에 출석하거나 안 건을 검토한 경우에는 그렇지 않다.",
+      "en_txt": "Allowances and travel expenses may be paid to members, etc. of the Committee or subcommittee who attend a meeting of the Committee or subcommittee or review agenda items, within the budget: Provided, That this shall not apply where a public official attends a meeting of the Committee or reviews agenda items in direct connection with his or her business affairs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제5조부터 제14조까지에서 규정한 사항 외에 위원회 및 분과위원회의 구성ㆍ운영 등에 필요한 사항 은 위원회의 의결을 거쳐 위원장이 정한다.",
+      "en_txt": "Except as provided in Articles 5 through 14, matters necessary for the composition, operation, etc. of the Committee and subcommittees shall be determined by the chairperson following a resolution by the Committee.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 법 제7조제2항 각 호 외의 부분 전단에 따라 연도별ㆍ분야별 연구과제(이하 “연구과제”라 한다)를 선정할 때에는 「국가연구개발혁신법」 제14조제1항에 따른 연 구개발과제평가단을 구성하여 같은 법 제10조제2항에 따른 평가를 실시해야 한다.",
+      "en_txt": "(1) When the Minister of Food and Drug Safety selects research tasks by year and by field under the former part, with the exception of the subparagraphs, of Article 7 (2) of the Act (hereinafter referred to as \"research task\"), the Minister shall organize an evaluation group of a research and development task under Article 14 (1) of the  National Research and Development Innovation Act and conduct an evaluation under Article 10 (2) of that Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 법 제7조제2항에 따른 협약에는 다음 각 호의 사항이 포함되어야 한다.",
+      "en_txt": "(2) Meeting minutes prepared under Article 7 (2) of the Act shall contain the following matters:",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 연구과제의 범위, 수행방법 및 연구책임자에 관한 사항",
+      "en_txt": "1. Matters regarding the scope of research tasks, methods of performing research tasks, and research directors;",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 연구개발비의 지급방법 및 사용ㆍ관리에 관한 사항",
+      "en_txt": "2. Matters regarding the payment method, use, and management of research and development expenses;",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 연구과제 수행 결과의 보고에 관한 사항",
+      "en_txt": "3. Matters regarding reporting on results of performing research tasks;",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 연구개발사업 성과의 귀속 및 활용에 관한 사항",
+      "en_txt": "4. Matters regarding vesting and utilizing the outcomes of research and development programs;",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 연구개발사업 성과의 평가 및 그에 따른 조치에 관한 사항",
+      "en_txt": "5. Matters regarding the evaluation of outcomes of research and development programs and measures therefor;",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 연구윤리의 준수에 관한 사항",
+      "en_txt": "6. Matters regarding compliance with research ethics;",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 협약의 변경 및 해약에 관한 사항",
+      "en_txt": "7. Matters regarding changing or canceling agreements;",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "8. 그 밖에 연구과제의 수행에 수반되는 사항",
+      "en_txt": "8. Other matters incidental to performing research tasks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항 및 제2항에서 규정한 사항 외에 연구과제의 선정 및 협약의 체결 방법에 관하여 필요한 사항은 총리령으 로 정한다.",
+      "en_txt": "(3) Except as provided in paragraphs (1) and (2), matters necessary for the methods of selecting research tasks and executing agreements shall be prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 법 제7조제2항제5호에서 “대통령령으로 정하는 기준에 해당하는 기업부설연구 소”란 다음 각 호의 기준을 모두 갖춘 기업부설연구소를 말한다.",
+      "en_txt": "(1) “Company-affiliated research institute that satisfies the standards prescribed by Presidential Decree” in Article 7 (2) 5 of the Act means a company-affiliated research institute meeting all of the following standards:",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「기초연구진흥 및 기술개발지원에 관한 법률」 제14조의2제1항에 따라 과학기술정보통신부장관이 인정한 기업 부설연구소일 것",
+      "en_txt": "1. It shall be a company-affiliated research institute recognized by the Minister of Science and ICT under Article 14-2 (1) of the Basic Research Promotion And Technology Development Support Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 규제과학 또는 규제과학혁신 분야의 연구인력을 5명 이상 갖출 것. 이 경우 해당 분야의 연구경력이 3년 이상인 사람이 2명 이상 포함되어야 한다.",
+      "en_txt": "2. It shall have at least five researchers in the field of regulatory science or regulatory science innovation. In such cases, at least two persons with at least three years of research experience in the relevant field shall be included therein.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 법 제7조제2항제6호에서 “대통령령으로 정하는 기준에 해당하는 연구기관”이란 제1항제2호에 따른 기준을 갖춘 연구기관을 말한다.",
+      "en_txt": "(2) “Research institute that satisfies the standards prescribed by Presidential Decree” in Article 7 (2) 6 of the Act means a research institute meeting the standards prescribed in paragraph (1) 2 of this Article.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 법 제7조제2항제7호에서 “대통령령으로 정하는 기준에 해당하는 연구기관 또는 단체”란 제1항제2호에 따른 기 준을 갖춘 연구기관 또는 단체를 말한다.",
+      "en_txt": "(3) “Research institutes or organizations ... that satisfy the requirements prescribed by Presidential Decree” in Article 7 (2) 7 of the Act means research institutes or organizations that meet the standards prescribed in paragraph (1) 2 of this Article.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 법 제7조제4항 각 호 외의 부분에서 “대통령령으로 정 하는 기관 또는 단체”란 다음 각 호의 어느 하나에 해당하는 기관 또는 단체(이하 “전문기관”이라 한다)를 말한다.",
+      "en_txt": "(1) “Institution or organization prescribed by Presidential Decree” in the provisions, with the exception of the subparagraphs, of Article 7 (4) of the Act means any of the following  institutions or organizations (hereinafter referred to as \"specialized institution\"):",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「공공기관의 운영에 관한 법률」 제4조에 따른 공공기관",
+      "en_txt": "1. A public institution under Article 4 of the Act on the Management of Public Institutions;",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「민법」이나 다른 법률에 따라 설립된 법인으로서 규제과학 또는 규제과학혁신 분야와 관련되는 업무를 수행하는 법인",
+      "en_txt": "2. A corporation incorporated pursuant to the Civil Act or other statutes, which performs business affairs related to regulatory science or regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 다른 법률에 따라 설립된 기관 중 국가연구개발사업의 기획ㆍ관리ㆍ평가 등을 지원하는 기관",
+      "en_txt": "3. An institution supporting the planning, management, evaluation, etc. of national research and development programs among institutions established under other statutes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 법 제7조제4항에 따라 업무를 대행하는 전문기관에 그 업무 대행에 필요한 경비를 지원 할 수 있다.",
+      "en_txt": "(2) The Minister of Food and Drug Safety may provide subsidies to cover expenses incurred by a specialized institution in performing business affairs on his or her behalf under Article 7 (4) of the Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 법 제8조제1항에 따른 출연금을 연구과제의 규모, 연구 의 착수 시기 및 정부의 재정 여건 등을 고려하여 연구개발기관에 한꺼번에 또는 분할하여 지급할 수 있다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety may pay contributions under Article 8 (1) of the Act to research and development institutes in a lump sum or in installments, taking into consideration the scale of research tasks, timing for commencing research, financial conditions of the Government, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 법 제8조제1항에 따라 출연금을 지급받은 연구개발기관은 그 출연금을 별도의 계정으로 관리해야 하며, 출연금 을 사용했을 때에는 그 사용에 대한 증빙자료를 갖춰 두어야 한다.",
+      "en_txt": "(2) A research and development institute in receipt of a contribution pursuant to Article 8 (1) of the Act shall manage the contribution in a separate account, and shall keep evidential materials regarding the use of the contribution when it uses the contribution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 법 제8조제1항에 따라 출연금을 지급받은 연구개발기관은 그 출연금을 「국가연구개발혁신법 시행령」 별표 2에 따른 사용 용도로만 사용해야 한다.",
+      "en_txt": "(3) A research and development institute in receipt of a contribution pursuant to Article 8 (1) of the Act shall use such contribution only for the purpose of use specified in attached Table 2 of the Enforcement Decree of theNational Research and Development Innovation Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 법 제15조제1항에 따른 전문인력 양성기관(이하 “전문인력 양성기관”이라 한 다)의 지정 기준은 다음 각 호와 같다.",
+      "en_txt": "(1) The standards for designating an institution for training specialized human resources under Article 15 (1) of the Act (hereinafter referred to as “institution for training specialized human resources”) shall be as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 식품ㆍ의약품 등에 대한 제도와 법령, 혁신제품에 대한 기술과 규제 등에 관하여 전문성을 갖춘 인력(이하 “전문 인력”이라 한다)을 양성하기에 적합한 교육ㆍ훈련 과정 및 내용을 갖출 것",
+      "en_txt": "1. It shall have education and training courses and curricula suitable for fostering human resources with expertise in systems, statutes, and regulations on food, drugs, etc., and technology and regulation, etc. of innovative products (hereinafter referred to as \"specialized human resources\");",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 규제과학 또는 규제과학혁신 관련 분야의 전문 교수요원 등 전문성을 갖춘 인력을 확보할 것",
+      "en_txt": "2. It shall secure human resources with expertise, such as faculty members specialized in the field of regulatory science or regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 규제과학 또는 규제과학혁신 관련 분야에 대하여 교육ㆍ조사ㆍ연구 또는 컨설팅 등을 수행한 실적이 있을 것",
+      "en_txt": "3. It shall have a track record of conducting education, surveys, research, consulting, etc. in the fields related to regulatory science or regulatory science innovation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 식품의약품안전처장이 전문인력의 양성에 필요하다고 인정하여 고시하는 시설과 장비를 갖출 것",
+      "en_txt": "4. It shall be equipped with facilities and equipment publicly notified by the Minister of Food and Drug Safety as deemed necessary for training specialized human resources.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 전문인력 양성기관을 지정하려는 경우에는 지정 신청 기간, 방법 및 그 밖에 지정 신청에 필요한 사항을 식품의약품안전처 인터넷 홈페이지 등에 공고해야 한다.",
+      "en_txt": "(2) If the Minister of Food and Drug Safety intends to designate an institution for training specialized human resources, he or she shall publicly announce the period and method of applying for designation and other matters necessary for applying for designation on the website, etc. of the Ministry of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 전문인력 양성기관으로 지정받으려는 자는 총리령으로 정하는 지정신청서에 총리령으로 정하는 서류를 첨부하 여 식품의약품안전처장에게 제출해야 한다.",
+      "en_txt": "(3) A person who intends to be designated as an institution for training specialized human resources shall submit to the Minister of Food and Drug Safety an application for designation prescribed by Ordinance of the Prime Minister, along with documents prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제3항에 따른 신청을 받은 식품의약품안전처장은 해당 기관을 전문인력 양성기관으로 지정한 경우에는 총리령 으로 정하는 바에 따라 지정서를 발급하고, 그 사실을 식품의약품안전처 인터넷 홈페이지에 게시해야 한다.",
+      "en_txt": "(4) If the Minister of Food and Drug Safety in receipt of an application under paragraph (3) designates the relevant institution as an institution for training specialized human resources, he or she shall issue a certificate of designation, as prescribed by Ordinance of the Prime Minister, and post the fact on the website of the Ministry of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 법 제15조제3항에 따른 전문인력 양성기관에 대한 행정처분의 기준은 별표와 같다.",
+      "en_txt": "(5) The standards for administrative dispositions on institutions for training specialized human resources under Article 15 (3) of the Act shall be as specified in the attached Table.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 제1항부터 제5항까지에서 규정한 사항 외에 전문인력 양성기관의 지정 기준 및 절차 등에 필요한 세부사항은 식 품의약품안전처장이 정하여 고시한다.",
+      "en_txt": "(6) Except as provided in paragraphs (1) through (5), details necessary for standards and procedures, etc. for designating institutions for training specialized human resources shall be determined and publicly notified by the Minister of Food and Drug Safety.",
+      "align_score": null
+    }
+  ]
+}

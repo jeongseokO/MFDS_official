@@ -1,0 +1,2575 @@
+{
+  "document_id": "ke_law_0008",
+  "meta": {
+    "set": "KE",
+    "source_folder": "2",
+    "source_code": "law",
+    "source_name": "법령",
+    "orig_doc_id": "SAFETY AND MANAGEMENT OF HUMAN TISSUE ACT2",
+    "category_l1": "규제·지침",
+    "category_l2": "법령·고시",
+    "category_l3": "법령",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법은 사람의 신체적 완전성을 기하고 생리적 기능회복을 위하여 인체조직의 기증ㆍ관리 및 이식 등에 필요한 사항을 정함으로써 인체조직의 적정한 수급과 안전성을 도모하고 국민보건향상에 이바지함을 목적으로 한다 .",
+      "en_txt": "The purpose of this Act is to provide for matters necessary for donation, management, and transplant of human tissue for the physical completion and recovery of biological functions, thereby promoting the balanced supply and safety of human tissue, and contributing to the improvement of public health.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①인체조직의 기증ㆍ관리 및 이식은 인도적 정신에 따라 행하여져야 한다.",
+      "en_txt": "(1) Donation, management, and transplant of human tissue shall be carried out in a humanitarian spirit.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②자신의 인체조직 기증에 관하여 표시한 의사는 존중되어야 한다. 이 경우 그 의사는 자발적이어야 한다.",
+      "en_txt": "(2) Expression of intention regarding donation of human tissue of a person shall be respected. In such cases, such intention shall be voluntary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③인체조직의 이식을 필요로 하는 사람은 사회적ㆍ경제적 조건 등에 관계없이 공평하게 이식을 받을 수 있는 기회 를 가져야 한다.",
+      "en_txt": "(3) A person needing a transplant of human tissue shall have an equal opportunity to receive transplant regardless of social or economic conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④인체조직의 기증ㆍ관리 및 이식은 윤리적으로 타당하고 의학적으로 인정된 방법에 의하여 행하여져야 한다.",
+      "en_txt": "(4) Donation, management, and transplant of human issue shall be conducted in an ethically reasonable and medically accepted manner.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법에서 사용하는 용어의 정의는 다음과 같다. <개정 2005. 1. 27., 2008. 2. 29., 2010. 1. 18., 2014. 1. 28., 2016. 2. 4., 2018. 12. 11.>",
+      "en_txt": "The terms used in this Act are defined as follows: <Amended on Jan. 27, 2005; Feb. 29, 2008; Jan. 18, 2010; Jan. 28, 2014; Feb. 4, 2016; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. “인체조직”이라 함은 「장기등 이식에 관한 법률」 제4조제1호에 따른 장기등에 속하지 아니하는 다음 각 목의 어 느 하나에 해당하는 것(이하 “조직”이라 한다)을 말한다.",
+      "en_txt": "1. The term \"human tissue\" means any of the following (hereinafter referred to as \"tissue\"), which is not an organ, etc. defined in subparagraph 1 of Article 4 of the Organs Transplant Act:",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가. 뼈ㆍ연골ㆍ근막ㆍ피부ㆍ양막ㆍ인대 및 건",
+      "en_txt": "(a) Bones, cartilage, fasciae, skin, amnia, ligaments, and tendons;",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "나. 심장판막ㆍ혈관",
+      "en_txt": "(b) Heart valves and blood vessel;",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다. 신체의 일부로서 사람의 건강, 신체회복 및 장애예방을 위하여 채취하여 이식될 수 있는 것으로 대통령령이 정하는 것",
+      "en_txt": "(c) Body parts determined by Presidential Decree, which are recoverable and transplantable for a person's health, physical recovery, and prevention of disability;",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. “조직기증자”란 다른 사람의 기능회복을 위하여 대가 없이 특정한 조직을 제공하는 사람으로서 제7조의2제1항에 따라 조직기증자로 등록한 사람을 말한다. 2의2. “조직기증희망자”란 장래에 사망할 때 조직을 기증할 의사를 가진 사람으로서 제7조의2제1항에 따라 조직기 증희망자로 등록한 사람을 말한다. 2의3. “잠재적 조직기증자”란 유족이 제16조의2에 따른 조직기증지원기관(이하 “조직기증지원기관”이라 한다), 「의 료법」 제3조에 따른 의료기관(이하 “의료기관”이라 한다)에 조직기증에 관한 정보제공 및 상담을 요청한 사망자, 「장기등 이식에 관한 법률」 제20조에 따른 장기구득기관(이하 “장기구득기관”이라 한다)에 신고된 뇌사추정자 중 가족이 조직기증에 관한 정보 제공 및 상담을 요청하여 조직기증지원기관으로 연계된 자를 말한다.",
+      "en_txt": "2. The term \"tissue donor\" means a person who donates specific tissues for another person's functional recovery without compensation, and is registered as a tissue donor pursuant to Article 7-2 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. “조직이식”이라 함은 조직기증자로부터 기증된 안전성이 확보된 조직을 환자의 질환치료 등을 목적으로 이식하 는 행위를 말한다.",
+      "en_txt": "3. The term \"tissue transplant\" means transplantation of tissue donated from a tissue donor, the safety of which is guaranteed for the purpose of treatment of illness of a patient;",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. “조직은행”이라 함은 이식을 목적으로 조직의 관리를 위하여 제13조제1항의 규정에 따라 허가받는 기관을 말한 다.",
+      "en_txt": "4. The term \"tissue bank\" means an institution authorized under Article 13 (1) for the management of tissue for the purpose of transplantation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. “조직관리”라 함은 조직을 채취ㆍ저장ㆍ처리ㆍ보관 및 분배하는 행위를 말한다.",
+      "en_txt": "5. The term \"tissue management\" means recovery, storage, processing, preservation, and allocation of tissue;",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. “살아있는 자”ㆍ“뇌사자”ㆍ“가족” 또는 “유족”의 정의는 「장기등 이식에 관한 법률」 제4조를 준용한다.",
+      "en_txt": "6. Article 4 of the Organs Transplant Act shall apply mutatis mutandis to the definitions of the terms \"living person\", \"brain-dead person\", \"family member\", or \"survivor\".",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법은 사람의 신체의 완전성을 기하고 생리적 기능의 회복을 위하여 이식의 목적으로 살아있는 자ㆍ 뇌사자ㆍ사망한 자로부터 기증ㆍ관리 및 이식 등과 관련하여 국내에서 생산 혹은 외국으로부터 수입된 조직에 적용 한다. 다만, 다음 각호의 1은 제외한다. <개정 2011. 4. 7.>",
+      "en_txt": "This Act shall apply to tissues obtained from a living, brain-dead, or deceased person with respect to donation, management, or transplantation, which are produced in the Republic of Korea or imported from abroad, for the purposes of physical completion and recovery of biological functions: Provided, That any of the following shall be excluded: <Amended on Apr. 7, 2011>",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 「약사법」, 「의료기기법」, 그 밖에 다른 법령의 적용을 받는 품목류 또는 품목",
+      "en_txt": "2. Types of items or items governed by the Pharmaceutical Affairs Act, the Medical Devices Act, and other statutes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①누구든지 금전 또는 재산상의 이익 그 밖의 반대급부를 주고받거나 주고받을 것을 약속하고 다음 각호의 1에 해당하는 행위를 하여서는 아니된다.",
+      "en_txt": "(1) No one shall do or promise to do any of the following acts in exchange for money, financial gain, or other consideration:",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 뇌사자 또는 사망한 자의 조직을 제3자에게 주거나 제3자에게 주기 위하여 받는 행위 또는 이를 각각 약속하는 행위",
+      "en_txt": "1. Giving tissue of a brain-dead person or a deceased person to a third person, receiving such tissue to give it to a third person, or promising to do either act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 자신의 조직을 타인에게 주거나 타인의 조직을 자신에게 이식하기 위하여 받는 행위 또는 이를 각각 약속하는 행 위",
+      "en_txt": "2. Giving one's own tissue to another person, receiving tissue from another to transplant into one's own body, or promising to do either act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제1호 또는 제2호의 행위를 알선하는 행위",
+      "en_txt": "3. Assisting another to do any act under subparagraph 1 or 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②누구든지 제1항의 규정을 위반한 행위가 있음을 인지한 때에는 그 행위와 관련되는 조직을 관리하거나 이식하여 서는 아니된다.",
+      "en_txt": "(2) No person aware of a violation of paragraph (1) shall manage or transplant any tissue relating to such violation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "국가와 지방자치단체는 조직의 이식이 필요한 모든 사람에게 이식받을 기회를 공평하게 제 공하여야 하며, 조직의 기증ㆍ관리 및 이식 등이 적정하게 이루어지도록 하여야 한다. [본조신설 2014. 1. 28.]",
+      "en_txt": "The State and local governments shall provide every person needing tissue transplantation with an equal opportunity for transplantation, and have the donation, management, transplantation, etc. of tissues performed appropriately. [This Article Newly Inserted on Jan. 28, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①조직의 기증ㆍ관리 및 이식 등에 관하여 보건복지부장관 및 식품의약품안전처 장의 자문에 응하여 다음 각호의 사항을 심의하기 위하여 보건복지부에 인체조직안전관리자문위원회(이하 “위원회 ”라 한다)를 둔다. <개정 2008. 2. 29., 2010. 1. 18., 2014. 1. 28., 2016. 2. 4.>",
+      "en_txt": "(1) A Human Tissue Safety and Management Advisory Committee (hereinafter referred to as the \"Committee\") shall be established within the Ministry of Health and Welfare to deliberate on the following matters, upon request for advice from the Minister of Health and Welfare and the Minister of Food and Drug Safety in connection with the donation, management, transplantation, etc. of tissues: <Amended on Feb. 29, 2008; Jan. 18, 2010; Jan. 28, 2014; Feb. 4, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직의 기증ㆍ관리 및 이식 등에 관한 기본정책 수립에 관한 사항",
+      "en_txt": "1. Matters concerning the formulation of a basic policy on the donation, management, transplantation, etc. of tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직은행의 허가기준 및 운영에 관한 사항",
+      "en_txt": "2. Matters concerning permission standards for tissue banks and operation thereof;",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제16조의3에 따른 공공조직은행(이하 “공공조직은행”이라 한다)의 공적 운영 및 조직분배의 적정성에 관한 사항",
+      "en_txt": "3. Matters concerning the operation of public tissue banks pursuant to Article 16-3 (hereinafter referred to as \"public tissue bank\") and the appropriation of tissue distribution;",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 수입 조직의 관리방안에 관한 사항",
+      "en_txt": "4. Matters concerning plans for the management of imported tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 조직품질ㆍ조직검사 또는 조직관리의 정확도 평가(이하 “정도관리”라 한다)에 관한 사항",
+      "en_txt": "5. Matters concerning the review of the quality, testing or management of tissues (hereinafter referred to as \"quality control\");",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 그 밖에 조직의 기증ㆍ관리 및 이식에 관한 조사ㆍ연구 등에 관하여 보건복지부장관이 부의하는 사항",
+      "en_txt": "6. Other matters submitted by the Minister of Health and Welfare for discussion in connection with the inspection, research, etc. of donation, management, and transplantation of tissues.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 위원회는 위원장과 부위원장 각 1명을 포함한 15명 이내의 위원으로 구성하고, 위원장과 부위원장은 위원 중에 서 호선하며 위원은 다음 각 호의 사람이 된다. 이 경우 공무원이 아닌 위원이 전체 위원의 과반수가 되도록 하여야 한다.<신설 2018. 12. 11.>",
+      "en_txt": "(2) The Committee shall be comprised of not more than 15 members, including one chairperson and one vice chairperson; the chairperson and the vice chairperson shall be elected by mutual vote among members; and members shall consist of the following persons. In such cases, members who are not public officials shall constitute a majority of the entire membership: <Newly Inserted on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 보건복지부 및 식품의약품안전처에서 조직의 기증ㆍ관리 및 이식 등에 관한 업무를 수행하는 3급이나 3급 상당 또는 고위공무원단에 속하는 공무원 중에서 소속 기관의 장이 지명하는 사람",
+      "en_txt": "1. A person designated by the head of his or her affiliated institution from among public officials in Grade III or equivalent Grade or members of the Senior Executive Service who are engaged in the work of donating, managing, and transplanting tissues in the Ministry of Health and Welfare or the Ministry of Food and Drug Safety;",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직의 기증ㆍ관리 및 이식에 관한 학식과 경험이 풍부한 사람 중에서 보건복지부장관이 위촉하는 사람",
+      "en_txt": "2. A person designated by the Minister of Health and Welfare from among persons who have broad knowledge and experience on donation, management and transplant of tissues.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제2항제2호에 따른 위원의 임기는 2년으로 한다.<신설 2018. 12. 11.>",
+      "en_txt": "(3) The term of office of a member under paragraph (2) 2 shall be two years. <Newly Inserted on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④그 밖에 위원회의 구성 및 운영 등에 관하여 필요한 사항은 대통령령으로 정한다.<개정 2018. 12. 11.>",
+      "en_txt": "(4) Other matters necessary for organization and operation of the Committee shall be prescribed by Presidential Decree. <Amended on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 보건복지부장관은 조직의 기증에 관한 사항을 적정하게 관리하기 위하여 조직기 증관리기관(이하 “국립조직기증관리기관”이라 한다)을 두되, 「장기등 이식에 관한 법률」 제10조에 따른 국립장기이 식관리기관이 그 역할을 수행하도록 한다.",
+      "en_txt": "(1) The Minister of Health and Welfare shall establish a tissue donation management agency (hereinafter referred to as the \"National Tissue Donation Management Agency\") to appropriately manage matters concerning tissue donation, however, he or she shall have the National Organ Transplant Management Agency under Article 10 of the Organs Transplant Act perform such duties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 국립조직기증관리기관은 다음 각 호의 업무를 수행한다.<개정 2016. 2. 4.>",
+      "en_txt": "(2) The National Tissue Donation Management Agency shall perform the following duties: <Amended on Feb. 4, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직기증자 및 조직기증희망자의 등록 및 관리",
+      "en_txt": "1. Registration and management of tissue donors and candidates for tissue donation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제7조의3에 따른 조직기증자등록기관(이하 “등록기관”이라 한다), 조직기증지원기관 및 공공조직은행에 관한 지 도 및 감독",
+      "en_txt": "2. Guidance and supervision of the tissue donor registries prescribed in Article 7-3 (hereinafter referred to as \"registry\"), tissue donation support institutions and public tissue bank;",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제12조에 따른 조직 분배에 관한 관리",
+      "en_txt": "3. Management of distribution of tissues under Article 12;",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 조직의 기증에 관한 조사ㆍ연구ㆍ정보 및 통계의 작성",
+      "en_txt": "4. Inspection and study of tissue donation and gathering information thereon and preparation of statistics thereon;",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 그 밖에 조직의 기증에 관하여 대통령령으로 정하는 업무 인체조직안전 및 관리 등에 관한 법률 [본조신설 2014. 1. 28.]",
+      "en_txt": "5. Other duties prescribed by Presidential Decree concerning tissue donation. [This Article Newly Inserted on Jan. 28, 2014] CHAPTER II MANAGEMENT OF TISSUE",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①조직 기증에 관한 동의는 「장기등 이식에 관한 법률」 제12조를 준용한다. <개정 2014. 1. 28.>",
+      "en_txt": "(1) Article 12 of the Organs Transplant Act shall apply mutatis mutandis to consent to tissue donation. <Amended on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②제1항의 규정에 의한 동의에는 다음 각호의 사항이 포함되어야 한다.<개정 2008. 2. 29., 2010. 1. 18., 2014. 3. 18.>",
+      "en_txt": "(2) Consent under paragraph (1) shall include the following matters: <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직의 보존기간 그 밖의 보관에 관한 사항",
+      "en_txt": "1. The period for preservation of tissues and other matters concerning such preservation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 동의의 철회 등 동의자의 권리 및 정보보호에 관한 사항",
+      "en_txt": "2. Matters concerning the rights of the person who consents to donation, such as withdrawal of consent, and confidentiality of information;",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직의 분배ㆍ이식의 적합성을 결정하기 위한 혈액검사, 병력 및 투약이력의 조사 등에 관한 사항",
+      "en_txt": "3. Matters concerning the inspection of blood, medical history and record of administered medicines, etc. to determine the suitability for distribution and transplantation of tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 보건복지부령이 정하는 사항",
+      "en_txt": "4. Other matters prescribed by the Ordinance of the Ministry of Health and Welfare.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③조직을 채취하고자 하는 자는 제1항의 규정에 의한 동의를 얻는 때에는 미리 제2항 각호의 사항에 대하여 충분히 설명하여야 한다.",
+      "en_txt": "(3) When consent under paragraph (1) is obtained, a person who intends to recover tissue shall fully explain the matters under paragraph (2) in advance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④동의서의 서식 및 보존 등에 관하여 필요한 사항은 보건복지부령으로 정한다.<개정 2008. 2. 29., 2010. 1. 18.>",
+      "en_txt": "(4) Matters necessary for consent forms, preservation of tissue, etc. shall be prescribed by Ordinance of the",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 조직기증자 또는 조직기증희망자가 되려는 사람은 등록기관에 보건복지부령으 로 정하는 바에 따라 등록을 신청하여야 한다. 다만, 조직기증자가 뇌사자 또는 사망한 사람인 경우에는 그 가족 또 는 유족 중 1명이 등록을 신청할 수 있다.",
+      "en_txt": "(1) A person intending to be a tissue donor or candidate for tissue donation shall file an application for registration with a registry as prescribed by Ordinance of the from among his or her family members or survivors may file an application for registration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 조직기증자 또는 조직기증희망자의 등록 결정 및 통보, 등록의 철회 및 말소 등에 관하여는 「장기등 이식에 관한 법률」 제14조 및 제15조를 준용한다. [본조신설 2014. 1. 28.]",
+      "en_txt": "(2) Articles 14 and 15 of the Organs Transplant Act shall apply mutatis mutandis to a decision on whether to register tissue donors or candidates for tissue donation, to the notification of the decision to such persons, and to the withdrawal, cancellation, etc. of registration. [This Article Newly Inserted on Jan. 28, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 조직기증자 및 조직기증희망자 등록에 관한 업무를 수행하려는 자는 대통 령령으로 정하는 시설ㆍ인력 등을 갖추고 보건복지부장관으로부터 조직기증자등록기관으로 지정을 받아야 한다. 지 정받은 사항 중 보건복지부령으로 정하는 중요 사항을 변경할 때에도 같다.",
+      "en_txt": "(1) An entity intending to perform the duties of registration of tissue donors and candidates for tissue donation shall obtain designation of a tissue donation registry from the Minister of Health and Welfare after being equipped with facilities, human resources, etc. prescribed by Presidential Decree. The same shall apply to the modification of significant matters prescribed by Ordinance of the Ministry of Health and Welfare among the matters designated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 등록기관으로 지정받을 수 있는 자는 다음 각 호와 같다.<개정 2016. 2. 4.>",
+      "en_txt": "(2) Entities eligible for designation as a registry are as follows: <Amended on Feb. 4, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 국가 또는 지방자치단체",
+      "en_txt": "1. The State or local governments;",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 의료기관",
+      "en_txt": "2. Medical institutions;",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직기증 및 이식과 관련된 사업을 목적으로 설립된 비영리법인",
+      "en_txt": "3. Nonprofit corporations established with the purpose of carrying on tissue donation and transplantation business;",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 「공공기관의 운영에 관한 법률」 제4조에 따른 공공기관",
+      "en_txt": "4. Public institutions defined in Article 4 of the Act on the Management of Public Institutions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 등록기관의 업무는 다음 각 호와 같다.",
+      "en_txt": "(3) The duties of a registry shall be as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직기증자 접수ㆍ등록 및 그 결과의 국립조직기증관리기관 및 식품의약품안전처장에의 통보",
+      "en_txt": "1. Receipt and registration of tissue donors and notification of the result thereof to the National Tissue Donation Management Agency and the Minister of Food and Drug Safety;",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직기증희망자의 접수ㆍ등록 및 그 결과의 국립조직기증관리기관에의 통보",
+      "en_txt": "2. Receipt and registration of candidates for tissue donation and notification of the result thereof to the National Tissue Donation Management Agency;",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직기증자 또는 조직기증희망자의 개인정보 관리 및 기증 관련 정보 제공",
+      "en_txt": "3. Management of personal information on tissue donors and candidates for tissue donation and provision of information related to donation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 조직기증에 관한 홍보 및 상담",
+      "en_txt": "4. Publicity and consultation with regard to tissue donation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 그 밖에 조직기증자 및 조직기증희망자 등록에 관하여 보건복지부령으로 정하는 업무",
+      "en_txt": "5. Other duties prescribed by Ordinance of the Ministry of Health and Welfare concerning registration of tissue donors and candidates for tissue donation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제1항에도 불구하고 다음 각 호의 어느 하나에 해당하는 자는 별도의 지정 절차 없이 등록기관의 업무를 할 수 있다.",
+      "en_txt": "(4) Notwithstanding paragraph (1), any of the following persons may perform the duties of a registry without taking any procedures for designation:",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 「장기등 이식에 관한 법률」 제13조에 따라 장기이식등록기관으로 지정받은 자",
+      "en_txt": "1. An entity designated as an organ transplantation registry pursuant to Article 13 of the Organs Transplant Act;",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제13조제2항제1호ㆍ제2호에 따라 조직은행으로 허가받은 자",
+      "en_txt": "2. An entity authorized as a tissue bank pursuant to Article 13 (2) 1 and 2;",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직기증지원기관으로 지정받은 자",
+      "en_txt": "3. An entity designated as a tissue donation support institution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 그 밖에 등록기관의 지정 절차 및 운영 등에 필요한 사항은 보건복지부령으로 정한다. [본조신설 2014. 1. 28.] 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "(5) Other matters necessary for procedures for designation of registries, operation thereof, etc. shall be prescribed by Ordinance of the Ministry of Health and Welfare. [This Article Newly Inserted on Jan. 28, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①뇌사자와 사망한 자의 조직은 다음 각호의 1에 해당하는 경우에 한하여 이를 채취할 수 있다 . <개정 2014. 1. 28.>",
+      "en_txt": "(1) Tissues may be recovered from a brain-dead or deceased person, only in the following cases: <Amended on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 본인이 뇌사 또는 사망전에 조직의 채취에 동의한 경우. 다만, 그 가족 또는 유족이 조직 등의 채취를 명시적으로 거부하는 경우를 제외한다.",
+      "en_txt": "1. Where the relevant person consents to the recovery of tissues before he or she becomes brain dead or is deceased: Provided, That cases in which his or her family members or survivors explicitly state objection to the recovery of tissues, etc. shall be excluded;",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 본인이 뇌사 또는 사망전에 조직의 채취에 동의 또는 반대하였다는 사실이 확인되지 아니한 경우로서 그 가족 또 는 유족이 조직의 채취에 동의한 경우. 다만, 본인이 16세 미만의 미성년자인 경우에는 그 부모가 조직의 채취에 동의한 경우에 한한다.",
+      "en_txt": "2. Where it is unclear whether the relevant person consented or objected to the recovery of tissues before he or she becomes brain dead or is deceased, but his or her family members or survivors consent to the recovery of tissues: Provided, That this shall be limited to cases in which his or her parents consent to the recovery of tissues where the person concerned is a minor under 16 years of age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②살아 있는 자로부터 조직을 채취할 경우에는 본인의 동의가 있는 경우에 한한다. 다만, 미성년자의 조직을 채취하 고자 하는 경우에는 본인의 동의외에 부모의 동의를 얻어야 한다.",
+      "en_txt": "(2) Where tissue is recovered from a living person, the persons' consent is required: Provided, That where tissue is recovered from a minor, the parent's consent is required in addition to the persons' consent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③제1항 및 제2항의 규정에 의하여 동의한 자는 조직의 채취를 위한 수술이 시작되기 전까지 언제든지 조직채취에 관한 동의의 의사표시를 철회할 수 있다.",
+      "en_txt": "(3) A person who consents to recovery under paragraphs (1) or (2) may withdraw his or her consent to recovery anytime before the onset of tissue recovery surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다음 각호의 1에 해당하는 조직은 이를 분배하거나 이식하여서는 아니된다. <개 정 2005. 1. 27., 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 3. 18.>",
+      "en_txt": "None of the following tissue shall be distributed or transplanted: <Amended on Jan. 27, 2005; Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 이식에 적합하지 아니한 B형 또는 C형 간염ㆍ매독ㆍ후천성면역결핍증후군 등 전염성질환에 감염되거나 감염이 의심되는 조직",
+      "en_txt": "1. Tissues infected or suspected of being infected with any contagious disease making it unsuitable for transplant, such as hepatitis B or C, syphilis, acquired immunodeficiency syndrome, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 치매 등 퇴행성 신경질환을 가진 기증자의 조직",
+      "en_txt": "2. Tissues from a donor having a degenerative neurological disease, such as Alzheimer's disease, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 사망원인이 분명하지 아니한 기증자의 조직",
+      "en_txt": "3. Tissues from a donor with uncertain cause of death;",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 유해성물질에 노출된 기증자의 조직",
+      "en_txt": "4. Tissues from a donor exposed to any hazardous substance;",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 제8조제1항ㆍ제2항, 제13조제1항 또는 제17조제1항을 위반한 조직",
+      "en_txt": "6. Tissues in violation of Article 8 (1) and (2), 13 (1) or 17 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 그 밖에 제1호부터 제6호까지에 준하는 조직으로 이식대상자의 생명ㆍ신체에 위해를 가할 우려가 있어 이식에 적합하지 아니하다고 총리령이 정하는 조직",
+      "en_txt": "7. Tissues corresponding to those under subparagraphs 1 through 6, which are deemed unsuitable for transplantation as they are likely to cause harm to the life or body of a transplant recipient as prescribed by Ordinance of the Prime Minster.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 조직은행은 직접 국내에서 채취ㆍ처리한 조직과 외국에서 수입한 조직에 대하여 다른 조직은행 또는 조직이식을 행하는 의료기관(이하 “조직이식의료기관”이라 한다)에 분배하기 전에 총리령으로 정하는 바에 따라 이식의 적합성 여부를 검사하여야 한다. 이 경우 조직은행은 분배ㆍ이식에 부적합한 조직을 발견하였을 때에는 총리령으로 정하는 바에 따라 이를 폐기처분하고 식품의약품안전처장에게 보고하여야 한다. <개정 2018. 12. 11.>",
+      "en_txt": "(1) A tissue bank shall examine the availability of the tissue recovered and processed directly in Korea or the tissue imported from outside Korea for transplantation before distributing such tissue to another tissue bank or a medical institution performing tissue transplantation (hereinafter referred to as \"tissue transplant hospital\"), as prescribed by Ordinance of the Prime Minster. In such cases, if the tissue bank finds a tissue to be unavailable for distribution or transplantation, it shall destroy the tissue, as prescribed by Ordinance of the Prime Minister, and report the fact to the Minister of Food and Drug Safety. <Amended on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 조직을 채취하려는 조직은행은 조직기증자의 병력 및 투약이력 등에 대하여 조직기증자 또는 유가족을 통하여 문진하여야 한다.<신설 2018. 12. 11.>",
+      "en_txt": "(2) A tissue bank that intends to recover tissue shall inquire of the tissue donor or his or her survivor about his or her medical history and record of administered medicines. <Newly Inserted on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 조직을 채취하려는 조직은행은 「국민건강보험법」에 따른 건강보험심사평가원(이하 “심사평가원”이라 한다)에 조직기증자에 대한 병력 및 투약이력의 조사를 요청하여야 한다. 이 경우 심사평가원은 정당한 사유가 없으면 이에 따라야 하며, 그 결과를 통보하여야 한다.<신설 2014. 3. 18., 2018. 12. 11.>",
+      "en_txt": "(3) A tissue bank that intends to recover tissue shall request the Health Insurance Review and Assessment Service under the National Health Insurance Act (hereinafter referred to as \"Review and Assessment Service\") to inspect the medical history and record of administered medicines of a tissue donor. In such cases, the Review and Assessment Service shall comply with such request, without good cause, and notify the tissue bank of the result. <Newly Inserted on Mar. 18, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제3항에도 불구하고 제16조의2제7항에 따라 조직기증지원기관으로부터 확인결과를 통보받은 조직은행은 심사 평가원에 병력 및 투약이력의 조사를 요청하지 아니할 수 있다.<신설 2014. 3. 18., 2018. 12. 11.>",
+      "en_txt": "(4) Notwithstanding paragraph (3), upon receipt of results of inspection from a tissue donation support institution pursuant to Article 16-2 (7), the tissue bank need not request the inspection of medical history and records of administered medicines from the Review and Assessment Service. <Newly Inserted on Mar. 18, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 조직은행은 제2항에 따른 문진을 하였거나 제3항 또는 제4항에 따른 통보를 받은 경우에는 조직이 제9조 각 호 의 어느 하나에 해당하는지 확인하여야 하며, 그 결과 분배ㆍ이식에 부적합한 조직을 발견하였을 때에는 총리령으로 정하는 바에 따라 폐기처분하고 이를 식품의약품안전처장에게 보고하여야 한다.<신설 2014. 3. 18., 2018. 12. 11.>",
+      "en_txt": "(5) Upon inquiry under paragraph (2) or upon receipt of notice under paragraph (3) or (4), the tissue bank shall inspect whether a tissue falls under any of the subparagraphs of Article 9, and if the tissue bank finds the tissue to be unavailable for distribution or transplantation, it shall destroy such tissue as prescribed by Ordinance of the Prime Minister and report the fact to the Minister of Food and Drug Safety. <Newly Inserted on Mar. 18, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 조직은행은 제1항 후단 및 제5항에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 분배ㆍ이식에 부적 합한 조직을 폐기처분하지 아니하고 직접 사용하거나 이를 사용하려는 다른 조직은행에 공급할 수 있다. 이 경우 그 용도 및 수량, 사용ㆍ공급 조직은행명 등 조직의 사용 및 수급 현황에 관하여 총리령으로 정하는 바에 따라 식품의 약품안전처장에게 보고하여야 한다.<신설 2018. 12. 11.> 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "(6) Notwithstanding the latter part of paragraph (1) and paragraph (5), a tissue bank may directly use a tissue unavailable for distribution and transplantation or supply it to another tissue bank that seeks to use it without destroying it, if it falls under any of the following. In such cases, the tissue bank shall report to the Minister of Food and Drug Safety the use and demand-supply status of the tissue, such as its use and quantity and the name of the tissue bank that uses or is supplied with it, as prescribed by Ordinance of the Prime Minister: <Newly Inserted on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 사람의 건강, 신체회복 및 장애예방 등을 위한 의학연구에 사용하는 경우",
+      "en_txt": "1. Where it is used for medical research for a person’s health, physical recovery, and prevention of disability;",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직의 품질 수준의 평가ㆍ검증ㆍ관리에 사용하는 경우",
+      "en_txt": "2. Where it is used for evaluation, verification and management of the quality level of tissue.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑦제1항에 따른 조직이식의 적합성여부에 관한 판정기준, 제2항부터 제5항까지의 규정에 따른 확인방법 및 절차, 제6항에 따른 보고의 방법 및 절차 등에 필요한 사항은 총리령으로 정한다.<개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 3. 18., 2018. 12. 11.>",
+      "en_txt": "(7) Matters necessary for the criteria for determining whether a tissue is available for transplantation under paragraph (1), the methods and procedures for inspection under paragraphs (2) through (5), and the methods and procedures for report under paragraph (6) shall be prescribed by Ordinance of the Prime Minister. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Mar. 18, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①식품의약품안전처장은 조직은행으로 하여금 정도관리를 받게 할 수 있고, 정도관리 결과를 공개할 수 있다. <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(1) The Minister of Food and Drug Safety may order a tissue bank to be subject to quality control and may disclose the results thereof. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②제1항의 규정에 의한 정도관리의 절차, 정도관리 결과의 공개 그 밖에 정도관리에 필요한 사항은 총리령으로 정 한다.<개정 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(2) The procedures for quality control under paragraph (1), disclosure of the results of quality control, and other matters necessary for quality control shall be prescribed by Ordinance of the Prime Minister. <Amended on Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "조직기증자로부터 조직을 채취한 조직은행은 다른 조직은행 또는 조직이식의료기관에 조직을 분배하는 경우에 의료적 측면에서 조직이식의 시급성 및 기대효과의 경중을 감안하여 대통령령으로 정하는 바에 따라 분배우선순위를 적용하여 제공하여야 한다. <개정 2014. 1. 28., 2018. 12. 11.> [제목개정 2014. 1. 28.]",
+      "en_txt": "Where a tissue bank that recovered tissues from tissue donors distributes tissues to other tissue banks or tissue transplant hospitals, such tissue bank shall apply the priority order for distribution prescribed by Presidential Decree in consideration of the urgency and expected effect of tissue transplantation in the medical respect. <Amended on Jan. 28, 2014; Dec. 11, 2018> [Title Amended on Jan. 28, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①조직은행을 설립하고자 하는 자는 대통령령이 정하는 시설ㆍ장비ㆍ인력ㆍ품질관리체계 정하는 중요 사항을 변경하려는 경우에도 같다. <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28.>",
+      "en_txt": "(1) A person who intends to establish a tissue bank shall have the facilities, equipment, human resources, quality control system, etc. prescribed by Presidential Decree and obtain permission from the Minister of Food and Drug Safety. The same shall apply to the modification of significant matters prescribed by Ordinance of the Prime Minister, among permitted matters. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②조직은행으로 허가를 받을 수 있는 자는 다음 각호와 같다. 다만, 제3호 및 제4호에 해당하는 자는 조직의 기증 또는 채취 업무를 할 수 없다.<개정 2016. 2. 4.>",
+      "en_txt": "(2) Any of the following persons may obtain permission for a tissue bank: Provided, That no person falling under subparagraph 3 or 4 shall engage in tissue donation or tissue recovery: <Amended on Feb. 4, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 의료기관",
+      "en_txt": "1. Medical institutions;",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직에 관련된 사업을 주된 목적으로 하여 설립된 비영리법인",
+      "en_txt": "2. Non-profit corporations, the main purpose of which is to engage in business related to human tissue;",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직가공처리업자",
+      "en_txt": "3. Tissue processing business operators;",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③조직은행의 업무는 다음 각호와 같다.<개정 2018. 12. 11.>",
+      "en_txt": "(3) Tissue banks shall engage in the following activities: <Amended on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직의 채취ㆍ저장ㆍ처리ㆍ수입ㆍ보관 및 분배에 관한 업무",
+      "en_txt": "1. Recovery, storage, processing, import, preservation and distribution of tissue;",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직기증자의 관리 및 조직기증을 위한 홍보ㆍ상담에 관한 업무",
+      "en_txt": "2. Management of tissue donors, and public relations and consultation for tissue donation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직기증자의 선별 및 조직의 품질보증에 관한 업무",
+      "en_txt": "3. Selection of tissue donors and tissue quality assurance;",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 그 밖에 조직이식의 안전성확보를 위하여 필요한 사항으로서 대통령령이 정하는 업무",
+      "en_txt": "4. Other matters prescribed by Presidential Decree, which are necessary for ensuring safety of tissue transplants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 조직은행의 장은 그 조직은행마다 의사 또는 치과의사 자격을 가진 사람으로서 조직기증 자의 병력 검토, 질병 여부 진단 및 조직 채취 행위 등을 관리하는 업무(이하 “의료관리업무”라 한다)를 수행하는 의 료관리자를 1명 이상 두어야 한다.",
+      "en_txt": "(1) The head of a tissue bank shall appoint at least one medical manager in each tissue bank, who performs the duties of examining the medical history of tissue donors, diagnosing whether tissues are infected, recovering tissues, etc. (hereinafter referred to as \"medical management duties\"), and has a doctor's or dentist's license.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 의료관리자는 의료관리업무를 수행함에 있어 다음 각 호의 사항을 준수하여야 한다.",
+      "en_txt": "(2) In performing medical management duties, the medical managers under paragraph (1) shall comply with the following matters:",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제9조에 따른 조직의 분배ㆍ이식 금지 대상 여부를 판정하여 적합한 조직만을 분배승인할 것",
+      "en_txt": "1. To approve the distribution of only appropriate tissues after judging whether tissues are to be prohibited from distribution or transplantation as prescribed in Article 9;",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 사망한 기증자로부터 조직을 채취할 때에는 채취 상황 등을 감안하여 조직이 안전하다고 판단되는 경우에만 채 취할 것",
+      "en_txt": "2. To recover tissues from a deceased person in circumstances in which tissues are safe in consideration of the condition of recovery, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 그 밖에 총리령으로 정하는 사항",
+      "en_txt": "3. Other matters prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항에 따른 의료관리자는 의료기관 등에서 의사 등의 업무를 겸직할 수 있다. 다만, 제13조제2항제1호 또는 제 2호에 해당하는 조직은행의 의료관리자가 겸직하고자 하는 경우에는 해당 조직은행의 소재지와 의료기관 등의 소 재지가 같아야 한다.",
+      "en_txt": "(3) A medical manager under paragraph (1) may concurrently work as a doctor, etc. in a medical institution, etc.: Provided, That where a medical manager of a tissue bank falling under Article 13 (2) 1 or 2 intends to hold an additional position, the location of a tissue bank and that of a medical institution, etc. shall be in the same place.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 조직은행의 장은 의료관리업무를 방해하여서는 아니 되며, 의료관리자가 업무 수행을 위하여 필요한 사항을 요 청하면 정당한 사유 없이 거부하여서는 아니 된다. 인체조직안전 및 관리 등에 관한 법률 [본조신설 2014. 3. 18.]",
+      "en_txt": "(4) The head of a tissue bank shall not interfere with any medical management duty; and where a medical manager makes a request necessary for performing duties, the head of the tissue bank shall not refuse the request without good cause. [This Article Newly Inserted on Mar. 18, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 제13조에 따라 허가받은 자가 사망하거나 그 영업을 양도한 경우 또는 법인인 조직은행이 합병한 경우에는 그 상속인, 영업을 양수한 자 또는 합병 후 존속하는 법인이나 합병에 따라 설립되는 법인(이하 “양 수인등”이라 한다)이 그 허가받은 자의 지위를 승계한다. 이 경우 양수인등은 제13조제2항 각 호의 어느 하나에 해당 하여야 한다.",
+      "en_txt": "(1) Where a person granted permission under Article 13 dies or transfers his or her business or where an incorporated tissue bank is merged, the successor, the transferee of the business, or the legal entity surviving such merger or the legal entity established in consequence of such merger (hereinafter referred to as \"transferee, etc.\") shall succeed to the status of the person granted permission. In such cases, the transferee, etc. shall fall under any of the subparagraphs of Article 13 (2).",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따라 허가받은 자의 지위를 승계한 자는 총리령으로 정하는 바에 따라 1개월 이내에 식품의약품안전처장에게 신고하여야 한다. 이 경우 식품의약품안전처장은 그 신고받은 내용을 검토하여 이 법에 적합하면 신고를 수리하여야 한다.<개정 2024. 3. 19.> [본조신설 2018. 12. 11.]",
+      "en_txt": "(2) Anyone who succeeds to the status of a person granted permission under paragraph (1) shall report such fact to the Minister of Food and Drug Safety within one month, as prescribed by Ordinance of the Prime Minister. [This Article Newly Inserted on Dec. 11, 2018]",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제13조의3에 따라 지위를 승계한 경우에 종전의 허가받은 자에 대한 행정제재 처분의 효과는 그 처분이 있었던 날부터 1년간 양수인등에 승계되며, 행정제재처분의 절차가 진행 중일 때에는 양수 인등에 대하여 행정제재처분의 절차를 속행(續行)할 수 있다. 다만, 양수인등이 지위를 승계할 때에 그 처분 또는 위 반 사실을 알지 못한 경우에는 그러하지 아니하다. [본조신설 2018. 12. 11.] <개정 2018. 12. 11.>",
+      "en_txt": "Where the status is succeeded to under Article 13-3, the effect of a disposition of administrative sanctions imposed on the former person granted permission shall devolve on the transferee, etc. for one year from the date of such disposition, and where the formalities for disposition of administrative sanctions are proceeding, such formalities may continue for the transferee, etc.: Provided, That the foregoing shall not apply where the transferee, etc. does not know of such disposition or offense at the time of succeeding to his or her status. [This Article Newly Inserted on Dec. 11, 2018]",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 제13조에 따른 조직은행 허가의 유효기간은 허가받은 날부터 3년으로 한다.",
+      "en_txt": "(1) The period of validity of permission for a tissue bank under Article 13 shall be three years from the date the permission is granted. <Amended on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 제1항에 따른 유효기간이 만료된 후 계속하여 조직은행을 운영하려는 자는 식품의약품안전처장에게 갱신허가를 받아야 한다.<개정 2018. 12. 11.>",
+      "en_txt": "(2) A person who intends to continue operation of a tissue bank after the period of validity under paragraph (1) expires shall obtain permission for renewal from the Minister of Food and Drug Safety. <Amended on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 조직은행이 허가 갱신 이전 3년간 조직의 채취ㆍ저장ㆍ처리ㆍ수입ㆍ보관 또는 분배 실적이 없으면 갱신허가를 하지 아니할 수 있다.<신설 2018. 12. 11.>",
+      "en_txt": "(3) Where a tissue bank has no track record of recovering, storing, processing, importing, preserving or distributing tissues for three years before renewal of permission, the Minister of Food and Drug Safety need not grant permission for renewal. <Newly Inserted on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 식품의약품안전처장은 제2항에 따른 갱신허가 신청을 받은 날부터 총리령으로 정하는 기간 내에 갱신허가 여부를 신청인에게 통지하여야 한다.<신설 2018. 12. 11.>",
+      "en_txt": "(4) The Minister of Food and Drug Safety shall give notice to an applicant of whether or not to grant permission for renewal, within the period prescribed by Ordinance of the Prime Minster from the date of receipt of a renewal permission application under paragraph (2). <Newly Inserted on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 식품의약품안전처장이 제4항에서 정한 기간 내에 갱신허가 여부 또는 민원 처리 관련 법령에 따른 처리기간의 연장을 신청인에게 통지하지 아니하면 그 기간(민원 처리 관련 법령에 따라 처리기간이 연장 또는 재연장된 경우에 는 해당 처리기간을 말한다)이 끝난 날의 다음 날에 갱신허가를 한 것으로 본다.<신설 2018. 12. 11.> <개정 2014. 3. 18., 2018. 12. 11.>",
+      "en_txt": "(5) Where the Minister of Food and Drug Safety fails to give notice to an applicant of whether or not to grant permission for renewal or to extend the processing period thereof under statutes and regulations related to civil petitions handling, within a period specified under paragraph (4), the permission for renewal shall be deemed to be granted on the day following the end of the period (referring to the extended or re- extended period if the processing period is extended or re-extended under the statutes and regulations related to civil petitions handling). <Newly Inserted on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥제2항부터 제5항까지의 규정에 따른 갱신허가의 기준ㆍ절차 등에 관하여 필요한 사항은 대통령령으로 정한다. [제목개정 2018. 12. 11.]",
+      "en_txt": "(6) Matter necessary for the criteria and procedures for permission for renewal under paragraphs (2) through (5) shall be prescribed by Presidential Decree. <Amended on Mar. 18, 2014; Dec. 11, 2018> [Title Amended on Dec. 11, 2018]",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 조직은행의 장은 조직관리 및 품질보증 등 조직의 안전을 위하여 총리령으로 정하는 사항을 준수하여야 한다. <개정 2014. 3. 18.>",
+      "en_txt": "(1) The head of a tissue bank shall observe matters prescribed by Ordinance of the Prime Minister for the safety of tissues, such as tissue management, quality assurance, etc. <Amended on Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②조직은행이 다른 조직은행과의 협력을 통하여 각각의 업무를 수행하는 경우 협력관계 및 계약관계를 명확히 하 여야 한다. 다만, 조직 채취에 관한 업무는 총리령으로 정하는 바에 따라 다른 조직은행이나 의료기관의 시설을 이 용할 수 있다.<개정 2014. 1. 28.>",
+      "en_txt": "(2) Where a tissue bank performs duties in cooperation with other tissue banks, their cooperative relationship and contractual relationship shall be clarified: Provided, That where it recovers tissues, it may use the facilities of other tissue banks or medical institutions, as prescribed by Ordinance of the Prime Minister. <Amended on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③조직은행이 다른 조직은행이나 조직이식의료기관에게 시술에 필요한 조직을 제공하는 경우에는 비영리원칙을 준수하여야 한다. 다만, 조직은행은 다음 각 호의 어느 하나에 해당하는 경비를 보건복지부령으로 정하는 바에 따라 다른 조직은행이나 조직이식의료기관에 요구할 수 있다.<개정 2008. 2. 29., 2010. 1. 18., 2014. 1. 28.>",
+      "en_txt": "(3) Where a tissue bank provides another tissue bank or tissue transplant hospital with tissues necessary for surgery, it shall follow non-profit principles: Provided, That the tissue bank may request that the other tissue bank or tissue transplant hospital reimburse the following expenses as prescribed by Ordinance of the",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 기증ㆍ관리 및 이식 등에 소요된 경비",
+      "en_txt": "1. Expenses incurred in donation, management, transplantation, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 비영리법인 또는 의료기관인 조직은행에서 생산한 조직이 아닌 경우에 소요된 경비",
+      "en_txt": "2. Expenses needed where tissues are not produced by the tissue bank which is a noncommercial corporation or medical institution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④조직은행에 종사하는 조직 취급관련 의료인 그 밖의 종사자로서 총리령이 정하는 자는 총리령이 정하는 소정의 교육을 받아야 한다.<개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23.> 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "(4) Medical personnel who handle tissue, and other workers prescribed by Ordinance of the Prime Minister, both of whom are employed by a tissue bank shall receive the required training prescribed by Ordinance of the Prime Minister. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 조직은행의 장은 제4항에 따라 해당 조직은행의 교육 대상자가 교육을 받도록 하여야 한다.<신설 2014. 3. 18.> <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 3. 18.>",
+      "en_txt": "(5) The head of a tissue bank shall have the personnel of the tissue bank who are to undergo education pursuant to paragraph (4), undergo education. <Newly Inserted on Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥조직의 제공절차, 조직의 보관규모, 관리책임자 및 관리현황의 보고 그 밖의 필요한 사항은 총리령으로 정한다.",
+      "en_txt": "(6) Procedures for providing tissues, the scale of tissues to be stored, chief manager, report on the present condition of management and other necessary matters, shall be prescribed by Ordinance of the Prime Minister. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑦ 조직은행의 장은 이식이 가능하도록 처리 과정이 완료된 조직의 최종 용기나 포장을 총리령으로 정하는 바에 따 라 봉함하여야 하며, 봉함된 용기나 포장을 개봉 또는 재포장하여 조직을 분배하여서는 아니 된다.<신설 2014. 3. 18.>",
+      "en_txt": "(7) The head of a tissue bank shall seal the final containers or packages of tissues, the processing of which is completed so that transplantation is possible, as prescribed by Ordinance of the Prime Minister, and he or she shall not distribute tissues after opening the sealed containers or packages, or repacking them. <Newly Inserted on Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "조직은행의 장은 조직의 용기나 포장에 다음 각 호에 해당하는 사항을 적어야 한 다. 다만, 총리령으로 정하는 바에 따라 일정 용기나 포장에는 다음 각 호에 해당하는 사항 중 그 일부만을 적을 수 있다.",
+      "en_txt": "The head of a tissue bank shall enter the following matters on the containers or packages of tissues: Provided, That he or she may enter part of the following matters on certain containers or packages as prescribed by Ordinance of the Prime Minister:",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직은행(수입한 조직의 경우에는 수출국 제조원을 포함한다)의 명칭과 소재지",
+      "en_txt": "1. Name and location of the tissue bank (including the producer of the exporting country in cases of imported tissues);",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직의 명칭 및 세부 명칭",
+      "en_txt": "2. Names and detailed descriptions of tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직의 제조번호와 사용기한",
+      "en_txt": "3. Production numbers of tissues and use-by date;",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 조직의 크기, 중량 및 치수",
+      "en_txt": "4. Size, weight and measurement of tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 조직의 보관방법",
+      "en_txt": "5. Methods of storing tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. “인체조직”이라는 문자",
+      "en_txt": "6. Letters indicating \"human tissues\";",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 그 밖에 총리령으로 정하는 사항 [본조신설 2014. 3. 18.]",
+      "en_txt": "7. Other matters prescribed by Ordinance of the Prime Minister. [This Article Newly Inserted on Mar. 18, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "조직은행의 장은 다음 각 호에 해당하는 사항을 적어 조직의 용기나 포장에 첨부하여야 한다. 다만, 해당 조직은행이 속한 의료기관에 조직을 분배할 경우에는 생략할 수 있다.",
+      "en_txt": "The head of a tissue bank shall enter the following matters and attach them on the containers or packages of tissues: Provided, That where he or she distributes tissues to a medical institution affiliated with the tissue bank, such matters may be omitted:",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직의 보관 및 사용 방법",
+      "en_txt": "1. Methods of storing and using tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직 채취 국가명",
+      "en_txt": "2. Name of country in which tissues were recovered;",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직기증자에 대한 검사의 결과",
+      "en_txt": "3. Results of inspection of tissue donors;",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 포장 개봉 후 사용시간 제한 등의 사항",
+      "en_txt": "4. Matters concerning restriction on the hours of use after opening packages;",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 개별 포장된 조직은 한 환자에게만 사용가능하다는 사항",
+      "en_txt": "5. Matters that separately packed tissues shall be used for only one patient;",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 그 밖에 총리령으로 정하는 사항 [본조신설 2014. 3. 18.]",
+      "en_txt": "6. Other matters prescribed by Ordinance of the Prime Minister. [This Article Newly Inserted on Mar. 18, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 제15조의2 및 제15조의3에 규정된 사항은 다른 문자, 기사, 그림 또는 도안보다 쉽게 볼 수 있는 부분에 총리령으로 정하는 바에 따라 한글로 적어야 하며, 필요한 경우 한자 등을 병기할 수 있다.",
+      "en_txt": "(1) Matters prescribed in Articles 15-2 and 15-3 shall be recorded in Korean letters on the part where such are more readily visible than other letters, news items, pictures or designs, as prescribed by Ordinance of the Prime Minister and, if necessary, Chinese letters, etc. may be recorded side by side with the Korean letters.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 조직은행의 장은 용기나 포장 또는 첨부문서에 다음 각 호의 사항을 적어서는 아니 된다.",
+      "en_txt": "(2) The head of a tissue bank shall not record the following matters on containers, packages or attached documents:",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 해당 조직에 관하여 거짓이나 오해할 우려가 있는 사항",
+      "en_txt": "1. False information about tissues or matters that are likely to be misunderstood;",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 정부기관 또는 특정 단체가 공인ㆍ추천ㆍ지도하거나 사용하고 있다는 사항이나 불법적으로 외국 상표ㆍ상호 등 을 표시하는 사항 [본조신설 2014. 3. 18.]",
+      "en_txt": "2. Matters with a purport that government agencies or specific organizations recognize officially, recommend, guide, or use the tissues, or illegally indicating foreign trade marks, trade names, etc. [This Article Newly Inserted on Mar. 18, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①조직을 채취하고자 하는 조직은행은 다음 각호의 사항을 준수하여야 한다. <개정 2014. 3. 18.>",
+      "en_txt": "(1) A tissue bank intending to recover tissues shall observe the following matters: <Amended on Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제7조 또는 제8조제1항ㆍ제2항의 규정에 의한 동의의 사실을 확인할 것",
+      "en_txt": "1. A tissue bank shall confirm consent under Articles 7 and 8 (1) and (2);",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 본인 또는 동의권자에게 다음 각목의 사항을 충분히 설명할 것",
+      "en_txt": "2. A tissue bank shall fully explain the following matters to donors or persons authorized to give consent:",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "가. 조직기증자의 혈액검사, 병력 및 투약이력의 조사 등에 관한 사항",
+      "en_txt": "(a) Matters concerning the blood test, inspection of medical history, and records of administered medicines of tissue donors;",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다. 조직기증후의 장례절차에 대한 사전 설명 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "(c) Advance explanation of funeral procedures after tissue donation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②제1항의 규정에 의한 본인 또는 동의권자에 대한 설명시 준수하여야 할 세부절차ㆍ내용 그 밖의 필요한 사항은 보건복지부장관이 정한다.<개정 2008. 2. 29., 2010. 1. 18.>",
+      "en_txt": "(2) The details of the procedures, matters to be explained and other necessary matters, which shall be complied with when explaining under paragraph (1) to donors and persons authorized to give consent, shall be prescribed by Ordinance of the Ministry of Health and Welfare. <Amended on Feb. 29, 2008; Jan. 18, 2010>",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 보건복지부장관은 조직의 안정적 수급을 지원하기 위하여 다음 각 호의 업무를 수행 하는 조직기증지원기관을 지정할 수 있다. <개정 2016. 2. 4.>",
+      "en_txt": "(1) To support the stable supply of and demand for tissues, the Minister of Health and Welfare may designate tissue donation support institutions performing the following duties: <Amended on Feb. 4, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직은행, 의료기관 및 장기구득기관 등 관련 기관과 협력을 통한 잠재적 조직기증자 관리 및 조직기증자 발굴",
+      "en_txt": "1. Management of potential tissue donors and discovery of tissue donor candidates in cooperation with other relevant institutions, such as tissue banks, medical institutions, organ procurement organizations, etc.;",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 잠재적 조직기증자의 조직기증 적합성 판단을 위한 의무기록의 열람(이 경우 열람은 「의료법」 제2조의 의료인이 하여야 한다)",
+      "en_txt": "2. Perusal of medical records to determine the availability for tissue donation by potential tissue donors (in such cases, the perusal shall be made by medical persons defined in Article 2 of the Medical Service Act);",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직기증자와 그 유족에 대한 관리 및 지원",
+      "en_txt": "3. Management of and support for tissue donors and their survivors;",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 조직기증에 관한 조사ㆍ연구 및 교육",
+      "en_txt": "4. Inspection, research and education concerning tissue donation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 그 밖에 조직기증 활성화를 위하여 보건복지부령으로 정하는 업무",
+      "en_txt": "5. Other duties prescribed by Ordinance of the Ministry of Health and Welfare for encouraging tissue donation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 조직기증지원기관으로 지정받을 수 있는 기관은 다음 각 호와 같다.",
+      "en_txt": "(2) Entities qualified as a tissue donation support institution are as listed hereunder:",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직의 기증 및 이식에 관련된 사업을 주된 목적으로 설립된 비영리법인",
+      "en_txt": "2. Non-profit corporations established with the main purpose of business related to tissue donation and transplant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 조직기증지원기관으로 지정받은 자가 지정받은 사항 중 보건복지부령으로 정하는 사항을 변경하려면 보건복지 부장관에게 변경신고를 하여야 한다. 이 경우 보건복지부장관은 그 신고받은 내용을 검토하여 이 법에 적합하면 신 고를 수리하여야 한다.<개정 2024. 3. 19.>",
+      "en_txt": "(3) Where an entity designated as a tissue donation support institution intends to modify the designation matters prescribed by Ordinance of the Ministry of Health and Welfare, it shall report such fact to the Minister of Health and Welfare.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 조직기증지원기관으로 지정받으려는 자는 대통령령으로 정하는 시설 및 인력 등을 갖추어야 한다.",
+      "en_txt": "(4) Entities intending to be designated as a tissue donation support institution shall have the facilities, human resources, etc. prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 조직기증지원기관은 심사평가원에 조직기증자에 대한 병력 및 투약이력의 조사를 요청할 수 있다. 이 경우 심사 평가원은 정당한 사유가 없으면 이에 따라야 하며, 그 결과를 통보하여야 한다.<신설 2014. 3. 18.>",
+      "en_txt": "(5) A tissue donation support institution may request the Review and Assessment Service to inspect the medical history and record of administered medicines. In such cases, the Review and Assessment Service shall comply with the request without good cause, and notify the results thereof. <Newly Inserted on Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 조직기증지원기관은 제5항에 따른 통보를 받은 경우에는 조직이 제9조 각 호의 어느 하나에 해당하는지 확인할 수 있다. 그 결과 조직기증자의 조직이 분배ㆍ이식에 부적합한 경우에는 본인 또는 가족ㆍ유족에게 통보하여야 한 다.<신설 2014. 3. 18.>",
+      "en_txt": "(6) A tissue donation support institution in receipt of notification under paragraph (5) may verify whether tissues fall under any subparagraph of Article 9. Where a donor's tissues are unavailable for distribution and transplant, it shall notify the relevant person, or family members or survivors thereof. <Newly Inserted on Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑦ 조직기증지원기관은 조직기증자를 조직은행에 이송한 경우에는 해당 조직은행에 제6항에 따른 확인결과를 통보 하여야 한다.<신설 2014. 3. 18., 2018. 12. 11.>",
+      "en_txt": "(7) Where a tissue donation support institution transfers tissue donors to a tissue bank, it shall notify the tissue bank of the result of verification under paragraph (6). <Newly Inserted on Mar. 18, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑧ 제5항부터 제7항까지에 따른 확인방법 및 절차 등에 필요한 사항은 제10조제7항을 준용한다.<신설 2014. 3. 18.,",
+      "en_txt": "(8) Article 10 (7) shall apply mutatis mutandis to matters necessary for the methods of inspection, procedures, etc. under paragraphs (5) through (7). <Newly Inserted on Mar. 18, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑨ 의료기관의 장은 잠재적 조직기증자의 가족 또는 유족이 조직기증에 관한 정보 제공 및 상담을 신청한 경우 즉 시 조직기증지원기관의 장에게 통보하여야 한다.<신설 2016. 2. 4.>",
+      "en_txt": "(9) Where the family member or survivor of a potential tissue donor requests the provision of information and consultation regarding tissue donation, the head of a medical institution shall promptly inform the head of a tissue donation support institution of the fact. <Newly Inserted on Feb. 4, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑩ 조직기증지원기관의 장은 조직기증 정보 제공 및 상담을 위하여 필요한 경우 장기구득기관의 장에게 뇌사추정 자 및 뇌사판정대상자의 이름, 성별, 생년월일과 입원한 의료기관명의 제공을 요청할 수 있다. 이 경우 장기구득기 관의 장은 그 정보를 제공하여야 한다.<신설 2016. 2. 4.>",
+      "en_txt": "(10) If necessary for the provision of information and consultation regarding tissue donation, the head of a tissue donation support institutions may request the head of an organ procurement organization to provide information on the name, gender, the date of birth of a potential brain-dead organ donor and persons who are subject to determination of brain death and the name of medical institutions where they are hospitalized. In such cases, the head of the organ procurement organization shall provide such information. <Amended on Feb. 4, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑪ 조직기증지원기관의 지정 절차 및 운영 등에 필요한 사항은 보건복지부령으로 정한다.<개정 2014. 3. 18., 2016. 2. 4.> [본조신설 2014. 1. 28.]",
+      "en_txt": "(11) Matters necessary for procedures for designation, and the management, etc. of tissue donation support institutions, shall be prescribed by Ordinance of the Ministry of Health and Welfare. <Amended on Mar. 18, 2014; Feb. 4, 2016> [This Article Newly Inserted on Jan. 28, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 보건복지부장관은 조직기증지원기관에서 발굴한 조직의 채취, 가공처리 및 분배 등 조직 관리를 공익성, 비영리성의 원칙 아래 수행하기 위하여 공공조직은행을 지정하여 운영하여야 한다.",
+      "en_txt": "(1) The Minister of Health and Welfare shall designate and operate a public tissue bank to conduct the management of tissues including recovery, processing and distribution, etc. of tissues found in tissue donation support institutions under the principle of public interest and nonprofit.",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 공공조직은행으로 지정받을 수 있는 자는 제13조제2항제1호 및 제2호에 해당하는 조직은행이다.",
+      "en_txt": "(2) A person qualified to be designated as a public tissue bank is the tissue bank falling under Article 13 (2) 1 and 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 공공조직은행은 뇌사자 및 사망자에 대한 조직 기증 업무를 수행할 수 없다.",
+      "en_txt": "(3) No public tissue bank shall conduct the business of tissue donation of the dead and the brain-dead.",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 공공조직은행의 장은 보건복지부령으로 정하는 재무ㆍ회계에 관한 기준에 따라 공공조직은행을 투명하게 운영 하여야 한다.",
+      "en_txt": "(4) The head of the public tissue bank shall operate the public tissue bank transparently according to the finance and accounting standards prescribed by Ordinance of the Ministry of Health and Welfare.",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤ 공공조직은행의 장은 조직관리 현황을 국립조직기증관리기관의 장에게 보고하여야 하며, 위원회는 정기적으로 공공조직은행의 조직 분배의 적정성에 대하여 심의하여야 한다. 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "(5) The head of a public tissue bank shall report the status of tissue management to the head of the National Tissue Donation Management Agency and the Committee shall deliberate on the suitability of tissue distribution of the public tissue bank regularly.",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 공공조직은행의 지정 절차, 준수사항 및 운영 등에 필요한 사항은 보건복지부령으로 정한다. [본조신설 2016. 2. 4.]",
+      "en_txt": "(6) Matters necessary for the designation procedure, matters to be observed and operation, etc. of the public tissue bank shall be prescribed by Ordinance of the Ministry of Health and Welfare. [This Article Newly Inserted on Feb. 4, 2016]",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①조직은행외의 자는 조직을 수입하여서는 아니된다.",
+      "en_txt": "(1) No one, other than tissue banks, may import tissue.",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 조직을 수입하려는 조직은행의 장은 총리령으로 정하는 바에 따라 조직마다 식품의약품안전처장의 승인을 받아야 한다. 승인받은 사항을 변경하려는 경우에도 같다.<개정 2014. 1. 28.>",
+      "en_txt": "(2) The head of a tissue bank intending to import tissues shall obtain approval for each tissue from the Minister of Food and Drug Safety, as prescribed by Ordinance of the Prime Minister. The same shall apply to the modification of approved matters. <Amended on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 외국에서 수입되는 조직의 안전성 확보 등을 위하여 총리령으로 정하는 바에 따라 해당 조직을 처리한 기관ㆍ법인ㆍ단체 등 수출국 제조원에 대한 실태조사를 할 수 있다. 이 경우 식품의약품안전처장은 수출국 제조원이 실태조사를 정당한 사유 없이 거부하거나 실태조사 결과 수입 조직으로 인한 위해발생의 우려가 있는 경우에는 총리령으로 정하는 바에 따라 해당 수출국 제조원의 조직에 대하여 수입중단 조치를 할 수 있다.<신 설 2014. 1. 28., 2018. 12. 11.>",
+      "en_txt": "(3) To ensure the safety of tissues imported from foreign countries, etc., the Minister of Food and Drug Safety may inspect the status of producers of exporting countries, such as institutions, corporations, organizations, etc. that handled relevant tissues. In such cases, the Minister of Food and Drug Safety may suspend import of the tissues of an exporting country’s producer as prescribed by Ordinance of the Prime Minister, if the producer refuses such inspection without good cause or if, as a result of such inspection, a tissue imported is found to be likely to cause harm. <Newly Inserted on Jan. 28, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 조직을 수입하는 조직은행의 장은 조직별로 총리령으로 정하는 사항이 기록된 수입 조직 관리현황 자료를 작성 하고 이를 비치하여야 한다.<신설 2014. 1. 28.>",
+      "en_txt": "(4) The head of a tissue bank that imports tissues shall prepare and preserve a management record in which items for each imported tissue prescribed by Ordinance of the Prime Minister are included. <Newly Inserted on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 조직은행의 장은 제1항에 따라 등록한 사항을 변경하려는 경우에는 총리령으로 정하는 바에 따라 식품의약품안 전처장에게 변경등록을 하여야 한다.",
+      "en_txt": "(2) Where the head of a tissue bank intends to modify any of the matters registered under paragraph (1), he or she shall register such modification with the Minister of Food and Drug Safety, as prescribed by Ordinance of the Prime Minister.",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항 및 제2항에서 규정한 사항 외에 등록 및 변경등록의 절차와 방법 등에 필요한 사항은 총리령으로 정한다. [본조신설 2018. 12. 11.]",
+      "en_txt": "(3) Except as provided in paragraphs (1) and (2), matters necessary for the procedures and methods for registration and registration of modification shall be prescribed by Ordinance of the Prime Minister. [This Article Newly Inserted on Dec. 11, 2018]",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "형사소송법 또는 검역법에 의하여 해부 또는 검시를 하여야 하는 경우에는 그 해부 또 는 검시전에 조직의 이식을 위한 조직의 채취를 할 수 없다. 다만, 진료를 담당한 의료인이 채취할 조직과 사망의 원 인간에 상관관계가 없고 해부 또는 검시를 기다려서는 채취할 시기를 상실할 우려가 있다고 판단하는 경우에는 관 할 지방검찰청 또는 지방검찰지청의 검사, 관할 검역소장의 승인과 유족의 동의를 얻어 조직을 채취할 수 있다.",
+      "en_txt": "No recovery of tissue shall be performed before autopsy or postmortem examination where an autopsy or postmortem examination is required under the Criminal Act or the Quarantine Act: Provided, that tissue recovery may be performed with approval from the prosecutor of a competent District Prosecutors' Office or its branch office or the director of a competent quarantine station and with consent of the surviving family members, where a medical personnel charged with medical care determines that there is no correlation between the tissue to be recovered and the cause of death and that, if recovery is delayed until after autopsy or postmortem examination, the effective time for tissue recovery may be exceeded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "조직은행 및 조직이식의료기관의 장은 조직의 기증ㆍ관리 및 이식 등에 관한 기록을 보건복지부 장관이 정하는 바에 따라 10년간 보존하여야 한다. <개정 2008. 2. 29., 2010. 1. 18.>",
+      "en_txt": "(1) A tissue bank shall keep records of data relating to the donation, management, and transplantation of tissue and report such data to the Minister of Food and Drug Safety annually, as prescribed by Ordinance of the Prime Minister. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②조직이식의료기관은 이식결과를 총리령이 정하는 바에 의하여 조직은행에 통보하여야 한다. 이를 통보받은 조직 은행은 제1항의 규정에 의한 보고시 이를 포함하여 보고하여야 한다.<개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "(2) A tissue transplant hospital shall notify tissue banks of the results of transplant, as prescribed by Ordinance of the Prime Minister. The tissue bank so notified shall include such notice in its report submitted under paragraph (1). <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③조직은행 및 조직이식의료기관은 총리령으로 정하는 바에 따라 각 조직마다 분배부터 이식까지 조사ㆍ기록하는 추적조사를 실시하고, 그 결과 및 부작용 등을 식품의약품안전처장에게 보고하여야 한다.<개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 3. 18.>",
+      "en_txt": "(3) Tissue banks and tissue transplant hospitals shall conduct follow-up inspection, from distribution through to transplantation, for each tissue as prescribed by Ordinance of the Prime Minister, and make a report on the findings, side effects, etc. to the Minister of Food and Drug Safety. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "조직은행의 장은 조직을 기증한 자나 그 유족이 당해 조직의 채취 또는 이식에 관한 기록의 열 람 또는 사본의 교부를 요구하는 경우에 조직기증 제반에 관한 기록 또는 이식에 관한 기록을 열람시키거나 사본을 교부하여야 한다. 다만, 진료를 담당한 의료인이 그 기록의 내용을 조직을 기증하거나 이식받은 자가 알게 되는 경우 그의 치료 또는 회복에 현저한 지장을 초래할 우려가 있다고 판단하는 때에는 이를 거부할 수 있다.",
+      "en_txt": "Where a donor or a donor's surviving family member demands perusal of, or issuance of copies of, the records relating to recovery or transplant of relevant tissue, the head of the relevant tissue bank shall allow perusal or issue copies of the records of overall process of tissue donation or the records relating to transplant: Provided, That when a medical personnel making diagnosis determines that such act might seriously interfere with the treatment or recovery of a tissue donor or a tissue recipient, such medical personnel may refuse to allow perusal or issuance of copies of the records.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①등록기관ㆍ조직기증지원기관ㆍ조직은행ㆍ조직이식의료기관 또는 조직의 기증ㆍ관리 및 이식 관련업무에 종사하는 자로서 대통령령이 정하는 자는 이 법에 특별히 규정한 경우를 제외하고는 당해 조직기증자 등의 조직 채취ㆍ이식과 관련된 업무를 담당하는 자외의 자에게 다음 각호의 1에 해당하는 사항을 알려주어서는 아 니된다. <개정 2014. 1. 28., 2014. 3. 18., 2016. 2. 4.> 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "(1) Unless otherwise expressly prescribed by this Act, registries, tissue donation support institutions, tissue banks, tissue transplant hospitals or persons prescribed by Presidential Decree who are engaged in the duties related to the donation, management, or transplantation of tissues shall not divulge any of the following matters to persons other than those who are engaged in the duties related to the recovery and transplantation of tissues of the relevant tissue donors: <Amended on Jan. 28, 2014; Mar. 18, 2014; Feb. 4, 2016>",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직기증자와 채취한 조직에 관한 사항, 조직기증자의 병력 및 투약이력의 조사결과에 관한 사항, 조직기증자 및 잠재적 조직기증자의 의무기록에 관한 사항, 장기구득기관에서 연계받은 뇌사추정자 및 뇌사판정대상자에 관한 사항",
+      "en_txt": "1. Matters regarding tissue donors and recovered tissues, matters regarding the result of investigating medical history or records of administered medicines of tissue donors, matters regarding the medical records of tissue donors and potential tissue donors, and matters regarding potential brain-dead person and persons who are subjects of determination of brain death connected from tissue donation support institutions;",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 이식대상자와 이식한 조직에 관한 사항",
+      "en_txt": "2. Matters concerning transplant recipients and transplanted tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직 기증희망자에 관한 사항",
+      "en_txt": "3. Matters concerning persons who wish to donate tissues.",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②다음 각호의 1에 해당하는 경우에는 제1항의 규정을 적용하지 아니한다.<개정 2014. 1. 28.>",
+      "en_txt": "(2) Paragraph (1) shall not apply where any of the following is applicable: <Amended on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 범죄수사를 위한 수사기관이 조직 등의 채취 또는 이식과 관련된 자료를 요청한 경우",
+      "en_txt": "1. Where a criminal investigative agency requests data relating to recovery or transplantation of tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 재판과 관련되어 법관이 조직 등의 채취 또는 이식과 관련된 자료를 요청한 경우 <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28.>",
+      "en_txt": "2. Where a judge requests, in connection with a trial, any data relating to recovery or transplantation of tissues;",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 「장기등 이식에 관한 법률」에 따라 장기등 기증을 목적으로 요청한 경우",
+      "en_txt": "3. Where a request is made with the purpose of donation of organs, etc. pursuant to the Organs Transplant Act. CHAPTER III SUPERVISION",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①보건복지부장관, 식품의약품안전처장 또는 국립조직기증관리기관의 장은 조직의 기증ㆍ관리 및 이식 등과 관련하여 필요하다고 인정하는 경우에는 등록기관ㆍ조직기증지원기관ㆍ조직은행ㆍ조직이식의료기관 의 장 및 그 종사자에 대하여 그 업무에 관하여 필요한 명령을 하거나 보고 또는 관계서류의 제출을 명할 수 있다. 기관ㆍ조직은행ㆍ조직이식의료기관의 관계 서류 등에 대하여 대통령령으로 정하는 바에 따라 관계공무원으로 하 여금 조사하게 할 수 있다. 이 경우 조사를 담당하는 관계공무원은 그 권한을 표시하는 증표를 지니고 이를 관계인 에게 내보여야 한다.<개정 2008. 2. 29., 2010. 1. 18., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28.>",
+      "en_txt": "(1) The Minister of Health and Welfare, the Minister of Food and Drug Safety or the head of the National Tissue Donation Management Agency may issue necessary orders to the head of a registry, tissue donation support institution, tissue bank or tissue transplant hospital or its employee in regard to his or her duties, or may order reporting or submission of relevant documents, if deemed necessary in relation to donation, management, or transplantation of tissues. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②보건복지부장관, 식품의약품안전처장 또는 국립조직기증관리기관의 장은 제1항에 따른 등록기관ㆍ조직기증지원기관ㆍ조직은행ㆍ조직이식의료기관의 관계 서류 등에 대하여 대통령령으로 정하는 바에 따라 관계공무원으로 하여금 조사하게 할 수 있다. 이 경우 조사를 담당하는 관계공무원은 그 권한을 표시하는 증표를 지니고 이를 관계인에게 내보여야 한다.<개정 2008. 2. 29., 2010. 1. 18., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28.>",
+      "en_txt": "(2) The Minister of Health and Welfare, the Minister of Food and Drug Safety or the head of the National Tissue Donation Management Agency may have relevant public officials inspect relevant documents of registries, tissue donation support institutions, tissue banks, tissue transplant hospitals, etc. under paragraph (1), as prescribed by Presidential Decree. In such case, the relevant public officials in charge of inspection shall carry a certificate indicating their authority and present it to interested persons. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③등록기관ㆍ조직기증지원기관ㆍ조직은행 또는 조직이식의료기관의 장 및 그 종사자는 정당한 사유가 없는 한 제 1항 및 제2항의 규정에 의한 명령 또는 조사에 응하여야 한다.<개정 2014. 1. 28.>",
+      "en_txt": "(3) The head of a registry, tissue donation support institution, tissue bank or tissue transplant hospital or its employee shall comply with an order or cooperate with inspection under paragraphs (1) and (2), without good cause. <Amended on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "보건복지부장관, 식품의약품안전처장 또는 국립조직기증관리기관의 장은 등록기관ㆍ조직기증지원기관ㆍ조직은행 또는 조직이식의료기관의 장 및 그 종사자가 다음 각호의 1에 해당하는 경우에는 해당기관의 장에게 일정한 기간을 정하여 위반사항의 시정을 명할 수 있다. <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28.>",
+      "en_txt": "Where the head of a registry, tissue donation support institution, tissue bank or tissue transplant hospital or any of its employees fall under any of the following, the Minister of Health and Welfare, the Minister of Food and Drug Safety or the head of the National Tissue Donation Management Agency may order the head of a relevant organization to make corrections within a specified period: <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제7조의2제2항에 따른 통보를 하지 아니한 경우",
+      "en_txt": "1. Where no notification under Article 7-2 (2) is made;",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제15조제3항에 따른 조직은행의 준수사항을 지키지 아니한 경우",
+      "en_txt": "2. Where any matter to be observed under Article 15 (3) is not observed;",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제19조의 규정에 의한 보고를 하지 아니한 경우",
+      "en_txt": "3. Where a report under Article 19 is not made;",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제20조의 규정에 의한 기록을 보존하지 아니한 경우",
+      "en_txt": "4. Where records under Article 20 are not maintained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 식품의약품안전처장은 국민보건에 위해를 주었거나 줄 염려가 있는 조직을 처리 또는 수입하여 분배한 조직은행 또는 조직이식의료기관에 대하여 조직의 사용을 중지하거나 그 밖의 필요한 조치를 명할 수 있다.",
+      "en_txt": "(1) The Minister of Food and Drug Safety may order a tissue bank or tissue transplant hospital, which has handled or distributed tissues after importing tissues that harmed or are likely to harm national health, to suspend use of the tissues or take other necessary measures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 식품의약품안전처장은 조직으로 인하여 공중위생상 위해가 발생하였거나 발생할 우려가 있다고 인정하면 조직 은행 또는 조직이식의료기관에 대하여 보관 중인 조직을 회수ㆍ폐기하게 하거나 그 밖의 필요한 조치를 명할 수 있 다.",
+      "en_txt": "(2) Where the Minister of Food and Drug Safety deems injury to national health has occurred or is likely to occur from tissues, he or she may order a tissue bank or tissue transplant hospital to collect or destruct tissues in storage or take other necessary measures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제1항 또는 제2항에 따른 명령을 받은 자가 그 명령을 이행하지 아니하거나 공중위생을 위하여 긴급한 때에는 관계 공무원에게 해당 조직을 폐기하게 하거나 그 밖의 필요한 처분을 하게 할 수 있다.",
+      "en_txt": "(3) Where a person in receipt of an order under paragraph (1) or (2) fails to implement the order or urgent needs arise for public health, the Minister of Food and Drug Safety may have relevant public officials destroy relevant tissues or impose necessary dispositions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제2항 및 제3항에 따른 조직의 회수ㆍ폐기와 그 밖의 조치 등에 필요한 사항은 총리령으로 정한다. [본조신설 2014. 3. 18.]",
+      "en_txt": "(4) Matters necessary for the collection and destruction of tissues under paragraphs (2) and (3), other measures, etc. shall be prescribed by Ordinance of the Prime Minister. [This Article Newly Inserted on Mar. 18, 2014]",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①식품의약품안전처장은 조직은행이 다음 각 호의 어느 하나에 해당하는 경우에는 그 허가를 취소하거나 총리령이 정하는 바에 따라 1년 이내의 기간을 정하여 그 업무의 전부 또는 일부의 정지를 명할 수 있 인체조직안전 및 관리 등에 관한 법률 기간을 정하여 그 업무의 전부 또는 일부의 정지를 명하도록 요청할 수 있다. <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28., 2014. 3. 18., 2016. 2. 4., 2018. 12. 11., 2021. 8. 17.>",
+      "en_txt": "(1) Where a tissue bank falls under any of following cases, the Minister of Food and Drug Safety may revoke the permission for the tissue bank or may fully or partially suspend operation of its business for a specified period of up to one year, as prescribed by Ordinance of the Prime Minister: Provided, That in cases falling under subparagraphs 6 and 7, the Minister of Health and Welfare may request the Minister of Food and Drug Safety to revoke the permission or to issue an order to fully or partially suspend operation of its business for a specified period of up to one year: <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014; Mar. 18, 2014; Feb. 4, 2016; Dec. 11, 2018; Aug. 17, 2021>",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제10조제1항을 위반하여 이식의 적합성 여부를 검사하지 아니한 경우 또는 분배ㆍ이식에 부적합한 조직을 폐기 처분하지 아니하거나 보고하지 아니한 경우 1의2. 제10조제3항 전단 또는 같은 조 제5항을 위반하여 조직기증자의 병력 및 투약이력의 조사를 요청하여 그 결 과를 확인하지 아니하거나 분배ㆍ이식에 부적합한 조직을 폐기하지 아니한 경우 1의3. 제10조제6항을 위반하여 조직의 사용 및 수급 현황을 보고하지 아니한 경우",
+      "en_txt": "1. Where it fails to examine the availability for transplantation or to destroy or report a tissue unavailable for distribution or transplantation, in violation of Article 10 (1); 1-2. Where it fails to request the inspection of the medical history and records of administered medicines of a tissue donor and verify the result of such inspection, or fails to destroy tissues unavailable for distribution or transplantation, in violation of the former part of Article 10 (3) or paragraph (5) of the same Article; 1-3. Where it fails to report the use and demand-supply status of a tissue, in violation of Article 10 (6);",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제13조제1항 전단의 규정에 의한 시설ㆍ장비ㆍ인력ㆍ품질관리체계 등을 갖추지 아니하게 된 경우 2의2. 제13조제1항 후단에 따른 중요 사항의 변경허가를 받지 아니한 경우 2의3. 거짓이나 그 밖의 부정한 방법으로 제13조제1항, 제14조제2항 또는 제17조제2항에 따른 허가ㆍ변경허가, 갱 신허가 또는 승인ㆍ변경승인을 받은 경우",
+      "en_txt": "2. Where it fails to have facilities, equipment, human resources, quality control system, etc. prescribed in the former part of Article 13 (1); 2-2. Where it fails to obtain permission for any modification of significant matters pursuant to the latter part of Article 13 (1); 2-3. Where it obtains permission, permission for modification, permission for renewal, approval, or approval for modification under Article 13 (1), 14 (2), or 17 (2) by fraud or other improper means;",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제13조의2를 위반한 경우",
+      "en_txt": "3. Where it violates Article 13-2;",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제15조 및 제15조의2부터 제15조의4까지를 위반한 경우",
+      "en_txt": "4. Where it violates Articles 15 and 15-2 through 15-4;",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 제16조제1항에 따른 조직 채취 시 준수사항을 지키지 아니한 경우 5의2. 제17조의2를 위반하여 등록 또는 변경등록을 하지 아니한 경우",
+      "en_txt": "5. Where it fails to observe the matters in recovering tissues under Article 16 (1); 5-2. Where it fails to make registration or registration of modification, in violation of Article 17-2;",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 제23조제1항의 규정에 의한 명령을 이행하지 아니하거나 동조제2항의 규정에 의한 조사에 불응한 경우",
+      "en_txt": "6. Where it fails to comply with an order under Article 23 (1) or refuses the inspection under paragraph (2) of the same Article;",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 제24조의 규정에 의한 시정명령을 이행하지 아니한 경우",
+      "en_txt": "7. Where it fails to comply with the corrective order under Article 24;",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "8. 제24조의2제1항 또는 제2항에 따른 명령을 이행하지 아니한 경우",
+      "en_txt": "8. Where it fails to comply with the order under Article 24-2 (1) or (2).",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 보건복지부장관은 등록기관 또는 조직기증지원기관이 다음 각 호의 어느 하나에 해당하는 경우에는 그 지정을 취소하거나 보건복지부령으로 정하는 바에 따라 1년 이내의 기간을 정하여 그 업무의 전부 또는 일부의 정지를 명 할 수 있다.<신설 2014. 1. 28., 2014. 3. 18.>",
+      "en_txt": "(2) Where a registry or tissue donation support institution falls under any of the following cases, the Minister of Food and Drug Safety may revoke the designation or issue an order to fully or partially suspend operation of its business for a specified period of up to one year: <Newly Inserted on Jan. 28, 2014; Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제7조의3제1항 또는 제16조의2제4항에 따른 시설ㆍ인력 등의 기준에 적합하지 아니하게 된 경우",
+      "en_txt": "1. Where it fails to meet the standards for facilities, human resources, etc. under Article 7-3 (1) or 16-2 (4);",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제16조의2제6항 후단 또는 같은 조 제7항을 위반하여 필요한 조치를 취하지 아니한 경우",
+      "en_txt": "2. Where it fails to take necessary measures, in violation of the latter part of Article 16-2 (6) or paragraph (7) of the same Article;",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제23조제1항에 따른 명령을 이행하지 아니하거나 같은 조 제2항에 따른 조사에 불응한 경우",
+      "en_txt": "3. Where it fails to comply with the order under Article 23 (1) or refuses the inspection under paragraph (2) of the same Article;",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제24조에 따른 시정명령을 이행하지 아니한 경우",
+      "en_txt": "4. Where it fails to comply with the corrective order under Article 24.",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③보건복지부장관 또는 식품의약품안전처장은 등록기관, 조직기증지원기관 또는 조직은행이 제1항 및 제2항에 따른 업무의 정지명령을 위반하여 업무를 한 때에는 그 허가 또는 지정을 취소할 수 있다.<개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28.>",
+      "en_txt": "(3) Where a registry, tissue donation support institution or tissue bank operates its business in violation of an order for suspension under paragraphs (1) and (2), the Minister of Health and Welfare or the Minister of Food and Drug Safety may revoke the permission or designation. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제1항부터 제3항까지의 규정에 따라 허가 또는 지정이 취소된 등록기관, 조직기증지원기관 또는 조직은행은 그 허가 또는 지정이 취소된 날부터 1년 이내에 등록기관, 조직기증지원기관 또는 조직은행으로 허가 또는 지정을 받 을 수 없다.<개정 2014. 1. 28.>",
+      "en_txt": "(4) Where permission or designation of a registry, tissue donation support institution or tissue bank is revoked pursuant to paragraphs (1) through (3), the registry, tissue donation support institution or tissue bank shall not obtain permission or designation within one year from the date of revocation of such permission or designation. <Amended on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑤제1항의 규정에 의한 행정처분의 세부기준은 그 위반행위의 유형과 위반의 정도등을 고려하여 총리령으로 정한 다.<개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28.>",
+      "en_txt": "(5) Detailed criteria for administrative disposition under paragraph (1) shall be prescribed by Ordinance of the Prime Minister in consideration of the types, severity, etc. of violations. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "⑥ 제2항에 따른 행정처분의 세부기준은 그 위반 행위의 유형과 위반의 정도 등을 고려하여 보건복지부령으로 정한 다.<신설 2014. 1. 28.> [제목개정 2014. 1. 28.]",
+      "en_txt": "(6) Detailed standards for the administrative dispositions under paragraph (2) shall be prescribed by Ordinance of the Ministry of Health and Welfare in consideration of the types, severity, etc. of violations. <Newly Inserted on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①조직은행이 폐업하고자 할 경우 총리령으로 정하는 바에 따라 식품의약품안전 수리하여야 한다. <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2018. 12. 11., 2024. 3. 19.>",
+      "en_txt": "(1) Where a tissue bank intends to cease operation of its business, it shall report such fact to the Minister of Food and Drug Safety, as prescribed by Ordinance of the Prime Minister. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 등록기관 또는 조직기증지원기관이 폐업하려 하거나 조직기증자ㆍ조직기증희망자의 등록업무 또는 조직기증자 발굴업무를 끝내려고 하는 경우에는 보건복지부령으로 정하는 바에 따라 보건복지부장관에게 신고하여야 한다. 이 경우 보건복지부장관은 그 신고받은 내용을 검토하여 이 법에 적합하면 신고를 수리하여야 한다.<신설 2014. 1. 28., 2024. 3. 19.> 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "(2) Where a registry or tissue donation support institution intends to cease operation of its business or intends to discontinue work of registering tissue donors and candidates for tissue donation or discovering tissue donor candidates, it shall report such fact to the Minister of Health and Welfare as prescribed by Ordinance of the Ministry of Health and Welfare. <Newly Inserted on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③제1항의 규정에 의하여 폐업하거나 제25조의 규정에 의하여 허가가 취소된 조직은행의 장은 대통령령이 정하는 관한 자료를 제출하여야 한다.<개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28., 2018. 12. 11.>",
+      "en_txt": "(3) The head of a tissue bank that ceases operation of its business pursuant to paragraph (1) or whose permission is revoked pursuant to Article 25 shall transfer the records pursuant to Article 20 to the Minister of Food and Drug Safety and submit data relating to the plan for and results of handling tissues in storage, as prescribed by Presidential Decree. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제2항에 따라 폐업하거나 업무를 끝내려는 등록기관ㆍ조직기증지원기관의 장 또는 제25조에 따라 지정이 취소 된 등록기관ㆍ조직기증지원기관의 장은 대통령령으로 정하는 바에 따라 관련 자료를 보건복지부장관에게 이관하 여야 한다.<신설 2014. 1. 28.>",
+      "en_txt": "(4) The head of a registry or tissue donation support institution which intends to cease operation of its business or discontinue work pursuant to paragraph (2) or whose designation is revoked pursuant to Article 25 shall transfer relevant data to the Minister of Health and Welfare, as prescribed by Presidential Decree. <Newly Inserted on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 제23조제2항 및 제24조의2제3항에 따른 관계 공무원의 직무를 집행하게 하기 위하여 보건복지부 및 식품의약품안전처에 인체조직감시원을 둔다.",
+      "en_txt": "(1) Human tissue supervisors shall be assigned to the Ministry of Health and Welfare and the Ministry of Food and Drug Safety to perform the duties of the relevant public officials under Articles 23 (2) and 24-2 (3).",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 인체조직감시원은 보건복지부 또는 식품의약품안전처 공무원 중에서 보건복지부장관 또는 식품의약품안전처장이 각각 임명한다.",
+      "en_txt": "(2) Human tissue supervisors shall be appointed by the Minister of Health and Welfare or the Minister of Food and Drug Safety, respectively, from among the public officials of the Ministry of Health and Welfare or the Ministry of Food and Drug Safety.",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 인체조직감시원의 자격, 직무범위, 임명절차 및 그 밖에 필요한 사항은 보건복지부장관과 협의하여 총리령으로 정한다. [본조신설 2018. 12. 11.]",
+      "en_txt": "(3) Qualifications for and the scope of work and the procedures for appointment of human tissue supervisors, and other necessary matters, shall be prescribed by Ordinance of the Prime Minster in consultation with the Minister of Health and Welfare. [This Article Newly Inserted on Dec. 11, 2018] CHAPTER IV SUPPLEMENTARY PROVISIONS",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 국가와 지방자치단체는 조직의 기증과 이식을 활성화하기 위하여 예산의 범위에서 다음 각 호의 사업을 한다.",
+      "en_txt": "(1) The State or local governments shall implement the following projects within budgetary limits in order to revitalize tissue donation and transplantation:",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 조직기증자에 대한 지원 정책의 마련 및 추진",
+      "en_txt": "1. Formulation and promotion of policies to support tissue donors;",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 조직의 기증ㆍ이식에 대한 홍보 지원",
+      "en_txt": "2. Support for publicity of tissue donation and transplantation;",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 조직기증희망자 표시(국가와 지방자치단체가 발행하는 운전면허증 등 증명서에 표시하는 것으로서 제7조의2제 1항에 따라 조직기증희망자로 등록한 자 중 원하는 자에 한정한다)",
+      "en_txt": "3. Indication of candidate for tissue donation (placing a mark on certificates, such as driver's license, etc., issued by the State and local governments, which is implemented to wishers from among persons who has registered as a candidate for tissue donation under Article 7-2 (1)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 국가와 지방자치단체는 등록기관, 조직기증지원기관, 조직은행 또는 조직기증자에게 예산의 범위에서 필요한 지 원을 할 수 있다.",
+      "en_txt": "(2) The State and local governments may render necessary support to registries, tissue donation support institutions, tissue banks or tissue donors, within budgetary limits.",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 국가는 조직의 기증ㆍ관리 및 이식 등과 관련된 정보를 관리하는 전산망시스템을 구축ㆍ관리할 수 있다.",
+      "en_txt": "(3) The State may establish and manage a computer network system that manages information on the donation, management, transplantation, etc. of tissues.",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④ 제3항에 따른 전산망시스템의 구축ㆍ관리주체 및 운영 등에 필요한 사항은 대통령령으로 정한다. [전문개정 2014. 1. 28.]",
+      "en_txt": "(4) Matters necessary for entities in charge of establishment and management of computer network system, operation, etc. under paragraph (3) shall be prescribed by Presidential Decree.",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식품의약품안전처장은 조직의 안전, 품질관리 등을 위하여 국제기구, 관련 국가와 협약을 체결하는 등 국제협력에 노력하여야 한다. [본조신설 2018. 12. 11.]",
+      "en_txt": "The Minister of Food and Drug Safety shall strive for international cooperation, such as concluding agreements with international organizations and relevant countries, for the safety and quality control of tissues. [This Article Newly Inserted on Dec. 11, 2018]",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "보건복지부장관 또는 식품의약품안전처장은 이 법에 의한 권한의 일부를 대통령령이 정하는 바에 의하여 소속기관의 장, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ특별자치도지사 또는 시장ㆍ군수ㆍ구청장(자 치구의 구청장을 말한다. 이하 같다)에게 위임할 수 있다. <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23.>",
+      "en_txt": "The Minister of Health and Welfare or the Minister of Food and Drug Safety may partially delegate his or her authority under this Act to the head of a subordinate agency, the Special Metropolitan City Mayor, the Metropolitan City Mayor, the Special Self-Governing City Mayor, the Governor, the Governor of the Special Self-Governing Province, or the head of a Si/Gun/Gu (referring to the head of an autonomous Gu; hereinafter the same shall apply), as prescribed by Presidential Decree. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013>",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 보건복지부장관, 식품의약품안전처장, 국립조직기증관리기관의 장, 조직기증지원기관의 장 또는 조직은행의 장은 조직기증자 발굴 또는 조직을 안전하고 신속하게 채취ㆍ운반하거나 이식하기 위하여 필요한 조치 를 관계기관의 장에게 요청할 수 있다. 이 경우 관계기관의 장은 정당한 사유가 없는 한 이에 응하여야 한다. <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28., 2018. 12. 11.>",
+      "en_txt": "(1) The Minister of Health and Welfare, the Minister of Food and Drug Safety, the head of the National Tissue Donation Management Agency, the head of a tissue donation support institution or the head of a tissue bank may request the heads of relevant agencies to take measures necessary for the discovery of tissue donor candidates or for the safe and swift recovery, transportation or transplantation of tissues. In such case, the heads of relevant agencies shall comply with such requests without good cause. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 식품의약품안전처장은 제2항에 따른 요청을 받은 경우 「국민건강보험법」 제42조제1항에 따른 요양기관에 조직 기증자의 병력 및 투약이력에 관한 자료를 요청할 수 있다. 이 경우 요청받은 요양기관의 장은 정당한 사유가 없으 인체조직안전 및 관리 등에 관한 법률 면 이에 따라야 한다.<신설 2018. 12. 11.>",
+      "en_txt": "(2) If the findings of inspecting the medical history and the record of administered medicines of a tissue donor under Article 10 (3) are not consistent with other data showing the medical history of the tissue donor or otherwise require additional verification, the head of the tissue bank may request the Minister of Food and Drug Safety to provide inspection data concerning the medical history and the record of administered medicines. <Newly Inserted on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "① 이 법에 따른 조직은행이 아닌 자는 그 상호 중에 조직은행이라는 명칭을 사용 하여서는 아니 된다.",
+      "en_txt": "(1) No entity, other than a tissue bank provided for in this Act, shall use the title \"tissue bank\" in its trade name.",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "② 이 법에 따른 조직은행이 아닌 자는 조직은행으로 허가받은 것으로 오인할 수 있는 표시나 광고를 하여서는 아 니 된다. [본조신설 2018. 12. 11.]",
+      "en_txt": "(2) No entity, other than a tissue bank provided for in this Act, shall use any label or advertisement by which it may be misunderstood as an authorized tissue bank. [This Article Newly Inserted on Dec. 11, 2018]",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "국립조직기증관리기관 또는 조직기증지원기관의 장은 제7조에 따른 조직 기증에 관한 동의 확인 , 제7조의2제1항 단서에 따른 조직기증자가 뇌사자 또는 사망한 사람인 경우 가족 또는 유족 확인, 제8조에 따른 조 직채취에 관한 동의 확인을 위하여 필요한 경우 「가족관계의 등록 등에 관한 법률」 제3조에 따른 시ㆍ읍ㆍ면의 장 에게 같은 법 제15조에 따른 증명서의 교부를 신청할 수 있고, 법원행정처장에게 같은 법 제11조제4항에 따른 전산 정보자료를 요청할 수 있다. 이 경우 신청 또는 요청을 받은 자는 정당한 사유가 없으면 이에 따라야 하며, 국립조직 기증관리기관 또는 조직기증지원기관의 장에게 제공하는 자료에 대하여는 사용료 또는 수수료 등을 면제한다. [본조신설 2024. 1. 23.]",
+      "en_txt": "If it is necessary to confirm consent to tissue donation under Article 7, if it is necessary for confirming his or her family members or bereaved family members in cases a tissue donor under the proviso of Article 7-2 (1) is a brain-dead person or deceased person, or if it is necessary to confirm consent to tissue recovery under Article 8, the head of the National Tissue Donation Management Agency or the head of a tissue donation support institution may file an application for the issuance of a certificate under Article 15 of the Act on Registration of Family Relations with the head of a Si/Eup/Myeon/Dong under  Article 3 of that Act, and request the Minister of National Court Administration to provide computerized information and data under Article 11 (4) of that Act. In such cases, a person in receipt of such application or request shall comply therewith, in the absence of good cause, and shall be exempt from usage fees or charges for data provided to the head of the National Tissue Management Agency or the head of a tissue donation support institution. [This Article Newly Inserted on Jan. 23, 2024]",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "보건복지부장관 또는 식품의약품안전처장은 제25조 규정에 의한 취소처분을 하고자 하는 때에는 청문을 실시하여야 한다. <개정 2008. 2. 29., 2010. 1. 18., 2013. 3. 23., 2014. 1. 28.>",
+      "en_txt": "Where the Minister of Food and Drug Safety or the Minister of Food and Drug Safety intends to revoke permission for a tissue bank under Article 25, he or she shall hold a hearing. <Amended on Feb. 29, 2008; Jan. 18, 2010; Mar. 23, 2013; Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①조직의 채취 및 이식에 소요되는 비용은 해당 조직을 이식받은 자가 부담한다. 다만, 이식받 은 자가 부담하는 비용에 대하여 다른 법령이 따로 정하는 경우에는 당해 법령이 정하는 바에 의한다.",
+      "en_txt": "(1) A person who receives a tissue transplant shall bear the costs of recovery and transplant of tissue: Provided, that the payment of such costs shall be made as prescribed by other statutes if such other statutes provide otherwise.",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②제1항의 규정에 의한 비용의 산출은 국민건강보험법이 정하는 바에 의한다. 다만, 국민건강보험법이 규정하지 아 니한 비용의 산출은 보건복지부령이 정하는 바에 의한다.<개정 2010. 1. 18.>",
+      "en_txt": "(2) The costs under paragraph (1) shall be calculated in accordance with the National Health Insurance Act: Provided, That calculation of costs not provided for in the National Health Insurance Act shall be made as prescribed by Ordinance of the Ministry of Health and Welfare. <Amended on Jan. 18, 2010> CHAPTER V PENALTY PROVISIONS",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제9조의 규정을 위반하여 같은 조 각 호(제6호는 제외한다)에 해당하는 조직을 다른 사람에게 이식할 목 적으로 분배 또는 이식한 자는 무기징역 또는 2년 이상의 유기징역에 처한다. <개정 2014. 3. 18.>",
+      "en_txt": "Any person who distributes tissues falling under the subparagraphs of  Article 9 (excluding subparagraph 6) for transplantation to another person or who transplants such tissues, in violation of the same Article, shall be punished by imprisonment with labor for an indefinite term or imprisonment with labor for a limited term of at least two years. <Amended on Mar. 18, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①금전 등을 주고받거나 주고받을 것을 약속하고 제5조제1항제1호 또는 제3호의 규정을 위반한 자는 7년 이하의 징역에 처한다.",
+      "en_txt": "(1) Any person who offers, receives, or promises to offer or receive money, etc. and violates Article 5 (1) 1 or 3 shall be punished by imprisonment with labor for not more than seven years.",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②금전 등을 주고받거나 주고받을 것을 약속하고 제5조제1항제2호의 규정을 위반한 자는 5년 이하의 징역 또는 5천만원 이하의 벌금에 처하거나 이를 병과할 수 있다.<개정 2018. 12. 11.>",
+      "en_txt": "(2) Any person who offers, receives, or promises to offer or receive money, etc. and violates Article 5 (1) 2 shall be punished by imprisonment with labor for not more than five years or by a fine not exceeding 50 million won, or may be cumulatively sentenced to such fine and imprisonment with labor. <Amended on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 다음 각 호의 어느 하나에 해당하는 자는 5년 이하의 징역 또는 5천만원 이하의 벌금에 처한다.<개정 2014. 3. 18., 2018. 12. 11., 2021. 8. 17.>",
+      "en_txt": "(3) Any of the following persons shall be punished by imprisonment with labor for not more than five years or by a fine not exceeding 50 million won: <Amended on Mar. 18, 2014; Dec. 11, 2018; Aug. 17, 2021>",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제8조제1항ㆍ제2항에 따른 동의를 받지 아니하고 조직을 채취한 자",
+      "en_txt": "1. A person who recovers tissues without obtaining consent under Article 8 (1) and (2);",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제13조제1항에 따른 허가를 받지 아니하고 조직은행을 설립한 자 2의2. 거짓이나 그 밖의 부정한 방법으로 제13조제1항 또는 제14조제2항에 따른 허가ㆍ변경허가 또는 갱신허가를 받은 자",
+      "en_txt": "2. A person who establishes a tissue bank without obtaining permission under Article 13 (1); 2-2. A person who obtains permission, permission for modification, or permission for renewal under Article 13 (1) or 14 (2) by fraud or other improper means;",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제17조제1항을 위반하여 조직을 수입한 자",
+      "en_txt": "3. A person who imports tissues in violation of Article 17 (1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "④제1항 또는 제2항의 규정을 위반하여 주고받은 금전 또는 재산상의 이익 그 밖의 반대급부는 이를 몰수한다. 다 만, 이에 대한 몰수가 불가능할 때에는 그 가액을 추징한다.<개정 2014. 1. 28.>",
+      "en_txt": "(4) Money, economic gains or other benefits in return that have been given or received in violation of paragraph (1) or (2) shall be confiscated: Provided, That where such confiscation is impossible, an amount equivalent to the value thereof shall be collected as a penalty. <Amended on Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "다음 각 호의 어느 하나에 해당하는 자는 2년 이하의 징역 또는 2천만원 이하의 벌금에 처한다. <개정 2014. 1. 28., 2014. 3. 18., 2016. 2. 4., 2018. 12. 11., 2021. 8. 17.> 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "Any of the following persons shall be punished by imprisonment with labor for not more than two years or by a fine not exceeding 20 million won: <Amended on Jan. 28, 2014; Mar. 18, 2014; Feb. 4, 2016; Dec. 11, 2018; Aug. 17, 2021>",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제5조제2항의 규정을 위반하여 조직을 관리하거나 이식한 자",
+      "en_txt": "1. A person who manages or transplants tissues in violation of Article 5 (2);",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제7조의3제1항 또는 제16조의2제1항ㆍ제3항을 위반하여 거짓 또는 그 밖의 부정한 방법으로 지정을 받거나 변 경신고를 하지 아니하고 변경을 한 자 2의2. 제9조제6호에 해당하는 조직을 다른 사람에게 이식할 목적으로 분배 또는 이식한 자 2의3. 제10조제1항을 위반하여 이식의 적합성 여부를 검사하지 아니하거나 분배ㆍ이식에 부적합한 조직을 폐기처 분 또는 보고하지 아니한 자",
+      "en_txt": "2. A person who obtains designation deceitfully or otherwise fraudulently or makes modification without reporting, in violation of Article 7-3 (1) or 16-2 (1) and (3); 2-2. A person who distributes tissues falling under subparagraph 6 of Article 9 for transplantation to another person or who transplants such tissues; 2-3. A person who fails to examine the availability for transplantation or to destroy or report tissues unavailable for distribution or transplantation, in violation of Article 10 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제10조제3항 전단 또는 같은 조 제5항을 위반하여 조직기증자에 대한 병력 및 투약이력의 조사를 요청 또는 확 인을 하지 아니하거나 거짓으로 확인한 자",
+      "en_txt": "3. A person who fails to request the inspection of medical history or records of administered medicines or to verify the findings of such inspection or who fraudulently verifies the findings of such inspection, in violation of the former part of Article 10 (3) or paragraph (5) of the same Article;",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제10조제5항을 위반하여 부적합한 조직을 폐기처분하지 아니하거나 보고하지 아니한 자",
+      "en_txt": "4. A person who fails to report or destroy unavailable tissues, in violation of Article 10 (5);",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 제16조의2제1항제2호 단서를 위반하여 의료인이 아닌 자가 의무기록을 열람한 경우",
+      "en_txt": "5. Where a person other than a medical person peruses medical records, in violation of the proviso to Article 16-2 (1) 2;",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 제16조의2제6항 후단 또는 같은 조 제7항을 위반하여 필요한 조치를 취하지 아니한 자",
+      "en_txt": "6. A person who fails to take necessary measures, in violation of the latter part of Article 16-2 (6) or paragraph (7) of the same Article;",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 조직은행의 장으로서 제17조제2항을 위반하여 승인을 받지 아니하거나 변경 승인을 받지 아니하고 조직을 수입 한 자 7의2. 거짓이나 그 밖의 부정한 방법으로 제17조제2항에 따른 승인 또는 변경승인을 받은 자",
+      "en_txt": "7. The head of a tissue bank who imports tissues without obtaining approval or approval for modification, in violation of Article 17 (2); 7-2. A person who obtains approval or approval for modification under Article 17 (2) by fraud or other improper means;",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "8. 제22조의 규정을 위반하여 조직기증자와 채취한 조직에 관한 사항 등을 알려준 자",
+      "en_txt": "8. A person who divulges matters concerning tissue donors or recovered tissues, in violation of Article 22;",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "9. 제24조의2제1항 또는 제2항에 따른 명령을 이행하지 아니한 자",
+      "en_txt": "9. A person who fails to comply with the order pursuant to Article 24-2 (1) or (2);",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "10. 제29조의2를 위반하여 상호 중에 조직은행이라는 명칭을 사용하거나 조직은행으로 허가받은 것으로 오인할 수 있는 표시나 광고를 한 자",
+      "en_txt": "10. An entity that uses the title \"tissue bank\" in its trade name or uses any label or advertisement by which it may be misunderstood as a permitted tissue bank, in violation of Article 29-2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 법에 위반한 자를 유기징역에 처할 경우에는 10년 이하의 자격정지를 병과할 수 있다.",
+      "en_txt": "Where a person who violates this Act is punished by imprisonment with labor for a limited term, he or she may also be punished by suspension of qualification for not more than 10 years.",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "법인의 대표자나 법인 또는 개인의 대리인ㆍ사용인 그 밖의 종업원이 그 법인 또는 개인의 업무에 관 하여 제33조제2항ㆍ제3항 또는 제34조의 위반행위를 하면 그 행위자를 벌하는 외에 그 법인 또는 개인에 대하여도 각 해당 조문의 벌금형을 과(科)한다. 다만, 법인 또는 개인이 그 위반행위를 방지하기 위하여 해당 업무에 관하여 상 당한 주의와 감독을 게을리하지 아니한 경우에는 그러하지 아니하다. <개정 2011. 4. 28., 2014. 1. 28.>",
+      "en_txt": "Where the representative of a juristic person, or the agent, servant or employee a juristic person or individual commits a violation under Article 33 (2) and (3) or 34 with regard to the business of the juristic person or individual, not only shall such violator be punished, but the juristic person or individual also shall be punished by a fine under relevant provisions: Provided, That where such corporation or individual has not been negligent in exercising caution and supervision concerning the relevant business to prevent such violation, this shall not apply. <Amended on Apr. 28, 2011; Jan. 28, 2014>",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "①다음 각 호의 어느 하나에 해당하는 자는 500만원 이하의 과태료에 처한다. <개정 2018. 12. 11.>",
+      "en_txt": "(1) Any of the following persons shall be subject to an administrative fine not exceeding five million won: <Amended on Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제16조제1항의 규정을 위반하여 동의사실을 확인하지 아니하거나 충분한 설명을 하지 아니한 자",
+      "en_txt": "1. A person who fails to confirm consent or give full explanation, in violation of Article 16 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제18조 본문의 규정을 위반하여 조직을 채취한 자",
+      "en_txt": "2. A person who recovers tissue, in violation of the main clause of Article 18.",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "②다음 각 호의 어느 하나에 해당하는 자는 300만원 이하의 과태료에 처한다.<개정 2014. 3. 18., 2016. 2. 4., 2018.",
+      "en_txt": "(2) Any of the following persons shall be subject to an administrative fine not exceeding three million won: <Amended on Mar. 18, 2014; Feb. 4, 2016; Dec. 11, 2018>",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "1. 제13조의3제2항에 따른 지위승계 신고를 하지 아니한 자 1의2. 제14조제2항에 따른 갱신허가를 받지 아니한 조직은행의 장",
+      "en_txt": "1. A person who fails to report succession to status under Article 13-3 (2); 1-2. The head of a tissue bank who fails to obtain permission for renewal under Article 14 (2);",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "2. 제15조제5항을 위반하여 교육 대상자가 교육을 받지 아니한 조직은행의 장 2의2. 제17조제4항을 위반하여 자료 작성 및 비치를 하지 아니한 자",
+      "en_txt": "2. The head of a tissue bank who fails to have his or her employees in need of education undergo such education, in violation of Article 15 (5); 2-2. A person who fails to prepare and furnish data in violation of Article 17 (4);",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "3. 제19조의 규정을 위반하여 작성ㆍ보고 또는 통보하지 아니한 자",
+      "en_txt": "3. A person who fails to keep records, file a report or make notification, in violation of Article 19;",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "4. 제20조의 규정을 위반하여 기록을 보존하지 아니한 자",
+      "en_txt": "4. A person who fails to preserve records, in violation of Article 20;",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "5. 제21조 본문의 규정을 위반하여 기록의 열람 또는 사본의 교부요구에 응하지 아니한 자",
+      "en_txt": "5. A person who fails to comply with a request for perusal of records or issuance of copies, in violation of the main clause of Article 21;",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "6. 제23조제1항의 규정에 의한 명령을 이행하지 아니한 자",
+      "en_txt": "6. A person who fails to comply with an order under Article 23 (1);",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "7. 제24조의 규정에 의한 명령을 이행하지 아니한 자",
+      "en_txt": "7. A person who fails to comply with an order under Article 24;",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "8. 제26조의 규정을 위반하여 신고를 하지 아니한 자 또는 기록을 이관하지 아니하거나 자료를 제출하지 아니한 자",
+      "en_txt": "8. A person who fails to make a report, transfer records or submit data, in violation of Article 26.",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "③ 제1항 및 제2항에 따른 과태료는 대통령령으로 정하는 바에 따라 보건복지부장관, 식품의약품안전처장, 그 소속 기관의 장, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ특별자치도지사 또는 시장ㆍ군수ㆍ구청장이 부과ㆍ징수 한다.<신설 2013. 3. 23.> 인체조직안전 및 관리 등에 관한 법률",
+      "en_txt": "(3) Administrative fines under paragraph (1) and (2) shall be imposed and collected by the Minister of Health and  Welfare,  the  Minister  of  Food  and  Drug  Safety,  the  head  of  an  affiliated  institution,  a  Special Metropolitan City Mayor, a Metropolitan City Mayor, a Self-Governing City Mayor, a Do Governor, a Special Self-Governing Province Governor, or the head of a Si/Gun/Gu as prescribed by Presidential Decree. <Newly Inserted on Mar. 23, 2013>",
+      "align_score": null
+    }
+  ]
+}

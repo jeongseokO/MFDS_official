@@ -1,0 +1,388 @@
+{
+  "document_id": "ke_ich_0006",
+  "meta": {
+    "set": "KE",
+    "source_folder": "1",
+    "source_code": "ich",
+    "source_name": "ICH 가이드라인",
+    "orig_doc_id": "E1",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 가이드라인",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 절차 Step 4의 최종 문서는 유럽연합, 일본, 미국의 규제 당국에서 채택하도록 권고된다.",
+      "en_txt": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 규제에 대한 조화된 접근법을 개발하기 위해서는 용어의 일관된 정의가 ICH 구성원 전체에 적용되도록 하는 것이 매우 중요하다.",
+      "en_txt": "In order to develop harmonised approaches to drug regulation, it is important to ensure that consistent definitions of terminology are being applied across all constituents of the International Conference on Harmonisation (ICH).",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물유전체학과 약물유전학은 의약품의 발견, 개발 및 사용을 향상시킬 수 있는 가능성을 가지고 있다.",
+      "en_txt": "Pharmacogenomics and pharmacogenetics have the potential to improve the discovery, development and use of medicines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "각각의 ICH 지역은 특정한 약물유전체학과 약물유전학 가이드라인 또는 제안서를 발간하였고 다른 것들을 개발하고 있다.",
+      "en_txt": "Each of the ICH regions has published specific pharmacogenomic and pharmacogenetic guidelines, or concept papers, and is in the process of developing others.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나, 통상적으로 이용하는 용어에 대해 일관되게 적용되는 정의가 없어 규제문서와 가이드라인에서의 용어사용의 충돌 또는 규제기관, 윤리위원회 및 신청인의 일관되지 않은 해석 등 다양한 문제가 발생할 수 있다.",
+      "en_txt": "However, the lack of consistently applied definitions to commonly used terminology raises the potential for either conflicting use of terms in regulatory documentation and guidelines, or, inconsistent interpretation by regulatory authorities, ethics committees and sponsor companies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 약물유전체학과 약물유전학의 학문영역에서의 주요 용어, 즉 유전체 생체지표, 약물유전체학, 약물유전학 그리고 유전체 자료 및 검체암호화 범주에 대한 정의를 담고 있다.",
+      "en_txt": "This guideline contains definitions of key terms in the discipline of pharmacogenomics and pharmacogenetics, namely genomic biomarkers, pharmacogenomics, pharmacogenetics and genomic data and sample coding categories.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 생체지표의 검증과 적격성 평가 과정, 사용목적에 대한 증거 및 ICH 지역에서의 승인 범주는 이 가이드라인의 범위 밖의 사항이다.",
+      "en_txt": "The validation and qualification processes for genomic biomarkers, evidence for their intended use and acceptance criteria across ICH regions are outside of the scope of this guideline.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 생체지표, 약물유전체학, 약물유전학 그리고 유전체 자료와 검체암호화 범주의 정의는 아래에 자세히 설명하였다.",
+      "en_txt": "Definitions of a genomic biomarker, pharmacogenomics, pharmacogenetics, and genomic data and sample coding categories are detailed below.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인에 설명한 몇몇 원칙은 단백체학, 대사체학 및 다른 관련 분야에도 적용할 수 있을 것이다.",
+      "en_txt": "Some of the principles described in this guideline might be applicable to proteomics, metabalomics and other related disciplines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 생체지표의 정의는 다음과 같다: 정상적인 생물학적 과정, 병리학적 과정 및/또는 치료나 다른 처치에 대한 반응의 지표인 측정 가능한 DNA 및/또는 RNA의 특징",
+      "en_txt": "A genomic biomarker is defined as follows: A measurable DNA and/or RNA characteristic that is an indicator of normal biologic processes, pathogenic processes, and/or response to therapeutic or other interventions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 생체지표는 하나 이상의 DNA 및/또는 RNA특징으로 구성될 수 있다.",
+      "en_txt": "A genomic biomarker can consist of one or more deoxyribonucleic acid (DNA) and/or ribonucleic acid (RNA) characteristics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 생체지표는 단백질 또는 저분자 대사체의 측정 및 특성규명을 포함하지는 않는다.",
+      "en_txt": "The definition of a genomic biomarker does not include the measurement and characterisation of proteins or low molecular weight metabolites.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물유전체학 약물유전체학(PGx)는 다음과 같이 정의된다: 약물반응과 관련된 DNA와 RNA의 특징 변화에 대한 연구",
+      "en_txt": "Pharmacogenomics Pharmacogenomics (PGx) is defined as: The study of variations of DNA and RNA characteristics as related to drug response.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물이라는 용어는 임상시험용 의약품(investigational medicinal product), 의료제품(medicinal product), 의약품(medicine) 및 의약품제제(pharmaceutical product) (백신과 다른 생물학적 제품을 포함)과 동의어로 간주될 수 있다.",
+      "en_txt": "The term drug should be considered synonymous with investigational (medicinal) product, medicinal product, medicine and pharmaceutical product (including vaccines and other biological products).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물유전학(PGt)과 약물유전체학(PGx)은 약물탐색, 약물개발, 그리고 임상진료과 같은 활동에도 적용할 수 있다.",
+      "en_txt": "PGx and PGt are applicable to activities such as drug discovery, drug development, and clinical practice.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물반응은 약물의 흡수와 분포의 과정(예. 약동학 및 약물 효과(예. 약력학), 약물효능 및 약물이상반응)을 포함한다.",
+      "en_txt": "Drug response includes the processes of drug absorption and disposition (e.g., pharmacokinetics, (PK)), and drug effects (e.g., pharmacodynamics (PD), drug efficacy and adverse effects of drugs).",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약물유전학(PGt)과 약물유전체학(PGx)은 단백체학과 대사체학과 같은 다른 학문영역을 포함하지 않는다.",
+      "en_txt": "The definitions of PGx and PGt do not include other disciplines such as proteomics and metabalomics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유전체 자료와 샘플 암호화의 범주 약물유전학(PGt) 및 약물유전체학(PGx): 연구 자료를 만들기 위해서는 생물학적 검체가 필요하다.",
+      "en_txt": "Categories for Genomic Data and Samples Coding: PGx and PGt research depends on the use of biological samples to generate data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이들 검체와 연관된 자료의 암호화(coded) 수준에 대한 적절한 정의는 새로운 의약품의 연구와 개발에 도움을 줄 것이다.",
+      "en_txt": "A harmonised definition for the coding of these samples and their associated data will facilitate use in research and development of new medicines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "암호화의 범주에는 식별화(identified)된, 암호화(coded)된, 익명화(anonymised)된, 그리고 익명(anonymous)의 4개가 있다.",
+      "en_txt": "There are four general categories of coding: identified, coded, anonymised and anonymous.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "암호화된 자료 또는 검체는 단일 또는 이중 암호화 될 수 있다.",
+      "en_txt": "Coded data or samples can be single or double coded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식별화된 자료와 검체는 이름 또는 식별번호 (예: 사회보장 또는 국가보험 번호) 와 같은 개인별 식별자로 표지되어있다.",
+      "en_txt": "Identified data and samples are labelled with personal identifiers such as name or identification numbers (e.g., social security or national insurance number).",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "식별화된 자료와 검체의 사용은 임상모니터 링, 대상자 추적 및 대상자로부터 신규 자료의 추가 등을 가능하게 한다.",
+      "en_txt": "The use of identified data and samples allows for clinical monitoring, subject follow-up and the addition of new data from the subject.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "암호화된 자료와 검체는 적어도 하나 이상의 특정 암호에 의해 표지되고 개인적인 식별자는 포함되지 않는다.",
+      "en_txt": "Coded data and samples are labelled with at least one specific code and do not carry any personal identifiers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "단일 암호화 자료와 검체는 일반적으로 하나의 특정암호로 표지되고 개인적 식별자는 가지지 않는다, 단일암호 열쇠(key)를 이용해 특정 개인에 대한 자료 또는 검체를 추적할 수 있다.",
+      "en_txt": "Single coded data and samples are usually labelled with a single specific code and do not carry any personal identifiers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로, 임상연구자는 이 암호화 열쇠를 관리하는 책임을 가진다.",
+      "en_txt": "In general, the clinical investigator is responsible for maintaining the coding key.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "단일암호화는 임상연구에서 현재 표준으로 사용하고 있으며 일상적인 의료행위에서의 일반적인 기밀유지와 개인정보보호와 비교하였을 때 대상자의 식별자에 대한 추가적인 정보보호를 가능하게 한다.",
+      "en_txt": "Single coding is the current standard used in clinical research and offers additional safeguards to the subject’s identifiers compared to the general healthcare confidentiality and privacy protection in everyday medical practice.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이중암호화 자료와 검체는 처음에는 단일 특정암호로 표지 되어 있고 어떤 개인적 표식자도 가지지 않는다.",
+      "en_txt": "Double coded data and samples are initially labelled with a single specific code and do not carry any personal identifiers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "자료와 검체는 따라서 두 번째 암호로 다시 표지 되고 이는 두 번째 암호화 열쇠로 첫 번째 암호와 연결되어 있다.",
+      "en_txt": "The data and samples are then relabelled with a second code, which is linked to the first code via a second coding key.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일반적으로 임상연구자는 첫 번째 암호화 열쇠를 관리하는 책임을 가지고 두 번째 암호화 열쇠에는 접근할 수 없다.",
+      "en_txt": "In general, the clinical investigator is responsible for maintaining the first coding key and does not have access to the second coding key.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이중 암호화된 자료와 검체의 사용은 임상모니터링, 대상자 추적 또는 대상자로부터의 신규 자료 추가를 가능하게 한다.",
+      "en_txt": "The use of double coded data and samples allows for clinical monitoring, subject follow-up or the addition of new data from the subject.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "익명화된 자료와 검체는 처음에는 단일 또는 이중 암호화 되어있으나 대상자의 표식자와 유일한 암호화의 연결이 이후에 삭제된 것이다.",
+      "en_txt": "Anonymised data and samples are initially single or double coded but where the link between the subjects’ identifiers and the unique code(s) is subsequently deleted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연결이 한번 삭제된 이후에는 암호화 열쇠를 이용해서 개별 대상자의 표식자로 자료와 검체를 추적할 수 없다.",
+      "en_txt": "Once the link has been deleted it is no longer possible to trace the data and samples back to individual subjects through the coding key(s).",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "익명화된 검체와 연관 자료는 대상자까지 추적이 불가능하기 때문에 비록 당사자가 요구하더라도 개별 결과의 회신이나 검체 폐기와 같은 작업이 불가능하다.",
+      "en_txt": "As anonymised samples and associated data are not traceable back to the subject, it is not possible to undertake actions such as sample withdrawal, or the return of individual results, even at the subject’s request.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "익명자료와 검체를 사용하면 임상모니터링, 대상자 추적 또는 신규자료의 추가 역시 가능하지 않다.",
+      "en_txt": "The use of anonymised data and samples does not allow for clinical monitoring, subject follow-up or the addition of new data from the subject.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "익명자료와 검체는 처음 수집되었을 때 개인별 식별자로 표지 되지 않았고 암호화 열쇠도 생성되지 않아 개인 대상자에 대한 유전체 자료와 검체를 추적할 가능성이 전혀 없다.",
+      "en_txt": "Anonymous data and samples are never labelled with personal identifiers when originally collected, neither is a coding key generated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "어떤 경우에는 제한된 임상자료만을 서술하는 방법이 자료와 검체를 익명으로 하는 방법일 수 있다(예, 당뇨병이 있는, 남성으로, 50-55세 사이, 콜레스테롤 수치는 >240mg/dl).",
+      "en_txt": "In some instances only limited clinical data can be associated with anonymous samples (e.g., samples from subjects with diabetes, male, age 50-55, cholesterol>240 mg/dl).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "익명검체와 관련자료는 대상자를 추적할 수 없기 때문에 비록 당사자가 요구하더라도 개별 결과의 회신이나 검체 폐기와 같은 작업이 불가능하다.",
+      "en_txt": "As anonymous samples and associated data are not traceable back to subjects, it is not possible to undertake actions such as sample withdrawal, or the return of individual results, even at the subject’s request.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "익명화된 자료와 검체는 임상모니터링, 대상자 추적 또는 대상자로부터의 신규 자료 추가를 불가능하게 한다.",
+      "en_txt": "The use of anonymous data and samples does not allow for clinical monitoring, subject follow-up, or the addition of new data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대상자에게 유전체자료를 회신하는 목적을 포함하여 어떠한 목적에서든지, 유전 체 자료가 대상자의 개인적 유전체 자료와 연결될 수 있는 조건은 관련문서에 기술되어야 한다(예: 동의서(informed consent document)).",
+      "en_txt": "The conditions under which the genomic data can be linked back to a subject’s personal identifiers for any purpose, including the return of genomic data to the subject, should be described in research related documents, e.g., the informed consent document.",
+      "align_score": null
+    }
+  ]
+}

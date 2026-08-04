@@ -1,0 +1,946 @@
+{
+  "document_id": "ke_ich_0003",
+  "meta": {
+    "set": "KE",
+    "source_folder": "1",
+    "source_code": "ich",
+    "source_name": "ICH 가이드라인",
+    "orig_doc_id": "E1",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 가이드라인",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": "ko",
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "ICH 절차 Step 4의 최종 문서는 유럽연합, 일본, 미국의 규제 당국에서 채택하도록 권고된다.",
+      "en_txt": "At Step 4 of the Process the final draft is recommended for adoption to the regulatory bodies of the European Union, Japan and USA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "현재 소아용 의약품으로 표기된 의약품의 수는 제한적이다.",
+      "en_txt": "The number of medicinal products currently labeled for pediatric use is limited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인의 목적은 국제적으로 소아용 의약품 개발을 시기적절하게 촉진 및 장려하기 위한 것이다.",
+      "en_txt": "It is the goal of this guidance to encourage and facilitate timely pediatric medicinal product development internationally.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 소아용 의약품 개발에 대한 중요한 고려사항과 소아를 대상으로 하는 안전하고 효율적이며 윤리적인 의약품 임상시험 접근방법에 관한 정보를 제공한다.",
+      "en_txt": "The guidance provides an outline of critical issues in pediatric drug development and approaches to the safe, efficient, and ethical study of medicinal products in the pediatric population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아를 대상으로 하는 임상시험에 영향을 미치는 관련 정보가 담긴 다른 ICH 문서는 다음과 같다",
+      "en_txt": "Other ICH documents with relevant information impacting on pediatric studies include",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 가이드라인은 포괄적이지 않다; 지역 규제 당국 및 소아협회 문서뿐만 아니라 다른 ICH 가이드라인에서 추가적인 세부 사항을 제공한다.",
+      "en_txt": "This guidance is not intended to be comprehensive; other ICH guidances, as well as documents from regional regulatory authorities and pediatric societies, provide additional detail.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 환자에게는 소아 사용이 적절히 평가된 약물을 사용하여야 한다.",
+      "en_txt": "Pediatric patients should be given medicines that have been appropriately evaluated for their use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 환자를 위한 안전하고 효과적인 약물요법을 위해서는 다양한 연령대의 소아에 대한 의약품의 적정한 사용 정보와 제형이 개발되어야 한다.",
+      "en_txt": "Safe and effective pharmacotherapy in pediatric patients requires the timely development of information on the proper use of medicinal products in pediatric patients of various ages and, often, the development of pediatric formulations of those products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "성인의 질병 또는 건강 상태에 대한 의약품을 개발할 때 소아에게 사용될 것으로 예측되는 경우는 소아 환자군을 의약품 개발과정에 포함시켜야 한다.",
+      "en_txt": "Drug development programs should usually include the pediatric patient population when a product is being developed for a disease or condition in adults and it is anticipated the product will be used in the pediatric population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아환자에서의 의약품 효과에 대한 정보를 얻는 것을 매우 중요하다.",
+      "en_txt": "Obtaining knowledge of the effects of medicinal products in pediatric patients is an important goal.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 이 과정에서 임상시험에 참여하는 소아 환자의 복지를 침해하지 않아야 한다.",
+      "en_txt": "However, this should be done without compromising the well-being of pediatric patients participating in clinical studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 의약품 개발 단계에서의 고려 사항: 소아 환자에서 특정 의약품 사용이 적절하지 않은 경우가 아니라면, 소아에 대한 적절한 사용을 위한 정보가 필요하다.",
+      "en_txt": "Issues When Initiating a Pediatric Medicinal Product Development Program: Data on the appropriate use of medicinal products in the pediatric population should be generated unless the use of a specific medicinal product in pediatric patients is clearly inappropriate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "지역의 공중보건과 의료 수요에 영향을 받는 성인에서 수행된 시험과 관련하여 임상시험의 시작 시기는 항목 2.3에서 논의된다.",
+      "en_txt": "The timing of initiation of clinical studies in relation to studies conducted in adults, which may be influenced by regional public health and medical needs, is discussed in section 2.3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상프로그램의 시기와 접근법에 대해서는 의약품 개발 초기 단계에 규제 당국과 논의하고 그 이후에도 주기적으로 자문을 구해야 한다.",
+      "en_txt": "Justification for the timing and the approach to the clinical program needs to be clearly addressed with regulatory authorities at an early stage and then periodically during the medicinal product development process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대상 질환의 소아 유병률 대상 질환의 심각성 소아 집단에서 대상 질환에 대한 대체 요법의 존재여부 및 적합성 (대체요법의 유효성과 소아 특이적인 안전성 문제를 포함한 이상반응 프로필 포함) 해당 의약품이 신물질 또는 물성이 알려진 계열 의약품의 일종인지 여부 해당 의약품이 특정한 소아 적응증을 가지고 있는지 여부 소아 특이적 평가지표 개발의 필요성 예상되는 치료 대상 소아 환자의 연령대 비임상 안전성 문제를 포함한 ‘성장’이라는 소아 고유의 특징을 반영한 안전성 고려사항 소아용 제형 개발의 필요성 여부 위 사항들 중 가장 중요한 고려 사항은 개발 중인 의약품이 획기적인 치료법이 될 수 있는 심각한 또는 생명을 위협하는 질환인지 여부이다.",
+      "en_txt": "The decision to proceed with a pediatric development program for a medicinal product, and the nature of that program, involve consideration of many factors, including: The prevalence of the condition to be treated in the pediatric population The seriousness of the condition to be treated The availability and suitability of alternative treatments for the condition in the pediatric population, including the efficacy and the adverse event profile (including any unique pediatric safety issues) of those treatments Whether the medicinal product is novel or one of a class of compounds with known properties Whether there are unique pediatric indications for the medicinal product The need for the development of pediatric-specific endpoints The age ranges of pediatric patients likely to be treated with the medicinal product Unique pediatric (developmental) safety concerns with the medicinal product, including any nonclinical safety issues Potential need for pediatric formulation development Of these factors, the most important is the presence of a serious or life-threatening disease for which the medicinal product represents a potentially important advance in therapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 임상프로그램을 뒷받침하는 비임상시험에서의 안전성 정보는 ICH M3, 항목 11에 나와 있다.",
+      "en_txt": "Information from nonclinical safety studies to support a pediatric clinical program is discussed in ICH M3, section 11.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 소아시험을 위한 가장 의미 있는 안전성 정보는 성인의 노출 결과로부터 얻어진다는 것을 주목해야 한다.",
+      "en_txt": "It should be noted that the most relevant safety data for pediatric studies ordinarily come from adult human exposure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 제형: 소아에게 정확한 용량을 투여하고 소아 환자의 복약 순응도를 높이기 위해 소아용 제형이 개발되어야 한다.",
+      "en_txt": "Pediatric Formulations: There is a need for pediatric formulations that permit accurate dosing and enhance patient compliance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "일회용 바이알로 공급되는 의약품은 적정 용량의 일회 투약 포장을 고려해야 한다.",
+      "en_txt": "For medicinal products supplied as single-use vials, consideration should be given to dose-appropriate single-dose packaging.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "신생아용 의약품을 적절히 사용하기 위해서는 주성분 및 첨가제 종류에 따라 현존하는 제형의 희석을 위한 적절한 정보와 새로운 제형을 개발할 필요가 있을 수 있다.",
+      "en_txt": "Depending on the active substance and excipients, appropriate use of the medicinal product in the newborn may require a new formulation or appropriate information about dilution of an existing formulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "제형에 포함되는 부형제 및 검증절차의 적합성에 대한 국제적 합의를 통해 적절한 제형이 어느 곳에서든지 소아집단에 이용 가능하도록 해 줄 것이다.",
+      "en_txt": "International harmonization on the acceptability of formulation excipients and of validation procedures would help ensure that appropriate formulations are available for the pediatric population everywhere.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시험의 시기: 임상 개발과정 중 소아 임상시험 시기는 대상 의약품, 치료 대상 질병의 종류, 안전성 고려사항, 대체요법의 안전성과 유효성에 따라 결정된다.",
+      "en_txt": "Timing of Studies: During clinical development, the timing of pediatric studies will depend on the medicinal product, the type of disease being treated, safety considerations, and the efficacy and safety of alternative treatments.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아용 제형 개발은 어렵고 많은 시간이 걸릴 수 있기 때문에 의약품 개발단계 초기부터 고려하는 것이 중요하다.",
+      "en_txt": "Since development of pediatric formulations can be difficult and time consuming, it is important to consider the development of these formulations early in medicinal product development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 다발질환 및 소아 특이질환 치료를 위한 의약품: 이 경우는 일반적으로 성인에게서 얻는 초기 안전성 및 내약성에 관한 자료를 제외한 모든 개발 프로그램이 소아에게서 수행되어야 한다.",
+      "en_txt": "Medicinal Products for Diseases Predominantly or Exclusively: Affecting Pediatric Patients In this case, the entire development program will be conducted in the pediatric population except for initial safety and tolerability data, which will usually be obtained in adults.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대체 치료가 없거나 제한되는 상황에서 성인과 소아 환자 모두에게 발생하는 중대하거나 생명을 위협하는 질환을 치료하기 위한 의약품: 개발 중인 의약품이 획기적인 치료법이 될 수 있는 심각하거나 생명을 위협하는 질환 치료제의 경우 비교적 긴급한 상황으로 소아시험을 상대적으로 조속히 시작할 필요가 있다.",
+      "en_txt": "Medicinal Products Intended to Treat Serious or Life-Threatening Diseases, Occurring in Both Adults and Pediatric Patients, for Which There Are Currently No or Limited Therapeutic Options: The presence of a serious or life-threatening disease for which the product represents a potentially important advance in therapy suggests the need for relatively urgent and early initiation of pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 경우 의약품 개발에 있어 소아 환자에 대한 시험은 초기 안전성 결과 평가 및 잠재적인 유익성을 바탕으로 초기단계에 시작되어야 한다.",
+      "en_txt": "In this case, medicinal product development should begin early in the pediatric population, following assessment of initial safety data and reasonable evidence of potential benefit.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "기타 질병 및 증상을 치료하기 위한 의약품: 이 경우 해당 의약품이 소아 환자에게서 사용되더라도 위의 1), 2)의 경우에 비해 시급성이 적으므로 소아 시험은 임상개발의 후기 임상단계에서 보통 시작하거나 안전성에 의구심이 있을 경우는 성인에서 시판 후 경험으로 많은 정보가 모아진 이후 수행된다.",
+      "en_txt": "Medicinal Products Intended to Treat Other Diseases and Conditions: In this case, although the medicinal product will be used in pediatric patients, there is less urgency than in the previous cases and studies would usually begin at later phases of clinical development or, if a safety concern exists, even after substantial postmarketing experience in adults.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 시험의 시작시점을 결정할 때는 유익성/위험성의 비교 및 치료적 필요성을 주의해서 평가해야 한다.",
+      "en_txt": "Thus, it is important to carefully weigh benefit/risk and therapeutic need in deciding when to start pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연구의 종류: ICH E4, E5, E6과 E10에 나와 있는 원칙은 소아 시험에도 적용된다.",
+      "en_txt": "Types of Studies:The principles outlined in ICH E4, E5, E6, and E10 apply to pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "성인에게 시험되어 허가된 의약품을 동일한 적응증으로 소아에게 사용하려 할 때 질병 상태가 성인과 소아환자에게 비슷하고 치료의 결과 또한 유사할 가능성이 높다면 성인의 유효성 결과를 외삽하는 것이 적절할 수 있다.",
+      "en_txt": "When a medicinal product is to be used in the pediatric population for the same indication(s) as those studied and approved in adults, the disease process is similar in adults and pediatric patients, and the outcome of therapy is likely to be comparable, extrapolation from adult efficacy data may be appropriate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품을 상대적으로 고연령인 소아에게 시험되어 허가된 동일한 적응증으로 보다 저연령의 소아에게 사용하려 할 때 질병 상태가 서로 비슷하고 치료 결과 또한 유사할 가능성이 높다면 고연령 소아의 유효성 결과를 저연령의 소아에게 외삽 적용하는 것이 가능할 수 있다.",
+      "en_txt": "When a medicinal product is to be used in younger pediatric patients for the same indication(s) as those studied in older pediatric patients, the disease process is similar, and the outcome of therapy is likely to be comparable, extrapolation of efficacy from older to younger pediatric patients may be possible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 경우 그 의약품을 사용하려는 소아 환자 연령군에서의 약동학 시험과 안전성 시험이 이전의 고연령 소아의 임상시험 결과와 함께 고려되어 소아 사용을 위한 적절한 사용정보를 제공할 수 있다.",
+      "en_txt": "In such cases, pharmacokinetic studies in the relevant age groups of pediatric patients likely to receive the medicinal product, together with safety studies, may be sufficient to provide adequate information for pediatric use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "혈중 농도가 유효성과 연관성이 없는 것으로 알려져 있거나 추정될 때 또는 소아와 성인 간의 농도-반응 관계가 다를 것으로 예상되는 의약품에서는 약동학에 근거한 시험이 불충분할 수 있다.",
+      "en_txt": "An approach based on pharmacokinetics is likely to be insufficient for medicinal products where blood levels are known or expected not to correspond with efficacy or where there is concern that the concentration-response relationship may differ between the adult and pediatric populations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아환자에서의 질병 진행 및 치료 결과가 성인과 유사할 것으로 예상되나 적절한 혈중 농도가 불확실한 경우 유효성을 확인하고 약력학적 효과를 나타내는데 필요한 용량과 농도를 정하기 위해 임상적 유효성과 관계된 약력학적 효과를 측정하는 것이 가능하다.",
+      "en_txt": "Where the comparability of the disease course or outcome of therapy in pediatric patients is expected to be similar to adults, but the appropriate blood levels are not clear, it may be possible to use measurements of a pharmacodynamic effect related to clinical effectiveness to confirm the expectations of effectiveness and to define the dose and concentration needed to attain that pharmacodynamic effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 시험은 소아 환자에서 대상 의약품의 적정 노출 수준이 원하는 치료적 효과를 나타낸다는 확신을 증가시킨다.",
+      "en_txt": "Such studies could provide increased confidence that achieving a given exposure to the medicinal product in pediatric patients would result in the desired therapeutic outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 안전성 및 기타 관련된 시험과 함께 약동/약력학 (PK/PD) 시험으로서 치료적 확증 임상시험을 갈음할 수도 있다.",
+      "en_txt": "Thus, a PK/PD approach combined with safety and other relevant studies could avoid the need for clinical efficacy studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "성인에서 선형 약동학적 양상을 보인 의약품은 소아를 대상으로 하는 단회 투여시험으로 보통 소아 집단에서의 적절한 약물동태 평가가 가능하여 용량결정을 위한 충분한 정보를 제공할 수 있다.",
+      "en_txt": "For medicinal products that exhibit linear pharmacokinetics in adults, single-dose pharmacokinetic studies in the pediatric population may provide sufficient information for dosage selection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대상 의약품의 배설 경로 (신장 또는 대사)에 대한 정보 및 이 과정들의 연령에 따른 변화를 이해하는 것이 소아 시험을 계획하는데 흔히 도움을 줄 수 있다.",
+      "en_txt": "Knowing the pathways of clearance (renal and metabolic) of the medicinal product and understanding the age-related changes of those processes will often be helpful in planning pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아에게 사용되는 대부분의 의약품의 추천 용량은 체중당 투여량(mg/kg)에 근거한 것이며 최대 성인 용량을 초과할 수 없다.",
+      "en_txt": "Dosing recommendations for most medicinal products used in the pediatric population are usually based on milligram (mg)/kilogram (kg) body weight up to a maximum adult dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "체표면적당 투여량(mg/m2)에 근거한 용량을 택하는 경우가 있기는 하지만 임상 경험상 키(특히 작은 어린이 및 영아)를 재거나 체중과 키로부터 체표면적을 계산할 때 오류가 흔히 발생한다.",
+      "en_txt": "While dosing based on mg/square meter body surface area might be preferred, clinical experience indicates that errors in measuring height or length (particularly in smaller children and infants) and calculation errors of body surface area from weight and height are common.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "몇몇 처방(예. 항암제 등 좁은 치료역을 가진 처방)에서는 체표면적에 의한 용량이 필요할 수 있으나 정확한 용량 계산에 특별히 주의해야 한다.",
+      "en_txt": "For some medications (e.g., medications with a narrow therapeutic index, such as those used in oncology), surface-area-guided dosing may be necessary, but extra care should be taken to ensure proper dose calculation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "약동학적 시험을 위한 실제적 고려 사항 소아 시험에서 채취 혈액량은 최소로 해야 한다.",
+      "en_txt": "Practical considerations to facilitate pharmacokinetic studies The volume of blood withdrawn should be minimized in pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험심사위원회/독립적인 윤리 위원회(IRB's/IEC's)는 시험 목적으로 채취되는 최대 혈액량(보통 전체 총 혈액량에 대한 용량(mL/kg) 또는 백분율(%)로 표기)을 검토해야 한다.",
+      "en_txt": "Institutional Review Boards/Independent Ethics Committees (IRB’s/IEC’s) review and may define the maximum amount of blood (usually on a milliliters (mL)/kg or percentage of total blood volume basis) that may be taken for investigational purposes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "채혈되는 양 그리고/또는 정맥 천자의 빈도를 줄이기 위해 여러 접근방법이 사용될 수 있다.",
+      "en_txt": "Several approaches can be used to minimize the amount of blood drawn and/or the number of venipunctures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "만성 질환을 가진 소아 환자에게서 의약품에 대한 반응은 질병의 기간 및 그 만성적 효과뿐 아니라 환자의 발달 단계에 따라 다양할 수 있다.",
+      "en_txt": "In pediatric patients with chronic diseases, the response to a medicinal product may vary among patients not only because of the duration of the disease and its chronic effects but also because of the developmental stage of the patient.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "미숙아 및 신생아의 많은 질병은 그 연령에 특이적이거나 특이한 양상을 가지고 있어 고연령 소아 환자의 유효성 데이터를 외삽할 수 없기 때문에 결과 평가를 위한 새로운 방법이 요구된다.",
+      "en_txt": "Many diseases in the preterm and term newborn infant are unique or have unique manifestations precluding extrapolation of efficacy from older pediatric patients and call for novel methods of outcome assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "유해사례 보고에 대해 설명한 ICH E2 및 E6가 소아 시험에도 적용될 수 있다.",
+      "en_txt": "ICH guidances on E2 topics and ICH E6, which describe adverse event reporting, apply to pediatric studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연령에 맞는 정상 실험실 검사치 및 임상검사가 유해사례 보고시 사용되어야 한다.",
+      "en_txt": "Age-appropriate, normal laboratory values and clinical measurements should be used in adverse event reporting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품은 신체적, 인지적 성장과 발달에 영향을 줄 수 있고 유해사례 양상은 소아 환자에게 다를 수 있다.",
+      "en_txt": "Medicinal products may affect physical and cognitive growth and development, and the adverse event profile may differ in pediatric patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "발달 중에 있는 소아는 성숙한 성인기관과 다르게 반응할 수 있기 때문에 소아 환자에게서 나타나는 몇몇 유해사례와 약물상호 반응은 성인 시험에서 나타나지 않을 수 있다.",
+      "en_txt": "Because developing systems may respond differently from matured adult organs, some adverse events and drug interactions that occur in pediatric patients may not be identified in adult studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 성장 및 발달의 동적인 과정으로 인해 유해사례가 급성으로 나타나지 않고 성장 및 성숙의 후기 단계에서 나타날 수 있다.",
+      "en_txt": "In addition, the dynamic processes of growth and development may not manifest an adverse event acutely, but at a later stage of growth and maturation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "환자가 만성 치료를 받는 동안 또는 치료 후 기간 동안의 장기 시험 또는 시판 후 약물감시 자료는 골격, 행동, 인지, 성, 면역 성숙 및 발달에 미치는 영향을 평가하기 위해 필요할 수 있다.",
+      "en_txt": "Long-term studies or surveillance data, either while patients are on chronic therapy or during the posttherapy period, may be needed to determine possible effects on skeletal, behavioral, cognitive, sexual, and immune maturation and development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시판 후 정보: 보통 소아에 대한 정보는 시판 허가 시점에는 제한적이다.",
+      "en_txt": "Postmarketing Information: Normally the pediatric database is limited at the time of approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 시판 후 약물감시가 특히 중요하다.",
+      "en_txt": "Therefore, postmarketing surveillance is particularly important.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "몇몇 경우에는 장기 추적시험이 특정 처방이 소아 환자의 성장 및 발달에 미치는 영향을 평가하는데 중요하다.",
+      "en_txt": "In some cases, long-term follow-up studies may be important to determine effects of certain medications on growth and development of pediatric patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시판 후 약물감시 및/또는 장기 추적 시험은 소아 집단 내의 소그룹을 위한 안전성 및/또는 유효성 정보를 제공하거나 전체 소아 집단을 위한 추가 정보를 제공할 수 있다.",
+      "en_txt": "Postmarketing surveillance and/or long-term follow-up studies may provide safety and/or efficacy information for subgroups within the pediatric population or additional information for the entire pediatric population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 어떠한 시험이 현재의 소아 약리학적 지식을 반영한다는 것을 보장하기 위해서는 유연성 있는 접근이 필요하다.",
+      "en_txt": "Thus, a flexible approach is necessary to ensure that studies reflect current knowledge of pediatric pharmacology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대상 의약품의 배설 과정이 잘 정립되어 있고 개체 발생 기전이 알려져 있다면 약동학 평가를 위한 연령 구분은 배설이 유의하게 변화를 나타내는 전환점을 근거로 선택할 수 있다.",
+      "en_txt": "If the clearance pathways of a medicinal product are well established and the ontogeny of the pathways understood, age categories for pharmacokinetic evaluation might be chosen based on any “break point” where clearance is likely to change Clinical Investigation of Medicinal Products in the Pediatric Population 8 significantly.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "때로는 넓은 연령대에서 결과를 수집하고 공변량으로서 연령의 효과를 관찰하는 것이 더 적절할 수도 있다.",
+      "en_txt": "Sometimes, it may be more appropriate to collect data over broad age ranges and examine the effect of age as a continuous covariant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 집단을 여러 개의 연령군으로 나누는 것은 필요 환자수를 불필요하게 증가시킬 수 있으며 장기간의 시험인 경우 소아 환자는 한 연령군에서 다른 연령군으로 이동하는 경우도 있으므로 시험 및 통계 계획은 연령군의 환자수 변경을 고려해야 한다.",
+      "en_txt": "In longer term studies, pediatric patients may move from one age category to another; the study design and statistical plans should prospectively take into account changing numbers of patients within a given age category.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "그러나 연령 분류에 따른 발달상의 문제(예, 신체적, 인지적, 심리사회적)는 상당한 중복이 있을 수 있다.",
+      "en_txt": "There is, however, considerable overlap in developmental (e.g., physical, cognitive, and psychosocial) issues across the age categories.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "미숙아 신생아 (0일부터 27일까지) 영아 (28일부터 23개월까지) 어린이 (만 2세부터 11세까지) 청소년 (만 12세부터 16-18세까지(지역에 따라)) 2.5.1 미숙아 미숙아를 위한 의약품 시험은 미숙아 고유의 병태생리와 치료반응 때문에 특별한 주의가 요구된다.",
+      "en_txt": "Preterm newborn infants Term newborn infants (0 to 27 days) Infants and toddlers (28 days to 23 months) Children (2 to 11 years) Adolescents (12 to 16-18 years (dependent on region)) 2.5.1 Preterm Newborn Infants The study of medicinal products in preterm newborn infants presents special challenges because of the unique pathophysiology and responses to therapy in this population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "성인이나 고연령의 소아 환자로부터 얻은 유효성 결과를 미숙아에게 외삽할 수 있는 경우는 극히 드물다.",
+      "en_txt": "Only rarely will it be possible to extrapolate efficacy from studies in adults or even in older pediatric patients to the preterm newborn infant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임신 25주, 500 g 미숙아는 임신 30주, 1,500 g 미숙아와는 매우 다르다.",
+      "en_txt": "A 25-week gestation, 500-gram (g) newborn is very different from a 30-week gestation newborn weighing 1,500 g.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "저체중아는 미성숙한 것인지 성장이 지연된 것인지 구별하여야 한다.",
+      "en_txt": "A distinction should also be made for low-birth-weight babies as to whether they are immature or growth retarded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "(1) 출생시 재태기간 및 출생 후 연령 (교정연령) (2) 신장 및 간장을 통한 배설 기전의 미성숙도 (3) 단백결합 및 치환 (특히 빌리루빈) (4) 대상 의약품의 중추신경계 투과성 (5) 특이적인 태아 질환 상태 (예. 신생아의 호흡곤란 증후군 (respiratory distress syndrome), 동맥관개존증(動脈管開存症, patent ductus arterious), 원발성 폐고혈압증 (primary pulmonary hypertension)) (6) 미숙아의 특이적인 감수성 (예. 괴사대장염 (necrotizing enterocolitis), 뇌실내 출혈 (intraventricular hemorrhage), 미숙아 망막병증 (retinopathy of prematurity)) (7) 만성노출 시 다양한 용량 용법을 요하는 모든 생리, 약리과정의 신속하고도 다양한 성숙 과정 (8) 대상 의약품 및 다른 화학물질의 경피 흡수 미숙아군을 위한 시험계획은 다음과 같은 것을 고려해야 한다.",
+      "en_txt": "Important features that should be considered for these patients include: (1) gestational age at birth and age after birth (adjusted age); (2) immaturity of renal and hepatic clearance mechanisms; (3) protein binding and displacement issues (particularly bilirubin); (4) penetration of medicinal products into the central nervous system (CNS); (5) unique neonatal disease states (e.g., respiratory distress syndrome of the newborn, patent ductus arteriosus, primary pulmonary hypertension); (6) unique susceptibilities of the preterm newborn (e.g., necrotizing enterocolitis, intraventricular hemorrhage, retinopathy of prematurity); (7) rapid and variable maturation of all physiologic and pharmacologic processes leading to different dosing regimens with chronic exposure; and (8) transdermal absorption of medicinal products and other chemicals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "혈뇌장벽이 완전히 성숙하지 않아 대상 의약품과 내인성 물질 (예. 빌리루빈)이 중추신경계로 침입하여 독성을 나타낼 수 있다.",
+      "en_txt": "The blood-brain barrier is still not fully mature and medicinal products and endogenous substances (e.g., bilirubin) may gain access to the CNS with resultant toxicity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "대상 의약품의 경구 흡수는 고연령의 소아에 비해 예측 가능성이 낮다.",
+      "en_txt": "Oral absorption of medicinal products may be less predictable than in older pediatric patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "신장 및 간장을 통한 배설 기전이 미성숙하고 급속히 변화하고 있으므로 생후 첫 몇 주에 걸쳐 용량 조절이 필요할 수 있다.",
+      "en_txt": "Hepatic and renal clearance mechanisms are immature and rapidly changing; doses may need to be adjusted over the first weeks of life.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "의약품 독성에 대한 감수성 증가의 많은 예가 이러한 제한된 청소율에 기인한다(예. 클로람페니콜 회색 아기 증후군).",
+      "en_txt": "Many examples of increased susceptibility to toxic effects of medicinal products result from limited clearance in these patients (e.g., chloramphenicol grey baby syndrome).",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "한편으로 고연령군에 비해 몇몇 유해효과(예. 아미노글리코시드 신독성)에 있어 감수성이 덜 예민하기도 하다.",
+      "en_txt": "On the other hand, term newborn infants may be less susceptible to some types of adverse effects (e.g., aminoglycoside nephrotoxicity) than are patients in older age groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "영아 (28일부터 23개월까지): 이 시기는 중추신경계의 성숙, 면역계 발달 및 신체의 전체적인 성장이 급격하게 이루어지는 시기이다.",
+      "en_txt": "Infants and toddlers (28 days to 23 months): This is a period of rapid CNS maturation, immune system development and total body growth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "어린이 (만 2세부터 11세까지): 대부분의 의약품의 배설 경로 (간 및 신장)가 성숙되어 있으며 종종 성인 수치를 초과한다.",
+      "en_txt": "Children (2 to 11 years): Most pathways of drug clearance (hepatic and renal) are mature, with clearance often exceeding adult values.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "성장과 발달에 미치는 대상 의약품의 효과를 조사하기 위한 특별한 전략이 시험계획서상 기술되어야 한다.",
+      "en_txt": "Specific strategies should be addressed in protocols to ascertain any effects of the medicinal product on growth and development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "어린이에게 미치는 대상의약품의 영향을 측정하는데 있어 유용한 고려인자는 골격 성장, 체중 증가, 학교 출석 및 학업 성적 등이다.",
+      "en_txt": "Factors useful in measuring the effects of a medicinal product on children include skeletal growth, weight gain, school attendance, and school performance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "환자 모집시 어린이 연령대 전반을 적절히 대표할 수 있어야 하고 평가를 위해 같은 어린이 연령대라도 상대적으로 더 어린 환자를 충분히 확보하는 것이 중요하다.",
+      "en_txt": "Recruitment of patients should ensure adequate representation across the age range in this category, as it is important to ensure a sufficient number of younger patients for evaluation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 카테고리 내에서 연령에 의한 분류는 흔히 불필요하고 약동학적 및/또는 유효성 평가변수를 바탕으로 환자를 분류하는 것이 적절하다.",
+      "en_txt": "Stratification by age within this category is often unnecessary, but it may be appropriate to stratify patients based on pharmacokinetic and/or efficacy endpoint considerations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "사춘기의 시작은 각 어린이 간 현저하게 다르며 여아에서 먼저 나타나서 이른 경우에는 만 9세경에 시작할 수도 있다.",
+      "en_txt": "The onset of puberty is highly variable and occurs earlier in girls, in whom normal onset of puberty may occur as early as 9 years of age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "사춘기는 의약품을 대사시키는 효소 활성에 영향을 줄 수 있어 mg/kg로 기재한 몇몇 의약품 (예. 테오필린)의 필요 용량이 현저하게 감소될 수 있다.",
+      "en_txt": "Puberty can affect the apparent activity of enzymes that metabolize drugs, and dose requirements for some medicinal products on a mg/kg basis may decrease dramatically (e.g., theophylline).",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "경우에 따라서는 사춘기 전후 환자 시험을 통해 어떠한 대상 의약품에 미치는 사춘기의 영향을 특별히 평가하는 것이 적절할 수 있다.",
+      "en_txt": "In some cases, it may be appropriate to specifically assess the effect of puberty on a medicinal product by studying pre- and postpubertal pediatric patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "청소년 (만 12세부터 16-18세까지(지역에 따라)): 이 시기는 성적 성숙 시기이므로 약물이 성호르몬의 작용 및 발달을 저해할 수 있다.",
+      "en_txt": "Adolescents (12 to 16-18 years (dependent on region)): This is a period of sexual maturation; medicinal products may interfere with the actions of sex hormones and impede development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 시기는 또한 급속한 성장과 계속적인 신경 인지발달의 시기이다.",
+      "en_txt": "This is also a period of rapid growth and continued neurocognitive development.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "사춘기의 시작을 늦추거나 촉진할 수 있는 약물 및 질병은 성장 양상을 변화시켜 사춘기의 급격한 성장에 큰 영향을 가져와 궁극적인 키에 영향을 미칠 수 있다.",
+      "en_txt": "Medicinal products and illnesses that delay or accelerate the onset of puberty can have a profound effect on the pubertal growth spurt and, by changing the pattern of growth, may affect final height.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "인지 및 감정변화를 야기하는 것은 임상시험 결과에 잠재적인 영향을 가져올 수 있다.",
+      "en_txt": "Evolving cognitive and emotional changes could potentially influence the outcome of clinical studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "많은 질병은 또한 사춘기 부근의 호르몬 변화에 의해 영향을 받는다 (예. 당뇨병의 인슐린 저항성 증가, 초경 부근의 발작 재발, 편두통의 빈도 및 정도 변화 및 천식 악화).",
+      "en_txt": "Many diseases are also influenced by the hormonal changes around puberty (e.g., increases in insulin resistance in diabetes mellitus, recurrence of seizures around menarche, changes in the frequency and severity of migraine attacks and asthma exacerbations).",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "따라서 호르몬 변화는 임상시험 결과에 영향을 미칠 수 있다.",
+      "en_txt": "Hormonal changes may thus influence the results of clinical studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 연령군의 청소년은 자기 자신의 건강과 투약에 있어서 책임을 가지고 있다.",
+      "en_txt": "Within this age group, adolescents are assuming responsibility for their own health and medication.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이 항목의 목적은 소아시험을 윤리적으로 수행하는 것을 보장하기 위한 체계를 제공하는 것이다.",
+      "en_txt": "The purpose of this section is to provide a framework to ensure that pediatric studies are conducted ethically.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "또한 임상시험 참여자는 비치료적 임상시험과 같은 ICH E6에서 논의된 특수 상황을 제외하고는 임상시험으로부터 이익을 얻을 수 있어야 한다.",
+      "en_txt": "In addition, participants in clinical studies are expected to benefit from the clinical study except under the special circumstances discussed in ICH E6, section 4.8.14.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "임상시험심사위원회/ 독립적인 윤리위원회: ICH E6에 언급한 바와 같이 임상시험심사위원회의 역할은 피험자의 보호를 위해 중요하다.",
+      "en_txt": "Institutional Review Board/Independent Ethics Committee (IRB/IEC): The roles and responsibilities of IRB’s/IEC’s as detailed in ICH E6 are critical to the protection of study participants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 집단을 포함하는 임상시험계획을 검토할 때는 임상시험심사위원회에 의해 자문요청 받은 소아 윤리, 임상 및 정신적인 문제에 학식이 있는 임상시험심사위원회 구성원 또는 전문가가 있어야 한다.",
+      "en_txt": "When protocols involving the pediatric population are reviewed, there should be IRB/IEC members or experts consulted by the IRB/IEC who are knowledgeable in pediatric ethical, clinical, and psychosocial issues.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "피험자 모집: 피험자 모집은 부모 및 법적 보호자 또는 참여자에게 부적절한 권유 없이 이루어져야 한다.",
+      "en_txt": "Recruitment: Recruitment of study participants should occur in a manner free from inappropriate inducements either to the parent(s)/legal guardian or the study participant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "이러한 상황에서는 부모 혹은 법적 보호자의 지속적인 동의가 시험에 참여하는 것에 대해 충족되어야 한다.",
+      "en_txt": "In this situation, continued parental (legal guardian) consent should be sufficient to allow participation in the study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "상대적으로 덜 취약하고 동의 가능한 집단에서 얻을 수 있는 정보를 더 취약한 집단 또는 환자가 독립적인 동의를 할 수 없는 집단에서 얻어서는 안 된다.",
+      "en_txt": "Information that can be obtained in a less vulnerable, consenting population should not be obtained in a more vulnerable population or one in which the patients are unable to provide individual consent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "장애가 있거나 시설에 수용된 소아집단을 대상으로 한 시험은 이러한 집단에서 주로 또는 제한적으로 발견되는 질환이나 상태 또는 이러한 소아환자에서의 질환이나 상태가 의약품의 성질이나 약력학적 효과를 변화시킬 것으로 예상되는 경우에만 한정해야 한다.",
+      "en_txt": "Studies in handicapped or institutionalized pediatric populations should be limited to diseases or conditions found principally or exclusively in these populations, or situations in which the disease or condition in these pediatric patients would be expected to alter the disposition or pharmacodynamic effects of a medicinal product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "위험성 최소화: 임상시험이 치료의 가치를 입증하거나 반증하는데 매우 중요하거나 심지어 전체에 이익이 되는 경우라 하더라도 피험자는 시험에 참여한 결과로서 장해를 입어서는 안 된다.",
+      "en_txt": "Minimizing Risk: However important a study may be to prove or disprove the value of a treatment, participants may suffer injury as a result of inclusion in the study, even if the whole community benefits.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "알려진 위험을 예측하고 감소시키기 위해 모든 노력을 기울여야 한다.",
+      "en_txt": "Every effort should be made to anticipate and reduce known hazards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시험자는 임상시험 시작 전에 그 의약품의 모든 관련된 비임상 및 임상시 나타난 독성에 대해 완벽하게 인지하고 있어야 한다.",
+      "en_txt": "Investigators should be fully aware before the start of a clinical study of all relevant preclinical and clinical toxicity of the medicinal product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 임상시험의 위험을 최소화하기 위해 시험자는 적절한 교육을 받고 소아 시험에 경험을 가지고 있어 소아에게 나타날 수 있는 이상반응을 평가하고 관리할 수 있어야 한다.",
+      "en_txt": "To minimize risk in pediatric clinical studies, those conducting the study should be properly trained and experienced in studying the pediatric population, including the evaluation and management of potential pediatric adverse events.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "연구 설계 면에서는 좋은 설계이어야 함과 동시에 피험자 수와 절차를 간소화하기 위한 노력이 필요하다.",
+      "en_txt": "In designing studies, every attempt should be made to minimize the number of participants and of procedures, consistent with good study design.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "소아 환자를 상대하고 그 연령에 맞는 요구에 부응할 수 있는 식견 있고 숙련된 시험자 연령에 맞는 가구, 놀이 기구, 활동, 신체적으로 편안한 환경 및 음식 구비 피험자가 보통 치료 받는 병원과 같은 친숙한 환경에서의 시험 진행 불편을 최소화하기 위한 방안 정맥 카테터 삽입 시 국소 마취 반복되는 정맥 천자보다는 내재 카테터를 이용 통상적인 임상 샘플 채취 시 시험계획서에 명시된 혈액 샘플을 채취 임상시험심사위원회/윤리위원회는 시간이 경과함에 따라 내재 카테터가 작동하지 않을 때 시험계획서상의 혈액 샘플을 얻기 위해 얼마나 많은 정맥 천자를 허용할지를 고려해야 한다.",
+      "en_txt": "Practical considerations to ensure that participants’ experiences in clinical studies are positive and to minimize discomfort and distress include the following: Personnel knowledgeable and skilled in dealing with the pediatric population and its age-appropriate needs, including skill in performing pediatric procedures A physical setting with furniture, play equipment, activities, and food appropriate for age The conduct of studies in a familiar environment such as the hospital or clinic where participants normally receive their care Approaches to minimize discomfort of procedures, such as: Topical anesthesia to place IV catheters Indwelling catheters rather than repeated venipunctures for blood sampling Collection of some protocol-specified blood samples when routine clinical samples are obtained IRB’s/IEC’s should consider how many venipunctures are acceptable in an attempt to obtain blood samples for a protocol and ensure a clear understanding of procedures if an indwelling catheter fails to function over time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": "시험 절차를 거부할 수 있는 피험자의 권리는 2.6.3에서 언급한 예외를 제외하고는 늘 존중되어야 한다.",
+      "en_txt": "The participant’s right to refuse further investigational procedures must be respected except as noted in section 2.6.3.",
+      "align_score": null
+    }
+  ]
+}

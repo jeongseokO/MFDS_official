@@ -1,0 +1,510 @@
+{
+  "document_id": "ke_ich_meeting_0004",
+  "meta": {
+    "set": "KE",
+    "source_folder": "3",
+    "source_code": "ich_meeting",
+    "source_name": "ICH 미팅보고서",
+    "orig_doc_id": "13_하반기_ICH회의보고서",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "ICH 미팅보고서",
+    "title_ko": "2013년 하반기 의약품규제자포럼(IPRF) 및 의약품국제조화회의(ICH) 참석 결과 보고(요약)",
+    "title_en": "ICH and IPRF Meeting Report for 2nd Half of 2013 [Summary]",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": null,
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 0,
+      "type": "title",
+      "section": null,
+      "path": {
+        "ko": [],
+        "en": []
+      },
+      "ko_txt": "2013년 하반기 의약품규제자포럼(IPRF) 및 의약품국제조화회의(ICH) 참석 결과 보고(요약)",
+      "en_txt": "ICH and IPRF Meeting Report for 2nd Half of 2013 [Summary]",
+      "align_score": null
+    },
+    {
+      "seg_id": 1,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": "회의개요",
+      "en_txt": "Meeting Overview",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": {
+        "ko": [
+          "회의개요"
+        ],
+        "en": [
+          "Meeting Overview"
+        ]
+      },
+      "ko_txt": {
+        "ICH": [
+          {
+            "key": "일정",
+            "value": {
+              "IPRF": "’13. 11. 11(월) ～ 11. 12(화)",
+              "ICH": "’13. 11. 13(수) ～ 11. 14(목)"
+            }
+          },
+          {
+            "key": "장소",
+            "value": "일본(오사카)"
+          }
+        ],
+        "우리처 대표단": [
+          {
+            "key": "ICH-GCG 식약처 대표(DRA)",
+            "value": "이선희 부장(의약품심사부)"
+          },
+          {
+            "key": "ICH-GCG APEC 부대표(RHI)",
+            "value": "김정미 과장(임상연구과)"
+          },
+          {
+            "key": "ICH-GCG 식약처 부대표(DRA)",
+            "value": "박은혜 주무관(의약품심사조정과)"
+          },
+          {
+            "key": "ICH-GCG 식약처 부대표(DRA)",
+            "value": "박희영 연구관(의약품정책과)"
+          },
+          {
+            "key": "전문가위원회 대표",
+            "value": "안미령 연구관(종양약품과)"
+          },
+          {
+            "key": "전문가위원회 대표",
+            "value": "송영미 연구관(소화계약품과)"
+          },
+          {
+            "key": "전문가위원회 대표",
+            "value": "김정연 연구관(의약품품질과)"
+          }
+        ]
+      },
+      "en_txt": {
+        "ICH": [
+          {
+            "key": "Date",
+            "value": {
+              "IPRF": "Nov. 11 (Mon) - 12 (Tue), 2013",
+              "ICH": "Nov. 13 (Wed) - 14 (Thu), 2013"
+            }
+          },
+          {
+            "key": "Location",
+            "value": "Japan (Osaka)"
+          }
+        ],
+        "MFDS Representatives": [
+          {
+            "key": "ICH-GCG Korean head representative (DRA)",
+            "value": "Sun Hee Lee, Director General (Drug Evaluation Department)"
+          },
+          {
+            "key": "ICH-GCG APEC Deputy representative (RHI)",
+            "value": "Jeong Mi Kim, Director (Clinical Research Division)"
+          },
+          {
+            "key": "ICH-GCG Korean deputy representative (DRA)",
+            "value": "Eun Hye Park, Assistant Director (Drug Review Management Division)"
+          },
+          {
+            "key": "ICH-GCG Korean deputy representative (DRA)",
+            "value": "Hee Young Park, Deputy Director (Pharmaceutical Policy Division)"
+          },
+          {
+            "key": "EWG representatives",
+            "value": "Mee Ryung Ahn, Deputy Director (Oncology and Antimicrobial Products Division)"
+          },
+          {
+            "key": "EWG representatives",
+            "value": "Youngme Song, Deputy Director (Gastroenterology and Metabolism Products Division)"
+          },
+          {
+            "key": "EWG representatives",
+            "value": "Jeong Yeon Kim, Deputy Director (Pharmaceutical Quality Division)"
+          }
+        ]
+      },
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용"
+        ],
+        "en": [
+          "Meeting Summary"
+        ]
+      },
+      "ko_txt": "주요내용",
+      "en_txt": "Meeting Summary",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting"
+        ]
+      },
+      "ko_txt": "IPRF 회의",
+      "en_txt": "IPRF Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "MFDS Regulatory Updates"
+        ]
+      },
+      "ko_txt": "우리처 활동",
+      "en_txt": "MFDS Regulatory Updates",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "MFDS Regulatory Updates"
+        ]
+      },
+      "ko_txt": "국제의약품규제당국자 포럼(IPRF)에서 바이오시밀러 워킹그룹을 구성·추진하기로 합의하고 한국을 의장국으로 결정",
+      "en_txt": "IPRF agreed to create Biosimilars Working Group and initiate its activities, and decided MFDS as Chair",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "MFDS Regulatory Updates"
+        ]
+      },
+      "ko_txt": "(IPRF의 바이오시밀러 실무그룹 활동) 실질적인 협력성과를 거둘 수 있도록 실무그룹 구성‧운영을 위한 추진체계 및 계획 마련 논의",
+      "en_txt": "(Biosimilars WG Updates) Discussed an operating system and action plans to achieve practical results with cooperation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "IPRF 회의",
+          "우리처 활동"
+        ],
+        "en": [
+          "Meeting Summary",
+          "IPRF Meeting",
+          "MFDS Regulatory Updates"
+        ]
+      },
+      "ko_txt": "국제의약품규제자포럼의 활동범위를 ICH 범위내로 제한할 것을 브라질에서 제안하였으나, 기존의 규제자포럼의 설립 배경 등을 고려하였을 때, ICH 범위내에서 활동하기 어려움. 그러나 다른 단체와의 중복성을 고려하여 활동하도록 할 것을 IPRF에게 제안할 것으로 동의",
+      "en_txt": "Brazil suggested that IPRF should work within the range of ICH activities. Given the background of the establishment of IPRF, the scope of work cannot be confined to that of ICH. It was agreed to suggest that the scope of work should not be confined to that of ICH while ensuring to avoid duplication of activities by other organizations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting"
+        ]
+      },
+      "ko_txt": "ICH 회의",
+      "en_txt": "ICH Meeting",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues"
+        ]
+      },
+      "ko_txt": "주요 논의 내용",
+      "en_txt": "Main Issues",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH와 APEC 규제조화센터간의 긴밀한 협력방안 마련 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Discussion the ways of close cooperation between AHC and ICH"
+        ]
+      },
+      "ko_txt": "ICH와 APEC 규제조화센터간의 긴밀한 협력방안 마련 논의",
+      "en_txt": "Discussion the ways of close cooperation between AHC and ICH",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH와 APEC 규제조화센터간의 긴밀한 협력방안 마련 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Discussion the ways of close cooperation between AHC and ICH"
+        ]
+      },
+      "ko_txt": "아시아·태평양 지역 내 ICH 가이드라인 교육은 APEC 규제조화센터가 수행 할 수 있도록 ICH와 협력 방안 논의",
+      "en_txt": "Discussed with ICH in order that AHC provides training of ICH Guidelines for APEC economies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH 회원 범위 확대(안)을 논의 시작하였으며, 자격 요건 등 세부사항 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Began to discuss the expansion of ICH membership (draft) and details such as member qualification"
+        ]
+      },
+      "ko_txt": "ICH 회원 범위 확대(안)을 논의 시작하였으며, 자격 요건 등 세부사항 논의",
+      "en_txt": "Began to discuss the expansion of ICH membership (draft) and details such as member qualification",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH 회원 범위 확대(안)을 논의 시작하였으며, 자격 요건 등 세부사항 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Began to discuss the expansion of ICH membership (draft) and details such as member qualification"
+        ]
+      },
+      "ko_txt": "기존 일부 국가에만 ICH 활동을 제한했던 ICH에서 다른 국가들에게도 그 활동을 확대할 계획, 추후 ICH 결정 사항에 따라서 우리처도 적극적으로 활동 필요",
+      "en_txt": "The activities of ICH will be expanded to include new members, which were used to be limited to founding members. MFDS’ active participation will be needed with the ICH reform.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH 회원 범위 확대(안)을 논의 시작하였으며, 자격 요건 등 세부사항 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Began to discuss the expansion of ICH membership (draft) and details such as member qualification"
+        ]
+      },
+      "ko_txt": "우리나라 제약업계에 우리처의 ICH 활동을 적극 홍보하고 관련 활동에 참여를 요청하여, ICH 정책 방향 설정 및 가이드라인 개발 시 우리나라의 의견이 반영되도록 할 필요성 인식",
+      "en_txt": "Recognized the necessity of active participation of MFDS to reflect on its opinion when ICH determines its political direction and develops guidelines in order to promote MFDS’ activities in ICH and encourage Korean industry’s participation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "heading",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH 교육 계획 및 각 국가의 교육 현황에 대한 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Share ICH training plan and training status of each country"
+        ]
+      },
+      "ko_txt": "ICH 교육 계획 및 각 국가의 교육 현황에 대한 논의",
+      "en_txt": "Share ICH training plan and training status of each country",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH 교육 계획 및 각 국가의 교육 현황에 대한 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Share ICH training plan and training status of each country"
+        ]
+      },
+      "ko_txt": "APEC RHSC처럼 ICH도 교육에 대한 로드맵을 마련하여 추진 필요",
+      "en_txt": "Recognized the necessity of setting a roadmap for training (e.g. RHSC roadmap)",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH 교육 계획 및 각 국가의 교육 현황에 대한 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Share ICH training plan and training status of each country"
+        ]
+      },
+      "ko_txt": "각 국가는 ICH 가이드라인만을 교육하는 교육 프로그램은 없으나, 자체 교육 프로그램의 일부로 ICH 가이드라인에 대한 강의가 있음.",
+      "en_txt": "Some countries do not have a training program dedicated only to ICH Guidelines, but have training courses for ICH Guidelines part of their own training program.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": {
+        "ko": [
+          "주요내용",
+          "ICH 회의",
+          "주요 논의 내용",
+          "ICH 교육 계획 및 각 국가의 교육 현황에 대한 논의"
+        ],
+        "en": [
+          "Meeting Summary",
+          "ICH Meeting",
+          "Main Issues",
+          "Share ICH training plan and training status of each country"
+        ]
+      },
+      "ko_txt": "내부 직원들을 위한 교육 프로그램은 각 국가마다 있고, 외국 허가당국자들을 위한 교육을 제공하는 국가도 있음(싱가포르, 한국)",
+      "en_txt": "All regulatory agencies have training programs for internal reviewers and some of them provide training programs for reviewers of other agencies (Singapore, Korea)",
+      "align_score": null
+    }
+  ]
+}

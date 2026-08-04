@@ -1,0 +1,172 @@
+{
+ "document_id": "ke_cris_0002",
+ "meta": {
+  "set": "KE",
+  "source_folder": "12",
+  "source_code": "cris",
+  "source_name": "국내 임상연구(CRIS)",
+  "orig_doc_id": "KCT0000002",
+  "category_l1": "임상연구정보",
+  "category_l2": "임상시험 등록정보",
+  "category_l3": "국내 임상연구(CRIS)",
+  "title_ko": null,
+  "title_en": null,
+  "source_doc": null,
+  "target_doc": null,
+  "doc_type": "CRIS",
+  "source_language": "en",
+  "target_language": "ko",
+  "pub_date_ko": null,
+  "pub_date_en": null,
+  "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=916",
+  "domain_tag": null,
+  "align_method": "LaBSE cosine (sentence-transformers/LaBSE)",
+  "n_pairs": 16
+ },
+ "segments": [
+  {
+   "seg_id": 1,
+   "type": "sentence",
+   "section": "1. 연구개요_요약제목",
+   "path": null,
+   "ko_txt": "암 생존자들에 있어서 건강 증진에 대한 건강 교육 자료에 관한 연구",
+   "en_txt": "A Study With Health Educational Material on Health Promotion in Cancer Survivors",
+   "align_score": 0.8445
+  },
+  {
+   "seg_id": 2,
+   "type": "sentence",
+   "section": "1. 연구개요_연구제목",
+   "path": null,
+   "ko_txt": "암 생존 환자에서의 지식, 태도, 행동에 관한 건강교육자료에 대한 효과의 무작위적 시험",
+   "en_txt": "A Randomized Controlled Trial on the Effect of Intervention With Health Educational Material on Knowledge, Attitude, and Behavior in Cancer Survivors",
+   "align_score": 0.8165
+  },
+  {
+   "seg_id": 3,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_성명",
+   "path": null,
+   "ko_txt": "신동욱",
+   "en_txt": "Dongwook Shin",
+   "align_score": 0.7937
+  },
+  {
+   "seg_id": 4,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_기관명",
+   "path": null,
+   "ko_txt": "국립암센터",
+   "en_txt": "National Cancer Center",
+   "align_score": 0.8727
+  },
+  {
+   "seg_id": 5,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_성명",
+   "path": null,
+   "ko_txt": "장윤정",
+   "en_txt": "Yoon Jung Chang",
+   "align_score": 0.855
+  },
+  {
+   "seg_id": 6,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_기관명",
+   "path": null,
+   "ko_txt": "국립암센터",
+   "en_txt": "National Cancer Center",
+   "align_score": 0.8727
+  },
+  {
+   "seg_id": 7,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_기관명",
+   "path": null,
+   "ko_txt": "국립암센터",
+   "en_txt": "National Cancer Center",
+   "align_score": 0.8727
+  },
+  {
+   "seg_id": 8,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+   "path": null,
+   "ko_txt": "국립암센터",
+   "en_txt": "National Cancer Center",
+   "align_score": 0.8727
+  },
+  {
+   "seg_id": 9,
+   "type": "sentence",
+   "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+   "path": null,
+   "ko_txt": "국립암센터",
+   "en_txt": "National Cancer Center",
+   "align_score": 0.8727
+  },
+  {
+   "seg_id": 10,
+   "type": "sentence",
+   "section": "6. 연구책임기관_1.연구책임기관_기관명",
+   "path": null,
+   "ko_txt": "국립암센터",
+   "en_txt": "National Cancer Center",
+   "align_score": 0.8727
+  },
+  {
+   "seg_id": 11,
+   "type": "sentence",
+   "section": "8. 연구설계_군_1.중재군_군명",
+   "path": null,
+   "ko_txt": "교육자료",
+   "en_txt": "educational material",
+   "align_score": 0.9131
+  },
+  {
+   "seg_id": 12,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 포함기준_내용",
+   "path": null,
+   "ko_txt": "Cancer survivors (pathologically confirmed) Finished primary treatment (surgery, radiotherapy, chemotherapy) >= 1 year from cancer diagnosis No evidence of recurrence, metastasis, and second primary cancer No evidence of hereditary cancer ECOG 0,1,2 Ability in reading Korean educational material",
+   "en_txt": "Cancer survivors (pathologically confirmed) Finished primary treatment (surgery, radiotherapy, chemotherapy) >= 1 year from cancer diagnosis No evidence of recurrence, metastasis, and second primary cancer No evidence of hereditary cancer ECOG 0,1,2 Ability in reading Korean educational material",
+   "align_score": 1.0
+  },
+  {
+   "seg_id": 13,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 제외기준",
+   "path": null,
+   "ko_txt": "ECOG 3,4 Disagree with our study purpose",
+   "en_txt": "ECOG 3,4 Disagree with our study purpose",
+   "align_score": 1.0
+  },
+  {
+   "seg_id": 14,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+   "path": null,
+   "ko_txt": "1년 후",
+   "en_txt": "After 1 yr",
+   "align_score": 0.8663
+  },
+  {
+   "seg_id": 15,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+   "path": null,
+   "ko_txt": "2기 암 스크리닝에 대한 지식 및 인식(태도)과 식이요법",
+   "en_txt": "Knowledge and attitudes of Secondary cancer screening and dietary supplement",
+   "align_score": 0.7513
+  },
+  {
+   "seg_id": 16,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "2주 후",
+   "en_txt": "In 2 weeks",
+   "align_score": 0.8387
+  }
+ ]
+}
