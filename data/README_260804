@@ -1,0 +1,57 @@
+# MFDS Korean-English Parallel Corpus
+
+## 1. 데이터 개요
+
+본 데이터는 의약품 규제 문서를 기반으로 구축한 한·영 병렬 말뭉치입니다.  
+한국어 원문과 이에 대응하는 영어 번역문을 문장 또는 구간 단위로 정렬하여 구성하였습니다.
+
+## 2. 데이터 제공 방식
+
+데이터는 GitHub와 Google Drive를 통해 제공됩니다.
+
+- **GitHub**: 데이터 구조와 형식을 확인할 수 있도록 일부 테스트 파일을 제공합니다.
+- **Google Drive**: 전체 데이터셋을 압축 파일 형태로 제공합니다.
+
+전체 데이터는 용량 문제로 인해 GitHub에 업로드하지 않았으며, 아래 Google Drive 링크를 통해 다운로드할 수 있습니다.
+
+## 3. 전체 데이터 다운로드
+
+- **파일명**: `MFDS_parallel_corpus_v1.0.zip`
+- **다운로드 링크**: https://drive.google.com/drive/folders/1OeV28JyZcU-rVJkEYelK-zPTad75hqgN?usp=drive_link
+
+> GitHub 저장소에는 일부 테스트 파일만 포함되어 있습니다. 전체 데이터셋은 Google Drive에서 확인 및 다운로드할 수 있습니다.
+
+> 다운로드 권한이 없는 경우 서울대학교 CCADD 연구팀으로 문의해 주시기 바랍니다.
+
+## 4. 파일 정보
+
+- 파일명: `MFDS_parallel_corpus_v1.0.zip`
+- 버전: v1.0
+- 데이터 형식: JSON
+- 언어: 한국어-영어
+- 압축 형식: ZIP
+- 구축 기관: 서울대학교 CCADD
+- 최종 업데이트: 2026-08-04
+
+## 5. 데이터 구성
+
+Google Drive에서 제공하는 압축 파일에는 다음과 같은 전체 데이터가 포함되어 있습니다.
+
+```text
+MFDS_parallel_corpus_v1.0/
+├─ KE/
+│  └─ 한국어-영어 병렬 말뭉치
+├─ EE/
+│  └─ 영어 단일언어 말뭉치
+├─ KK/
+│  └─ 한국어 단일언어 말뭉치
+├─ dict/
+│  └─ 전문용어 및 단어 사전
+└─ README.txt
+```
+
+## 6. GitHub 테스트 파일 안내
+
+GitHub 저장소에는 전체 데이터셋의 구조와 JSON 형식을 확인할 수 있도록 일부 테스트 파일을 업로드하였습니다.
+
+테스트 파일은 데이터 형식 확인 및 코드 실행 점검을 위한 예시이며, 실제 전체 데이터는 Google Drive에서 별도로 제공됩니다.
