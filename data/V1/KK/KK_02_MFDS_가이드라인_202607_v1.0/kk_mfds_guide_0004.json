@@ -1,0 +1,505 @@
+{
+  "document_id": "kk_mfds_guide_0004",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "(가이드라인-020) 혈액제제의 핵산증폭검사법 검증 가이드라인.pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 배경",
+      "path": null,
+      "ko_txt": "혈장분획제제의 제조를 위해서는 원료인 공혈자 혈액에 대하여 전염성 질병 인자(특 히, 식품의약품안전처장이 정하는 혈액매개 전염인자) 여부에 의한 감염 여부를 검사해 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 배경",
+      "path": null,
+      "ko_txt": "일반적으로 바이러스 감염 후 항체가 형성되기까지는 수 주간의 시간이 소요 되므로 항체 형성 이전에는 기존의 항체 및 표면항원 검사와 같은 방법으로는 바이러 스에 감염된 공혈 혈액을 완전히 제외시킬 수 없는 시험방법의 한계가 있었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "1. 배경",
+      "path": null,
+      "ko_txt": "이러한 이유로, 혈액 및 수집혈장에 대하여 항체 형성기 이전에도 바이러스 감염 여부를 판별 할 수 있는 다양한 핵산증폭검사법이 개발되어 적용되고 있으며, 1990년대 후반~2000 년대 초반에 이르기까지 미국 및 유럽에서는 혈액에 대한 핵산증폭검사법을 의무화해 왔다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "1. 배경",
+      "path": null,
+      "ko_txt": "우리나라 역시, 2002년부터 신설된 ‘수입혈장관리기준(「약사법 시행규칙⌟ [별표 4의 5])에 따라 수입혈장에 대한 효소면역검사 그리고 핵산증폭검사가 의무화되어 검 사 실시 결과 HCV(Hepatitis C Virus, C형 간염 바이러스), HIV(Human Immunodeficiency Virus, 사람면역결핍바이러스), HBV(Hepatitis B Virus, B형 간염 바 이러스) 등에 대해 음성이 확인된 혈장만을 혈장분획제제의 제조에 사용하도록 하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "1. 배경",
+      "path": null,
+      "ko_txt": "2012년 6월에는 ’수입혈장관리기준‘이 ’원료혈장관리기준‘(「약사법 시행규칙⌟ [별표 4])으로 개정됨에 따라 수입혈장 뿐 아니라, 혈장분획제제 제조에 사용하는 국내 원료혈장에 대해서도 시험이 확대, 의무화 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "1. 배경",
+      "path": null,
+      "ko_txt": "이러한 핵산증폭검사법을 주기적으로 수행하기 전에 그 시험방법에 대한 검증을 완료 해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "1. 배경",
+      "path": null,
+      "ko_txt": "즉, 검사법의 특이성(Specificity), 검출한계(detection limit), 정밀성 (precision), 그리고 분석과정에서의 완건성(robustness)에 대한 평가 및 검증(validation) 이 이루어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "1. 배경",
+      "path": null,
+      "ko_txt": "또한, 수집혈장의 크기(pooling size)를 임상검체 개개혈장과 소량 수집혈장과 비교하여 감도가 떨어지지 않는 조건을 설정하여 결정할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "2. 적용범위",
+      "path": null,
+      "ko_txt": "본 가이드라인은 사람 혈액(개별혈장(헌혈자 샘플)), 전혈 등 수혈용 및 분획용 수집혈 장 등의 핵산증폭검사법 검증에 적용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "2. 적용범위",
+      "path": null,
+      "ko_txt": "혈액관리법 시행규칙, ⌜의약품 등의 안전에 관한 규칙⌟[별표5] 원료혈장관리기준, 및 ⌜생물학적제제 등의 품목허가․심사 규정 ⌟제28조 생물학적제제 심사기준에 따라 혈액제제(혈액성분제제 및 혈장분획제제)의 제조에 사용하는 사람 혈액은 전염성 질병 인자에 의한 감염 여부를 검사해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "2. 적용범위",
+      "path": null,
+      "ko_txt": "특히, HCV, HIV 및 HBV의 감염 여부를 평가하기 위하여 수행하는 핵산증폭검사법 검증방법을 제시함을 목적으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3.1. 특이성(Specificity)",
+      "path": null,
+      "ko_txt": "특이성은 불순물이나 분해산물 등 다른 이물질이 존재하는 조건에서도 분석하고자 하는 대상, 즉 특정 바이러스의 염기서열을 정확하게 검출해 낼 수 있는 능력을 의미한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "3.1. 특이성(Specificity)",
+      "path": null,
+      "ko_txt": "핵산증폭검사법의 특이성은 프라이머의 선택, 증폭된 핵산의 확인을 위한 프로브의 선택, 그리고 핵산 증폭 및 검출 단계에서 시험 조건의 엄밀한 유지 등에 의하여 좌우된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "3.1. 특이성(Specificity)",
+      "path": null,
+      "ko_txt": "프라이머와 프로브를 직접 디자인하는 경우, 검출하고자 하는 HCV RNA, HIV RNA 또는 HBV DNA 바이러스의 핵산만을 선택적으로 검출하는 특이성이 있는지 확인하기 위하여 프라이머 및 프로브의 염기서열을 염기서열 데이터 은행의 자료와 비교하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "3.1. 특이성(Specificity)",
+      "path": null,
+      "ko_txt": "핵산증폭검사의 특이성을 검증하기 위해서는 100개 이상의 해당 바이러스(HCV, HIV, HBV)가 음성인 혈장에 대하여 핵산증폭검사법을 실시한 결과가 모두 음성이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "3.1. 특이성(Specificity)",
+      "path": null,
+      "ko_txt": "또한 혈액응고억제제, 분석 대상이 아닌 종의 미생물 및 바이러스가 함유된 검체로 검사하였을 경우에도 모두 음성의 결과를 나타내어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "3.1. 특이성(Specificity)",
+      "path": null,
+      "ko_txt": "도입하고자 하는 핵산증폭검사법은 각 바이러스에 대하여 모든 유전자형(genotypes)을 검출할 수 있어야 하며, 이는 특정 바이러스별 참조 패널(Reference Panel)을 대상으로 시험하여 입증할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "3.1. 특이성(Specificity)",
+      "path": null,
+      "ko_txt": "참조패널은 검사 대상(혈액 및 혈장)이 채취된 국가에서 가장 흔하게 발견되는 유전자형을 포함하고 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "3.1. 특이성(Specificity)",
+      "path": null,
+      "ko_txt": "참조 패널 또는 개별적으로 모든 유전자형의 바이러스를 구하기 어려운 경우, 적어도 검사 대상(혈액 및 혈장)이 채취된 국가에서 가장 흔하게 발견되는 유전형(예를 들어 한국의 경우 HCV는 1b 유전자형이 가장 우세함)에 대해서 적절하게 검출능력이 있음을 확인할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "검출한계는 각 검체에서 검출 가능한 핵산의 최소량을 의미하며, 정량적으로 측정한 특정 값이 아닐 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "수집혈장에서 HCV RNA, HIV RNA 및 HBV DNA를 검출하기 위하여 사용하는 핵산증폭검사법은 주로 정성적인 검사법으로 양성 혹은 음성의 결과로 나타난다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "검출한계는 시험 건수 중 95% 이상 검출이 가능한 최소 표적 핵산의 농도(핵산의 양/시료의 부피)로 표현된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "검체 내에 존재하는 바이러스 유전체의 분포도나 효소의 효율 등이 검출한계에 영향을 주며 이로 인하여 개개의 검사에서 검출한계 값이 달라질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "검출한계를 결정하기 위해서는 표준물질(국가표준품 또는 국제표준품) 또는 표준물질로 보정한 working reagent를 단계희석하고 이를 서로 다른 날에 검사하여 결과 사이의 편차를 조사하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "최소한 세 단계로 희석하고 각 희석농도마다 충분한 수의 반복 시험을 하여 24개 이상의 시험결과를 얻고 통계분석을 실시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "예를 들어 3개의 단계 희석한 working reagent를 준비하여 각 희석 배수 당 8회 반복 검사를 서로 다른 날에 실시하거나 혹은 4개의 연속 희석에 대하여 6회 반복 검사를 또는 6개의 연속 희석에 대하여 4회 반복 검사를 서로 다른 날에 실시할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "희석구간의 개수가 너무 많지 않게 하기 위해서는 먼저 log10 희석한 혈장과 같이 넓은 구간으로 준비한 검체에 대하여 예비시험을 수행함으로써 대략의 검출한계(예를 들어 검출 가능한 최대 희석배수 등) 값을 찾아야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "그 값을 중심으로, 0.5 log10 혹은 이보다 작은 희석 배수로 단계 희석하여 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "3.2. 검출한계(Detection Limit)",
+      "path": null,
+      "ko_txt": "전체 시험횟수 중 95% 이상에서 해당 바이러스의 검출이 가능한 핵산의 농도를 적절한 통계 분석으로서 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "3.3. 정밀성(Precision)",
+      "path": null,
+      "ko_txt": "정밀성은 동일한 시험 조건 하에서 반복적인 시험의 결과가 얼마나 서로 근접하여 일 관된 결과를 보이는지 평가하는 항목이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "3.3. 정밀성(Precision)",
+      "path": null,
+      "ko_txt": "즉, 동일한 시험기관에서 동일한 시험자가 하루 안에 시험을 반복하거나, 날짜를 달리하여 시험하였을 때에 그 시험결과값 간의 변동을 관찰함으로서 정밀성을 분석할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "3.3. 정밀성(Precision)",
+      "path": null,
+      "ko_txt": "핵산증폭검사법의 결과는 정성적으로 양성 음성의 결과만 제시하는 경우와, 정량적인 측정값인 경우를 나누어서 다음과 같이 정밀성 결정을 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "3.3. 정밀성(Precision)",
+      "path": null,
+      "ko_txt": "정성적인 검사법에서는 검출한계 농도의 3배 농도와 음성 검체를 준비하여 일내 6반복 실험 및 3일간 6반복 실험을 수행하였을 때 검출한계 농도의 3배 농도의 검체는 모두 양성으로, 음성검체는 모두 음성을 나타냄으로서 정밀성을 결정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "3.3. 정밀성(Precision)",
+      "path": null,
+      "ko_txt": "정량적인 검사법에 대하여 정밀성을 조사할 때에는 검출한계 농도의 3배 농도와 음성 검체를 준비하여 일내 6반복 실험 및 3일간 6반복 실험을 수행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "3.3. 정밀성(Precision)",
+      "path": null,
+      "ko_txt": "이 때 음성 검체 는 모두 음성으로 판정되어야 하며, 검출한계 농도의 3배 농도에서 얻은 시험결과들에 서는 상대표준편차(%)를 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "3.3. 정밀성(Precision)",
+      "path": null,
+      "ko_txt": "이와 같은 방법으로 검출한계 시험결과들을 분석하여 정밀성을 결정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "3.4.1. 완건성",
+      "path": null,
+      "ko_txt": "생물학적 시약을 사용하는 경우, 배치 간 상당한 편차가 있을 수 있으며 주변 조 건의 변화에 의해 영향을 받을 수 있기 때문에 분석 방법의 완건성을 평가하여야 한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "3.4.1. 완건성",
+      "path": null,
+      "ko_txt": "완건성은 사용하는 검사법이 어떠한 변수(method parameters)에 의하여 받는 영향 이 미미하다는 것을 나타내는 것으로 통상적으로 검사법의 신뢰도에 대한 지표이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "3.4.1. 완건성",
+      "path": null,
+      "ko_txt": "완건성의 평가는 검사법의 개발 단계에서 반드시 고려하여야 하며, 의도적인 변수의 변화에 대하여 검사과정의 신뢰도를 보여주어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "3.4.1. 완건성",
+      "path": null,
+      "ko_txt": "핵산증폭검사에서는 매개변수의 작은 변화도 결과에 영향을 미칠 수 있으므로 MgCl , 프라이머 혹은 dNTP와 같은 시약 농도의 작은 변화에 의한 영향도 검사법의 개발 과 정에서 고려하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "3.4.1. 완건성",
+      "path": null,
+      "ko_txt": "검사법의 완건성을 입증하기 위하여 다음과 같은 방법을 실 시할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "3.4.1. 완건성",
+      "path": null,
+      "ko_txt": "무작위로 선택한 최소한 20개의 음성 수집혈장에 대하여 예를 들어 검 출한계 값의 3배에 해당하는 바이러스 핵산(양성이 확인될 정도의 수준을 유지하면서 가능하다면 낮은 농도를 권장함)을 첨가한 후 검사를 실시할 때 모두 양성으로 확인된 다면, 검사법의 완건성을 입증할 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "3.4.2. 교차오염",
+      "path": null,
+      "ko_txt": "교차오염 방지에 대한 확인검사는 음성 수집혈장과 고농도(예. 최소한 검출한계의 100배에 해당되는 농도)의 해당 바이러스 핵산을 첨가한 음성 수집혈장 검체 20개가 교차로 구성된 패널에 대하여 검사를 실시할 때 각각에 대하여 예상되는 결과를 확인 함으로 증명할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "3.4.2. 교차오염",
+      "path": null,
+      "ko_txt": "만약 시험 절차 중 검체를 원심분리 하는 절차가 포함되어 있 다면, 상기 음성 수집혈장과 고농도 검체 20개를 교차로 원심분리 랙에 장착하고 검사 를 실시할 때 예상되는 결과가 확인 및 증명되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "4.1. 표준작업지침(SOP)",
+      "path": null,
+      "ko_txt": "시험절차는 표준작업지침의 형태로 자세하게 기술하여야 하며 다음과 같은 사항들을 포함하도록 권장한다(예) ⦁ 검체의 보관조건 ⦁ 검체의 준비 ⦁ 사용하는 장비 및 시험 키트에 대한 설명 ⦁ 결과의 계산과 해석에 대한 자세한 방법 ⦁ 각각의 시험에 대한 유효성 기준 ⦁ 재시험 절차 ⦁ 참고문헌.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "4.2. 대조물질",
+      "path": null,
+      "ko_txt": "검사할 때 사용하는 대조물질(내부대조물질(internal control)과 외부대조물질(external control))은 모든 시험에 항상 포함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "4.2. 대조물질",
+      "path": null,
+      "ko_txt": "외부 대조물질로는 국제표준품 혹은 국제 표준품과 비교한 표준품을 사용하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "4.3. 숙련도",
+      "path": null,
+      "ko_txt": "검사를 수행하는 시험자는 적절한 숙련도 시험을 규칙적으로 실시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "4.3. 숙련도",
+      "path": null,
+      "ko_txt": "예를 들 어, 개별 시험자의 교육 효과를 평가하기 위하여 고농도(반응성이 충분한 양성이 확인 될 수준) 및 저농도(반응성이 약한 수준) 바이러스 핵산이 첨가된 수집혈장 8개의 검체 에 대하여 검사를 실시하도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "4.3. 숙련도",
+      "path": null,
+      "ko_txt": "이 검사를(8회 반복 검체) 서로 다른 날에 3회 반 복 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "4.3. 숙련도",
+      "path": null,
+      "ko_txt": "즉, 서로 다른 3일에 24회의 검사를 실시하여 모든 결과가 양성으로 확인 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "4.4. 장비 적격성 평가",
+      "path": null,
+      "ko_txt": "시험장비의 설치 또는 변경(교체) 시, 설치 적격성(installation qualification)과 운전 적 격성(opeartion qualification) 및 성능 적격성(performance qualification)을 수행하고 이 에 대하여 문서화할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "5. 참고문헌",
+      "path": null,
+      "ko_txt": "1) Council Directive 89/381/EEC : Validation of Nucleic Acid Amplification Technology (NAT) for the Detection of Hepatitis C (HCV) RNA in Plasma Pools. Control Authority Batch Release of Blood Products, EDQM OCABR of Biological Substances, 2001, 6. The Introduction of Nucleic Acid Amplification Technology (NAT) for the Detection of Hepatitis C Virus RNA in Plasma Pools (CPMP/BWP/390/97). The European Agency for the Evaluation of Medicinal Products, 1998, 7. Note for Guidance on Plasma-Derived Medicinal Products (CPMP/BWP/269/95). The European Agency for the Evaluation of Medicinal Products, 2001, 2) 핵산증폭검사법 검증 가이드라인, 식품의약품안전처, 2003 3) 의약품등 분석법의 밸리데이션에 대한 가이드라인, 식품의약품안전처, 2004 4) ICH Q2(R1): Validations of Analytical Procedures: Text and Methodology. Geneva, International Conference on Harmonization of Technical Requirements for Registration of Pharmaceuticals for Human Use, 2005, 5) USA FDA “Guidance for Industry: Nucleic Acid Testing (NAT) for Human Immunodeficiency Virus Type 1 (HIV-1) and Hepatitis C Virus (HCV): Testing, Product Disposition, and Donor Deferral and Reentry”, 2010 6) USA FDA “Guidance for Industry: Use of Nucleic Acid Tests on Pooled and Individual Samples from Donors of Whole Blood and Blood Components, Including Source Plasma, to Reduce the Risk of Transmission of Hepatitis B Virus”, 2012, 7) European Pharmacopoeia 8th Edition, General Chapters 2.6.21. Nucleic Acid Amplification Techniques. European Directorate for the Quality of Medicines & HealthCare(EDQM), 2013;204-7. 제‧개정 이력 혈액제제의 핵산증폭검사법 검증 가이드라인 제․개정번호 승인일자 주요 내용 B1-2003-3-001 2003.01.01 핵산증폭검사법 검증 가이드 제정 현 규정 반영 및 과학적 검증방법 B1-2015-3-015 2015.12.21. 구체적 제시 개정 혈액제제의 핵산증폭검사법 검증 가이드라인 발 행 일 2015년 12월 21일 발 행 인 손여원 편 집 위 원 장 김대철 편 집 위 원 홍성화, 지승완, 배창준, 서지숙, 안치영, 정기경, 강용석, 김영옥, 이유경, 박은순, 김기만, 김은주, 신진영, 손경희, 김종원, 최미라, 김도근, 임재현, 김연희, 남주선, 오상연, 이연희, 권오석, 김현국, 권도연, 현재희, 정기숙, 박애란, 허지연, 김형진, 구민영, 김수연 도움주신 분 ㈜녹십자(한태희, 김대승), 에스케이플라즈마(임진우, 안소현), 대 한적십자사 혈장분획센터(손철우, 지용훈), 한마음혈액원(조용준) 발 행 처 식품의약품안전평가원 바이오생약심사부 생물제제과.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

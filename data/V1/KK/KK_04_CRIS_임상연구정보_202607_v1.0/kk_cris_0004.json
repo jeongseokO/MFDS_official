@@ -1,0 +1,559 @@
+{
+  "document_id": "kk_cris_0004",
+  "meta": {
+    "set": "KK",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000004",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=951",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": "다제내성결핵 접촉자의 접촉 후 2년 간의 결핵 발병률",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": "다제내성결핵 접촉자의 접촉 후 2년 간의 결핵 발병률에 대한 다기관 전향적 코호트 연구",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": "서울아산병원 임상연구심의 위원회",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": "심태선",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": "교수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": "서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": "류지원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": "임상강사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": "서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": "류지원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": "임상강사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": "서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": "가톨릭대학교부천성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": "재단법인아산사회복지재단 서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": "건국대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_4.참여기관_기관명",
+      "path": null,
+      "ko_txt": "강원대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_5.참여기관_기관명",
+      "path": null,
+      "ko_txt": "경상국립대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_6.참여기관_기관명",
+      "path": null,
+      "ko_txt": "강동경희대학교의대병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_7.참여기관_기관명",
+      "path": null,
+      "ko_txt": "계명대학교동산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_8.참여기관_기관명",
+      "path": null,
+      "ko_txt": "대구가톨릭대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_9.참여기관_기관명",
+      "path": null,
+      "ko_txt": "고려대학교의과대학부속안산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_10.참여기관_기관명",
+      "path": null,
+      "ko_txt": "삼성서울병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_11.참여기관_기관명",
+      "path": null,
+      "ko_txt": "서울특별시보라매병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_12.참여기관_기관명",
+      "path": null,
+      "ko_txt": "부산대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_13.참여기관_기관명",
+      "path": null,
+      "ko_txt": "분당서울대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_14.참여기관_기관명",
+      "path": null,
+      "ko_txt": "서울대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_15.참여기관_기관명",
+      "path": null,
+      "ko_txt": "학교법인연세대학교의과대학세브란스병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_16.참여기관_기관명",
+      "path": null,
+      "ko_txt": "이화여자대학교의과대학부속목동병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_17.참여기관_기관명",
+      "path": null,
+      "ko_txt": "전남대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_18.참여기관_기관명",
+      "path": null,
+      "ko_txt": "충북대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_19.참여기관_기관명",
+      "path": null,
+      "ko_txt": "인제대학교부산백병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_20.참여기관_기관명",
+      "path": null,
+      "ko_txt": "한림대학교성심병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_21.참여기관_기관명",
+      "path": null,
+      "ko_txt": "고려대학교의과대학부속구로병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_22.참여기관_기관명",
+      "path": null,
+      "ko_txt": "성균관대학교 삼성창원병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_23.참여기관_기관명",
+      "path": null,
+      "ko_txt": "차의과학대학교분당차병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_24.참여기관_기관명",
+      "path": null,
+      "ko_txt": "인제대학교 상계백병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_25.참여기관_기관명",
+      "path": null,
+      "ko_txt": "중앙대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_26.참여기관_기관명",
+      "path": null,
+      "ko_txt": "강북삼성병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_27.참여기관_기관명",
+      "path": null,
+      "ko_txt": "대한결핵협회 결핵연구원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": "대한 결핵 및 호흡기 학회",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": "재단법인아산사회복지재단 서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "다제내성결핵 접촉자에서도 발병 예방이 매우 중요한데, 아직까지 국내에서 이런 접촉자들에서의 향후 결핵발병률에 대한 연구가 시행된 바 없다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "본 연구의 목적은 다제내성결핵 환자의 밀접접촉자에서 접촉 후 2년 간결핵 발생률을 규명하는 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.관찰군_군명",
+      "path": null,
+      "ko_txt": "다제내성결핵 밀접 접촉자",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.관찰군_상세내용",
+      "path": null,
+      "ko_txt": "다제내성결핵 밀접 접촉자(동거인 혹은 직장동료)",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_연구모집단설명",
+      "path": null,
+      "ko_txt": "객담 배양 양성 다제내성결핵 환자와 거주, 같은 직장",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자추출방법",
+      "path": null,
+      "ko_txt": "비확률 추출법",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": "객담 배양 양성 다제내성 결핵 환자와 최근 6개월 이내에 1개월 이상 환자와 같은 집에서 살았거나, 직장에서 하루 8시간 이상 같은 방에서 근무한 경우",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": "1) 현재 활동성 결핵으로 치료 중인 경우 2) 연구 참여시 검사를 통해 활동성 결핵으로 진단된 경우",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": "결핵 발생률",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": "등록후 24 개월",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "잠복 결핵 유병률",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "등록시점",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "다제내성결핵 발생률",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "등록후 24 개월",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "결핵피부반응양성자에서의 결핵 발생률",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "등록후 24 개월",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "전혈인터페론감마 검사 양성자에서의 결핵 발생률",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "등록후 24 개월",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

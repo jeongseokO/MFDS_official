@@ -1,0 +1,4546 @@
+{
+  "document_id": "kk_mfds_guide_0013",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "(안내서-0894-03) 한약(생약)제제 비교용출시험 사례집(민원인안내서).pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "2. 본 사례집의 품목은 공정서에 수재되거나 비교용출을 통한 동등성 입증 사례가",
+      "path": null,
+      "ko_txt": "많은 성분 중, 대표적 경구용 고형 제제인 정제, 캡슐제를 포함, 지표성분이 1개인 제제부터 여러 지표성분을 갖는 제제 등을 고려하여 선정되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "2. 본 사례집의 품목은 공정서에 수재되거나 비교용출을 통한 동등성 입증 사례가",
+      "path": null,
+      "ko_txt": "3. 사례집의 내용은 그 동안 평가되었던 비교용출시험 사례를 참고로 하여 2016년 부터 2017년까지 식품의약품안전평가원에서 수행한 ‘한약(생약)제제의 의약품 동등성 평가 기법 연구’결과를 토대로 마련되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 본 사례집의 품목은 공정서에 수재되거나 비교용출을 통한 동등성 입증 사례가",
+      "path": null,
+      "ko_txt": "주요 내용은 대조약, 시험약의 함량 등 비교용출검체에 관한 사항, 비교용출 시험조건, 용출시험 분석법 밸리 데이션, 용출시험 결과 순으로 용출시험 결과보고서의 제출 양식에 맞게 구성 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "4. 한약(생약)제제는 화학의약품과 같이 특정 주성분에 대한 비교평가 만으로",
+      "path": null,
+      "ko_txt": "제제 전체의 동등성을 완벽하게 대변하지는 못하지만, 한약(생약)제제의 유효성분 또는 분석적 민감도와 정확도가 확보된 성분 등 품질관리 시 평가되는 모든 지표성분에 대한 비교용출시험을 함으로써 최대한의 동등성을 보증하고자 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "4. 한약(생약)제제는 화학의약품과 같이 특정 주성분에 대한 비교평가 만으로",
+      "path": null,
+      "ko_txt": "비교용출이 불가한 지표성분에 대해서는 예비시험결과 등.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "4. 한약(생약)제제는 화학의약품과 같이 특정 주성분에 대한 비교평가 만으로",
+      "path": null,
+      "ko_txt": "과학적인 근거에 의한 불가능한 사유를 제출받은 후 비교붕해시험을 실시하도록 하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "5. 본 사례집에 제시된 시험법을 활용하고자 할 때는 실험실의 기기 및 환경에",
+      "path": null,
+      "ko_txt": "따른 세부조건 및 전처리 과정을 최적화하여 시험방법 밸리데이션 등을 통한 시험조건 적정성에 대한 사전 검증이 필요하며 아울러 기술적으로 참고할 만한 시험조건 및 용출결과 등에 대한 요약된 정보만을 제시하고 있으므로, 실제 품목허가·신고를 위한 비교용출시험자료 제출 시에는 「의약품등등성시험기준」 (식약처 고시) 제20조의 용출시험 결과보고서 등의 자료를 모두 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "5. 본 사례집에 제시된 시험법을 활용하고자 할 때는 실험실의 기기 및 환경에",
+      "path": null,
+      "ko_txt": "Ⅱ 한약(생약)제제 비교용출시험 사례.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "Ⅱ 한약(생약)제제 비교용출시험 사례.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "1.1 개 요",
+      "path": null,
+      "ko_txt": "규 격 대한민국약전외한약(생약)규격집 ‘아이비엽30%에탄올건조엑스 정’ 아이비엽30%에탄올건조엑스(5∼7.5→1) 25mg 주성분 표시량 (헤데라코시드C로서 2.5 mg 이상) 대조약: 12.0%, 시험약: 11.8% 실측함량 (아이비엽30%에탄올건조엑스(5∼7.5→1) 중 (기준) 헤데라코시드C 10.0% 이상).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "1.2.1 함량시험방법",
+      "path": null,
+      "ko_txt": "대한민국약전외한약(생약)규격집 ‘아이비엽30%에탄올건조엑스 정’ 함량시험법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "함량시험은 대한민국약전외한약(생약)규격집에 따라 시험하였으며, 대조약 11.8%, 시험약 12.0%로 함량시험 기준에 적합하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "¡ 표준액 표준품 명칭 헤데라코시드 C 표준품 표준품 취한 양(mg) 및 순도(%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "20 mg (99.8%) 0.5883 0.5802 Peak area ratio.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "(Hederacoside C / IS) 0.5807 0.5893 Peak area ratio 평균 0.5846 시스템적합성시험: 상대표준편차(≤1.0%) 적합: 0.828% 4  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "¡ 검액 (시험약 및 대조약).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"비교용출시험\", \"열\": [\"항 목\", \"시험조건\"], \"행\": [[\"검체 취한 양(mg)\", \"103.88\"], [\"Peak area ratio\", \"0.701\"], [\"함량(%)\", \"12.0\"], [\"단위제형의 평균질량(mg)\", \"129.85\"], [\"평균함량(mg)\", \"2.999\"], [\"검체 취한 양(mg)\", \"99.96\"], [\"Peak area ratio\", \"0.688\"], [\"함량(%)\", \"11.8\"], [\"단위제형의 평균질량(mg)\", \"124.95\"], [\"평균함량(mg)\", \"2.943\"], [\"시험조건\", \"장 치\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "대한민국약전 제12개정 용출시험법 제2법(패들법) 종 류 비교용출시험 3조건 (pH 1.2, pH 4.0, pH 6.8).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "시험액 조제방법 의동규정 시험액 조제방법 교반속도 50 rpm 교반온도 37 ± 0.5 ℃ 시험액의 양 900 mL 검 체.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "시험약과 대조약 각 1개씩, 싱커미사용.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "2.1.2 용출시험 조건설정의 근거",
+      "path": null,
+      "ko_txt": "의동규정 [별표 5의2] 비교용출시험방법 ‘1. 경구용 제제(서방성제제를 제외한다) 및 장용성 제제’에 대한 용출시험 조건 중 1)수용성제제에 따라 실시하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "¡ 근거 : 밸리데이션 된 비교용출시험방법 (1) 검액의 조제 : 각 시험액 900 mL에 1정씩 넣어 용출시험을 실시하고 매 규정된 시간에 용출액 4 mL를 취하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "용출액을 0.45 μm 필터로 여과하여 이를 검액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  5 Ⅱ 한약(생약)제제 비교용출시험 사례 (2) 검량선의 작성 및 표준액의 조제 (가) 표준원액 : 헤데라코시드 C 표준품(≥90.0%) 약 20 mg을 정밀히 취하여 30%아세토니트릴을 넣어 정확하게 100 mL로 하였다 (약 1 mg/mL). (나) 검량선 작성 <pH 1.2> 표준원액 0.5, 1, 1.25, 2, 2.5 mL를 각각 취하여 pH 1.2 시험액을 가하여 정확하게 100 mL로 한 액을 표준액 I, II, I, IV, V로 하였다 (각각 약 1, 2, 2.5, 4, 5 μg/mL 해당액). <pH 4.0> 표준원액 0.5, 1, 1.25, 2, 2.5 mL를 각각 취하여 pH 4.0 시험액을 가하여 정확하게 100 mL로 한 액을 표준액 I, II, I, IV, V로 하였다 (각각 약 1, 2, 2.5, 4, 5 μg/mL 해당액). <pH 6.8> 표준원액 0.5, 1, 1.25, 2, 2.5 mL를 각각 취하여 pH 6.8 시험액을 가하여 정확하게 100 mL로 한 액을 표준액 I, II, I, IV, V로 하였다 (각각 약 1, 2, 2.5, 4, 5 μg/mL 해당액). (3) 조작 및 분석조건 : 검액 및 표준액 20 μL를 가지고 밸리데이션한 자사 용출시험의 분석조건에 따라 시험하여 표준액과 검액의 피크면적을 측정한 다음 계산식에 따라 규정된 시간에서의 용출률을 계산하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "<HPLC 조건> ‑ 검출기 : 자외부흡광광도계 (측정파장 205 nm) ‑ 칼럼 : 안지름 약 4 mm, 길이 12.5 cm인 스테인레스관에 5 ∼ 10 μm 옥타데실실릴화한실리카겔을 충전한 액체크로마토그래프용 칼럼 ‑ 이동상 : 30% 아세토니트릴 ‑ 유량 : 1.0 mL/분 ‑ 주입량 : 20 μL ‑ 칼럼온도 : 40 ℃ (4) 용출률 계산식 Ÿ 최종 용출률(%) = 보정전 용출률 + 각 시점에서의 보정용출률 검액의면적값  절편기울기 ×시험액의부피× Ÿ 용출률(%)   정당유효성분의함량×희석배수 보정전용출률×샘플채취량 Ÿ 보정용출률(%)   각시점의시험액의부피 6  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "2.2.1 밸리데이션 방법[대한민국약전 일반정보, 의약품등 시험방법 밸리데이션 가이드라인 참고] (1) 검량선의 직선성 및 범위 <표준원액 및 검량선 표준액 조제> 각 시험액에 대한 표준원액 및 직선성 표준액의 조제는 2.1.3.항의 (2) 표준액의 조제와 같은 방법으로 조제하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "<검량선의 분석> 전 과정을 3회 수행하여 각각 직선식을 구하고, 각 직선식의 상관계수로부터 직선성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(2) 특이성 (가) 공시험액: 각 시험액을 공시험액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(나) 플라시보액: 시험약의 주성분을 제외한 첨가제의 1정 해당량을 취하여 각 시험액 900 mL에 넣어 교반한 후 원심분리하고, 상등액을 취하여 플라시보액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(다) 표준액 (헤데라코시드C 약 2.5 μg/mL): 2.1.3.항 (2)의 표준원액 2.5 mL를 취하여 각 시험액을 가하여 정확하게 100 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(라) 표준액 + 플라시보액 (헤데라코시드C 약 2.5 μg/mL): 2.1.3.항의 (2)의 표준원액 2.5 mL를 취하여 플라시보액을 가하여 정확하게 100 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "<특이성의 분석> 각 시험액(공시험액, 플라시보액, 표준액, 표준액+플라시보액)을 주입한 후.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "크로마토그램의 피크모양 및 피크면적으로 첨가제에 의한 주성분 피크의 간섭여부를 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(3) 정확성 (가) 헤데라코시드 1.0 μg/mL 검액 : 2.1.3.항 (2)의 표준원액 0.5 mL를 취하여.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 100 mL로 한다.",
+      "path": null,
+      "ko_txt": "(나) 헤데라코시드 2.5 μg/mL 검액 : 2.1.3.항의 (2)의 표준원액 1.25 mL를 취하여.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 100 mL로 한다.",
+      "path": null,
+      "ko_txt": "(다) 헤데라코시드 5.0 μg/mL 검액 : 2.1.3.항의 (2)의 표준원액 2.5 mL를 취하여.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 100 mL로 한다.",
+      "path": null,
+      "ko_txt": "<정확성의 분석> 각 정확성 시험용 검액을 각 농도별로 3개 검액에 대하여 주입한 후 평균회수율로부터 정확성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 100 mL로 한다.",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  7 Ⅱ 한약(생약)제제 비교용출시험 사례 (4) 정밀성 정밀성 시험용 검액 조제 : 위 (3) 정확성 ‘(나) 헤데라코시드 5.0 μg/mL 검액’을 6회 반복 조제한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 100 mL로 한다.",
+      "path": null,
+      "ko_txt": "<정밀성의 분석> 검액 6개에 대하여 각각 주입하여 얻어진 면적을 가지고 평균 및 상대표준편차로부터 정밀성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 100 mL로 한다.",
+      "path": null,
+      "ko_txt": "(5) 정량한계 각 시험액별로 얻어진 크로마토그램에 대한 직선성 검량선의 표준편차와 검량선 기울기에 근거하여 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 100 mL로 한다.",
+      "path": null,
+      "ko_txt": "(계산된 정량한계 농도의 검액을 조제하여 S/N 10이상 여부 확인을 통한 정량한계 검증 필요).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "아이비엽30%에탄올건조엑스 정에 대한 의약품동등성기준 시험액 3조건에서의 분석법 밸리데이션은 의약품등 시험방법 밸리데이션 가이드라인의 주요 평가항목에 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "<pH 1.2> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 정확성 평균 회수율 98.0 ∼ 102.0% 100.1% 정밀성 RSD ≤ 2.0% 1.5% 범 위 직선성 평가 시 결정 1.0 ∼ 5.0 μg/mL 정량한계 - 0.685 μg/mL <pH 4.0> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 정확성 평균 회수율 98.0 ∼ 102.0% 99.9% 정밀성 RSD ≤ 2.0% 1.3% 범 위 직선성 평가 시 결정 1.0 ∼ 5.0 μg/mL 정량한계 - 0.797 μg/mL 8  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"항 목\", \"자사기준\", \"결 과\"], \"행\": [[\"pH 6.8\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "첨가제가 제제의 정량시험 결과에.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"특이성\", \"영향을 주지 않음\", \"직선성\", \"R2\", \"정확성\"], \"행\": [[\"영향을 주지 않음\", \"0.999\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "평균 회수율 98.0 ∼ 102.0%.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "1. 아이비엽30%에탄올건조엑스 정",
+      "path": null,
+      "ko_txt": "99.5% 정밀성 RSD ≤ 2.0% 0.5% 범 위 직선성 평가 시 결정 1.0 ∼ 5.0 μg/mL 정량한계 - 0.661 μg/mL.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(1) pH 1.2 (대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우-15 내지 30분 이내) (가) 시험시간 대조약의 평균용출률이 15 내지 30분 이내에 85%에 도달했으며 60분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 15 내지 30분 이내에 85%에 도달하였으므로, 대조약의 평균용출률이 60%, 85%부근인 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달한 경우에는 시험약의 평균용출률이 대조약 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약이 60%와 85% 부근인 10분 및 30분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(2) pH 4.0 (대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우-15 내지 30분 이내) (가) 시험시간 대조약의 평균용출률이 15 내지 30분 이내에 85%에 도달했으며 60분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 15 내지 30분 이내에 85%에 도달하였으므로, 대조약의 평균용출률이 60%, 85%부근인 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  9 Ⅱ 한약(생약)제제 비교용출시험 사례 (다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달한 경우에는 시험약의 평균용출률이 대조약 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약이 60%와 85% 부근인 10분 및 30분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(3) pH 6.8 (대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우-30분 이후) (가) 시험시간 대조약의 평균용출률이 30분 이후에 85%에 도달했으며 60분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 30분 이후에 85%에 도달하였으므로, 대조약의 평균용출률이 40%, 85%부근인 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달한 경우에는 시험약의 평균용출률이 대조약 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약이 40%와 85% 부근인 10분 및 30분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "아이비엽30%에탄올건조엑스 정은 수용성제제로 식약처고시 의약품동등성시험기준 [별표.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "5의2] ‘1. 경구용제제(서방성제제를 제외한다) 및 장용성제제’ 시험조건에서 비교용출시험을 실시한 결과 모든 조건에서 대조약의 평균용출률이 규정시간 내에.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "85%이상이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "용출시험 결과는 동 고시 [별표 6의2] 용출양상의 동등성 판정기준 제1호에 따라 평가하였을 때 각 시험액 별 판정시점에서 대조약과 시험약은 동등하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "10  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스",
+      "path": null,
+      "ko_txt": "연질캡슐 Ⅱ 한약(생약)제제 비교용출시험 사례.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "1.1 개 요",
+      "path": null,
+      "ko_txt": "규 격 자사규격 ‘밀크시슬열매건조엑스 연질캡슐’ 밀크시슬열매건조엑스 350 mg 주성분 표시량 (실리마린으로서 196 mg) 대조약: 91.9%, 시험약 94.2% (표시량의 90~110% 에 해당하는 실리마린 함유).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "1.1 개 요",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"기준\", \"대조약\", \"시험약\", \"실리디아닌\", \"실측함량\", \"실리크리스틴\", \"실리빈 A\", \"실리빈 B\", \"이소실리빈 A\", \"이소실리빈 B\"], \"행\": [[\"20.0 ~\", \"45.0%\", \"26.8%\", \"25.5%\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"40.0 ~\", \"65.0%\", \"59.9%\", \"62.3%\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"10.0 ~\", \"20.0%\", \"13.3%\", \"12.2%\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"1.2 함량시험\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"1.2.1 함량시험방법\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "1.1 개 요",
+      "path": null,
+      "ko_txt": "대한민국약전외한약(생약)규격집 의약품각조 ‘밀크시슬열매건조엑스 정’ 함량시험법을 준용한 자사시험법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "함량시험은 자사시험법에 따라 시험하였으며, 모든 지표성분이 함량 기준에 적합하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "밀크시슬열매건조엑스정 중 표시량의 90~110% 에 해당하는.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"품목\", \"함량시험결과\", \"판정\"], \"행\": [[\"대조약\", \"91.9%\", \"적합\"], [\"시험약\", \"94.2%\", \"적합\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "12  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "실리마린의 함량 중 - 실리디아닌 + 실리크리스틴 : 20.0 ~ 45.0% 함량기준 2 - 실리빈 A + 실리빈 B : 40.0 ~ 65.0% - 이소실리빈 A + 이소실리빈 B : 10.0 ~ 20.0% 품목 함량시험결과 판정 - 실리디아닌+ 실리크리스틴 = 26.8% 대조약 - 실리빈A + 실리빈B = 59.9% 적합 - 이소실리빈A + 이소실리빈B = 13.3% - 실리디아닌+ 실리크리스틴 = 25.5% 시험약 - 실리빈A + 실리빈B = 62.3% 적합 - 이소실리빈A + 이소실리빈B = 12.2%.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "대한민국약전 제12개정 용출시험법 제2법(패들법) 비교용출시험 3조건(pH 1.2, pH 4.0, pH 6.8) 및 종 류 가용화제 첨가(2% sodium lauryl sulfate, SLS).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "시험액 조제방법 의동규정 시험액 조제방법 교반속도 50 rpm 교반온도 37 ± 0.5 ℃ 시험액의 양 900 mL 검 체.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "시험약과 대조약 각 1개씩, 싱커 미사용.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "2.1.2 용출시험 조건설정의 근거",
+      "path": null,
+      "ko_txt": "의동규정 [별표 5의2] 비교용출시험방법 ‘1. 경구용 제제(서방성제제를 제외한다) 및.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "2.1.2 용출시험 조건설정의 근거",
+      "path": null,
+      "ko_txt": "예비시험결과 기본 3액(pH 1.2, pH 4.0, pH 6.8)에서의 대조약 및 시험약 모두 평균용출률이 현저하게 낮아 판정 기준값 보다 낮은 용출률을 보였다(판정기준: 시험약 및 대조약의 평균용출률이 모두 ±8% 이내인 경우 동등한 것으로 본다, 시험결과: 대조약과 시험약 모두 평균용출률이 8% 미만). 한약(생약)제제 비교용출시험 사례집  13 Ⅱ 한약(생약)제제 비교용출시험 사례 예비시험을 통해 비교용출을 통한 동등성 여부 판정이 가능한 평균용출률을 나타내는 가용화제의 종류와 농도를 선정하고, 가용화제를 첨가한 시험액을 가지고 본 시험을 실시하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "¡ 근거 : 밸리데이션 된 비교용출시험방법 (1) 검액의 조제 : 각 시험액 900 mL에 1캡슐씩 넣어 용출시험을 실시하고 매 규정된 시간에 용출액 4 mL를 취하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "용출액을 0.45 μm 필터로 여과하여 이를 검액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "(2) 검량선의 작성 및 표준액의 조제 (가) 표준원액 : 실리빈A+B 표준품 약 130 mg를 정밀히 취하여 메탄올을 넣어 정 확하게 100 mL로 하였다 (실리빈으로서 약 1.3 mg/mL). (나) 검량선 작성 <pH 1.2> 표준원액 0.25, 2, 3, 4, 5 mL를 각각 취하여 pH 1.2 시험액(2% SLS)을 가하여 정확하게 50 mL로 한 액을 표준액 I, II, I, IV, V로 하였다 (각각 실리빈으로서 약 6.5, 52, 78, 104, 130 μg/mL 해당액). <pH 4.0> 표준원액 0.25, 2, 3, 4, 5 mL를 각각 취하여 pH 4.0 시험액(2% SLS)을 가하여 정확하게 50 mL로 한 액을 표준액 I, II, I, IV, V로 하였다 (각각 실리빈으로서 약 6.5, 52, 78, 104, 130 μg/mL 해당액). <pH 6.8> 0.25, 2, 3, 4, 5 mL를 각각 취하여 pH 6.8 시험액(2% SLS)을 가하여 정확하게 50 mL로 한 액을 표준액 I, II, I, IV, V로 하였다 (각각 실리빈으로서 약 6.5, 52, 78, 104, 130 μg/mL 해당액). (3) 조작 및 분석조건 : 검액 및 표준액를 가지고 밸리데이션한 자사 용출시험의 분석조건에 따라 시험하여 표준액과 검액의 피크면적을 측정한 다음 계산식에 따라 규정된 시간에서의 용출률을 계산하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "<HPLC 조건> ‑ 검출기 : 자외부흡광광도계 (측정파장 288 nm) ‑ 칼럼 : 안지름 약 4∼6 mm, 길이 12∼25 cm의 스테인레스 관에 5∼10 μm 옥타데실실릴화한실리카겔을 충전한 액체크로마토그래프용 칼럼 ‑ 이동상 : 이동상 A 및 이동상 B를 가지고 다음과 같이 농도기울기적으로 제어한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "§ 이동상 A : 물:메탄올:85%인산용액 (130:70:1) § 이동상 B : 물:메탄올:85%인산용액 (100:100:1) 14  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "시간(분) 이동상 A(%) 이동상 B(%) 0 100 0 28 0 100 35 0 100 36 100 0 ‑ 유량 : 0.8 mL/분 ‑ 주입량 : 10 μL (4) 용출률 계산식 Ÿ 최종 용출률(%) = 보정전 용출률 + 각 시점에서의 보정용출률 검액의면적값  절편기울기 ×시험액의부피× Ÿ 용출률(%)   정당유효성분의함량×희석배수 보정전용출률×샘플채취량 Ÿ 보정용출률(%)   각시점의시험액의부피.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "2.2.1 밸리데이션 방법[대한민국약전 일반정보, 의약품등 시험방법 밸리데이션 가이드라인 참고] (1) 검량선의 직선성 및 범위 <표준원액 및 검량선 표준액 조제> 각 시험액에 대한 표준원액 및 직선성 표준액의 조제는 2.1.3.항의 (2) 표준액의 조제와 같은 방법으로 조제하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "<검량선의 분석> 전 과정을 3회 수행하여 각각 직선식을 구하고, 각 직선식의 상관계수로부터 직선성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(2) 특이성 (가) 공시험액: 각 시험액을 공시험액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(나) 플라시보액: 시험약의 주성분을 제외한 첨가제의 1정 해당량을 취하여 각 시험액 900 mL에 넣어 교반한 후 원심분리하고, 상등액을 취하여 플라시보액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(다) 표준액 (실리빈으로서 약 104 μg/mL): 2.1.3.항 (2)의 표준원액 4.0 mL를 취하여 각 시험액을 가하여 정확하게 50 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(라) 표준액 + 플라시보액 (실리빈으로서 약 104 μg/mL): 2.1.3.항의 (2)의 표준원액 4.0 mL를 취하여 플라시보액을 가하여 정확하게 50 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "<특이성의 분석> 각 시험액(공시험액, 플라시보액, 표준액, 표준액+플라시보액)을 주입한 후 한약(생약)제제 비교용출시험 사례집  15 Ⅱ 한약(생약)제제 비교용출시험 사례.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "크로마토그램의 피크모양 및 피크면적으로 첨가제에 의한 주성분 피크의 간섭여부를 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(3) 정확성.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(가) 실리빈으로서 78 μg/mL 검액 : 2.1.3.항 (2)의 표준원액 3.0 mL를 취하여.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다.",
+      "path": null,
+      "ko_txt": "(나) 실리빈으로서 104 μg/mL 검액 : 2.1.3.항의 (2)의 표준원액 4.0 mL를 취하여 2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다.",
+      "path": null,
+      "ko_txt": "(다) 실리빈으로서 130 μg/mL 검액 : 2.1.3.항의 (2)의 표준원액 5.0 mL를 취하여 2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다.",
+      "path": null,
+      "ko_txt": "정확성의 분석 각 정확성 시험용 검액을 각 농도별로 3개 검액에 대하여 주입한 후.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다.",
+      "path": null,
+      "ko_txt": "평균회수율로부터 정확성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다.",
+      "path": null,
+      "ko_txt": "(4) 정밀성 정밀성 시험용 검액 조제 : 위 (3) 정확성 ‘(나) 실리빈으로서 104 μg/mL 검액’을 6회 반복 조제한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다.",
+      "path": null,
+      "ko_txt": "<정밀성의 분석> 검액 6개에 대하여 각각 주입하여 얻어진 면적을 가지고 평균 및 상대표준편차로부터 정밀성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다.",
+      "path": null,
+      "ko_txt": "(5) 정량한계 각 시험액별로 얻어진 크로마토그램에 대한 직선성 검량선의 표준편차와 검량선 기울기에 근거하여 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 50 mL로 한다.",
+      "path": null,
+      "ko_txt": "(계산된 정량한계 농도의 검액을 조제하여 S/N 10이상 여부 확인을 통한 정량한계 검증 필요).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "밀크시슬열매건조엑스 연질캡슐에 대한 의약품동등성기준 시험액 3조건에서의 분석법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "밸리데이션은 의약품등 시험방법 밸리데이션 가이드라인의 주요 평가항목에 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "16  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "<pH 1.2 + 2% SLS> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 정확성 평균 회수율 98.0 ∼ 102.0% 99.9% 정밀성 RSD ≤ 2.0% 1.0% 범 위 직선성 평가 시 결정 6.5 ∼ 130 μg/mL 정량한계 - 0.7 μg/mL <pH 4.0 + 2% SLS> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 정확성 평균 회수율 98.0 ∼ 102.0% 98.9% 정밀성 RSD ≤ 2.0% 1.2% 범 위 직선성 평가 시 결정 6.5 ∼ 130 μg/mL 정량한계 - 1.7 μg/mL <pH 6.8 + 2% SLS> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 정확성 평균 회수율 98.0 ∼ 102.0% 99.3% 정밀성 RSD ≤ 2.0% 0.7% 범 위 직선성 평가 시 결정 6.5 ∼ 130 μg/mL 정량한계 - 2.0 μg/mL 한약(생약)제제 비교용출시험 사례집  17 Ⅱ 한약(생약)제제 비교용출시험 사례.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(1) pH 1.2 + 2% SLS(대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하지 않는 경우, 용출률 50%미만).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약의 평균용출률이 규정된 시간 이내에 85%에 도달하지 않았으므로, 대조약의 평균용출률의 약 1/2, 규정시간 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달하지 않고 평균용출률이 50%미만인 경우에는 시험약의 평균용출률이 대조약의 평균용출률의 ±8%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약이 대조약의 평균용출률의 약 1/2인 45분 및 규정시간인 120분에 시험약과 대조약의 평균용출률 차이는 ±8%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(2) pH 4.0 + 2% SLS(대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하지 않는 경우, 용출률 50%이상).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약의 평균용출률이 규정된 시간 이내에 85%에 도달하지 않았으므로, 대조약의 평균용출률의 약 1/2, 규정시간 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달하지 않고 평균용출률이 50%이상인 경우에는 시험약의 평균용출률이 대조약의 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약이 대조약의 평균용출률의 약 1/2인 60분 및 규정시간인 360분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(3) pH 6.8 + 2% SLS(대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하지 않는 경우, 용출률 50%이상) 18  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "대조약의 평균용출률이 규정된 시간 이내에 85%에 도달하지 않았으므로, 대조약의 평균용출률의 약 1/2, 규정시간 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달하지 않고 평균용출률이 50%이상인 경우에는 시험약의 평균용출률이 대조약의 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "2. 밀크시슬열매건조엑스 연질캡슐",
+      "path": null,
+      "ko_txt": "대조약이 대조약의 평균용출률의 약 1/2인 60분 및 규정시간인 360분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "밀크시슬열매건조엑스 연질캡슐은 난용성제제로 식약처고시 의약품동등성시험기준 [별표 5의2] ‘1. 경구용제제(서방성제제를 제외한다) 및 장용성제제’ 시험조건에서.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "동등평가가 불가함에 따라 본시험을 수행하지 않았고, 가용화제를 첨가한 모든 조건에서도 대조약의 평균용출률이 규정시간 내에 85%미만이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "용출시험 결과는 동 고시 [별표 6의2] 용출양상의 동등성 판정기준 제1호에 따라 평가하였을 때 각 시험액 별 판정시점에서 대조약과 시험약은 동등하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  19.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "1.1 개 요",
+      "path": null,
+      "ko_txt": "규 격 대한민국약전외한약(생약)규격집 ‘포도엽건조엑스 캡슐’ 포도엽건조엑스 180 mg 주성분 표시량 (총 폴리페놀[피로갈롤로서] 13.0 mg 및 레스베라트롤로서 9.0 μg) 대조약: 7.9%, 시험약: 7.2% 실측함량 (기준) (총 폴리페놀 [피로갈롤로서] 7.2% 이상).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "1.2.1 함량시험방법",
+      "path": null,
+      "ko_txt": "대한민국약전외한약(생약)규격집 의약품각조 ‘포도엽건조엑스 캡슐’.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "함량시험은 대한민국약전외한약(생약)규격집에 따라 자외가시부흡광도측정법으로 하였으며, 대조약 7.9%, 시험약 7.2%로 각각 함량시험 기준에 적합하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "¡ 표준액 표준품 명칭 피로갈롤 표준품 표준품 취한 양(mg) 및 순도(%) 50 mg (≥98%) Absorbance 0.3514 ¡ 검액 (대조약 및 시험약) :.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"대조약 및 시험약의 비교\", \"열\": [\"약물명\", \"로트번호\", \"검체 채취량 (mg)\", \"흡광도\", \"함량(%)\", \"함량(mg)\"], \"행\": [[\"A캡슐\", \"ATC01605\", \"203.4\", \"0.1788\", \"7.9\", \"14.18\"], [\"B캡슐\", \"16011\", \"209.6\", \"0.1628\", \"7.2\", \"12.96\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  21 Ⅱ 한약(생약)제제 비교용출시험 사례.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "대한민국약전 제12개정 용출시험법 제2법(패들법) 종 류 비교용출시험 3조건 (pH 1.2, pH 4.0, pH 6.8).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "시험액 조제방법 의동규정 시험액 조제방법 교반속도 50 rpm 교반온도 37 ± 0.5 ℃ 시험액의 양 900 mL 검 체.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "비교용출검체 1개씩, 싱커사용.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "2.1.2 용출시험 조건설정의 근거",
+      "path": null,
+      "ko_txt": "의동규정 [별표 5의2] 비교용출시험방법 ‘1. 경구용 제제(서방성제제를 제외한다) 및 장용성 제제’에 대한 용출시험 조건 중 1)수용성제제에 따라 실시하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "¡ 근거 : 밸리데이션 된 비교용출시험방법 (1) 검액의 조제 : 각 시험액 900 mL에 1정씩 넣어 용출시험을 실시하고 매 규정된 시간에 용출액 4 mL를 취하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "용출액을 0.45 μm 필터로 여과하여 이를 검액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "(2) 검량선의 작성 및 표준액의 조제 (가) 표준원액 : 피로갈롤 표준품 약 100 mg를 정밀히 취하여 각 시험액을 넣어 정 확하게 100 mL로 하였다 (약 1 mg/mL). (나) 검량선 작성 <pH 1.2> 표준원액 0.01, 0.05, 0.1, 0.25, 0.5 mL를 각각 취하여 pH 1.2 시험액을 가하여 정확하게 10 mL로 한 액을 표준액 I, II, I, IV, V로 하였다 (각각 약 1, 5, 10, 25, 50 μg/mL 해당액). 22  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "3. 포도엽건조엑스 캡슐",
+      "path": null,
+      "ko_txt": "<pH 4.0> 표준원액 0.01, 0.05, 0.1, 0.25, 0.5 mL를 각각 취하여 pH 4.0 시험액을 가하여 정확하게 10 mL로 한 액을 표준액 I, II, I, IV, V로 하였다 (각각 약 1, 5, 10, 25, 50 μg/mL 해당액). <pH 6.8> 표준원액 0.01, 0.05, 0.1, 0.25, 0.5 mL를 각각 취하여 pH 6.8 시험액을 가하여 정확하게 10 mL로 한 액을 표준액 I, II, I, IV, V으로 하였다 (각각 약 1, 5, 10, 25, 50 μg/mL 해당액). (3) 조작 및 분석조건 : 검액 및 표준액를 가지고 함량시험법의 분석조건(이 액 5 mL에 폴린페놀시액¶ 1 mL를 넣고, 15 % 탄산나트륨용액 50 mL를 넣고 혼합)에 따라 시험하여 표준액과 검액의 흡광도를 측정한 다음 계산식에 따라 규정된 시간에서의 용출률을 계산하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "3. 포도엽건조엑스 캡슐",
+      "path": null,
+      "ko_txt": "¶ Folin-Ciocalteu's Phenol reagent, 2 mol/L (Merck) <UV 조건> ‑ 검출기 : 자외부 흡광광도계 (측정파장 715 nm) (4) 용출률 계산식 Ÿ 최종 용출률(%) = 보정전 용출률 + 각 시점에서의 보정용출률 검액의면적값  절편기울기 ×시험액의부피× Ÿ 용출률(%)   정당유효성분의함량×희석배수 보정전용출률×샘플채취량 Ÿ 보정용출률(%)   각시점의시험액의부피.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "2.2.1 밸리데이션 방법[대한민국약전 일반정보, 의약품등 시험방법 밸리데이션 가이드라인 참고] (1) 검량선의 직선성 및 범위 <표준원액 및 검량선 표준액 조제> 각 시험액에 대한 표준원액 및 직선성 표준액의 조제는 2.1.3.항의 (2) 표준액의 조제와 같은 방법으로 조제하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "<검량선의 분석> 전 과정을 3회 수행하여 각각 직선식을 구하고, 각 직선식의 상관계수로부터 직선성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(2) 특이성 (가) 공시험액: 각 시험액을 공시험액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(나) 플라시보액: 시험약의 주성분을 제외한 첨가제의 1정 해당량을 취하여 각 시험액 900 mL에 넣어 교반한 후 원심분리하고, 상등액을 취하여 플라시보액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  23 Ⅱ 한약(생약)제제 비교용출시험 사례 (다) 표준액 (피로갈롤로서 약 25 μg/mL): 2.1.3.항 (2)의 표준원액 0.25 mL를 취하여 각 시험액을 가하여 정확하게 10 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(라) 표준액 + 플라시보액 (피로갈롤로서 약 25 μg/mL): 2.1.3.항의 (2)의 표준원액 0.25 mL를 취하여 플라시보액을 가하여 정확하게 10 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "<특이성의 분석> 각 시험액(공시험액, 플라시보액, 표준액, 표준액+플라시보액)을 mL에.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "폴린페놀시액¶ 1 mL를 넣고, 1% 탄산나트륨용액 50 mL를 넣고 혼합한 후 흡광도를 측정하여 특이성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "¶ Folin-Ciocalteu's Phenol reagent, 2 mol/L (Merck) (3) 정확성 (가) 피로갈롤로서 5 μg/mL 검액 : 2.1.3.항 (2)의 표준원액 0.05 mL를 취하여.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 10 mL로 한다.",
+      "path": null,
+      "ko_txt": "(나) 피로갈롤로서 10 μg/mL 검액 : 2.1.3.항의 (2)의 표준원액 0.1 mL를 취하여.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 10 mL로 한다.",
+      "path": null,
+      "ko_txt": "(다) 피로갈롤로서 25 μg/mL 검액 : 2.1.3.항의 (2)의 표준원액 0.25 mL를 취하여 2.2.1.항 (2) 플라시보액을 가하여 정확하게 10 mL로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 10 mL로 한다.",
+      "path": null,
+      "ko_txt": "<정확성의 분석> 각 정확성 시험용 검액을 각 농도별로 3개 검액에 대하여 5 mL에 폴린페놀시액¶ 1 mL를 넣고, 1% 탄산나트륨용액 50 mL를 넣고 혼합한 후 흡광도를 측정하여 정확성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 10 mL로 한다.",
+      "path": null,
+      "ko_txt": "(4) 정밀성 정밀성 시험용 검액 조제 : 위 (3) 정확성 (나) 피로갈롤로서 10 μg/mL 검액을 6회 반복 조제한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 10 mL로 한다.",
+      "path": null,
+      "ko_txt": "<정밀성의 분석> 검액 6개에 대하여 각각 얻어진 흡광도을 가지고 평균 및 상대표준편차로부터 정밀성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 10 mL로 한다.",
+      "path": null,
+      "ko_txt": "(5) 정량한계 각 시험액별로 얻어진 흡광도에 대한 직선성 검량선의 표준편차와 검량선 기울기에 근거하여 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "2.2.1.항 (2) 플라시보액을 가하여 정확하게 10 mL로 한다.",
+      "path": null,
+      "ko_txt": "(계산된 정량한계 농도의 검액을 조제하여 S/N 10이상 여부 확인을 통한 정량한계 검증 필요).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "포도엽건조엑스 캡슐에 대한 의약품동등성기준 시험액 3조건에서의 분석법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "밸리데이션은 의약품등 시험방법 밸리데이션 가이드라인 주요 평가항목에 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "24  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "3. 포도엽건조엑스 캡슐",
+      "path": null,
+      "ko_txt": "<pH 1.2> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 100.8% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.1% 범 위 직선성 평가 시 결정 1 ∼ 50 μg/mL 정량한계 - 0.05 μg/mL <pH 4.0> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 101.6% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.2% 범 위 직선성 평가 시 결정 1 ∼ 50 μg/mL 정량한계 - 0.02 μg/mL <pH 6.8> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 99.2% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 0.9% 범 위 직선성 평가 시 결정 1 ∼ 50 μg/mL 정량한계 - 0.03 μg/mL 한약(생약)제제 비교용출시험 사례집  25 Ⅱ 한약(생약)제제 비교용출시험 사례.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(1) pH 1.2(대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우-30분 이후) (가) 시험시간 대조약의 평균용출률이 60분에 85%에 도달했으며 120분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 30분 이후에 85%에 도달하였으므로, 대조약의 평균용출률이 40%, 85%부근인 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달한 경우에는 시험약의 평균용출률이 대조약 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약의 평균용출률이 40%와 85% 부근인 15분 및 60분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(2) pH 4.0(대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하지 않는 경우, 용출률 50%이상) (가) 시험시간 대조약의 평균용출률이 규정된 시간 이내에 85%에 도달하지 않았으며 360분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 규정된 시간 이내에 85%에 도달하지 않았으므로, 대조약의 평균용출률의 약 1/2, 규정시간 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달하지 않고 평균용출률이 50%이상인 경우에는 시험약의 평균용출률이 대조약의 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약이 대조약의 평균용출률의 약 1/2인 15분 및 규정시간인 360분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(3) pH 6.8(대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우-30분 이후) (가) 시험시간 대조약의 평균용출률이 90분 이후에 85%에 도달했으며 180분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "26  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "3. 포도엽건조엑스 캡슐",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 30분 이후에 85%에 도달하였으므로, 대조약의 평균용출률이 40%, 85% 부근인 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "3. 포도엽건조엑스 캡슐",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달한 경우에는 시험약의 평균용출률이 대조약의 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "3. 포도엽건조엑스 캡슐",
+      "path": null,
+      "ko_txt": "대조약의 평균용출률이 40%와 85% 부근인 30분 및 90분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "포도엽건조엑스 캡슐은 수용성제제로 식약처고시 의약품동등성시험기준 [별표 5의2] ‘1. 경구용제제(서방성제제를 제외한다) 및 장용성제제’ 시험조건에서 비교용출시험을 실시한 결과 pH 4.0을 제외하고 대조약의 평균용출률이 규정시간 내에 85%이상이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "용출시험 결과는 동 고시 [별표 6의2] 용출양상의 동등성 판정기준 제1호에 따라 평가하였을 때 각 시험액 별 판정시점에서 대조약과 시험약은 동등하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  27.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "1.1 개 요",
+      "path": null,
+      "ko_txt": "규 격 대한민국약전외한약(생약)규격집 ‘은행엽건조엑스 정’ 주성분 표시량 은행엽건조엑스 80 mg 대조약: 25.9%, 시험약: 23.6% 실측함량 [총깅코플라본배당체 (퀘르세틴배당체, 캠페롤배당체 및 [기준] 이소람네틴배당체의 총량으로서, 평균분자량 756.7)로서 22.0 ∼ 27.0%].",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "1.2.1 함량시험방법",
+      "path": null,
+      "ko_txt": "대한민국약전외한약(생약)규격집 의약품각조 ‘은행엽건조엑스 정’.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "함량시험은 대한민국약전외한약(생약)규격집에 따라 HPLC 분석법으로 시험하였으며, 대조약 23.6%, 시험약 25.9%로 함량시험 기준에 적합하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "¡ 표준액 표준품 명칭 퀘르세틴 이소람네틴 캠페롤 표준품 취한 양(mg) 10 mg (≥98%) 10 mg (≥98%) 10 mg (≥98%) 및 순도(%) Area 평균 4649695 840103 4767214 ¡ 검액 표준품 명칭 퀘르세틴 이소람네틴 캠페롤 표준품 취한 양(mg) 10 mg (≥98%) 10 mg (≥98%) 10 mg (≥98%) 및 순도(%) 대조약 Area 4208636 1098434 4941827 시혐약 Area 4089887 1707163 5307881 대조약 함량(mg) 28.4 9.9 32.5 시험약 함량(mg) 27.6 15.3 34.9 한약(생약)제제 비교용출시험 사례집  29 Ⅱ 한약(생약)제제 비교용출시험 사례 ¡ 총 플라본배당체 함량 대조약 시험약 총 플라본배당체 함량 (mg).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "70.8 77.8 총 플라본배당체 함량 (%, 은행엽건조엑스로서의 23.6 25.9 검체취량 300mg 대비) 2. 비교용출시험 2.1. 용출시험의 방법 2.1.1 시험조건의 일람표 항 목 시험조건 장 치.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "대한민국약전 제12개정 용출시험법 제2법(패들법) 종 류 비교용출시험 3조건 (pH 1.2, pH 4.0, pH 6.8).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "시험액 조제방법 의동규정 시험액 조제방법 교반속도 50 rpm 교반온도 37 ± 0.5 ℃ 시험액의 양 500 mL 검 체.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "1.2.2 함량시험결과",
+      "path": null,
+      "ko_txt": "비교용출검체 각 5정씩, 싱커미사용.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "2.1.2 용출시험 조건설정의 근거",
+      "path": null,
+      "ko_txt": "의동규정 [별표 5의2] 비교용출시험방법 ‘1. 경구용 제제(서방성제제를 제외한다) 및 장용성 제제’에 대한 용출시험 조건 중 1)수용성제제에 따라 실시하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "¡ 근거 : 밸리데이션 된 비교용출시험방법 (1) 검액의 조제 : 각 시험액 500 mL에 5정씩 넣어 용출시험을 실시하고 매 규정된 시간에 용출액 5 mL를 취하고, 이 액을 환류장치가 있는 50 mL 플라스크에 넣고 알콜․염산혼합액(25 : 4) 14.5 mL를 넣어 135분간 환류추출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "식힌다음 용출액을 넣어 25mL가 되게 하여 검액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "2.1.3 용출액 분석",
+      "path": null,
+      "ko_txt": "0.45 μm 필터로 여과하여 30  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "이를 검액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(2) 검량선의 작성 및 표준액의 조제 (가) 표준원액 : 퀘르세틴 표준품(≥98.0%), 이소람네틴 표준품(≥98.0%), 캠페롤 표준품(≥98.0%)을 각각 1.8 mg, 0.8 mg, 1.8 mg 만큼 정밀히 취하여 메탄 올을 넣어 정확하게 10 mL로 하였다 (약 퀘르세틴 0.18 mg/mL, 이소람네틴 0.08 mg/mL, 캠페롤 0.18 mg/mL). (나) 검량선 작성 표준원액 0.05, 0.25, 1.0, 2.5, 5 mL를 각각 취하여 알콜․물․염산혼합액(25 : 10 : 4) 78 mL를 넣고 각 용출액을 넣어 정확하게 100mL가 되게한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(3) 조작 및 분석조건 : 검액 및 표준액 20 μL를 가지고 다음 조건에서 액체크로마토그래프법에 따라 시험하여 표준액과 검액의 피크면적을 측정한 다음 계산식에 따라 규정된 시간에서의 용출률을 계산하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "<HPLC 조건> ‑ 검출기 : 자외부흡광광도계 (측정파장 270 nm) ‑ 칼럼 : 안지름 약 4.6 mm, 길이 25 cm의 스테인레스관에 5 μm의 옥타데실실릴화된 실리카겔을 충전한 액체크로마토그래프용 칼럼 ‑ 이동상: 메탄올-물-인산혼합액(100 : 100 : 1) 정유효성분의함량×  검액의면적값절편기울기× 시험액의부피× 환산계수×  (4) 용출률 계산식 Ÿ 최종 용출률(%) = 보정전 용출률 + 각 시점에서의 보정용출률 보정전용출률× 샘플채취량 Ÿ 환산계수 = 5 (용출액 5 mL → 환류추출액 25 mL) x 2.51 (비당체에서 당체로의 전환에 대한 평균 분자량 계수).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "2.2.1 밸리데이션 방법[대한민국약전 일반정보, 의약품등 시험방법 밸리데이션 가이드라인 참고] (1) 검량선의 직선성 및 범위 <표준원액 및 검량선 표준액 조제> 각 시험액에 대한 표준원액 및 직선성 표준액의 조제는 2.1.3.항의 (2) 표준액의 조제와 같은 방법으로 조제하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  31 Ⅱ 한약(생약)제제 비교용출시험 사례 <검량선의 분석> 전 과정을 3회 수행하여 각각 직선식을 구하고, 각 직선식의 상관계수로부터 직선성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(2) 특이성 (가) 공시험액: 각 시험액을 공시험액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(나) 플라시보액: 시험약의 주성분을 제외한 첨가제의 5정 해당량을 취하여 각 시험액 500 mL에 넣어 교반한 후 원심분리하고, 상등액을 취하여 플라시보액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(다) 표준액 (약 퀘르세틴 4.5 μg/mL, 이소람네틴 2 μg/mL, 캠페롤 4.5 μg/mL): 2.1.3.항 (2)의 표준원액 2.5 mL를 각각 취하여 알콜․물․염산혼합액(25 : 10 : 4) 78 mL를 넣고 각 용출액을 넣어 정확하게 100mL가 되게한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(라) 표준액 + 플라시보액 (약 퀘르세틴 4.5 μg/mL, 이소람네틴 2 μg/mL, 캠페롤 4.5 μg/mL): 2.1.3.항 (2)의 표준원액 2.5 mL를 취하여 플라시보액 20mL, 알콜․염산혼합액(25 : 4) 58 mL를 넣고 각 용출액을 넣어 정확하게 100mL가 되게한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "<특이성의 분석> 각 시험액(공시험액, 플라시보액, 표준액, 표준액+플라시보액)을 주입한 후 크로마토그램의 피크모양 및 피크면적으로 첨가제에 의한 주성분 피크의 간섭여부를 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "2.2. 용출시험분석의 밸리데이션",
+      "path": null,
+      "ko_txt": "(3) 정확성 (가) 퀘르세틴 1.8 μg/mL, 이소람네틴 0.8 μg/mL, 캠페롤 1.8 μg/mL 검액 :.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "2.1.3.항의 (2)의 표준원액 1.0 mL를 취하여 플라시보액 20mL,",
+      "path": null,
+      "ko_txt": "알콜․염산혼합액(25 : 4) 58 mL를 넣고 각 용출액을 넣어 정확하게 100mL가 되게한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "2.1.3.항의 (2)의 표준원액 1.0 mL를 취하여 플라시보액 20mL,",
+      "path": null,
+      "ko_txt": "(나) 퀘르세틴 4.5 μg/mL, 이소람네틴 2 μg/mL, 캠페롤 4.5 μg/mL 검액 :.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "2.1.3.항의 (2)의 표준원액 2.5 mL를 취하여 플라시보액 20mL,",
+      "path": null,
+      "ko_txt": "알콜․염산혼합액(25 : 4) 58 mL를 넣고 각 용출액을 넣어 정확하게 100mL가 되게한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "2.1.3.항의 (2)의 표준원액 2.5 mL를 취하여 플라시보액 20mL,",
+      "path": null,
+      "ko_txt": "(다) 퀘르세틴 9 μg/mL, 이소람네틴 4 μg/mL, 캠페롤 9 μg/mL 검액 :.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "2.1.3.항의 (2)의 표준원액 5 mL를 취하여 플라시보액 20mL,",
+      "path": null,
+      "ko_txt": "알콜․염산혼합액(25 : 4) 58 mL를 넣고 각 용출액을 넣어 정확하게 100mL가 되게한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "2.1.3.항의 (2)의 표준원액 5 mL를 취하여 플라시보액 20mL,",
+      "path": null,
+      "ko_txt": "<정확성의 분석> 각 정확성 시험용 검액을 각 농도별로 3개 검액에 대하여 주입한 후 평균회수율로부터 정확성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "2.1.3.항의 (2)의 표준원액 5 mL를 취하여 플라시보액 20mL,",
+      "path": null,
+      "ko_txt": "32  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(4) 정밀성 (가) 정밀성 시험용 검액 조제 : 위 (3) 정확성 ‘(나) 퀘르세틴 4.5 μg/mL, 이소람네틴 2 μg/mL, 캠페롤 4.5 μg/mL 검액’을 6회 반복 조제한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "<정밀성의 분석> 검액 6개에 대하여 각각 주입하여 얻어진 면적을 가지고 평균 및 상대표준편차로부터 정밀성을 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(5) 정량한계 각 시험액별로 얻어진 크로마토그램에 대한 직선성 검량선의 표준편차와 검량선 기울기에 근거하여 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(계산된 정량한계 농도의 검액을 조제하여 S/N 10이상 여부 확인을 통한 정량한계 검증 필요).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "은행엽건조엑스 정에 대한 의약품동등성기준 시험액 3조건에서의 분석법 밸리데이션은 의약품등 시험방법 밸리데이션 가이드라인의 주요 평가항목에 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "2.2.2 밸리데이션 결과(예시)",
+      "path": null,
+      "ko_txt": "(1) 퀘르세틴 <pH 1.2> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 100.1% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.8% 범 위 직선성 평가 시 결정 0.09 ∼ 9 μg/mL <pH 4.0> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 98.6% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.4% 범 위 직선성 평가 시 결정 0.09 ∼ 9 μg/mL 한약(생약)제제 비교용출시험 사례집  33 Ⅱ 한약(생약)제제 비교용출시험 사례 <pH 6.8> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 100.1% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.8% 범 위 직선성 평가 시 결정 0.09 ∼ 9 μg/mL (2) 이소람네틴 <pH 1.2> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 99.4% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 0.9% 범 위 직선성 평가 시 결정 0.04 ∼ 4 μg/mL <pH 4.0> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 101.0% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 2.0% 범 위 직선성 평가 시 결정 0.04 ∼ 4 μg/mL 34  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "<pH 6.8> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 101.7% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.7% 범 위 직선성 평가 시 결정 0.04 ∼ 4 μg/mL (3) 캠페롤 <pH 1.2> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 98.2% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.6% 범 위 직선성 평가 시 결정 0.09 ∼ 9 μg/mL <pH 4.0> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 101.9% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.7% 범 위 직선성 평가 시 결정 0.09 ∼ 9 μg/mL 한약(생약)제제 비교용출시험 사례집  35 Ⅱ 한약(생약)제제 비교용출시험 사례 <pH 6.8> 항 목 자사기준 결 과 첨가제가 제제의 정량시험 결과에 특이성 영향을 주지 않음 영향을 주지 않음 직선성 R2 > 0.999 0.999 평균회수율 정확성 100.6% 98.0 ∼ 102.0% 정밀성 RSD ≤ 2.0% 1.3% 범 위 직선성 평가 시 결정 0.09 ∼ 9 μg/mL.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(1) pH 1.2(대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우-30분 이후) (가) 시험시간 대조약의 평균용출률이 120분에 85%에 도달했으며 120분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 30분 이후에 85%에 도달하였으므로, 대조약의 평균용출률이 40%, 85%부근인 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달한 경우에는 시험약의 평균용출률이 대조약 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "대조약의 평균용출률이 40%와 85% 부근인 60분 및 120분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(2) pH 4.0(대조약의 평균용출률이 규정된 시험시간 내에 85 %에 도달하는 경우-30분 이후) (가) 시험시간 대조약의 평균용출률이 30분 이후에 85%에 도달했으며 360분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 30분 이후에 85%에 도달하였으므로, 대조약의 평균용출률이 40%, 85%부근인 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "2.3.1 용출시험 결과평가",
+      "path": null,
+      "ko_txt": "36  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달한 경우에는 시험약의 평균용출률이 대조약 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "대조약의 평균용출률이 40%와 85% 부근인 45분 및 240분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(3) pH 6.8(대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우-30분 이후) (가) 시험시간 대조약의 평균용출률이 30분 이후에 85%에 도달했으며 300분까지 시험하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(나) 판정시점 대조약의 평균용출률이 30분 이후에 85%에 도달하였으므로, 대조약의 평균용출률이 40%, 85%부근인 두 시점이 판정시점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "(다) 판정기준 대조약의 평균용출률이 규정된 시간 안에 85%에 도달한 경우에는 시험약의 평균용출률이 대조약 평균용출률의 ±15%안에 들어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "4. 은행엽건조엑스 정",
+      "path": null,
+      "ko_txt": "대조약의 평균용출률이 40%와 85% 부근인 45분 및 180분에 시험약과 대조약의 평균용출률 차이는 ±15%이내 이므로 두 제제가 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "은행엽건조엑스 정은 수용성제제로 식약처고시 의약품동등성시험기준 [별표 5의2] ‘1. 경구용제제(서방성제제를 제외한다) 및 장용성제제’ 시험조건에서 비교용출시험을 실시한 결과 대조약의 평균용출률이 규정시간 내에 85%이상이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "용출시험 결과는 동 고시 [별표 6의2] 용출양상의 동등성 판정기준 제1호에 따라 평가하였을 때 각 시험액 별 판정시점에서 대조약과 시험약은 동등하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "2.3.2 시험결과에 대한 시험책임자의 종합의견",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  37 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "1.1. 여러 지표성분을 가진 한약(생약)제제의 비교용출시험",
+      "path": null,
+      "ko_txt": "모든 지표성분에 대해 모든 시험액에서 비교용출시험이 수행되어야 하며, 비교용출 시험이 불가능한 성분의 경우 의약품동등성시험기준 제22조에 따라 예비시험결과 등 과학적인 근거에 의하여 불가능한 사유를 제출하여야 함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "1.2. 함량기준 범위가 넓은 한약(생약)제제의 시험약 선정 및 용출률 계산",
+      "path": null,
+      "ko_txt": "한약(생약)제제의 경우 각 지표성분에 대한 함량기준이 넓은 범위 또는 기준치 이 상으로 설정되어 화학의약품의 시험약 선정 기준인 의약품동등성시험기준 제4조 ‘대조약의 표시량(100%) 또는 함량과의 차이가 5% 이내’를 충족하기 어려움. 이에 따라 함량기준에 적합한 대조약과 시험약을 선정하여 용출시험을 수행하고 지표성분에 대한 함량시험 결과값을 기준으로 용출률을 계산함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "1.2. 함량기준 범위가 넓은 한약(생약)제제의 시험약 선정 및 용출률 계산",
+      "path": null,
+      "ko_txt": "* (심사예시) 지표성분A의 함량기준이 4.0 ∼ 10.0 mg 인 생약제제 함량시험 결과 제제의 지표성분A 함량기준 대조약 시험약 4.0 ∼ 10.0 mg 5.5 mg 7.0 mg • 대조약의 용출률 계산 측정값절편기울기 × 각 시험에 해당하는 용출액 부피×희석배수  × 정당 지표성분함량 ×  • 시험약의 용출률 계산 측정값절편기울기 × 각 시험에 해당하는 용출액 부피×희석배수  × 정당 지표성분함량 × .",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "1.3. 단일제 ­ 복합제 구분",
+      "path": null,
+      "ko_txt": "의약품동등성시험 적용범위가 ‘1. 전문의약품, 2. 일반의약품 단일제 중 정제, 캡 슐제, 좌제 임에 따라 생약 혼합 추출물을 1개의 주성분으로 하는 제제의 비교용 출시험 자료 제출 대상 해당여부. ⇒ 「한약(생약)제제 등의 품목허가·신고에 관한 규정」제2조제3호에 따라 복합제에 해당하며, 전문의약품·일반의약품 여부에 따라 제출대상 해당여부가 달라짐. 예1) 위령선·괄루근·하고초30%에탄올건조엑스(40→1) 정 : 복합제에 해당하며, 전문의약품 경구용제제이므로 「의약품 등의 안전에 관한 규칙」 제4조제1항 한약(생약)제제 비교용출시험 사례집  39 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 제3호다목에 해당하여 생물학적 동등성시험에 관한 시험자료 또는 비교임상시험 성적서를 제출하여야 함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "1.3. 단일제 ­ 복합제 구분",
+      "path": null,
+      "ko_txt": "예2) 방풍통성산건조엑스(4.6→1) 정 : 복합제에 해당하며, 일반의약품이므로 동등성시험자료 제출대상이 아님. * 방풍통성산건조엑스: 길경, 백출, 감초, 황금, 석고, 대황, 당귀, 작약, 천궁, 치자, 연교, 박하, 형개, 방풍, 마황, 생강, 활석, 망초를 물로 추출함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "1.4. 제제 중 지표성분의 양이 적은 경우의 비교용출시험",
+      "path": null,
+      "ko_txt": "「의약품동등성시험기준」[별표 5의2]제1호다목3)에 따라 제제 중 주성분의 양이 적은 경우 등 정량분석이 불가능한 경우 시험액의 양을 줄이거나 검체 2개 이상을 넣어 시험할 수 있으며, 변경에 대한 타당한 근거자료(1정, 시험액 900 mL로 시험 시 검액의 농도와 정량한계 비교 등)를 제출하여야 함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "1.5. 화학의약품-한약(생약)제제 주성분 복합제의 비교용출시험",
+      "path": null,
+      "ko_txt": "복합제 중 1개 성분의 화학의약품 주성분제조원을 추가하고자 할 때도 나머지 변경이 없는 한약(생약)제제 주성분에 대한 비교용출시험 실시 여부. ⇒ 비교용출시험 실시 필요",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "1.6. 비교용출시험 불가 인정사례",
+      "path": null,
+      "ko_txt": "※ 다음 사례는 참고용으로 작성된 것으로 첨가제 및 조건에 따라 결과가 달라질 수 있으므로 모든 경우에 적용될 수 있는 것은 아니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "1.6. 비교용출시험 불가 인정사례",
+      "path": null,
+      "ko_txt": "그동안 비교용출시험 불 가사유로 제출받아 인정된 사례이나 시험대상, 분석조건, 사용장비 등에 따라 비교용출시험 가능 여부는 달라질 수 있으므로 비교용출시험 불가 사유에 대한 예비시험은 품목별로 실시되어야 하며, 본 사례에 제시된 성분에 해당함을 이유 로 예비시험을 생략할 수는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "1.6. 비교용출시험 불가 인정사례",
+      "path": null,
+      "ko_txt": "또한 본 정보는 요약된 정보만 제시하고 있으므 로 실제 자료 제출 시에는 시험기초자료가 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "1.6.1 지표성분이 난용성인 경우 1(밀크시슬열매건조엑스 연질캡슐)",
+      "path": null,
+      "ko_txt": "¡ 주성분(지표성분): 밀크시슬열매건조엑스(실리마린) ¡ 예비시험 - 시험방법: 기본 3액(pH 1.2, pH 4.0, pH 6.8)에서의 대조약 및 시험약을 40  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 가지고 비교용출시험과 동일한 조건에서 예비 용출시험을 실시. - 시험결과: 대조약과 시험약 모두 평균용출률이 8% 미만. ¡ 결 론 밀크시슬열매건조엑스의 지표성분인 실리마린은 평균용출률이 현저하게 낮아 판정 기준값 보다 낮은 용출률을 보이므로 비교용출시험 본시험이 불가능할 것으로 사료됨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "1.6.1 지표성분이 난용성인 경우 1(밀크시슬열매건조엑스 연질캡슐)",
+      "path": null,
+      "ko_txt": "※ 판정기준: 시험약 및 대조약의 평균용출률이 모두 ±8% 이내인 경우 동등한 것으로 본다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "¡ 주성분(지표성분): 옥수수불검화정량추출물(β-시토스테롤) ¡ 예비시험 1 - 시험방법: β-시토스테롤 표준품을 표준품을 100% 유기용매에 용해한 시험액의 함량 대비 용출 시험액의 비율을 높이고 각 액을 농도별로 희석하여 검량선을 구하고 β-시토스테롤 함량시험을 실시. - 시험결과: 표준품의 석출이 관찰되며 농도별 직선성이 확보되지 않아.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "검량선 작성이 불가함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "¡ 예비시험 2 - 시험방법 ① 주성분인 β-시토스테롤의 비극성에 따른 용해도를 개선하기 위해.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "폴리소르베이트80 및 라우릴황산나트륨 같은 가용화제를 1.0 w/v% 농도로 첨가한 시험액 조제. ② 대조군으로 에탄올에만 녹인 시험액 조제. ③ 각 시험액을 가지고 흡광도를 측정하고 검량선을 구함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "- 시험결과 ·에탄올에 녹인 표준원액을 가용화제를 첨가하지 않은 시험액 및 폴리소르 베이트80을 첨가한 시험액으로 희석하였을 때 표준품이 석출되어 뿌옇게 되는 것이 육안으로 관찰되고, 이 후 정량법에 따른 효소발색액을 사용한 발색과정 진행이 불가. ·라우릴황산나트륨을 첨가한 시험액으로 표준원액을 희석했을 때는 석출에 따른 뿌옇게 변하는 현상이 없고 효소발색액을 통한 분홍색 발색도 되었으나 흡광도를 측정해보면 농도에 따른 직선성이 확보되지 않음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  41 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 ·대조군인 에탄올에만 녹인 시험액은 가지고 같은 과정을 거쳐 검량선을 그렸을 때.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "직선성이 확보됨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "¡ 결 론 옥수수불검화정량추출물의 지표성분인 β-시토스테롤은 비극성물질로.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "희석용매에 극성용매인 물이 포함됨에 따라 석출이 일어나므로, 물을 기본으로.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "하는 용출액 분석을 위한 직선성 및 정확성이 확보가 불가능하므로.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "1.6.2 지표성분이 난용성인 경우 2(옥수수불검화정량추출물 정)",
+      "path": null,
+      "ko_txt": "비교용출시험 본시험이 불가능할 것으로 사료됨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "1.6.3 지표성분 미량 함유인 경우 1(O엑스 캡슐-지표성분 ***)",
+      "path": null,
+      "ko_txt": "¡ 주성분(지표성분): O건조엑스(***) ¡ 예비시험 - 시험방법 ① 표준원액의 조제 : *** 표준품 약 4.5 mg을 정밀하게 취해 50% 아세토니트릴에 녹여 250 mL로 함(18 μg/mL). ② 직선성 표준액의 조제 : 표준원액을 각각 1, 3, 5 및 10 mL를 정확하게 취해 각 용출액을 넣어 50 mL로 하여 직선성 표준액 2 (0.72 μg/mL), 표준액 3 (1.08 μg/mL), 표준액 4 (1.8 μg/mL) 및 표준액 5 (3.6 μg/mL)으로 함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "1.6.3 지표성분 미량 함유인 경우 1(O엑스 캡슐-지표성분 ***)",
+      "path": null,
+      "ko_txt": "직선성 표준액 4 (1.8 μg/mL) 1 mL를 정확하게 취해 각 용출액을 넣어 100 mL로 하여 직선성 표준액 1 (0.018 μg/mL)으로 함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "1.6.3 지표성분 미량 함유인 경우 1(O엑스 캡슐-지표성분 ***)",
+      "path": null,
+      "ko_txt": "③ 각 직선성 표준액을 가지고 아래 분석조건에 따라 시험하여 검량선을 작성. ④ 분석조건 : KHP ‘O건조엑스 캡슐의 정량법 2) ***’ 검출기 자외부흡광광도계 (측정파장 306 nm) 칼럼 C18 column, 4.6 mm × 25 cm , 5 μm 이동상 0.1 % 오르토인산용액·아세토니트릴혼합액 (4 : 1) 유량 1.0 mL/분 ⑤ 정량한계 계산: 검량선의 기울기(S) 및 y절편의 표준편차(σ)로부터 10 × σ/S 계산식으로 산출하고 직선성 표준액(0.018 μg/mL)의 시그널 대 노이즈비를 통해 확인함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "1.6.3 지표성분 미량 함유인 경우 1(O엑스 캡슐-지표성분 ***)",
+      "path": null,
+      "ko_txt": "- 시험결과: ***의 정량한계 값이 용출률 100% 농도 (0.018 μg/mL)보다 높거나 거의 같음을 확인함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "1.6.3 지표성분 미량 함유인 경우 1(O엑스 캡슐-지표성분 ***)",
+      "path": null,
+      "ko_txt": "¡ 결 론 42  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 O건조엑스의 지표성분인 ***은 미량 함유 성분으로 공정서에 수재된 정량법의 시험농도 대비 용출액의 농도가 현저하게 낮고 예비시험을 통해.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "1.6.3 지표성분 미량 함유인 경우 1(O엑스 캡슐-지표성분 ***)",
+      "path": null,
+      "ko_txt": "얻어진 정량한계가 시험농도와 비슷하거나 높음이 확인됨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "1.6.3 지표성분 미량 함유인 경우 1(O엑스 캡슐-지표성분 ***)",
+      "path": null,
+      "ko_txt": "최대한의.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "1.6.3 지표성분 미량 함유인 경우 1(O엑스 캡슐-지표성분 ***)",
+      "path": null,
+      "ko_txt": "시험농도를 확보하기 위해 검체 갯수 및 용출액 양을 조정하여도 정량한계 이상의 시험농도 확보가 불가능하므로 비교용출시험 본시험이 불가능할 것으로 사료됨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "1.6.4 지표성분 미량 함유인 경우 2(은행엽건조엑스 연질캡슐-총 테르펜락톤)",
+      "path": null,
+      "ko_txt": "¡ 주성분(지표성분): 은행엽건조엑스(총 테르펜락톤) ¡ 예비시험 - 시험방법: 표준품을 가지고 각 농도별로 희석하여 검량선을 구함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "1.6.4 지표성분 미량 함유인 경우 2(은행엽건조엑스 연질캡슐-총 테르펜락톤)",
+      "path": null,
+      "ko_txt": "- 시험결과: 총 테르펜락톤의 정량한계 값이 용출률 100%농도보다 높거나 거의 같음을 확인함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "1.6.4 지표성분 미량 함유인 경우 2(은행엽건조엑스 연질캡슐-총 테르펜락톤)",
+      "path": null,
+      "ko_txt": "¡ 결 론 은행엽건조엑스의 지표성분인 총 테르펜락톤은 미량 함유 성분으로 정량법의 시험농도(은행엽건조엑스로서 12 mg/mL) 대비 용출액의 농도(2캡슐, 500 mL 용출액 사용 시, 은행엽건조엑스로서 0.48 mg/mL)가 현저하게 낮고 예비시험을 통해 얻어진 정량한계가 시험농도와 비슷하거나 높음이 확인됨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "1.6.4 지표성분 미량 함유인 경우 2(은행엽건조엑스 연질캡슐-총 테르펜락톤)",
+      "path": null,
+      "ko_txt": "최대한의 시험농도를 확보하기 위해 검체 갯수 및 용출액 양을 조정하여도 정량한계 이상의 시험농도 확보가 불가능하므로 비교용출시험 본시험이 불가능할 것으로 사료됨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "주성분(지표성분): 오소판물질(콜라겐) 예비시험 - 미수행: 20시간 환류냉각을 통한 가수분해를 병행한 비교용출 불가사유 제출 (검액의 안정성 문제). 한약(생약)제제 비교용출시험 사례집 43 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 ※ 시험방법 * 「대한민국약전외한약(생약)규격집」 중 오소판물질 정 콜라겐 정량법 3) 콜라겐 이약 20 정 이상을 껍질을 벗긴 다음 질량을 달아 가루로 하여 오소판물질로서 약 100 mg에 해당하는 양을 정밀하게 달아 100 mL 둥근 플라스크에 넣고 6 mol/L 염산 10 mL를 넣고 환류냉각기를 달고 105 ℃에서 20시간 자석 교반기로 교반하면서 가수분해시킨다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "식힌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "음 100 mL 비커에 물 50 mL로 잘 세척하여 옮긴다음 32 % 수산화나트륨과 묽은 염산을 사용하여 pH 5 ～ 7로 맞추고 식힌다음 100 mL 용량 플라스크에 물로 잘 세척하여 옮기고 물로 표선을 채운다음 여과한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "따로 히드록시프롤린 표준품 약 50 mg을 물에 녹여 50 mL 용량 플라스크에 넣고 물을 넣어 표선까지 채워 표준검량선을 작성한다 (S1 : 10 μg/mL, S2 : 20 μg/mL, S3 : 30 μg/mL, S4 : 40 μg/mL, S5 : 50 μg/mL). 물 2 mL (대조액), 검액 2 mL 및 표준액(S1～S5) 2 mL씩을 정확하게.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "취해 각각 mL씩 용량플라스크에 넣고 0.01 mol/L 황산용액, 2.5.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "mol/L 수산화나트륨액, 6 % 과산화수소수2 mL씩을차례로넣어섞은 다음5 분간가끔흔든다음80 ℃수욕에서때때로세게흔들어주면서 5 분간가온한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "각시험액을빙수욕에서식히고1.5 mol/L 황산8 mL 씩을흔들어주면서넣은다음4-디메틸아미노벤즈알데히드의1-프로판 올용액4 mL를넣어잘혼화한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "70 ℃수욕에서16 분간가온한다음 흐르는물로식히고대조액을대조로파장555 nm에서표준액과검액의 흡광도AS 및AT를측정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "¡ 결 론 오소판물질의 지표성분 콜라겐은 환류냉각장치를 사용한 고온에서의 20시간 가수분해 후 흡광도로 단백질의 양을 측정하는 시험법으로 정량을 하는데, 용출시간이 길고 시간대별 검체 개수가 많은 비교용출시험의 특성을 감안하여 비교용출시험 본시험이 불가능할 것으로 사료됨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": "1.6.5. 용출액 중 주성분 불안정한 경우(오소판물질 중 콜라겐)",
+      "path": null,
+      "ko_txt": "44  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 2. 관련 규정 (의약품동등성시험기준, 식약처고시 제2021-91호, 2021. 11. 11. 일부개정).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": "2.1 대 상",
+      "path": null,
+      "ko_txt": "제3조(적용범위) ① 이 고시에 의한 의약품동등성시험 적용범위는 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": "2. 일반의약품 단일제 중 정제․캡슐제․좌제",
+      "path": null,
+      "ko_txt": "3. < 삭 제 > 4. 제1호 및 제2호에 해당하는 의약품의 허가(신고)사항 중 다음 각 목의 사항을 변경하 고자 하는 경우.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": "다. 제조소(별표 4의 기준에 의한다).",
+      "path": null,
+      "ko_txt": "라. 가목 내지 다목 중 2개 이상의 사항을 변경하는 경우에는 해당하는 기준 중 가장 엄격한 기준을 적용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": "다. 제조소(별표 4의 기준에 의한다).",
+      "path": null,
+      "ko_txt": "제3조제1항의개정규정은다음각호의구분에따른날부터시행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": "다. 제조소(별표 4의 기준에 의한다).",
+      "path": null,
+      "ko_txt": "1. 「의약품 등의 안전에 관한 규칙」제4조제1항제3호다목에 해당하는 의약품 중 경구용제제: 2022년 4월 15일 2. 「의약품 등의 안전에 관한 규칙」제4조제1항제3호다목에 해당하는 의약품 중 무균제제: 2022년 10월 15일 3. 「의약품 등의 안전에 관한 규칙」제4조제1항제3호다목에 해당하는 의약품 중 1호 및 2호 외의 전문의약품: 2023년 10월 15일 ② <삭 제> ③ 제1항에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우 의약품동등성시험 을 실시하지 아니한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": "다. 제조소(별표 4의 기준에 의한다).",
+      "path": null,
+      "ko_txt": "1. <삭 제> 2. 「약사법」 제23조제4항제6호 및 같은 법 시행규칙 제15조 제6호에 해당하는 품목 한약(생약)제제 비교용출시험 사례집  45 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 [별표 2] 원료약품 및 그 분량 변경수준 및 제출자료 범위 (제3조제1항제4호가목 관련).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": "Ⅰ. 원료약품 및 분량 변경수준",
+      "path": null,
+      "ko_txt": "표 1 또는 표 2의 기준에 따라 첨가제별로 각각 변경의 수준을 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": "Ⅰ. 원료약품 및 분량 변경수준",
+      "path": null,
+      "ko_txt": "B이하인 경우는 B수준, B보다 크고 C이하인 경우는 C수준, C보다 크고 D이하인 경우는 D수준, D보다 큰 경우는 E수준으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": "Ⅰ. 원료약품 및 분량 변경수준",
+      "path": null,
+      "ko_txt": "착색제 및 착향제의 변경은 A수준으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": "Ⅰ. 원료약품 및 분량 변경수준",
+      "path": null,
+      "ko_txt": "제제의 원료약품 및 분량 변경의 수준은 첨가제별 변경수준 중에서 가장 큰 것으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": "Ⅰ. 원료약품 및 분량 변경수준",
+      "path": null,
+      "ko_txt": "표 1. 비코팅제제의 첨가제 변경 수준 단위제형 총중량중 함유율의 차(%) 첨가제의 배합목적과 성분 B C D 붕해제 전분 3.0 6.0 9.0 기타 1.0 2.0 3.0 결합제 0.50 1.0 1.5 활택제․광택제 스테아린산 및 그 염류 0.25 0.50 0.75 기타 1.0 2.0 3.0 부형제 5.0 10 15 기타(착색제,착향제는 제외) 1.0 2.0 3.0 변경한 성분 함유율의 차의 5.0 10 15 절대값을 합한 값 46  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 표 2. 코팅제제의 첨가제 변경 수준 함유율의 차(%) 구분 첨가제의 배합목적과 성분 B C D 붕해제 전분 3.0 6.0 9.0 기타 1.0 2.0 3.0 결합제 0.50 1.0 1.5 활택제․광택제 스테아린산 및 그 염류 0.25 0.50 0.75 내핵 기타 1.0 2.0 3.0 부형제 5.0 10 15 기타(착색제,착향제는 제외) 1.0 2.0 3.0 내핵에서 변경한 성분 함유율의 차의 5.0 10 15 절대값을 합한 값 필름층에서 변경한 성분 함유율의 차 필름층1) 5.0 10 15 의 절대값을 합한 값 당의층에서 변경한 성분 함유율의 차 당의층 5.0 10 15 의 절대값을 합한 값 1) 방수피막, 내피막, 장용성 피막, 방출제어피막 등 당의층 이외의 모든 피막 한약(생약)제제 비교용출시험 사례집  47 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류는 표 3과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "표 3. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류 일반제제5)/ 제제의 주성분의 제제의 의약품동등성시험의 수준 장용성제제/ 수용성/난용성 치료영역1) 용출속도2) 종류3).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "서방성제제 여부 의약품동등성시험 A 실시대상이 아님 비교용출시험4) 또는 B 비교붕해시험 비교용출시험4) 또는 수용성 넓음 비교붕해시험 난용성 생물학적동등성시험 일반제제 비교용출시험4) 또는 장용성제제 ≧85%/30분 수용성 비교붕해시험 C 좁음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "〈 85%/30분 생물학적동등성시험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "난용성 생물학적동등성시험 비교용출시험4) 또는 넓음 서방성제제 비교붕해시험 좁음 생물학적동등성시험 비교용출시험4) 또는 ≧85%/30분 수용성 비교붕해시험 넓음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "일반제제 〈 85%/30분 생물학적동등성시험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "D 난용성 생물학적동등성시험 좁음 생물학적동등성시험 장용성제제 생물학적동등성시험 서방성제제 E 생물학적동등성시험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "1) 제2조제1항제10호에 해당하는 성분은 치료영역이 좁음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "그 외의 성분은 넓음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "2) 이 고시 제3장 비교용출시험에 따라 시험할 때 모든 조건하에서 대조약과 시험약의 30분간 평균용출률이 85% 이상인 경우는 “≧85%/30분”, 그 외의 경우는 “〈 85%/30분” 3) 비교용출시험 또는 비교붕해시험 결과 동등함을 입증하지 못한 경우는 생물학적동등성시험을 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "4) 이 고시의 시험조건 또는 이와 동등 이상의 시험조건에 의한 비교용출시험자료 5) 일반제제의 필름층, 당의층을 구성하는 첨가제 변경의 경우 비교용출시험 결과가 동등하면 생물학적 동등성 시험(의약품동등성 시험의 종류가 생물학적 동등성 시험인 경우에 한한 다)을 비교용출시험으로 갈음한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "다만, 용출에 영향을 미치는 첨가제 변경의 경우에는 그러하지 아니하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "48  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 [별표 3] [2022.11.10.까지] 제조방법의 변경수준 및 제출자료의 범위 (제3조제1항제4호나목 관련) 의약품동등성시험의 수준 범위 종류1) 1) 제피시 용제로 사용하는 휘발성용매를 추가 또는 변경하는 경우 2) 원료칭량 공정 또는 완제품 포장공정만 달리하여 제조하는 경우 의약품동등성시험 A 3) 제품의 성상을 변경하는 경우 실시대상이 아님 4) 공캡슐의 크기(조성 포함)을 변경하는 경우 5) 기타 의약품동등성에 영향을 미치지 않는다고 인정 되는 경우 1) 주성분 제조원을 변경 또는 추가하는 경우 2) 기타 A수준, C수준 또는 D수준에 모두 해당하지 않는 경우 비교용출시험2) 또는 B 3) 생산규모의 변경(의약품동등성시험 및 생물학적동 비교붕해시험 등성시험에 사용한 생산규모로부터 누적하여 10 배 이상에 한함) 1) 조립(粗粒)방법(압출방식, 유동층과립법 등)의 변경 비교용출시험3) 또는 C 2) 연합액 종류(유기용매, 물 등)의 변경 비교붕해시험 3) 제조공정조건(혼합시간, 조작속도 등)의 변경 품질에 큰 영향을 미칠 가능성이 있는 제조공정(예 : D 생물학적동등성시험4) 직타법, 건식법 또는 습식법)의 변경 1) 비교용출시험 또는 비교붕해시험 결과 동등함을 입증하지 못한 경우는 생물학적동등성 시험을 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "2) 허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험 자료 3) 이 고시의 시험조건 또는 이와 동등 이상의 시험조건에 의한 비교용출시험자료 4) 다만, 치료역이 넓고 의약품동등성시험관리규정의 모든 조건에서 30분 이내에 85% 이상 용출하고 용출의 동등성이 확인되는 경우 비교용출시험으로 갈음할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  49 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 [별표 3] [2022.11.11.시행] 제조방법의 변경수준 및 제출자료의 범위 (제3조제1항제4호나목 관련) 1. 제조방법 변경 시 표 1의 구분에 따른 범위는 다음의 예시에 따라 정하고 이에 따른 제출자 료는 각 란에서 정한 것으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "생산규모는 허가(신고) 시 의약품동등성시험에 사용한 시험약 또는 주요 임상시험용 배치 생산규모와 비교한 생산규모 변경수준으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "sentence",
+      "section": "Ⅱ. 원료약품 및 분량 변경수준에 따라 실시하여야 하는 의약품동등성시험의 종류",
+      "path": null,
+      "ko_txt": "단, 제 출자료는 「의약품의 품목허가ㆍ신고ㆍ심사 규정」 제3조의2를 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "sentence",
+      "section": "가. 품질에 영향이 없는 변경",
+      "path": null,
+      "ko_txt": "1) 작동원리 및 디자인이 동일한 제조장비 변경 2) 허가(신고)된 공정 조건 범위 내 변경 3) 허가(신고)된 공정 중 검사 기준 범위 내 변경 4) 10배 미만의 생산규모 변경 5) 그밖에 의약품동등성에 영향을 미치지 않는다고 인정되는 경우 (예, 휘발성 코팅용매 변 경, 성상, 공캡슐 크기 및 조성, 원료칭량 공정 또는 완제품 포장공정 변경 등).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "sentence",
+      "section": "나. 경미한 변경",
+      "path": null,
+      "ko_txt": "1) 일반제제에서 허가(신고)된 공정조건의 범위 외 변경 2) 일반제제에서 10배 이상의 생산규모 변경 3) 주성분 제조원, 제조방법 변경에 따른 주성분의 입도, 결정형 등 물리화학적 특성이 변경 되지 않거나, 생물약제학적 분류체계에 따른 용해도가 높은 경우 또는 고시 시험조건에서 30분 이내에 모두 85% 이상 용출되어 품질에 미치는 영향이 경미한 경우.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "sentence",
+      "section": "다. 중요한 변경",
+      "path": null,
+      "ko_txt": "1) 작동원리가 상이한 제조장비 변경 2) 제형의 특수성이 인정되는 제제 및 반고형제제에서 허가(신고)된 제조방법 중 공정조건의 범위 외 변경 3) 허가(신고)된 공정 중 검사기준 범위 외 변경 (예, 마손도, 경도, 입도, 밀도, 수분 등) 4) 제형의 특수성이 인정되는 제제 및 반고형제제에서 10배 이상의 생산규모 변경 5) 주성분제조원, 제조방법 변경 등에 따른 주성분의 입도, 결정형 등 물리화학적 특성이 변 경되어 완제의약품의 품질에 영향을 미치는 경우 6) 그밖에 의약품동등성에 중요한 영향을 미치는 경우 (예, 연합액 종류, 조립(粗粒)방법 변 경 등) 7) 제조원리가 변경되는 경우(예, 직타법, 건식법 또는 습식법) 50  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 표 1. 제조방법의 품질영향에 따른 의약품동등성 시험의 종류 구분 1) 의약품동등성시험의 종류3) 품질에 영향이 없는 변경 의약품동등성시험 실시대상이 아님 경미한 변경2) 비교용출시험4) 또는 비교붕해시험 비교용출시험5) 또는 이화학적동등성시험 또는 비교붕해시험 중요한 변경 생물학적동등성시험6) 1) 「의약품의 품목허가ㆍ신고ㆍ심사 규정」 제3조의2제2항 및 제6항에 따른 구분 2) 「의약품의 품목허가ㆍ신고ㆍ심사 규정」제6조제1항에 따라 국제공통기술문서로 작성하 여 허가를 받거나 신고한 의약품의 경우에 한한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "sentence",
+      "section": "다. 중요한 변경",
+      "path": null,
+      "ko_txt": "3) 비교용출시험, 비교붕해시험 또는 이화학적동등성시험 결과 동등함을 입증하지 못한 경우 는 생물학적동등성시험 또는 비교임상시험을 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "sentence",
+      "section": "다. 중요한 변경",
+      "path": null,
+      "ko_txt": "4) 허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험 자료 5) 이 고시의 시험조건 또는 이와 동등 이상의 시험조건에 의한 비교용출시험자료 6) 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "sentence",
+      "section": "다. 중요한 변경",
+      "path": null,
+      "ko_txt": "7)의 경우에 한한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "sentence",
+      "section": "다. 중요한 변경",
+      "path": null,
+      "ko_txt": "다만, 치료역이 넓고 의약품동등성시험기준의 모든 조건에서 30 분 이내에 85% 이상 용출하고 용출의 동등성이 확인되는 경우 또는 용출시험결과가 생 물학적동등성시험결과와 상관성이 있다는 사실이 입증된 경우(예, 생체외—생체내 상관 성(IVIVC)) 등 용출시험으로 생물학적동등성을 입증할 수 있음이 인정되는 경우 생물학 적동등성시험자료를 비교용출시험으로 갈음할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "sentence",
+      "section": "다. 중요한 변경",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  51 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 [별표 4] [2022.11.10.까지] 제조소의 변경수준 및 제출자료의 범위 (제3조제1항제4호다목 관련) 수준 범위 의약품동등성시험의 종류1) 1) 이미 생물학적동등성이 인정된 품목을 제조 하는 업소로 위탁제조소를 변경하는 경우 2) 원료칭량 공정 또는 완제품 포장공정 의약품동등성시험 실시대상이 A 제조소를 변경하는 경우 아님 3) 기타 의약품동등성에 영향을 미치지 않는다고 인정되는 경우 원료약품 및 그 분량과 제조방법의 변경이 B 비교용출시험2) 또는 비교붕해시험 없는 동일업체의 제조소 이전 품목의 경우 1) 원료약품 및 그 분량과 제조방법의 변경이 C 있는 동일업체의 제조소 이전 품목의 경우 비교용출시험3) 또는 비교붕해시험 2) A수준, B수준 이외의 경우 1) 비교용출시험 또는 비교붕해시험 결과 동등함을 입증하지 못한 경우는 생물학적동등성시험을 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "sentence",
+      "section": "다. 중요한 변경",
+      "path": null,
+      "ko_txt": "2) 허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험 자료 3) 이 고시의 시험조건 또는 이와 동등 이상의 시험조건에 의한 비교용출시험자료 52  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 [별표 4] [2022.11.11.시행] 제조소의 변경수준 및 제출자료 범위 (제3조제1항제4호다목 관련) 1. 제조소 변경 시 표 1의 구분에 따른 범위는 다음의 예시에 따라 정하고 이에 따른 동등성 입증자료는 각 란에서 정한 것으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "sentence",
+      "section": "가. 구분 A:",
+      "path": null,
+      "ko_txt": "1) 이미 생물학적동등성이 인정된 품목을 제조하는 업소로 위탁제조소를 변경하는 경우 2) 원료칭량 공정 및 완제품 포장공정 제조소를 변경하는 경우 3) 그밖에 의약품동등성에 영향을 미치지 않는다고 인정되는 경우 나. 구분 B: 원료약품 및 그 분량과 제조방법(작동원리 및 공정조건 포함)의 변경이 없는 제 조소 변경 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "sentence",
+      "section": "가. 구분 A:",
+      "path": null,
+      "ko_txt": "구분 C: 원료약품 및 그 분량 또는 제조방법(작동원리 및 공정조건 포함)의 변경이 있는 제조소 변경 표 2. 제조소의 품질영향에 따른 의약품동등성 시험의 종류 구분 의약품동등성시험의 종류1) A 의약품동등성시험 실시대상이 아님 일반제제 비교용출시험2) 또는 비교붕해시험 B 장용성제제 비교용출시험3) 또는 비교붕해시험 /서방성제제 일반제제 생물학적동등성시험4).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "sentence",
+      "section": "가. 구분 A:",
+      "path": null,
+      "ko_txt": "C 장용성제제 생물학적동등성시험5) /서방성제제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "sentence",
+      "section": "가. 구분 A:",
+      "path": null,
+      "ko_txt": "1) 비교용출시험 또는 비교붕해시험 결과 동등함을 입증하지 못한 경우는 생물학적동등성시 험을 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "sentence",
+      "section": "가. 구분 A:",
+      "path": null,
+      "ko_txt": "2) 허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험 자료 3) 이 고시의 시험조건 또는 이와 동등 이상의 시험조건에 의한 비교용출시험자료 4) 다음의 경우에 생물학적동등성시험자료를 이 고시의 시험조건 또는 이와 동등 이상의 시 험조건에 의한 비교용출시험자료로 갈음할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "sentence",
+      "section": "가. 구분 A:",
+      "path": null,
+      "ko_txt": "가) 치료역이 넓고 의약품동등성시험기준의 모든 조건에서 30분 이내에 85% 이상 용출 하고 용출의 동등성이 확인되는 경우(단, 「의약품의 품목허가ㆍ신고ㆍ심사 규정」 제3조의2제7항의 경우에는 제외한다.) 나) 비교용출시험결과가 생물학적동등성시험결과와 상관성이 있다는 사실이 입증된 경 우(예, 생체외—생체내 상관성(IVIVC)) 한약(생약)제제 비교용출시험 사례집  53 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 다) 원료약품 및 그 분량 또는 제조방법(작동원리 및 공정조건 포함)의 변경이 품질에 영향을 미치지 않음을 입증하는 경우 5) 용출시험결과가 생물학적동등성시험결과와 상관성이 있다는 사실이 입증된 경우(예, 생체 외—생체내 상관성(IVIVC)) 등 용출시험으로 생물학적동등성을 입증할 수 있음이 인정 되는 경우 생물학적동등성시험자료를 비교용출시험으로 갈음할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "sentence",
+      "section": "가. 구분 A:",
+      "path": null,
+      "ko_txt": "54  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "sentence",
+      "section": "2.2 비교용출시험",
+      "path": null,
+      "ko_txt": "제3장 비교용출시험 제19조(용출시험방법) 밸리데이션이 되어 있는 분석법으로 별표 5의2 비교용출시험 방 법 또는 이와 동등이상의 용출시험 조건에서 각 대조약 및 시험약은 12개 이상의 검 체에 대해 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "sentence",
+      "section": "2.2 비교용출시험",
+      "path": null,
+      "ko_txt": "다만, 성분제제의 특성상 각 시험액에 대한 시험이 필요없다고 판단되는 경우에는 과학적 근거(예 : 물성관련 문헌․서적 등) 또는 예비시험결과 (검체수 6개 이상)를 시험결과보고서에 첨부하여 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "sentence",
+      "section": "2.2 비교용출시험",
+      "path": null,
+      "ko_txt": "1. · 2. <삭 제> [별표 5의2] [2022.11.10.까지] 비교용출시험 방법 (제19조 관련).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "sentence",
+      "section": "가. 시험시간",
+      "path": null,
+      "ko_txt": "pH 1.2에서는 2시간, 기타 시험액에서는 6시간 동안 측정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "sentence",
+      "section": "가. 시험시간",
+      "path": null,
+      "ko_txt": "다만, 대조약 평균 용출률이 85%를 넘거나 장용성제제를 제외한 기타 경구용제제의 각각 시험액에 서 120분 전·후 연속 세시점의 대조약 평균용출률이 더 이상 변하지 않는(5% 이 내 변화) 시점에서 시험을 종료할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "sentence",
+      "section": "나. 시험조건(표 1)",
+      "path": null,
+      "ko_txt": "1) 장치 : 원칙적으로 대한민국약전 용출시험법 제2법(패들법) 2) 시험액의 양 : 원칙적으로 900 mL 3) 시험액의 온도 : 37 ± 0.5℃ 4) 시험액 : 물, pH1.2, pH4.0(또는 pH4.5), pH6.8 다만, 타당성이 인정되는 경우 다른 완충액을 사용하여 시험할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "1) 시험액은 대한민국약전 또는 식품의약품안전처장이 인정하는 공정서에 수재되 한약(생약)제제 비교용출시험 사례집  55 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 어 있는 완충액 조성을 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "2) 제제 중 주성분의 양이 적은 경우 등 정량분석이 불가능한 경우 시험액의 양 을 줄이거나 검체 2개 이상을 넣어 시험할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "3) 용출구 바닥에 침전물이 형성되어 용출에 영향을 미치는 경우 제2법(패들법) 75 rpm이나 제1법(회전검체통법) 100 rpm으로 시험할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "표 1. 경구용제제(서방성제제 제외) 및 장용성제제에 대한 용출시험조건 1) 수용성 제제 회전수(rpm)주) pH (1) 1.2 50 (2) 4.0 또는 4.5 (3) 6.8 2) 난용성 제제 난용성 제제란 상기 1)중 (1)부터 (3)까지의 모든 시험조건에서 용출시험을 할 때, 규정 된 시험시간 내에 대조약의 평균용출률이 85 % 미만인 제제를 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"회전수(rpm)\", \"pH\"], \"행\": [[\"(1)\", \"1.2\"], [\"(2)\", \"4.0 또는 4.5\"], [\"(3)\", \"6.8\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "(1)부터 (3)까지의 모든 시험액 + 가용화제 첨가주) 주) (1)부터 (3)까지의 시험액 중 대조약의 평균용출률이 가장 높은 시험액에서 회전수를 변경하여 시험하거나, polysorbate 80, 라우릴황산나트륨, 용매 등 가용화제를 적절한 농도로 첨가한 시험액 또는 기준 및 시험방법에 설정된 시험조건으로 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "3) 장용성 제제 회전수(rpm)주) pH (1) 1.2 50 (2) 6.0 (3) 6.8 주) (2)의 시험조건에서 용출시험을 할 때, 규정된 시간 내에 대조약의 평균용출률이 85%미만인 경우에는 (2)의 시험액에서 분당 100회전(100rpm)으로 추가시험을 실시 하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "56  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 4) 난용성의 장용성 제제 난용성의 장용성제제란 상기 3) 중 (2) 및 (3)의 모든 시험조건에서 용출시험을 할 때, 규정된 시험시간 내에 대조약의 평균용출률이 85% 미만인 제제를 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"회전수(rpm)\", \"pH\"], \"행\": [[\"(1)\", \"1.2\"], [\"(2)\", \"6.0\"], [\"(3)\", \"6.8\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "sentence",
+      "section": "다. 시약․시액 등",
+      "path": null,
+      "ko_txt": "(4) (2) 및 (3)의 시험액․가용화제 첨가주) 주) (2) 및 (3)의 시험액에 각각 polysorbate 80, 라우릴황산나트륨, 용매 등 가용화제를 0.1, 0.5, 1.0 w/v% 또는 vol% 등의 농도로 첨가한 시험액 또는 기준 및 시험방법에 설정된 시험조건으로 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "sentence",
+      "section": "가. 시험시간",
+      "path": null,
+      "ko_txt": "시험시간은 통상 pH 1.2액에서는 2시간, 기타 시험액에서는 적어도 24시간 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "sentence",
+      "section": "가. 시험시간",
+      "path": null,
+      "ko_txt": "다 만, 대조약 평균용출률이 85%를 넘는 시점에서 시험을 종료할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "1) 장치 : 원칙적으로 대한민국약전 용출시험법 제1법(회전검체통법) 및 제2법(패들법) 2) 시험액의 양, 시험액의 온도 및 시험액은 별표5의2 제1호제나목에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "3) 기타시험 : 필요시 상기 용출시험 외에 시험약의 특성에 따라 적당한 방출시험 또는 이 를 대신할 수 있는 물리화학적 시험을 수행하고 그 결과를 비교함으로써 대조약과의 의약품동등성을 입증할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "표 2. 서방성 제제에 대한 용출시험 조건 장치 회전수(rpm) pH (1) 1.2 (2) 4.0 또는 4.5 패들법 50 (3) 6.8 (4) 물 (5) (3)의 시험액+가용화제 첨가주) 회전검체통법 100 (1) 6.8 주) (3)의 시험액에서 규정된 시험시간내에 대조약의 평균용출률이 85 %에 도달하지 않은 한약(생약)제제 비교용출시험 사례집  57 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 경우는 (3)의 시험액에 polysorbate 80, 라우릴황산나트륨, 용매 등 가용화제를 0.1, 0.5, 1.0 w/v% 또는 vol% 등의 농도로 첨가한 시험액 또는 기준 및 시험방법에 설정된 시 험조건으로 추가시험을 실시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "[별표 5의2] [2022.11.11.시행] 비교용출시험 방법 (제19조 관련).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "sentence",
+      "section": "가. 시험시간",
+      "path": null,
+      "ko_txt": "pH 1.2에서는 2시간, 기타 시험액에서는 6시간 동안 측정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "sentence",
+      "section": "가. 시험시간",
+      "path": null,
+      "ko_txt": "다만, 대조약 평균용출률 이 85%를 넘거나 각각 시험액에서 120분 전ㆍ후 연속 세시점의 대조약 평균용출률이 더 이상 변하지 않는(5% 이내 변화) 시점에서 시험을 종료할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "sentence",
+      "section": "나. 시험조건(표 1)",
+      "path": null,
+      "ko_txt": "1) 장치 : 원칙적으로 대한민국약전 용출시험법 제2법(패들법)으로 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "sentence",
+      "section": "나. 시험조건(표 1)",
+      "path": null,
+      "ko_txt": "다만 타당성 이 인정되는 경우 다른 장치를 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "sentence",
+      "section": "나. 시험조건(표 1)",
+      "path": null,
+      "ko_txt": "2) 시험액의 양 : 원칙적으로 900 mL 3) 시험액의 온도 : 37 ± 0.5℃ 4) 시험액: <표 1>에 해당하는 시험액. 다만, 타당성이 인정되는 경우 다른 완충액을 사용 하여 시험할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "sentence",
+      "section": "다. 시약ㆍ시액 등",
+      "path": null,
+      "ko_txt": "1) 시험액은 대한민국약전 또는 식품의약품안전처장이 인정하는 공정서에 수재되어 있는 완충액 조성을 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "sentence",
+      "section": "다. 시약ㆍ시액 등",
+      "path": null,
+      "ko_txt": "2) 제제 중 주성분의 양이 적은 경우 등 정량분석이 불가능한 경우 시험액의 양을 줄이거 나 검체 2개 이상을 넣어 시험할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "sentence",
+      "section": "다. 시약ㆍ시액 등",
+      "path": null,
+      "ko_txt": "3) 용출구 바닥에 침전물이 형성되어 용출에 영향을 미치는 경우 등 타당성이 인정되는 경우 장치 및 회전수를 변경하여 시험할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "sentence",
+      "section": "다. 시약ㆍ시액 등",
+      "path": null,
+      "ko_txt": "표 1. 일반 제제(장용성 및 서방성제제 제외)에 대한 용출시험조건 1) 수용성 제제 회전수(rpm) pH (1) 1.2 50 (2) 4.0 또는 4.5 (3) 6.8 58  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 2) 난용성 제제 난용성 제제란 상기 1)중 (1)부터 (3)까지의 모든 시험조건에서 용출시험을 할 때, 규정 된 시험시간 내에 대조약의 평균용출률이 85 % 미만인 제제를 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "sentence",
+      "section": "다. 시약ㆍ시액 등",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"회전수(rpm)\", \"pH\"], \"행\": [[\"(1)\", \"1.2\"], [\"(2)\", \"4.0 또는 4.5\"], [\"(3)\", \"6.8\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "sentence",
+      "section": "다. 시약ㆍ시액 등",
+      "path": null,
+      "ko_txt": "(4) (1)부터 (3)까지의 시험액 중 어느 하나의 시험액 + 가용화제 첨가주) 주) (1)부터 (3)까지의 시험액 중 대조약의 평균용출률이 가장 높은 시험액에서 회전수 를 변경하여 시험하거나, polysorbate 80, 라우릴황산나트륨, 용매 등 가용화제를 적절한 농도로 첨가한 시험액 또는 기준 및 시험방법에 설정된 시험조건으로 실 시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "sentence",
+      "section": "가. 시험시간",
+      "path": null,
+      "ko_txt": "시험시간은 통상 pH 1.2액에서는 2시간, 기타 시험액에서는 장용성제제의 경우 6시간, 서 방성제제의 경우 적어도 24시간 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "sentence",
+      "section": "가. 시험시간",
+      "path": null,
+      "ko_txt": "다만, 대조약 평균용출률이 80%를 넘는 시점 에서 시험을 종료할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "1) 장치 : 원칙적으로 대한민국약전 용출시험법 제1법(회전검체통법) 및 제2법(패들법)으로 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "다만 타당성이 인정되는 경우 다른 장치를 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "2) 시험액의 양, 시험액의 온도 및 시험액은 별표5의2 제1호나목에 따르며, 시험액은 <표 2>에 해당하는 시험액을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "다만, 타당성이 인정되는 경우 다른 완충액을 사용 하여 시험할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "3) 기타시험: 필요시 상기 용출시험 외에 시험약의 특성에 따라 적당한 방출시험 또는 이 를 대신할 수 있는 물리화학적 시험을 수행하고 그 결과를 비교함으로써 대조약과의 의약품동등성을 입증할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "표 2. 장용성 및 서방성 제제에 대한 용출시험 조건 1) 장용성 제제 회전수(rpm)주) pH (1) 1.2 50 (2) 6.0 (3) 6.8 한약(생약)제제 비교용출시험 사례집  59 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 주) (2)의 시험조건에서 용출시험을 할 때, 규정된 시간 내에 대조약의 평균용출률이 80%미만인 경우에는 (2)의 시험액에서 회전수를 변경하여 추가시험을 실시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "2) 난용성의 장용성 제제 난용성의 장용성제제란 상기 1) 중 (2) 및 (3)의 모든 시험조건에서 용출시험을 할 때, 규정된 시험시간 내에 대조약의 평균용출률이 85% 미만인 제제를 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "회전수(rpm) pH (1) 1.2 (2) 6.0 (3) 6.8 (4) (2) 또는 (3)의 시험액 + 가용화제 첨가주) 주) (2) 또는 (3)의 시험액 중 대조약의 평균용출율이 가장 높은 시험액에서 polysorbate 80, 라우릴황산나트륨, 용매 등 가용화제를 적절한 농도로 첨가한 시험액 또는 기준 및 시험방법에 설정된 시험조건으로 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "3) 서방성 제제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"장치 회전수(rpm)\", \"pH\"], \"행\": [[\"(1)\", \"1.2\"], [\"(2)\", \"4.0 또는 4.5\"], [\"(3)\", \"6.8\"], [\"패들법\", \"50\"], [\"(4)\", \"물\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "(5) (1) 부터 (4) 중 어느 하나의 시험액 + 가용화제 첨가주1) 회전검체통법 100 (1)부터 (4) 중 어느 하나의 시험액주2) 주1) (1)부터 (4)까지의 모든 시험액에서 규정된 시간에 대조약의 평균용출률이 80% 미 만인 경우는 (1)부터 (4)까지의 시험액 중 대조약의 평균용출률이 가장 높은 시험액 에 polysorbate 80, 라우릴황산나트륨, 용매 등 가용화제를 적절한 농도로 첨가한 시 험액 또는 기준 및 시험방법에 설정된 시험조건으로 추가시험을 실시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "주2) (1)부터 (4)까지의 시험액 중 대조약의 평균용출률이 가장 높은 시험액에서 회전검 체통법(100rpm)으로 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "sentence",
+      "section": "나. 시험조건(표 2)",
+      "path": null,
+      "ko_txt": "제20조(용출시험결과보고서 작성) 용출시험결과보고서에는 다음 각 호에 따라 그 내용을 작성하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "sentence",
+      "section": "1. 시험개요",
+      "path": null,
+      "ko_txt": "60  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "sentence",
+      "section": "나. 제조(수입)관리자의 성명(위탁시험의 경우에는 이 시험에 참여한 자의 성명,",
+      "path": null,
+      "ko_txt": "직책, 시험경력을 추가로 첨부한다) 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "sentence",
+      "section": "나. 제조(수입)관리자의 성명(위탁시험의 경우에는 이 시험에 참여한 자의 성명,",
+      "path": null,
+      "ko_txt": "시험기관의 명칭, 소재지, 시험에 사용된 분석기기 및 주요설비 등 시설에 관 한 사항.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "sentence",
+      "section": "2. 시험방법",
+      "path": null,
+      "ko_txt": "가. 시험조건의 일람표 : 장치, 교반속도, 시험액의 종류와 양을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "sentence",
+      "section": "2. 시험방법",
+      "path": null,
+      "ko_txt": "다만, 동 시험방법에 예시된 조건과 다른 특정 pH, rpm, 장치, 시험액의 조성, 시험액의 양, 가용화제의 조성 및 선정사유, 검체의 채취 및 희석방법 등을 정한 이유를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "sentence",
+      "section": "2. 시험방법",
+      "path": null,
+      "ko_txt": "나. 용출시험의 밸리데이션 자료 : 분석방법에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 등 밸리데이션 자료, 용출시험 조건 설정의 타당성, 함량 및 용출시험 방법과 분석조건을 별도로 작성(다만, 기준 및 시험방법 설정방법은 면제할 수 있다).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "sentence",
+      "section": "가. 대조약과 시험약의 용출양상의 비교",
+      "path": null,
+      "ko_txt": "1) 용출시험결과(각 용출시험조건에서 대조약과 시험약의 시간에 따른 용출률 측정 치) 및 용출률종합표(별지 제1호 서식, 별지 제2호 서식) 2) 대조약과 시험약의 용출양상의 그래프 시험액마다 대조약과 시험약의 용출곡선(평균용출률 ± 표준편차와 시간)을 1개 의 그래프에 동시 작성(별지 제3호 서식) 나. 시험약 및 대조약의 제조업자 또는 수입자, 제품명, 제조번호, 생산규모, 주성분 의 함량(역가), 실측치(또는 역가) 및 동등성 판정 결과를 기재한 별지 제4호 서식. 다만, 이 고시 제3조제1항제4호가목에 의한 비교용출시험자료는 별지 제5 호 서식 작성 한약(생약)제제 비교용출시험 사례집  61 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 나. 시험약 및 대조약의 제조업자 또는 수입자, 제품명, 제조번호, 생산규모, 주성분의 함량(역가), 실측치(또는 역가) 및 동등성 판정 결과를 기재한 별지 제4호 서식. [2022.11.11.시행].",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "sentence",
+      "section": "나. 시험약 제조에 사용한 주성분의 제조자․제조소(소분의 경우 벌크 제조소 및",
+      "path": null,
+      "ko_txt": "소분포장작업소를 병기한다), 제조번호, 원료시험성적서 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "sentence",
+      "section": "나. 시험약 제조에 사용한 주성분의 제조자․제조소(소분의 경우 벌크 제조소 및",
+      "path": null,
+      "ko_txt": "시험약의 제조공정에 관한 상세자료(제조일자, 원료약품의 투입량, 기준량 등).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "는 제조(수입)관리자가 서명 또는 날인한 원본 1부 제21조(용출양상의 동등성 판정기준) ① 경구용제제(서방성제제 제외)(별지 그림 1-a, 1-b)는 다음 각 호에 따라 평가할 때 적합하면 시험약과 대조약의 용출은 동등한 것 으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "1. 모든 용출시험 조건에 대하여 별표 6의2 용출양상의 동등성 판정기준 제1호에 따라 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "2. 적어도 하나의 용출시험 조건에서 별표 5-2제1호가목의 시험시간 내에 대조약의 평 균용출률이 85%에 도달해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "3. 유사성 인자(f2)로 판정하고자 하는 경우의 용출률 비교시점은 별표 6에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "② 서방성 제제(별지 그림 2)는 다음 각 호에 따라 평가할 때 적합하면 시험약과 대 조약의 용출은 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "1. 모든 용출시험 조건에 대하여 별표 6의2 용출양상의 동등성 판정기준 제2호에 따 라 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "2. 대조약의 평균용출률이 규정된 시간내에 80% 미만인 경우에는 최종 시점에서도 비교한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "62  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 3. 유사성 인자(f2)로 판정하고자 하는 경우의 용출률 비교시점은 별표 6에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "③ 별표 2-1에 의한 원료약품 및 분량 변경(별지 제5호 서식)은 다음 각 호에 따라 평가할 때 적합하면 시험약과 대조약의 용출은 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "1. 별표 6의2 용출양상의 동등성 판정기준 제3호에 따른 평균용출률 및 개별용출률 기준에 따라 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "2. 경구용 제제(서방성 제제 제외) 및 장용성 제제인 경우에는 적어도 하나의 용출시 험 조건하에서 별표 5의2 제1호가목의 시험시간내에 대조약의 평균용출률이 85%에 도달하여아 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "3. 대조약의 용출에 래그(lag)가 보이고 대조약 및 시험약의 평균 용출 래그 시간(lag time, 용출이 지연되는 경우, 주성분의 5%가 용출할 때까지의 시간을 말하며 시험약 및 대조약의 평균용출률이 5% 부근인 두 시점에서 내삽법으로 구한다.) 차이가 10분 이내인 경우에는 용출 곡선을 래그 시간으로 수정보완할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "4. 유사성 인자(f2)로 판정하고자 하는 경우의 용출률 비교시점은 별표 6에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "④ 제3항에도 불구하고 서방성 제제가 별표 2의1에 의한 원료약품 및 분량 변경(별 지 제5호 서식)인 경우에는 제3항의 평균용출률 및 개별용출률을 80%로 적용한 기준 에 적합할 때 시험약과 대조약의 용출은 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "제21조(용출양상의 동등성 판정기준) ① 일반제제(장용성 및 서방성제제 제외)(별지 그림 1)는 다음 각 호에 따라 평가할 때 적합하면 시험약과 대조약의 용출은 동 등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "1. 모든 용출시험 조건에 대하여 별표 6 유사성 인자와 용출양상의 동등성 판정기 준에 따라 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 391,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "2. 적어도 하나의 용출시험 조건에서 별표 5의2 제1호가목의 시험시간 내에 대조약 의 평균 용출률이 85%에 도달해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 392,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "3. 유사성 인자(f2)와 용출률 비교시점은 별표 6에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 393,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "② 장용성 및 서방성 제제(별지 그림 2)는 다음 각 호에 따라 평가할 때 적합하면 한약(생약)제제 비교용출시험 사례집  63 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 시험약과 대조약의 용출은 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 394,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "1. 모든 용출시험 조건에 대하여 별표 6 유사성 인자와 용출양상의 동등성 판정기 준에 따라 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 395,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "2. <삭제> 3. 유사성 인자(f2)와 용출률 비교시점은 별표 6에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 396,
+      "type": "sentence",
+      "section": "라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또",
+      "path": null,
+      "ko_txt": "③ <삭제> [2022.11.11.시행] [별표 6의2] [2022.11.10.까지] [2022.11.11.삭제] 용출양상의 동등성 판정기준 (제21조 관련).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 397,
+      "type": "sentence",
+      "section": "가. 대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우",
+      "path": null,
+      "ko_txt": "1) 대조약의 용출에 명확한 래그(lag)가 보이지 않는 경우 가) 대조약의 평균용출률이 15분 이내에 85%에 도달하는 경우 : 시험약의 평균용 출률도 15분 이내에 85%에 도달하거나, 또는 대조약의 평균용출률이 85% 부근 인 시점에서의 시험약의 평균용출률이 대조약 평균용출률의 ±15% 이내(즉, 85% 인 경우 70∼100%)이면 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 398,
+      "type": "sentence",
+      "section": "가. 대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우",
+      "path": null,
+      "ko_txt": "나) 대조약의 평균용출률이 15∼30분 사이에 85%에 도달하는 경우 : 대조약의 평 균용출률이 60%, 85% 부근인 두 시점에서 시험약의 평균용출률이 대조약 평균 용출률의 ±15% 이내 또는 유사성 인자(f2)의 값이 50 이상이면 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 399,
+      "type": "sentence",
+      "section": "가. 대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우",
+      "path": null,
+      "ko_txt": "다) 기타의 경우 : 대조약의 평균용출률이 40%, 85% 부근인 두 시점에서 시험약의 평균용출률이 대조약 평균용출률의 ±15% 이내 또는 유사성 인자(f2)의 값이 50 이상이면 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 400,
+      "type": "sentence",
+      "section": "가. 대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우",
+      "path": null,
+      "ko_txt": "2) 대조약의 용출에 래그가 보이는 경우 64  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 가) 래그시간후15분이내에대조약의평균용출률이85% 이상인경우: 평균용 출래그시간의차이가10분이내이고, 용출래그시간이후시험약의평균용 출률도15분이내에85%에도달하거나, 또는대조약의평균용출률이85% 부근 인시점에서시험약의평균용출률이대조약평균용출률의±15% 이내이면동등 한것으로판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 401,
+      "type": "sentence",
+      "section": "가. 대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우",
+      "path": null,
+      "ko_txt": "나) 래그시간후15분내지30분이내에대조약의평균용출률이85% 이상인경우 : 평균용출래그시간의차이가10분이내이고, 대조약의평균용출률이60%, 85% 부근인두시점에서시험약의평균용출률이대조약평균용출률의±15% 이내또는유사성인자(f2)의값이50 이상이면동등한것으로판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 402,
+      "type": "sentence",
+      "section": "가. 대조약의 평균용출률이 규정된 시험시간 내에 85%에 도달하는 경우",
+      "path": null,
+      "ko_txt": "다) 기타의경우: 대조약의평균용출률이40%, 85% 부근인적당한두시점에서 시험약의평균용출률이대조약평균용출률의±15% 이내또는유사성인자(f2) 의값이50 이상이면동등한것으로판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 403,
+      "type": "sentence",
+      "section": "나. 대조약의평균용출률이규정된시험시간내에85% 미만인경우",
+      "path": null,
+      "ko_txt": "1) 대조약의 평균 용출률이 규정된 시간 내에 용출률의 약 1/2 부근인 시점 및 규정된 시간에서 시험약의 평균 용출률이 대조약의 평균 용출률 ± A% 이내이면 동등한 것으로 판정한다(다만, 최종 용출률을 비교하는 시점에서 대조약의 평균 용출률이 50% 이상일 경우에는 A=15, 50% 미만일 경우에는 A=8로 한다). 2) 또는 유사성 인자(f2)의 값은 용출률이 50% 이상인 경우에는 50 이상, 50% 미만인 경우에는 55 이상일 때 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 404,
+      "type": "sentence",
+      "section": "가. 대조약의평균용출률이30, 50, 80% 부근의세시점에서두제제간의평균용출률",
+      "path": null,
+      "ko_txt": "차이를비교할때, 시험약의평균용출률이대조약평균용출률의±10% 이내일 경 우, 두제제의용출은동등하다고판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 405,
+      "type": "sentence",
+      "section": "나. 유사성인자(f2)로판정하고자하는경우의용출률비교시점은별표6에의한다.",
+      "path": null,
+      "ko_txt": "유사성인자(f2)의값은대조약이규정된시간내에평균용출률이 80% 이상인경 우에는40 이상, 대조약이규정된시간내에평균용출률이50% 이상80% 미만인 경우에는50 이상, 대조약이규정된시간내평균용출률이50% 미만인경우에는 55 이상이면동등한것으로판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 406,
+      "type": "sentence",
+      "section": "나. 유사성인자(f2)로판정하고자하는경우의용출률비교시점은별표6에의한다.",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  65 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 407,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "1) 대조약이15분이내에평균85%이상용출하는경우: 시험약이15분이내에평 균85% 이상용출하거나시험약의15분간평균용출률이대조약의평균용출률의 ±10% 이내이면동등한것으로판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 408,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "2) 대조약이15∼30분에평균85% 이상용출하는경우: 대조약의평균용출률이약.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 409,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "60% 및 85%인 두 시점에서 시험약의 평균용출률이 대조약의 평균용출률이.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 410,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "±10% 이내이면 동등한 것으로 판정한다 또는 유사성 인자(f2)의 값이 50 이상이면 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 411,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "3) 대조약이 30분 이내에 평균 85% 이상 용출되지 않는 경우: 별표 5의 2의 시험시간에서 다음 각 호 중 하나에 적합할 경우 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 412,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "이 경우, 평균 용출률의 비교 시점은 별표 5의 2에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 413,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "가) 대조약의 평균 용출률이 50% 미만일 때 시험약의 평균 용출률이 대조약의 평균 용출률의 ±6% 이내이다 또는 유사성 인자(f2)의 값이 60 이상이면 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 414,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "나) 대조약의 평균 용출률이 50% 이상이며 85% 미만일 때 시험약의 평균 용출률이 대조약의 평균 용출률의 ±8% 이내이다 또는 유사성 인자(f2)의 값이 55 이상이면 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 415,
+      "type": "sentence",
+      "section": "가. 평균용출률",
+      "path": null,
+      "ko_txt": "다) 대조약의 평균 용출률이 85% 이상일 때 시험약의 평균 용출률이 대조약의 평균 용출률의 ±10% 이내이다 또는 유사성 인자(f2)의 값이 50 이상이면 동등한 것으로 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 416,
+      "type": "sentence",
+      "section": "나. 개별용출률",
+      "path": null,
+      "ko_txt": "1) 최종비교시점에서시험약의개별용출률이다음각호중하나에적합할경우동 등한것으로판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 417,
+      "type": "sentence",
+      "section": "나. 개별용출률",
+      "path": null,
+      "ko_txt": "가) 대조약의평균용출률이50% 미만일때시험약의평균용출률±9% 범위를초 과하는것이12개중1개이하로±15% 범위를넘는것이없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 418,
+      "type": "sentence",
+      "section": "나. 개별용출률",
+      "path": null,
+      "ko_txt": "나) 대조약의평균용출률이50% 이상이며85% 미만일때시험약의평균용출률 ±12% 범위를초과하는것이12개중1개이하로±20% 범위를넘는것이없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 419,
+      "type": "sentence",
+      "section": "나. 개별용출률",
+      "path": null,
+      "ko_txt": "66  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항 다) 대조약의 평균용출률이 85% 이상일 때 시험약의 평균용출률 ±15% 범위를 초 과하는 것이 12개 중 1개 이하로 ±25% 범위를 넘는 것이 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 420,
+      "type": "sentence",
+      "section": "나. 개별용출률",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  67 Ⅲ 한약(생약)제제 비교용출시험 시 고려사항.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 421,
+      "type": "sentence",
+      "section": "2.3 비교붕해시험",
+      "path": null,
+      "ko_txt": "제4장 비교붕해시험 제22조(비교붕해시험 실시대상) 비교용출시험이 제제의 특성상 불가능한 경우(예 : 생 약제제, 효소제제, 유산균제제, 좌제)에는 비교붕해시험을 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 422,
+      "type": "sentence",
+      "section": "2.3 비교붕해시험",
+      "path": null,
+      "ko_txt": "다만 예비시험결 과 등 과학적인 근거에 의하여 불가능한 사유를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 423,
+      "type": "sentence",
+      "section": "2.3 비교붕해시험",
+      "path": null,
+      "ko_txt": "제23조(붕해시험방법) 대조약 및 시험약 검체 각 12개(좌제의 경우 6개)에 대하여 대한 민국약전 붕해시험법, 식품의약품안전처장이 인정하는 공정서의 붕해시험법 또는 대 조약의 기준 및 시험방법중 붕해시험법에 따라 시험하여 5분 간격으로 붕해된 갯수 를 기재하며, 대조약과 시험약이 완전히 붕해될 때까지 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 424,
+      "type": "sentence",
+      "section": "2.3 비교붕해시험",
+      "path": null,
+      "ko_txt": "제24조(붕해의 동등성 판정기준) 대조약 검체 12개(좌제의 경우 6개)가 완전히 붕해된 시간과 시험약 검체 12개(좌제의 경우 6개)가 완전히 붕해된 시간을 비교할 때 서 로 5분 이내이면 동등하다고 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 425,
+      "type": "sentence",
+      "section": "2.3 비교붕해시험",
+      "path": null,
+      "ko_txt": "[예 : 대조약이 25분에 12개(좌제의 경우 6개)가 검체의 잔류물이 없거나 분명하게 원형을 나타내지 않는 연질의 물질일 때 또는 불용성 제피 또는 캡슐피막의 단편일 때 시험약이 20분이나 30분에 12개(좌제의 경우 6개)가 녹으면 동등] 제25조(붕해시험결과보고서의 작성) 붕해시험결과보고서에는 다음 각 호에 따라 그 내 용을 작성하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 426,
+      "type": "sentence",
+      "section": "가. 시험제목, 시험목적, 시험기간 및 시험결과의 요약",
+      "path": null,
+      "ko_txt": "나. 제조(수입)관리자의 성명(위탁시험의 경우에는 이 시험에 참여한 자의 성명, 직책, 시험경력을 추가로 첨부한다) 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 427,
+      "type": "sentence",
+      "section": "가. 시험제목, 시험목적, 시험기간 및 시험결과의 요약",
+      "path": null,
+      "ko_txt": "시험기관의 명칭, 소재지, 시험에 사용된 분석기기 및 주요설비 등 시설에 관한 사항 68  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION Ⅲ 한약(생약)제제 비교용출시험 시 고려사항.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 428,
+      "type": "sentence",
+      "section": "3. 시험결과",
+      "path": null,
+      "ko_txt": "가. 시험약 및 대조약의 제조업자 또는 수입자, 제품명, 제조번호, 생산규모, 주성분의 함량(역가), 실측치(또는 역가) 및 동등성 판정 결과를 기재한 별지 제6호 서식 가. 시험약 및 대조약의 제조업자 또는 수입자, 제품명, 제조번호, 생산규모, 주성분의 함량(역가), 실측치(또는 역가) 및 동등성 판정 결과를 기재한 별지 제5호 서식 [2022.11.11.시행].",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 429,
+      "type": "sentence",
+      "section": "가. 품질관리시험성적서(대조약은 함량 또는 역가시험에 한한다)",
+      "path": null,
+      "ko_txt": "나. 시험약 제조에 사용한 주성분의 제조자․제조소(소분의 경우 벌크 제조소 및 소분 포장작업소를 병기한다), 제조번호, 원료시험성적서 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 430,
+      "type": "sentence",
+      "section": "가. 품질관리시험성적서(대조약은 함량 또는 역가시험에 한한다)",
+      "path": null,
+      "ko_txt": "시험약의 제조공정에 관한 상세자료(제조일자, 원료약품의 투입량, 기준량 등) 라. 기타 : 시험실시 년․월․일․시간이 기재되고 각 시험결과에 시험책임자 또는 제 조(수입)관리자가 서명 또는 날인한 원본 1부 한약(생약)제제 비교용출시험 사례집  69.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 431,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "[별지 제1호서식] [2022.11.10.까지] 용출시험조건에서 대조약과 시험약의 시간에 따른 용출시험결과 제제종류 유효성분명 판매명 제형 함량 용출액 회전수 계면활성제 분석법 분석법근거 시험장치 시험액량 온도 비고 롯트번호 용 출 률(%) (제조년월일) 시험조 5분 10분 15분 30분 45분 60분 90분 120분 180분 240분 300분 360분.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 432,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "70  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION 210㎜×297㎜[일반용지 60g/㎡(재활용품)] <기재상의 주의> 1. 제제종류란 : 수용성, 난용성, 장용성, 서방성 등으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 433,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "2. 제형란 : 구체적으로 「나정」,「당의정」,「필름코팅정」등으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 434,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "3. 롯트번호(제조년월일)란 : 시험약 및 대조약의 롯트번호 및 괄호로 제조년월일을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 435,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "4. 용출률자료 : 표시량에 대한 용출률을 사사오입하여 소수점 이하 1자리까지 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 436,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "또한 규정시간 내에 용출률이 85%이상에 도달한 경우에 대하여는 대조약의 평균용출률이 85 %를 넘거나 장용성제제를 제외한 기타 경구용제제의 각각 시험액에서 120분 전후 연속 세 시점의 대조약 평균용출률이 더 이상 변하지 않는(5%이내 변화) 시점에서 시험을 종료하여도 좋다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 437,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "5. 용출률 측정시간 : 서방성 제제의 경우, 15분, 30분, 60분, 90분, 2시간, 3시간, 5시간, 6시간, 8시간, 10시간, 12시간, 24시간으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 438,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  71 [별지 제1호서식] [2022.11.11.시행] 용출시험조건에서 대조약과 시험약의 시간에 따른 용출시험결과 제제종류 유효성분명 제품명 제형 함량 용출액 회전수 계면활성제 분석법 분석법근거.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 439,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "시험장치 시험액량 온도 비고 용 출 률(%) 롯트번호 15분(또는.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 440,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "(제조년월일) 시험조 10분 30분 45분 60분 90분 120분 180분 240분 300분 360분.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 441,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"시험약\", \"로트번호\", \"제조년월일\", \"평균±표준편차\", \"대조약\", \"로트번호\", \"제조년월일\", \"평균±표준편차\", \"시험실시일\", \"시험실시자\", \"회사명\"], \"행\": [[\"\", \"3\", \"4\", \"\", \"\", \"3\", \"4\", \"\", \"\", \"\"], [\"\", \"3\", \"4\", \"\", \"\", \"3\", \"4\", \"\", \"\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 442,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "72  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION 210㎜×297㎜[일반용지 60g/㎡(재활용품)] <기재상의 주의> 1. 제제종류란 : [별표 5의2] , <표 1> 또는 <표 2>에 따라 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 443,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "2. 제형란 : 구체적으로 「나정」,「당의정」,「필름코팅정」등으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 444,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "3. 로트번호(제조년월일)란 : 시험약 및 대조약의 로트번호 및 괄호로 제조년월일을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 445,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "4. 용출률자료 : 표시량에 대한 용출률을 사사오입하여 소수점 이하 1자리까지 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 446,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "또한 규정시간 내에 용출률이 85%(장용성 및 서방성제제의 경우 80%)이상에 도달한 경우에 대하여는 대조약의 평균용출률이 85 %(장용성 및 서방성제제의 경우 80%)를 넘거나 일반제제의 각각 시험액에서 120분 전후 연속 세 시점의 대조약 평균용출률이 더 이상 변하지 않는(5%이내 변화) 시점에서 시험을 종료하여도 좋다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 447,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "5. 용출률 측정시간 : 서방성 제제의 경우, 15분, 30분, 60분, 90분, 2시간, 3시간, 5시간, 6시간, 8시간, 10시간, 12시간, 24시간으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 448,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "6. 타당성이 인정되는 경우 제제의 용출양상을 반영할 수 있는 용출률 측정시간으로 변경할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 449,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  73 [별지 제2호서식] [2022.11.10.까지] 용출률종합표 제제종류 유효성분명 판매명 제형 함량 용출액 회전수 계면활성제 분석법 분석법근거 시험장치 시험액량 온도 비고 평 균 용 출 률(%) (평균 ± 표준편차) 시험액 시험군 5분 10분 15분 30분 45분 60분 90분 120분 180분 240분 300분 360분.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 450,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "시험약 pH 1.2 대조약 시험약 pH 4.0 대조약 시험약 pH 6.8 대조약 시험약 물 대조약 시험약 pH 1.2+PSB80 대조약 시험약 pH 4.0+PSB80 대조약 시험약 pH 6.8+PSB80 대조약 시험약 물+PSB80 대조약 pH 6.8 시험약.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 451,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "(제1법, 100rpm) 대조약 시험약 * 대조약 시험실시일 시험실시자 회사명 결과 210㎜×297㎜[일반용지 60g/㎡(재활용품)] 74  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION <기재상의 주의> 1. 제제종류란 : 수용성, 난용성, 장용성, 서방성 등으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 452,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "2. 제형란 : 구체적으로 「나정」,「당의정」,「필름코팅정」등으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 453,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "3. 롯트번호(제조년월일)란 : 시험약 및 대조약의 롯트번호 및 괄호로 제조년월일을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 454,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "4. 용출률자료 : 표시량에 대한 용출률을 사사오입하여 소수점 이하 1자리까지 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 455,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "또한 규정시간 내에 용출률이 85%이상에 도달한 경우에 대하여는 대조약의 평균용출률이 85 %를 넘거나 장용성제제를 제외한 기타 경구용제제의 각각 시험액에서 120분 전후 연속 세 시점의 대조약 평균용출률이 더 이상 변하지 않는(5%이내 변화) 시점에서 시험을 종료하여도 좋다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 456,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "5. 장용성 제제의 경우 pH 4.0란을 pH 6.0으로 수정하고 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 457,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "6. 서방성 제제의 경우 시험장치 및 회전수 란에 두가지 방법 모두를 기재하며 용출률 측정시간은 15분, 30분, 60분, 90분, 2시간, 3시간, 5시간, 6시간, 8시간, 10시간, 12시간, 24시간으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 458,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "* : 가용화제 추가한 시험 또는 기준 및 시험방법에 의한 시험액 한약(생약)제제 비교용출시험 사례집  75 [별지 제2호서식] [2022.11.11.시행] 용출률종합표 제제종류 유효성분명 제품명 제형 함량 용출액 회전수 계면활성제 분석법 분석법근거 시험장치 시험액량 온도 비고 평 균 용 출 률(%) (평균 ± 표준편차) 시험액 시험군 15분 10분 30분 45분 60분 90분 120분 180분 240분 300분 360분.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 459,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"시험약\", \"대조약\"], \"행\": [[\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"], [\"시험약\", \"대조약\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 460,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "시험실시일 시험실시자 회사명 결과 76  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION 210㎜×297㎜[일반용지 60g/㎡(재활용품)] <기재상의 주의> 1. 제제종류란 : [별표 5의2] , <표 1> 또는 <표 2>에 따라 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 461,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "2. 제형란 : 구체적으로 「나정」,「당의정」,「필름코팅정」등으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 462,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "3. 로트번호(제조년월일)란 : 시험약 및 대조약의 로트번호 및 괄호로 제조년월일을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 463,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "4. 용출률자료 : 표시량에 대한 용출률을 사사오입하여 소수점 이하 1자리까지 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 464,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "또한 규정시간 내에 용출률이 85%(장용성 및 서방성제제의 경우 80%)이상에 도달한 경우에 대하여는 대조약의 평균용출률이 85 %(장용성 및 서방성제제의 경우 80%)를 넘거나 일반제제의 각각 시험액에서 120분 전 후 연속 세 시점의 대조약 평균용출률이 더 이상 변하지 않는(5%이내 변화) 시점에서 시험을 종료하여도 좋다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 465,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "5. 시험액 : [별표 5의2] , <표 1> 또는 <표 2>에 따른 시험액 종류를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 466,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "6. 서방성 제제의 경우 용출률 측정시간은 15분, 30분, 60분, 90분, 2시간, 3시간, 5시간, 6시간, 8시간, 10시간, 12시간, 24시간으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 467,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "7. 타당성이 인정되는 경우 제제의 용출양상을 반영할 수 있는 용출률 측정시간으로 변경할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 468,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  77 [별지 제3호서식] [2022.11.10.까지] 용출시험결과 그래프작성양식[경구용제제] 297mm.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 469,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "용출률 0 (%) 10mm 25mm 20mm 210mm ～ ～ ノノ.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 470,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "55 180 240 300 360 (분) 30mm 시험액채취시간 78  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION <기재상의 주의> 1. 용출시험을 한 롯트의 평균용출률의 용출거동을 그린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 471,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "(각 용출시간마다의 간격을 20mm로 한다.) 2. 기타의 신청자와의 자료 비교를 위하여 상하좌우의 마진 및 시험액 채취시간 및 용출률의 눈금간격을 엄수한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 472,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "3. 용출액 마다 작성할 것. 4. 서방성 제제의 경우 용출률 측정시간은 15분, 30분, 60분, 90분, 2시간, 3시간, 5시간, 6시간, 8시간, 10시간, 12시간, 24시간으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 473,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  79 [별지 제3호서식] [2022.11.11.시행] 용출시험결과 그래프작성양식 297mm.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 474,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "용출률 0 (%) 10mm 25mm 20mm 210mm ～ ～ ノノ.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 475,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "55 180 240 300 360 (분) 30mm 시험액채취시간 80  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION <기재상의 주의> 1. 용출시험을 한 롯트의 평균용출률의 용출거동을 그린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 476,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "(각 용출시간마다의 간격을 20mm로 한다.) 2. 기타의 신청자와의 자료 비교를 위하여 상하좌우의 마진 및 시험액 채취시간 및 용출률의 눈금간격을 엄수한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 477,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "3. 용출액 마다 작성할 것. 4. 서방성 제제의 경우 용출률 측정시간은 15분, 30분, 60분, 90분, 2시간, 3시간, 5시간, 6시간, 8시간, 10시간, 12시간, 24시간으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 478,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "5. 타당성이 인정되는 경우 제제의 용출양상을 반영할 수 있는 용출률 측정시간을 변경할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 479,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "한약(생약)제제 비교용출시험 사례집  81.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 480,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"비교용출시험보고서평가서\", \"열\": [\"제조회사\", \"제품명(성분명)\", \"제조번호\", \"제조일자\", \"Lot 크기\", \"평균함량(%)\", \"대조약\", \"시험약\", \"주성분명\", \"주성분표시량\", \"시험기관\", \"시험책임자\", \"시험장치\", \"회전수\", \"검체수\", \"양(mL)\", \"온도(℃)\", \"기타\", \"시험방법\", \"근거\", \"분석법\", \"용출시험\", \"용출률계산\", \"첨가제중방해인자\", \"제제종류\", \"제형특성\", \"Lag time\", \"대조약의 평균용출률\", \"판정시점\", \"비교시점1\", \"비교시점2\", \"용출액\", \"최종시험 시간(분)\", \"판정\", \"용출률\", \"대조약\", \"시험약\", \"85% 도달 시간(분)\", \"pH 1.2\", \"pH 4.0\", \"pH 6.8\", \"물\", \"pH 1.2 + PSB\", \"pH 4.0 + PSB\", \"pH 6.8 + PSB\", \"물+ PSB\", \"종합의견\", \"참고사항\"], \"행\": [], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 481,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "210㎜×297㎜ [인쇄용지 60g/㎡ (재활용품)] (1) : mean ± S.D. (2) : 시험 조건, 검출기, 파장 등 기재 (3) : 각 pH 별 특이성/직선성/정확성/정밀성/정량한계 등 기재 (4) : 검량선 사용 또는 표준액과 비교 등 용출률 계산 방법 기재 (5) : 수용성, 난용성 등 기재 (6) : 필름 코팅 정, 나정 등 기재 82  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION [별지 제4호 서식] [2022.11.11. 시행] 비교 용출 시험 보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 생산 규모 함량(%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 482,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"주성분명\", \"주성분 표시량\", \"시험기관\", \"시험책임자\"], \"행\": [[\"대조약\", \"\", \"\", \"\"], [\"시험약\", \"\", \"\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 483,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "시험장치 회전수 검체수 양 (mL) 온도 (℃) 기타 시험방법 제2법(패들법 50 rpm 12 900 37.0± 0.5.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 484,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "함량시험 (1) 근거 분석법 용출시험 (1) 근거 분석법 검증 (2).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 485,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "용출률 계산 (3) 첨가제중 방해인자 제제종류 (4) 제형특성 (5) 동등성판정방법 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 (7) 평균용출률 일반 10분 15분 30분 45분 60분 90분 120분 180분 240분 300분 360분 f2값 용출액 85% 도달 (6) 10시 12시 24시 시간(분) 장용‧서방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 판정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 486,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "간 간 간 대조약(R) CV pH 1.2 시험약(T) CV /R-T/ (8) 대조약(R) CV pH 4.0 시험약(T) CV /R-T/ 대조약(R) CV pH 6.8 시험약(T) CV /R-T/.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 487,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "/R-T/ 종합의견 ※ 참고사항 210㎜×297㎜[인쇄용지60g/㎡(재활용품)] 한약(생약)제제 비교용출시험 사례집  83 (1) : 시험조건, 검출기, 파장 등 기재 (2) : 각 pH별 특이성/직선성/정확성/정밀성/정량한계 등 기재 (3) : 검량선사용 또는 표준액과 비교 등 용출률 계산방법 기재 (4) : [별표 5의2] <표 1> 또는 <표 2>에 따라 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 488,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "(5) : 필름코팅정, 나정 등 기재 (6) : 비교용출시험에 사용한 용출액의 종류 기재 (7) : 유사성인자 산출에 적용한 비교시점에서의 평균용출률 기재(유사성인자 산출에 적용한 모든 비교 시점 기재) (8) : 장용성 및 서방성제제에 한하여 대조약과 시험약의 평균용출률의 차이를 기재 84  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION [별지 제5호서식] [2022.11.10.까지] [2022.11.11.삭제] 비교용출시험보고서 평가서 (원료약품 분량 변경시) 제조회사 제품명(성분명) 제조번호 제조일자 Lot 크기 평균함량(%) 대조약 (1) 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 온도 (℃) 기타 시험방법 제2법 (패들법) 50 rpm 12 900 37.0± 0.5.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 489,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "함량시험 (2) 근거 분석법 용출시험 (2) 근거 분석법 검증 (3).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 490,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "용출률 계산 (4) 첨가제중 방해인자 제제종류 (5) 제형특성 (6) Lag time 시험결과 평 균 용 출 률 (%) 대조약의 판정시점 비교시점 1 비교시점 2 최종시험 평균용출률 용출액 판정 시간 (분) 85%도달 용출률 분 대조약 시험약 대조약 시험약.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 491,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"시간(분)\", \"pH 1.2\", \"pH 4.0\", \"pH 6.8\", \"물\"], \"행\": [[]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 492,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "시험결과 개 별 용 출 률 (%) 대조약 평균용출률(%) 시험약 시험약 개별 용 출 액 평균용출률 ± 15% 판 정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 493,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "평균용출률 용출률범위 85%이상시점 초과개수 pH 1.2 pH 4.0 Water pH 6.8 종합의견.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 494,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "※ 참고사항 붙임 1. 원료약품분량변경수준 계산 및 기타 변경사항 210㎜×297㎜[인쇄용지60g/㎡(재활용품)] (1) : mean±S.D. (2) : 시험조건, 검출기, 파장 등 기재 (3) : 각 pH별 특이성/직선성/정확성/정밀성/정량한계 등 기재 (4) : 검량선사용 또는 표준액과 비교 등 용출률 계산방법 기재 (5) : 수용성, 난용성 등 기재 (6) : 필름코팅정, 나정 등 기재 한약(생약)제제 비교용출시험 사례집  85 [별지 제6호서식] [2022.11.10.까지] 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 Lot 크기 평균함량 대조약 (1) 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 온도 (℃) 보조판 사용 시험방법 붕해시험법 12 37.0± 0.5.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 495,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "함량시험법 (2) 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 496,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "대조약의 기준 및 시험방법 (3).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 497,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "시험결과 시험액 판정기준 판정 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 498,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "붕해시간이 5분 이내일 것 대한민국약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 종합의견 ※ 참고사항 210㎜×297㎜[인쇄용지60g/㎡(재활용품)] (1) : mean±S.D. (2) : 시험조건, 검출기, 파장 등 기재 (3) : 시험조건, 시험액, 판정 등 기재 86  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION [별지 제5호서식] [2022.11.11.시행] 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 Lot 크기 평균함량 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 온도 (℃) 보조판 사용 시험방법 붕해시험법 12 37.0± 0.5.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 499,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "함량시험법 (1) 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 500,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "대조약의 기준 및 시험방법 (2).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 501,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "시험결과 시험액 판정기준 판정 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 502,
+      "type": "sentence",
+      "section": "2.4 결과보고서 작성양식",
+      "path": null,
+      "ko_txt": "붕해시간이 5분 이내일 것 대한민국약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 종합의견 ※ 참고사항 210㎜×297㎜[인쇄용지60g/㎡(재활용품)] (1) : 시험조건, 검출기, 파장 등 기재 (2) : 시험조건, 시험액, 판정 등 기재 한약(생약)제제 비교용출시험 사례집  87 한약(생약)제제 비교용출시험 사례집 (민원인 안내서) 발 행 일 2022년 5월 17일 발 행 인 식품의약품안전평가원장 서경원 편 집 위 원 장 바이오생약심사부장 박인숙 편 집 위 원 강인호, 백옥진, 박성환, 이재준, 이태웅, 김현미, 김난영, 이가영, 최은영, 전미나 발 행 처 식품의약품안전평가원 바이오생약심사부 생약제제과 88  NATIONAL INSTITUTE OF FOOD AND DRUG SAFETY EVALUATION.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

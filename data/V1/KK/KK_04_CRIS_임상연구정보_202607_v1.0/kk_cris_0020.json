@@ -1,0 +1,379 @@
+{
+  "document_id": "kk_cris_0020",
+  "meta": {
+    "set": "KK",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000021",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=1368",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": "Udenafil 정제를 내시경역행담췌관조영술(ERCP) 검사 2시간 전에 경구 투여하여 췌장염 예방에 대한 Udenafil 정제의 유효성 및 안전성을 평가하고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": "내시경역행담췌관조영술 후 췌장염 예방에 있어 Udenafil의 효과 : 다기관 무작위배정 이중맹검 위약대조 연구자임상시험",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": "순천향대학교병원 임상연구심사위원회",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": "천영국· 의사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": "교수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": "건국대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": "천영국· 의사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": "교수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": "건국대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": "천영국· 의사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": "교수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": "건국대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": "순천향대학교 부속 서울병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": "중앙대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": "중앙대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": "동아제약(주)",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": "순천향대학교 부속 서울병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "췌장염은 내시경역행담췌관조영술 (endoscopic retrograde cholangiopancreatography, ERCP)의 주요한 합병증의 하나이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "최근의 보고에 의하면 ERCP 후에 발생하는 췌장염은 1%에서 20%까지 보고 되고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "그러나 0.3에서 0.6%에서 중증의 췌장염이 발생 할 수 있고 이 중에서 0.03%정도에서는 사망하는 경우도 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "ERCP후 췌장염이 발생 원인의 여러 가설 중 담관내로의 선택적 삽관이 잘 이루어지지 않아 유두부 손상을 주게 되고 이로 인한 부종 등으로 인해 췌관 입구의 폐쇄가 일어나게 되고 췌액의 흐름이 원할히 이루어지지 않게 되어 췌장염의 가장 중요한 원인으로 생각되어 지고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "이런 기전으로 인한 췌장염의 발생이 ERCP수기와 관련한 주요 인자로서 유두부의 이완을 유도하여 담관내로의 선택적 삽관을 유도하고 유두부 입구의 이완을 유지 함으로써 시술 후 발생하는 췌장염의 빈도를 줄일 수 있을 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "Phosphodiesterase type 5 (PDE5) 억제제는 발기부전 환자에서 사용되고 있는 약제로서 PDE5 억제제는 PDE5에 의해 평활근내에 산화질소에 의해 생성된 cGMP 가수분해를 억제함으로써 세포내 칼슘농도를 떨어지게 하여 평활근의 이완을 유발한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "실제 PDE5 억제제 중에 하나인 sildenafil을 이용한 연구에서 sildenafil의 투여가 식도체부의 수축력을 감소 시켰다는 보고가 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "그러나 PDE5 억제제 중에 좀더 최근에 개발된 vardenafil은 PDE5의 억제정도가 sildenafil에 비해 10배정도 강한 것으로 알려져 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "본 교실의 연구에서 건강자원자에서 vardenafil을 투여하였을 때 식도 연동운동은 isosorbide dinitrate에 비해 현저하게 감소 되었고, 하부식도 괄약근압은 현저히 감소 시킴으로써 보다 강력한 평활근 이완 효과를 확인한 바 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "이런 이론적 근거를 배경으로 vardenafil을 투여하여 효과적인 오디조임근의 이완정도를 biliary manometry를 이용하여 객관적으로 관찰하고자 오디조임근 부전증이 의심되는 환자에서 vardenafil 투여 전후로 조임근 압력 검사를 시행하여 효과적으로 vardenafil투여 후 조임근의 압력이 의미있게 감압되는 것을 관찰하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "이와 같이 PDE5 억제제 중의 하나인 Udenafil을 이용하여 오디 조임근의 압력을 감소 시킴으로써 담관으로의 성공적인 삽관율을 높이고 ERCP후 발생할 수 있는 췌장염을 효과적으로 감소시킬 수 있을 것으로 기대 된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "Udenafil 100mg을 시술 2시간 전 1회 복용",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": "투약군",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_상세내용",
+      "path": null,
+      "ko_txt": "자이데나 100 mg을 시술 전 1회 경구로 토여",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_군명",
+      "path": null,
+      "ko_txt": "위약군",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_상세내용",
+      "path": null,
+      "ko_txt": "자이데나 100mg와 동일한 모양의 위약을 시술전 1회 경구로 복용",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": "1) 20세 이상 80세 이하의 성인 남녀 2) 진단 또는 치료 목적으로 내시경역행담췌관조영술이 필요한 경우 3) 기본적인 진찰 및 검사상 심폐기능에 특이 이상이 없어 내시경 역행담췌관조영술을 시행받는데 특별한 문제가 없는 경우 4) Udenafil 복용으로 인해 심혈관 기능의 악화가 우려되지 않는 경우",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": "1) 만성췌장염(Chronic pancreatitis)이 있는 경우 2) 내시경역행담췌관조영술 시행 72시간 이내에 췌장염의 병력이 있는 경우 3) 이전에 오디조임근 절개술을 시행받은 경우 4) 지난 6개월 이내에 뇌졸중(stroke), 심근경색증(myocardial infarction), 관상동맥우회수술(CABG surgery)의 병력이 있는 경우 5) 지난 6개월 이내에 심부전(cardiac failure), 불안정형 협심증 (unstable angina), 치명적인 부정맥(life-threatening arrhythmia)의 병력이 있는 경우 6) 중증의 간 부전 또는 신부전이 있는 경우 7) 선천적인 QT prolongation syndrome 환자 또는 QT interval을 증가시키는 약물을 복용하는 경우 8) 정신적 이상 또는 약물의 지속적 남용 등 연구자가 시험 참여에 부적합하다고 판단한 경우 9) Nitrates/Nitric oxide(NO) donor(ex. nitroglycerin, isosorbide mononitrate, isosorbide dinitrate, amyl nitrate/nitrite, Sodium nitroprusside)를 복용하고 있는 경우 13) PDE 5 저해제에 대한 과민반응의 병력이 있는 경우 10) 임부이거나 수유부인 경우",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": "역행성 담췌관 조영술 후 췌장염의 빈도",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": "시술한 날로 부터 1, 2, 3일 후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "담도 선택적 삽관 횟수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "시술할 당시",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

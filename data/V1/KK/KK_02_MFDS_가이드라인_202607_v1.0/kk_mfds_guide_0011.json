@@ -1,0 +1,2305 @@
+{
+  "document_id": "kk_mfds_guide_0011",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "(안내서-0293-01) 한약(생약) 추출물 품질관리 가이드라인(민원인 안내서).pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "원료의약품의 품질개선을 통해 유통 의약품의 안전 및 품질을 확보할 수 있도록 2002년 7월「원료의약품 등록 제도(Drug Master File)」가 도입된 이 후 등록대상 원료의약품으로 고시된 208개 성분 중 단 2 성분(돼지뇌펩티드, 철단백추출물)만 한약(생약)제제의 원료의약품으로 관리되어 왔고, 국내 임상 시험을 통해 유효성이 입증된 천연물의약품의 급속한 성장세에 따라 생산량 이 가이드라인은 한약(생약) 추출물 품질관리에 대한 식품의약품안전처의 이 많은 전문의약품 및 다빈도 처방 성분을 중심으로 등록대상 원료의약품 입장을 기술한 것으로, 대외적으로 법적 효력을 가지는 것이 아님 (DMF) 지정 확대를 위한 고시 개정이 추진 중에 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "※ 가이드라인이란 대외적으로 특정한 사안 등에 대하여 식품의약품안전 본 가이드라인은 「약사법」제31조의2(원료의약품의 등록 등), 「의약품 등 처의 입장을 기술한 것임[식품의약품안전처 지침 등의 관리에 관한 규 의 안전에 관한 규칙」제15조(원료의약품의 등록) 내지 제17조(원료의약품 등 정(식약처 예규)] 록사항의 변경등록 신청 등), 「한약(생약)제제 등의 품목허가․신고에 관한 규정」(식약처 고시) 및 「원료의약품 등록에 관한 규정」(식약처 고시)에 따 라 한약(생약)제제의 원료의약품으로 사용되는 추출물의 품질관리에 필요한 요건과 방법을 제시함으로써 품질 일관성을 확보하는데 그 목적이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 적용범위",
+      "path": null,
+      "ko_txt": "본 가이드라인은「한약(생약)제제 등의 품목허가․신고에 관한 규정」에 따른 원료의약품의 품질관리 및 「원료의약품 등록에 관한 규정」에 따른 등록대상 원료의약품으로 지정된 추출물 성분의 등록신청 및 품질관리에 적용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "2. 적용범위",
+      "path": null,
+      "ko_txt": "※ 본 가이드라인에 대하여 의견이나 문의사항이 있는 경우 아래로 문의하시.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 한약(생약) 추출물의 품질관리",
+      "path": null,
+      "ko_txt": "기 바랍니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 한약(생약) 추출물의 품질관리",
+      "path": null,
+      "ko_txt": "한약(생약)은 특성상 기원, 생육환경, 산지(야생 또는 재배 포함), 채집시기 식품의약품안전평가원 Tel : 043-719-3553 생약제제과 Fax : 043-719-3550 등에 따라 구성 성분의 조성 및 함량이 변동적이며, 구성성분과 약효간의 상관 관계도 명확하게 밝혀져 있지 않으므로 품질관리에 있어 화학의약품과는 상당한 차이가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 한약(생약) 추출물의 품질관리",
+      "path": null,
+      "ko_txt": "천연물의약품의 변동성을 조절하고 품질 일관성 확보를 위해서는 약효와 관련된 활성성분들을 하나의 통합적 단위로 보고 그 구성성분의 조성과 - 5 - - 6 - 함량을 일관되게 일정 범위로 관리하는 것이라 할 수 있겠다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 한약(생약) 추출물의 품질관리",
+      "path": null,
+      "ko_txt": "따라서, 한약(생약)을 (예 시) 원료로 하는 추출물 및 그 제제의 품질은 1차적으로는 한약(생약)의 품질, 2차적 생약명: 가자(訶子) Terminalia Fruit 정 의: 이 약은 가자 (訶子) Terminalia chebula Retzins 또는 융모가자 (絨毛訶子) 으로는 추출물의 구성성분의 종류 및 함량, 수율과 직접적 관련이 있는 제조공정, Terminalia chebula Retzins var. tomentella Kurt. (사군자과 Combretaceae) 그리고 마지막으로 일관된 품질보증을 위한 규격관리에 영향을 받으므로 원료 의 잘 익은 열매이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 한약(생약) 추출물의 품질관리",
+      "path": null,
+      "ko_txt": "생약 및 추출물의 구성성분과 조성 및 함량 변동을 최소화할 수 있는 통합적 - 생약의 활성성분 또는 지표성분(화학명, 분자식, 분자량 등) 및 기타성분, 품질관리가 이루어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 한약(생약) 추출물의 품질관리",
+      "path": null,
+      "ko_txt": "성분프로파일 등 ※ 성분프로파일의 설정, 확립, 검정 등은 “생약(한약)제제의 성분프로파일 설정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3.1. 원료생약 및 추출물의 특성 확인 (CTD 3.2.S, 3.2.S.3)1)",
+      "path": null,
+      "ko_txt": "가이드라인(2010.11)” 참조 한약(생약) 추출물은 화학의약품과는 달리 규격의 적합성만으로 물리․화 ○ 물리․화학적 특성 (CTD 3.2.S.1.3, 3.2.S.3.1) 학적 특성이 확보될 수 없기 때문에 추출물 제조의 출발물질에 해당되는 - 성상 : 외형적 특성과 형상을「대한민국약전」등의 기재방식에 따라 색, 원료생약에 대한 정보로서 기원, 성상 등이 명확하게 정의하고 상세한 물리․ 화학적 특성을 파악하는 한편, 제조로트 간의 일관된 정보와 추출물의 물리․ 형상, 냄새, 맛, 크기, 감별방법(현미경 특징 등) 기술 화학적 특성 및 수율 등이 품질관리 범위에 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3.1. 원료생약 및 추출물의 특성 확인 (CTD 3.2.S, 3.2.S.3)1)",
+      "path": null,
+      "ko_txt": "* 감별인, 감별증명서, 표본 보관 (예시) 3.1.1. 원료생약의 특성 (CTD 3.2.S.1, 3.2.S.3) 이 약은 잎으로 대부분 쭈글쭈글하거나 부서져있고, 완전한 것은 부채 모양이며, 길이 3∼12 cm, 폭은 5∼15 cm이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "3.1. 원료생약 및 추출물의 특성 확인 (CTD 3.2.S, 3.2.S.3)1)",
+      "path": null,
+      "ko_txt": "바깥면은 초록색이고, 잎 가장자리의 윗부분 원료생약의 품질 보증을 위해서는 다음의 기본정보가 기술되고 관리되 은 불규칙한 물결모양으로 구부러졌으며, 어떤 것은 중간이 오목하게 들어가 있고, 어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "3.1. 원료생약 및 추출물의 특성 확인 (CTD 3.2.S, 3.2.S.3)1)",
+      "path": null,
+      "ko_txt": "깊이 팬 것은 잎 길이의 4/5에 달하기도 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "3.1. 원료생약 및 추출물의 특성 확인 (CTD 3.2.S, 3.2.S.3)1)",
+      "path": null,
+      "ko_txt": "잎맥은 2 개의 삼지창 모양으로 나 란히 갈라진 차상맥이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "3.1. 원료생약 및 추출물의 특성 확인 (CTD 3.2.S, 3.2.S.3)1)",
+      "path": null,
+      "ko_txt": "매끈매끈하고 털이 없으며, 잎 가장자리는 끝 부분이 3개 ○ 구조 (CTD 3.2.S.1.1-2, 3.2.S.3.1) 로 갈라졌고 세로 방향으로 찢어지기 쉽다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "3.1. 원료생약 및 추출물의 특성 확인 (CTD 3.2.S, 3.2.S.3)1)",
+      "path": null,
+      "ko_txt": "잎자루는 쐐기모양이며, 길이 2 ∼ 8 cm이 - 명칭: 생약명 (한글과 영명 병기), 이명(약전 등의 이명), 실험실 코드 등 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "3.1. 원료생약 및 추출물의 특성 확인 (CTD 3.2.S, 3.2.S.3)1)",
+      "path": null,
+      "ko_txt": "이 약은 특유한 냄새가 있고 맛은 약간 떫다.(KP ‘은행엽’) - 정의: 기원 동․식물의 학명(과, 속, 종, 변종, 명명자), 사용부위, 물리적 형태 - 기타 원료생약 규격 설정의 근거가 되는 물리화학적 특성 등 기술 - 그 밖의 필요한 경우 생장의 특징, 외형적 특징(사진), 구조적 특징, 유전 학적 특징, 산지, 주요성분, 민간 및 한의학적 용도 등을 기재.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "3.1.2. 추출물의 특성 (CTD 3.2.S.1, 3.2.S.3)",
+      "path": null,
+      "ko_txt": "추출물의 구조 및 물리․화학적 특성에는 다음의 정보가 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "3.1.2. 추출물의 특성 (CTD 3.2.S.1, 3.2.S.3)",
+      "path": null,
+      "ko_txt": "○ 구조 (CTD 3.2.S.1.1-2, 3.2.S.3.1.) - 명칭: 생약명이 있을 경우에는 [생약명][추출용매][물리적 형태][수득률] 순으로, 생약명이 없을 경우에는 [동물명 또는 식물명][사용부위] 1) CTD번호는 「한약(생약)제제 등의 품목허가·신고에 관한 규정」[별표10]에 따르며, 원료생약 및 추출물에 대하여 구분 이 필요한 경우 하위번호를 부여하여 작성 가능함 - 7 - - 8 - [추출용매][물리적 형태][수득률] 순으로 기재, 실험실코드에 관 할 수 있는 자료)는 최소한 1로트 이상 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "3.1.2. 추출물의 특성 (CTD 3.2.S.1, 3.2.S.3)",
+      "path": null,
+      "ko_txt": "장기보존시험 및 가속시 한 사항도 기재 험은 기준 및 시험방법에 설정한 전 항목에 대해 시험하는 것을 원칙으로 - 정의: [생약명][학명][과명][사용부위][추출용매][물리적형태]순으로 기술 하고, 안정성 시험을 실시한 종합결과표, 시험성적서, 시험일지, 시험기초자 료 등을 DMF 등록 시 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "3.1.2. 추출물의 특성 (CTD 3.2.S.1, 3.2.S.3)",
+      "path": null,
+      "ko_txt": "다만, 시험항목을 생략할 경우에는 과학 (예시) 적 근거로 그 사유를 명확히 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "3.1.2. 추출물의 특성 (CTD 3.2.S.1, 3.2.S.3)",
+      "path": null,
+      "ko_txt": "명칭: 애엽95%에탄올연조엑스(20→1) 「의약품등의 안정성시험기준」에 따른 제출자료 요건은 첨부자료의 부록 4 돼지폐추출물(1000→3) 를 참조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "3.1.2. 추출물의 특성 (CTD 3.2.S.1, 3.2.S.3)",
+      "path": null,
+      "ko_txt": "정 의: 이 약은 백굴채 Chelidonium majus L.(양귀비과 Papaveraceae)의 전 초를 70% 에탄올로 추출한 건조엑스이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "3.3. 추출물의 제조공정 관리 (CTD 3.2.S.2)",
+      "path": null,
+      "ko_txt": "- 추출물의 활성성분 또는 지표성분(화학명, 분자식, 분자량 등) 및 기타 성분 기술 원료의약품은 의약품 제조 및 품질관리기준에 적합한 시설에서 제조되 - 추출물 구성 성분의 조성과 함량을 통합적으로 보여주는 성분프로파일 어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "3.3. 추출물의 제조공정 관리 (CTD 3.2.S.2)",
+      "path": null,
+      "ko_txt": "추출물은 식물성 생약 및 동물성 생약으로부터 일련의 추출과정을 (chemical profile) 작성을 권장하며, 성분프로파일은 생약의 전처리, 분 통하여 제조되므로 그 원료에 따라 요구되는 공정의 조건에 차이가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "3.3. 추출물의 제조공정 관리 (CTD 3.2.S.2)",
+      "path": null,
+      "ko_txt": "일 석방법 및 조건과 함께 기재 반적으로 추출물의 제조공정에는 추출물의 동등성에 영향을 미치는 요인인 원 ※ 성분프로파일의 설정, 확립, 검정 등은 “생약(한약)제제의 성분프로파일 설정 료생약, 추출용매(종류, 농도, 양, 유속 등), 제조공정(유형, 기간, 온도, 압력 가이드라인(2010.11)” 참조 등) 등이 포함된 업무 흐름도 및 수득률이 기재되어야 하며, 다른 의약품 ○ 물리․화학적 특성 (CTD 3.2.S.1.3, 3.2.S.3.1) 제조업자 등의 시설 및 기구를 이용하여 전부 또는 일부공정을 위탁제조 또는 - 성상: 색, 형상, 냄새, 맛 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "3.3. 추출물의 제조공정 관리 (CTD 3.2.S.2)",
+      "path": null,
+      "ko_txt": "다만 냄새 및 맛은 시험자의 시험하는 경우에는 단위공정별로 위수탁계약서 상의 수탁자명, 소재지 등이 건강에 영향을 줄 수 있는 경우에는 기재하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "3.3. 추출물의 제조공정 관리 (CTD 3.2.S.2)",
+      "path": null,
+      "ko_txt": "명확하게 기재되어야 하고 수탁사 역시 의약품 제조 및 품질관리기준에 적 (예시: 이 약은 갈색의 연조엑스로 특이한 냄새가 있고 맛은 쓰다.) 합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "3.3. 추출물의 제조공정 관리 (CTD 3.2.S.2)",
+      "path": null,
+      "ko_txt": "- 추출물 규격(별규) 설정근거가 되는 물리화학적 성질 (용해도, 흡습성, pH 동물유래성분을 함유한 원료의약품의 경우 제조공정에 바이러스불활화 공 등)을 포함하여 시험방법, 실측치 및 고찰을 기재 정을 추가하고 관련자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "3.3. 추출물의 제조공정 관리 (CTD 3.2.S.2)",
+      "path": null,
+      "ko_txt": "이외, 환경에서 유래되거나 제 조공정 과정 중 생성된 잔류오염물질(예: 벤조피렌 등)에 대해서는 업체별로.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "3.2. 안정성 관리 (CTD 3.2.S.7)",
+      "path": null,
+      "ko_txt": "제조공정 개선 등을 통해 저감화할 수 있는 방안을 마련하고 필요시 제조공 정별 검사방법(In-process control, IPC)으로 관리할 것을 권장한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "3.2. 안정성 관리 (CTD 3.2.S.7)",
+      "path": null,
+      "ko_txt": "추출물은 물리화학적 특성 변화에 따른 함량 등의 유의성 있는 변화가 사용기간 동안 없음이 보증되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "3.2. 안정성 관리 (CTD 3.2.S.7)",
+      "path": null,
+      "ko_txt": "안정성시험은「의약품등의 안정성 시험기준」(식품의약품안전처 고시)에 따라 적합하게 실시함을 원칙으로 3.3.1. 제조원 및 원료관리 하고, DMF 등록 시 시험기초자료(크로마토그램을 포함한 시험내용을 검토 추출물 제조에 사용된 원료생약의 공급원 및 추출물에 대한 제조원 명칭, - 9 - - 10 - 주소, 책임범위 및 수탁업소 등에 대하여 관리한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "3.2. 안정성 관리 (CTD 3.2.S.7)",
+      "path": null,
+      "ko_txt": "복령 등 생약 특성에 따라 절단 또는 파쇄하여 사용함 ② 추출방법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "가. 원료생약 공급원 (3.2.S.2.1.)",
+      "path": null,
+      "ko_txt": "- 제조공정별 사용된 추출용매의 종류․사용량․온도․시간, 추출장치(또는 원료생약의 생산, 수집 가공, 공급 등 각 단계별 생산자, 공급자, 사업소 방법), 시약, 회수율을 기재하되, 추출시간, 압력 또는 온도로 인하여 안정성 또는 시설의 명칭, 주소, 책임범위를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "가. 원료생약 공급원 (3.2.S.2.1.)",
+      "path": null,
+      "ko_txt": "이 떨어지는 성분을 함유하는 생약은 3시간 이내, 비압력, 100 ℃ 이하에서 - 생산자 명칭(가능한 경우), 생산지, 재배, 수집, 건조 등에 관한 사항 추출하는 것이 좋으며, 성분이 잘 추출되지 않는 생약은 조절 이하로 파쇄 ․재배조건: 종자, 토양, 재배 시 사용하는 비료나 살충제, 재배기간 등 하여 사용함 ․수집 및 건조: 수집시기와 기간, 채취방법, 건조방법(온도, 시간) 등 ③ 분획 또는 여과방법 - 공급자 명칭 및 소재지 이외 가공방법(절단, 포장 등), 운송, 보관조건 (용기, 온도, 차광여부 등), 용기 표시 기재사항 (품명, 공급자와 수령자, - 분획용매종류, 용매량, 분획방법 배치번호, 양 등) 등 기재 - 여과방식(여과포, 메시망, 필터, 원심분리 등) ④ 멸균 등 제조공정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "나. 추출물 제조원 (CTD 3.2.S.2.1.)",
+      "path": null,
+      "ko_txt": "- 멸균, 균질화, 일정 분자량을 가진 물질을 분리하기 위한 한외여과 등의 - 추출물 제조 및 시험과 관련된 제조원과 제조소 또는 시설의 명칭, 주소, 제조공정이 필요한 경우 온도, 시간, 장치(또는 방법) 등을 자세히 기술 책임범위, 수탁업소 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "나. 추출물 제조원 (CTD 3.2.S.2.1.)",
+      "path": null,
+      "ko_txt": "⑤ 농축 또는 건조방법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "다. 원료관리 (CTD 3.2.S.2.3.)",
+      "path": null,
+      "ko_txt": "- 농축 : 온도, 시간, 감압도 등과 연조엑스의 수분함량, 수득률 등 기재 - 추출물 제조에 사용되는 각각의 원료(원료생약, 용매, 시약, 첨가제 등) - 건조 : 분무건조, 동결건조, 기타 방식(또는 장치)과 수분함량, 수득률 등 기재 가 배치별로 어느 공정에 사용되었는지를 명확하게 기재하고, 이들 물 ⑥ 사용용매, 공정조건 및 수득률 질에 대한 품질관리 방법을 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "다. 원료관리 (CTD 3.2.S.2.3.)",
+      "path": null,
+      "ko_txt": "- 정제수(KP, 공정서), 에탄올(KP, 공정서), 주정 이외의 용매를 사용하여 추출 분획하였을 경우 안전성․유효성에 관한 자료를 제출하거나, 추출.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "3.3.2. 추출물 제조 (CTD 3.2.S.2.4.)",
+      "path": null,
+      "ko_txt": "물에 유기용매가 잔류하지 않는 경우에는 안유자료 대신 용매잔류에 대 추출물 제조 전 공정에 사용된 흐름을 자세히 기술하되, 각 공정별 검사 한 자가시험성적서 및 3회 시험을 실시할 수 있는 양의 검체를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "3.3.2. 추출물 제조 (CTD 3.2.S.2.4.)",
+      "path": null,
+      "ko_txt": "방법(IPC)이 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "3.3.2. 추출물 제조 (CTD 3.2.S.2.4.)",
+      "path": null,
+      "ko_txt": "다음은 첨가제를 함유한 추출물의 제조방법의 예시이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "가. 식물유래 추출물",
+      "path": null,
+      "ko_txt": "① 출발물질인 원료생약의 규격 및 전처리 방법 ※ 감초 50% 에탄올 추출물․덱스트린혼합물(별규) 제조방법 이 약은 감초 Glycyrrhiza glabra (콩과 Leguminosae)의 뿌리 (KP) 1,000 kg - 원료생약의 규격, 전처리법(수치방법, 절도 또는 분말도)*, 사용량 등 기술 을 달아 50% 에탄올 (에탄올: KP, 정제수: KP) 3,000 L를 넣어 밀폐하여 90 ℃ * 생약은 조절로 하여 추출하는 것을 원칙으로 하지만, 엽류나 화류생약, 용뇌, 에서 2～3 시간 동안 추출하고 여과한 후, 여과한 액을 50～60 ℃에서 약 17 - 11 - - 12 - ① 동물유래 성분 기재 0～200 L까지 감압농축하고 덱스트린 (KP) 약 75 kg을 넣어 잘 혼합한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "가. 식물유래 추출물",
+      "path": null,
+      "ko_txt": "이 를 동결건조 한 다음 10 호 체를 이용하여 입자를 고르게 하여 약 200～218 ○ 동물유래 성분의 경우(반추동물 제외) kg을 얻는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "가. 식물유래 추출물",
+      "path": null,
+      "ko_txt": "(감초 50 % 에탄올 건조엑스로서 수득율 : 12～14%) - “[기원동물 명칭]의 [사용부위]에서 유래된 [동물유래성분]을 사용한다.” [제조공정도] ○ 반추동물(소, 물소, 사슴 등)의 경우 공정 ▶ 우유 및 우유유래성분(예, 유당수화물) 공정명칭 원료․시약․용매 등 비고 번호 - 유당수화물의 경우 우유 및 우유유래성분은 BSE(소해면상뇌증)위험 주성분 제조원 주성분 : 감초(KP) 상호 : 착한생약(주) 이 적기 때문에 다음의 기재가 기재 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "가. 식물유래 추출물",
+      "path": null,
+      "ko_txt": "1 원료칭량 추출용매 : 50% 에탄올(에 주소 : 충청북도 청주시 흥덕구 탄올 : KP, 정제수 : KP) 오송읍 오송생명2로 1004 “건강한 소의 우유에서 유래한 유당수화물을 사용한다” 규격 : 전체 미분의 85% 이상이 2 분쇄 주성분 : 감초(KP) ▶ 그 외의 성분(예, 젤라틴, 스테아르산마그네슘 등) 1mm 미만의 입도 공정 2의 원료 온도 : 90 ℃ - [젤라틴 제조공정]“전염성해면상뇌증 감염을 방지하기 위하여 미국 3 추출 추출용매 : 3배량 (w/w) 시간 : 2~3 시간 50% 에탄올 증기압 : 0~0.1 kg/cm2 이하 산(반추동물의 원산국) 3년 이하(반추동물의 연령)의 건강한 소(반 재질 : 카트리지필터 추동물의 명칭)에서 가죽의 안쪽부위(사용부위)를 채취하여 원료- 4 여과 공정 3의 추출액 규격 : φ1 um 알카리처리-세척-추출-여과-정제-농축-살균-건조-분쇄-혼합(처리공정) 온도 : 50~60 ℃ 5 감압농축 공정 4의 여과액 의 공정을 통해 제조된 젤라틴(성분명)을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "가. 식물유래 추출물",
+      "path": null,
+      "ko_txt": "감압 : 500±30 mmHg 공정 5의 농축액 6 혼합 - 스테아르산마그네슘이 식물유래인 경우 별도 근거 자료(원료수불기록 부형제 : 덱스트린 (KP) 또는 시험성적서 등) 제출 없이 기재 가능(예, 스테아르산마그네슘: 7 건조 공정 6의 혼합액 KP, 식물유래성분)하며, 이에 대하여는 허가(신고) 후 GMP 평가 등 8 체과 공정 7의 건조물 10호 체 현장 조사 시 원료 기원 등 근거자료를 확인한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "가. 식물유래 추출물",
+      "path": null,
+      "ko_txt": "9 포장 공정 8의 반제품 플라스틱 백(PE 재질) ② 동물유래 추출물 제조 나. 동물유래 추출물 동물유래 성분을 함유한 원료의약품의 등록 시 제출자료의 작성법 및 동물유래성분을 함유한 원료의약품은 기원동물 및 사용부위 등을 기재 범위는 「동물유래 의약품 바이러스 안전성 평가 가이드라인(2014. 12.)」 하고 3로트 이상의 제조기록서 및 제조일지, 최종제품에 대한 각 로트당 을 참조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "가. 식물유래 추출물",
+      "path": null,
+      "ko_txt": "3회 이상의 실측치가 포함된 시험성적서, 바이러스 불활화 공정에 관한 자료를 제출하여야 하며, 반추동물유래성분의 경우는 전염성해면상뇌증 [제조방법 예시] (TSE) 감염을 방지하기 위한 원료선택(반추동물의 원산국, 반추동물의 연 항 목 내 용 령 등) 또는 처리방법 등에 대하여도 추가하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "가. 식물유래 추출물",
+      "path": null,
+      "ko_txt": "기원동물의 동물유래 추출물․분획물의 기원동물 명칭 기재 명칭 (예 : 돼지(Porcine), 소(Bovine) 등) - 13 - - 14 - 동물유래 추출물․분획물의 제조를 위해 사용된 기원동물의 장 사용부위 기 또는 조직 명칭 및 원료명 포장 및 출고 (예 : 소의 간장(Bovine liver), 돼지의 폐(Porcine lung) 등) 규격 및 클리어런스 처리 공정의 기준이 되는 규격 및 시험방법 성 상 기원동물의 장기 또는 조직의 성상 시험방법 (예: cytotoxicity test 등) 동물유래 기원동물에서 유래된 추출물․분획물의 명칭 동물유래 추출물․분획물의 물리화학적 특성을 고려하여 안정성 보관방법 원료명 (예 : 돼지폐추출물(Porcine lung extract) 등) 이 보장될 수 있는 구체적인 보관조건 및 유의사항 기재 및 조건 기원동물의 태생에서부터 도축까지 관련된 국가 기재 (예: 밀봉용기, 냉장(2～8℃) 보관, 제조일로부터 36개월 등) 원산국 (예: 대한민국, 호주, 뉴질랜드 등) * 각 공정단계별 수득률과 총수득률을 기재 기원동물의 도축 당시 연령 연령 (예: 생후 12개월 이내 등) ○ 근거자료 첨부 기원동물의 장기 또는 조직에서 추출물․분획물 제조까지의 제조방 법을 단계별로 기재(추출, 여과, 농축, 건조 등 조건 포함) 하고 ▶ 3로트 이상의 제조기록서 및 제조일지 바이러스 클리어런스 공정을 확인할 수 있도록 기재 ▶ 각 로트 당 3회 이상의 실측치가 포함된 시험성적서 ▶ 바이러스불활화 공정에 관한 자료 (예시) a. 동물유래 원료의 바이러스 클리어런스 공정의 검증 자료 원료입고/검사 - 동물유래 원료의 바이러스 클리어런스 공정에 대한 밸리데이션 자료 세 척 - 바이러스 클리어런스를 확인할 수 있는 동물유래 원료 시험성적서 절단 및 가공 b. 동물유래 원료의 안전성 확보를 위하여 원료수집 단계에서 수의사가 발행한 원료의 바이러스 미감염 여부를 확인할 수 있는 절차 자료 추출 / 여과 (온도, 시간 등) - 원료물질 중 사람에게 감염되거나 병을 유발할 수 있는 바람직하지 처리공정 1차 바이러스 클리어런스 공정: 않은 바이러스의 존재 여부 실험 디클로로메탄:에탄올(5:5), 실온에서 1시간 농축.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "3.4. 원료생약 및 추출물의 규격관리 (CTD 3.2.S.4.)",
+      "path": null,
+      "ko_txt": "칼럼 분리 추출물의 규격은 앞서 설명한 바와 같이 1차적으로 원료생약의 규격에 2차 바이러스 클리어런스 공정 : 영향을 받으므로 통합적으로 관리되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "3.4. 원료생약 및 추출물의 규격관리 (CTD 3.2.S.4.)",
+      "path": null,
+      "ko_txt": "일반적으로 한약(생약) 및 실리카겔컬럼(50cmx110 cm), 염화메틸렌:에탄올(5:5) 추출물이 공정서 (대한민국약전이나 대한민국약전외 한약(생약)규격집)에 수재 농축(농축방법, 동결건조 등) 된 품목일 경우 규격관리는 이에 따라 실시하나, 공정서 수재 이외의 품목 은 자사에서 별첨규격(별규)을 설정하여 관리한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "3.4. 원료생약 및 추출물의 규격관리 (CTD 3.2.S.4.)",
+      "path": null,
+      "ko_txt": "시험기준은 근거자료(실 제균 여과 (조건) 측통계치 등)를 바탕으로 설정하되 공정서 규격 이상으로 설정하고 시험방 농축 (동결건조 등) 법은 밸리데이션 자료를 근거로 설정한다 (대한민국약전 일반정보 ‘의약품 등 시 - 15 - - 16 - 험방법 밸리데이션 가이드라인’ 참조). 원료생약 및 추출물의 기준 및 시험방법 설정 정하여 관리 시 한약(생약)제제 등의 품목허가․신고에 관한 규정 제33조(의약품 규격기 시험명 기준 준의 설정) 및 제34조(원료의약품의 기준 및 시험방법 작성요령)를 참조하 ◦ 식물성생약 여 설정하고 등록시 추출물의 시험성적서는 3로트 이상을 실시한 성적서 중금속 - 납 5ppm이하, 수은 0.2ppm이하, 비소 3ppm이하, 카드뮴 0.3ppm이하 를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "3.4. 원료생약 및 추출물의 규격관리 (CTD 3.2.S.4.)",
+      "path": null,
+      "ko_txt": "◦ 따로 규정이 없는 생약 (동물성 생약에는 설정하지 않음) - 총 디디티 (4종 합계) 0.1 ppm 이하, 디엘드린 0.01 ppm 이하, 3.4.1. 원료생약의 규격 (CTD 3.2.S.4.1) 총 비에이치씨(α,β,γ,δ-BHC 합) 0.2 ppm 이하, 알드린 0.01 ppm 이하, 엔드린 0.01 ppm 이하 잔류농약 주요 시험항목은 다음과 같다.(작성 서식은 부록3 참고) ◦ 개별 기준이 없는 농약이 검출되었을 때의 적부판정 - 유럽약전 “PESTICIDE RESIDUES” 항의 기준에 따름 ◦확인시험 - 유럽약전에 기준이 설정되지 않은 농약이 검출되면 위해평가 - 한약(생약)의 특성에 기인한 이화학적시험 중심으로 설정하고, 크로마토 계산식에 따른 기준 적용 그래피 상의 성분 분포(성분프로파일 등), 화학적 반응 및 유전자분석법 ◦ 한약(생약)의 개별특성을 고려하여 설정 이산화황 - 30 ppm이하 등을 조합하여 특이성 있는 시험법으로 설정할 수 있음 ◦ 한약(생약)의 개별특성을 고려하여 설정 ◦함량시험 곰팡이독소 - 총아플라톡신 (15.0 ppb이하), 아플라톡신 B1 (10.0 ppb이하) - 기준은 실측통계치(3로트, 각 로트당 3회 실시)를 근거로, 시험방법은 기타 ◦ 벤조피렌 등 정확성, 정밀성, 특이성이 높은 시험법으로 설정. 알려진 치료적 활성성분 잔류오염물질 - 원료생약 중 환경유래 오염도를 조사하여 관리 (active marker)이나 지표물질(analytical marker), 성분프로파일 설정을 권장함 ※ 성분프로파일의 설정․확립․검정 등에 대한 부분은 “생약(한약)제제의 성 ◦ 회분, 산불용성회분, 엑스함량, 건조감량 등은 생약의 개별특성을 고려하여 분프로파일 설정 가이드라인(2010.11)”을, 성분프로파일을 활용한 품질관리 「대한민국약전」일반시험법 중 생약시험법 또는 기타 타당한 근거자료에 방법은 “생약의 품질관리 가이드라인(2013.10)”을 참조 따라 설정 ◦ 순도시험 ◦ 미생물한도시험 - 생약의 생산이나 채취 후 처리로부터 유래되는 의도적 또는 비의도적 - 동물성 원료(예, 돼지폐 등) 등 미생물 오염이 우려될 경우「대한민국약 오염 및 잔류물질의 양 한도를 규제 전」일반시험법 중 미생물한도시험 또는 기타 타당한 근거자료에 따라 설정 - 안전성에 문제가 되는 유해한 혼재물인 중금속, 잔류농약, 이산화항 등 은「대한민국약전」일반시험법 중 생약시험법 순도시험 또는 기타 타당한 3.4.2. 추출물의 규격 (CTD 3.2.S.4.1) 근거자료 등에 따라 설정 추출물의 규격은 다음과 같이 설정하여 관리하고, DMF 등록 시 제출하 - 생육환경에서 자연적으로 이행 또는 건조 등 가공과정 중 생성된 잔류 는 시험성적서에는 제조번호, 제조규모, 제조년월일이 기재되어야 하고, 수 오염물질(벤조피렌 등)에 대한 검토결과를 기술하여 필요시 기준을 설 입품의 경우에는 원개발사의 자료 제출도 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "3.4. 원료생약 및 추출물의 규격관리 (CTD 3.2.S.4.)",
+      "path": null,
+      "ko_txt": "- 17 - - 18 - ◦ 확인시험, 함량시험, 회분, 산불용성회분, 엑스함량, 건조감량 등은 추출 - 제조공정 중 사용된 유기용매에 대해서는 종류, 사용이유, 잔류기준 및 물의 개별특성을 고려하여 3.4.1을 참조하여 설정 시험방법을 설정하여 관리하고 관련 자료는 등록 시 제출 - 연․건조엑스는 건조감량 반드시 설정 ◦ 미생물한도시험 ◦ 순도시험 -「대한민국약전」일반시험법 중 미생물한도시험 또는 기타 타당한 근거 - 원료생약에서 유래되거나 제조공정 중 생성된 의도적 또는 비의도적 오염 자료에 따라 설정 및 잔류물질의 양 한도를 규제 * 한도기준(집락/1g 또는 1mL) : 총호기성미생물수 1x105 이하, 총진균수 1x102 이하, - 추출물 제조공정에서 생성될 수 있는 잔류오염물질(벤조피렌 등)에 대 특정미생물 불검출 하여 검토한 결과를 기술하고 필요 시 제조공정검사(IPC)로 관리 ◦ 특수시험 - 중금속, 잔류농약 등은「대한민국약전」일반시험법 중 생약시험법 순도 - 필요한 경우 효력시험 및 성능시험 등을 설정(예, 돼지폐추출물의 계면활성력) 시험 또는 기타 타당한 근거자료 등에 따라 설정 ※ 별첨규격 작성서식 및 작성요령은 부록 3을 참조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "3.4. 원료생약 및 추출물의 규격관리 (CTD 3.2.S.4.)",
+      "path": null,
+      "ko_txt": "시험명 기준 ◦ 따로 규정이 없는 생약추출물 중금속 - 중금속 30ppm 이하 ◦ 따로 규정이 없는 생약추출물(동물유래추출물에는 설정하지 않음) - 총 디디티 (4종 합계) 0.1 ppm 이하, 디엘드린 0.01 ppm 이하, 총 비에이치씨(α,β,γ,δ-BHC 합) 0.2 ppm 이하, 알드린 0.01 ppm 이하, 엔드린 0.01 ppm 이하 잔류농약 ※ 단, 원료생약에서 직접 검사한 경우 추출물에서는 검사 생략가능 ◦ 개별 기준이 없는 농약이 검출되었을 때의 적부판정 - 유럽약전 “PESTICIDE RESIDUES” 항의 기준에 따름 - 유럽약전에 기준이 설정되지 않은 농약이 검출되면 위해평가 계산식에 따른 기준 적용 ◦ 추출물 조제 또는 정제공정에서 사용되거나 생성된 용매에 대하여 설정 잔류용매 - 대한민국약전 일반정보 중 ‘의약품 잔류용매 기준 가이드라인’ 및 일반시험법 중 잔류용매시험법을 참조하여 설정 기타 ◦ 벤조피렌 등 잔류오염물질 - 제조공정 중 생성 또는 오염된 정도를 조사하여 관리 - 19 - - 20 - 사용되는 화학적으로 규명된 성분(군). 활성 지표성분(active marker)과 분석.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "4. 관련 용어",
+      "path": null,
+      "ko_txt": "지표성분(analytical marker)으로 구분할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "4. 관련 용어",
+      "path": null,
+      "ko_txt": "1) 원료의약품(drug substance) : 합성, 발효, 추출 등 또는 이들 조합에 의하여 9) 출발물질(starting material) : 원료의약품의 제조에 사용되는 원료물질 중 제 제조되는 물질로서 완제의약품의 주성분 조의 출발 또는 전구물질 2) 원료의약품 등록(DMF, Drug Master File): 원료의약품의 제조소, 제조시설, 10) 성분프로파일(chemical profile) : 생약이나 그 제품에 함유된 다양한 성분 제조공정, 품질관리, 포장, 보관에 관한 문서 등에 관한 상세한 세부자료 의 조성과 함량을 포괄적으로 보여주는 크로마토그래피 상의 패턴 (기밀정보 포함)를 첨부하여 원료의약품 등록신청서를 식품의약품안전처에 제출하도록 하고, 검토 시 적합한 경우에 한해 원료의약품 등록증을 교부 11) 공정서(official codex) : 의약품의 명칭․특징․규격 등에 관한 내용을 집성 한 것으로서 ‘대한민국약전’, ‘대한민국약전외한약(생약)규격집‘ 등이 해당되 및 공고하여, 이를 완제의약품의 제조에 사용하도록 하는 제도임 며, ’의약품의 품목허가·신고 심사 규정’(식약처고시)[별표1의 2]에서 식약처 장이 인정하는 공정서 및 의약품집의 범위를 규정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "4. 관련 용어",
+      "path": null,
+      "ko_txt": "3) 등록대상 원료의약품: 의약품 등의 안전에 관한 규칙 제15조에 따라 식품 의약품안전처장이 등록대상 품목으로 지정고시한 원료의약품을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "4. 관련 용어",
+      "path": null,
+      "ko_txt": "12) 동물유래성분을 함유한 원료의약품: 동물의 장기 또는 조직을 추출, 여과, 농축, 건조 등의 방법으로 제조한 추출물 또는 원료(유당 등)를 함유한 4) 한약(생약)제제: 생약인 ‘동․식물의 약용으로 하는 부분, 세포내용물, 분비물 원료의약품 또는 광물’과 한약인 ‘동물․식물 또는 광물에서 채취된 것으로 주로 원형 대로 건조․절단 또는 정제된 생약’을 의약품 제제로 만든 것이 해당됨 13) 바이러스 클리어런스(Virus clearance) : 바이러스의 제거(Removal) 및 불 활화(Inactivation) 5) 품질 일관성(quality consistency) : 의약품 제조 및 품질관리 과정에서 품질 에 영향을 주는 공정과 요소를 표준화하여 관리함으로써 의약품의 매 로트 14) 바이러스 불활화(Viral Inactivation) : 화학적 또는 물리적 처리에 의한 바 마다 일관된 품질을 확보하는 것 이러스 감염력 감소 6) 유전자분석법(genetic analysis) : DNA추출법 및 유전자 증폭반응(PCR)을 통 15) 규격(specification) : 원료의약품이나 완제의약품이 목적 용도에 적합한 것 해 기원식물 각각의 특이 밴드를 확인함으로써 기원종 간의 감별에 응용하 으로 간주되기 위하여 부합해야 하는 기준으로 시험 항목, 분석 방법, 그리 는 분석법 고 해당 시험 항목에 대한 허용 기준(수치 한도, 범위 또는 기타 기준)으로 구성된 리스트를 의미한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "4. 관련 용어",
+      "path": null,
+      "ko_txt": "7) 활성성분(active compounds) : 생약, 생약추출물 또는 생약제제의 주성분 중 약리학적 활성을 나타내는 성분 16) 별첨규격(별규, self specification) : 대한민국약전 등 공정서 규격에 해당하 지 아니하는 것으로서 신청업소에서 직접 작성한 규격 8) 지표성분(markers) : 생약, 생약조제품 또는 생약제제의 품질관리 목적으로.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "5. 참고문헌",
+      "path": null,
+      "ko_txt": "17) 밸리데이션(validation) : 어느 특정한 공정, 방법, 기계설비 또는 시스템이 미리 설정되어 있는 판정기준에 적합한 결과가 일관되게 얻어진다는 것을 검증하고 이를 문서화하는 것 1) 원료의약품 등록제도(DMF) 해설서(‘12) 2) 한약(생약)제제 등의 품목허가․신고에 관한 규정 ‘[별표 10] 한약(생약) 제제 국제공통기술문서 작성방법 제3부 품질평가자료’ 3) 원료의약품 등록(DMF) 처리절차(지침) (‘14) 4) 동물유래 의약품 바이러스 안전성 평가 가이드라인 (‘14) 5) 동물유래성분 원재료 사용 의료기기의 바이러스 불활화 처리공정 가이드라인(B1-2013-5-034, 2013.11.18) 6) 생약의 품질관리 가이드라인 (‘13) 7) 천연물의약품의 기준 및 시험방법 작성안내서 (‘11) 8) 생약(한약)제제의 제조방법 해설서 (’15) [부록 2] [부록 1] 한약(생약)제제 관련 등록대상 원료의약품 원료의약품 등록 자료와 국제공통기술문서 제출 자료간의 비교표 2) ○대상 : 다음 원료의약품과 그 혼합물(용매의 농도가 다른 의약품 포함) ○원료의약품 등록시 제출하는 자료는 국제공통기술문서(CTD)로 제출하고 연번 주성분 비고 자 하는 경우에는 다음의 원료의약품 등록에 관한 규정 [별표 2]를 참고 말비장으로부터 유래한 철단백추출물(Ferritin Extractive) 또는 철단 백추출물수화글리세린액(Ferritin Extractive Hydrogliceric Solution) 돼지뇌펩티드(proteolytic peptide from porcine brain) 하여 제출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "5. 참고문헌",
+      "path": null,
+      "ko_txt": "국제공통기술문서(CTD) (「한약(생약)제제 등의 품목허가․신고․심사규정」별표 10) 원료의약품 등록 자료 (「원료의약품 등록에 관한 규정」제4조) 돼지폐추출물(Porcine Lung Extract) 신규1).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "1.7.3 의약품 제조 및 품질관리기준 실시 상황평가 자료",
+      "path": null,
+      "ko_txt": "건조밀봉독 (Dried Honey Bee Venom) 신규 에 관한 자료 「의약품 등의 제조업 및 수입자의 시설기준령」 아이비엽에탄올엑스(Ivy Leaf Ethanol Extract) 신규 달맞이꽃종자유(Evening Primrose Oil) 신규 제3조, 같은 령 시행규칙 제2조 및 제7조의 규정 에 적합함을 입증하는 자료 포도씨엑스(Vitis Vinifera Seed Extract) 신규.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "2. 물리·화학적 특성과 안정성에관한 자료",
+      "path": null,
+      "ko_txt": "3.2.S. 원료의약품 위령선·괄루근·하고초에탄올엑스(Clematidis Radix, Trichosanthes Root, Prunella Spike Ethanol Extract) 신규.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "가. 물리·화학적 특성에 관한 자료",
+      "path": null,
+      "ko_txt": "3.2.S.1. 일반정보 (General Information) (1) 기원 또는 발견 및 개발경위에 관한 자료 (2) 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료 (3) 국내·외에서 특허 등을 취득한 경우에는 특허 애엽에탄올엑스(Artemisia Princeps Folium Ethanol Extract) 신규 3.2.S.1.1. 명칭 (Nomenclature) 3.2.S.1.2. 구조 (Structure) 3.2.S.1.3. 일반적 특성 (General Properties) 3.2.S.3. 특성 애엽이소프로판올엑스(Artemisia Princeps Folium Isopropanol Extract) 신규 자오가‧우슬‧방풍‧두충‧구척‧흑두엑스(Acanthopanacis Senticosi Radix Et Rhizoma·Achyranthes Root·Saposhnikovia Root·Eucommia Bark· Cibot Rhizome·Glycine Semen Nigra Extract) 등록 사본 등을 첨부한 자료 신규 3.2.S.3.1. 구조결정 및 기타 특성 (Elucidation of Structure and other Characteristics) 3.2.S.3.2. 순도 (Impurities) 황련수포화부탄올엑스(Coptidis Rhizoma Extract) 신규 현호색‧견우자에탄올엑스 (Corydalis Tuber & Pharbitis Seed Ethanol Extract) 신규.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "나. 안정성에 관한 자료",
+      "path": null,
+      "ko_txt": "3.2.S.7. 안정성 3.2.S.7.1. 안정성 요약과 결론 당귀‧목과‧방풍‧속단‧오가피‧우슬‧위령선‧육계‧진교‧천궁‧천마‧홍화 에탄올엑스(Angelica Gigas Root·Chaenomelis Fructus·Saposhnikovia Root·Dipsaci Radix·Acanthopanax Root Bark·Achyranthes Root·Clematis Radix·Cinnamon Bark·Gentianae Macrophyllae Radix․Cnidium Rhizome· Gastrodia Rhizome·Safflower Ethanol Extract) (Stability Summary and Conclusions) 3.2.S.7.2. 허가 후 안정성시험 계획 및 이행서약 (Post-approval Stability Protocol and Stability Commitment) 3.2.S.7.3. 안정성 자료(Stability Data) 신규.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "3. 제조방법, 포장, 용기, 취급상의 주의사항 등에 관한 자료",
+      "path": null,
+      "ko_txt": "3.2.S.2. 제조 3.2.S.2 제조 (Manufacture).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "가. 제조방법에 관한 자료",
+      "path": null,
+      "ko_txt": "옥수수불검화정량추출물 (Titrated Extract of Zea Mays L. Unsaponifiable Fraction) 신규 3.2.S.2.1. 제조원 (Manufacturer(s)) 3.2.S.2.2. 제조공정 및 공정관리 (Description of 은행엽엑스(Ginkgo Leaf Extract) 신규 Manufacturing Process and Process Controls) 3.2.S.2.3. 원료 관리 (Control of Materials) 3.2.S.2.4. 주요공정 및 중간체 관리 빌베리엑스(Fresh Bilberry Fruit Extract) 신규 밀크시슬엑스(Milk-thistle Fruit Extract) 신규 (Controls of Critical Step and Intermediates) 3.2.S.2.5. 공정 밸리데이션 및 평가 펠라고니움시도이데스에탄올추출물 (Pelargonium Sidoides Ethanol Extract) 신규 (Process Validation and/or Evaluation) 1) ‘원료의약품 등록에 관한 규정’ 개정으로 연내 신규품목으로 등록될 예정임 2) 자료출처: 원료의약품등록에관한규정별표2.. [부록 3] 3.2.S.2.6. 제조공정 개발 (Manufacturing Process Development) 원료의약품의 별규 작성서식 및 작성요령 3).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "나. 포장·용기에 관한 자료",
+      "path": null,
+      "ko_txt": "3.2.S.6. 용기 및 포장 (Container Closure System).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "다. 취급상의 주의사항",
+      "path": null,
+      "ko_txt": "3.2.S.7. 안정성 (Stability) 『①명칭: 한 글 명 』 3.2.S.7.1. 안정성 요약과 결론 (Stability Summary and Conclusions) 『①명칭: 영 명 』 ↑.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "1.7.3 의약품 제조 및 품질관리기준 실시 상황평가 자료",
+      "path": null,
+      "ko_txt": "이와 동등 이상임을 입증하는 자료 신명조, 15포인트, 진하게, 가운데정렬.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "5. 원료의약품의 시험성적서, 분석방법, 사용된 용매",
+      "path": null,
+      "ko_txt": "3.2.S.3. 특성 『별 명 』 3.2.S.3.2. 순도 3.2.S.4. 원료의약품의 관리 (Control of Drug Substance) 등에 관한 자료.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "가. 시험성적서는 기준 및 시험방법에 따라서 연속",
+      "path": null,
+      "ko_txt": "『기원 및 함량규정 』 이 약은 정량할 때 환산한 건조물에 대하여 한글명(분자식 : 분자량) 98.0 % 이 3로트 이상을 실시한 성적서이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "다. 제조공정 중 유기용매를 사용한 경우에는 유기",
+      "path": null,
+      "ko_txt": "3.2.S.4.1. 규격(Specification) 3.2.S.4.2. 시험방법 (Analytical Procedures) 3.2.S.4.3. 시험방법 밸리데이션 (Validation of Analytical Procedures) 3.2.S.4.4. 배치 분석 (Batch Analyses) 3.2.S.4.5. 규격 설정근거 (Justification of Specification) 3.2.S.5. 표준품 또는 표준물질 (Reference Standards 상을 함유한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "다. 제조공정 중 유기용매를 사용한 경우에는 유기",
+      "path": null,
+      "ko_txt": "제 법 (항목명은 중고딕, 13포인트, 진하게) 용매의 종류, 사용이유, 최종제품의 유기용매 잔류기준, 잔류량 및 시험방법에 관한 자료.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "다. 제조공정 중 유기용매를 사용한 경우에는 유기",
+      "path": null,
+      "ko_txt": "3) 중금속 이 약 2.0 g을 달아 「대한민국약전」일반시험법 중 생약시험법 순도시 험 중금속 항에 따라 조작하여 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "다. 제조공정 중 유기용매를 사용한 경우에는 유기",
+      "path": null,
+      "ko_txt": "비교액에는 납표준액 2.0 mL를 넣는다(10 ppm 이하). 건조감량 (강열감량 또는 수분) 강열잔분(회분 또는 산불용성회분).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "다. 제조공정 중 유기용매를 사용한 경우에는 유기",
+      "path": null,
+      "ko_txt": "엑스함량시험 특수시험 정 량 법 저장방법 시약․시액 ※세부작성요령(참고사항).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "다. 제조공정 중 유기용매를 사용한 경우에는 유기",
+      "path": null,
+      "ko_txt": "1. 편집용지설정 : 용지종류는 A4, 여백주기는 위, 아래, 머리말, 꼬리말 12.5 mm, 오 른쪽, 왼쪽 20 mm.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "2. 문단모양 : 줄간격 180 %, 정렬방식 양쪽정렬",
+      "path": null,
+      "ko_txt": "3. 글자 모양: 글씨체 신명조, 자간 0%, 크기 12포인트로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "2. 문단모양 : 줄간격 180 %, 정렬방식 양쪽정렬",
+      "path": null,
+      "ko_txt": "3) 자료 출처: ‘한약(생약) 제제 등의 품목 허가·신고에 관한 규정 별표 4’ 및 ‘한약(생약) 제제 등의 품목 허가·신고에 관한 규정 해설서’(행정 간행물 등록 번호 11-1470000-002760-01) ② 원료 의약품의 별첨 규격 작성 항목은 다음 각 호에 따라 순서대로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "2. 문단모양 : 줄간격 180 %, 정렬방식 양쪽정렬",
+      "path": null,
+      "ko_txt": "Combretaceae의 열매이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "가. 한약(생약) 원료의약품",
+      "path": null,
+      "ko_txt": "형태(유동, 연조 및 건조)등을 고려하여 기재한다 [예 : 이 약은 백굴채 1) 한글명은 제12조 및 식약청장이 정한 의약품 명칭작성 요령에 따라 기재하 Chelidonium majus L.(양귀비과 papaveraceae)의 전초를 70% 에탄올로 추 고 약용부위를 병기한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "가. 한약(생약) 원료의약품",
+      "path": null,
+      "ko_txt": "출한 건조엑스이다]. 2) 영문명은 국제적으로 공인된 명칭을 사용하고 약용부위를 병기한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "나. 추출하여 제조한 원료의약품",
+      "path": null,
+      "ko_txt": "○한약(생약)제제의 원료의약품은 정의 부분에 기원 동․식물의 학명, 과명, 약용부 1) 한약(생약) 원료의약품에 따르되, 생약·한약명 다음에 사용한 추출용매 및 위를 반드시 기재하고, 추출하여 제조하는 경우 추출용매 및 물리적인 형태 등을 물리적인 형태(유동, 연조 및 건조)를 기재하고 수득률을 병기한다 [예 : 인 명확하고 자세하게 기재하도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "나. 추출하여 제조한 원료의약품",
+      "path": null,
+      "ko_txt": "삼30%에탄올건조엑스(5→1)]. 2) 한약 연조 및 건조엑스의 명칭은 처방명 다음에 물리적인 형태를 기재하고 필요한 경우 수득률을 병기한다 [예 : 갈근탕건조엑스(10→1)].",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "3. 함량기준",
+      "path": null,
+      "ko_txt": "다음 각 목에 따라 설정하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "3. 함량기준",
+      "path": null,
+      "ko_txt": "다만, 설정이 불가능한 사유에 대한 명 ○의약품의 한글명 및 영명은 의약품의 명명법 가이드라인 및 국제일반명칭(INNPS 백한 자료가 제출될 경우 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "3. 함량기준",
+      "path": null,
+      "ko_txt": ": International Nonproprietary Names for Pharmaceutical Substances)을 참고하여.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "때, 별표 7의 한약(생약)제제에서의 지표성분 설정 가능한 생약을 참고로 설 ○한글명은 원료약품및그분량에 기재한 명칭과 동일하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "다만, 설정이 불가능한 사유에 대한 명백한 자료가 제출될 경우 생 ○대한약전, 식약청장이 인정하는 「공정서 및 의약품집범위지정」(공정서등)에 수 략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "재된 성분, 식약청장이 정한 「대한약전외 의약품 등 기준」(KPC), 「대한약전외한 나. 지표성분을 백분율(%) 또는 단위분량에 대한 기준치(예 : 1.0g 중 ○○mg) 약(생약)규격집」(생규)에 수재된 성분의 경우에는 각 해당 규격에 기재된 명칭을 로 기재하고,( ) 안에 분자식, 분자량을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "○추출한 생약을 주성분으로 하는 경우 원료생약의 명칭과 분량(소요량)외에 추출액 ○한약(생약)제제의 원료의약품은 따로 근거가 없는 한 동 규정 [별표7]를 참조하여 의 종류(다만, 정제수인 경우 생략 가능하다)와 수득율을 병기(예 : 인삼 50%에탄올 설정 가능한 지표성분에 대하여 백분율(%) 또는 단위분자량에 대한 기준치로 기재 엑스(10→1)) 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "○원료생약을 분말화하여 제조하는 경우에도 원료생약과의 양적관계를 명확히 기재 - (예시) 이 약은 칡 Pueraria lobata Ohwi(콩과 Leguminosae)의 뿌리를 에탄올90% 한다.(예 : 감초가루(100→65)) 로 추출한 연조엑스로서, 이 약을 정량할 때 푸에라린(C21H20O9 : 416.38) 7%를 함유 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "가. 정량 가능한 생약․한약의 지표성분으로 설정하는 것을 원칙으로 한다. 이",
+      "path": null,
+      "ko_txt": "< 관련 법규 및 가이드라인 > - (예시) 이 약은 칡 Pueraria lobata Ohwi(콩과 Leguminosae)의 뿌리를 에탄올90% ․ 의약품 명명법 가이드라인(식품의약품안전청 가이드라인, B1-2010-2-007) 로 추출한 연조엑스로서, 이 약 1g 중에는 푸에라린(C21H20O9 : 416.38) 0.9 mg을 함유 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "2. 정의",
+      "path": null,
+      "ko_txt": "○한약(생약)제제의 원료의약품이 식약청고시 「대한약전외 의약품 등 기준」(KPC).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "가. 한약(생약) 원료의약품은 학명, 과명, 약용부위 등을 고려하여 명확하게 기",
+      "path": null,
+      "ko_txt": "에 수재되어 있는 품목이고 동 품목의 정량법이 제1법과 제2법으로 되어 있는 경 재한다 [예 : 이 약은 가자(訶子) Terminalia chebula Retzius(사군자과 우, 제1법 또는 제2법 중 한 가지 시험방법으로 시험할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "가. 한약(생약) 원료의약품은 학명, 과명, 약용부위 등을 고려하여 명확하게 기",
+      "path": null,
+      "ko_txt": "4. 성상 되 주로 박층크로마토그래프법으로 설정하고, 정색반응, 침전반응, 분해반 제13조에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "가. 한약(생약) 원료의약품은 학명, 과명, 약용부위 등을 고려하여 명확하게 기",
+      "path": null,
+      "ko_txt": "응, 자외부·가시부·적외부흡수스펙트럼, 특수반응 등의 순으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "는 중복되는 내용을 기재하지 않고 이를 인용하여 확인시험에 추가하여 기 ○ 성상은 맛, 냄새, 색, 형상 등의 외관과 원료약품의 물리적 성질을 나타내는 것 재할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "○ 색, 형상, 냄새, 맛 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "다만, 냄새 및 맛이 시험자의 건강에 영향을 줄 수 있는 경우에는 기재하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "예를 들면, 독극약, 마약, 향정신약 또는 작용이 ○ 확인시험은 모든 주성분에 대하여 기재할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "특히 함량기준을 정하지 않 격심한 것 등 시험자에게 건강상 영향을 줄 가능성이 있는 것 또는 비산성(飛散性) 았다든지 정량법을 기재할 수 없는 성분에 대해서는 원칙적으로 반드시 확인시험 의 약물에 대해서는 향과 맛을 규정하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "을 기재할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "○ 가루생약은 현미경 관찰 특성을 반드시 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "○ 만약 확인시험을 기재할 수 없는 경우에는 정량법의 경우처럼 시험할 수 없는 과 ○ 용해도는 필요한 경우 최소한 물, 에탄올, 에텔에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "또한, pH에 따 학적 이유를 구체적으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "른 영향도 기재하며, 시험에 사용하는 용매에 대하여도 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "○ 정색반응, 침전반응, 분해반응, 유도체 생성반응, 자외부․가시부․적외부스펙트럼, ○ 액성, 안정성(흡습성, 광안정성 등) 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "특수반응, 양이온․음이온 정성반응의 순서로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "○ 액성, 안정성(흡습성, 광안정성 등), 점도, pH, 용해도는 단순히 참고로 제공한 것 ○ 확인시험도 가능하고 정량법 시험도 가능한 주성분(한약(생약))의 경우에는 “정량 으로 적부 판정기준을 제시하는 것은 아니다(다만, 이 물리적 성질중 성분에 따라 법에 따라 시험할 때 검액은 표준액과 같은 유지시간에서 피크를 나타낸다”는 내용 서는 시성치로서 기재하도록 요구되는 경우도 있으므로 주의한다). 을 확인시험에 추가 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "○ 주성분 중 한성분이라도 확인시험을 하지 못하는 한약(생약)이 있는 경우에는 엑스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "함량시험을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "5. 제조방법 제14조에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "7. 시성치.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "원료의약품의 본질 및 순도를 나타내기 위하여 다음 각 목을 참조하여 필요한 ○ 동규정 제 14조의 해설을 참고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "항목을 설정하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "나. 확인시험 이외의 설정된 시험항목에서 원료의약품의 확인이 가능한 경우에",
+      "path": null,
+      "ko_txt": "가. 굴절률, 비누화가, 비비누화물, 비선광도, 비점, 비중, 산가, 수산기가, 에스텔 < 관련 법규 및 가이드라인 > 가, 요오드가, 융점, 응고점, 점도, 지방산의 응고점, pH, 흡광도 등 물리·화 ․「의약품제제의 제조방법 기재요령」(식품의약품안전청 훈령) 학적 방법으로 측정되는 정수 ․ 한약(생약)제제의 제조방법 상세기재 요령(식품의약품안전청 가이드라인,.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "나. 시성치의 측정은 「대한약전」 일반시험법에 따르는 것으로 하고 기준치를",
+      "path": null,
+      "ko_txt": "B1-2009-3-015) 기재한다(예 : pH 3.0～5.0). 다만 세부사항을 각조에 기재하도록 되어 있는 시험항목의 경우에는 그 세부사항을, 한 가지 항목에 대한 시험법 또는 장.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "6. 확인시험",
+      "path": null,
+      "ko_txt": "치가 2개 이상인 경우에는 시험법명 또는 장치명을 약전시험법명과 함께 기 다음 각 호에 따라 설정하여 기재하며, 설정이 불가능한 사유에 대한 명백한 재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "6. 확인시험",
+      "path": null,
+      "ko_txt": "자료가 제출될 경우 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "6. 확인시험",
+      "path": null,
+      "ko_txt": "다.「대한약전」이외 공정서등의 일반시험법을 따르는 경우에는 시험방법에 공 정서명과 시험법명을 동시에 기재하고 세부사항을 각조에 기재하도록 되어.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "가. 원료의약품의 특성에 기인한 특이성 있는 이화학적시험을 중심으로 설정하",
+      "path": null,
+      "ko_txt": "- 31 - - 32 - 있는 경우나 시험법 또는 장치가 2개 이상인 경우에는 시험법명 또는 장치 8. 순도시험 명을 기준치와 함께 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "가. 원료의약품의 특성에 기인한 특이성 있는 이화학적시험을 중심으로 설정하",
+      "path": null,
+      "ko_txt": "가. 색깔, 냄새, 맛, 용해상태, 액성, 산 또는 알칼리, 무기염(황산염, 염화물, 질 라.「대한약전」 및 공정서등에 수재되지 않은 경우에는 시험방법을 기준치와 산염), 암모늄, 중금속, 금속(아연, 철 등), 비소, 유기물, 일반이물(제조공정 함께 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "가. 원료의약품의 특성에 기인한 특이성 있는 이화학적시험을 중심으로 설정하",
+      "path": null,
+      "ko_txt": "으로부터 혼입, 잔류, 생성 또는 첨가될 수 있는 불순물을 말한다) 증발잔 마. 품질의 적부판정 기준으로 할 필요가 없는 시성치는 성상항에 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "가. 원료의약품의 특성에 기인한 특이성 있는 이화학적시험을 중심으로 설정하",
+      "path": null,
+      "ko_txt": "류물, 기타혼재물(잔류용매 등)의 순서로 기재하되 필요없는 항은 제외한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "나. 용해상태는 그 원료의약품의 순도를 판단할 수 있는 경우에 설정하여 기재",
+      "path": null,
+      "ko_txt": "○ 시성치는 단지 참고치가 아니라 적부판정의 기준이 되므로 성상항에 기재하지 않 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "나. 용해상태는 그 원료의약품의 순도를 판단할 수 있는 경우에 설정하여 기재",
+      "path": null,
+      "ko_txt": "고 확인시험항 다음에 항을 설정하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "다. 무기염, 중금속, 비소는 제조과정, 용법·용량 등을 고려하여 필요한 항목을",
+      "path": null,
+      "ko_txt": "○ 이 경우에 시성치라는 항목을 별도로 만드는 것은 아니고 융점, 비선광도 등의 항 설정하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "다. 무기염, 중금속, 비소는 제조과정, 용법·용량 등을 고려하여 필요한 항목을",
+      "path": null,
+      "ko_txt": "목을 확인시험, 순도시험 등과 같은 방식으로 「대한약전」 형식에 맞춰 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "「대한약전」중 의약품잔류용매기준 또는 공정서등에 수재된 공인된 방법 < 예시 > 에 따라 설정하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "- 굴절률 n20 : 1.449 ~ 1.454(대한약전 글리세린) D 마. 생약․한약의 경우는 재배, 수확, 제조, 보관 및 운송과정에서 혼입 가능한 - 비누화가 180 ~ 192(대한약전 간유) 오염물질 및 잔류물질, 위·변조 가능한 것 등에 대하여 기재하고, 정제부 - 비비누화물 3.0 % 이하(대한약전 간유) 자, 부자, 천오, 초오 및 이들 포제품은 아코니틴의 순도시험을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "- 비선광도 [α]20 : +107 ~ +121°(환산한 건조물로서 0.25 g, 물, 25 mL, 200 mm) D (대한약전 겐타마이신황산염) ○ 순도시험은 의약품 중의 혼재물을 시험하기 위한 것으로서 정량법과 함께 의약품 - 비중 d20 : 0.918 ~ 0.928(대한약전 간유) 20 의 순도를 규정하는 시험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "- 산가 1.7 이하(대한약전 간유) ○ 이 시험의 대상이 되는 혼재물은 의약품의 제조과정으로부터 혼재가 예상되는 성 - 수산기가 210 ~ 232(대한약전 세탄올) 분, 보존중의 분해산물 등으로서 그 의약품의 제법, 특성으로 보아 타당한 혼재물질 - 에스텔가 2.0 이하(대한약전 세탄올) 의 종류 및 그 양의 한도를 규정하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "- 요오드가 130 ~ 170(대한약전 간유 ) ○ 안전성에 문제가 되는 유해한 혼재물인 중금속, 비소 납 등의 항을 설정하여야 한 - 융점 47 ~ 53 ℃ ｢스테아릴알코올｣의 융점측정법에 따라 시험한다(대한약전 세탄 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "올). ○ 한약(생약) 자체에 유해한 성분이 함유되어 있음이 확인되는 경우 그 양의 한도를 - 지방산의 응고점 36 ~ 42 ℃(대한약전 돈지) 안전성을 고려하여 타당하게 설정하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "- 점도 1) 덱스트란 40 이 약을 건조하여 그 0.2 ~ 0.5 ｇ을 정밀하게 달아 물에 녹여 정확하게 100 mL로 하여 검액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "검액 및 물을 가지고 25 ℃에서 점도측정 < 예시 > 법 제 1 법에 따라 시험할 때 극한점도는 0.16 ~ 0.19이다(대한약전 덱스트란 40). 「대한약전」 산초 순도시험 중 - pH 이 약 1.0 g을 물 10 mL에 녹인 액의 pH는 4.5 ~ 5.5이다(대한약전 가벡세이트 - 씨 이 약은 씨가 20.0 % 이상 섞여 있지 않다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "메실산염). - 열매꼭지 및 가지 이 약은 열매꼭지 및 가지가 5.0 % 이상 섞여 있지 않다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "- 이물 이 약은 씨, 열매꼭지 및 가지 이외의 이물이 1.0 % 이상 섞여 있지 않다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "< 관련 법규 및 가이드라인 > - 분지나무의 열매 이 약의 탄닌질 덩어리는 바닐린·염산시액을 넣을 때 적색을 나 ․「대한약전」(식품의약품안전청 고시) 타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "- 33 - - 34 - ○시험에 따라 별도로 조작하여야 하는 내용(예 : 건조감량의 건조조건, 검체 취하는 「대한약전」백출(白朮) 순도시험 중 양 등)은 상세하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "- 창출 이 약의 가루 2 g을 달아 헥산 5 mL를 넣고 5 분간 흔들어 섞은 다음 여과하 ○건조감량 규격은 따로 근거가 없는 한 실측통계치에 대하여 120.0%이하로 설정할 여 검액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "이 액을 가지고 박층크로마토그래프법에 따라 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "검액 10 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "μL를 박층크로마토그래프용실리카겔로 만든 박층판에 점적한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "라. 잔류용매는 제조공정 중에 사용된 용매에 대하여 제5조제3항의 제출자료와",
+      "path": null,
+      "ko_txt": "다음에 헥산·아세 톤혼합액(7:1)을 전개용매로 하여 약 10 cm 전개한 다음 박층판을 바람에 말린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "10. 회분시험",
+      "path": null,
+      "ko_txt": "여기에 분무용 ρ-디메틸아미노벤즈알데히드시액을 고르게 뿌린 다음 100 ℃에서 5 일반적으로 「대한약전」일반시험법 중 생약시험법에 따라 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "10. 회분시험",
+      "path": null,
+      "ko_txt": "다만, 분간 가열할 때 Rf 값 0.3 ∼0.6 에서 녹색 ∼녹회색의 반점을 나타내지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "10. 회분시험",
+      "path": null,
+      "ko_txt": "다른 시험법을 사용할 경우에는 시료량, 회화온도 및 시간을 명확하게 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "10. 회분시험",
+      "path": null,
+      "ko_txt": "「대한약전」부자(附子) 순도시험 중.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "- 아코니틴 이 약의 가루 20 g을 달아 에테르 150 mL를 넣어 10 분간 흔들어 섞은 일반적으로 「대한약전」일반시험법 중 생약시험법에 따라 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "다만, 다음 암모니아 시액 10 mL를 넣어 30 분간 흔들어 섞은 다음 1 ∼2 시간 방치한 실측통계치가 1.0% 미만일 경우에는 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "다음 에테르층을 취하여 증발건고하고 에탄올 2 mL에 녹여 검액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "따로 아코니틴표준품 20 mg을 달아 에탄올 10 mL에 녹여 표준액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "이들 액을 가지고 박층크로마토그래프법에 따라 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "검액 및 표준액 5 μL씩을 박층크로 ○회분 또는 산불용성회분은 의약품을 강열할 때 휘산하지 않고 잔류하는 물질의 양 마토그래프용실리카겔을 써어 만든 박층판에 점적한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "다음에 헥산·에틸아세테이 으로서 일반적으로 유기물 또는 생약 중에 불순물로 함유되어 있는 무기물의 함량 트혼합액(1:1)을 전개용매로 하여 약 10 cm 전개한 다음 박층판을 바람에 말린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "또는 이들 의약품 중에 구성성분으로 함유되어 있는 무기물의 함량을 측정하는 시 여기에 요오드화칼륨시액·요오드화비스무트시액혼합액(1:1)을 고르게 뿌릴 때 검액 험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "의 반점은 표준액의 반점보다 진하지 않다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "○회분은 따로 근거가 없는 한 실측통계치에 대하여 120.0% 이하로 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "11. 산불용성회분시험",
+      "path": null,
+      "ko_txt": "< 관련 법규 및 가이드라인 > < 예시 > ․「대한약전」(식품의약품안전청 고시) - 강열잔분 0.1 % 이하(1 g) - 회분 2.0 % 이하(대한약전 가자(訶子)) - 산불용성회분 0.4 % 이하(대한약전 가자(訶子)).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "9. 건조감량",
+      "path": null,
+      "ko_txt": "< 관련 법규 및 가이드라인 >.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "가. 일반적으로 「대한약전」일반시험법 중 생약시험법에 따라 설정한다. 다",
+      "path": null,
+      "ko_txt": "․「대한약전」(식품의약품안전청 고시) 만, 다른 시험법을 사용할 경우에는 시료량, 건조온도 및 시간을 명확하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "12. 엑스함량시험",
+      "path": null,
+      "ko_txt": "원칙으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "12. 엑스함량시험",
+      "path": null,
+      "ko_txt": "일반적으로 「대한약전」일반시험법 중 생약시험법에 따라 시험하고 한약제 제에서 주성분 중 한 성분이라도 확인시험을 하지 못하는 경우에 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "12. 엑스함량시험",
+      "path": null,
+      "ko_txt": "○건조감량시험은 검체 중에 함유되어 있는 수분, 휘발성물질 등으로부터 기인하는 것으로서 건조에 따른 감량을 알기 위한 목적으로 하는 시험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "12. 엑스함량시험",
+      "path": null,
+      "ko_txt": "이 시험은 약전 ○엑스함량시험은 주로 묽은에탄올엑스로 설정하고 생약의 특성에 따라 물 또는 에 일반시험법 생약시험법 중 건조감량항에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "12. 엑스함량시험",
+      "path": null,
+      "ko_txt": "텔 등의 엑스로서 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "14. 기타시험",
+      "path": null,
+      "ko_txt": "< 예시 > 제1호부터 제13호까지의 항목 이외에 품질평가 및 안전성·유효성 확보와 직접 - 엑스함량 묽은에탄올엑스 20.0 % 이상(대한약전 방풍(防風)) 관련이 있는 시험항목이 있는 경우에 설정한다.(예 : 중금속시험, 잔류농약시 험, 미생물한도시험 등) ○ 품질평가 및 유효성․안전성 확보에 직접 관여하는 시험항목으로 다른 항목의 대.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "13. 특수시험",
+      "path": null,
+      "ko_txt": "상이 되지 않는 것을 규정하는 것으로, 필요한 경우에 설정하도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "가. 필요한 경우 설정하되 효력시험 및 성능시험 등을 설정하여 기재한다.",
+      "path": null,
+      "ko_txt": "○ 입자도(Particle size) : 고형 또는 현탁형 제제에 사용되는 원료의약품에서는 그 입.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "자도가 용출률, 생체이용률(bioavailability) 및 안전성에 현저한 영향을 미치는 경우 시험, 히스타민시험을 설정하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "이러한 경우에는 적절한 입자도 분포의 시험방법과 판정기준을 별첨규격 에 설정할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "○ 특수시험에는 항원성시험, 제산력시험, 위장약의 pH시험, 소화력시험, 히스타민시 ○ 엔도톡신시험법 : 엔도톡신시험법은 그램 음성균 유래의 엔도톡신이 참게(Limulus 험 등이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "polyphemus 또는 Tachypleus tridentatus) 혈구 추출성분 LAL(Limulus ○ 안전성시험(독성물질시험)은 성분조성이 불명확한 것, 예를 들어 단백․장기추출 Amebocyte Lysate)을 활성화하고 겔화를 일으키는 반응을 토대로 하여 엔도톡신을 주사제 등에 필요한 시험으로 사망유무를 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "「대한약전외 의약품등 기준」 검출 또는 정량하는 방법이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "엔도톡신시험법은 발열성물질시험의 대체시험법이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "트롬빈(5000 단위) 산을 참고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "○ 발열성물질 시험법 : 발열성물질 시험은 정맥주사 시에 보이는 오한 전율을 동반하 ○ 항원성시험은 단백․장기추출성 주사제, 기타 효소계 주사제에 필요한 시험으로서 는 발열의 원인이 되는 물질이 존재하는지의 여부를 알기 위한 것이 목적이며, 토 기니피그를 사용하여 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "검체 또는 양성 대조로 말혈청을 복강내에 주사하 끼의 정맥에 대량의 검액(시험하고자 하는 주사제)을 주사하여 발열하는지의 여부 여 쇼크의 유무를 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "대한약전 덱스트란 40 항원성시험을 참고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "를 조사하는 시험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "○ 히스타민시험은 단백․장기추출 주사제, 기타 효소계 주사제에 필요한 시험으로서 ○ 무균시험 : 무균시험은 모든 주사제 및 점안제에 필요한 시험으로, 약전 일반시험 「대한약전」일반시험법의 히스타민시험법에 따라 시험할 때 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "법의 무균시험법에 준하여 실시하며 그 기재는 예컨대 ‘이 약은 멤브렌필터법에 의 ○ 소화력시험은 디아스타제, 판크레아틴, 함당펩신 등 효소제에 필요한 시험으로서 해 시험할 때 이에 적합하다’라고 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "약전 일반시험법의 소화력시험법 및 적절한 역가측정법에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "디아스타제류는 ○ 미생물한도 시험은 의약품 등에 존재하는 증식능력을 가지는 특정 미생물의 정성 「대한약전」 디아스타제의 전분소화력시험, 판크레아틴류는 약전 판크레아틴의 (定性), 정량시험으로, 「대한약전」 일반시험법의 미생물한도시험법에 따르고, 그 단백소화력시험과 전분소화력시험, 함당펩신류는 「대한약전」 함당펩신의 단백소 한도기준은 「대한약전외 일반시험법」 [별표2]에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "본 시험법에는 생균수시 화력시험을 설정하여 그 규격의 하한선을 정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "이들 시험법은 정량법으로 간주 험(세균 및 진균)과 특정 미생물시험(대장균, 살모넬라, 녹농균 및 황색포도구균)이 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "포함된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "○ 제산력시험은 건조수산화알루미늄겔, 규산마그네슘, 합성규산알루미늄 등과 같이 ○ 중금속 시험은 생약 등의 잔류․오염물질 기준 및 시험방법 중 생약 등의 중금속 위에서 산과 반응하여 제산작용을 나타내는 무기성 제산제의 원료의약품 및 그 제 기준 및 시험방법에 따라 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "제의 제산력을 구하기 위해서 적용하는 시험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "「대한약전」 일반시험법의 제산 ○ 잔류농약시험은 생약 등의 잔류․오염물질 기준 및 시험방법 중 생약 등의 잔류농 력시험법을 참고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "약기준 및 시험방법에 따라 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "< 관련 법규 및 가이드라인 > ․「대한약전」(식품의약품안전청 고시) 일반시험법 ․「생약 등의 잔류․오염물질 기준 및 시험방법」(식품의약품안전청 고시) - 37 - - 38 - 히 확인되어야 하며, 필요시 표준품에 대한 구조를 확인한 정보까지 포함하여 제출 하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "15. 정량법 ○ 표준품의 규격에 관한 자료로서 시험성적서(순도 포함), 필요에 따라 정제법(제조 그 물질의 함량, 함유단위 등을 물리적·화학적 또는 생물학적 방법에 의하여 방법 포함)을 제출해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "동 규정 제34조제2항16호 및 제35조제4항11호에 따라 측정하는 시험법으로 정확성, 정밀성 및 특이성이 높은 시험법을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "해당 표준품이 사용목적에 적합한 규격임을 확인할 수 있는 시험방법을 설정하는 것이며, 표준품은 99.0% 이상의 함량인 것을 원칙으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "○ 정량법은 해당 의약품의 조성, 유효성분의 함량, 역가 또는 함량 단위를 물리적, 화 ○ 표준물질은 함량이 99.0 % 이상인 것으로 하는데, 그 순도를 규정하는데 불필요한 학적 또는 생물학적 방법을 통해 측정하는 시험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "상대적인 시험방법을 설정하 순도시험(중금속, 비소 등)을 실시할 필요는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "정량용 표준물질에 대해 함량 는 경우에는 정량시험에 이용하는 표준물질에 대해 규격을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "99.0 % 이상의 것을 구할 수 없는 경우에는 그 이유와 근거 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "또, 정 량분석이 불가능하다는 등의 이유로 인해 함량 측정이 곤란한 경우에는 상정되는 ○ 정량법은 정확성, 정밀성 및 특이성을 중시하여 시험방법을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "단, 특이성이 불순물의 한도치를 엄격하게 규정한 규격을 설정하고 항상성이 확보됨을 정제법과 낮은 방법이라도 적절한 순도시험을 통해 혼재물의 한도가 엄격하게 규제되어 있 는 경우에는 재현성이 좋은 절대량을 측정할 수 있는 시험방법을 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "규격 등을 토대로 하여 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "그 경우에는 특이성에 결여되는 부분에 대해 순도시험 등에 특이성이 높은 방법을 ○ 시약과 시액은 원칙적으로 대한약전 일반시험법의 시약, 시액을 이용하며, 대한약 이용함으로써 상호 보완할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "전 이외의 것을 이용할 때에는 별도로 항을 만들어 그 품질, 제법 등 대한약전 일반 ○ 각 성분을 분리하거나 그 성분의 특성을 살린 정량법을 작성하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "특히 정 시험법의 시약, 시액 항에 준하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "량법은 확인시험과는 달리 각 성분을 분리할 때에는 용매에 대한 용해도 등을 충분 ○ 기구는 원칙적으로 대한약전 일반시험법 또는 공정서에서 정한 것 이외의 기구를 히 고려하여 분리조작을 적절하게 할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "이용할 때에는 그 도면 및 치수, 사용방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "나. 단백․장기추출(가수분해)물 등에 대하여 필요한 경우 안전성시험, 항원성",
+      "path": null,
+      "ko_txt": "< 관련 법규 및 가이드라인 > 16. 「대한약전」및 공정서 등에 수재되지 아니한 표준품, 시약·시액을 사용하는 ․「대한약전」(식품의약품안전청 고시) 일반시험법 표준품, 시약․시액 경우에는 다음 각 호에 맞게 작성하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "가. 표준품은 사용목적에 맞는 규격을 설정하며 정제법(해당원료의약품 이외의",
+      "path": null,
+      "ko_txt": "물질로 구입하기 어려운 경우에는 제조방법을 포함한다.)을 기재하고, 정량 용원료는 절대량을 측정할 수 있는 시험방법으로 함량을 측정하는 방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "다. 시약·시액은 조제법을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 표준품은 정량, 확인 또는 순도시험에서 표준으로 사용하기 위해 만든 성분이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "다. 시약·시액은 조제법을 기재한다.",
+      "path": null,
+      "ko_txt": "표준품은 용도에 적절한 품질을 구비해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "다. 시약·시액은 조제법을 기재한다.",
+      "path": null,
+      "ko_txt": "일상적인 시험을 위한 것 이외의 추가적인 방법으로 특성 분석을 실시하고 목적 용도에 적합한지 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "다. 시약·시액은 조제법을 기재한다.",
+      "path": null,
+      "ko_txt": "정량 시 험용 표준품인 경우에는 유연물질을 적절히 확인하고 관리해야 하며, 순도를 정량 적 방법으로 측정해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "다. 시약·시액은 조제법을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 표준품이 「대한약전」 또는 공정서에 없는 경우 표준품의 특성 및 품질이 명확 - 39 - - 40 - [부록 4] 1) 로트의 선정 안정성에 관한 자료 4).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "미치지 않을 것으로 판단되는 경우에는 예외로 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "원료의약품 등록 시 제출해야 할 안정성 시험자료의 요건은 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "나. 3로트 이상에 대하여 시험하는 것을 원칙으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "일반사항 2) 보존조건 : 사용온도에 따라 다음의 조건에서 실험해야 하며 다만, 별도의 저장 ○ 원칙적으로 안정성 시험 자료는 원료의약품의 재시험일(re-test date)를 알 수 있 온도가 설정된 경우에는 그 설정온도로 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "는 (입증할 수 있는) 최근 생산 로트의 자료이어야 함 가) 실온보관의약품 : 25±2℃/상대습도 60±5% 또는 30±2℃/상대습도 65±5%. ○ 구체적인 시험방법: 기준 및 시험방법 다만, 반투과용기의 경우 25±2℃/상대습도 40±5%또는 30±2℃/상대습도 35±5% ○ 시험기초자료: 분석크로마토그램을 포함한 시험내용을 검토할 수 있는 자료로서 나) 냉장보관의약품 : 5±3℃ 최소 1로트 이상 제출 다) 냉동보관의약품 : ­20±5℃ * 단, 원료의약품 등록 관련 실태조사가 예정되어 있는 경우에는 안정성에 관한 자료 3) 시험기간 및 측정시기 : 12개월 이상을 원칙으로 하여 설정한 사용기간 이상 의 시험기초자료의 제출을 면제할 수 있음 시험하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "○ 기타 자료에 대한 요건은 “의약품등의 안정성시험기준”(식약처고시)에 준하는 자 4) 측정시기: 시험개시 때와 첫 1년간은 3개월마다, 그 후 2년까지는 6개월마다, 2 료를 말하며 그 내용은 다음과 같음 년 이후부터는 1년에 1회 시험한다.(Re-test 제한횟수는 없으며, specification을 - 12개월의 장기보존시험자료 제출 시 6개월 가속시험자료로 24개월까지 인정 가능 만족하는 경우 일정 간격을 두고 반복하여 재평가한다.) - 최초 등록 시 안정성시험계획서(stability)를 제출하여 적정사용기간 설정(protocol 5) 시험항목 : 기준 및 시험방법에 설정한 전 항목을 원칙으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "다만, 시험항 변경 시 변경등록으로 관리) 목을 생략할 경우에는 그 사유를 명확히 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "1. 안정성시험이라 함은 의약품등의 저장방법 및 사용기간을 설정하기 위하여 경 6) 시험회수 : 각 시험항목별로 3회 이상 실시하여 그 평균치를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "다만, 시변화에 따른 품질의 안정성을 평가하는 시험을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "validation 자료 등에 의해 시험방법의 재현성이 입증된 경우에는 그러하지 아니 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "(1회 실시 가능) 2. “장기보존시험”이라 함은 의약품등의 저장조건 하에서 사용기간(또는 유효기 간)을 설정하기 위하여 장기간에 걸쳐 의약품등의 물리화학 및 생물학적 안정 성을 확인하는 시험을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "□ 가혹시험 3. “가혹시험”이라 함은 가혹조건 하에서 의약품등의 분해과정 및 분해산물 등을 ○ 시험기준 확인하기 위한 시험을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "1) 시험조건 : 광선, 온도, 습도에 대해 검체의 특성을 고려하여 설정하며, 수용액 4. “가속시험”이라 함은 장기보존시험의 저장조건을 벗어난 단기간의 가속조건이 상태에서의 시험조건(광선, 온도, pH)을 포함하여 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "의약품등의 안정성에 미치는 영향을 평가하기 위한 시험을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "2) 시험항목 : 품질관리상 중요한 항목 및 분해산물 생성유무를 확인 및 정량하여야 하며 중요한 분해산물에 대하여는 그에 대한 물리화학적 성질을 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "장기보존시험 3) 로트의 선정, 시험기간, 시험회수 등은 검체의 특성 및 시험조건에 따라 적절히 정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "○ 시험기준 ※ 참고자료 4) 「원료의약품 등록 제도(DMF) 해설서」Ⅲ. 원료의약품 등록에 관한 규정(26쪽) 해설 참조 - 41 - - 42 - Guideline on stability testing : Stability testing of existing active substanced and 자료제출 related finished productsCPMP/QWP/122/ 02, 2003.12. 17) → 습도: 75%RH 이상, 온도: 가속시험 조건보다 10℃ 이상으로 규정 시험자료는「의약품등의 안정성시험기준」(식약처고시)의 시험기준에 따라 설비가 Stability testing : Photo stability testing of new drug substances and products(ICH 충분한 시설에서 경험과 책임이 있는 시험자에 의하여 검증된 시험법에 따라 실시 guideline Q1B, 1996.11) 한 자료이어야 하며 다음과 같은 내용을 명기하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "→ 광도 : 120만 Lux/hr, 200watt/hr/m^2 으로 규정 1) 시험기관의 명칭, 소재지 가속시험 2) 시험책임자의 성명, 직책 3) 용기 및 포장형태, 제조일자, 생산량 및 제조번호 ○ 시험기준 4) 시험기간 및 보존조건(온도, 습도 등) 1) 로트의 선정 : 장기보존시험 기준을 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "가. 시판할 제품과 재질이 동일한 포장용기를 사용한다. 다만, 안정성에 영향을",
+      "path": null,
+      "ko_txt": "5) 시험결과 요약 및 시험결과에 대한 시험책임자의 종합의견 2) 보존조건 가) 실온보관의약품 : 40±2℃/상대습도 75±5% 또는 온도에 따른 적절한 상대습 도를 고려하여 장기보존시험 지정저장온도보다 15℃ 이상 높은 온도로 한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "다. 다만, 반투과용기의 경우 40±2℃/상대습도25%이하로 한다",
+      "path": null,
+      "ko_txt": "나) 냉장보관의약품 : 25±2℃/상대습도 60±5% 다) 냉동보관의약품 : 개개의 품목에 따라 별도 기준 적용 3) 시험기간 : 6개월 이상을 원칙으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "다. 다만, 반투과용기의 경우 40±2℃/상대습도25%이하로 한다",
+      "path": null,
+      "ko_txt": "4) 측정시기 : 시험개시 때를 포함하여 일정 간격의 3개 시점 이상으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "다. 다만, 반투과용기의 경우 40±2℃/상대습도25%이하로 한다",
+      "path": null,
+      "ko_txt": "5) 시험항목 및 시험회수 : 장기보존시험 기준을 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "다. 다만, 반투과용기의 경우 40±2℃/상대습도25%이하로 한다",
+      "path": null,
+      "ko_txt": "6) 추가시험 : 실온보관의약품의 경우 가속시험에서 유의성 있는 변화*가 발생하 면 중간조건시험 (30±2℃/상대습도 65±5%, 반투과용기의 경우 30±2℃/상대습 도 35±5%)을 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "다. 다만, 반투과용기의 경우 40±2℃/상대습도25%이하로 한다",
+      "path": null,
+      "ko_txt": "다만, 30±2℃/상대습도 65±5%에서 장기보존시험을 실 시한 경우 (반투과용기의 경우 30±2℃/상대습도 35±5%) 장기보존시험이 중간 조건시험을 대신할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "다. 다만, 반투과용기의 경우 40±2℃/상대습도25%이하로 한다",
+      "path": null,
+      "ko_txt": "로트의 선정은 장기보존시험 기준을 따르며, 중간 조건시험결과로 사용기간 등을 정하기 위하여 12개월 이상의 중간조건시험자 료가 있어야 하며, 시험개시 및 종료시점을 포함하여 최소 4번의 시험이 수행 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "다. 다만, 반투과용기의 경우 40±2℃/상대습도25%이하로 한다",
+      "path": null,
+      "ko_txt": "* 유의성 있는 변화 : 규격에 적합하지 않은 경우를 말함 7) 상기 보존조건 및 시험기간 등이 가속시험 목적에 부적당하거나 경시변화가 일 어나기 쉽다고 판단되는 경우에는 장기보존시험기준에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "다. 다만, 반투과용기의 경우 40±2℃/상대습도25%이하로 한다",
+      "path": null,
+      "ko_txt": "- 43 - - 44 - 재‧개정 이력 한약(생약) 추출물 품질관리 가이드라인 제‧개정번호 승인일자 주요내용 한약(생약) 추출물 품질관리 2015. 12. 가이드라인 제정 한약(생약) 추출물 품질관리 가이드라인 발 행 일 2015년 12월 16일 발 행 인 손여원 편 집 위 원 장 김대철 편 집 위 원 박주영, 문현주, 강인호, 김세은, 이병희, 김지선, 장정인, 김민경 도 움 주 신 분 한약정책과 좌정호, 박기숙, 김병삼 발 행 처 식품의약품안전평가원 바이오생약심사부 생약제제과 - 45 - - 46 -.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

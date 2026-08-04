@@ -1,0 +1,424 @@
+{
+  "document_id": "kk_cris_0001",
+  "meta": {
+    "set": "KK",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000001",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=911",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": "심혈관질환의 위험도를 높이는 한국형 관리지표개발 및 이의 조절로 인한 심혈관질환 예방효과 검증을 위한 전향적연구",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": "심혈관 질환의 여러 위험 인자들을 갖고 있는 환자에서 주요 심혈관계 사건의 위험성 감소에 대한 피타바스타틴 2mg 1일 1회 용법의 무작위배정, 다기관, open-labeled, 2개군, 평행군 시험",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": "서울아산병원 임상연구심의위원회/기관생명윤리위원회",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": "한기훈",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": "부교수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": "울산대학교",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": "김은정",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": "연구간호사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": "서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": "김은영",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": "연구간호사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": "서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": "학교법인연세대학교의과대학세브란스병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": "가톨릭대학교부천성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": "아주대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_4.참여기관_기관명",
+      "path": null,
+      "ko_txt": "서울특별시보라매병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_5.참여기관_기관명",
+      "path": null,
+      "ko_txt": "서울특별시보라매병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_6.참여기관_기관명",
+      "path": null,
+      "ko_txt": "순천향대학교부속부천병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_7.참여기관_기관명",
+      "path": null,
+      "ko_txt": "분당서울대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_8.참여기관_기관명",
+      "path": null,
+      "ko_txt": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_9.참여기관_기관명",
+      "path": null,
+      "ko_txt": "가톨릭대학교 성빈센트병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_10.참여기관_기관명",
+      "path": null,
+      "ko_txt": "고려대학교의과대학부속안산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_11.참여기관_기관명",
+      "path": null,
+      "ko_txt": "고려대학교의과대학부속구로병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_12.참여기관_기관명",
+      "path": null,
+      "ko_txt": "한림대학교성심병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_13.참여기관_기관명",
+      "path": null,
+      "ko_txt": "세종병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_14.참여기관_기관명",
+      "path": null,
+      "ko_txt": "중앙대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_15.참여기관_기관명",
+      "path": null,
+      "ko_txt": "재단법인아산사회복지재단 서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": "질병관리본부",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": "질병관리본부",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "6. 연구책임기관_2.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": "재단법인아산사회복지재단 서울아산병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "국내의 심혈관질환이 급증하고 있으며, 심혈관질환의 위험인자인 당뇨 및 대사증후군의 빈도 또한 증가하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "그러나 심혈관질환을 감소시키기 위한 중요한 방편의 하나인 혈중 콜레스테롤을 낮추는 중요제제인 스타틴제재의 효용성이 한국인에서 증명된 바 없다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "본 연구는 당뇨병 및 대사증후군이 있으면서 심혈관질환과 관련된 기타위험인자들을 가지고 있으나 현행 보험급여기준에 해당되지 않는 총콜레스테롤 수치가 220mg/dl 미만의 수치를 보이는 경우에서 과연 스타틴제재의 장기투여가 심혈관질환의 발생을 예방할 수 있을지를 평가하고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "임상시험용 의약품 : 피타바스타틴 2 mg 정제 경구투여 (1일 1회 아침) 또는 비약물투여 후 마지막 환자 등재 후 최소 60 개월간 관찰",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": "치료군",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_상세내용",
+      "path": null,
+      "ko_txt": "Pitavastatin 2mg QD 복용",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_군명",
+      "path": null,
+      "ko_txt": "비치료군",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_상세내용",
+      "path": null,
+      "ko_txt": "약물복용없이 관찰",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": "1. 피험자 동의 서면 획득 2. 총콜레스테롤 수치가 220mg/dl 미만 다음 2. 또는 3. 항목중 최소 한가지에 해당되는 경우 2. 확진된 당뇨병상태이며 다음의 위험인자들을 최소한 2가지 이상 가지고 있는 경우 - 남성 45세, 여성 55세 이상 - 흡연 - 고혈압 - 낮은 HDL cholesterol 수치 (40 mg/dl 미만) - 복부비만 (남 90 cm, 여 85 cm 이상의 허리둘레) 3. 현재 당뇨병상태가 아니며, NCEP-III지침에 의한 심혈관질환의 발생위험도가 향후 10년간 20% 이상이면서 대사증후군에 해당되는 경우",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": "1. 갑상선기능저하증, 뇌하수체기능저하증 또는 기타 내분비계 질환과 같은 조절되지 않는 내분비계 질환. 2. 임신이나 수유부 또는 임신이나 수유를 계획하고 있는 여성 3. 신장기능이상 4. HIV 양성 5. 간기능이상 또는 근육효소수치증가 6. 암의 병력 7. 임상적으로 유의한 심혈관계 질환의 병력이 있는 경우 8. 기초방문 전 30일이내 다른 임상시험용 치료(고지혈증과 관련된 약물 또는 기기)를 받은 경우 9. 6주 이내 금지약물의 병용요법을 시작 10. 만 80세 이상의 고령 11. 높은 중성지방 수치 400mg/dl 초과 12. 낮은 총콜레스테롤 수치 150mg/dl 미만 13. HbA1C 수치 11.0% 초과",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": "임의의 심근경색, 임의의 뇌졸중, 심혈관계 사망, 심혈관계 원인으로 인한 입원(불안정성 협심증, 이로가성허혈성 발작, 유의한 혈관의 협착의 발생 또는 혈관재생술/혈관재개통술)",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": "시험기간동안(무작위배정부터 시험종료일까지 포함:60개월) CEC가 유효하다고 검증한, 다음 판정사건의 첫 발생",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "Primary outcome + 혈관 협착의 발생 및 기타 심근 허혈의 발생, 모든 원인의 사망",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "시험기간동안(무작위배정부터 시험종료일까지 포함:60개월) CEC가 유효하다고 검증한, 다음 판정사건의 첫 발생",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

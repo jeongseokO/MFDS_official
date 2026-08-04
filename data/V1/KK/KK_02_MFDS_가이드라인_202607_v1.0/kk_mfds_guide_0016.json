@@ -1,0 +1,4258 @@
+{
+  "document_id": "kk_mfds_guide_0016",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "1. 바이오의약품 설계기반 품질고도화(QbD) 모델 개발 안내서[민원인안내서] 배포용.pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "3. 바이오의약품 개발 단계별 QbD 개발 전략 16",
+      "path": null,
+      "ko_txt": "4. QbD 실현을 위한 개발 시 고려사항 23 (1) Risk Management – 에러 (Error)와 마진 (Margin)의 이해 23 (2) 비교동등성과 변경관리, 설계공간 25 (3) QbD를 위한 시험법 개발 및 관리 26 II. QbD의 실행 28 1. QbD 실행 절차 29 (1) 제품 이해과정 (Product Understanding) 30 (2) 공정 이해과정 (Process Understanding) 30 2. TPP (Target Product Profile) 32 3. QTPP (Quality Target Product Profile) 34 4. CQA (Critical Quality Attributes) 38 (1) 품질특성의 도출 38 (2) 품질특성의 분류 및 위해진단 38 (Risk Assessment) (3) 중요품질특성의 허용기준 설정 50 (Acceptance Criteria of CQAs) 5. CPP와 설계공간 52 (1) 공정인자 (PP) 도출 53 (2) 초기 공정인자 위해진단 54 (Initial PP Risk Assessment) (3) 공정특성화 실험 60 (4) 공정인자 위해진단 개정 71 (Updated PP Risk Assessment) (5) 공정인자 분류 74 (Parameter Classification).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(1) 관리전략 개념 77 (2) 의약품 개발 단계에서의 관리전략 수립 78 (3) QbD 내에서의 공정 밸리데이션 추진전략 80 (4) 관리전략 추진 결론 83 I. QbD 용어집 및 참고문헌 84 I. QbD 총론 QbD 방식 개발 개요 (1) QbD 도입배경 제약산업에서 QbD 접근법의 개념은 2002년 미국 FDA가 21세기를 위한 cGMP 계획을 통해 다른 산업에서 먼저 받아들여진 최신 품질기법이 적용될 수 있도록 제시하였으며, 그 실행을 위하여 국제규제조화기관인 ICH에서 Q8 (R2), Q9, Q10, Q11 가이드라인을 발간하여 발전시켰다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(그림 I-1-1). 또한 1987년 최초 발표된 공정 밸리데이션에 대한 FDA Guidance는 2011년 1월 QbD 접근법에서의 개념과 실행절차를 추가하면서 개정되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD 방식 개발의 원동력은 제품에 대한 더 나은 지식과 신기술 채택의 용이성, 배치 (제조단위, Batch) 실패율 감소, 제조 유연성 증가, 공정 변경에 대한 규제 감독 감소 등이며, 그 실행의 핵심은 타당한 과학적 접근과 위해관리에 기초하여 제품과 제조공정의 이해를 바탕으로 환자 에게 보다 적합하도록 의약품의 품질향상을 촉진하는데 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-1-1. QbD 관련 ICH 가이드라인 궁극적으로 제품과 제조공정은 개발초기부터 환자의 안전과 치료에 초점을 맞추어서 개발되어야 하며, 제조공정과 제품의 품질이 그 초점의 기준에 충분히 견고하게 만족시킬 수 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "여기에는 최종 제품의 품질특성이 환자의 안전과 의약품의 유효성에 미치는 영향을 심도 있게 이해하는 것이 요구된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이에 따라 산업계를 지배해온 QbT 원칙 (Quality by Testing, 최종 제품 시험으로 사전 정의된 규격 충족을 통해 품질 보장)을 지양하고, QbD (Quality by Design, 제품의 요구 품질을 일관되게 제공하는 공정 설계) 도입을 고려하게 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(2) QbD 접근법을 활용한 제품 개발 QbD 접근법을 활용한 제품 개발은 초기부터 지향하는 목표를 염두에 두고 시작한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제품품질 목표 (Quality Target Product Profile, QTPP)에는 목표제품특성 (Target Product Profile, TPP)에 근거한 이상적인 제품품질의 특성이 요약되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제품품질목표는 개발 활동에 지침을 제공 하며 새로운 정보(예: 작용기전에 대한 추가적인 이해), 혹은 용량이나 투약의 변경 요인 발생 시 제품 전주기에 걸쳐 업데이트가 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-1-2와 같이 단계별로 품질 위해관리 도구를 일관성 있게 적용할 경우 잠재적인 중요 요소를 파악하고 개발 활동의 우선순위를 정하는데 도움이 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "위해진단은 제품 전주기 동안 여러 단계에서 실시되며, 해당 단계의 관련 요소에 초점을 맞춘다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "즉, 초기 개발단계에서는 잠재적인 중요품질특성 (Potential Critical Quality Attributes, pCQA)을 먼저 파악하고, 개발이 진행되면 가용한 pCQA 정보에 따라 중요공정변수의 파악, 물질특성 및 변동요인 평가에 초점이 맞춰진다 (그림 I-1-2). 그림 I-1-2. 의약품 개발에서의 개발 단계별 위해진단 출처 : Ohage E. 2014 ICH 가이드라인에 따라 개발은 전통적인 방식 혹은 강화된 방식을 따를 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "두 가지 방식 모두 원하는 분자 및 변이체 (Variants)를 이해하기 위해서는 철저한 중요품질특성 (Critical Quality Attributes, CQA) 평가를 필요로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "전통적인 방식에서 공정개발 연구는 한 번에 하나의 변수를 연구하는 방식으로 이루어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정특성확인 (Process Characterization, PC) 및 공정 밸리 데이션 (Process Validation, PV) 연구는 공정변수의 허용 가능한 범위 설정과 생산 공정의 최종적인 기술로 이어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "한편, 강화된 방식에서는 중요품질특성 평가를 통해 축적된 지식을 체계적으로 PC/PV 연구 설계에 반영한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "PC/PV 연구 실험은 공정 및 원료물질의 변동이 제품 중요품질특성에 미치는 영향을 설명하기 위해 최대한 다변량 분석으로 설계한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "원료물질의 영향은 원료물질의 변동이 제품품질 및 공정성능에 미치는 영향을 평가하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이렇게 확대된 지식을 활용하여, 중요 품질특성 중요도 및 중요공정변수 관리 효과에 대한 이해를 기반으로 위해기반 관리전략을 수립할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 전략에는 설계공간 혹은 실시간 출하시험에 대한 제안이 포함될 수도 있다 (그림 I-1-3). 그림 I-1-3. 의약품 개발의 전통적 방식과 강화된 방식 (3) 설계공간 개발 연구 및 공정에 대한 이해도의 증가는 설계공간의 정의로 이어질 수 있는데, 설계공간 안에서 여러 공정변수의 허용범위 내 변경은 제품품질에 미치는 위해가 매우 낮다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "설계공간의 범위는 데이터를 기반으로 결정하며, 단일 혹은 복수의 단위공정을 포함할 수 있다 (그림 I-1-4). 설계공간은 규제기관과의 합의 및 승인 대상이며 변경은 보고 대상이건 사전 승인 대상이건 모두 생산자의 의약품품질시스템 (Pharmaceutical Quality System, PQS) 내에서 관리되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-1-4. 설계공간의 구분 (관리공간<설계공간<지식공간) 설계공간과 관련된 주요 사항 ① 중요품질특성과 중요공정변수가 연계된 설계공간과의 관계를 이해하면 제품의 안전성 및 효능에 영향을 미칠 수 있는, 따라서 규제당국의 허가와 감독이 요구되는(즉, 규제사항에 해당하는) 변수를 파악할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요품질특성과 관련이 없는 다른 변수는 품질시스템에서 관리 및 감독하여 공정 및 제품의 일관성을 확보하나, 규제대상에 해당하지는 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "② 설계공간은 소규모 로트에서 상업생산규모 로트까지의 개발 데이터를 기반으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 종합적인 데이터는 지속적인 공정 검증 프로그램과 더불어 공정확인 및 밸리데이션의 근거가 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "③ 생산공정의 변경관리를 목적으로 시행되는 반복적이고 위해기반의 접근은 공정변수와 중요 품질특성을 연계한 설계공간을 도출하는 데에 사용된 접근방식을 활용할 경우 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "설계 공간 내에서의 변경은 품질시스템 내에서 관리할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "④ 설계공간을 벗어난 변경에 대해서는 위해진단활동 결과가 변경을 보증하기 위해 필요한 데이터를 신속하게 파악하는데 도움이 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "해당 변경에 대한 규제감독 수준은 파악된 위해 수준에 따라 달라진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "설계공간의 유용성 제품 및 제조공정에 대한 과학적 이해는 설계공간의 확대를 가능케 하며 이는 규제기관이 다음과 같이 보다 유연하게 접근하는 것을 가능하게 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 위해 기반 규제 결정(심사 및 실사) • 규제기관의 추가 검토 없이, 승인 받은 설계공간 안에서의 제조공정 개선 • 승인 이후 제출 사항 감소 • 실시간 품질 관리와 그에 따른 최종 제품 출하승인 시험의 축소 이러한 규제의 유연성을 실현하기 위해 신청자는 다양한 범위의 물품특성, 제조공정 조건, 공정 변수에 의한 제품성능에 관한 풍부한 지식을 보여주는 것이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-1-5. 강화된 지식에 의한 규제유연성 증대 (4) QbD 요소의 전주기 관리 QbD 요소는 허가 제품의 전체 개발 단계를 포함한 전주기 동안 지속적으로 적용된다 (그림 I-1-6). 초기 단계에는 제품 및 공정 이해가 제한적이며, 위해진단에서 제품 특이적 지식의 보완을 위해 기존 지식이 활용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "개발 과정 중 변경(예: 스케일업 (Scale-up), 제형 변경, 투여경로 변경) 발생 시 평가는 다시 이루어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "작용기전 및 안전성에 대한 새로운 정보가 얻어질 때에도 재평가가 이루어질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "개발 마무리 단계에는 중요품질특성의 최종 목록 및 허용 기준 확정, 중요 공정변수 파악, 설계공간을 포함한 공정 범위 파악, 최종 관리전략 수립을 위한 집중적인 연구가 이루어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-1-6. QbD를 기반으로 한 전주기 관리 출처 : Modified from Bert F. 2014 공정성능 및 제품품질에 대한 허가 후 모니터링은 공정관리가 원활하게 이루어지고 있는지 확인 하고 전주기에 걸친 개선 가능성을 파악하는데 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "승인 후 전주기 관리 (Post Approval Lifecycle Management, PALM) 계획은 기업이 제품 및 공정 모니터링 전략, 관리시스템의 전주기 및 변경관리, 공정 전주기에 대해 기술하고 이러한 활동의 일반적 관리 및 품질경영관리시스템 (Quality Management System, QMS), 그리고 규제기관 대상 보고 사항에 대해 상술할 수 있는 규제 문서이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "향후 전주기 관리의 유연성을 높일 수 있는 추가적인 프로토콜이나 요건이 승인 후 전주기 관리 (PALM)에 포함될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(5) 전망 QbD 원칙 적용은 보다 완건한 정규 생산공정으로 이어질 수 있으며, 품질특성에 대한 공정 변수의 영향 파악을 강화할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "관리시스템은 공정 관리와 제품 안정성을 고려한 적절한 중요품질특성 관리가 이루어지도록 최적화된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "향상된 지식은 현장 생산 범위 안에서 개선을 촉진하면서도 제품품질을 보장하는 설계공간의 정의로 이어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "변경과 일탈 모두 보다 신속 하고 정확하게 평가되며 신속한 의사결정과 제품 출하로 이어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "관리시스템은 특성의 중요도와 공정/안정성 성능을 기반으로 체계적으로 구성되며 알려진 모든 위해를 다룬다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 모니터링은 공정에 대한 이해를 지속적으로 강화하며, 제품 모니터링을 통해 습득된 지식은 추가적인 위해관리도구 역할을 하여 필요 시(예: 모니터링 특성의 시험 주기) 전주기 동안 관리시스템의 조정으로 이어질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정/제품 모니터링 및 전주기 관리는 PALM 계획에 명시되며 규제기관에 생산자의 위해관리전략에 대한 투명성을 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "설계공간을 주장하기 위한 노력은, 중요품질특성에 대한 공정 영향을 종합적으로 평가하여 중요 공정변수 (CPP) 및 비중요공정변수 (Non-Clinical Process Parameter, Non-CPP)를 체계적이고 포괄적으로 파악할 수 있으며, “첨단기술”의 다변량 공정특성 분석의 확립을 가능하게 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그 결과, 위해기반 관리전략과 결합되어 전반적인 공정의 완건성과 제품품질을 개선함으로써 제품 공급의 보증을 강화하여 일탈 관리와 공정 개선을 촉진한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD는 제품품질 및 공정의 완건성 강화와 지속적 개선을 위한 기반을 제공하는 매우 효과적인 글로벌 변화의 원동력이 될 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD에 대한 해외 규제기관의 현황 (1) QbD와 ICH 가이드라인 EMA와 FDA는 제약사들이 ICH 가이드라인에 따른 QbD의 요소들을 의약품의 승인과 제조변경 신청에 어떻게 포함시켜야 하는지를 수년간의 협력 파일럿 프로그램을 완료함으로써 합의에 도달하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "관련된 원료의약품과 완제의약품 개발을 위한 국제적인 표준 (ICH)으로 Q8, Q9, Q10, Q11, Q12를 채택하여 체계적인 개발 공정 가이드라인을 제시하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Q8(R2)가 완제의약품 개발에 초점을 두고 있는 반면 ICH Q11 (원료의약품 개발과 생산)은 ICH Q8(R2)에 기술된 개념 및 방법, 그리고 원료의약품 개발 및 생산에 대한 품질위해관리 (ICH Q9)의 적용을 상술하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "ICH Q10 (의약품 품질시스템)은 의약품 품질시스템의 요소를 다루고 있으며, 제품 전주기 관리 및 지속적 개선이 계획에 따른 공정 운영과 적절한 품질의 제품 생산을 위해 중요함을 설명하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "바이오제약 산업에서 QbD의 개념이 도입 된 지도 이미 10년 이상이 지났다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "2013년 11월에 Roche 사의 Gazyva가 FDA의 바이오의약품 판매 신청 (Biologics License Application, BLA)에서 설계공간을 포함한 첫 번째 QbD 적용 제품으로 승인 받았으며 2015년도에는 동사의 Tecentriq 제품도 원료의약품의 제조에 있어서 설계공간을 승인 받았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD는 규제기관의 승인없이 제조사가 공정의 지식을 바탕으로 공정개선을 할 수 있도록 규제 유연성을 제공하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "하지만 이러한 QbD의 규제유연성은 여러 가지의 이유로 인하여 잘 활용되지 못하고 있는데, 가장 근본적인 이유는 제품과 공정에 대한 지식을 완전히 확보하지 못하는데 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "최근 공개된 ICH Q12 가이드라인의 전주기 관리는 “확립된 조건 (Established Conditions)”에 관련한 요소들이 무엇이며, 이러한 관련 요소의 변경을 어떻게 관리할 것인지, 그리고 국제적으로 수용 가능한 설계공간에 대한 설정을 보완하거나 강화할 가능성이 있다 (그림 I-2-1). 그림 I-2-1. QbD 적용 관련 ICH 가이드라인의 역할 출처 : Duygu D. 2016 (2) FDA의 CMC (Chemistry Manufacturing Control) 문서 심사 규정 QbD 접근방식을 적용한 신청서류들이 증가함에 따라 심사관은 심사할 때에 ICH Q8, Q9, Q10의 권고를 고려하도록 하고 있다 (MAPP 5016.1, 2016). 필수 사항 ○ ICH Q8(R2) Annex 최소 요구사항 • 투여경로, 제형, 생체이용률, 함량, 안정성 등을 고려하여, 품질, 안전성, 유효성과 관련된 제품품질목표 (QTPP) 규정 • 제품품질에 영향을 미치는 제품특성을 연구하고 관리하기 위하여, 의약품의 중요 품질특성 (CQA) 명시 • 원료의약품, 첨가물 등의 품질특성 요소를 규정하고, 원하는 품질의 의약품을 생산 하기 위한 첨가제의 종류와 양 선택 • 적절한 제조공정 선택 • 관리전략 ○ 부가적으로 모든 신청은 다음을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 완제의약품과 그 제조공정의 개발과정의 이해를 위해 수행된 정보 • 완제의약품의 안전성과 유효성 보장을 위한 제품 품질에 중요한 원료의약품, 첨가물, 용기 및 마개 시스템 (Container Closure Systems) 및 제조공정의 사항 확인 • 관리전략에 대한 정당한 근거 유연한 규제적용을 위한 정보 신청서류에는 좀더 유연한 규제적 접근을 위하여 제품과 공정의 강화된 지식에 대한 정보를 다음과 같이 포함시킬 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "○ 심사자는 유연한 규제적 접근을 보증할 수 있도록 물질특성과 공정변수, 그리고 제품품질 관리에 대한 신청자의 이해를 보여주는 충분히 강화된 지식을 포함하고 있는지 여부를 확인 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 규제기관에 신고하지 않는 제조공정 개선 (예: 설계공간내의 변수 이동) • “변경 실시계획서 (Change Protocols)” 제출을 통한 승인 후 변경 신청 • 최종 제품시험을 대신하는 공정 중 시험 (RTRT, PAT 포함) • 전통적 최종 제품시험을 대체하는 수학적 모델 (3) PMDA의 QbD 현황 QbD 적용이 점차로 증가하고 있으며 현재는 대부분의 신청이 QbD 접근방식을 적용하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD 접근 방법에서는 선택사항으로써 수학적 모델을 적용한 설계공간, 실시간출하시험을 포함한 관리전략을 포함할 수 있다 (Yoshihiro M. 2016). QbD 적용의 쟁점 사항 ○ 품질위해관리 (Quality Risk Management, QRM) 결정의 정당화 • 초기 위해진단 과정 : 모든 품질특성과 공정변수를 포함하였는가? • 기준점 : 중요(Critical)한 것과 아닌 것을 어떻게 결정하며 그 근거는 적절한가? • 관리전략에 QRM 적용 방법 : 위해진단 결과와 관리전략이 일치하는가? (설계공간) ○ QRM 접근이 적절하게 진행되었는가? ○ 신청자가 실험계획법 (DoE)을 수행하였고 적합하게 평가하였는가? • 중요공정변수 (CPP)와 다른 변수를 어떻게 다루었는지? • 의도한 규모(생산) 적용에 타당한지? • 입증된 허용범위 (Proven Acceptable Range, PAR)의 조합은 설계공간이 될 수 없음 ○ 설계공간을 데이터, 근거 모델, 통계적 평가를 이용하여 어떻게 보여주는가? ○ 하나의 CQA을 위한 설계공간이 있다면 그것이 다른 CQA에 어떤 영향을 미치는지? ○ 설계공간이 관리전략과 일치하는지? QbD 적용의 변화 (4) FDA의 QbD 현황 QbD의 현재 상황 ○ 과학과 위해 기반의 QbD 접근방식은 많은 회사들이 개발에 적용하고 있음 ○ 발전된 제조관리 보다는 강화된 제품과 공정에 대한 이해에 더 초점을 맞추고 있음 ○ 강화된 지식이 “규제유연성” (예: Design Space, RTRT, Change Protocols)을 정당화하는 데 자주 사용되고 있지는 않음 ○“실제 지속적 개선”에 도달하지는 못함 공정분석기술 (Process Analytical Technology, PAT), 실시간출하시험 (Real Time Release Testing, RTRT)의 현 상황 ○ PAT가 제조 운전에서 규제적 관리로는 거의 사용되고 있지 않음 ○ PAT를 공정 모니터링과 추세분석(다변량 통계공정관리)에 자주 사용 하나 신청에 포함되는 경우는 적으며 채택되기도 어려움 ○ RTRT는 매우 제한적으로만 사용되고 있음 지속적 개선을 가능하게 할 앞으로의 방향 (그림 I-2-2) QbD 접근방법은 과학과 위해평가를 기반으로 제품과 공정의 지식을 바탕으로 이루어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "전주기적 제품관리에서 이와 같은 QbD 접근방법으로 지속적인 개선의 근거를 제공함으로써 의약품의 품질보증을 강화시킬 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD 접근방법은 산업계나 규제기관이 환자의 안전성과 유효성에 대한 품질의 각 요소의 위해를 관리하는 방향으로 의사결정하고 확인할 수 있도록 페러다임을 전환하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제약업계에서는 QbD를 의약품개발 패러다임으로 채택한 것은 성공적이라고 인식하고 있지만, QbD가 의약품 전주기에서 인허가 신청을 보완하는 것에는 아직 미완성이라고 여긴다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그 이유는 승인 후 변경이나 개선사항을 어떻게 수용 가능하게 신청하고 효율적으로 승인 받을 것인가에 대한 명확한 규제적 대비가 없기 때문이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제품 승인 후 지속적 품질 개선을 위한 변경을 보다 효율적이고 쉽게 이루기 위해서, ICH Q12에 의한 규제적 방법이 도입되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 개념의 적절한 실행은 QbD의 원칙을 검증하게 될 것이며, 여기에서 제안되고 있는 확립된 조건 (Established Conditions, ECs)이 이것을 가능하게 하는 것으로 제시되고 있는데, 이 개념의 적절한 실행이 QbD의 원칙을 검증할 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "\"확립된 조건\"의 적절한 실행방안은 QbD 도입을 위해서 약속했던 규제유연성에 대한 규제 기관과 제약업계의 갭 (Gap)을 좁힐 수 있을 것으로 기대된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-2-2. FDA 21st Century Initiative (2004)의 목적 출처 : Christine M. V. Moore, 2016 바이오의약품 개발 단계별 QbD 개발 전략 본 단원은 상기 단원에서 언급한 QbD의 접근에 대해 바이오의약품의 제조 공정 개발, 공정의 확인, 인허가 및 상업용 생산의 단계로 구분하여 QbD의 실제적인 적용을 설명하고자 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "대부분의 기업에서는 위의 단계에 따라 업무 및 담당자가 구분되어 있으나, ICH, FDA, EMEA 등에서 제시하고 있는 대부분의 가이드라인에서는 QbD를 적용함에 있어 개발단계 또는 생산단 계 등에 대한 구체적인 시점이 제시되고 있지 않아 본 단원을 통해 QbD 적용을 위한 실무자 들의 이해를 돕고자 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "의약품을 생산하기 위한 활동은 공정의 개발, 공정의 확인 및 지속적인 공정의 개선 과정이 포함되어 있으며, 이러한 의약품 제조를 위한 전체적인 활동은 품질, 안전성 및 효능이 보증될 수 있도록 검증되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "FDA에서는 ICH Q8-11과는 별도로 공정 밸리데이션 (Process Validation)대한 가이드라인에서 제시하고 있으며, 해당 가이드라인에서는 기존 공정개발, 공정의 검증, 제품 수명 주기 관리로의 구분에서 탈피하여 공정개발부터 공정확인 및 지속적인 개선 작업을 포괄한 전체적인 과정을 공정 밸리데이션에 포괄적으로 포함할 것을 제시하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이는 해당 가이드라인 이전의 공정 밸리데이션은 확립된 매개변수 내에서 운영되는 공정이 사전 지정된 규격과 품질 속성을 충족하는 중간물질 또는 원료물질을 생산하기 위해 효과적이고 재현적으로 수행할 수 있음을 문서로 증명하는 것에 한정되어 있던 대상 범위를 확장한 것으로 볼 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-3-1. 전통적 공정 밸리데이션과 확장된 개념에서의 공정 밸리데이션 공정 밸리데이션은 공정의 설계 단계부터 상업적 생산까지 데이터의 수집과 평가로 정의되고 있으며, 해당 공정이 지속적으로 양질의 제품을 제공할 수 있다는 과학적 증거를 확립하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 제품 및 공정의 제품 수명주기에 걸쳐 수행되는 일련의 활동도 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 원칙은 공정 및 완제품의 검사 또는 시험만으로는 품질을 적절하게 보장할 수 없으며, 품질, 안전성 및 효능이 제품에 설계 또는 내장되어 있도록 하고 제조 공정의 각 단계를 제어하여 완제품이 제품사양과 모든 품질 속성을 충족하도록 하는 것을 의미한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "아래의 그림은 해당 가이드라인에서 제시하고 있는 공정 밸리데이션 3단계를 실제 업무수행 내용과 임상개발단계와 연계하여 설명하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-3-2. 공정 밸리데이션 단계별 세부 업무 위에 제시한 내용은 전반에 걸친 공정과 연계된 활동은 과학적 근거를 기반하여 유기적으로 연계되어 제품의 품질, 안전성 및 효능이 보증되도록 관리되어야 한다는 QbD 접근 방식을 실질적 업무 수행 단위로 표현한 것으로 파악할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이에 대해 실무자의 이해를 돕기 위해 각 단계별업무를 실질적 공정 업무 활동 및 QbD 업무 절차와 연계하여 설명하고자 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-3-3. QbD 절차도 공정 설계는 상용 제조 공정을 목표로 하여 공정 구성 및 최적 조건의 개발과 대량화 공정 (Scale-up)활동을 통해 얻은 지식을 바탕으로 정의된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "초기 프로세스 설계 실험은 과학적 방법과 원칙에 따라 수행되어야 하며, 문서 작업 관행에 따라 문서화되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "효과적인 제어 접근방식으로 효율적인 공정 설계를 하기 위해서는 공정에 대한 이해와 지식 (Knowledge)의 확보가 매우 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정에 대한 이해를 위해서 위해분석 도구를 사용하여 공정단위 (Process Unit)를 구분하고 단위공정에서의 잠재적 중요공정변수 (Potential Critical Process Parameter)를 선별한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 작업은 실험계획법 연구 시 실험 횟수를 최소화하는 동시에 얻은 공정에 대한 전반적인 디자인을 도출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "확보된 공정 디자인을 바탕으로 실험계획법 (DoE)을 적용하여 다변량 상호작용(예: 성분 특성 또는 공정 매개변수)과 결과물(예: 공정 내 재료, 중간자 또는 최종 제품) 사이의 관계를 밝힘으로써 주요 공정에 대한 지식을 확보할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "추가로 공정분석기술 (PAT)의 활용은 적시에 분석과 제어를 연계시켜 출력물이 일정하게 유지되도록 조건을 조정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "아래의 그림은 상기 언급한 초기 개발단계에서 수행되는 통상적인 제조 공정 개발 작업과 해당 하는 QbD 절차를 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-3-4. 초기 단계에 수행되는 제품설계 및 공정 개발 업무 공정을 설계하는 초기 단계는 대부분의 QbD 절차를 포괄적으로 포함하고 있으며, 해당 단계는 전통적인 공정 개발 방식보다 매우 강화된 과학적 관리체계 도출 및 공정에 대한 지식과 이해를 요구하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이를 바탕으로 상업용 생산에 적용하기 위한 스케일업 (Scale-up) 연구를 통해 상업용 생산 공정을 도출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 개발에서 얻어진 공정 디자인에 스케일업 (Scale-up) 과정 에서 얻어진 다양한 공정 규모 결과를 결합하는 것은 공정의 견고한 관리체계 수립과 발생할 수 있는 공정 변경에 대응할 수 있는 중요정보를 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이에 수반되는 분석법의 개발 및 검증과 완제의약품 제조 공정 개발도 고려하여 상업화 제조 공정 관리전략이 수립되도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-3-5. 실제 생산 규모에 적합 공정 조절 전략 확립 실제 생산 규모에서 공정확인 (Process Verification)은 공정 설계 조건에서 상업적 제조를 재현 할 수 있는지 평가 (Process Design Evaluation)하는 것으로 대부분의 경우 FDA 가이드라인 이전의 공정 밸리데이션 (Process Validation)이라고 부르던 것과 유사하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정확인 프로토콜에 대한 요건은 이전 공정 밸리데이션 프로토콜에 대해 기술된 요건과 본질적으로 동일하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "바이오 의약품 제조공정 밸리데이션 가이드라인에 의하면 공정확인은 설비, 유틸리티, 장비(각각 현재 자격이 있음) 및 훈련된 인력을 상업적 제조 프로세스 및 분석 절차와 결합하여 상업적 배치 (제조단위, Batch)를 생산하는 것을 의미하며 공정확인 프로토콜은 제조 조건, 중요 공정 단계 및 허용 기준을 지정해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 이 단계에서 설비 설계 및 장비/유틸리티 적격 심사가 수행되며, 이때 적격심사라는 용어는 유틸리티와 장비가 의도된 용도에 적합하고 적절하게 수행된다는 것을 입증하기 위해 수행되는 활동을 의미한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-3-6. 확립된 공정 조절 전략의 공정확인 상기 전체적인 공정 단계 전반에 대한 공정개발보고서 (Process Development Report) 및 공정 확인 (Process Verification)은 인허가에 활용되며, 인허가 후 상업생산 시 공정 밸리데이션과 지속적인 품질 검증이 이루어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-3-6과 같이 마지막 공정 밸리데이션 단계의 목표는 상업적 제조 과정에서 공정이 통제 상태, 검증된 상태로 유지된다는 지속적인 보증이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 문제가 파악되고 프로세스가 관리 상태를 유지할 수 있도록 발생된 문제를 수정, 예측 및 예방하기 위한 조치를 취해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 활동은 앞서 언급된 공정 개발 및 스케일업 (Scale-up)에 고려되었던 QbD 절차와 연동되어 지속적인 개선활동이 이루어지도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-3-7. 제품 수명 주기 관리를 위한 지속적 공정 및 품질 검증 QbD 실현을 위한 개발 시 고려사항 (1) Risk Management – 에러 (Error)와 마진 (Margin)의 이해 QbD 활동의 모든 의사결정은 ICH Q9에 규정한 위해관리 (Risk Management)에 의해서 이루어 진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "위해관리 방법에서는 위해를 정확히 인식하는 부분과 어느 정도의 위해까지 수용할 것인지가 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "위해를 정확하게 인식하는 단계에서는 “에러 (Error)”의 개념이 중요하고, 수용할 위해의 수준을 정하는 단계에서는 “마진 (Margin)”이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "마진 (Margin)만 높게 설정한다고 실패경계 (Edge of Failure, EOF)를 극적으로 낮출 수 있는 것은 아니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "위해를 정확하게 예측하지 못한다면, 마진 (Margin)을 높이더라도 실패경계 (EOF)를 줄일 수는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "따라서 마진 (Margin)을 높이기 전에, 위해 평가에서 에러 (Error)를 줄이기 위한 노력이 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "에러 (Error)란 위해를 해석하는 시스템 혹은 모델이 현실의 진짜 현상을 그대로 반영하지 못하여, 현실과 차이가 나는 부분을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "위해평가는 고장특성 영향분석 (Failure Mode and Effect Analysis, FMEA)과 같이 여러 사람의 경험을 기반으로 평가하는 시스템과 실험설계법 (Design of Experiment, DoE)과 같이 설계된 데이터를 바탕으로 한 모델링 방법들로 나뉜다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "경험을 기반으로 하는 위해평가 시스템에서의 에러 (Error)는 표 I-4-1과 같이 나눌 수 있고, 그에 대한 설명과 해결 방안은 아래와 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "경험에 의한 에러 (Error)는 내·외부 전문가의 경험을 잘 활용하는 것이 중요하고, 평가 시스템은 자체적으로 최적화된 시스템을 구축하는 것도 좋지만, 초기에는 공개된 자료에서 제시하는 위해평가 시스템들을 그대로 적용하는 것도 도움이 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 I-4-1. 경험 기반 위해평가 시스템에서의 에러 (Error) 종류.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"에러 (Error) 종류\", \"설명\", \"해결방안\", \"Ÿ 평가에 참가한 사람 혹은\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Ÿ 평가할 분야에 충분히 경험이 많은 근거자료의 한계 Ÿ 평가하고자 하는 분야에 경험이 사람을 참여시킴 Ÿ 다양한 관점의 사람들을 모두.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"경험의 에러\", \"적거나 편협한 경험을 가지고\", \"있을 경우\", \"포함시킴\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Ÿ 위해가 큰 것과 작은 것을 Ÿ 위해 정도를 알고 있는 지표들을 충분히 변별해내지 못하거나 잘못 평가하는 시스템을 적용한 경우 잘 분별하지 못할 경우, 다른 평가 시스템들을 적용하여 가장 분별력이 좋은 시스템을 선정 평가 시스템의 에러 데이터를 통한 통계적 모델링에서의 에러 (Error)는 표 I-4-2와 같이 나눌 수 있고, 그에 대한 설명과 해결 방안은 아래와 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이들 에러 (Error)에 대한 해결방안들은 바이오의약품 제조공정 밸리데이션 가이드라인에서 요구하는 내용들과 연결이 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 I-4-2. 통계적 모델링에서의 에러 (Error) 종류.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"에러 (Error) 종류\", \"설명\", \"해결방안\", \"Ÿ 모델링에 사용한\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Ÿ 실생산 공정에서의 공정확인에 실험배치(제조단위, Batch)의 배경과 실생산배치의 배경이 다름 의한 지식을 토대로, 실험배치 모델에서 얻어진 회귀분석 모델에 대한 보정이 필요함 Ÿ 지속적 공정확인을 거쳐서, 보정을 표본의 에러 하거나 공정개선을 실시함 Ÿ 시험 배경의 일관성 통제, 충분한 Ÿ 비정상치 혼입 시험배치 수 확보 Ÿ 모델의 회귀분석 수식이 표본을 Ÿ 시험 반복 횟수를 늘이거나, 완벽하게 해석하지 못함 요인을 추가하는 등의 방법으로 모델의 해석력을 높임 Ÿ 실패경계 (Edge of Failure, EOF)를 모델의 에러 계산하여 마진 (Margin)을 설정함 Ÿ 시험방법에 의한 측정값이 Ÿ 시험방법의 정확성을 높임 Ÿ 마진 설정의 실험에 대한 에러를 측정치의 에러 부정확할 수 있음 포함하여 설정함 경험에 의한 혹은 통계적 모델링에 의한 위해평가에서 수용할 수 있는 실패경계 (EOF)를 설정 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그 수용된 실패경계 (EOF)를 “마진 (Margin)”이라고 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "실패경계를 낮추기 위해 이 러한 마진 (Margin)을 최종적으로 설정된 제조공정 설계공간에서 6시그마 수준으로 높이는 것 만으로 모두 만족할 수 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD의 활동은 목표제품특성 (TPP)에서 제품품질목표 (QTPP)로, 제품품질목표 (QTPP)에서 중요 품질특성 (CQA)으로, 그리고 각 공정별 중요품질특성 (CQA)으로, 중요품질특성 (CQA)에서 중요 공정변수 (CPP)와 중요원료 (CMA), 그리고 관리전략 (Control Strategy)으로 이어지는 위해평가가 층층이 이루어졌기 때문이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "따라서 제조공정의 관리수준 혹은 실패경계 (EOF)를 줄이기 위해서는 설계공간의 마진 (Margin) 뿐만 아니라, 전반적인 위해평가 시스템 전체에서 동일한 수준으로 마진 (Margin)의 정도를 높여나가는 것이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "위해평가에서의 “에러 (Error)”와 위해평가에 의한 의사결정인 “마진 (Margin)”의 개념을 바탕으로, 위해관리 시스템을 구축하고, 의약품 품질시스템과 공정운영의 의사결정을 진행한다면, 실패경계 (EOF)를 낮출 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(2) 비교동등성과 변경관리, 설계공간 의약품 개발과정 중에서는 의약품의 품질특성과 제조공정에서 계속 변경이 있을 수 밖에 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 변경에 대한 기록을 일목요연하게 잘 정리하여 허가 시 품목허가용 국제공통기술문서 (Common Technical Document, CTD) 자료에 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그리고 이러한 변경들에 대해서, 확증적 임상인 3상 제품의 품질특성과 연계하여 이전 단계의 품질특성이 동등하거나 비임상· 임상의 안전성·유효성 면에서 동등함을 입증할 수 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "의약품은 개발과정과 허가 이후까지 전주기에 걸쳐서, 지속적으로 품질특성과 안전성·유효성에 대한 개선이 이루어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "의약품 전주기 개선활동은 ICH Q10의 의약품 품질 시스템 안에서 이루어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "바이오의약품의 허가 이후 변경 시에는 비교동등성 입증이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "ICH Q5E 가이드라인과 식약처의 “생물의약품의 제조방법 변경에 따른 비교동등성 평가 가이드라 인”에 따라서 비교동등성을 입증하여야 하며, 규제기관과 협의를 통해서 단계적인 접근법에 의해서 이루어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "허가 이전의 변경도 해당 가이드라인의 비교동등성 평가의 고려사항에 맞추어서, 허가 시 개발 중 변경사항들에 대한 동등성을 입증할 수 있는 자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "의약품의 동등성이란 품질특성이 동등하거나, 품질특성의 차이가 있어도 안전성과 유효성에서 동등한 것을 입증하는 것을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD 접근법에 의해서 개발된 의약품의 경우, 허가 시 설계공간을 인정받은 공정에 대해서는 설계공간 내 변경은 규제기관의 추가적인 승인 없이 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "ICH Q8에서 설계공간 내 공정 운용은 변경으로 간주하지 않는다고 밝히고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "따라서 규제기관에서도 허가심사시 설계공간을 인정한다고 밝힌 경우, 해당 공정은 설계공간 내에서 자율적인 공정 운용을 실행할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "허가 시 설계공간을 인정받는 이점이 무엇인지 고민할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "기존의 GMP 운영방식대로 공정을 운용할 경우, 공정의 허용기준을 설계공간으로 정의하면, 설계공간 내 변경이 발생하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 설계공간에 대해 충분히 입증할 자료가 있다면, 설계공간 내 변경은 기존 GMP에서의 변경 시에도 어렵지 않게 변경이 가능할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "설계공간 내 자율적인 공정운용의 이점이 있으려면, 중요품질특성 (CQA)의 목표값을 정하고, 공정분석기술 (PAT)을 적용하여 확립된 공정함수에 의해서 설계공간 안에서 중요공정변수 (CPP)의 운전값을 실시간으로 변경하는 등의 최신 공정운영 기술이 적용될 때이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이런 이점이 없다면, 기존 GMP에서 공정 허용기준의 근거로 QbD에 의한 설계공간을 얻은 자료를 사용하는 것으로도 충분히 만족스러울 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-4-1. 바이오의약품의 단계적 비교동등성 평가 (3) QbD를 위한 시험법 개발 및 관리 QbD를 성공적으로 이끌기 위해서는 2가지 관점에서의 시험법 개발과 관리가 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "첫 번째는 개발과정에서 각 개발 단계별 임상의약품의 비교동등성을 입증하기 위해서, 중요품질 특성 (CQA)과 관련된 시험법은 초기부터 충분히 검증되고 관리되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 이 시험들에 사용되는 표준품에 대한 정의와 표준품 배치 (제조단위, Batch)들 간의 비교연구자료가 필요 하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "개발단계별 의약품의 품질 동등성을 입증하지 못할 경우, 비임상과 임상을 단계적으로 다시 수행하게 될 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이미 임상시험 단계에서의 분석법 검증과 표준품 관리 등은 각 규제기관에서 강화하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "비임상과 임상 단계에서 중요품질특성 (CQA) 관련 시험법은 미리 시험법 검증을 충분히 준비하는 것이 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "두 번째는 설계공간과 마진의 설정을 위해서는 해당 공정의 중요품질특성 (CQA)의 분석법과 중요 공정변수 (CPP)의 장비 운전과 센서의 정확성이 높아야 한다는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "분석법과 센서의 정확성 이 낮다면, 아무리 좋은 실험설계법으로 많은 시험횟수를 적용하더라도 통계적 모델의 신뢰성 도 낮고, 설계공간도 좁아질 수 밖에 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "따라서 설계공간에 사용될 중요품질특성 (CQA)의 시험법과 장비의 센서는 높은 수준의 정확성을 가질 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "의약품의 품질 분석에 사용되는 다양한 시험법의 개발을 QbD 관점에서 진행할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "각 시험법 중에서 어떤 시험법이 중요하고 어느 정도로 정확성이 높아야 되는지 위해관리를 통해 설정하고, 시험법 검증에서 정확성과 정밀성 또한 위해관리를 통해 설정된 수준으로 목표를 설정 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "강화된 높은 수준의 정확성·정밀성을 위해서 시험의 중요인자를 분류하고, 시험 설계법을 바탕으로 시험 중요인자의 설계공간을 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-4-2와 같은 방식으로 시험법의 QbD 활동은 진행되며, 제조공정의 QbD 활동과 거의 동일한 방식을 이용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 활동을 QbD 접근법에 의한 시험법 개발이라고 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 I-4-2. QbD 접근법에 의한 시험법 개발 II. QbD의 실행 QbD 실행절차 QbD 실행절차는 제품이해 (Product Understanding), 공정이해 (Process Understanding) 그리고 관리전략 (Control Strategy)으로 구성된다 (그림 II-1-1). 제품 개발과정은 목표제품특성 (TPP) 설정과 제품품질목표 (QTPP) 선정, 이후 위해진단을 통해서 중요품질특성 (CQA)을 도출하는 일련의 과정으로 이루어지며, 공정 이해과정은 앞서 설정된 중요품질특성 (CQA)을 만족시킬 수 있도록 공정인자를 분해하고, 실험계획법 (DoE) 등을 통한 공정특성확인 (Process Characterization)과 공정관리인자를 분류하는 것으로 이루어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-1-1. QbD 접근방법에 따른 실행 절차 (1) 제품 이해과정 (Product Understanding) QbD에 의한 신약개발에서는 제품에 대한 이해가 어느 정도 완성된 이후에 이를 토대로 제조 공정에 대한 이해과정을 거치게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "따라서 제품에 대한 이해과정이 먼저 선행되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제품 이해과정은 개발하고자 하는 제품의 품질목표를 정의하고 이러한 품질목표를 이루기 위해서, 평가/관리되어야 할 중요품질특성을 분류하고 정량화하여 환자의 요구에 부합하도록 제품목표를 정하고 이해하는 과정이라고 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-1-2와 같이 목표제품특성 (Target Product Profile, TPP) ▶ 제품품질목표 (Quality Target Product Profile, QTPP) 수립 ▶ QTPP와 상응하는 정량적 품질특성 (Quality Attributes)의 수립 ▶ 제품의 유효성 (Efficacy)과 안전성 (Safety)과 연계되는 중요품질특성 (Critical Quality Attributes, CQA)을 순차적으로 설정하여 제품에 대한 목표사항을 명확히 하는 과정이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-1-2. TPP 및 QTPP, QA, CQA의 종속성 (2) 공정 이해과정 (Process Understanding) 공정 이해과정은 중요품질특성을 만족시킬 수 있는 제조 공정을 확립하는 과정이라 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "여러 경험과 정보들을 바탕으로 실험을 설계하고 수행함으로써 각 단위공정이 중요품질특성에 끼치는 영향을 평가하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 과정 속에 중요공정변수 (Critical Process Parameters, CPPs)들을 과학적 근거를 바탕으로 선별할 수 있고, 선별된 인자들은 다양한 시스템이나 방법 으로 관리전략을 수립하여 좀 더 강건한 제조 공정을 확립할 수 있게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "기존의 전통적인 방법은 최종 완제 또는 정제 완료된 물질로부터 평가하여 관리전략을 수립 하였다면, QbD적 접근법은 공정중간물질 또는 단위공정에서 각 공정인자가 중요품질특성에 끼치는 영향들을 위해진단 실험설계법 등을 통해 과학적 결과를 확보하고, 이들의 관련성을 파악하여 그에 맞는 관리전략을 수립하는 방법이라 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 이해과정은 최소 2회 이상의 위해진단을 포함하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "기초적인 정보가 부족한 초기 에는 영향도/불확실성을 평가하여 추가적인 실험에 대한 공정특성화 연구를 진행하고 최종 단계에서는 확보된 정보를 바탕으로 공정변수의 중요성을 판단하여 관리전략을 수립하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정을 이해하는 이러한 과정은 그림 II-1-3의 업무 흐름도를 바탕으로 진행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-1-3. 공정이해를 위한 업무 흐름도 목표제품특성(TPP, Target Product Profile) 신약의 개발은 아주 오랜 시간과 많은 돈이 투자되는 활동이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "하지만 신약의 개발은 실패 가능성도 높고, 잘못된 방향으로 세월을 낭비하기도 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD에 의한 신약의 개발은 성공 가능성을 높이기 위해서 먼저 목표를 명확히 설정하고, 모든 연구개발 행위를 이에 집중하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "목표대상인 환자에게 팔기 위해서, 어떤 약을 만들어야지 허가를 받고 시장진입을 잘 할 수 있을 것인지에 대한 목표 목록을 적는 것에서 QbD에 의한 신약개발은 출발한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그 목표 목록이 목표제품특성 (TPP)이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "TPP를 설정하고 관리하는 것은 QbD에 의한 신약 개발과정에서 중요한 부분이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "잘 설정된 TPP를 바탕으로, 임상 연구 전략, 조직 내 의사결정, 규제 당국과의 건설적인 커뮤니케이션을 이끌어낼 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "TPP는 의약품의 라벨 및 설명서에 포함되는 주요 내용이며, 품목허가 시 허가증에 등재되는 내용이 될 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "허가 시 제출되는 국제공통기술문서 (CTD)에서는 모듈 (Module) 1과 2의 주요사항과도 상통한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "TPP의 구체적인 핵심 요소는 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 치료 약물의 성분 (Moiety), 투여량 형태, 강도, 투여 경로, 투여율, 원하는 체외 및 생체 내 방출 • 제조 정보 • 용기/마개를 포함한 제품 포장 정보, 안정성, 멸균, 순도 및 제안된 유효기한을 포함한 제품의 품질 • 대상 환자 인구(예: 연령, 성별, 일반 건강, 정신적 인식 및 문화적 요인) • 임상 설정(급성 대 만성, 질환의 심각도 및 치료 목표 기간) • 안전성, 관해, 흡수, 대사에 대한 임상1상 연구 결과 • 생체이용률 및 기타 약동학적 변수 • 최소 유효용량, 환자/조사자 피드백, 안전, 효능 및 부작용 등을 포함한 임상2상 및 임상 3상 연구 결과 TPP는 QbD에 의한 신약 개발과정의 출발점이며, 다음의 활동에 활용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 개발 전략 수립 • 임상 및 마케팅 요구사항 및 우선순위 선정 • 환자 요구사항 선정 • 기술 요구사항(연구 및 생물학적 특성 개발) 선정 • 원하는 특징과 최소 수용 기능의 비교 QbD의 활동은 신약개발회사의 많은 프로젝트 팀이 서로 커뮤니케이션을 통해서 맞춰가는 것이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "신약개발 프로젝트 리더는 TPP를 관리하며, 개발팀은 연구소와 공장, 임상팀과 주요 개발과정의 활동과 결과가 TPP와 연결되는지 확인하며, TPP의 방향에서 벗어나지 않도록 관련 팀들과 꾸준히 논의하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제품품질목표(QTPP, Quality Target Product Profile) 의약품은 환자의 요구 (Needs)와 의도한 제품의 성능 (Product Performance)을 만족하도록 설계 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제품 개발 전략은 회사마다, 제품마다 다를 수 있으며, 제품과 제조공정에 대한 이해가 충분할 경우 좀 더 유연하게 허가 관련 접근을 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제품품질목표 (QTPP) 는 이러한 제반 사항을 만족하는 제품 개발을 위한 설계의 근간으로 정의되며 다음 사항을 고 려하여 작성될 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 의도된 임상적 용도, 투여 경로, 제형, 전달 시스템 • 함량 • 용기/포장(용기 및 마개 시스템) • 개발 대상 의약품 제형과 관련된 활성 성분의 방출 또는 전달과 약동학적 특성에 영향을 미치는 특성(예: 용출, 공기역학적 성능) • 시판을 목적으로 하는 제품에 대한 의약품 품질 기준(예: 무균, 순도, 안정성, 약물 방출) 목표제품특성 (TPP) 및 QTPP는 허가사항 및 임상 데이터, 참고 문헌 등을 활용하여 기초 정보로 활용될 수 있으며, 특히, 환자에 대한 안전성·유효성 및 안정성과 관련된 목표품질특성을 고려 하여 작성되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QTPP는 의약품 개발 및 전주기 (Lifecycle)에 따라 적절한 주기로 필요시 재검토하고 개정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QTPP의 작성 예시로 FDA의 MR Tablet, A-Mab, A-Vax 사례를 작성하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "MR Tablet은 위에 작성된 것처럼 ICH Q8(R2)의 내용에 맞게 작성되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "다른 예에서도 해당 제품의 특성에 맞게 QTPP가 작성되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "예시의 내용은 해당 제품에 대한 일부 예일 뿐이며 제품에 따라 적절한 항목을 선정하여야 하므로 다양한 예시를 참고하여 개발하는 제품에 맞게 적절한 QTPP 항목을 설정하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-3-1. 제품품질목표 (QTPP) 예시 (MR Tablet) 출처 : Quality by Design for ANDAs: An Example for Modified Release Dosage Forms. December 2011. FDA 표 II-3-2. 제품품질목표 (QTPP) 예시 (A-Mab) 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group 표 II-3-3. 제품품질목표 (QTPP) 예시 (A-Vax) 출처 : A-Vax: Applying Quality by Design to Vaccines. May 2012. CMC-Vaccines Working Group 중요품질특성(CQA, Critical Quality Attributes) (1) 품질특성의 도출 중요품질특성 (CQA)은 물리적, 화학적, 생물학적, 또는 미생물학적 성질 (Property)이나 특성 (Characteristic)으로 원하는 제품의 품질을 보장하기 위하여 적절한 한도, 범위, 또는 분포 이내에 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "제형에 따라 의약품의 순도, 용량, 방출과 안정성 등에 영향을 미치는 특징적인 CQAs가 다를 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QTPP 혹은 선행지식 (Prior Knowledge)으로부터 유래한 완제의약품 잠재적 중요품질특성 (pCQA)는 제품과 공정 개발을 안내하는데 사용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "pCQA의 목록은 제형이나 제조공정이 선정되고 제품에 대한 지식과 공정에 대한 이해가 증가함에 따라 변경 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "품질위해관리는 일련의 평가를 통하여 잠재적인 CQAs 목록의 우선순위를 정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "원료의약품 CQA는 일반적으로 확인, 순도, 생물학적 활성과 안정성에 영향을 미치는 성질이나 특성을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "완제의약품 제조 측면이나 성능 측면에서 물리적 성질이 중요할 경우 CQA로 판정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "생명공학/생물학적 제품의 경우, 의약품의 대다수의 CQA은 원료의약품과 관련이 있으며, 바이오의약품의 경우, 완제의약품의 대부분의 CQA가 원료의약품과 관련이 있으며 CQA는 원료의약품이나 이의 제조공정 설계의 직접적인 결과이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "불순물은 의약품 안전성에 미칠 영향 때문에 pCQA로 분류된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 불순물에는 유기 불순물, 무기 불순물, 잔류 용매, 공정 관련 불순물, 제품 관련 불순물 등이 있으며 외부에서 유입되는 물질도 오염물질에 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA 선정을 위한 품질특성이 너무 많아 안전성과 유효성에 미치는 영향을 완전히 평가하기 어려운 경우가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 경우, 위해진단을 실시하여 품질특성의 순위 또는 중요도를 매길 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 CQA 선정 및 평가를 위한 위해진단은 제품 개발 전주기에 걸쳐 개발 시작 시점 부터 개발 데이터가 축적됨에 따라 필요 시기에 실시할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(2) 품질특성의 분류 및 위해진단 (Risk Assessment) 품질특성은 항목에 따라 다음과 같이 분류할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-4-1에 작성된 품질특성은 항체의약품의 예시로 A-Mab에 작성된 것이며 개별 제품의 특성에 따라 각각의 품질특성 항목이 달라질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-4-1. 항체의약품의 일반적인 품질특성 (QA) 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group 그림 II-4-1은 QA에 대하여 위해관리를 위한 전체적인 접근방법을 순서도 (Flow Chart)로 작성한 예시이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "A-Vax의 의사결정 구조 (Decision Tree)는 그 아래 작성되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-4-1. 위해관리 접근을 위한 품질특성 (QA)의 관리 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group 그림 II-4-2. 중요품질특성 (CQA)과 관리전략의“의사결정 구조” 출처 : A-Vax: Applying Quality by Design to Vaccines. May 2012. CMC-Vaccines Working Group 품질특성은 Pertuzumab의 예시에서 아래 표 II-4-2과 같이 품질의 변동성 (Product Variants), 공정관련 불순물 (Process-Related Impurities), 원료물질 (Raw Materials), 용출물 (Leachables), 외인성 요소 (Adventitious Agents), 원료의약품 및 완제의약품 조성/용량 (Drug Substance and Drug Product Composition and Strength), 완제의약품 기준 (Drug Product Specific) 등으로 분류 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-4-2. Pertuzumab 품질특성의 분류 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group 표 II-4-2와 같이 품질특성을 항목에 따라 분류하면 이를 평가하기 위한 진단 방법도 각각의 분류한 것에 따라 나눌 수 있으며 위해진단을 보다 효율적으로 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-4-2에 작성된 것과 같이 항목별 중요성 진단 방법을 살펴보면 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "1) 품질의 변동성 (Product Variants)과 공정관련 불순물 (Process-Related Impurities) 품질의 변동성 (Product Variants)과 공정관련 불순물 (Process-Related Impurities)의 중요성은 위해 순위 선별법 (Risk Ranking and Filtering, RRF)과 허용기준 (Acceptance Criteria)을 통하여 중요품질특성 (CQA) 여부를 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "A-Mab 사례에서 Tool #1, A-Vax Pertuzumab의 RRF 접근법은 영향도 (Impact)와 불확실성 점수 (Uncertainty)를 통하여 각각의 품질특성에 대하여 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "영향도 점수 (Impact Score)는 생물활성 (Bioactivity), 약동학 (Pharmacokinetics, PK), 면역원성 (Immunogenicity), 안전성 (Safety)에 영향을 미치는 정도 혹은 심각도에 따라 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "불확실성 점수 (Uncertainty Score)는 특정 품질특성에 대한 지식의 정도에 기반한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요성을 평가하는 위해점수 (Risk Score)는 영향도 (Impact)와 불확실성 (Uncertainty)의 곱한 값으로 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "백신 (A-Vax)의 경우는 물질의 특성 때문에 항체 (A-Mab)와는 달리 PK/PD와 면역원성 (Immunogenicity) 항목이 위해도 (Impact) 평가 항목에서 빠져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA와 Non-CQA를 선정하는 위해점수 (Risk Score) 기준값은 스케일값과 개발하는 제품의 특성에 따라 다르게 가져갈 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "A-Mab 사례의 Tool #2는 PHA (Preliminary Hazards Analysis) 접근으로 심각도 (Severity)와 가능성 (Likelihood Score)을 통하여 각각의 품질특성에 대하여 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "심각도 점수 (Severity Score)는 환자의 안전성(독성학 (Toxicology), 면역원성 (Immunogenicity)과 제품의 유효성 (효력 (Potency), 약동학/약력학 (PK/PD))과 관련된 위해를 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "가능성 (Likelihood)은 기존 지식 범위에서 설정된 범위 밖으로 품질특성이 있게 되면 이것이 안전성과 유효성에 부작용을 미칠 수 있는 가능성이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "지식범위는 개발하는 물질 혹은 유사한 물질과 관련된 문헌과 임상 및 비임상 연구 결과에 기초한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요성을 평가하는 위해우선순위 (Risk Priority Number, RPN)는 심각도 (Severity)와 가능성 (Likelihood)을 곱한 값으로 구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "작성된 예의 경우 RPN 범위는 낮은 값은 1에서 높은 값은 81까지이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "품질의 변동성 (Product Variants)은 제품 자체의 변형, 작용 메커니즘, 투여경로, 비임상 및 임상 경험, 인비트로 (In Vitro) 시험과 환자에 잠재적인 위해를 끼칠 수 있는 기타 요인들을 설명하기 위하여 제품별 기준으로 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "부분적으로 동일한 플랫폼 공정을 사용하여 제조된 제품의 공정관련 불순물 (Process-related Impurities)에 대한 위해를 진단하기 위해 사전지식을 적용하여 평가할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "A-Mab Case Study - Tool #1 표 II-4-3. 영향도 (Impact)의 정의와 점수 기준 (Tool #1) 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group 표 II-4-4. 불확실성 (Uncertainty)의 정의와 점수 기준 (Tool #1) 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group 표 II-4-5. 중요도의 구조적 표현 (Criticality Matrix)의 예 (Tool #1) 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group A-Mab Case Study - Tool #2 표 II-4-6. 심각도 (Severity)의 정의와 점수 기준 (Tool #2) 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group 표 II-4-7. 가능성 (Likelihood)의 정의와 점수 기준 (Tool #2) 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group A-Vax Case Study 표 II-4-8. 영향도 (Impact)의 정의와 점수 기준 (A-Vax) 출처 : A-Vax: Applying Quality by Design to Vaccines. May 2012. CMC-Vaccines Working Group 표 II-4-9. 불확실성 (Uncertainty)의 정의와 점수 기준 (A-Vax) 출처 : A-Vax: Applying Quality by Design to Vaccines. May 2012. CMC-Vaccines Working Group 표 II-4-10. 심각도 (Severity) 점수 기준 (A-Vax) 출처 : A-Vax: Applying Quality by Design to Vaccines. May 2012. CMC-Vaccines Working Group Pertuzumab Example 표 II-4-11. 영향도 (Impact)의 정의와 점수 기준 (Pertuzumab) 출처 : Perjeta Assessment report. EMA/17250/2013. December 2012. CHMP. 표 II-4-12. 불확실성 (Uncertainty)의 정의와 점수 기준 (Pertuzumab) 출처 : Perjeta Assessment report. EMA/17250/2013. December 2012. CHMP. 표 II-4-13. 위해점수 (Risk Scoring) 기준 (Pertuzumab) 출처 : Perjeta Assessment report. EMA/17250/2013. December 2012. CHMP. 2) 의무적 중요품질특성 (Obligatory CQAs) 조성 및 용량 (Composition/Strength), 외인성 요소 (Adventitious Agents), 기타 (Other) 카테고리에 속하는 특성은 의약품의 규격사항으로 허가기관에서 필수적으로 요구하는 항목이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "따라서 이러한 특성에 대해서는 의무적 중요품질특성 (Obligatory CQAs)으로 분류하며 별도의 위해진단 없이 CQA로 선정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 특성에 대해서는 적절한 공정과 분석적 관리가 적용되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "3) 원료물질 (Raw Materials)과 용출물 (Leachables) 원료물질은 공정 내에서 제거되지 않거나 제거가 없다고 가정하여 일일추정섭취량 (Estimated Daily Intake)을 일일섭취허용량 (Acceptable Daily Intake)과 비교하여 잠재적인 독성을 평가 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 접근방법은 원료물질의 존재가 환자에게 이론적으로 위해를 줄 수 있는 정도를 평가하는 방법으로 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "실제로는 이러한 물질들이 공정에 의해서 일정하게 제거된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "용출물 (Leachables)의 경우에도 용출되는 물질이 일일섭취허용량 (ADI)을 초과할 경우 CQA로 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "A-Mab 사례의 위해진단 (Risk Assessment) Tool #3와 Pertuzumab 사례에서 이에 대한 방법의 예를 들고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-4-3. 공정 관련 불순물의 안전성 평가 (Safety Assessment) 전략의 예 출처 : A-Mab: a Case Study in Bioprocess Development. October 2009. CMC Biotech Working Group 그림 II-4-4. 원료물질 관리전략 수립을 위한 의사결정 구조 출처 : Perjeta Assessment report. EMA/17250/2013. December 2012. CHMP. (3) 중요품질특성의 허용기준 설정 (Acceptance Criteria of CQAs) CQAs가 확인되면, 각각의 CQA에 대하여 CQA-AC (CQA-Acceptance Criterion)이라고 하는 제품의 안전성과 유효성을 만족하기 위하여 허용할 수 있는 수준 혹은 범위가 설정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA-AC는 의약품 유효기간이 끝날 때까지 만족해야 하는 제품 품질 요구사항으로 제품 출하 및 유효기간 기준 선정, 전체적인 관리전략 수립에 있어서 주 요소이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA-AC는 개발하는 제품 관련 문헌, 타사의 유사제품 혹은 자사의 유사제품 등의 선행지식 (Prior Knowledge), 인비트로 시험 (In-Vitro Study), 비임상 시험 (Non-Clinical Study), 임상시험 (Clinical Study)과 상업용 배치 (제조단위, Batch) 정보 등을 활용하여 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA-AC를 설정하기 위한 일반적인 접근 방법은 표 II-4-14와 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-4-14. Pertuzumab 중요품질특성 (CQAs)의 허용기준 설정 출처 : Perjeta Assessment report. EMA/17250/2013. December 2012. CHMP. 안전성 혹은 면역원성 관련하여 높은 중요도 (High Criticality)의 특성에 대하여서는 CQA-AC는 유사한 제품 혹은 공정에서 얻은 적용 가능한 지식으로 보강된 제품별 임상 경험을 기반으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "효능 혹은 약동학 (PK)에 잠재적인 영향을 미치기 때문에 중요한 특성에 대하여 보다 넓은 AC를 정의하기 위하여 유사한 제품뿐만 아니라 개발하고 있는 제품의 임상, 비임상 경험으로 부터 얻은 데이터를 고려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "효능 혹은 PK에 대한 특성의 누적된 영향은 효능의 경우 ±20%, PK의 경우 -20%에서 +25% 범위 이내이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "효능 및 PK와 관련된 특성에 대한 특정 허용 기준은 각 특성에 대한 견고한 공정변수관리를 보장하고 제품 출하 시험 또는 안정성 시험 중에 직접적인 시험의 필요성을 최소화하기 위하여 공정 성능 데이터를 고려하여 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요공정변수(CPP, Critical Process Parameter)와 설계공간 (Design Space) 앞서 설정된 중요품질특성 (CQA)과 허용범위를 제조 공정 내에서 잘 관리하기 위한 공정에 대한 지식을 획득하는 과정을 공정 이해과정 (Process Understanding)이라 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "기존의 방법과는 다르게 위해진단과 실험설계 등 합리적이고 효율적인 수단을 활용해 각 공정인자가 중요품질 특성에 미치는 영향 등 공정에 대한 지식을 확보하고 위해를 감소시킬 수 있게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 이해과정은 다음과 같은 흐름으로 수행될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-1. 공정 이해과정 흐름도 이런 공정 이해과정은 제품 이해과정에서 선정한 중요품질특성을 만족하기 위한 제조 공정을 확립하는 논리적 접근 방법이라 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "확보된 기초 실험결과들, 문헌정보, 여러 경험을 바탕으로 공정을 설계하고 각 단위공정 개발을 수행함으로써 과학적이고 체계적인 방법으로 원하는 중요품질특성을 만족하는 제조 공정을 확보하는 과정이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(1) 공정인자 (PP) 도출 공정이해의 첫 단계는 각 단위공정에서 중요품질특성에 영향을 줄 수 있는 잠재적인 공정인자를 도출하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이를 위한 효율적인 방법으로 공정 매핑 (Process Mapping)이나 Ishikawa 다이어그램 (Fishbone Diagram)이 사용될 수 있으며, 순서도나 공정흐름도 (Process Flow Diagram, PFD) 형태로 도식화하여 잠재적인 공정인자들을 도출해 낼 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 매핑 (Process Mapping)은 전체 공정을 단위공정들로 세분화하여 나열한 후 각 단위공정 별로 공정인자 (Input)들을 도출하고 그 단계에서 측정 가능한 결과물 (Output)을 도출하는 방식 으로 진행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "대상 공정은 실제 상업생산 공정으로 하며 가급적 상세하게 작성되는 것이 바람직 하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 개발이 진행됨에 따라 관련 정보를 수시로 업데이트하여 최신 정보를 반영할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "아울러 장비 흐름도의 작성 또한 공정 매핑 (Process Mapping)을 위한 도구로 응용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "장비 흐름도는 임상 시료 생산 또는 상업 생산 시 운영되는 장비의 흐름도를 사용하는 것이 적절하며, 임상 시료 생산 또는 상업 생산 규모의 공정이 확립되기 전이라면 가용한 최대 규모의 장비를 기준으로 흐름도를 작성하는 것이 추후 위해진단 시 실제 생산을 가늠하는데 도움이 될 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-2. 공정 매핑 (Process Mapping)을 활용한 공정인자 도출 (A-Mab 사례) 출처 : A-Mab : a Case Study in Bioprocess Development, CMC Biotech Working Group, 2009 Ishikawa 다이어그램은 잠재 공정인자를 카테고리 별로 나누어 도출하는 방법으로 단순한 브레인 스토밍 방식으로 도출하는 경우보다 누락을 줄일 수 있는 방법인데, 카테고리를 얼마나 정교하게 잘 나누어 도출하는 지가 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 매핑 (Process Mapping)과 병용하여 사용하면 최대한 누락 없이 잠재 공정인자를 도출하는데 유용하게 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-3. Ishikawa 다이어그램을 활용한 공정인자 도출(A-Vax 사례) 출처 : A-Vax: Applying Quality by Design to Vaccines, CMC-Vaccines Working Group, 2012 (2) 초기 공정인자 위해진단 (Initial PP Risk Assessment) 공정 매핑 (Process Mapping) 등을 통해 각 단위공정에 대한 공정인자 (Input)와 결과물 (Output)을 파악했다면, 도출된 공정인자들에 대하여 현재 가지고 있는 지식과 경험을 바탕으로 위해진단을 수행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "초기 공정인자 위해진단은 도출된 공정인자들이 잠재적으로 중요품질 특 성에 어떤 영향을 끼치는지 평가하는 과정으로 볼 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "초기 위해진단 시점에는 대부분의 경우 데이터가 충분치 않으므로 각 공정인자들에 대한 잠재적인 중요도 (Criticality)를 평가 하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "초기 공정인자 위해진단에서는 지금까지 수행된 공정 개발 자료들, 비임상, 임상 시료 제조 정보 등 최대한 많은 정보를 바탕으로 공정인자가 중요품질특성에 미치는 영향을 평가하고, 부족한 지식으로 인한 위해를 낮추기 위해 어떤 데이터를 어떤 방식으로 추가 확보할 지 계획을 도출 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-4. 초기 공정인자 위해진단 시 고려사항 및 필요 정보 초기 공정인자 위해진단은 2단계로 나누어 진행될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "1단계는 각 공정인자들의 중요품질 특성에 끼치는 영향을 잠정적으로 판단하는 단계이고, 2단계는 1단계에서 선정한 중요 인자들에 대해 인자 간 상호작용 (Interaction)이 존재하는지를 역시 잠정적으로 평가함으로써 추가 실험 계획을 수립하는 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "1) 1단계 위해진단 1단계 위해진단은 위해 순위 선별법 (RRF), 고장특성 영향분석 (FMEA) 등 다양한 위해진단 도구를 활용할 수 있는데, 각 도구마다 평가지표와 평가 방식의 차이가 있으므로 평가 시점에 확보 가능한 정보의 수준을 고려해 가장 적절한 도구를 선택한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "예를 들어 RRF를 사용하는 경우 중요품질특성 및 중요공정특성 (Key Performance Attributes, KPAs – 예: Yield, Process Consistency)에 미치는 영향을 나타내는 영향도 점수 (Impact Score)와 이 평가의 근거로 활용한 자료의 불확실성을 평가한 불확실성 점수 (Uncertainty Score)로 평가를 진행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-1. 위해 순위 선별법 (RRF)의 영향도 (Impact) 평가를 위한 기준 지표 사례 표 II-5-2. 위해 순위 선별법 (RRF)의 불확실성 (Uncertainty) 평가를 위한 기준 지표 앞의 기준을 적용하여, 영향도와 불확실성을 평가하고 다음과 같은 위해 순위를 통해 중간 (Moderate) 이상의 공정인자에 대해 2단계의 위해평가를 진행할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Matrix 점수 기준표는 A-Mab, A-Vax 사례에 언급된 Matrix 점수 기준표를 사용하거나, 각 업체별로 별도 개발한 Matrix를 사용할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-3. 위해 순위 선별법 (RRF)의 위해평가 구분표 배양 공정인자들에 상기 방법으로 위해진단을 진행한 사례는 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-4. 위해 순위 선별법 (RRF)을 활용한 배양 공정에서의 1단계 위해진단 결과 예시 2) 2단계 상호작용 (Interaction) 평가 1단계 위해진단은 중요품질특성 (CQA), 중요공정특성 (KPA)에 대한 잠재적 영향 및 관련 근거 들의 객관성 여부 등에 초점을 맞춰 평가하며, 도출된 결과 중 위해 수준 (Risk Level)이 중간 (Moderate) 이상부터는 정보가 부족하거나 CQA, KPA 의 영향이 크다고 판단되는 항목들로 추가 실험을 필요로 하는 인자로 구분될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이렇게 선별된 인자들에 대해 2단계 상호작용 (Interaction) 평가를 수행함으로써 향후 수행되 어야 하는 실험 설계의 종류를 논리적으로 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정인자 별 평가결과에 따라 실험 계획법 (DoE) 또는 단변량 (One Factor At a Time, OFAT) 실험 등 적절한 실험설계를 적용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "2단계 평가는 반드시 수행해야 하는 평가라기보다는 적합한 실험 설계 선택의 논리적인 근거를 확보하기 위함이므로, 공정에 관한 정보가 충분하다면 생략할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-5. A-Vax에서 제안된 상호작용 효과 평가 기준 출처 : A-Vax: Applying Quality by Design to Vaccines, CMC-Vaccines Working Group, 2012 Main Effect의 평가는 1단계에서 평가된 CQA/KPA 영향도 (Impact) 평가를 그대로 적용하고 공정 인자간 상호작용 (Interaction) 평가 결과를 추가하여 아래와 같은 Matrix 점수 기준표를 작성할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA에 영향이 강하며 상호작용 (Interaction)이 존재할 것으로 예상되는 인자들은 위해성이 높게 평가되며, 이 경우 DoE 등의 상호작용 (Interaction)을 고려한 실험 설계를 수행하도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-6. 실험 설계를 위한 상호작용에 따른 평가 기준 출처 : A-Mab : a Case Study in Bioprocess Development, CMC Biotech Working Group, 2009 상기 점수 중 32점 이상에 대해서는 다변량 (Multivariate) 실험을 기본적으로 고려하며, 타당성 (Justification)을 전제로 한 단변량 (OFAT)에 해당하는 공정인자들에 대해서는 제약 조건 등을 판단하여 범위를 한정하거나 기 확인된 공정 범위에서 특정 공정인자를 고정하여 실험 설계가 이루어지도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이렇게 상호작용 (Interaction) Matrix을 작성함으로써 다변량 (Multivariate) 실험들에 대해서는 하나의 실험 설계 내에 관련 공정인자들을 포함 시켜 반응표면설계 (Response Surface Design) 또는 완전요인 (Full Factorial) 등의 실험을 설계하고, 단변량 (OFAT) 실험들은 실험점을 최소 3개 이상을 두어 변곡점을 찾을 수 있도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "3) 중요품질특성 (CQA)과 단위공정과의 상관관계 Matrix 초기 공정인자 위해진단이 완료되면 각 단위공정이 CQA에 미치는 잠재적인 영향이 모두 파악 되었다고 볼 수 있으며, 이를 바탕으로 다음과 같은 CQA-단위공정 (Unit Operation) Matrix 작성이 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA와 단위공정과의 상관관계로부터 공정특성화 실험 시 확인 또는 분석해야 할 CQA 항목들을 좀 더 명확히 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-7. 중요품질특성 (CQA)과 단위공정과의 상관관계 평가 (3) 공정특성화 실험 공정특성화 실험은 초기 위해진단에서 확인된 잠재적 위해 인자들을 공정범위 또는 보다 넓은 범위 내에서 평가하여 실제 중요품질특성 (CQA)/중요공정특성 (KPA)에 직접적인 영향을 미치는지 확인하는 과정이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정특성화는 앞에서 평가된 중간 (Medium) 위해수준 (Risk Level) 이상의 공정인자들에 대해 확정한 실험 설계에 따라 진행하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정특성화의 목적은 각 중요인자들에 대해 공정가동 범위 (Normal Operating Range, NOR)를 벗어났을 경우에 대한 실험적 결과를 확보하는 것뿐만 아니라 각 인자들에 대한 중요공정변수 (Critical Process Parameters, CPP)를 선정할 수 있는 기초 정보를 제공하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 개발 단계에서 충분한 실험이 이루어졌다면 추가적인 실험이 많이 줄어들 수도 있으나 그렇지 못한 경우 많은 시간과 노력이 필요한 단계이기도 하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "바이오의약품의 기본적인 생산 규모 (Scale) 등을 고려하면, 실질적으로 상업생산 규모에서의 실험 설계법의 적용은 불가능한 접근이라 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이에 각 단위조작에 대해 상업생산 또는 임상의약품 생산 규모와 동등한 조건에서의 스케일다운 (Scale Down) 모델의 수립은 모든 실험의 진행에 앞서 선행 되어야 하는 중요한 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "적절한 스케일다운 (Scale Down) 모델 수립을 통해 실험실 규모 (Lab Scale)가 상업 생산 공정을 대표할 수 있음을 검증하여 공정 특성화 실험을 수행할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "스케일다운 (Scale Down) 모델에 대한 검증은 다양한 증명 방법을 통해 허가기관에 제시되어야 할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정특성화 실험을 진행하면서 고려해야 할 추가적인 사항은 특성화 실험을 수행하는 인자들의 실험 범위일 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정특성화 실험으로부터 우리가 확인하고자 하는 사항은 공정범위를 벗어났을 경우 각 인자가 중요품질특성 (CQA) 또는 중요공정특성 (KPA)에 미치는 영향이 있는 지를 판단하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그렇기 때문에 아래와 같이 실제 운영하는 공정가동범위 (NOR) 보다 넓은 범위에서 공정특성화 연구범위를 선정하여 공정 범위를 벗어났을 때의 위해성을 판단하기 위한 근거로 활용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-5. 공정인자의 범위 설정 공정특성화 실험을 위한 특성화 범위, 실험 설계, 확인해야 할 특성값 항목, 스케일다운 (Scale Down) 모델, 잠재적인 상호작용 (Interaction)에 따른 공정변수 (Parameters) 들이 모두 확정되면 각 단위공정에서의 특성화 실험을 수행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정특성화 결과를 통해 공정인자의 중요성을 분류해 낼 수 있으며, 중요공정변수 (CPP)들로 구성된 함수 모델을 구축할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "모델은 가능한 한 간결하게 수립할 것을 추천하며, 이런 간결한 모델은 높은 예측력을 가질 수 있을 뿐만 아니라 변동성 (Variability)을 표현하기에도 적절하게 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "실험계획법 (Design of Experiment, DoE) 실험계획법은 도출된 공정인자들에 대해 효율적으로 실험하고 통계적으로 결론을 도출하기 위한 기법이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "앞서 수행된 공정 매핑 (Process Mapping)으로부터 많은 공정인자들이 도출될 수 있으며, 도출된 모든 인자들에 대해 중요품질특성 (CQA)에 대한 영향을 평가하는 것은 쉽 지 않은 일이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 많은 인적 물적 자원이 투입될 수 밖에 없을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "실험설계는 최소한 의 실험을 통해서 최대의 정보를 확보하기 위한 방법으로 의약품 개발과정에 도입되었으며, 다 양한 실험결과에 대한 신뢰성과 재현성을 확보하기 위하여 수행된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-6. 실험계획법의 절차 실험계획법 적용은 크게 3단계로 나누어 볼 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "입력변수가 많고, 그 효과만을 확인하기 위한 스크리닝 단계, 중요입력변수들이 출력변수에 미치는 특성을 파악하는 특성화 단계, 마지막으로 중요입력변수들의 최적 조건을 설정하는 최적화 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-7. 실험설계의 단계 현재의 정보 수준, 입력변수의 수, 최적 조건의 수립 여부 등을 고려하여 적절한 실험 설계 방법을 적용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "1) 완전요인설계 (Full Factorial Design) 완전요인설계는 2k 요인설계 (Factorial Design)이라고 하며, 2 수준을 갖는 k개의 인자로 구성된 설계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "예를 들어 22 요인 실험은 2수준을 갖는 2개의 인자로 구성된 실험을 의미한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "완전요인설계는 주로 특성화/최적화 단계에 적합하며, 상대적으로 적은 실험을 통해 인자에 대한 모든 정보를 얻을 수 있는 아래와 같은 특징을 가지고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 인자의 모든 조합이 시험된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 주효과와 상호작용의 효과를 모두 평가할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 정의된 시험의 영역 내의 모든 가능한 점에서 출력(반응)값을 추정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 실험의 오차(잔차)는 반복으로부터 구할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "2, 3, 4 인자에 대한 완전 요인 실험은 그림 II-5-8과 같이 설계될 수 있으며, 주효과와 상호 작용에 대한 평가가 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-8. 2, 3, 4인자 요인 (Factor)에 대한 실험 설계 및 큐브 구조 (Cube Plot) 2) 부분요인설계 (Fractional Factorial Design) 부분요인설계는 완전요인설계의 일부만을 실험하여 꼭 필요로 하는 정보를 얻을 수 있는 실험 설계방법이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-9. 완전요인설계에서 선택된 1/2 부분요인설계 부분요인설계이기 때문에 특정 정보는 누락되거나 판단하기 어려울 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "하지만 많은 인자의 주효과만을 판단하기 위한 스크리닝 단계 등에서는 적은 수의 실험으로도 원하는 결과를 확보 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "실험을 통해 주효과만 확인하면 되는 스크리닝의 경우에는 해상도 IV의 부분요인설계를 통해서 원하는 결과를 얻어낼 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "3) 반응표면설계 (Response Surface Design) 반응에 곡률이 존재하는 경우는 앞서 설명한 완전요인설계나 부분요인설계 등의 실험 설계만 으로는 최적점 또는 실험의 모델을 완성할 수 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이런 곡률이 존재할 때 사용 될 수 있는 실험 설계법이 반응표면설계 실험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "반응표면설계는 크게 중심합성법 (Central Composite Design, CCD) 과 Box-Behnken법이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중심합성법 (Central Composite Design)은 완전요인설계에 축점을 추가하여 완성하는 설계로써 축점이 어디에 위치하느냐에 따라 아래와 같이 3가지 실험법으로 나누어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-10. 중심합성법의 종류 Box-Behnken법은 큐브라인의 중앙점을 이용하는 실험 설계법으로 중심합성법보다는 적은 실험점을 가지고 있으며, 축점에서는 실험이 이루어지지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-11. Box-Behnken 실험 설계점 설계공간 (Design Space) 설계공간은 품질 보증과 연관된 공정변수와 투입 변수(예: 물질 특성 요소)의 다차원적 조합과 상호작용을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "설계공간 안에서의 작업은 변경으로 간주되지 않으나, 이를 벗어나는 것은 변경으로 간주되며 일반적으로 규제기관에 변경 신청을 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-12. 설계공간 (Design Space) 출처 : ICH Guideline Q8(R2) 일반적으로 설계공간은 실헙설계법 (DoE)을 통해서 확인이 가능하며, 그림 II-5-12와 같이 설계 공간을 선형적 조합 (Linear Combination)으로 설정하면 각 공정인자 별 입증된 허용 범위 (Proven Acceptable Range, PAR)를 확보할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "실제 생산 공정에서는 공정인자의 입증된 허용 범위 (PAR) 안쪽에 설정값 (Set Point)과 공정가동범위 (Normal Operating Range, NOR)를 설정하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "실험설계법 (DoE)을 활용한 공정특성화 예 백신 본배양의 감염 시 세포농도 (Cell Density, CDI) 및 감염다중도 (Multiplicity of Infection, MOI) 본배양에서 가장 중요한 단계는 바이러스를 감염시키는 단계로 볼 수 있으며, 감염시점의 세포 농도 및 바이러스 농도가 생산성에 직접적인 영향을 끼칠 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이런 인자는 초기 공정인자 위해진단에서도 고 위해 (High Risk) 이상으로 분류되었으며, 각각의 인자 또한 서로 상호작용 (Interaction)이 있을 것으로 추정하여 아래와 같이 반응표면설계로 실험설계가 이루어졌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-8. 공정특성화 실험 범위 및 공정인자 중심합성법을 이용해 설계한 총 17개의 실험 (Run)을 수행하여 각 조건에서의 생산성을 측정 하고 모델 분석을 진행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-9. 본배양 공정에 대한 반응표면 모델 실험 설계 JMP Software를 이용하여 Stepwise 방법으로 모델을 생성하였고, 모델식에 포함되는 요인들의 유의성을 보장하기 위해 아래와 같이 p-value 0.1 이하의 요인만 모델에 포함되도록 후방제거 (Backward Elimination)를 이용하였다 그림 II-5-13. Stepwise 방법을 이용한 모델 수립 생성된 모델의 R-square 값은 약 0.984로 매우 높았고, Adjusted R-square 값과 Predicted R-square 값도 각각 약 0.977, 0.952로 높게 확보되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "R-square값은 모델이 실험 데이터와 얼마나 잘 맞는지를 나타내는 지표로, 1에 가까울수록 모델이 데이터를 잘 설명한다는 의미이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 값의 기준은 회사마다 다를 수 있으며, 예를 들어 0.5 이상일 때 모델을 채택하고 활용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Adjusted R-square 값은 모델이 최적화 되었을 때 최대가 되므로 최적 모델을 구축할 때 활용 하고, Predicted R-square 값은 새로운 데이터에 대한 모델의 예측력을 나타내 주는 지표이므로 R-square 값과 마찬가지로 1에 가까울수록 좋은 모델이 만들어졌음을 의미한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-14. 모델의 적합성을 판단하기 위한 분산분석 (ANOVA) 앞서 도출한 모델을 최종 확정하기 전에 모델로 설명이 안 되는 오차 (Error)내에 중요한 경향성 이나 이상치 등이 존재하지 않는지 점검함으로써 모델의 적합성을 최종 판단하는데, 본 예에서는 생성된 모델에서 잔차 (Residuals)가 한계 (Limit)를 초과하는 데이터는 발견되지 않았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-15. 잔차 분석을 통한 데이터 분포 확인 감염다중도 (MOI), 세포농도 (CDI), 배양시간 (Culture Time) 모두 생산성 (Productivity)에 영향을 주는 것으로 확인되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "MOI의 경우 값이 커질수록 생산성 (Productivity)이 높아짐을 알 수 있었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CDI가 가장 큰 영향을 주고 있었는데, 값이 작을수록 생산성 (Productivity)이 더욱 커지는 곡선 효과가 있으며, 배양시간 (Culture Time)의 경우 배양시간이 증가할수록 생산성 (Productivity)이 높은 값을 나타내었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-16. 생산성에 대한 예측 모델 그림 II-5-17. 인자간 상호작용 (Interaction)의 확인 배양시간 (Culture Time)의 경우 바이오리액터 (Bioreactor) 실험을 통해 최적 가동범위 (Operating Range)를 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "분석 결과의 설정값 (Set Point)인 100 h로 고정한 뒤, Contour Profiler를 통해 MOI 및 CDI에 대한 가동범위 (Operating Range)를 설정하고자 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-18. Contour Plot을 통한 공정 범위의 설정 상기 설정된 조건으로 검증 실험 (Verification Run)을 수행하였으며 예측치와 유사한 결과를 확보할 수 있었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 해당 실험을 통해 감염다중도 (MOI), 세포농도 (CDI), 배양시간 (Culture Time)은 공정 수율 뿐만 아니라 순도에도 영향을 끼치는 인자로 중요공정변수 (Critical Process Parameter, CPP) 또는 중요공정변수 (Key Process Parameter, KPP)로 분류될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(4) 공정인자 위해진단 개정 (Updated PP Risk Assessment) 공정인자 위해진단 개정은 공정특성화 실험 완료 후 확보한 정보를 토대로 초기 공정인자 위해진단 결과를 업데이트하고, 각 공정인자의 위해를 재진단하여 CPP, KPP 등으로 분류하는 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 과정에는 공정개발자뿐만 아니라 생산시설의 관리자도 위해진단 시 포함하여, 공정과 공정인자를 관리하기 위한 전반적인 전략을 수립한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "위해진단 개정 시에는 이미 충분한 정보가 공정특성화를 통해 확보되었음을 전제로 하고 있으며, 이런 정보를 바탕으로 실제 생산 시의 위해를 진단하는 데에 주목적이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그렇기 때문에 고장특성 영향분석 (Failure Mode and Effect Analysis, FMEA)을 통해 각 공정이 운영 범위를 벗어났을 때 발생 가능한 영향을 평가하고 (Severity), 얼마나 자주 해당 일탈이 발생 하는지 (Occurrence), 실시간 또는 배치 (제조단위, Batch) 출하승인 (Release) 시의 검출 (Detection)이 가능한지를 판단하여 위험을 줄이기 위한 1차적인 조치를 취할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "위해점수 (Risk Scoring)를 위한 기준은 아래와 같이 수립하여, 각 인자에 대해 1, 2, 4, 8 점으로 구분 점수화 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "점수가 높을수록 심각도 (Severity)가 높고, 잦은 일탈 및 일탈 발생을 감지하는 것도 배치 (제조단위, Batch) 생산이 모두 끝난 후에야 가능할 정도로 어려운 경우라 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-10. 최종 위해평가를 위한 기준 지표 출처 : A-Mab : a Case Study in Bioprocess Development, CMC Biotech Working Group, 2009 위해평가는 먼저 심각도 (Severity)와 발생빈도 (Occurrence)를 평가하여 위해 분류를 진행하고, 검출도 (Detection)를 평가하여 우선 위해도 (Risk Priority)를 결정하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "결정된 위해수준 (Risk Level)에 따라 중간 (Medium) 이상에서는 위해인자를 제거하기 위한 완화 (Mitigation) 전략을 수립할 필요가 있으며, 필요에 따라 많은 리소스 (Resource)를 투입하게 되는 경우도 발생할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "낮은 위해 (Low Risk)에 대해서는 별도의 회피 전략을 수립할 필요가 없으며 현재의 공정 관리 수준으로도 만족할 수 있음을 의미한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "상기와 같은 분류 기준을 통해 전 단위공정에 대해 각각 위해진단을 진행하며, 중간 위해 (Medium Risk) 이상의 위해인자에 대해서는 제조기록서의 설명 (Instruction) 추가 등을 통해 검출도를 올려주는 방향으로 전략을 수립한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "표 II-5-11. 위해평가지표 (SOD) (예시) 출처 : A-Mab : a Case Study in Bioprocess Development, CMC Biotech Working Group, 2009 앞서 설명한 위해평가지표 (SOD) 는 5단계로 구분된 구조를 가지고 있으나 회사에 따라 아래와 같은 4단계 또는 그보다 적은 단계로 구분하여 위해를 평가할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "아래 구분표는 높은 위해와 중간 위해에 대한 구분을 명확히 하기 위해 점수 분포에 차이가 있음을 알 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Matrix 점수 기준표는 각 업체별로 별도 개발한 Matrix 또는 A-Mab/A-Vax 사례에 언급된 Matrix를 사용하여도 무방하며, 반드시 영향도/불확실성 또는 SOD로 평가할 필요는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "용도와 목적에 맞게 적절히 사용하여 중요인자에 관리 역량을 집중할 수 있도록 평가하는 것이 바람직하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(5) 공정인자 분류 (Parameter Classification) 공정인자 위해진단 개정 결과 각 공정인자가 중요품질특성 (CQA)에 영향을 주는 중요공정인자 여부를 객관적 근거를 기반으로 판단할 수 있게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정인자를 분류하는 기준은 여러 가지가 있을 수 있으며, 각 회사에 따라 적절한 의사결정 구조 (Decision Tree)를 수립하여 운영될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "가장 단순한 분류 체계는 CQA나 공정성능 (Process Performance)에 미치는 영향 (Impact)을 기준으로 분류하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA에 중요한 영향을 주는 인자는 중요공정변수 (CPP)로 규정하고, 영향을 주는 것이 미비할 경우 비중요공정변수 (Non-CPP)로 규정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 방식은 이미 관리가 잘되고 있어 별도의 조치가 필요 없는 공정인자들에 대해서도 자원을 투입해야 할 상황이 발생할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-19. 영향도 (Impact) 평가에 기초한 공정인자 분류 체계 출처 : A-Mab : a Case Study in Bioprocess Development, CMC Biotech Working Group, 2009 A-Mab에서 제안하는 분류 체계는 주요공정인자 (CPP) 또는 CQA에 영향을 주는 공정변수 (Well Controlled Critical Process Parameter, WC-CPP)로 구분하여 공정제어 능력도 분류기준에 포함시켜 고려하기도 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "현재는 여러 가지 분류 체계에 대한 혼란이 있어 중요공정변수 (CPP)와 비중요공정변수 (Non-CPP)로 구분하여 표현한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-5-20. A-Mab 사례에서 제안된 공정인자 분류 체계 출처 : A-Mab : a Case Study in Bioprocess Development, CMC Biotech Working Group, 2009 관리전략(Control Strategy) (1) 관리전략 개념 관리전략은 의약품이 개발 예정이거나 개발된 제품과 공정에 대한 명확한 이해를 바탕으로 미리 계획된 관리정도의 설정을 통해 공정성능과 제품의 품질을 보증하는 것으로 정의된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(ICH Q10) 본 장에서는 관리전략 및 방향을 설정하고 구현하기 위한 접근법에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "의약품 개발을 위한 원료의약품 (Drug Substance) 공정 개발 단계에서의 관리전략 모델은 세 가지 단계로 전개된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "1단계는 제품의 중요품질특성 (CQA)과 관련이 있으며 환자의 안전, 효능 및 품질에 가장 중점을 둔다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 단계에서는 개발 비용 및 제조 실현 가능성과 같은 비즈니스적 고려 사항이 검토될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "2단계는 중요품질특성을 충족시키는 데 필수 관리 사항으로 중요공정변수 (CPP) 및 중요원료 (CMA)가 요약되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "3단계에는 분석방법, 공정엔지니어링 및 기타 관리 방법이 포함된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "최근에, 원료의약품의 일반적인 개발에서 ICH Q11 관리전략을 다음과 같이 요약하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 원자재 특성 (원자재, 출발 물질, 시약 및 원료의약품의 1차 포장 포함)에 대한 관리 • 제조 공정 설계의 관리 (예: 시약 첨가 순서) • 공정 중 시험 및 공정변수를 포함하는 공정검사 (IPC) • 원료의약품에 대한 관리 (예: 출하시험) 관리전략은 특성관리와 중요공정변수 (CPP)를 위해 입증된 허용 범위 내에서, 중요공정변수 관리, 기기 및 장비관련 작동절차 관리작업이 이행되는 관점에서 수행하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "품질위해관리를 수행하여 실험계획법에 의해 실험 후 데이터 분석 및 시뮬레이션 등을 통해 원료의약품 공정특성 분석결과 세포배양 단계에서 온도, 배양기의 회전수 (RPM) 및 배양기간 동안의 pH등이 중요공정변수들 (CPPs)로 확인되었다면, 다음과 같이 관리전략을 수립하는 것이 타당할 것이다 (표 II-6-1). 표 II-6-1. 중요공정변수 (CPP) 선정 (2) 의약품 개발 단계에서의 관리전략 수립 1) 중요공정변수 (CPP)로 선정된 Parameter의 관리전략 공정가동범위 (NOR)의 설정 중요공정변수로 선정된 위 3가지(온도, 회전수, pH)의 관리전략으로 첫째, 공정가동범위 (NOR)를 설정하여 항상 공정이 우수한 품질을 유지하고 있다는 것을 실현하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 공정가동범위의 설정은 최소값과 최대값으로 표현하고 각각 시뮬레이션 방법 등을 이용하여 최소값과 최대값으로 배양을 진행했을 때 공정 실패율(품질규격을 벗어나는 비율)을 미리 알아야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정 실패율의 적정한 범위는 각 개발사에서 설정하여야 하는데 통상 0.5% 이하로 실패율을 설정하는 것이 일반적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요공정변수 (CPPs)의 교정주기 설정 중요공정변수로 채택된 공정변수에는 센서 등으로 모니터링 할 수 있는 변수들이 존재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 공정변수는 항상 관리상태로 유지하는 것이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "관리상태를 유지하는 방법 으로 교정 (Calibration)을 주기적으로 실시하여 그 상태를 확인하고 관리하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "의약품을 개발하는 개발사는 중요공정변수 (CPPs)들이 채택되었을 시 품질이 미치는 영향을 고려하여 중요도에 따라 교정주기를 설정하는 것이 바람직하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "일반적으로 중요공정 변수들은 1년 미만으로 센서 및 디지털 표시창에 대하여 주기적인 교정을 수행하는 것을 권고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 교정 시 교정값에 대한 기준을 마련하여 정확도 (Accuracy)를 확인하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "상대적으로 비중요공정변수 (Non-CPP)로 채택된 공정변수는 교정 및 관리정도가 낮을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 비중요공정변수의 교정주기는 개발사 내부적으로 결정하는데 통상 2년 이상의 교정 또는 비교측정 등을 통하여 관리할 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요공정변수보다는 낮은 교정 관리 상태를 유지해도 품질규격에는 큰 문제가 없을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "지속적이고 관리가능한 In-line 모니터링 FDA Process Validation Guidance에 따르면 “공정 설계, 분석 및 제어”는 필수적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "즉, 중요품질특성 (CQA), 중요공정변수 (CPP) 및 중요원료 (CMA)는 측정되고 제어되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA는 품질시험을 통해 알 수 있는 규격이지만 이러한 품질규격은 QbD 연구를 통해 많은 시험량과 데이터 분석을 통해 예측가능 하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "즉, 중요공정변수 및 중요원료 특성이 실시간으로 모니터링 된다면 품질시험결과도 실시간으로 예측 가능할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 수행은 향후 공정 밸리데이션 단계를 거친 후 광범위한 검증 활동을 통해 관리 전략을 수립하면서 가능할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "2) 중요원료 (CMA)로 선정된 원료의 관리전략 원료의 일반적 관리전략 원료의 관리는 우선 관련 위해의 세 가지 원인을 먼저 해결해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그 원인으로는 원료의 안전성, 공급자의 무결성, 공급시기의 적절성 등이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "우수의약품 제조품질관리 기준 (GMP)과 우수의약품 유통관리기준 (GSP) 대상이 아닌 원료의 경우, 원료의 오염, 혼입, 교차오염, 불확실한 첨가제 또는 품질 저하 위해 가능성이 높기 때문에 관리전략을 수립하기 이전에 공급자의 관리, 품질위해관리 (Quality Risk Management, QRM), 정기 감사 등을 실시하여 해당 원료의 관리 상태를 점검하는 것이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "원료가 중요하지 않은 것으로 정의 (Non-CMA) 한다고 해서 제품 품질에 영향을 미치지 않는다는 보장은 없기 때문이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요원료 (CMA)의 관리전략 중요원료로 선정된 경우 확인시험을 포함하여 전항목 시험을 실시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 전략은 이미 GMP에서 실행하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "원료의 입고 시기에 맞추어 정확한 시험이 실시되어 적합한 원료로 확인되었다면, 그 다음은 공정수행과정을 잘 수립해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "즉, 칭량 시 이중 점검, 원료의 혼합 시 순서 및 절차 등을 명확하고 확실하게 정립하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이러한 것은 표준작업절차서 (SOP) 등으로 작성되어야 하며, 제조지시 및 기록서에 명시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD는 연속적인 개선으로 설명되지만 원료의 관리전략은 상업적 단계에서의 의약품 한계점을 잘 극복하기 위해서는 지속적인 시험관리를 통한 모니터링, 원료 제조 및 공정투입 등에 대한 공정표준화 및 공급자와 지속적인 커뮤니케이션이 필수이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "결과적으로 관리전략은 최초 임상 시험 제조와 상업적 제조활동에서 사용하기 위해 개발과정 에서의 변경 및 지속적인 개선이 이루어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 391,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "더 많은 지식과 이해가 축적됨에 따라 분석 방법론 또는 허용 기준이 변경될 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 392,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "QbD 패러다임에서는 중요품질특성 (CQA) 및 공정능력의 중요성을 고려한 위해진단을 적용하여 관리전략을 수립한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 393,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "최소한의 관리전략 접근 방식은 제약산업에서 전통적으로 사용되는 관리 수준으로, 공정중간체 및 최종제품 시험과 엄격하게 관리되는 원자재 및 공정변수에 광범위하게 의존하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 394,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "하지만 현재는 향상된 QbD 접근 방식을 적용하여 확립된 설계공간 (Design Space) 내에서 최종 제품 시험이 감소하고 유연한 원자재와 공정변수가 줄어드는 과정으로 품질 관리가 전환될 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 395,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "즉, 중요공정변수 및 중요 원료관리를 중점적으로 관리하고, 비관리변수 등은 보다 낮은 관리전략을 구사한다면 비용과 효율면에서 보다 진보적인 의약품 공정관리가 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 396,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "전체적인 관리전략의 접근은 제품의 안정성과 유효성에 대한 부정적 효과 가능성을 최소화하는 것이 목표이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 397,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "또한 포괄적 관리전략을 수립하는 것은 다음 요소들을 고려사항에 포함시키는 것이 바람직하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 398,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 절차적 제어 (Procedural Controls) • 공정 중 제어 (In-Process Controls) • 출하시험 (Lot Release Testing) • 프로세스 모니터링 (Process Monitoring) • 특성 분석 시험 (Characterization Testing) • 안정성 테스트 (Stability Testing) • 원재료와 첨가 물질 관리 (Raw Material and Excipient Controls) (3) QbD 내에서의 공정 밸리데이션 추진전략 “ICH Q8, 의약품개발”, EU Annex 15 및 FDA의 \"Process Validation: General Principles and Practices\"를 포함하여 “제품 전주기 접근법”이 권장되고 있으며 “Quality by Design”은 공정 밸리데이션에 적용되는 적절한 도구로 설명하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 399,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "먼저 공정 밸리데이션 전체를 그림 II-6-1과 같이 세 가지 단계로 설명할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 400,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "그림 II-6-1. 공정 밸리데이션 추진전략 1) 1단계 : 공정 설계 (Process Design) 개발 및 스케일업 (Scale-up) 활동을 통해 확보한 지식에 근거하여 이 단계에서 상업적 제조 공정을 규정하는 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 401,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "일반적으로 제품품질목표 (QTPP)로부터 잠재적 중요품질특성 (CQA)을 정의할 수 있는데, 중요품질특성 (CQA)은 원하는 제품 품질을 보장하기 위한 적절한 한계, 범위 또는 분포 내에 있어야 하는 물리적, 화학적, 생물학적 또는 미생물학적 성질 또는 특성으로 정의된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 402,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CQA는 위해진단을 통해 결정되며, 위해진단은 품질위해관리에 사용되는 경험과 문헌 및 과학 기반 프로세스로 제품 CQA에 잠재적으로 영향을 미칠 수 있는 원자재 특성 및 공정변수를 확인하는 데 사용되는 도구이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 403,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "품질특성에 대한 관리전략은 모든 공정변수의 다차원적 조합과 상호 작용과 CQA에 미치는 영향으로 구성된 설계공간을 정의하는 것이 중요한 관리전략이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 404,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "설계공간은 일반적으로 실험실 또는 파일럿 스케일로 개발되며 실패경계 (Edge of Failure, EOF), 입증된 허용범위 (Proven Acceptable Range, PAR) 및 공정가동범위 (Normal Operating Range, NOR)와 같은 제한된 경계선으로 더 나눌 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 405,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "실패경계 (EOF)는 설계공간에서 개별 배치 (제조단위, Batch) 내에서 승인 기준에 실패하는 지점으로 정의된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 406,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "EOF는 중요 품질특성이 부적합이 발견될 때까지 설계공간을 탐색하고 부적합이 실험적으로 발견되지 않았 더라도 도출된 설계공간을 시뮬레이션 하여 예측적으로 결정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 407,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "PAR은 공정이 사전에 결정된 품질특성을 충족하는 제품을 지속적으로 생산할 수 있음을 검증하는 특성화된 공정변수 범위로 설정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 408,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "PAR은 파일럿 및 상업적 생산 규모 배치 (제조단위, Batch)를 대변한 실험실 규모 (Lab Scale) 실험을 통해 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 409,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "NOR은 각 중요공정변수 (CPP)에 대한 PAR 내에 위치하며, 그 범위는 예상되는 공정 변화와 공정변수를 제어하는 능력을 반영하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 410,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "NOR은 제품이 미리 정해진 품질특성을 충족하며 생산될 수 있음을 보증하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 411,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "2) 2단계 : 공정 적격성 평가 (Process Qualification) 공정 밸리데이션의 공정확인 단계에서는 첫 단계인 공정 디자인을 평가하여 재현 가능한 상업적 제조가 가능한지 결정하는 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 412,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요공정변수 및 중요원료는 중요품질특성에 영향을 미치는데, 이는 공정확인 기간 내에 검증되어야 하며 공정 제어를 위한 지속적인 공정확인에 활용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 413,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "전통적인 공정 밸리데이션에서는 조건 없는 연속 3 배치 (제조단위, Batch)의 공정적격성평가가 요구되었으나, QbD 접근 방식을 통한 공정 밸리데이션에서는 통용되기 힘들다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 414,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "중요품질특성에 중대한 영향을 미치는 중요공정변수 및 중요원료의 모든 변화를 이해하고 관리하는데 필요한 공정 밸리데이션 실행 횟수를 새롭게 정의해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 415,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "전통적 공정 밸리데이션과 같이 여전히 연속 3 배치 (제조단위, Batch) 일 수 있지만 더 많은 공정확인 실행 배치 (제조단위, Batch)를 통하여 보다 더 확실한 공정 성공 가능성이 보증될 수 있으며 이는 위해진단과 통계적 시뮬레이션 방법 등을 활용하여 예측할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 416,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "3) 3단계 : 지속적 공정확인 (Continuous Process Verification) 정규 생산을 진행하며 공정이 관리 상태에 있다는 지속적 보증을 확보하는 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 417,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "생산 공정에서 수집된 데이터의 평가는 적격성 평가 중 정의된 설계공간, 중요공정변수, 중요원료 등에서의 원하지 않는 일탈 (Deviation)을 감지하는데 사용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 418,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "예를 들어, 연속적인 공정단계 또는 생산 배치 (제조단위, Batch) 간의 추세를 확인하는 데 사용될 수 있으며, 시정 및 예방 조치를 취해야 하는지를 평가하는데 이용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 419,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이는 생산 공정 자체에서 일탈을 감지하고 즉각적인 조치를 취할 수 있기 때문에 공정에 대해 훨씬 더 직접적인 관리를 가능하게 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 420,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "연속적 공정확인이 수행되기 위해서는 중요공정변수 등에 대한 지속적인 모니터링이 필요한 항목의 설정이 필수적이며, 공정변수 중 CPP로 분류된 중요공정변수 및 중요품질특성이 주된 관리인자가 될 수 있으며, 이는 앞서 설명하였듯이 교정, 적격성 평가, 모니터링 등에 의해 지속적으로 관리되고 측정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 421,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "(4) 관리전략 추진 결론 결과적으로 관리전략은 원료의약품 및 완제의약품과 원자재, 성분, 시설 및 기기 작동 조건, 공정 중 제어 또는 측정, 완제품 규격 및 관리와 공정관리 빈도수 등과 관련된 특성과 공정변수를 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 422,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "필수적으로 관리전략은 다음 3단계의 관리 수준을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 423,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "• 1단계 : 실시간 자동 제어 및 공정변수로 투입되는 원료 특성의 변동성에 대응 • 2단계 : 설계공간 (Design Space) 내에서 최종제품 시험의 감소, 중요 원자재 특성 및 중요공정변수의 관리 • 3단계 : 최종제품 시험 및 엄격하게 제한된 원자재 특성 및 공정변수관리 관리전략을 정리하는 방법으로 CTD 양식 (Format) 전체에 걸쳐 작성한 자료를 활용하는 것이 효율적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 424,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "CTD는 원료 및 완제의약품의 규격과 제조 공정 개발 (S.5.4, P.5.6 및 P.2.4)의 정당성과 전반적인 관리전략을 요약하고 실행하기 위한 좋은 정리의 예가 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 425,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "I. QbD 용어집 및 참고문헌 1 QbD 용어집 설명(국문) 용어(영문) 용어(국문) 설명(영문) 근거 ※ 식약처 가이드라인 번역본 참조 FDA Measurement where the sample 시료채취분석, 생산 공정 Guidance is removed, isolated from, and 과정에서 채취한 시료를 인접한 At-line 앳라인 on PAT, analyzed in close proximity to 위치의 분석 장비에서 측정하는 식약처 the process stream. 구조 PV Ability of a process to realise 제품의 요구기준에 부합하는 a product that will fulfil the 제품을 실현할 수 있는 공정의 requirements of that product. Q10, FDA Capability of 성능. 공정성능 The concept of process PV a Process 공정성능 개념을 통계적 capability can also be defined Guidance 용어로도 정의할 수 있음 in statistical terms. (ISO (ISO 9000:2005) 9000:2005) A systematic approach to 변경의 제안, 평가, 승인, 시행, Change proposing, evaluating, 변경관리 검토를 위한 체계적 접근 방법 Q10 Management approving, implementing and (ICH Q10) reviewing changes. (ICH Q10) The manufacturing process resulting in commercial product (i.e., drug that is marketed, 상업용 제품 (판매, 유통 및 distributed, and sold or 판매되거나 판매될 예정인 Commercial 상용생산 intended to be sold). 의약품)을 생산하는 제조공정. FDA PV Manufacturing 공정 For the purposes of this 이 가이드라인의 목적에 따라, Guidance Process guidance, the term commercial 상용생산공정은 임상이나 IND용 manufacturing process does 생산을 포함하지 않음 not include clinical trial or treatment IND material. Releasing for distribution a lot of finished product, 희귀질환치료제 등과 같이 manufactured following a 제한된 생산량이 요구되는 Concurrent qualification protocol, that 경우에 예외적으로, 설정기준을 FDA PV 동시적 출하 Release meets the lot release criteria 만족하는 공정적격성 평가를 Guidance established in the protocol, but 바탕으로 최종제품을 출하하는 before the entire study 것 protocol has been executed. Recurring activity to increase 요구 기준의 충족 능력을 Continual 지속적 the ability to fulfil requirements. 향상시키는 반복적 활동 Q10 Improvement 개선 (ISO 9000:2005) (ISO 9000:2005) 제조공정의 성능을 지속적으로 FDA PV Assuring that during routine 모니터링하고 평가하는 방식을 Guidance, production the process remains 이용하는 공정 밸리데이션의 식약처 in a state of control.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 426,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"새로운 접근방식 PV\", \"Continuous\", \"지속적\", \"Process\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 427,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정확인 An alternative approach to Verification process validation in which 제조공정 성능을 지속적으로 manufacturing process 점검하고 평가하는, 공정 Q8(R2) performance is continuously 밸리데이션의 한 방법 monitored and evaluated. 설명(국문) 용어(영문) 용어(국문) 설명(영문) 근거 ※ 식약처 가이드라인 번역본 참조 A planned set of controls, derived from current product and process understanding that ensures process performance 현재의 제품 및 공정 이해를 and product quality. 바탕으로 공정 성능과 제품 The controls can include 품질을 보장하기 위해 설정한 Q8(R2) parameters and attributes 관리 대책. Part II, Control related to drug substance and 원료의약품 및 완제의약품과 관리전략 Q10, Strategy drug product materials and 관련 된 변수와 특성, 시설 및 식약처 components, facility and 설비의 운전상태, 공정 중 PV equipment operating conditions, 관리, 최종 제품 규격, in-process controls, finished 모니터링 및 관리 방법과 product specifications, and the 주기가 포함 (ICH Q10) associated methods and frequency of monitoring and control. (ICH Q10) Action to eliminate the cause 감지된 부적합 상황 또는 기타 of a detected non-conformity 바람직하지 않은 상황의 원인을 or other undesirable situation. 제거하기 위한 조치. Corrective NOTE: Corrective action is 시정조치 주: 시정조치는 재발 방지를 Q10 Action taken to prevent recurrence 위한 것이며, 예방조치는 발생 whereas preventive action is 방지를 위한 것 taken to prevent occurrence. (ISO 9000:2005) (ISO 9000:2005) A process parameter whose variability has an impact on a 변동이 발생하면 Critical critical quality attribute and 중요품질특성에 영향을 주므로, Process 중요공정 Q8(R2) therefore should be monitored 공정이 원하는 품질을 Parameter 변수 Part II or controlled to ensure the 생산하도록 하기 위해 점검 (CPP) process produces the desired 또는 관리해야 하는 공정변수 quality. A physical, chemical, biological 원하는 제품 품질을 보장하기 or microbiological property or Critical Quality 위하여, 적절한 한도, 범위, 중요품질 characteristic that should be Q8(R2) Attribute 또는 분포 이내에 있어야 하는, 특성 within an appropriate limit, PartII (CQA) 물리적, 화학적, 생물학적, 또는 range, or distribution to ensure 미생물학적 특징이나 특성 the desired product quality. Person(s) with the competence 적절한 품질 위해 관리 결정을 Decision 의사 and authority to make 적시에 내릴 수 있는 권한과 Q9 Maker(s) 결정자 appropriate and timely quality 능력을 갖춘 사람 risk management decisions. 설명(국문) 용어(영문) 용어(국문) 설명(영문) 근거 ※ 식약처 가이드라인 번역본 참조 The multidimensional combination and interaction of input variables (e.g., material attributes) and process parameters that have been 품질을 보증하는 공정변수와 demonstrated to provide 투입변수(예: 재질 특성)의 assurance of quality. 다차원적 조합 및 상호작용. Working within the design 설계공간 안에서의 작업은 space is not considered as a 변경으로 간주하지 않음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 428,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Design Space 설계공간 change. 설계공간을 벗어나는 것은 Q8(R2) Movement out of the design 변경으로 간주하며, 그에 따라 space is considered to be a 규제기관의 허가 후 변경 change and would normally 절차를 거침. 설계공간은 initiate a regulatory post 신청자가 제시하며, 규제기관의 approval change process. 평가 및 승인 대상이 됨 Design space is proposed by the applicant and is subject to regulatory assessment and approval. The ability to discover or 위해 요소와 관련된 사실 또는 검출 Detectability determine the existence, 위험 요소의 존재를 발견하거나 Q9 가능성 presence, or fact of a hazard. 진단하는 능력 A tool or process which 목적 달성 수단을 제공하는 달성을 provides the means to achieve Enabler 도구 또는 절차 Q10 위한 수단 an objective. (ICH Q10) (ICH Q10) Feedback: The modification or 피드백: 공정 또는 시스템의 control of a process or system 결과나 영향에 의한 그 by its results or effects. 공정이나 시스템의 변경 또는 Feedforward: The modification 관리 or control of a process using 피드백제어: 공정의 예상 its anticipated results or 결과나 영향을 활용한 공정의 Feedback / 피드백/ effects. (Oxford Dictionary of 변경 또는 관리 Q10 Feedforward 피드포워드 English. Oxford University (옥스퍼드 대학 출판 옥스퍼드 Press; 2003) 영어 사전;2003) Feedback/feedforward can be 피드백/피드백포워드를 공정 applied technically in process 관리 전략에 기술적으로 control strategies and 적용하고, 품질 관리에 conceptually in quality 개념적으로 적용 management. (ICH Q10) (ICH Q10) A structured, organized method for determining the relationship 공정과 공정에서 비롯된 Formal between factors affecting a 생산물에 영향을 주는 요소 정식실험 Experimental process and the output of that 간의 관계를 결정하기 위한 Q8(R2) 설계 Design process. 체계적이고 조직화된 방법. Also known as “Design of \"실험설계\"라고도 함 Experiments.” Damage to health, including the 제품의 품질 저하 또는 제품 damage that can occur from 활용성을 상실함으로 인해 Harm 위해 Q9 loss of product quality or 발생할 수 있는 훼손을 포함한 availability. 건강과 관련된 훼손.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 429,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"용어(영문)\", \"용어(국문)\", \"설명(영문)\", \"설명(국문)\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 430,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "※ 식약처 가이드라인 번역본 참조 근거 Hazard 위험원인 The potential source of harm. (ISO/IEC Guide 51) 위해의 잠재적 원인 (ISO/IEC Guide 51) Q9 Measurement where the sample is not removed from the process stream and can be invasive or noninvasive. 공정내분석, 생산 공정 과정에 분석장치가 위치하여 생산과정의 시료를 침습적 또는.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 431,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"비침습적으로 측정하는 구조\", \"식약처\", \"In-line\", \"인라인\", \"PV\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 432,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "The introduction of new technologies or methodologies.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 433,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"(ICH Q10)\", \"새로운 기술이나 방법의 도입\", \"(ICH Q10)\", \"Q10\", \"Innovation\", \"혁신\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 434,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Systematic approach to acquiring, analysing, storing, and disseminating information related to products, manufacturing processes and components. (ICH Q10).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 435,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"제품, 제조공정, 구성성분과\", \"관련된 정보의 수집, 분석,\", \"보관, 보급을 위한 전반적인\", \"접근 방법\", \"(ICH Q10)\", \"Knowledge\", \"Management\", \"지식관리\", \"Q10\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 436,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "All phases in the life of a product from the initial development through marketing until the product’s discontinuation. 초기 개발부터 시판을 거쳐 제품 종결까지, 한 제품의 일생.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 437,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"전체에 걸친 모든 단계\", \"Q8(R2),\", \"Lifecycle\", \"전주기\", \"식약처\", \"PV\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 438,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Measurement where the sample is diverted from the manufacturing process, and may be returned to the.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 439,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"process stream.\", \"공정우회분석, 생산 공정\", \"과정과는 우회된 경로에 있는\", \"측정 장치에서 시료를\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 440,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "분석하고, 분석한 시료를 생산 공정 과정으로 돌려보내는 구조.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 441,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"식약처\", \"On-line\", \"온라인\", \"PV\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 442,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Activities conducted by a contract acceptor under a written agreement with a.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 443,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"contract giver.\", \"(ICH Q10)\", \"위탁업체와의 계약에 의거하여\", \"수탁업체가 수행하는 업무\", \"(ICH Q10)\", \"Outsourced\", \"Activities\", \"위탁업무\", \"Q10\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 444,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Measurable values used to quantify quality objectives to reflect the performance of an organisation, process or system, also known as “performance metrics”in some regions. (ICH Q10).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 445,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"조직, 공정 또는 시스템의\", \"성능을 반영하여 품질 목표를\", \"계량적으로 평가하는데\", \"활용하는 측정 가능한 값.\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 446,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "\"성능 측정\"이라고 부르기도 함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 447,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"(ICH Q10)\", \"Q10, FDA\", \"Performance\", \"Indicators\", \"성능지표\", \"PV\", \"Guidance\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 448,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Management system to direct and control a pharmaceutical company with regard to quality. (ICH Q10 based upon ISO. 9000:2005) Pharmaceutical 품질과 관련하여 의약품 회사의 방향을 이끌고 통제하는 관리 시스템 (ICH Q10: ISO9000:2005 기반).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 449,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"의약품\", \"Quality\", \"System\", \"품질\", \"시스템\", \"Q10\", \"(PQS)\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 450,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "설명(국문) 용어(영문) 용어(국문) 설명(영문) 근거 ※ 식약처 가이드라인 번역본 참조 Action to eliminate the cause 미준수 가능성 또는 기타 of a potential non-conformity 바람직하지 않은 상황이 발생할 or other undesirable potential 가능성의 원인을 제거하는 situation. Preventive 조치. 예방조치 NOTE: Preventive action is Q10 Action 주: 예방조치는 발생 방지를 taken to prevent occurrence 위한 것이며, 시정조치는 재발 whereas corrective action is 방지를 위한 것 taken to prevent recurrence. (ISO 9000:2005) (ISO 9000:2005) A system for designing, analyzing, and controlling 재질 및 제조 과정 중의 재질, manufacturing through timely Process 공정의 핵심 품질 및 성능을 measurements (i.e., during Q8(R2), Analytical 공정분석 적시에 평가(즉, 가공 중에)하여 processing) of critical quality 식약처 Technology 기술 최종 제품의 품질 보증을 and performance attributes PV (PAT) 목적으로 하는 제조 설계, of raw and in-process materials 분석, 관리 시스템 and processes with the goal of ensuring final product quality. Process 공정 특성 식약처 Characterization 확인 PV Defining the commercial 개발 및 제조 규모 확대 등을 FDA PV manufacturing process based Process 통해서 얻은 지식에 근거하여 Guidance, 공정설계 on knowledge gained through Design 상업 규모 제조공정을 결정하는 식약처 development and scale-up.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 451,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"것을 말함 PV\", \"activities.\", \"소규모 또는 상업 규모에서\", \"수행된 것으로서 전체\", \"제조공정과 각 공정\", \"Process 식약처\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 452,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정평가 작업단위에서 얻고자 한 품질의.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 453,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"Evaluation PV\", \"제품을 제조하는데 적절하게\", \"설계하고 관리됨을 증명할 수\", \"있는 증거를 확보하는 것\", \"최종 제조공정이 효과적으로\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 454,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Confirming that the 수행되고, 사전에 결정된 공정 manufacturing process as 허용기준에 맞는 원료의약품 Process FDA PV 적격성 designed is capable of 또는 중간제품을 생산할 수 Qualification Guidance 평가 reproducible commercial 있음을 상업적 규모로 제조한 manufacturing. 적절한 수의 배치 (제조단위, Batch)를 사용하여 확증하는 것 Ability of a process to tolerate variability of materials and 공정 및 설비의 변경과 재질의 Process 공정 changes of the process and 변동성이 있어도 품질에 부정적 Q8(R2) Robustness 완건성 equipment without negative 영향을 주지 않는 공정의 능력 impact on quality.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 455,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"최종 제조공정이 효과적으로\", \"수행되고, 사전에 결정된\", \"허용기준에 맞는 원료의약품\", \"Process 식약처\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 456,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "공정확인 또는 중간제품을 생산할 수 Verification PV 있음을 상업적 규모로 제조한 적절한 수의 배치 (제조단위, Batch)를 사용하여 확증하는 것 설명(국문) 용어(영문) 용어(국문) 설명(영문) 근거 ※ 식약처 가이드라인 번역본 참조 The collection and evaluation of 설정된 범위 이내에서 제조했을 data, from the process design 때 사전에 설정된 규격과 품질 FDA PV stage through commercial Process 공정 특성에 부합하는 의약품을 Guidance, production, which establishes Validation 밸리데이션 효과적이고 재현성 있게 생산할 식약처 scientific evidence that a process 수 있음을 검증하고, 이를 PV is capable of consistently 문서화하는 것을 말함 delivering quality products. All phases in the life of the product from the initial 초기 개발 단계부터 시판을 Product 제품의 development through marketing 거쳐 그 제품이 중단되기까지 Q9 Lifecycle 전주기 until the product’s 모든 과정의 단계 discontinuation. Achievement of a product with the quality attributes 환자, 의료 전문가, appropriate to meet the needs 규제기관(판매 허가 준수 포함), of patients, health care Product 내부 고객의 요구사항을 제품실현 professionals, and regulatory Q10 Realisation 충족시키는 적절한 품질 특성을 authorities (including compliance 지닌 제품에 도달하는 것 with marketing authorisation) (ICH Q10) and internal customers requirements. (ICH Q10) A characterised range of a 다른 변수를 일정하게 process parameter for which 유지하면서 이 허용 범위 operation within this range, 이내에서 공정을 하면, 관련 Q8(R2) while keeping other parameters 품질기준에 부합하는 원료를 Part II constant, will result in 생산할 수 있는 특징적인 Ac P c r e o p v t e a n ble 입증된 p re ro le d v u a c n in t g q u a a li m ty a t c e r r i i t a e l ri m a. eeting 공정변수의 범위 허용범위 Range 허용기준에 적합한 제품을 생산할 수 있음이 입증된 범위 식약처 내에서 작업할 수 있는 PV 공정변수의 특정된 범위를 말함 The degree to which a set of inherent properties of a 제품, 시스템, 또는 절차의 product, system or process 본질적 성질의 조합이 fulfills requirements. 요구사항을 만족하는 정도 Q9 (see ICH Q6A definition (ICH Q6A의 의약품원료 및 완제 specifically for \"quality\" of drug 의약품 \"품질\"에 관한 정의 substance and drug (medicinal) 참조) Quality 품질 products.) The degree to which a set of 제품, 시스템, 공정의 본질적 inherent properties of a Q10, FDA 성질이 요구기준을 충족시키는 product, system or process PV 정도 fulfils requirements. Guidance (ICH Q9) (ICH Q9) 설명(국문) 용어(영문) 용어(국문) 설명(영문) 근거 ※ 식약처 가이드라인 번역본 참조 The suitability of either a drug substance or drug product for 원료의약품 또는 의약품이 사용 its intended use. This term 용도에 적합함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 457,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "이 용어는 includes such attributes as the 확인, 함량, 순도 같은 특성을 identity, strength, and purity. 포함 Q8(R2) (from ICH Q6A Specifications: (ICH Q6A 규격: 신규 Test Procedures and 원료의약품 및 신규 Acceptance Criteria for New 완제의약품의 시험 절차 및 Drug Substances and New Drug 허용기준: 화학 성분 참조) Products: Chemical Substances) A systematic approach to development that begins with 목표를 미리 정하여 시작하며 predefined objectives and 설계기반 합리적인 과학과 품질 위해 Quality by emphasizes product and Q8(R2) 품질 관리를 기반으로 제품 및 공정 Design (QbD) process understanding and Part II 고도화 이해, 그리고 공정 관리를 process control, based on 강조하는 체계적인 개발 방식 sound science and quality risk.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 458,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"management.\", \"Quality\", \"품질경영 ISO 9001\", \"Management\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 459,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "Document specifying the quality 품질 조직의 품질 경영시스템을 Quality Manual management system of an Q10 매뉴얼 규정한 문서 (ISO 9000:2005) organisation. (ISO 9000:2005) A means to translate the 품질 방침과 전략을 측정 Quality quality policy and strategies 품질목표 가능한 활동으로 변환시키는 Q10 Objectives into measurable activities. 수단 (ICH Q10) (ICH Q10) Part of quality management focused on setting quality 품질 목표의 설정과 품질 목표 objectives and specifying 달성에 필요한 운영공정과 관련 Quality 품질계획 necessary operational 자원을 규정하는데 초점을 둔 Q10 Planning processes and related 품질 경영 부분 resources to fulfil the quality (ISO 9000:2005) objectives. (ISO 9000:2005) Overall intentions and direction 임원이 공식적으로 밝힌, of an organisation related to 품질과 관련한 조직의 전반적인 Quality Policy 품질정책 quality as formally expressed Q10 의도와 방향 by senior management. (ISO 9000:2005) (ISO 9000:2005) A systematic process for the 의약품 전주기 전체에 걸쳐 assessment, control, 의약품 제제의 품질과 관련한 Quality Risk 품질위해 communication and review of 위해의 평가, 관리, 상호 소통, Q9 Management 관리 risks to the quality of the drug 검토를 위한 전반적인 과정 (medicinal) product across the (ICH Q9) product lifecycle. (ICH Q9) 설명(국문) 용어(영문) 용어(국문) 설명(영문) 근거 ※ 식약처 가이드라인 번역본 참조 The sum of all aspects of a 품질 방침을 이행하고 품질 Quality 품질 system that implements quality 목표 달성을 위한 시스템을 Q9 System 시스템 policy and ensures that quality 구성하는 모든 부분의 합 objectives are met. A prospective summary of the quality characteristics of a drug 의약품의 안전성과 유효성을 Quality Target product that ideally will be 감안하여, 원하는 품질을 제품품질 Q8(R2) Product Profile achieved to ensure the desired 보장하기 위해 달성해야 할 목표 Part II (QTPP) quality, taking into account 의약품의 품질 특성을 safety and efficacy of the drug 전향적으로 요약한 것 product. The ability to evaluate and ensure the quality of 공정 자료에 근거하여 제조과정 in-process and/or final product 중의 제품과 최종 제품의 Real Time 실시간 based on process data, which 품질을 평가하고 확인하는 Q8(R2) Release 출하시험 typically include a valid 것으로, 일반적으로는 원료 Part II Testing combination of measured 특성 평가와 공정 관리의 material attributes and process 유효한 조합을 포함 controls. The explicit or implicit needs or expectations of the patients 환자 또는 환자 대리인(예, or their surrogates (e.g., health 의료 전문가, 규제기관, 입법 care professionals, regulators 의원)의 명시적 또는 암시적 and legislators). In this Requirements 요구사항 요구 또는 기대. 이 문서의 Q9 document, “requirements” \"기준\"이라 함은 법적 또는 refers not only to statutory, 규제 기준뿐만 아니라 상기의 legislative, or regulatory 요구 및 기대도 의미 requirements, but also to such needs and expectations. The combination of the 위해 발생 확률 및 발생 위해 probability of occurrence of Risk 위해 중대성의 조합(ISO/IEC Guide Q9 harm and the severity of that 51) harm. (ISO/IEC Guide 51). Risk The decision to accept risk 위해를 수용하기로 한 결정 위해수용 Q9 Acceptance (ISO Guide 73) (ISO Guide 73) The estimation of the risk 확인된 위험 요소와 관련한 Risk Analysis 위해분석 associated with the identified Q9 위해의 추정 hazards. A systematic process of organizing information to 위해 관리 절차 내에서 정보를 support a risk decision to be 정리하여 위해 관련 결정을 made within a risk management Risk 뒷받침하는 체계적인 과정. 위해진단 process. It consists of the Q9 Assessment 위해 요소의 파악, 위험 identification of hazards and 요소에의 노출과 관련된 위해의 the analysis and evaluation of 분석 및 평가로 구성 risks associated with exposure to those hazards. 설명(국문) 용어(영문) 용어(국문) 설명(영문) 근거 ※ 식약처 가이드라인 번역본 참조 Actions implementing risk 위해 관리 결정 사항을 Risk Control 위해통제 management 추진하는 행위 Q9 decisions (ISO Guide 73) (ISO Guide 73) The comparison of the 정량적 또는 정성적 척도를 estimated risk to given risk Risk 활용하여 정해진 위해 기준에 위해평가 criteria using a quantitative or Q9 Evaluation 대비해 추정 위해를 비교하여 qualitative scale to determine 위해의 중요도를 결정하는 행위 the significance of the risk The systematic use of 정보를 체계적으로 활용하여 information to identify potential 위해와 관련한 질문 또는 문제 Risk 위해확인 sources of harm (hazards) 기술 방식에 따라 위해의 Q9 Identification referring to the risk question 잠재적 요소(위험 요소)를 or problem description 파악하는 행위 The systematic application of quality management policies, 위해의 진단, 통제, 소통, Risk procedures, and practices to 검토에 품질 관리 방침, 절차, 위해관리 Q9 Management the tasks of assessing, 업무 방법을 체계적으로 controlling, communicating and 적용하는 것 reviewing risk. Actions taken to lessen the probability of occurrence of 위해의 발생 확률과 중대성을 Risk Reduction 위해감소 Q9 harm and the severity of that 낮추기 위한 행위 harm. Review or monitoring of output/ 위해 관리 절차 결과를 results of the risk management 검토하거나 모니터 하는 것. Risk Review 위해검토 process considering (if Q9 적절한 경우에는 위해에 관한 appropriate) new knowledge 새로운 지식과 경험을 고려 and experience about the risk. Person(s) who direct and control a company or site at 회사 또는 사업장의 자원을 the highest levels with the 동원할 수 있는 권한과 책임을 Senior authority and responsibility to 가지며, 최고 수준에서 회사 임원 Q10 Management mobilise resources within the 또는 사업장을 이끌고 관리하는 company or site. 자 (ICH Q10 based in part on ISO (ICH Q10: ISO 9000:2005 기반) 9000:2005) A measure of the possible 위험 요소에 따른 예상 결과의 Severity 중대성 Q9 consequences of a hazard 수준 Any individual, group or organization that can affect, be 위해에 영향을 주거나 위해에 affected by, or perceive itself 의해 영향을 받거나 위해에 to be affected by a risk. 의해 영향을 받을 것으로 Decision makers might also 생각되는 개인, 그룹, 또는 이해 be stakeholders. Stakeholder 단체. 의사결정자 역시 이해관 Q9 관계자 For the purposes of this 계자가 될 수 있음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 460,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "guideline, the primary 이 가이드라인에서 1차 stakeholders are the patient, 이해관계자는 환자, 의료 healthcare professional, 전문가, 규제기관, 그리고 기업 regulatory authority, and industry.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 461,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"용어(영문)\", \"용어(국문)\", \"설명(영문)\", \"설명(국문)\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 462,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "※ 식약처 가이드라인 번역본 참조 근거 A condition in which the set of controls consistently provides assurance of continued process performance and product quality. (ICH Q10) 지속적인 공정성능과 제품 품질을 일관되게 보증하는 관리.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 463,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"조건\", \"(ICH Q10)\", \"Q10, FDA\", \"State of\", \"Control\", \"관리상태\", \"PV\", \"Guidance\", \"WHO HIV\", \"Publication\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 464,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "A key strategic documents used to communicate summary requirements for new products that fulfil a priority need. 제품의 우선 순위 요구 사항을.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 465,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"전달하는 데 사용되는 핵심\", \"전략을 나열한 문서\", \"MODULE\", \"7: TARGET\", \"Target\", \"Product\", \"Profile (TPP)\", \"PRODUCT\", \"PROFILES\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 466,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "A format for a summary of a drug development program described in terms of labeling.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 467,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"concepts.\", \"목표제품\", \"특성\", \"의약품의 라벨표시 개념과\", \"관련하여 설명된 약물 개발\", \"프로그램 요약 형식\", \"FDA\", \"Guidance\", \"Traceability\", \"추적성\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 468,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "A statistical term referring to the direction or rate of change of a variable(s) 변수의 변화 속도 또는 방향을.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 469,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"의미하는 통계학적 용어\", \"Q9\", \"Trend\", \"경향\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 470,
+      "type": "sentence",
+      "section": "6. 관리전략 77",
+      "path": null,
+      "ko_txt": "참고문헌 (1) 안내서-0214-02, 설계기반 품질 고도화 (QbD) 도입 대비를 위한 품질 심사 안내서 (2) ICH Guideline Q6B Specifications: Test procedures and acceptance criteria for biotechnological/biological products (3) ICH Guideline Q8 Pharmaceutical Development (4) ICH Guideline Q9 Quality Risk Management (5) ICH Guideline Q10 Pharmaceutical Quality System (6) ICH Guideline Q11 Development and Manufacture of drug substances (7) ICH Guideline Q12 Technical and regulatory considerations for pharmaceutical product lifecycle management (8) ICH Guideline Q5E Comparability of Biotechnological/Biological Products Subject to Change in Their Manufacturing Process (9) 안내서-0076-01, 바이오의약품 제조 공정 밸리데이션 가이드라인 (10) 안내서-0316-04, 생물의약품의 제조방법 변경에 따른 비교동등성 평가 가이드라인 (11) Guidance for Industry Process Validation: General Principles and Practices (12) Guidance for Industry and review staff: Target Product Profile-A strategic development process tool (13) Continued process verification: An industry position paper with example plan, Biophorum Operations Group (14) A-Mab: a case study in bioprocess development (15) A-Vax: Applying quality by design to vaccines (16) Target Product Profile: A Planning Tool for The Drug Development. MOJ Bioequivalence & Bioavailability, 2017, 3(4): 11-112] (17) Christine M. V. Moore(FDA) FDA Perspective on post-approval change management for PAT and RTRT. IFPAC 2015. 26th Jan. 2016 (18) Duygu D. Quality by Design approach on biotech. 18th International Pharmaceutical Technology symposium. 20 Sep. 2016 (19) Lorenz L. The real challenge of Annex15-CPV. ISPE Meeting 26th of May 2016 (20) Ohage E, et al. QbD implementation and post approval lifecycle management (PALM). Biologicals 2016;44(5):332-340. (21) Yoshihiro M. (PMDA) Example of QbD application in Japan. 11th Aug 2016. (22) FDA MR tablet example. Quality by Design for ANDAs: An Example for Modufied Release Dosage Form. FDA, 2011.12 (23) Perjeta example. Perjeta assessment report, EMA, 2012.12.13.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

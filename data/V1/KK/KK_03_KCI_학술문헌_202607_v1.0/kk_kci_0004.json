@@ -1,0 +1,649 @@
+{
+  "document_id": "kk_kci_0004",
+  "meta": {
+    "set": "KK",
+    "source_folder": "11",
+    "source_code": "kci",
+    "source_name": "국내 학술지 논문(KCI)",
+    "orig_doc_id": "6,8-Diprenylorobol의 멜라닌 합성 억제 효능.pdf",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 학술지 논문(KCI)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "52(2): 99∼104 (20 6,8-Diprenylorobol의 멜 세명대학교 화장품학과 Inhibitory Effects of 6,8-dipren Joong Hy Department of Cosmetic Science, Se Abstract−This study was performed to elucidated the inhibito suring the levels of cell viability, mRNA expression, tyrosinase effects of 6,8-diprenylorobol on tyrosinase-related protein 1 (TY transcription factor (MITF) mRNA expression levels and mel shows that 6,8-diprenylorobol decreases the mRNA expression resulting in lower levels of melanin production compared to α-M 6,8-diprenylorobol decreases melanin production in B16F10 c diprenylorobol on B16F10 cells; thus, 6,8-diprenylorobol is a p on the mechanism of action of 6,8-diprenylorobol.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Such researc medical industries.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Keywords−6,8-Diprenylorobol, Melanin, Tyrosinase, Micro 피부의 색은 혈액 내 헤모글로빈, 표피층에 존재하는 멜 라닌 색소(melanin), 피하조직에 존재하는 β-카로틴 등에 의 해 결정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 중에서도 특별히 멜라닌 색소의 양과 분포에 의해 피부의 색이 주로 결정되게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "피부에 존재하는 갈 색 혹은 흑색의 고분자 색소인 melanin은 피부와 머리카락의 색상을 결정짓는 중요한 인자로 알려져 있다 1) 멜라닌은 기 저층에 존재하는 melanocyte 내 melanosome에서 합성되는 단백질로 자외선을 흡수하거나 산란시켜 피부의 세포 또는 피부조직의 손상을 억제하기 위한 유익한 기능을 하지만, 과도한 멜라닌의 축적은 기미, 주근깨, 색소 침착 등의 과 색소 현상을 유발한다고 알려져 있다 2, 멜라닌 색소는 자외선(UV)을 받은 melanocyte의 멜라닌 생성과정(melanogenesis)에 의해 생성되고 피부색을 어둡게 변화시켜 UV로부터 피부를 보호하는 유익한 기능을 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "멜라닌 색소에는 흑색인 유멜라닌(eumelanin)과 적갈색인 피오멜라닌(pheomelanin)으로 구성되어 있다 4, 멜라닌 생 성은 아미노산의 한 종류인 L-tyrosine을 기질로 하여, 주효 *교신저자(E-mail):jhshim@semyung.ac.kr (Tel):+82-43-649-1615 멜라닌 합성 억제 효능 과 피부기초과학연구실 nylorobol on Melanin Synthesis yun Shim* emyung University, Chungbuk, Korea ory effects of 6,8-diprenylorobol on melanin synthesis by meae activity, and melanin production in the B16F10 cell line.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The YRP, TYRP2, tyrosinase (TYR), and microphthalmia-associated lanin content were determined.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Quantitative real-time RT-PCR n levels of TYRP1, TYRP2, TYR, and MITF in B16F10 cell line, MSH-treated B16F10 cells.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Tyrosinase activity assays reveal that cells.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "These results demonstrate the whitening effects of 6,8potent ingredient for skin whitening.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Further research is needed ch will benefit not only cosmetics, but also the health food and ophthalmia-associated transcription factor 소인 tyrosinase(TYR)와 tyrosinase related protein-1(TYRP, TYRP2에 의해 L-DOPA(3,4-dihydroxyphenylalanine)를 거쳐 DOPAquinone으로 산화된 후 추가적인 기전을 거쳐 최종적 으로 유멜라닌과 피오멜라닌이 만들어 진다 4, Tyrosianse 효소는 멜라닌 생성을 주관하는 핵심적인 효소로, 대표적인 미백 소재인 감초추출물, 닥나무추출물, 알부틴, 코직산 등은 tyrosinase 효소의 활성을 억제한다고 알려져 있다 6, 특히 알부틴은 멜라닌의 원료가 되는 L-tyrosine과 경쟁적으로 tyrosianse 효소에 반응하여 효소의 활성을 억제하는 역할을 하며, 코직산은 tyrosinase 효소의 활성부위(active site)에 결 합하는 Cu 2+를 chelating하여 멜라닌의 전구체인 L-DOPA와 DOPA quinone이 생성되는 것을 방해한다고 알려져 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "코직산과 알부틴은 강력한 미백효능이 있다고 알려져 있지 만 피부자극 등과 같은 안전성 문제의 부작용이 보고되어 천연유래 기능성 소재 개발 등 신규 효능 소재 발굴에 많은 연구가 진행되고 있다 8, Flavonoids의 한 종류인 6,8-diprenylorobol(C H O) (Fig. 25 26 6 1A)은 감초(Glycyrrhiza uralensis Fisch)에 많이 함유되어 있 으며 항균, 정균, 소화성 궤양/위암 등의 억제, 항산화 효능 등을 비롯한 약리학적, 생물학적 기능이 있다고 보고되었다 1 특 별히 UV에 의해 산화가 되는 것을 억제하는 효과가 있음이 보 고된 바 있다 1 이와 같이 6,8-diprenylorobol이 다양한 생물학적 효과가 있음이 보고되었으나 6,8-diprenylorobol이 멜라닌 생성 기 전에 관한 연구는 전무한 실정이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 6,8diprenylorobol의 멜라닌 생성 기전과 관련되어 마우스 유래 흑색종 세포주인 B16F10 세포에서의 표지인자인 TYRP1, TYRP2, TYR, MITF 등의 발현에 미치는 효과를 확인해 보 고, α-melanocyte stimulating hormone(α-MSH)에 의해 유 발된 멜라닌 색소의 생산량이 6,8-diprenylorobol에 의해 감 소되는지 입증하고자 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 통해 6,8-diprenylorobol의 향후 미백 기능성 원료 및 바이오 소재로서의 가능성을 제 시해 보고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "재료 및 방법 실험재료 및 세포배양 −마우스 유래 흑색종 세포주인 B16F10 cell line은 한국세포주은행(Korean Cell Line Bank, Korea)로 부터 분양받았으며, 세포 배앵액은 Dulbecco’s modified Eagle’s medium(DMEM, Welgene, Korea)에 10%의 fetal bovine serum(FBS, Equitech-bio, USA)과 1%의 penicillin/ streptomycin(Gibco, USA)을 첨가하여 37 o C, 5% CO의 인 큐베이터에서 배양하였다 1 본 실험에 사용된 6,8-diprenylorobol 은 DMSO를 사용하여 감초의 뿌리(Glycyrrhiza uralensis Fisch)로부터 추출된 소재로 ChemFaces Co.(China; CFN97705, Purity≥98%, CAS No. 소재의 세포 생존율 측정 −6,8-Diprenylorobol에 의한 B16F10 세포주의 생존율은 CCK-8(cell counting kit-8, EZ- Cytox, DoGen, Korea) assay를 이용하여 확인하였다 2 × 10 4 개의 B16F10 세포주를 96 well plate에 접종한 후 6,8- Diprenylorobol을 농도 별로 24 시간 동안 처리하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세포 생존율을 측정하기 위해 CCK-8 시약을 DMEM 배지(phenol red-free, Welgene)에 1/10로 희석하여 첨가한 후 1.5 시간 동안 인큐베이터에서 반응시켰다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Spectrophotometer(Epoch; BioTek, USA. 450 nm)를 이용하여 흡광도를 측정하였으며, B16F10 세포주를 배양하지 않고 CCK8 시약만 넣어 준 샘 플을 대조군의 흡광도로 하여 세포 생존율을 산출하였다 1 In vitro Mushroom tyrosinase activity 분석 −Mushroom Table I. Gene Name and Assay ID Number in Real-time RT- Symbol Gene nam TYRP1 Tyrosinase-related TYRP2 Tyrosinase-related TYR Tyrosinase MITF Microphthalmia-associated t GAPDH Glyceraldehyde-3-phosphat Kor. Tyrosinase(EC 1.14.18.1, Sigma)는 276 units/ml의 농도가 되도록 0.67M PBS(pH 6.에 녹였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Mushroom Tyrosinase (13.8 units/ml) 150 μl, 1/15 M phosphate buffer를 넣은 후, 상온에서 10 분간 우선 반응시켰다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "추가로 L-tyrosine (Sigma)을 넣고 10 분간 반응시킨 후 490 nm의 파장에서 흡광도를 측정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "각각의 실험군은 독립적으로 3차례 반복 실험하였고, 아래의 계산식을 적용하여 6,8-diprenylorobol 의 tyrosinase 효소 저해율(%)을 계산하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "양성대조군으 로는 kojic acid(100 μg/ml, Sigma)를 사용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "효소 저해율(%) = [(A2-A-(B2-B]/(A2-A×100 A1: 공시료의 흡광도 A2: 공시료 반응 후의 흡광도 B1: 시료의 흡광도 B2: 시료 반응 후의 흡광도 RNA 추출 및 실시간 유전자 중합효소 연쇄반응(Real-time RT-PCR)−Invitrogen사의 TRIzol Reagent(USA)를 이용하 여 total RNA를 추출하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "추출한 RNA로부터 cDNA의 합성은 Superior Script III Master Mix(Enzynomics, Korea)를 사용하였으며, B16F10 세포주의 표지인자 발현을 확인하기 위하여 Real-time RT-PCR(StepOne Plus, Applied Biosystems, USA)을 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 실험에서 사용한 Taqman ® Gene expression assay는 Table I에 명기하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "B16F10 세포의 멜라닌 색소 생성량 측정 −멜라닌 색소 생성량 측정은 Hosoi의 연구방법을 일부 수정하여 사용하 였다 1 1×10 5 개의 B16F10 세포주를 60 mm 조직배양접 시에 접종하였다 24 시간 동안 세포를 배양한 후 200 nM 농도의 α-melancyte stimulating hormone(α-MSH; Sigma)와 6,8-diprenylorobol을 농도 별로 72 시간 동안 처리하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "배양액을 제거한 이후 D-PBS(Welgene)로 3차례 수세한 후, NaOH(1N; Sigma) 용액 200 μl를 처리하여 60 o C, 2 시간 동안 멜라닌색소를 용해시킨 후에 spectrophotometer(405 nm)로 흡광도를 측정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "양성대조군으로는 100 μg/ml의 arbutin(Sigma)을 사용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "멜라닌 색소의 생성 억제는 α- MSH 처리조건에 대한 멜라닌 생성량을 퍼센트로 표시하였 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "독립적으로 3 반복 실험을 하여 수행하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "통계분석 −통계처리 분석은 Student’s T-test assay를 이용 하였으며, 유의 수준 0.05(p<0.로 하여 검정하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "PCR Analysis me Assay ID protein 1 Mm00453201_m1 protein 2 Mm01225584_m1 e Mm00495817_m1 transcription factor Mm00434954_m1 te dehydrogenase Mm99999915_g1 Vol. 2, 2021 결과 및 고찰 6,8-Diprenylorobol 농도별 B16F10 세포주의 생존율 분 석 −B16F10 세포주에 대한 6,8-diprenylorobol의 세포독성 을 확인하기 위해 CCK-8 assay를 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "대조군은 6,8diprenylorobol을 처리하지 않았고, 6,8-diprenylorobol 처리 군은 1000, 100, 10, 1 μg/ml, 100, 10, 1 ng/ml의 농도로 처리 하여 세포 생존율을 측정하였다(Fig. 100 μg/ml 이상의 농도를 처리했을 때, B16F10 세포의 생존율이 대조군 대비 유의성있게 감소함을 확인하였다(Fig. 10 μg/ml 농도 이하의 6,8-diprenylorobol을 처리하였을 때는 B16F10 세포의 생존율이 대조군과 유사하여 이후의 추가실험에서는 10, 1, 0.1 μg/ml 농도의 6,8-diprenylorobol을 처리하였다. 6,8-Diprenylorobol에 의한 Tyrosinase 효소 활성 저 해 −Tyrosinase는 L-tyrosine과 반응하여 L-DOPA를 생성하 고, L-DOPA는 tyrosinase와 반응하여 DOPAquinone을 생성 한 후 최종적으로 eumelanin과 pheomelanin을 생성함으로 멜라닌 합성반응을 조절하는 핵심적인 효소로 알려져 있다 4, 본 실험에서 6,8-diprenylorobol의 tyrosinase 활성 저해 정도를 평가하기 위하여 6,8-diprenylorobol을 10, 1, 0.1 μg/ml의 농 도로 처리하였고 kojic acid를 양성대조군으로 사용하여 tyrosinase 활성 저해 정도를 확인하였다 6,8-Diprenylorobol에 의해 농도 의존적으로 tyrosinase 활성이 억제됨을 확인할 수 있었다 10, 1, 0.1 μg/ml 농도의 6,8-diprenylorobol 처리 군에서 각각 59.6, 29.1, 17.3%의 tyrosinase 억제 효과를 나 타냄을 확인하였다(Fig. 6,8-Diprenylorobol 처리에 의한 B16F10 세포주의 mRNA 발현 −자외선(UV)은 직접적으로 멜라닌 형성세포를 자극하여 멜라닌색소를 생성하는 것이 아니라 여러 단계의 ical structure of 6,8-Diprenylorobol. (B) Cytotoxicity of 6,8-Dipren and treated with the indicated concentration of 6,8-Diprenylorobol are presented as the mean ± S.D. of the percentage of control o robol.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Results are the average of triplicate samples. *p<0.05 compared with the control.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세부 신호전달체계를 거쳐 멜라닌색소를 생성하게 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "UV는 표피층에 존재하는 각질형성세포를 자극하여 멜라닌형성세 포를 자극하는 호르몬인 α-melanocyte stimulating hormone (α-MSH)의 발현을 유발하여, 세포의 외부로 분비하고, 분비된 α-MSH는 멜라닌형성세포의 세포막 단백질인 melanocortin 1 receptor(MC1R)에 결합하여 세포 내부로 멜라닌 합성에 관련된 신호전달을 유도해 멜라닌 색소의 생성을 유발한다 5) 본 실험에서는 B16F10 세포주의 멜라닌색소 생성을 유발 하기 위하여 α-MSH(200 nM)를 처리하여 B16F10 세포주의 멜라닌 생성을 유도하였다. α-MSH를 처리한 B16F10 세포 주에 6,8-diprenylorobol을 처리하여 α-MSH 처리에 의해 증가 하는 표지인자인 TYRP1, TYRP2, TYR, MITF 유전자의 발 현양을 실시간 유전자 중합효소 연쇄반응(Real-time RT-PCR)을 통하여 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "B16F10 세포주에 6,8-diprenylorobol을 처리하고 Real-time RT-PCR을 통하여 표지인자 발현을 확 인한 결과, α-MSH 처리군 대비 6,8-diprenylorobol 처리군에서 aspects of 6,8-Diprenylorobol on B16F10 cell line. (A) The chemnylorobol.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "B16F10 cells were seeded (2×10 cells) in 96-well plate l for 24 hr. Cell viability was measured by CCK-8 assay.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Results optical density in triplicates. *p<0.05 compared to control.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "TYRP1, TYRP2, TYR, MITF의 발현이 유의성 있게 감소함을 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특별히 10 μg/ml의 6,8-diprenylorobol을 처리 한 실험군에서 TYRP1, TYRP2, TYR, MITF 유전자 발현이 각각 33.4, 37.1, 39.8, 33.9% 감소되는 효과를 보였다(Fig. 1 μg/ml의 6,8-diprenylorobol을 처리한 실험군에서도 유의 성있게 표지인자의 발현을 감소시킴을 확인할 수 있었고, 0.1μg/ml의 6,8-diprenylorobol 처리군에서도 TYRP1, TYRP2 유전자의 발현을 유사하게 감소시킴을 확인할 수 있었다. 6,8-Diprenylorobol이 B16F10 세포주의 표지인자인 TYRP1, TYRP2, TYR, MITF의 발현을 감소시킬 뿐만 아니라(Fig. 3), tyrosianse 효소의 발현을 동시에 억제시킴으로(Fig. 2) 멜라 닌 생성을 억제시킬 수 있는 소재로서의 가능성을 확인할 수 있었다. 6,8-Diprenylorobol의 멜라닌 생성률 저하 효과 −6,8- Diprenylorobol가 멜라닌색소 형성에 필수적인 표지인자의 발현량을 감소시킬 수 있음을 확인한 이후(Fig. 3), B16F10 세포주에서 멜라닌색소 생성이 실질적으로 감소되는지를 알 아보기 위해 멜라닌색소 생성률을 확인하였다(Fig. 6,8- Diprenylorobol을 각각 10, 1, 0.1 μg/ml 농도로 처리한 B16F10 세포주를 수획하여 멜라닌색소 생성 정도를 확인한 결과, 멜라닌색소의 생성이 10, 1 μg/ml 농도의 6,8-diprenylorobol에 의해 현저하게 감소함을 육안으로 확인할 수 있었다(Fig. markers TYRP1 (A), TYRP2 (B), TYR (C) and MITF (D).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Values a different compared to control, p<0.05. # significantly different c Kor. Representative image of B16F10 cells after 6,8- Diprenylorobol treatment (A).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Treated cells were lysed with 1 N NaOH and absorbance was measured at 405 nm (B).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Results are expressed as means±S.D. of three independent experiments.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "*compared to control, p<0.05. # compared to α-MSH-treated condition, p<0.05.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "H-treated B16F10 cells.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Real-time RT-PCR analysis of melanocyte are mean ± S.D. of three independent experiments. * significantly compared to α-MSH-treated condition, p<0.05. 2, 2021 추가적으로 멜라닌색소 생성량을 정량화하여 확인한 결과, 6,8-diprenylorobol을 처리할 때 멜라닌색소의 생성이 대조군 대비 감소됨을 확인할 수 있었다(Fig. 6,8-Diprenylorobol 을 10, 1 μg/ml 처리했을 때 멜라닌색소의 생성률이 각각 37.6, 30.5% 감소하여 대조군 대비 유의성 있게 감소하였다(Fig. 이 결과는 멜라닌색소 생성에 핵심적인 표지인자의 mRNA 발현량에 대한 Real-time RT-PCR의 실험 결과와 일치하는 경향성을 보이며, 6,8-diprenylorobol은 멜라닌 생성에 관여 하는 표지인자의 발현에 영향을 끼칠 뿐 아니라 멜라닌색 소 생성 결과에도 일관성있는 효능을 보임을 확인하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Ascorbic acid와 같은 항산화제는 세포에 의해 부수적으로 생성되는 활성산소종을 제거하는 능력이 있어 eumelanin 생 성과정 중의 중간물질인 DOPAquinone을 L-DOPA로 환원 시켜 멜라닌색소의 합성을 억제하는 중요한 미백소재로 알 려져 있다 1 6,8-Diprenylorobol이 자외선에 의한 산화를 억제하는 효과가 보고된 바 있기에 이러한 항산화 효능에 의해 6,8-diprenylorobol이 미백에 효과를 나타낼 수도 있다 1 추후 6,8-diprenylorobol에 의해 멜라닌 형성 세포에서의 항산화 효과 및 Catalase, SOD1, SOD2, SOD3 등과 같은 항산화효소의 발현 등에 대한 심도있는 연구도 진행되어야 할 것으로 보인다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "자외선(UV)은 비타민 D의 합성, 살균작용 등의 유익한 기능도 있으나, 다른 측면에서는 피부의 탄력저하, 주름생 성, 색소침착, 홍반, 염증 등을 유발하고, 활성산소종의 연 쇄 반응 등을 통해 노화를 유발한다 1 또한 UV와 같은 외부 요인에 의한 외인성 노화는 생체 내에 존재하는 세포의 감소 및 기능저하에 의해 정상적인 조직으로의 기능, 조직의 손상 시 재생을 하지 못하게 된다 2 본 연구를 통해 6,8-diprenylorobol을 B16F10 세포주에 처 리할 적절한 농도를 확인할 수 있었다 10 μg/ml의 농도에 서는 세포주의 생존에 영향을 미치지 않음을 Fig. Tyrosinase의 활성 억제효능 측정결과에서 10, 1, 0.1 μg/ml 농도의 6,8-diprenylorobol이 tyrosinase의 활성을 유의성있게 감소시킴을 확인하였다(Fig. 2). 또한 TYRP1, TYRP2, TYR과 MITF 유전자 발현 측정에서 6,8-diprenylorobol이 α- MSH에 의해 증가된 표지인자의 발현을 유의성 있게 감소 시킴을 확인하였다(Fig. 3). 추가적으로 6,8-diprenylorobol이 B16F10 세포에서 멜라닌 생성량을 감소시킴을 확인하였다 4). 이러한 결과를 바탕으로 6,8-diprenylorobol이 새로 운 미백 후보물질로서의 가능성을 보여준다. 6,8-Diprenylorobol의 멜라닌 생성 억제 효과를 확인한 결 과로는 본 연구가 최초이며, UV에 의한 외인성 노화를 억 제할 수 있는 가능성을 제시한 결과라고 보여진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "추가적 으로 6,8-diprenylorobol이 B16F10 세포주에서 어떠한 신호 전달 기전에 의해 멜라닌색소 생성에 영향을 미치는지, 항 산화효과와 미백에 관여하는 신호전달체계, 그리고 멜라닌 형성세포에 존재하는 다양한 항산화효소에 미치는 영향에 대해 추가연구와 심도있는 연구가 필요할 것으로 보인다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 논문은 2021학년도 세명대학교 교내학술연구비 지원에 의해 수행된 연구임.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "인용문헌 1.Bonaventure, J., Domingues, M. J. and Larue, L. (20 Cellular and molecular mechanisms controlling the migration of melanocytes and melanoma cells.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Pigment Cell Melanoma Res. 2.Gilchrest, B. A. and Eller, M. S. (19 DNA photodamage stimulates melanogenesis and other photoprotective responses. 3.Sugumaran, M. (20 Comparative biochemistry of eumelanogenesis and the protective roles of phenoloxidase and melanin in insects.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Pigment Cell Res. 4.Ito, S. and Wakamatsu, K. (20 Quantitative analysis of eumelanin and pheomelanin in humans, mice, and other animals: a comparative review.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "S. (20 Effects of ultraviolet radiation on the skin and skin cell signaling pathways.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "B., Curtis-Long, M. J., Rengasamy, R., Yang, M. S. and Park, K. H. (20 Tyrosinase inhibitory effects of 1,3-diphenylpropanes from Broussonetia kazinoki.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "S. (20 Identification of tyrosinase inhibitors from Glycyrrhiza uralensis.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "S. and Choi, J. W. (20 Whitening effect of Fagopyrum tataricum extract, J. Scientists Korea 40: 179-186.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "J. (20 Whitening effect of Androsace umbellate extract, J. Scientists Korea 41: 21-26. 10.Toshio, F., Ai, M., Kiyoshi, K., Toshihisa, K., Sumio, T. and Taro, N. (20 Anti-Helicobacter pylori flavonoids from licorice extract.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "J., Jeon, J, S., Chung, D, H. and Kim, C. Y. (20 Isolation of prenylated isoflavonoids from Cudrania tricuspidata fruits that inhibit A2E photooxidation, Natural Product Sciences 17: 206-221.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "H. (20 Prenylated isoflavones from Cudrania tricuspidata inhibit NO production in RAW 264.7 macrophages and suppress HL-60 cells proliferation.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "C. (20 Orobol derivatives and extracts from Cudrania tricuspidata fruits protect against 6-hydroxydomamine-induced neuronal cell death by enhancing proteasome activity and the ubiquitin/proteasome-dependent degradation of α-synuclein and synphilin-1.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Foods 29: 104-114.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "H. (20 Whitening effects of anthricin on B16F10 cells. 15.Hosoi, J., Abe, E., Suda, T. and Kuroki, T. (19 Regulation of melanin synthesis of B16 mouse melanoma cells by 1 alpha, 25-dihydroxyvitamin D3 and retinoic acid. 16.Tomita, Y. and Seiji, M. (19 Inactivation mechanism of tyrosinase in mouse melanoma.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The Journal of Dermatology Kor. 17.Panzella, L., Ebato, A., Napolitano, A. and Koike, K. (20 The late stages of melanogenesis: exploring the chemical facets and the application opportunities.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "International Journal of Molecular Sciences 19: 1753.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "S., Griffiths, C. J., Hamilton, T. and Voorhees, J. J. (19 Reduced type I and type III procollagens in photodamaged adult human skin. 19.Kim, J., Lee, C. K., Char, K., Jang, Y. W. (20 Inhibition effect of Gynura procumbens extract on UV-Binduced matrix-metalloproteinase expression in human dermal fibroblasts.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Enthnopharmacol. 20.Kirkwood, T. B. (20 Understanding the odd science of aging.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Cell 120: 437-447.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "L. and Rando, T. A. (20 Emerging models and paradigms for stem cell ageing.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

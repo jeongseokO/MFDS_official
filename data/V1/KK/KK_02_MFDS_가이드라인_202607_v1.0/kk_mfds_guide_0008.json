@@ -1,0 +1,4483 @@
+{
+  "document_id": "kk_mfds_guide_0008",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "(안내서-0288-02) 한약(생약)제제 국제공통기술문서 작성 가이드라인-품질 분야(민원인 안내서) 개정 (최종).pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "ICH M4Q 「The Common Technical Document for the Registration of Pharmaceuticals for Human Use: Quality」는 의약품의 허가 신청 시 품질에 관하여 각 부분별 구체적인 기술 양식을 제시한 것으로 원료의약품 및 완제의약품의 특징을 비롯하여 제조공정, 품질관리, 용기 및 포장, 안정성에 이르기까지 총체적인 품질관리 시스템에 대한 포괄적인 정보에 관한 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "그 내용은 전형적인 화학의약품을 중심 으로 기술되었으며 바이오의약품에 있어서 추가로 고려하여야 할 사항을 담고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "생약을 사용하여 제조되는 한약(생약)제제는 그 원료부터 제조과정과 완제품에 이르 기까지 다른 의약품과 구별되는 품질적 특징을 지니고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "원료가 되는 생약은 기원 에 대한 감별부터 재배, 수확, 가공에 이르기까지 엄격한 관리가 요구된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "원료의약품 과 완제의약품은 화학의약품과 다른 형태의 물리화학적 특징을 지니며, 다양한 화합물 을 함유하고 있어 구성 화합물에 대하여 모두 규명할 수 없는 경우가 대부분이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "또 한 필연적으로 품질의 변동성을 지니고 있어서 그 조절에 대한 특별한 제조 및 품질관 리가 요구된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "따라서 한약(생약)제제의 국제공통기술문서를 작성할 때 특히 품질분야 에 있어서 각 항목의 적용 여부와 자료의 위치와 기술방법 등에 어려움과 혼동이 생기 는 것이 현실이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "본 가이드라인은 한약(생약)제제의 허가신청 자료를 작성함에 있어서 ICH M4Q에서 제시된 기본 양식을 어떻게 적용하여 작성할 것인가 하는 내용을 제시하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "기본 양식은 ICH M4Q에서 제시된 구조를 따르고 있으나, 주요 내용은 EMA에서 발간한 천 연물의약품의 CTD 양식사용에 대한 가이드라인인 「Guideline on the use of the CTD format in the preparation of a registration application for traditional herbal medicinal product(2008)」을 참고하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "또한, 「한약(생약)제제 등의 품목허가·신고에 관한 규정」 및 「Guideline on the use of the CTD format in the preparation of a registration application for traditional herbal medicinal product(2016)」의 최근 개정 된 내용을 반영하여 본 가이드라인을 개정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "1. 목적",
+      "path": null,
+      "ko_txt": "본 가이드라인을 통하여 한약(생약)제제의 품질자료를 국제공통기술문서 규격에 적 합하게 작성함으로써 국내 및 국외에서의 허가 신청을 용이하게 하고 경쟁력 확보에 도움이 될 수 있을 것으로 기대된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "본 가이드라인은 한약(생약)제제로서 「한약(생약)제제 등의 품목허가·신고에 관한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "Document)”에 따라 자료를 작성하여야 하는 의약품에 적용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "또한, 천연물의약품을 개발하여 해외 허가신청을 준비하는 제약업소가 국제기준에 적합한 국제공통기술문서 를 준비하는 데에도 활용할 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "해설서는 가이드라인의 각 항목에 대하여 포함되어야 할 상세한 기술내용과 기술방 법 및 예시를 담고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "또한, 기본 항목에 대하여 필요 시 사용할 수 있는 하부 구조 를 제시하고 있으며 하부구조에는 하부 항목에 포함되어야 할 내용, 효과적인 기술형 태, 고려할 사항, 작성 예시 등이 있으나 제품의 특성에 따라 적절하게 변경하여 사용 할 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "해설서에 기술된 일부 내용은 현재 국내 또는 특정 국가의 규정에 적합하지 않을 수도 있을 것으로 추측되나 이에 대하여는 엄격하게 고려되지 않았음을 밝혀둔다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "각 항목에서 기술된 내용의 적합성은 각 국의 규정과 신청 품목의 특성에 따라 결정되어야 할 것으로 본다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "또한 해설에 있어서 ICH M4Q에 대한 화학의약품의 작성방법과 참고자료를 제시한 “의약품 국제공통기술문서(CTD) 가이드라인 해설서(품 질)(식품의약품안전평가원, 2015.12.)”의 내용을 참고하였음을 미리 밝혀둔다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "2. 범위",
+      "path": null,
+      "ko_txt": "본 가이드 라인을 활용함에 있어서 상기 해설서를 함께 참고하면 의약품 품질에 대한 국제공통기 술문서 작성의 전체적인 이해에 도움이 될 것으로 기대한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "3. 내용",
+      "path": null,
+      "ko_txt": "제3부 : 품질평가 자료.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "3.1. 목차(TABLE OF CONTENTS)",
+      "path": null,
+      "ko_txt": "제출 자료에 대한 총 목차를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S. 원료의약품(DRUG SUBSTANCE) 3.2.S.1. 일반정보(General Information) 3.2.S.1.1. 명칭(Nomenclature) 원료의약품의 명칭에 대한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약의 경우 생약명, 기원식물의 학명 (속, 종, 변종, 명명자), 사용 부위, 동명(약전 등의 동명이나 이명), 회사 코드 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약추출물의 경우, 생약에 대한 위의정보와 더불어 추출물의 정의, 추출 수득률(원생약 대비 생약추출물의 비율), 추출용매, 첨가제 등을 추가로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.1.2. 구조(Structure) 생약 또는 생약추출물의 물리적 형태와 활성성분과 지표성분에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "이들의 화학명, 분자식 및 분자량, 구조식 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.1.3. 일반적 특성(General Properties) 생약, 생약추출물 및 그 함유성분의 물리화학적 특성 및 기타 중요한 특징에 대 하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.2. 제조(Manufacture) 3.2.S.2.1. 제조원(Manufacturer(s)) 제조 및 시험에 관한 모든 사업소 또는 시설에 해당하는 제조원의 명칭, 주소, 책 임범위 및 수탁업소를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약에 대하여는 생산, 수집 및 시험과 관련된 사 업소와 공급자의 시설명칭, 주소, 책임범위를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약추출물에 대하여는 추 출물의 제조 및 시험과 관련된 제조원과 수탁업소의 명칭, 주소, 책임범위를 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.2.2. 제조공정 및 공정관리(Description of Manufacturing Process and Process Controls) 원료의약품의 제조공정과 공정관리에 관한 사항을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약에 대하여는 식물의 생산과 수확 및 가공에 관한 정보를 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약추출 물에 대하여는 생약으로부터 생약추출물을 생산하는 제조공정에 대한 설명과 제조 공정 흐름도, 제조에 사용된 용매와 시약, 정제 단계 및 배치 크기를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.2.3. 원료 관리(Control of Materials) 원료의약품의 제조에 사용한 각각의 원료물질(식물, 용매 및 시약, 필터, 흡착제 등)이 어느 공정에서 사용되었는지를 명확하게 작성하고 이들 물질에 대한 품질 관리방법 등을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "원료물질이 사용 목적(유해성 인자의 제거 또는 관리를 포함)에 맞는 기준에 부합함을 입증하는 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.2.4. 주요 공정 및 중간체 관리(Controls of Critical Step and Intermediate) 3.2.S.2.2.에서 제시한 주요 공정에 대한 시험방법과 허용기준(실측치를 포함한 근 거기준)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "또한, 제조공정 중 분리되는 분획물이나 분취물 또는 중간체 의 품질관리 방법 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.2.5. 공정 밸리데이션 및 평가(Process Validation and/or Evaluation) 무균공정과 멸균제조공정을 포함하여 주요 공정의 밸리데이션 및 평가결과를 기 재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.2.6. 제조공정 개발(Manufacturing Process Development) 생약과 생약추출물의 투여경로, 효능, 용법 등을 고려해 약물의 제조공정에 대한 개발경위를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "해당 생약과 생약추출물의 식물화학적 조성을 3.2.S.1.에 기 재된 내용과 기존 문헌에 보고된 내용을 비교하여 제조공정의 선택사유와 개발과 관련하여 종합적으로 고찰한 사항을 기재해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약추출물의 개발과정 중 비 임상시험, 임상시험, 스케일 업, 시판 배치를 생산하는 과정에서 일어난 변경사항 (추출 조건, 정제조건 등 주요 제조공정 방법과 조건, 수득률, 제조단위 등)에 대하 여 상세히 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "각 변경에 대한 변경사유와 해당 변경이 원료의약품의 품질 에 미치는 영향의 정도를 평가하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "중요한 변경으로 판단되는 경우에는 변경에 따라 품질 및 약효에 영향을 주는 정도를 판단할 수 있는 비교분석자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "이와 관련된 생약추출물의 배치 분석자료는 3.2.S.4.4.에 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.3. 특성(Characterisation).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"구조결정\", \"기타 특성\"], \"행\": [[\"Elucidation of Structure\", \"and other\"]], \"각주\": [], \"raw_lines\": [\"3.2.S.3.1.\", \"구조결정\", \"및\", \"기타\", \"특성(Elucidation\", \"of\", \"Structure\", \"and\", \"other\"], \"keep_ratio\": 1.0}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Characteristics) 생약 및 생약추출물의 특징 등을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약의 경우 식물화학적 특성, 외형 및 미세 구조, 물리화학적 특성 및 생리활성에 대한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약추출물에 대 하여는 추가로 생약추출물의 물리화학적 특성과 생리활성에 대한 정보 및 가능하다 면 조성물 중 주요 성분의 구조, 물리화학적 특징과 생리활성 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.3.2. 불순물(Impurities) 불순물에 관한 정보를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약의 생산이나 채취후 처리로부터 유래된 잠 재적 오염 및 잔류물질에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "보관 중에 형성되는 잠재적 분해산물 또는 오염제거과정 중에 생성될 수 있는 분해산물 등도 관련 있는 경우 기술되어 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약추출물은 생약에서 유래될 수 있는 잠재적 불순물을 포함하여 제조 공정에서 유래된 가능한 불순물과 분해산물에 대한 기원과 사유와 함께 기술되어 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "잔류용매에 대하여도 기재되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4. 원료의약품의 관리(Control of Drug Substance) 3.2.S.4.1. 규격(Specification) 생약과 생약추출물의 규격을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4.2. 시험방법(Analytical Procedures) 생약과 생약추출물의 규격 시험에 사용되는 시험방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4.3. 시험방법 밸리데이션(Validation of Analytical Procedures) 규격 중 시험방법에 대한 실측치를 포함한 시험법 밸리데이션을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4.4. 배치 분석(Batch Analyses) 배치에 대한 정보 및 배치 분석결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4.5. 규격 설정근거(Justification of Specification) 규격설정에 대한 근거를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.5. 표준품 또는 표준물질(Reference Standards or Materials) 시험에 사용한 표준품 또는 표준물질에 대해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.6. 용기 및 포장(Container Closure System) 일차 포장재의 구성성분과 기준 및 시험방법을 포함하는 용기 및 포장재에 대한 설명을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "성상, 확인시험 및 필요시 주요 치수를 포함한 적합한 도면을 포 함하고, 공정서 이외의 시험방법은 밸리데이션 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "비기능성 이차 포 장재에 대해서는 간단하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "기능성 이차 포장재에 대해서는 추가정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "예를 들면 적합성은 재료의 선택, 습기나 빛으로부터의 보호, 용기흡착, 유리 또는 구성성분의 안전성을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.7. 안정성(Stability) 3.2.S.7.1. 안정성 요약 및 결론(Stability Summary and Conclusions) 수행한 시험의 유형(가속, 장기, 가혹), 수행계획서, 시험의 결과를 요약하여 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "보관조건과 재시험날짜 또는 유효기간 등과 관련된 결론을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.7.2. 허가 후 안정성시험 계획 및 이행서약(Post-approval Stability Protocol and Stability Commitment) 허가 후 안정성 시험 계획을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.7.3. 안정성 자료(Stability Data) 안정성 시험 결과는 표, 그래프, 설명과 같은 적절한 양식으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "배치 정 보(제조원, 제조일, 배치크기, 시험일 등)와 3.2.S.4에 기술된 시험법이 아닌 경우에 는 시험방법 기술과 밸리데이션 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P. 완제의약품(DRUG PRODUCT) 3.2.P.1. 완제의약품의 개요와 조성(Description.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "and Composition of the Drug Product).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "완제의약품의 개요와 조성에 대한 사항을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "예를 들면: · 제형에 대한 설명 · 조성. 즉, 제제 중의 모든 함유 성분의 종류, 함유 단위, 배합목적 및 규격 · 첨부용제(희석제)에 대한 설명 · 제제 및 첨부 용제의 용기 및 마개의 유형 3.2.P.2. 개발경위(Pharmaceutical Development) 개발경위 항은 제형, 제제설계, 제조공정, 용기 및 마개, 미생물학적 특성, 사용방 법이 신청서류에서 정한 목적에 적절한지를 확인하기 위해 수행된 개발과정 및 결 과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "또한 배치 간 재현성, 제제의 성능(product performance), 완제의약 품 품질에 영향을 미칠 수 있는 제제 조성, 주요 공정조건을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "특정연구 및 문헌에서 얻어진 추가 자료나 결과를 본 항에 기재하거나 첨부할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "또 한 신청서류 중 비임상시험 또는 임상시험의 자료 일부가 참조로 인용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "추출물의 분류(건조엑스, 연조엑스, 추출액 등)와 활성 및 지표성분 선정의 타당성 이 기재되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.2.1. 완제의약품의 조성(Components of the Drug product) 완제의약품의 조성에 대한 원료의약품과 각 첨가제의 배합에 대한 고찰과 적합성 을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.2.2. 완제의약품(Drug Product) 완제의약품의 품질에 중요한 의약품 특징과 더불어 의약품 제제 개발에 대한 내용 과 사용목적에 적합함에 대한 내용을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.2.3. 제조공정 개발(Manufacturing Process Development) 3.2.P.3.3 제조공정 및 공정관리 항에 기재한 제조공정의 선정과 최적화에 대해 특 히 중요한 측면에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "멸균과정이 있을 경우 그 방법을 기재하고 타 당성을 입증한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "주요 임상시험용 배치(pivotal clinical batches)의 제조공정과 3.2.P.3.3. 제조공정 및 공정관리 항에 기재한 공정 사이에 완제의약품의 성능에 영 향을 줄 수 있는 차이점에 대하여 고찰한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.2.4. 용기 및 포장(Container Closure System) 저장, 운반(선적) 및 완제의약품의 용기 포장에 사용된 용기 및 포장의 적합성 (suitability)을 고찰한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "이 항에는 재료의 선택, 습기와 빛으로부터 보호, 직접용기 구성성분과 의약품과의 적합성(compatibility)(용기 흡착이나 유리 포함), 직접용기 구성 재료의 안전성, 성능(첨부한 투약용기의 재현성 등)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.2.5. 미생물학적 특성(Microbiological Attributes) 필요한 경우 제형의 미생물학적 특성(예: 비무균 제품은 미생물의 한도 시험을 수 행하지 않은 사유, 항균 효과가 있는 보존제를 함유하는 경우 보존시스템의 선정 과 효능을 포함한다)을 고찰한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "무균 제품은 미생물 오염을 방지하기 위한 용기 및 포장의 보전성(integrity)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.2.6. 적합성(Compatibility) 완제의약품이 희석용제 또는 투약용기와의 적합성(예: 용액 중 원료의약품의 침 전, 주사용기에 흡착, 안정성)을 기재하고, 첨부문서 등에 표시할 필요한 정보를 기 재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.3. 제조(Manufacture) 3.2.P.3.1. 제조원(Manufacturer) 수탁업소를 포함한 각 제조원, 시험기관의 각 명칭, 주소, 책임범위를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.3.2. 배치 조성(Batch Formula) 배치 조성은 제조과정에서 사용되는 제제의 모든 성분에 대하여 과다 투입량을 포함하여 배치당 분량, 규격(quality standard)를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.3.3. 제조공정 및 공정관리(Description.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "of Manufacturing Process and.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Process Controls) 제조공정의 단계, 어느 단계에서 물질이 공정에 투입되는 지에 대한 흐름도를 기 재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "주요 공정(critical step)과 공정관리, 반제품의 시험 또는 최종제품 품질관 리가 이루어지는 단계를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "포장을 포함하여 단계별 제조공정과 생산규모 를 상세하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "새로운 공정 또는 완제의약품 품질에 직접적으로 영향을 미치는 기술과 포장작업(Novel processes or technology and packaging operation).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "은 보다 상세하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "장비는 관련된 유형(예: tumble blender, in-line.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "homogenizer)과 작업 용량에 따라 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "각 제조공정 단계별로 시간, 온도 또는 pH 등 적절한 공정 확인지표를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "각 지표의 수치는 범위로 표시할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "주요 공정에 대한 수치 범위는 3.2.P.3.4. 주요 공정 및 반제품 관리 항에서 설정 근거를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "특별한 경우, 환경적 조 건(예: 발포정에서의 낮은 습도)을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "원료 등의 재가공(reprocessing step)은 그 타당성을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "타당성의 근거 자료 는 이 항에 기재하거나, 참고 자료로 다른 항을 인용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.3.4. 주요 공정 및 반제품 관리(Controls of Critical Steps and Intermediates) 주요 공정 : 공정관리를 보증하기 위해서 제조공정의 3.2.P.3.3. 제조공정 및 공정 관리 항에서 확인된 주요 공정에서 실시한 시험방법과 기준을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "반제품 : 공정 중 반제품에 대한 품질관리 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.3.5. 공정 밸리데이션 및 평가(Process Validation and/or Evaluation) 제조공정에서 사용된 주요 공정과 주요 분석에 대한 밸리데이션 및 평가의 결과 를 상세하게 기재한다(예: 멸균 공정, 무균 공정 또는 충전). 필요하다면 바이러스 성 안전성 평가를 3.2.A.2. 항에 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.4. 첨가제의 관리(Control of Excipients) 3.2.P.4.1. 규격(Specifications) 첨가제에 대한 규격(specification)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.4.2. 시험방법(Analytical Procedures) 필요시 첨가제 시험방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.4.3. 시험방법 밸리데이션(Validation of Analytical Procedures) 사용한 첨가제 시험방법이 분석 밸리데이션이 필요한 경우 실측치를 포함하여 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.4.4. 규격 설정근거(Justification of Specifications) 필요시 첨가제 규격에 대한 설정 근거를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.4.5. 사람 또는 동물 유래 첨가제(Excipients of Human or Animal Origin) 사람이나 동물 유래의 첨가제에 대해서 외인성 물질에 관한 정보를 기재한다(예: 기원 및 규격, 실시된 시험에 대한 설명, 바이러스성 안전성 시험). 3.2.P.4.6. 새로운 첨가제(Novel Excipients) 완제의약품에 처음으로 사용되거나 새로운 투여경로에 사용되는 첨가제에 대해서 는 안전성을 입증하는 자료(비임상시험 및 임상시험자료) 및 제조, 특성, 품질관리 에 대한 사항을 원료의약품 양식에 따라 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.5. 완제의약품의 관리(Control of Drug Product) 3.2.P.5.1. 규격(Specifications) 완제의약품에 대한 규격을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.5.2. 시험방법(Analytical Procedures) 완제의약품을 시험하는데 사용된 시험방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.5.3. 시험방법의 밸리데이션(Validation of Analytical Procedures) 완제의약품을 시험하는데 사용된 시험방법에 대한 시험자료를 포함하여 밸리데이 션 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.5.4. 배치 분석(Batch Analyses) 배치에 대한 정보와 배치 분석의 결과에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.5.5. 불순물 특성(Characterization of Impurities) 완제의약품의 불순물의 특성에 대한 정보를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.3.2 항에서 기재한 경 우 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.5.6. 규격 설정근거(Justification of Specifications) 완제의약품의 규격 설정 근거에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.6. 표준품 및 표준물질(Reference Standards or Materials) 완제의약품의 시험에 사용되는 표준품 또는 표준물질에 대한 자료를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.5. 표준품 또는 표준물질 항에 기재한 경우는 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.7. 용기 및 포장(Container Closure System) 일차 포장재의 구성재료와 규격을 포함하는 용기 및 포장에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "규격 에는 개요와 확인방법(필요시 도면을 포함한 주요치수)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "필요시 밸리데 이션 된 자사시험방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "비기능성 이차 포장재(예, 추가적인 보호를 하지 않거나 제품의 운송에 관여하지 않는 포장재)에 대해서는 간단하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "기능성 이차 포장재(운송, 차광과 같 은 추가적인 보호)에 대한 정보를 추가적으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "적합성(Suitability)은 3.2.P.2. 개발경위 항에 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.8. 안정성(Stability) 3.2.P.8.1. 안정성 요약과 결론(Stability Summary and Conclusion) 실시한 시험의 종류, 사용한 시험계획서 그리고 시험결과를 요약하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "예를 들어, 보관조건과 사용기간(유효기간)에 대한 결론을 기재하고, 필요시 사용 시 보관조건과 사용기간(유효기간)을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.8.2. 허가 후 안정성시험 계획 및 이행 서약(Post-approval Stability Protocol and Stability Commitment) 허가 후 안정성 시험 계획을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.P.8.3. 안정성 자료(Stability Data) 안정성 시험의 결과는 적절한 양식(예: 표, 그래프, 설명)으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "안정성 시 험에 사용한 기준 및 시험방법, 밸리데이션 정보가 포함되어야 하나, 다른 항에서 기재한 경우 인용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "불순물의 특성에 대한 정보는 3.2.P.5.5. 불순물의 특성 항에 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.A. 부록(APPENDICES) 3.2.A.1 시설과 장비(Facilities and Equipment) 제조 품질관리에 관계된 제조원 및 시험기관의 시설과 장비에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.A.2 외인성 물질에 대한 안전성 평가(Adventitious Agents Safety Evaluation) 외인성 물질의 잠재적 오염에 대한 위험을 평가하는 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "동물로부 터 유래된 원료의약품의 경우 바이러스 안전성에 대한 정보와 제조공정 중 이의 제거를 위한 과정과 평가에 대하여 기재하고, 이에 대한 자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.A.3 첨가제(Excipients) 새로운 첨가제에 대한 품질자료를 원료의약품과 동일한 수준으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.R 지역별 정보(REGIONAL INFORMATION).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "3.1. 목차(TABLE OF CONTENTS)",
+      "path": null,
+      "ko_txt": "제출 자료에 대한 총 목차를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "3.1. 목차(TABLE OF CONTENTS)",
+      "path": null,
+      "ko_txt": "A Table of Contents for the filed application should be provided. 해 설 ○ Module 3에 대한 전체 목차를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "3.1. 목차(TABLE OF CONTENTS)",
+      "path": null,
+      "ko_txt": "본 가이드라인의 기본 항목(박스화된 항목) 에 대하여 제목과 필요하면 참조항목(쪽, 권 등)을 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "3.1. 목차(TABLE OF CONTENTS)",
+      "path": null,
+      "ko_txt": "신청 품목의 특성에 따라 구성된 세부항목은 제외하여도 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S. 원료의약품(DRUG SUBSTANCE) 해 설 ○ 천연물의약품(herbal medicinal product)의 원료의약품은 생약(herbal substance) 또는 생약추출물(herbal preparation)이 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "최근에는 생약추출물로 생약을 물 및 유기용매를 사용하여 추출하여 가공한 생약엑스(건조엑스, 연조엑스, 추출액, 틴크 등) 가 가장 많이 사용되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "본 가이드라인에서는 원료의약품으로 생약추출물, 특히 생약엑스를 사용하는 경우에 준하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 원료의약품으로 생약만을 사용하는 경우에는 생약추출물에 관한 사항은 생략한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "하 나 이상의 생약을 사용하는 경우 각 기본 항목에 대하여 생약별로 하위 항목을 설정 하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 원료의약품으로 생약추출물을 사용하는 경우 제조 및 품질관리와 관련된 각 기본 항 목(3.2.S.2부터 3.2.S.5.)에 대해서는 필요한 경우 생약추출물의 제조에 사용된 생약과 생약추출물에 대한 정보를 분리하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "복합제의 경우 다음 원칙에 따라 문서를 작성할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁다수의 생약을 혼합하여 추출(기타 가공 포함)하여 단일 엑스를 사용하는 경우에는 하나의 3.2.S. 문서를 생산한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁생약별로 각각 엑스를 제조하는 경우에는 엑스별로 각각 3.2.S.를 작성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○원료의약품으로 생약과 생약추출물을 복합사용하는 경우 생약과 생약추출물에 대해 각각 3.2.S. 파트를 작성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.1. 일반사항 일반정보(General Information) 3.2.S.1.1. 명칭(Nomenclature) 원료의약품의 명칭에 대한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약의 경우 생약명, 기원식물의 학명 (속, 종, 변종, 명명자), 사용 부위, 동명(약전 등의 동명이나 이명), 회사 코드 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약추출물의 경우, 생약에 대한 정보와 더불어 추출물의 정의, 추출수득 률(원생약 대비 생약추출물의 비율), 추출용매, 첨가제 등을 추가로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Information on the nomenclature of the drug substance should be provided. For herbal substance: Definition of the herbal substance ; binominal scientific name of plant(genus, species, variety and author) and chemotype ; parts of the plants ; other names(synonyms in other Pharmacopoeia); laboratory code. For herbal preparation: In addition to the information on the herbal substance, definition of the herbal preparation ; yield(ratio of the herbal substance to herbal preparation) ; extraction solvent(s) : addition of excipient(s) ; laboratory code. <출처 : EMA/HMPC/71049/2007 Rev. 2＞ 해 설 ○생약 및 생약추출물에 대한 전체적인 정보를 개조식 또는 표 형식으로 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"생약추출물의명칭\", \"기원식물의학명\", \"사용부위(생약명)\", \"이명(다른공정서에있는동의어)\", \"수득률(생약: 생약추출물)\"], \"행\": [], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "8∼12 → 1 (8.3∼12.5%) 수득률(생약: 순수 생약 추출물) 4∼6 → 1 (16.7∼25.0%) 추출용매 첨가제* 첨가제 비율* 순수 생약 추출물: 첨가제(10 : 1) 실험실 코드 * 추출물에 부형제 등을 첨가하여 원료 의약품을 제조하는 경우에 해당 3.2.S.1.2. 구조(Structure) 생약 또는 생약 추출물의 물리적 형태와 활성 성분과 지표 성분에 대하여 기술한다 이들의 화학명, 분자식 및 분자량, 구조식 등을 기재한다 The following information for herbal substance(s) or herbal preparation(s) where applicable, should be provided; physical form; description of the constituents with known therapeutic activity or markers (name, chemical name, molecular formula, relative molecular mass, structural formula; other constituents). <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 생약 또는 생약 추출물에 함유된 모든 화학 성분에 대하여 기술할 필요는 없으며 가능하지도 않다 그러나 치료적 활성과 관련된 성분과 지표 성분은 기술되어야 한다 이들 성분은 주로 원료 의약품의 규격 중에서 함량 또는 성분 프로파일로서 관리되어야 한다 먼저 원료 의약품 중 함유된 성분에 대한 개요를 표 등을 이용하여 작성한다 각 성분의 원료 의약품에서의 약리적 또는 품질적 기능도 기술한다 ○ 각 성분별로 항목을 분리하여 명칭, 화학명, 분자식, 분자량 등 화학적 특징에 관한 정보를 기술한다 기존에 의약품으로 허가된 성분 또는 천연물 의약품의 활성 성분 또는 지표 성분으로 사용된 성분과는 다른 신규 성분이 있다면 NCE와 동일하게 입체 화학적 구조를 포함한 구조식을 제공한다 3.2.S.1.3. 일반적 특성(General Properties) 생약, 생약 추출물 및 그 함유 성분의 물리화학적 특성 및 기타 중요한 특징에 대하여 기재한다 Information of physicochemical and other relevant properties of the herbal substance or herbal preparation should be provided. <출처: ICH-M4Q(R1)> 해설 ○ 생약 또는 생약 추출물의 물리적, 화학적, 생물학적, 미생물학적 특성 등을 기재한다 ○ 3.2.S.1.3.1. 생약(Herbal Substance) 생약의 특징을 상세하게 규정하는 것은 생약 추출물 및 완제 의약품의 일관된 품질의 확보에 필수적이다 생약의 식물학적 및 식물 화학적 측면을 포함하여 포괄적인 특징이 기술되어야 하며 이에 근거하여 규격 확립이 이루어져야 한다 필요 시 사진 등을 첨부하여 비교 설명한다 ⦁ 기원 ⦁ 성상: 육안적 형태, 색, 크기, 냄새, 맛, 건조 여부 등. 그 외 감별의 주요 사항 및 필요 시 현미경적 특징도 포함한다 ⦁ 기타 특징: 휘발성, 곰팡이 오염이나 산패에 대한 취약성 등 특이 사항 ⦁ 규격: 약전 등 공정서의 monograph 또는 자가 규격 여부 ○ 3.2.S.1.3.2. 생약 추출물(Herbal Preparation) ⦁ 성상: 색, 향, 맛, 물리적 형태(건조, 연조, 액 등)에 대해 기술한다 ⦁ 용해도: 물을 포함하여 원료 의약품의 제조에 사용된 용매 및 분석에 사용되는 용매들에 대해 시험하며 약전의 기술 용어에 준해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "(예: 잘 녹는다, 녹는다 등) ⦁ pH ⦁ 건조 감량 등: 연조 엑스나 추출액의 경우 건조물로서의 양을 기재한다 ⦁ 미생물학적 특징 ⦁ 기타 약효와 관련 있는 생물학적 활성 등 ○ 3.2.S.1.3.3. 주요 성분(Main Constituents) 3.2.S.1.2. 항에 기술된 주요 성분(활성 성분, 지표 성분)에 대하여 물리화학적 특성 및 약리 활성 등을 기재한다 3.2.S.2. 제조(Manufacture) 3.2.S.2.1. 제조원(Manufacturer(s)) 제조 및 시험에 관한 모든 사업소 또는 시설에 해당하는 제조원의 명칭, 주소, 책임 범위 및 수탁업소를 기재한다 생약에 대하여는 생산, 수집 및 시험과 관련된 사업소와 공급자의 시설 명칭, 주소, 책임 범위를 기재한다 생약 추출물에 대하여는 추출물의 제조 및 시험과 관련된 제조원과 수탁업소의 명칭, 주소, 책임 범위를 기재한다 The name, address, and responsibility of each manufacturer including contractors, and each proposed site or facility involved in production and testing should be provided. For herbal substances: Supplier and proposed site or facility involved in production, collection and testing For herbal preparations: Manufacturers relevant to manufacturing and testing of herbal preparation. <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 원료 의약품의 제조 및 시험과 관련된 모든 제조업소 및 사업소에 관하여 정보를 기술한다 ○ 3.2.S.2.1.1. 생약(Herbal Substance) 생약별로 생산, 수집, 공급 및 시험에 관련된 업체에 대하여 제조소명, 주소 및 책임 범위를 기술한다 제조 및 품질 관리의 위/수탁 관계가 수행될 때에는 위/수탁 관계를 나타내고 책임 범위를 기재한다 동일한 제조/시험에 대하여 관련된 업체가 복수일 경우 각각의 상세한 책임 범위와 우선순위를 구분하여 기재한다 ○ 3.2.S.2.1.2. 생약 추출물(Herbal Preparation) 생약 추출물의 제조, 공급 및 시험에 관련된 업체에 대하여 각각 제조소명, 주소, 책임 범위를 기술한다 동일한 제조/시험에 대하여 복수의 업체가 관련되어 있을 때는 각각의 상세한 책임 범위와 우선순위를 구분하여 기재한다 신청 원료 의약품의 제조와 관련된 건물 번호 등 구체적인 확인 정보를 명확히 기재한다 무균 원료 의약품을 제조하는 제조소의 경우 무균 지역을 따로 표시한다 3.2.S.2.2. 제조공정 및 공정 관리(Description of Manufacturing Process and Process Controls) 원료 의약품의 제조공정과 공정 관리에 관한 사항을 기재한다 생약에 대하여는 식물의 생산과 수확 및 가공에 관한 정보를 포함한다 생약 추출물에 대하여는 생약으로부터 생약 추출물을 생산하는 제조공정에 대한 설명과 제조 공정 흐름도, 제조에 사용된 용매와 시약, 정제 단계 및 배치 크기를 기재한다 Information on the manufacture of drug substance should be provided to adequately describe the manufacturing process and process control. For herbal substances: Geographical source of medicinal plant; cultivation, harvesting, drying and storage condition; batch size For herbal preparation: The information on the herbal substance as described above; description of processing (including flow diagram), solvent & reagent; purification stage; batch size <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 원료 의약품의 실제 제조 방법을 기재한다 제조공정과 제조에 사용되는 원료 약품, 용매, 주요 공정 조건, 공정 관리 방법 및 기준 등이 포함되도록 한다 ○ 3.2.S.2.2.1. 생약(Herbal Substance) 생약은 사용된 생약별로 구분하여 작성한다 지리적 분포, 재배, 수확, 건조, 가공, 운송 및 문서 관리에 관하여 항목별로 구분하여 기재한다 ⦁ 식물의 지리적 분포: 가능하면 야생지와 재배지를 구분하여 기재한다 ⦁ 재배: 재배와 관련된 종자의 품종, 공급자, 품종 구별법, 파종 시기와 방법, 토양, 재배 시 사용하는 유기 및 무기 비료와 살충제, 재배 기간 등 ⦁ 수확 및 건조: 수확 시기의 판단, 수확 시기와 기간, 채취 방법, 건조 시 건조 온도와 시간, 건조 기준(잔류 수분 기준) ⦁ 기타 가공: 절단 및 기준, 포장 등 ⦁ 운송 및 보관: 보관 조건(용기, 온도, 차광 여부 등)과 용기에 표시하는 기재 사항(품명, 공급자와 수령자, 배치 번호, 양 등) ⦁ 문서 관리: 각 배치별로 관리되는 정보를 기재하고 배치별로 수령된 공급자 성적서를 첨부한다 ○ 3.2.S.2.2.2 생약 추출물(Herbal Preparation) 생약 추출물의 제조에 관하여 생약 수령부터 원료 의약품의 출하에 이르는 과정에 대한 개요를 제공하고 세부 사항을 분리하여 기술한다 ○ 3.2.S.2.2.2.1. 공정 흐름도(Flow Chart) 생약 추출물의 순차적 제조 공정이 드러나도록 그림으로 나타낸다 필요하면 생약의 가공 과정(수치, 분쇄 등), 원 추출물(native extract) 제조 과정, 건조 엑스 제조 과정 등으로 구분하여 기술한다 공정 흐름도는 다음과 같은 내용을 참조하여 작성한다 ⦁ 주요 제조 공정은 추출, 분획, 반응, 여과, 원심분리, 증발, 회수, 건조, 분쇄, 멸균 등이 포함될 수 있다 ⦁ 각 단계별 주요 공정(critical step)은 강조 표시 ⦁ 출발 물질, 용매, 시약이 투입되는 순서가 표시되도록 한다 ⦁ 각 제조 단계의 주요 작업 조건(예: 온도, pH, 압력, 시간, 유속 등) ⦁ 주요 공정 관리 방법, 샘플링 시기, 허용 기준 등 ⦁ 각 제조 단계에서의 예상 생산량, 수율 및 범위 ○ 3.2.S.2.2.2.2. 제조 방법(Manufacture of Herbal Preparation) 제조 공정 흐름도에 기재한 순서에 준하여 각 단계별로 상세한 제조 방법을 기재한다 제조 방법은 모든 제조 공정 조건과 공정 관리를 기술하며 숫자로 표현되는 범위, 한계 또는 허용 조건을 표시하며, 주요 제조 공정 관리는 강조한다 제조 공정 방법과 제조 공정 관리는 다음 사항을 참조하여 작성한다 ⦁ 대표적인 배치(시판 배치)의 제조에 수행된 각 제조 공정 단계별 자세한 방법과 작업 조건 ⦁ 생약 추출액이나 엑스의 품질에 영향을 미칠 수 있는 제조 공정 단계와 ‘주요 공정 (critical step)’을 확인할 수 있도록 표시 ⦁ 각 단계에서 사용된 출발 물질 또는 중간체의 화학적 또는 생물학적 이름과 분량(범위) 표기 ⦁ 각 단계에서 사용된 용매, 시약 및 보조 물질의 화학적 또는 생물학적 이름과 분량(범위) 표기 ⦁ 중간체의 표시(자세한 사항은 3.2.S.2.4에 기재한다.) ⦁ 공정 중 중간체의 보관이 있을 시 보관 용기, 보관 조건 및 최대 보관 기간 ⦁ 각 제조 공정 단계별 생산 수율 및 생산 수율 범위 표시(무게, %) ⦁ 모든 제조 공정 관리와 범위, 한계 또는 주요한 공정 관리의 허용 범위 (자세한 사항은 3.2.S.2.4에 기재한다.) ⦁ 각 제조 공정 관리를 위해 사용된 분석 방법의 형태(예: HPLC) ⦁ 분취물의 처리, 회수된 용매의 재사용 또는 폐기, 엑스의 재가공 또는 재작업 등과 관련된 내용 ⦁ 생약 배치의 혼합, 공정 중 추출액 등 중간체의 배합, 생약 엑스의 배치 간 배합에 관한 배합 목적과 배합 기준 ⦁ 기술적 이유 또는 표준화된 성분의 조정을 위하여 첨가제를 사용하는 경우 첨가제의 첨가에 관한 사항 3.2.S.2.3. 원료 관리(Control of Materials) 생약 추출물의 제조에 사용한 각각의 원료(생약, 출발 물질, 용매 및 첨가제 등)가 어느 공정에서 사용되었는지를 명확하게 작성하고 이들 물질에 대한 품질 관리 기준 및 방법 등을 기술하고 이에 대한 근거 자료를 제출한다 Materials used in the manufacture of the herbal preparation (e.g. starting material, solvents, excipients) should be listed, identifying where each material is used in the process. Information on the quality and control of these materials should be provided. Information demonstrating that materials meet standards appropriate for their intended use should be provided, as appropriate. <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 제조에 사용한 원료 약품(생약, 용매 및 시약, 필터, 첨가제 등)의 규격 등 품질 관리 방법을 기술한다 ○ 3.2.S.2.3.1. 생약(Herbal Substance) 생약 추출물의 제조에 사용되는 최종 단계 생약의 품질 관리는 생약 추출물과 동일한 수준에서 작성되어야 하므로 3.2.S.4.에 따로 기술하는 것이 좋다 3.2.S.2.3.에서는 생약의 출발 물질이 되는 식물의 품질 관리에 대하여 간략히 기술한다 규격은 식물의 정의, 품종, 산지(재배지), 수확 시기, 지표 성분 함량 등이 포함될 수 있으며 공급자 성적서 등을 첨부한다 동물의 부위를 사용할 경우 기원과 도축과 공급에 관한 정보를 포함하며 바이러스 등 외래성 인자에 대한 안전성 관련 정보와 확인서를 첨부한다 ○ 3.2.S.2.3.2. 용매(Solvents) 생약 추출물 제조 시 사용되는 용매의 목록 및 규격을 기재한다 규격은 대표 배치의 성적서와 함께 제출한다 ⦁ 제조용수는 사용 목적에 맞는 적절한 등급을 사용하여야 한다 ⦁ 추출 및 분획에 사용한 용매를 회수하여 재사용할 경우에는 재사용 용매의 규격을 설정하여야 한다 ○ 3.2.S.2.3.3. 첨가제(Excipients) 생약 및 용매를 제외한 사용되는 첨가제, 시약, 필터, 흡착제 등 원료 물질의 목록을 기재한다 각 원료 물질에 대하여 제조 공정 중 사용 단계와 사용 목적을 간단히 기술하고 규격 또는 규격 코드, 시험 코드 등을 기재한다 제조 공정에 사용되는 각 원료 물질은 생약 추출물의 품질을 보증하는 데 적합함을 보여주는 규격을 확보하여야 한다 규격은 대표 배치의 성적서와 함께 제공될 수 있다 각 원료 물질의 규격은 다음 사항을 참고하여 설정 및 작성한다 ⦁ 규격은 해당 물질과 사용 목적에 적합한 시험 항목, 시험 방법 및 허용 기준을 포함해야 한다 ⦁ 최종 단계에 사용하는 용매나 보조 물질(여과 보조제, 칼럼 등)의 규격은 초기 단계에 사용하는 물질에 비하여 더욱 엄격하게 설정되어야 한다 ⦁ 필요한 경우 원료 물질(제조용수, 필터 등)의 규격 중에 미생물 오염을 관리하기 위한 항목이 설정되어야 한다 ⦁ 원료의 규격이 공정서 외 규격인 경우 규격 설정 근거 자료를 함께 첨부한다 3.2.S.2.4. 주요 공정 및 중간체 관리(Controls of Critical Steps and Intermediate) 3.2.S.2.2.에서 제시한 주요 공정에 대한 시험 방법과 허용 기준(실측치를 포함한 근거 기준)을 기재한다 또한, 제조 공정 중 분리되는 분획물이나 분취물 또는 중간체의 품질 관리 방법 등을 기재한다 Critical Steps: Tests and acceptance criteria (with justification including experimental data) performed at critical steps identified in 3.2.S.2.2 of the manufacturing process to ensure that the process is controlled should be provided. Intermediates: Information on the quality and control of fractions, preparations or intermediates where applicable, isolated during the process should be provided. <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 3.2.S.2.2에서 정의한 주요 공정(critical step)에 대하여 주요 공정으로 선택한 타당한 사유와 공정 관리를 위한 시험 방법과 허용 기준을 기술한다 아울러 공정 중에 생성되어 분리되는 중간체의 품질 관리 기준을 기재한다 ○ 3.2.S.2.4.1. 주요 공정(Critical Processing Step) 주요 공정은 생약 추출물이 사용 목적과 기준에 적합하도록 보증하는 데 중요한 영향을 미치는 공정으로 정의된다 각 공정별로 해당 공정의 정의와 주요 공정으로 선택한 사유, 주요 공정 조건(critical process parameters) 및 허용 기준을 기술한다 주요 공정 선택은 다음의 예를 참조하여 기술한다 ⦁ 최종 생약 추출물의 활성 성분 함량에 중요한 영향을 미치는 공정 ⦁ 최종 생약 추출물의 수득률과 구성 성분의 프로파일에 중요한 영향을 미치는 공정 ⦁ 최종 생약 추출물의 안전성을 보증하는 데 필요한 오염물질 제거 과정(바이러스 불활화, 멸균 등) 및 독성 물질 제거 과정 ⦁ 최종 생약 추출물에 치명적인 불순물을 유입시킬 수 있는 중간체 제조 단계 또는 존재하는 불순물을 제거하는 중간체 제조 단계 ⦁ 반응율 등 이후의 공정에 영향을 주는 단계 ⦁ 온도 및 pH의 관리가 중요한 단계 ⦁ 최종 정제 단계 ⦁ 생약 추출물의 균질성에 영향을 끼칠 수 있는 혼합 등 ⦁ 완제품이 경구용 고형제인 경우 최종 제품의 용해도에 영향을 끼칠 수 있는 특성(입자도 등)에 영향을 미칠 수 있는 공정 또한, 식물 유래 원료 의약품은 제조 공정 중 벤조피렌 저감화 공정이 추가된 경우 주요 공정으로 선택하여야 하며, 저감화 공정이 별도로 없더라도 원료 의약품에서 잔류·오염물질(벤조피렌 등)에 대한 안전성이 확보되어야 하므로, 아래의 자료가 제출되어야 한다 ⦁ 3로트 벤조피렌 시험 결과(시험 기초 자료 포함) ⦁ 벤조피렌 시험 방법(시험 방법 밸리데이션 포함) ⦁ 벤조피렌 관리 방안(시험 주기, 관리 기준 등 포함) ⦁ 벤조피렌 노출 안전역(MOE) 평가 자료 예) 원료 의약품 벤조피렌 시험 결과를 바탕으로 노출 안전역 계산 생약 추출물(주성분)이 1회 복용 90 mg(1일 3회) 완제품에 투입되는 경우, 1일 최대 복용량은 270 mg - 3로트 평균 벤조피렌 검출량 15.3 ppb - 1일 최대 복용량 기준 벤조피렌 일일 인체 노출량: 0.27 g(1일 최대 복용량) x 15.3 ppb(㎍/103g) = 4.13 ng - 노출 안전역(MOE) = BMDL10 / 일일 인체 노출량 = 6x106 ng / 4.13 ng = 1.45 x 106 * 체중 60 kg인 성인에서의 BMDL10 = 6 mg/60 kg/day ※ BMDL10: 0.1 mg/kg/day, 체중: 60 kg (WHO/JECFA, '06) ○ 3.2.S.2.4.2. 중간체(Intermediate) 공정 중에 분리되는 중간체가 있는 경우 중간체별로 정의, 구조, 규격(시험 항목, 시험 방법, 허용 기준)을 기술한다 중간체를 일정한 기간 저장한다면 저장 조건, 저장 기간 및 이를 뒷받침하는 안정성 자료에 대하여 기재한다 규격은 일반적으로 성상, 확인, 함량, 불순물, 수분 등이 포함된다 만일 생약 추출물의 최종 품질에 영향을 미칠 수 있는 주요 중간체가 있다면 해당 규격과 함께 성적서를 첨부한다 공정서에 수재된 시험법을 쓰지 않는 경우 적절한 밸리데이션을 수행하고 그 결과를 제출한다 3.2.S.2.5. 공정 밸리데이션 및 평가(Process Validation and/or Evaluation) 무균 공정과 멸균 제조 공정을 포함하여 주요 공정의 밸리데이션 및 평가 결과를 기재한다 Process validation and/or evaluation studies for manufacturing process of herbal preparation(s) should be included. <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 3.2.S.2.2에서 기술된 공정과 작업 조건은 밸리데이션 되어야 한다 제조 공정이 의도한 목적에 적합한지를 증명하고 주요 공정 관리(공정 조건, 공정 중 시험 등)의 설정 근거와 주요 제조 공정의 한도 기준에 대한 근거를 보여주어야 한다 무균 생약 추출물의 제조 시에는 무균 공정의 타당성과 효율성에 관련된 밸리데이션 정보를 상세하게 기재하여야 한다 밸리데이션을 수행하기 위한 계획(대상, 목표, 실시 조건 등), 시설 및 장비의 교정 및 적격성 평가, 밸리데이션 실시 내용, 결과 평가 등을 포함하는 밸리데이션 보고서를 첨부한다 만약, 공정 밸리데이션이 포함된 별도의 GMP package가 작성된다면 참조 사항으로 기재한다 3.2.S.2.6. 제조 공정 개발(Manufacturing Process Development) 생약과 생약 추출물의 투여 경로, 효능, 용법 등을 고려해 약물의 제조 공정에 대한 개발 경위를 기재한다 해당 생약과 생약 추출물의 식물 화학적 조성을 3.2.S.1.2에 기재된 내용과 기존 문헌에 보고된 내용을 비교하여 제조 공정의 선택 사유와 개발과 관련하여 종합적으로 고찰한 사항을 기재해야 한다 생약 추출물의 개발 과정 중 비임상 시험, 임상 시험, 스케일 업, 시판 배치를 생산하는 과정에서 일어난 변경 사항(추출 조건, 정제 조건 등 주요 제조 공정 방법과 조건, 수득률, 제조 단위 등)에 대하여 상세히 기재한다 각 변경에 대한 변경 사유와 해당 변경이 원료 의약품의 품질에 미치는 영향의 정도를 평가하여 기재한다 중요한 변경으로 판단되는 경우에는 변경에 따라 품질 및 약효에 영향을 주는 정도를 판단할 수 있는 비교 분석 자료를 제출한다 이와 관련된 생약 추출물의 배치 분석 자료는 3.2.S.4.4에 기재한다 A brief summary describing the development of the herbal substance and herbal preparation where applicable should be provided, taking into consideration the proposed route of administration and usage. The comparability of the phytochemical composition of the HS/HP used in supporting bibliographic data and the HS/HP described in 3.2.S.1.2 should be discussed as appropriate. Intensive description and discussion should be provided regarding the significant changes made to the manufacturing including manufacturing process, site, facility or batch size of the drug preparation in producing nonclinical, clinical, scale-up, and marketing scale batches. The impact of each change on the quality of drug preparation should be evaluated. Reference should be made to the drug substance data provided in section 3.2.S.4.4. <출처: EMA/HMPC/71049/2007 Rev. 2, EMA/454576/2016> 해설 ○ 생약 추출물의 제조 공정 개발 및 확립에 관한 사항을 기술한다 신청한 생약 추출물과 제조 공정을 선택한 사유부터 최종 공정을 확립하기까지의 과정을 기재한다 공정 조건이나 장소의 변경에 따라 생약 추출물 및 함유 성분의 조성과 물리화학적 및 생물학적 성질의 변화 등에 초점을 두어 설명한다 ○ 3.2.S.2.6.1. 생약 및 생약 추출물의 개발(Manufacturing Development) 원료 의약품으로 생약 또는 특정한 형태의 생약 추출물(연조 엑스, 건조 엑스, 추출액 등)을 선택하게 된 사유부터 해당 제조 방법을 개발하기까지의 목표와 과정을 기술한다 개발 단계(비임상, 임상, 시험 생산, 생산 증량 또는 상업용 배치 생산) 동안 수행한 생약 및 생약 추출물의 주요 제조 공정과 변화에 대하여 기재한다 ○ 3.2.S.2.6.2. 공정 표준화(Manufacturing Process Standardization) 3.2.S.2.2에서 명시된 제조 공정과 최초의 안정성 배치의 생산에 사용되는 제조 공정 간의 차이점은 3.2.S.2.6에서 비교하여 기재하여야 한다 설명되는 배치들의 분석 결과는 3.2.S.4.4에 제출한다 ○ 3.2.S.2.6.3. 규격의 확정(Specification) 활성 성분(지표 성분)을 설정하지 못한 사유 등에 대하여도 기술한다 3.2.S.3. 특성(Characterization) 3.2.S.3.1. 구조 결정 및 기타 특성(Elucidation of Structure and Other Characteristics) 생약 및 생약 추출물의 특징 등을 기술한다 생약의 경우 식물 화학적 특성, 외형 및 미세 구조, 물리화학적 특성 및 생리 활성에 대한 정보를 기재한다 생약 추출물에 대하여는 추가로 생약 추출물의 물리화학적 특성과 생리 활성에 대한 정보 및 가능하면 조성물 중 주요 성분의 구조, 물리화학적 특징과 생리 활성 등을 기재한다 Information on the physicochemical properties of herbal substance and herbal preparations should be provided. For herbal substances: Botanical, macroscopical, microscopical, phytochemical characterization, and biological activity if necessary. For herbal preparations: Phytochemical and physicochemical characterization and biological activity of herbal preparation and its main constituents, if necessary. <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 생약 및 생약 추출물의 물리화학적 특성에 대한 설명과 근거 자료를 기재한다 생약 또는 생약 추출물의 주요 성분(활성 지표 성분, 지표 성분)에 대하여도 구조와 물리화학적 특성을 기술할 필요가 있다 ○ 3.2.S.3.1.1. 생약의 특징(Characteristics of Herbal Substance) 기원 식물의 식물학적 정보, 외형적 특징(필요 시 돋보기 사용), 미세 구조적 특징(필요 시 현미경 사용)을 기술한다 또한 생약에 함유되어 있는 주요 화학 성분을 기재하고 생약 자체 또는 주요 성분의 약리 활성을 기재한다 규격에서 잘 기술된 경우 참조로 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Angelicae Gigantis Radix 기 원 Angelica gigas Nakai (산형과Umbelliferae)의뿌리.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"생약명\", \"주요성분\"], \"행\": [[\"당귀\", \"규격\"], [\"대한민국약전(KP)\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "데쿠르신, 데쿠르신안겔레이트, 노다케닌 등 이 약은 뿌리로 원뿔 모양 또는 좁은 긴 원뿔 모양이고 보통 가지가 갈리며, 길이 15∼25 cm, 지름 2∼5 cm이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "바깥면은 연한 황갈색∼흑갈색이고 고르지 않은 세로 주름이 있으며 점 모양의 수염 뿌리 자국이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "<생략> 성상 이 약의 횡단면을 현미경으로 볼 때 5∼6층의 코르크층에 이어 세포가 가로로 배열되어 있고 제1 기피부에서 목부에 이르는 유세포는 거의 사각의 벽 돌 모양이며 규칙적으로 배열되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "도관은 주로 계문 도관이나 나선문 도관이고, 유세포에는 전분립이 많이 들어있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "이 약은 약간 특유한 냄새가 있고 맛은 약간 쓰면서 달다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "<사진출처: 대조생약 품목별 안내서(2011)> ○ 3.2.S.3.1.2. 생약 추출물의 특징 (Characteristics of Herbal Preparations) 생약 추출물의 정의, 물리화학적 특징 및 화학적 조성을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "물리화학적 특징은 규격의 근거가 되는 사항을 포함하여 시험 방법, 실측치, 고찰 등이 포함될 수 있도록 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "또한 생약 추출물의 물리화학적 특징 자료로서 표준 성분 프로파일을 설정하고 이에 관한 근거 자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁ 표준 시료 선택 ⦁ 분석 방법 개발 ⦁ 분석 방법 밸리데이션(특이성, 반복성, 실험실 내 정밀성) ⦁ 성분 프로파일 설정(피크 선택 시 고려사항을 확인할 수 있는 자료 포함) ⦁ 표준 성분 프로파일 확립(크로마토그램 포함) * ‘한약(생약) 제제의 성분 프로파일 설정 가이드라인 (2016.12)’ 참조 ○ 3.2.S.3.1.3. 주요 성분의 특징 (Characteristics of Main Components) 생약 추출물 중 활성 성분, 지표 성분 등의 성분명, 구조, 물리화학적 특징, 약리 활성 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "만일 주요 성분 중 기존에 의약품의 성분으로 알려지지 않은 신물질 등 새로운 성분이 있다면 해당 성분의 구조 결정에 관한 자료와 근거 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁ 신물질에 대하여는 구조 결정에 사용된 시험법과 증거 자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.3.2. 불순물 (Impurities) 불순물에 관한 정보를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약에 대하여는 생산 및 보관, 가공 과정에서 발생될 수 있는 잠재적 오염 및 잔류 물질에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약 추출물은 생약에서 유래된 불순물을 포함하여 제조 과정 및 보관 중에 생성될 수 있는 부산물, 분해산물, 잔류 용매 등에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Information on impurities should be provided. For herbal substances: Potential contaminants originating from production and post-harvesting treatment such as pesticides and fumigants residues, toxic metals, mycotoxins, radioactive contamination and microbial contamination as well as potential adulterants should be discussed. For herbal preparations: Potential contaminants originating from the herbal drug production and post-harvesting treatment such as pesticides and fumigants residues, toxic metals, mycotoxins, radioactive contamination, microbial contamination and potential adulterants as well as residual solvents should be discussed. <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 생약에서 유래되는 잔류 및 오염 물질을 포함하여 생약 추출물의 제조 과정 및 보관에서 유래될 수 있는 불순물 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "잠재적 불순물과 실재적 불순물을 모두 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 3.2.S.3.2.1. 생약 기원의 불순물 (Impurities Originated from Herbal Substance) 생약 중의 중금속, 잔류 농약, 훈증제(이산화황 등), 곰팡이 독소, 미생물, 벤조피렌 등 잔류 및 오염 물질에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "가능하면 잠재적으로 위품에서 유래한 물질에 대한 사항도 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "각 불순물별로 불순물의 유래 원인, 분석 방법과 허용 기준을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "규정된 기준을 초과하여 검출된 불순물에 대하여는 따로 기술하고 타당성을 입증해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "실제 배치에서 검출된 잔류 오염 물질의 검출 수준에 대한 요약 자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 3.2.S.3.2.2. 생약 추출물의 불순물 (Impurities of Herbal Preparations) 제조 공정 중 혼입 및 잔류할 수 있는 불순물과 부산물 및 보관 중 생성될 수 있는 분해산물에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "각 불순물별로 원인과 분석 방법 및 허용 기준을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "허용 기준에 대하여 안전성 측면에서 타당한 근거가 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "제조 공정에서 유래된 부산물과 분해산물이 일반적인 식물 성분인지 여부 및 해당 생약 및 유사 생약에서 검출될 수 있는 성분인지에 따라 해당 성분에 대한 참고 자료를 인용하여 허용 기준의 설정 여부와 허용 기준을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "각 불순물이 실제 배치에서 검출된 검출 수준에 대한 요약 자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4. 원료 의약품 관리 (Control of Drug Substance) 3.2.S.4.1. 규격 (Specification) 생약과 생약 추출물의 규격을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Specification for the herbal substance and herbal preparation should be provided. <출처: EMA/HMPC/71049/2007 Rev. 2> 해설 ○ 3.2.S.4.1.1. 생약 (Herbal Substance) 생약의 규격은 기본적으로 공정서 또는 이와 동등 이상의 규격이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "만일 생약이 공정서에 수재되어 있지 않다면 약전과 동일한 방식으로 자가 규격(In-house specification)을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "일반적으로 다음 항목을 고려하여 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁ 정의(Definition): 식물의 학명, 사용 부위, 이명이나 속명, 사용 상태, 생약 중 지표 성분 기준 등 ⦁ 특성(Characters): 육안 및 현미경적 특성, 관능적 고유 특성 등 ⦁ 확인(Identification): 해당 성분에 특이적인 확인 시험을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "일반적으로 육안적 특징, 현미경적 특징, 크로마토그래피적 성분 분포(성분 프로파일), 화학적 반응 등을 조합하여 다른 대체 생약 또는 연관 있는 종과 구분할 수 있도록 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁ 함량(Assay): 알려진 치료적 활성 성분이나 활성 지표 성분(active marker)에 대하여 시험 방법과 효과에 근거한 허용 기준을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "활성 성분을 알지 못하는 생약의 경우 생약의 품질을 대표할 수 있는 지표 물질(analytical marker)을 적절한 수로 설정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁ 기타 시험 항목은 생약의 특성에 따라 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "- 이물질 - 회분, 산불용성 회분 - 엑스 함량 - 수분(Water content), 건조 감량(Loss on drying) - 입자 크기(Particle size) - 불순물: 무기 불순물, 중금속, 잔류 농약, 훈증제(이산화황 등), 곰팡이 독소(Mycotoxin), 미생물 한도(Microbial limit) 등 예) 시험 항목 기준 시험 방법 성상 KP ‘은행엽’에 따름 육안 검사 확인 시험 TLC: 표준액 대비 검액 반점 비교 EP, Ginkgo Leaf 줄기 5.0% 이하 이물 EP 2.8.2. 그 밖의 이물 2.0% 이하 건조 감량 11.0% 이하 EP 2.2.32. 회분 11.0% 이하 EP 2.4.16. 납 5 ppm 이하 비소 3 ppm 이하 KP 일반 시험법, 중금속 수은 0.2 ppm 이하 28.생약 시험법 카드뮴 0.3 ppm 이하 가) 총 DDT (p,p'-D, p,p'-DDE, o,p'-DDT, p,p'-DDT의 합계): 0.1 ppm 이하 KP 일반 시험법, 잔류 농약 나) 총 BHC(α, β, γ 및 δ-BHC의 합계): 0.2 ppm 이하 28.생약 시험법 다) Aldrin, Dieldrin, Endrin: 0.01 ppm 이하 총 아플라톡신 (아플라톡신 B1, B2, G1 및 G2의 합) 4.0 ppb 이하 곰팡이 독소 EP 2.8.18. 단, 아플라톡신 B1 2.0 ppb 이하 오클라톡신 A 정량법 총 플라보노이드 0.5% 이상 EP, Ginkgo Leaf ○ 3.2.S.4.1.2. 생약 추출물 (Herbal Preparations) 생약 추출물의 규격에 대하여는 각 시험 항목, 분석 방법 코드 및 허용 기준 등에 대해 표 형식으로 작성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "출하 규격(Release specification)과 유효 기간 규격(Shelf-life specification)이 따로 있는 경우 구분하여 작성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약 추출물의 규격은 다음 사항을 참고하여 필요한 항목과 허용 기준을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁ 정의: 기원 식물과 사용 부위, 추출 용매의 종류와 농도, 원생약과 추출물의 비율, 첨가된 첨가제 등 ⦁ 성상: 모양, 맛, 냄새 등 ⦁ 시험 항목 - 확인 - 수분 또는 건조 감량 - 불순물: 무기 불순물, 중금속, 잔류 농약, 훈증제, 곰팡이 독소 - 미생물, 무균, 엔도톡신 - 잔류 용매 - 함량 - 기타: 저장 방법 등 예) 시험 항목 기준 시험 방법 성상 황갈색의 가루 육안 검사 확인 시험 TLC KHP ‘은행엽엑스’ 건조 감량 5.0% 이하 KP 일반 시험법, 28.생약 시험법 총 깅콜산 5 ppm 이하 KHP ‘은행엽엑스’ KP 일반 시험법, 잔류 용매 시험법 잔류 용매 에탄올 5000 ppm 이하 * 자사 시험법인 경우 별도 표기 중금속 총 중금속 30 ppm 이하 KP 일반 시험법, 중금속 시험법 제3법 가) 총 DDT (p,p'-D, p,p'-DDE, o,p'-DDT, p,p'-DDT의 합계): 0.1 ppm 이하 잔류 농약 KP 일반 시험법, 28.생약 시험법 나) 총 BHC(α, β, γ 및 δ-BHC의 합계): 0.2 ppm 이하 다) Aldrin, Dieldrin, Endrin: 0.01 ppm 이하 총 호기성균 1×10^5 CFU/g 이하 미생물 한도 총 진균수 1×10^2 CFU/g 이하 KP 일반 시험법 시험 12. 미생물 한도 시험법 특정 미생물(대장균, 살모넬라, 녹농균, 황색포도).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "상구균) 불검출 깅코플라본배당체 22.0 % ∼ 27.0 % 총 테르펜락톤 5.4 % ∼ 12.0 % 정량법 KHP ‘은행엽엑스’ 빌로발리드 2.6 % ∼ 5.8 %.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "깅콜리드A, 깅콜리드B 및깅콜리드C의총량 2.8 % ∼ 6.2 % 3.2.S.4.2. 시험방법(Analytical Procedures) 규격 중 시험에 사용되는 시험방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "The analytical procedures used for test of the drug substance be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 3.2.S.4.1에 설정된 규격 중 각 시험법에 대하여 시험항목, 시험방법, 문서명(또는 공정 서 시험법)을 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "각 시험법에 대해 문서를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "시험항목 시험방법(코드명) 문서명 참조 항목 확인 TLC(o) x 3.2.S.4.2.3. x Ph.Eur Ph.Eur - ○ 시험법 문서는 해당 시험법이 사용되는 제품과 시험항목이 기술되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "일반적 인 내용은 시험법의 원리, 장비와 기구, 용매 및 시약, 표준액 및 검액의 조제, 검량선, 조작법, 결과평가 등이 기술되고 전형적인 시험결과가 첨부될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4.3. 시험방법의 밸리데이션(Validation of Analytical Procedures) 규격 중 시험방법에 대한 실측치를 포함한 시험법 밸리데이션을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Analytical validation information, including experimental data for the analytical procedures used for testing the herbal substance and the herbal preparation should be provided. <출처 : EMA/HMPC/71049/2007 Rev. 2＞ 해 설 ○ 3.2.S.4.2.에 기술된 시험방법 중 공정서 시험법이 아닌 항목은 시험법 밸리데이션에 대 하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "상세한 밸리데이션 보고서를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "시험법코드 시험방법 밸리데이션문서 시험참조항목 TLC identity test for o flavonoid in x extract ○ 밸리데이션 문서는 시험방법의 유형에 따라(확인시험, 순도시험(한도), 순도시험(함 량), 정량법) 수행해야할 밸리데이션 항목(정확성, 정밀성 - 반복성 및 실험실 내 정밀 성, 특이성, 검출한계, 정량한계, 직선성, 범위)을 적절하게 선정하여 수행하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4.4. 배치 분석(Batch Analyses) 배치에 대한 정보 및 배치 분석결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Description of batches and results of batch analyses should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 개발과정 중 사용된 배치 및 시판배치를 대표하는 배치에 대하여 배치분석 자료를 기 술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 3.2.S.4.4.1. 생약(Herbal Substance) 사용된 생약 배치에 대하여 요약하고 배치별 분석결과를 표 형식으로 요약한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "배치 는 실제 제조에 사용되는 여러 산지, 품종, 연령, 공급자가 포함되도록 하는 것이 좋다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "대표적 배치에 대한 성적서를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "위탁시험항목에 대하여는 위탁시험기관의 시 험성적서를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 3.2.S.4.4.2. 생약추출물(Herbal Preparation) 현재까지 생산한 각종 배치(비임상시험, 임상시험, 안정성시험, 시험생산 배치 등)와 공정 밸리데이션 및 시판배치에 대하여 분석한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "배치번호, 제조 단위, 제조일, 특징적 인 제조방법, 제조원 제조소, 용도 등이 기재된 배치 요약자료와 시험결과를 표로 정리 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "주요 배치의 시험성적서를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "또한 크로마토그램 등은 결과에 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "새로 개발되는 의약품은 개발과정이 길고 개발과정에서 여러 가지 규격 변경이 발생 할 수 있으므로, 각 배치별 특징적인 제조방법 및 규격의 변화에 대하여 배치분석 결 과로부터 최종적으로 확정된 분석법 및 결과와의 연관성에 대해 언급하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "예) 시험 로트정보 및 시험결과 제조 번호 GLE-17001 GLE-17002 GLE-17003 제조 일자 2017. 01. 01 2017. 01. 02 2017. 01. 03 제조 단위 500 kg 500 kg 500 kg 원생약 투입량 4,000 kg 4,000 kg 4,000 kg.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "최종생산량 485 kg 490 kg 487 kg 사용된 원생약제조번호 GL-1701 GL-1701 GL-1702 시험항목 기준 시험결과 GLE-17001 GLE-17002 GLE-17003 성상 황갈색의가루 적합 적합 적합 확인시험 TLC 적합 적합 적합 건조감량 5.0 % 이하 3.5% 3.2% 3.9% 총깅콜산 5 ppm 이하 2.5 ppm 2.0 ppm 1.5 ppm 잔류용매 에탄올5000 ppm 이하 250 ppm 300 ppm 270 ppm 중금속 총중금속30 ppm 이하 적합 적합 적합 가) 총 DDT (p,p'-D, p,p'-DDE, o,p'-DDT, p,p'-DDT의 합계) : 0.1 ppm 이하.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "나) 총BHC (α,β,γ및δ-BHC의합계) : 0.2 ppm 이하 다) Aldrin, Dieldrin, Endrin : 0.01 ppm 이하.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "잔류농약 적합 적합 적합.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "총호기성균 1×10^5 CFU/g 이하 < 100 < 100 < 200 총진균수 1×10^2 CFU/g 이하 < 10 < 10 < 10 특정미생물(대장균, 살모넬라, 녹농균).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "황색포도상구균) 불검출 불검출 불검출 불검출 미생물 한도시험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "깅코플라본배당체22.0% ∼27.0% 25.0% 25.4% 24.9% 총테르펜락톤5.4% ∼12.0%.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "8.5% 8.9% 9.0% 정량법 빌로발리드2.6% ∼5.8% 4.0% 4.2% 4.1%.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "깅콜리드A, 깅콜리드B 및깅콜리드C.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "의총량 2.8% ∼ 6.2% 4.5% 4.7% 4.9%.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.4.5. 규격설정근거(Justification of Specification) 규격설정에 대한 근거를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Justification for the drug substance specification should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○원료의약품의 규격에 대하여 시험항목 설정, 시험방법, 허용기준을 포함한 규격의 타 당성에 대한 근거에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 3.2.S.4.5.1. 생약(Herbal Substance) 공정서 규격이 아닌 생약에 대하여 또는 공정서 규격과 달리 설정하는 경우 시험항목 별로 규격의 타당성을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약의 특성(흡습성 여부 등), 출처(재배환경, 재배조 건, 가공법 등), 사용할 제제의 제형과 요구되는 생체이용률 등을 고려하여 시험항목 설정의 타당성, 시험방법의 선택성과 특이성, 허용기준의 타당성 등 모든 면에서 종합 하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약의 규격은 일반적으로 다음 사항과 연계되어 확보되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁식물의 특징, 식물 가운데 해당 생약의 식물학적 특성(속, 종, 품종, 유전자 변형 등) ⦁육안 및 현미경적 특성 여부 ⦁알려진 치료적 활성성분 여부, 활성 지표성분, 독성 성분 등 ⦁생물학적 편차, 지역적 편차, 과거의 배치 분석자료 ⦁재배, 수확, 건조 및 가공 조건 ⦁화학적 처리 ⦁성분프로파일, 안정성 ○ 3.2.S.4.5.2. 생약추출물(Herbal Preparation) 생약추출물의 규격설정의 근거를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "현재까지 생산한 모든 배치 분석 결과 및 안정성 시험결과를 고려하여 규격 중 각 시험항목의 설정여부, 시험방법 및 허용기준 의 타당성에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "상업용 또는 개발 단계의 파일롯(pilot) 생산 스케일로 제조된 원료의약품의 성적을 근거로 하는 것을 권장하나 이전의 비임상, 임상, 안정성 시험 등에 사용한 배치결과를 고려하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "또한 배치분석 결과 외에도 안정성 결 과, 독성 시험결과 등을 고려하되 제안된 규격은 분석 및 생산에서의 변수를 고려하여 적당하게 설정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약추출물의 규격의 타당성은 다음 사항과 관계가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁생약의 품질 ⦁생약추출물의 추출용매, 제조방법, 물리적 상태, 수득률에 따른 특정 시험의 면제 또 는 축소 ⦁활성성분의 약리학적 및 임상적 허용기준 ⦁지표성분의 특징과 함량 범위 ⦁독성 성분의 존재 여부 및 허용 기준 ⦁구성성분 프로파일 및 안정성 ⦁건조 조건에 따른 미생물오염 가능성 ⦁비임상 및 임상 시험에 사용한 배치의 안전성 및 유효성 관련 사항 ⦁완제의약품의 용법·용량에 따른 생약추출물 투여량 3.2.S.5. 표준품 또는 표준물질(Reference Standards or Materials) 시험에 사용한 표준품 또는 표준물질에 대해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Information on the reference standards or reference materials used for testing of the herbal substance and the herbal preparation should be provided. <출처 : EMA/HMPC/71049/2007 Rev. 2＞ 해 설 ○ 생약추출물의 시험에 사용한 표준품 또는 표준물질에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "우선 사용된 표 준품 또는 표준물질의 명칭과 용도(확인, 함량, 순도시험 등), 등급(official source 등) 을 요약한 개요를 표 형식으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 각 표준품별로 특성(구조, 보관조건, 구입처 등), 확인, 순도, 불순물 등 규격에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "Official source(대한약전 표준품, USP RS, EP CRS, BP CRS, JP RS)에서 구 입한 표준품이라면 이를 기재하여야 하며 official source가 아닌 경우 fully characterized(함량분석과 같은 정량분석용 목적으로 사용하는 일차표준품의 경우 성 상, 확인시험, 원소분석, 핵자기공명분석, 질량분석, 녹는점 측정, 순도시험 등을 수행 하여 그 구조와 순도를 명확하게 규명해야 한다.) 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "즉 이들에 대한 시험방 법과 분석결과를 표 형식으로 정리한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "표준품 성적서를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 생약 또는 생약추출물의 시험을 위하여 화학적으로 규명된 표준물질 외에도 식물 표 본, 생약추출물(엑스, 틴크 등), 혼합물질이 표준품으로 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "생약에서 유래 된 표준품은 그 기원, 제조방법, 물리화학적 특징, 성분프로파일, 순도, 규격 등이 기술 되어야 하며 용도에 적합한 품질을 구비하였음을 보여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "해당 표준품의 적절한 관리에 관한 사항도 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.6. 용기 및 포장(Container Closure System) 일차 포장재의 구성성분과 기준 및 시험방법을 포함하는 용기 및 포장재에 대한 설 명을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "성상, 확인시험 및 필요시 주요 치수를 포함한 적합한 도면을 포함 하고, 공정서 이외의 시험방법은 밸리데이션 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "비기능성 이차 포장 재에 대해서는 간단하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "기능성 이차 포장재에 대해서는 추가정보를 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "예를 들면 적합성은 재료의 선택, 습기나 빛으로부터의 보호, 용기흡착, 유리 또는 구성성분의 안전성을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "A description of the container closure system(s) should be provided, including the identity of materials of construction of each primary packaging component, and their specifications. The specifications should include description and identification(and critical dimensions with drawings, where appropriate). Non-compendial methods(with validation) should be included, where appropriate. For non-functional secondary packaging components(e.g., those that do not provide additional protection), only a brief description should be provided. For functional secondary packaging components, additional information should be provided. The suitability should be discussed with respect to, for example, choice of materials, protection from moisture and light, compatibility of the materials of construction with the drug substance, including sorption to container and leaching, and/or safety of materials of construction. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 포장 및 용기에 대한 설명과 원료의약품과의 적합성에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 3.2.S.6.1. 일차포장재(Primary Packaging Component) 일차 포장재는 원료의약품의 안정성에 영향을 줄 수 있으므로 그 재질의 성분과 규격 을 포함하여 상세한 설명을 기재하여야 하고 시험성적서를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "필요시 주요 치 수를 포함한 적합한 도면을 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "규격 시험 중 공정서 이외의 시험방법은 밸리데 이션 자료를 포함하여 함께 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 3.2.S.2.6.2. 이차포장재(Secondary Packaging Component) 기능이 없는 이차 포장재(추가보호기능이 없는 것 등)에 대해서는 외관형상에 관한 간 결한 기술이면 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "기능이 있는 이차 포장재에 대해서는 추가된 기능과 기능의 적합 성에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "○ 3.2.S.2.6.3. 적합성(Compatability) 용기 및 포장의 적합성(suitability)에 대하여 기술하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "일반적인 원료의약품의 포장에서 고려할 사항 외에도 생약추출물의 특성에 근거한 적절한 설명과 근거자료가 첨부되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "⦁원료의약품의 물리화학적 특성(흡습성, 광분해성 등)에 따른 소재의 적합성 ⦁포장용기의 기밀도, 방습성, 차광성 등에 대한 고찰 ⦁원료의약품과 용기의 반응성(흡착, 착색, 물질유리 등)에 대한 고찰 ⦁생약추출물이 액체(연조엑스, 추출액 등)일 경우 특히 용출에 대한 부분 ⦁특히 주사제 또는 액제에서 바이알의 고무마개, 비닐재질 포장재 등의 경우 안전성 에 관한 문제 ⦁용기와 관련된 공급처의 안전성에 관한 확인서가 있다면 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "3.2. 품질평가 보고서(BODY OF DATA)",
+      "path": null,
+      "ko_txt": "3.2.S.7. 안정성(Stability) 3.2.S.7.1. 안정성 요약 및 결론(Stability Summary and Conclusions) 수행한 시험의 유형(가속, 장기, 가혹), 수행계획서, 시험의 결과를 요약하여 기재한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "The types of studies conducted, protocols used, and the results of the studies should be summarized. The summary should include results, for example, from forced degradation studies and stress conditions, as well as conclusions with respect to storage conditions and retest date or shelf-life, as appropriate. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 안정성시험은 원료의약품의의 온도, 습도, 빛 등 다양한 환경요인의 영향 하에서의 품 질의 변화를 평가하고 보관조건, 사용기간 설정에 필요한 정보를 얻기 위해 실시하는 시험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "이에 장기보존시험, 가속시험, 광안정성시험, 중간적 보존시험, 가혹시험, 분 해물 유도시험(forced degradation study)을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.S.7.1.1. 일반 정보(General Information) 안정성시험에 사용한 일반 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "사용한 배치 정보, 시험조건, 보관기간 및 시험시기, 용기 및 포장, 보관 및 시험기관 등에 대한 정보를 표 형식으로 요약하여 제 시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "예) 안정성시험 배치정보 안정성시험 관리번호 제조번호 제조일자 제조크기 kg 포장일시 포장형태 예시) LDPE bag 안정성시험 조건 25℃/60%RH 30℃/60%RH 40℃/75%RH 안정성시험 시작일 보관검체 수량 안정성시험 기간(월) 36 36 12 안정성시험 시점(개월) 0, 3, 6, 9, 12, 18, 24, 36 ○ 3.2.S.7.1.2. 안정성시험 프로토콜(Study Protocol) 안정성시험 수행에 관한 프로토콜을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "장기보존시험, 가속시험, 중간조건시험, 가혹시험 별로 시험조건, 포장용기, 시험주기 및 기간, 시험항목, 시험방법 및 허용기 준 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "안정성시험에서 시험항목은 ‘기준 및 시험방법에 설정한 전 항목’에 대하여 시험하는 것을 원칙으로 하나, 경시변화에 해당되지 않은 시험항목은 명확한 사유를 근거로 일부 중간시점 시험을 생략할 수 있으며, 이때 시험항목 생략에 대한 사유를 함께 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.S.7.1.3. 요약 및 결론(Summary and Conclusion) 현재까지 수행한 모든 안정성시험의 종류별로 시험결과를 요약기술하고 이를 근거로 시험결과에 대한 시험책임자의 종합의견(보관조건과 사용기간 등과 관련된 결론)을 간략하게 제시하고, 서명한 자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.S.7.2. 허가 후 안정성 시험계획 및 이행 서약(Post-approval Stability Protocol and Stability Commitment) 허가 후 안정성 시험 계획을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "The post-approval stability protocol and stability commitment should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 현재까지의 장기보존 시험자료가 유효기간을 포함하고 있지 않을 때 이후의 안정성시 험 계획과 이를 통해 유효기간을 입증하겠다는 이행 내용을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.S.7.3. 안정성자료(Stability Data) 안정성 시험 결과는 표, 그래프, 설명과 같은 적절한 양식으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "시험방법 에 대한 밸리데이션 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "Results of the stability studies (e.g., forced degradation studies and stress.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "conditions) should be presented in an appropriate format such as tabular, graphical, or narrative. Information on the analytical procedures used to generate the data and validation of these procedures should be included. <출처 : ICH-M4Q(R1)＞ 해 설 ○지금까지 수행한 모든 안정성시험의 개별 안정성 시험자료를 표, 그래프, 문장 등의 적절한 방법으로 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.S.7.1. 안정성시험 요약 및 결론(Stability Summary and Conclusions)에서 언급한 안정성시험 순서에 따라 각 배치별로 수행한 시험의 유형(장 기, 가속, 가혹, 광 안정성 등)에 따라 분석결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○3.2.S.7.3.1. 안정성시험 결과(Stability Results) 각 배치별 안정성시험 조건, 기간에 따라 수행된 안정성시험 결과를 시험항목별로 표 형식으로 기재하고, 시험성적서 및 시험결과의 raw data(TLC chromatogram, HPLC chromatogram)등을 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "또한, 함량 등의 유의적인 변화가 없음 또는 있음을 나 타내기 위하여 주요 항목에 대하여는 그래프 등을 이용하여 추이를 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"안정성시험 결과표\", \"열\": [\"시험결과\", \"0개월\", \"3개월\", \"6개월\"], \"행\": [], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "36개월 ’14.06.01 ’14.09.01 ’14.12.01.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"시험항목\", \"기준\", \"결과1\", \"결과2\", \"결과3\", \"결과4\"], \"행\": [[\"성상\", \"\", \"황갈색의가루\", \"적합\", \"적합\", \"적합\"], [\"확인시험\", \"TLC\", \"적합\", \"적합\", \"적합\", \"적합\"], [\"건조감량\", \"5.0 % 이하\", \"3.5%\", \"3.5%\", \"3.6%\", \"3.6%\"], [\"잔류용매\", \"에탄올5000 ppm 이하\", \"250 ppm\", \"-\", \"-\", \"245 ppm\"], [\"중금속\", \"총중금속30 ppm 이하\", \"적합\", \"-\", \"-\", \"적합\"], [\"잔류농약\", \"총DDT 0.1 ppm 이하\", \"적합\", \"-\", \"-\", \"적합\"], [\"\", \"총BHC 0.2 ppm 이하\", \"\", \"\", \"\", \"\"], [\"\", \"Aldrin, Dieldrin, Endrin : 0.01 ppm 이하\", \"\", \"\", \"\", \"\"], [\"총호기성균\", \"1×105 CFU/g 이하\", \"< 100\", \"<100\", \"<200\", \"< 100\"], [\"총진균수\", \"1×102 CFU/g 이하\", \"<10\", \"<10\", \"<10\", \"<10\"], [\"미생물한도시험\", \"특정미생물(대장균, 살모넬라, 녹농균, 황색포도상구균) 불검출\", \"불검출\", \"불검출\", \"불검출\", \"불검출\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "깅코플라본배당체 정량법 25.0% 25.0% 25.1% 24.0% 22.0 %∼27.0 % 등 ○ 3.2.S.7.3.2. 시험방법(Analytical Procedure) 안정성시험의 각 시험항목 별 시험방법을 요약한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "다른 목차에서 기술된 경우 참고 목차를 기재하고 상세한 내용은 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.S.7.3.3. 시험법 밸리데이션(Analytical Method Validation) 안정성시험의 각 시험 항목별 시험방법에 따른 밸리데이션 문헌을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "공정서 시험방법이 아닌 경우 밸리데이션을 실시하고 밸리데이션 보고서를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "다른 목 차에서 기술된 경우 참고 목차를 기재하고 상세한 내용은 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.P. 완제의약품(DRUG PRODUCT) 해 설 ○ 원료의약품으로 생약 또는 생약추출물을 사용한 천연물의약품도 완제의약품에 대하여는 M4Q에 따른 목차와 기술내용을 모두 적용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.P.1. 완제의약품의 개요와 조성(Description and Composition of the Drug Product) 완제의약품의 개요와 조성에 대한 사항을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "예를 들면: · 제형에 대한 설명 · 조성. 즉, 제제 중의 모든 함유성분의 종류, 함유 단위, 배합목적 및 규격 · 첨부용제(희석제)에 대한 설명 · 제제 및 첨부 용제의 용기 및 마개의 유형 A description of the herbal medicinal product and its composition should be provided. The information provided should include, for example: · Description of the dosage form; · Composition, i.e., list of all components of the dosage form, and their amount on a per-unit basis(including overages, if any) the function of the components, and a reference to their quality standards(e.g., compendial monographs or manufacturer's specifications) · Description of accompanying reconstitution diluent(s); and · Type of container and closure used for the dosage form and accompanying reconstitution diluent, if applicable. <출처 : EMA/HMPC/71049/2007 Rev. 2＞ 해 설 ○ 완제의약품의 제형, 조성 및 용기에 관한 개요를 작성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "공급되는 완제의약품에 포 함된 모든 물품을 항목별로 분리하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.P.1.1. 제형 및 조성(Dosage Form and Composition) 고형제의 경우 단위 당, 액제나 주사제의 경우 일정 용량 단위(예: 1 mL. 100 mL) 당 성상과 조성을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "주성분 및 첨가제의 명칭, 규격, 함량 및 기타 주요사항을 기 재하며 표 형식으로 정리하는 것이 좋다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "첨부 용제 등이 있을 경우에는 첨부 용제에 대하여는 별도의 표로 정리한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁단위 제형(정, 캡슐, 액, 연고 등)의 성상은 색상, 형태, 분할선의 유/무, 각인, 크기 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁명칭은 상품명이 아닌 화학명으로 생략되지 않은 이름으로 기재하고 공정서에 수재 된 성분은 공정서명을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁명칭 중 주성분(생약 또는 생약추출물)에는 활성성분 또는 지표성분의 명칭과 함량 또는 함량범위를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁부형제 또는 안정제 등 첨가제를 사용한 주성분은 비고에서 따로 표시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁배합목적은 주성분 또는 첨가제의 경우 부형제, 결합제, 코팅제 등으로 목적에 맞게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁규격은 공정서 또는 자사규격(in-house)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁함량은 단위 제형당(예: 1정 중 또는 100 mL 중) 이론적 함유량을 기재하고 별도로 상대적 함량비(전체 조성에 대한 % 함량비)를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁비고에서 필요한 경우 활성성분 또는 지표성분의 양을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "점도가 있는 첨가 제(예: HMPC 등)의 경우 점도 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.P.1.2. 용기 및 마개(Container and Closure) 제제의 공급되는 용기의 명칭, 성상(형태, 크기, 색상 등), 용량, 재질 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "첨부용제 또는 보조용구가 있을 경우 이들에 대하여도 따로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.P.2. 개발경위(Pharmaceutical Development) 개발경위 항은 제형, 제제설계, 제조공정, 용기 및 마개, 미생물학적 특성, 사용방법 이 신청서류에서 정한 목적에 적절한지를 확인하기 위해 수행된 개발과정 및 결과 를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "또한 배치 간 재현성, 제제의 성능(product performance), 완제의약품 품질에 영향을 미칠 수 있는 제제 조성, 주요 공정조건을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "특정연구 및 문 헌에서 얻어진 추가 자료나 결과를 본 항에 기재하거나 첨부할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "또한 신청 서류 중 비임상시험 또는 임상시험의 자료 일부가 참조로 인용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "The Pharmaceutical Development section should contain information on the development studies conducted to establish that the dosage form, the formulation, manufacturing process, container closure system, microbiological attributes and usage instructions are appropriate for the purpose specified in the application. The studies described here are distinguished from routine control tests conducted according to specifications. Additionally, this section should identify and describe the formulation and process attributes(critical parameters) that can influence batch reproducibility, product performance and drug product quality. Supportive data and results from specific studies or published literature can be included within or attached to the Pharmaceutical Development section. Additional supportive data can be referenced to the relevant nonclinical or clinical sections of the application. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 의약품 개발 부분에서는 선정된 제형과 조성이 목적하는 용도에 타당함을 입증하는 정보를 기술하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "의약품 및 제조 공정의 개발 과정을 이해하는데 충분한 정보 를 각 부분에 포함시켜야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "명확성과 심사에 도움이 되는 경우에는 요약표와 그래 프를 적극 활용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 제품 품질에 중요한 제조 공정과 용기포장 시스템, 첨가제, 약효성분에 관한 사항을 결정하고, 관리 전략의 타당성을 입증해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "핵심조성의 특성 및 공정변수를 파악 하고 이것의 편차가 의약품 품질에 어느 정도 영향을 미치는지 평가해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.P.2.1. 완제의약품의 조성(Components of the Drug Product) 완제의약품의 조성에 대한 원료의약품과 각 첨가제의 배합에 대한 고찰과 적합성을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "The compatibility and discussion of the drug substance with excipients should be described. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 3.2.P.1에 기술된 원료의약품과 첨가제에 대하여 명칭, 배합목적, 단위 제형 당 중량, 규격 등을 표로 요약한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "세부 항목에서 배합목적의 적합성에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.P.2.1.1. 원료의약품(Drug Substance) 완제의약품의 제형선택의 주요 사유가 되는 원료의약품(생약추출물)의 특성이 있다면 이를 기술하고 완제의약품의 성능에 영향을 미칠 수 있는 원료의약품의 중요한 물리 화학적 특징에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "생약추출물의 용해도, 수분 함량, 원생약 대비 추출물 의 수득률 등은 조성의 개발에 있어 중요한 요소가 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "부형제나 안정제가 첨 가된 생약추출물은 그 타당성에 대하여 간략히 기술하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "보다 상세한 사항은 3.2.S.2.6.에 기재할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "여러 종류의 생약 또는 생약추출물을 사용하는 복합제의 경우 원료의약품 상호간의 적합성에 대하여도 기술되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.P.2.1.2. 첨가제(Excipients) 각 첨가제 별로 의약품 제제에서의 일반적인 용도와 특징을 기술하고 해당 제제에서 선택 사유에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "최종제품에 존재하거나, 존재하지 않는(예: 공정보조물) 모든 성분을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "최종 제품에 존재하지 않는 성분은 따로 표기한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁첨가제가 의약품의 성능(예: 안정성 등) 또는 제조성에 영향을 줄 수 있는 특성을 기 재하고 각 첨가제의 해당 기능과 관련하여 선택의 타당성을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁특정 규격 또는 등급의 첨가제(예: HPMC)를 사용해야할 필요성이 있을 경우 이에 대한 선택사유와 근거를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁동물유래 첨가제(예: 락토스 등)의 경우 TSE 위험도에 대한 안전성과 관련된 기술을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁필요한 경우 첨가제 사이의 조화성도 확립해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁원료의약품 제조공정 중 또는 제조 후 들어간 첨가제에 대하여는 특별히 원료의약품 의 성능(예: 안정성 등)의 관점에서 타당성이 기술되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.P.2.2. 완제의약품(Drug Product) 완제의약품의 품질에 중요한 의약품 특징과 더불어 의약품 제제 개발에 대한 내용과 사용목적에 적합함에 대한 내용을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "A summary of the formulation development of drug products and the main properties including the physiochemical and biological properties should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 완제의약품 품질의 핵심적인 특성을 포함해 제형 및 조성의 개발 과정을 요약 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.P.2.2.1. 제제화 개발(Formulation Development) 투여경로와 사용목적을 고려하여 의약품의 제제 개발에 대한 내용과 제형 및 조성의 개발과정을 요약 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "우선 제제개발의 초기부터 마지막까지 제형 설계의 주요 내용을 요약하여 표로 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "상세한 기술은 초기 개념부터 최종 설계에 이르는 의 약품 제제 설계의 전개방식을 집중해서 다루어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁전통적인 사용방법, 문헌정보 및 유사의약품의 개발을 통해 얻은 경험 등을 고려하 여 요약한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁주요 제형의 개발과 선택의 타당성이 드러나야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁조성에 포함된 첨가제의 범위에 대한 타당성을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁특별한 설계(예: 분활선, 과충진, 위조방지 기술 등)에 대하여는 사유와 타당성을 뒷 받침하는 정보를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁개발 과정 중 제형 및 조성의 변경에 대하여 이를 연결하는 생체 외 비교시험(예: 비 교용출) 또는 생체 내 비교시험(예: 생물학적동등성)에 따른 정보를 요약하고 근거자 료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁주요 임상시험 배치와 일차 안정성 배치의 조성의 변화가 있으면 이를 정확히 설명 하고 사유와 근거를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "예) 개발과정 중 사용된 완제의약품의 구성 및 조성 조성 최종 조성 Batch no.1 Batch no.2 Batch no.x.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "안정성 시판 배치 1상 3상 초기 □□건조엑스(○○○으로서 △△ mg).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "첨가제1 첨가제2 ○3.2.P.2.2.2. 과량 투입(Overage) 완제의약품의 조성 중 특정 성분의 과량 투입이 있는 경우 이를 설명하고 타당성을 기 술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "일반적으로 허가된 분량을 초과한 원료의약품의 과다투입은 일반적으로 적절 하지 않으며 권장되지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "과량투입이 필요한 경우(예: 문서화된 제조손실의 보존, 수분보정 등)에는 완제의약품의 안전성과 유효성의 관점에서 논의되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "과량투 입에 대해서는 최종 완제품에 과량투입량이 존재하거나 존재하지 않는 경우 모두 그 타당성과 근거자료를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "⦁과량투입량 ⦁과량투입 사유 ⦁과량투입의 타당성에 대한 사유 ○3.2.P.2.2.3. 물리화학적 및 생물학적 특징(Physicochemical & Biological Properties) 완제의약품의 안정성 또는 제조가능성(manufacturability)과 관련된 물리화학적 및 생 물학적 특성을 파악하고 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "특정한 물리화학적 성질(예: pH, 삼투압, 용해성, 입자크기 등) 및 생물학적 특성(면역능 등)이 제제에 요구되는 사유 및 해당 특성이 제 제에 미치는 영향, 이를 조절하기 위한 노력 등을 요약해서 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "물리화학적 특징 이 규격 중 특정 항목(예: 용출)의 설정 또는 비설정 근거가 되는 경우 이를 기재하고 시험자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.P.2.3. 제조공정 개발(Manufacturing Process Development) 3.2.P.3.3 제조공정 및 공정관리 항에 기재한 제조공정의 선정과 최적화에 대해 특히 중요한 측면에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "멸균과정이 있을 경우 그 방법을 기재하고 타당성 을 입증한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "주요 임상시험용 배치(pivotal clinical batches)의 제조공정과 3.2.P.3.3. 제조공정 및 공정관리 항에 기재한 공정 사이에 완제의약품의 성능에 영 향을 줄 수 있는 차이점에 대하여 고찰한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "The selection and optimization of the manufacturing process described in.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "3.2.P.3.3, in particular its critical aspects, should be explained. Where relevant, the method of sterilization should be explained and justified. Differences between the manufacturing process(es) used to produce pivotal clinical batches and the process described in 3.2.P.3.3 that can influence the performance of the product should be discussed. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 제조공정의 선정, 관리 및 개발과정 중 개선사항을 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "sentence",
+      "section": "다. 보관조건과 사용기간 등과 관련된 결론을 기재한다.",
+      "path": null,
+      "ko_txt": "제조공정 개발의 개념을 제시하고 개발순서에 따라 공정개발의 목표, 문제점 및 개선사항을 기술하는 것이 좋.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁공정개선을 위한 가능한 제조공정 옵션과 함께 핵심 조성 특성을 고려하는 것이 중 요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "해당 제품에 사용할 설비의 적절성도 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁공정개발연구에서 확보한 지식은 의약품 규격의 타당성을 뒷받침 하는데 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁제조공정 개발 프로그램을 통해 원하는 품질의 제품을 확보하였음을 입증하기 위해 모니터하거나 관리해야 할 중요한 파라미터(예: 제립종말점)를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁필요한 경우에는 이화학적 특성뿐만 아니라 미생물학적 특성도 감안하여 공정개발 연구를 실시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁무균제품인 경우에는 의약품 및 일차 포장재의 적절한 멸균방법을 선택하고 이 방법 을 선택한 타당성을 제시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁공정조건 및 설비의 적절성과 개선사항도 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁주요 리스크 요인과 리스크 감소를 위한 공정개발 상의 노력과 결과를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁주요 임상시험 또는 안정성 배치 생산을 위한 제조공정과 시판배치의 제조공정 사이 에 유의한 차이가 있다면 이를 기술하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "공정 변화에 따른 제품의 성능 및 품질에 미치는 영향을 표로 요약하고 시험자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "예) 제조공정 변화에 따른 품질 영향 평가 제조공정/완제 평가 결과 공정단계 조건변화 균일성 수분 입도분포 경도 마손도 붕해 혼합시간 N N W M / N.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "전혼합 rpm S 과립제조량 과립 rpm 연합시간 건조온도 건조 건조시간.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "* /: 적용안함, S: 영향 큼, M: 보통, W: 적음, N: 없음 3.2.P.2.4. 용기 및 포장(Container Closure System) 저장, 운반(선적) 및 완제의약품의 용기 포장에 사용된 용기 및 포장의 적합성 (suitability)을 고찰한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "이 항에는 재료의 선택, 습기와 빛으로부터 보호, 직접용기 구성성분과 의약품과의 적합성(compatibility)(용기 흡착이나 유리 포함), 직접용기 구성 재료의 안전성, 성능(첨부한 투약용기의 재현성 등)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "The suitability of the container closure system(described in 3.2.P.7) used for the storage, transportation(shipping) and use of the drug product should be discussed. This discussion should consider, e.g., choice of materials, protection from moisture and light, compatibility of the materials of construction with the dosage form(including sorption to container and leaching) safety of materials of construction, and performance(such as reproducibility of the dose delivery from the device when presented as part of the drug product). <출처 : ICH-M4Q(R1)＞ 해 설 ○ 제품의 용기 및 포장과 이 방식을 선택한 사유를 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "1차 용기, 2차 용기 및 투 약 및 분할에 사용하는 용기(예: dropper pipette, pen injection 등) 등으로 분류하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "필요하다면 대량의약품용 보관 및 운송을 위한 용기에 대하여도 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "포장용기의 상세한 사항은 3.2.P.7.에 기술하고 용기의 선택과 완제의약품의 사용목적 에 타당함에 대한 설명과 근거를 중심으로 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁습도나 빛으로부터의 보호의 필요성에 따른 구성 재질의 선정을 고려한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁제품의 제형적 특성과 재질의 안전성을 고려한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁용기의 재질과 제품과의 상호적합성(용기 흡착 및 유출 포함)을 고려한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁용기와 라벨 사이의 상호작용 가능성도 고려한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁용기․마개의 밀봉이 완전한 상태임을 증명하기 위해 실시한 연구를 기술하고 성적 서 등을 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁투약 장치를 사용하는 용기(예 : 점적피펫, 펜 주사장치 등)의 경우, 가능한 제품 사용 상황을 모의시험조건에서 정확한 투여량이 재현성 있게 전달되는지를 입증할 필요 가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "해당 시험결과를 첨부할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "(참고 1) 의약품 제제의 종류에 따른 포장 구성요소의 고려 사항의 예 포장 구성요소 - 제형 간 상호작용 가능성 투여경로에 따른 위험도 높음 보통 낮음 흡입제, 주사/주입제 조제용 멸 가장 높음 주입 혹은 주사제 균 분말; 흡입용 분말.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "액상 및 반고형 안약과 높음 비강용제; 피부용 연고 피부용 및 경구투약용.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "낮음 피부용 또는 경구용 분말 연질/경질 캅셀제 및 정제 액제 및 반고형 제제 (참고 2) 기초포장재의 영향 유리용기 알칼리 용출 고무제품 흡착, 비흡착, 입자방출 흡착(작용물질과 보존제의 손실), 비흡착/침투(의약품성분과의 반응, pH변 플라스틱용기 경, 환원/산화불순물), 삼투(기체, 에텔류, 미취, adhesion labeling), 광투과성 플라스틱폴리 수증기 투과, 광투과성 금속용기 부식, 내부보호 라커링 3.2.P.2.5. 미생물학적 특성(Microbiological Attributes) 필요한 경우 제형의 미생물학적 특성(예: 비무균 제품은 항균 효과가 있는 보존제를 함유하는 경우 보존시스템의 선정과 효능을 포함한다)을 고찰한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 391,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "무균 제품은 미 생물 오염을 방지하기 위한 용기 및 포장의 보전성(integrity)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 392,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "Where appropriate, the microbiological attributes of the dosage form should be discussed, including, for example, and the selection and effectiveness of preservative systems in products containing antimicrobial preservatives. For sterile products, the integrity of the container closure system to prevent microbial contamination should be addressed. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 의약품의 미생물학적 특성에 대해 포괄적이고도 상세한 사항을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 393,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "비무균 제 품의 경우 다음 사항을 고려하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 394,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁생약추출물의 함유 성분 등으로 인하여 내재적으로 항균성(antimicrobial effectiveness)을 갖는 제품이 있을 수 있으며 이를 기술하고 항균 효과에 대한 연구 자료 등을 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 395,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁보존제를 함유한 제품은 보존제의 선정사유를 제품과의 적합성 면에서 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 396,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁보존제의 최저 농도가 보존력시험에서 미생물 제어에 효과적임을 증명해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 397,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁기타 제품 중에 추가의 항균 또는 보존 작용을 나타내는 성분 등이 있을 경우 이에 대하여도 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 398,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁미생물오염을 방지하기 위한 제조설비의 관리와 추가된 공정과정에 대하여 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 399,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "○ 무균제품의 경우 다음 사항을 고려하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 400,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁제조공정 중 멸균단계 선정과 멸균방법의 타당성 ⦁멸균공정에 대한 공정관리 내용과 배치분석 자료 ⦁이 후의 오염을 방지하기 위한 제조설비 및 추가 공정과정 관리 사항 ⦁미생물 오염 예방과 관련한 용기 및 포장의 완전성(integrity) 3.2.P.2.6. 적합성(Compatibility) 완제의약품이 희석용제 또는 투약용기와의 적합성(예: 용액 중 원료의약품의 침전, 주사용기에 흡착, 안정성)을 기재하고, 첨부문서 등에 표시할 필요한 정보를 기재한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 401,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "The compatibility of the herbal medicinal product with reconstitution diluent(s) or dosage devices(e.g., precipitation of drug substance in solution, sorption on injection vessels, stability) should be addressed to provide appropriate and supportive information for the labeling. <출처 : EMA/HMPC/71049/2007 Rev. 2＞ 해 설 ○ 분말의약품으로서 희석용제를 사용하여 용해시키거나 희석시켜 사용하는 의약품의 경우 희석액과 조제를 위한 용기 및 포장, 장치 등과의 상호적합성에 관한 정보를 기 술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 402,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "관련된 사항은 라벨(사용설명서)에 희석 또는 혼합에 관한 정보를 표시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 403,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "투약을 위한 투약용기와의 적합성에 대하여도 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 404,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.P.3. 제조(Manufacture) 3.2.P.3.1. 제조원(Manufacturer) 수탁업소를 포함한 각 제조원, 시험기관의 각 명칭, 주소, 책임범위를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 405,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "The name, address, and responsibility of each manufacturer, including contractors, and each proposed production site or facility involved in manufacturing and testing should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 완제의약품의 제조, 포장, 공급 및 시험(공정조절 시험 포함)에 관련된 업체에 대하여 각각 제조소명, 주소, 책임범위를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 406,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "동일한 제조나 시험에 대하여 복수의 업체 가 관련되어 있을 때는 각각의 책임범위와 우선순위를 구분하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 407,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "여러 시설 이 있는 제조소에서는 해당 의약품의 제조와 관련된 건물번호 등 구체적인 확인정보 를 명확히 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 408,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "무균공정을 포함하는 제조소의 경우 무균지역을 따로 표시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 409,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.P.3.2. 배치 조성(Batch Formula) 배치 조성은 제조과정에서 사용되는 제제의 모든 성분에 대하여 과다 투입량을 포 함하여 배치 당 분량, 규격(quality standard)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 410,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "A batch formula should be provided that includes a list of all components of the dosage form to be used in the manufacturing process, their amounts on a per batch basis, including overages, and a reference to their quality standards. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 시판배치의 표준 제조규모에서 주성분을 포함한 각 성분의 단위 함량과 배치 당 투입 량을 표 형식으로 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 411,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "과다투입량(Overages)이 있을 경우 이를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 412,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.P.1 에 기재한 내용을 참고사항으로 인용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 413,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.P.3.3. 제조공정 및 공정관리(Description.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 414,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "of Manufacturing Process and.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 415,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "Process Controls) 제조공정의 단계, 어느 단계에서 물질이 공정에 투입되는 지에 대한 흐름도를 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 416,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "주요 공정(critical step)과 공정관리, 반제품의 시험 또는 최종제품 품질관리가 이루어지는 단계를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 417,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "포장을 포함하여 단계별 제조공정과 생산규모를 상세 하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 418,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "새로운 공정 또는 완제의약품 품질에 직접적으로 영향을 미치는 기 술과 포장작업(Novel processes or technology and packaging operation)은 보다 상 세하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 419,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "장비는 관련된 유형(예: tumble blender, in-line homogenizer)과 작업 용량에 따라 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 420,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "각 제조공정 단계별로 시간, 온도 또는 pH 등 적절한 공정 확인지표를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 421,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "각 지표의 수치는 범위로 표시할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 422,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "주요 공정에 대한 수치 범위는 3.2.P.3.4. 주요 공정 및 반제품 관리 항에서 설정 근거를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 423,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "특별한 경우, 환경적 조건 (예: 발포정에서의 낮은 습도)을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 424,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "원료 등의 재가공(reprocessing step)은 그 타당성을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 425,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "타당성의 근거 자료 는 이 항에 기재하거나, 참고 자료로 다른 항을 인용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 426,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "A flow diagram should be presented giving the steps of the process and showing where materials enter the process. The critical steps and points at which process controls, intermediate tests or final product controls are conducted should be identified. A narrative description of the manufacturing process, including packaging, that represents the sequence of steps undertaken and the scale of production should also be provided. Novel processes or technologies and packaging operations that directly affect product quality should be described with a greater level of detail. Equipment should, at least, be identified by type(e.g., tumble blender, in-line homogenizer) and working capacity, where relevant. Steps in the process should have the appropriate process parameters identified, such as time, temperature, or pH. Associated numeric values can be presented as an expected range. Numeric ranges for critical steps should be justified in Section 3.2.P.3.4. In certain cases, environmental conditions(e.g., low humidity for an effervescent product) should be stated. Proposals for the reprocessing of materials should be justified. Any data to support this justification should be either referenced or filed in this section(3.2.P.3.3). <출처 : ICH-M4Q(R1)＞ 해 설 ○ 완제의약품의 실제 제조방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 427,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "원료의 투입순서, 각 제조공정 및 시험시기 등을 알 수 있도록 제조공정 흐름도를 작성하고 흐름도에 따라 공정 순서대로 세부사 항을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 428,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.P.3.3.1 제조공정 흐름도(Flow Chart of Manufacturing Process) 순차적 제조공정이 드러나도록 그림으로 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 429,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "필요하면 나정, 필름코팅정, 포장 등으로 구분하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 430,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "다음과 같은 내용을 참조하여 작성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 431,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁주요 제조공정은 제형별로 다양하나 정제의 경우 칭량, 혼합, 과립화, 건조, 타정, 코 팅 등이 포함될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 432,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁액제의 경우 칭량, 혼합, 여과, 무균, 포장 등이 포함될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 433,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁각 단계별 원료의약품의 투약시점 ⦁각 단계별 주요 공정에 사용되는 설비와 주요 작업조건 ⦁중간 보관이 있을 경우 보관 용기와 온도, 허용기간 ⦁공정관리를 위한 샘플채취의 시기와 양 ⦁주요 공정관리 및 허용기준 ⦁재작업, 재가공이 있을 시 이에 대한 표시 ⦁재가공이 허용되지 않을 때 폐기에 대한 부분 ○ 3.2.P.3.3.2. 제조공정 및 공정관리(Manufacturing process and Process control) 제조공정 흐름도에 기재한 순서에 준하여 단계별로 자세한 제조방법을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 434,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "제품 의 시간적 흐름에 따른 이동경로를 설명하고 주요한 공정조건과 공정관리 내용 및 허 용범위를 표시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 435,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "공정관리 시험은 허용 범위 안에서 공정변수를 조정할 목적으로 실시하는 공정조절 시험과 공정 중 생산된 반제품이 완제품의 품질을 구현하는데 필 요한 특정 항목에 대하여 확인하는 공정 확인 시험으로 나눌 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 436,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "예) A100 mg 정의 제조공정 흐름도(제조단위:500,000정) 3.2.P.3.4. 주요 공정 및 반제품 관리(Controls of Critical Steps and Intermediates) 주요 공정 : 공정관리를 보증하기 위해서 제조공정의 3.2.P.3.3. 제조공정 및 공정관 리 항에서 확인된 주요 공정에서 실시한 시험방법과 기준을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 437,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "반제품 : 공정 중 반제품에 대한 품질관리 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 438,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "Critical Steps: Tests and acceptance criteria should be provided(with justification, including experimental data) performed at the critical steps identified in 3.2.P.3.3 of the manufacturing process, to ensure that the process is controlled. Intermediates: Information on the quality and control of intermediates isolated during the process should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 3.2.P.3.3.에서 공정 중 주요 공정을 정의한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 439,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "아울러 공정 중에 생성되어 분리되는 중 간체의 품질관리 기준을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 440,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.P.3.4.1. 주요 공정(Critical Steps) 주요 공정 단계별로 주요 공정 선정의 타당성에 대하여 공정이 완제품의 품질, 안정성, 성능 및 이후의 제조공정에 미치는 영향과 관계하여 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 441,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "공정관리 항목의 선정 과 시험방법 및 허용기준에 대하여도 타당성을 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 442,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁제제별 관리해야 할 주요 공정은 다음 사항을 참고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 443,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "제형/품질특성 무균성 함량균일성 용해공정 최종멸균제제 멸균공정 혼합․용해공정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 444,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "충전공정 무균제제 무균조작공정 용해공정 여과멸균공정 무균조작제제 혼합․용해공정 무균충전공정 충전공정 동결건조공정 혼합공정 조립공정 고형제제 타정공정 충전공정 용해공정 액제 혼합․용해공정 충전공정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 445,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "연고제․좌제․연합(鍊合)공정 충전공정 카타플라스마제 전연(展延)공정 ⦁주요 공정관리 사항은 요약하여 제시한다 ⦁공정관리 시험방법이 공정서 이외의 시험법일 경우 시험방법에 대한 문서를 첨부한다 예) 주요 공정관리 사항(중간공정검사) 주요 공정 중간공정검사 기준 시험방법 제립(IPC I) 건조 감량 00 % 이하 KP 건조감량측정법 경도 0 ~ 0 kp IHS △△△* 두께 0 ~ 0 mm IHS △△△* 타정(IPC II) 붕해 0 분 이하 KP 붕해시험법 마손도 0 % 이하 IHS △△△* 질량편차 평균중량 ± 0% KP 질량편차시험법 평균질량(/100점) 0.0 ~ 0.0g IHS △△△* 코팅(IPC I) 붕해 0 분 이하 KP 붕해시험법 * IHS(In-House Spec): 자가규격, 별규 또한, 한약(생약)제제(완제의약품)는 제조공정 중 벤조피렌 저감화 공정이 추가된 경우 주요공정으로 선택하여야 하며, 저감화 공정이 별도로 없더라도 완제품에서 잔류·오염 물질(벤조피렌 등)에 대한 안전성이 확보되어야 함으로, 아래의 자료가 제출되어야 한다 ⦁3로트 벤조피렌 시험결과(시험기초자료 포함) ⦁벤조피렌 시험방법(시험방법 밸리데이션 포함) ⦁벤조피렌 관리 방안(시험주기, 관리기준 등 포함)(해당품목) ⦁벤조피렌 노출안전역(MOE) 평가자료 예) 완제의약품 벤조피렌 시험결과를 바탕으로 노출안전역 계산 한약(생약)제제(완제의약품) 1회 1정(500 mg) 복용 (1일 3회)하는 경우, 1일 최대 복용량은 1,500 mg - 3로트 평균 벤조피렌 검출량 3.0 ppb - 1일 최대복용량 기준 벤조피렌 일일 인체노출량 : 1.5 g(1일 최대복용량) x 3.0 ppb(㎍/103g) = 4.5 ng - 노출안전역(MOE) = BMDL10 / 일일 인체노출량 = 6x106 ng / 4.5 ng = 1.3 x 106 * 체중 60 kg인 성인에서의 BMDL10 = 6 mg/60 kg/day ※ BMDL10 : 0.1 mg/kg/day, 체중 : 60 kg (WHO/JECFA, '06) ○ 3.2.P.3.4.2. 반제품(Intermediates) 반제품이 있는 경우 반제품에 대한 규격(필요한 시험항목과 허용기준)을 명시하고 적 부판정이 필요한 경우 판정이 이뤄지기 전까지 보관할 조건을 기술한다 필요하다면 반제품 보관조건과 기간에 대한 안정성시험 결과를 첨부할 수 있다 3.2.P.3.5. 공정 밸리데이션 및 평가(Process Validation and/or Evaluation) 제조공정에서 사용된 주요 공정과 주요 분석에 대한 밸리데이션 및 평가의 결과를 상세하게 기재한다(예: 멸균 공정, 무균 공정 또는 충전). 필요하다면 바이러스성 안전성 평가를 3.2.A.2. 항에 기술한다 Description, documentation, and results of the validation and/or evaluation studies should be provided for critical steps or critical assays used in the manufacturing process(e.g., validation of the sterilization process or aseptic processing or filling). Viral safety evaluation should be provided in 3.2.A.2, if necessary. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 주요 제조공정의 장비와 공정조건이 제시된 품질을 보증하는데 적합함을 입증하기 위 하여 실시된 시험법과 평가결과를 기술한다 필요하다면 임상시험 배치, 안정성 시험 배치를 포함하여 개발단계에서 제조된 모든 배치에 대하여 실제로 수행된 밸리데이션 결과를 간단히 요약한다 이후 허가신청을 위한 실생산 배치에 대하여 정밀한 밸리데이션 계획과 평가결과를 기술한다 벨리데이션 보고서를 첨부한다 3.2.P.4. 첨가제 관리(Control of Excipients) 3.2.P.4.1. 규격(Specifications) 첨가제에 대한 규격(specification)을 기재한다 The specifications for the excipients should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 첨가제에 대한 규격을 기술한다 약전 등 공정서 규격과 별규(in-house) 품목을 구분하 여 기재한다 ○ 3.2.P.4.1.1. 약전 첨가제(Pharmacopoeial Excipients) 약전 첨가제에 대하여 첨가제명과 규격 및 표준물질에 대한 정보를 표로 제시한다 추가로 설정한 시험항목, 매 배치마다 시험하지 않는 주기적 시험 항목이 있는 경우 및 공정서와 시험방법 및 판정기준이 다른 경우에는 이를 명확히 기술해야 한다 각 첨가제의 규격이 포함된 성적서를 첨부한다 ○ 3.2.P.4.1.2. 자가규격 첨가제(In-house Excipients) 자가 규격으로 관리하는 첨가제에 대하여 첨가제명과 규격 및 표준물질에 대한 정보 를 표로 제시한다 각 첨가제의 규격 및 성적서를 첨부한다 3.2.P.4.2. 시험방법(Analytical Procedures) 필요시 첨가제 시험방법을 기재한다 The analytical procedures used for testing the excipients should be provided, where appropriate. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 시험항목별 시험법 코드와 문서번호, 문서명을 표 형식으로 제시한다 약전에 수재되 지 않는 시험법은 시험 항목별로 시험법 문서를 첨부한다 ○ 시험법 문서는 해당 시험법이 사용되는 제품과 시험항목이 기술되어야 한다 일반적 인 내용은 시험법의 원리, 장비와 기구, 용매 및 시약, 표준액 및 검액의 조제, 검량선, 조작법, 결과평가 등이 기술되고 전형적인 시험결과가 첨부될 수 있다 3.2.P.4.3. 시험방법의 밸리데이션(Validation of Analytical Procedures) 사용한 첨가제 시험방법이 분석 밸리데이션이 필요한 경우 시험자료를 포함하여 밸 리데이션 정보를 기재한다 Analytical validation information, including experimental data, for the analytical procedures used for testing the excipients should be provided, where appropriate. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 3.2.P.3.4.1에 설정된 규격 중 공정서 시험법이 아닌 항목은 시험법 밸리데이션에 대하 여 기재한다 시험법 밸리데이션 개요를 작성하고 상세한 밸리데이션 보고서(시험기초 자료 포함)를 첨부한다 시험법 코드 시험법 명칭 밸리데이션 문서 시험참조항목 o 3.2.P.4.4. 규격설정 근거(Justification of Specifications) 필요시 첨가제 규격에 대한 설정 근거를 기재한다 Justification for the proposed excipient specifications should be provided, where appropriate. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 자가 규격을 설정한 첨가제 및 공정서 규격과 다르게 설정한 기준에 대하여 필요 시 타당성을 제시한다 공정서의 기준, 독성시험 및 품질시험 자료, 안정성시험 결과 등을 활용하여 입증한다 문헌 및 시험자료 등 근거자료를 첨부한다 3.2.P.4.5. 사람 또는 동물 유래 첨가제(Excipients of Human or Animal Origin) 사람이나 동물 유래의 첨가제에 대해서 외인성 물질에 관한 정보를 기재한다(예: 기 원 및 규격, 실시된 시험에 대한 설명, 바이러스성 안전성 시험) For excipients of human or animal origin, information should be provided regarding adventitious agents(e.g., sources, specifications; description of the testing performed; viral safety data).(Details in 3.2.A.2) <출처 : ICH-M4Q(R1)＞ 해 설 ○ 의약품의 제조를 위하여 사람이나 동물유래의 첨가제를 사용한 경우 기재한다 사용 한 외인성 물질의 목록과 기원, 공급처를 표 형식으로 제시한다 상세한 내용은 3.2.A.2에 기술하고 개요만 요약 설명한다 예) Table. X정의 제조에 사용되는 첨가제 목록 성분명 배합목적 사람 또는 동물 유래 기원 A X - B O 소(우유) C X - D 3.2.P.4.6. 새로운 첨가제(Novel Excipients) 완제의약품에 처음으로 사용되거나 새로운 투여경로에 사용되는 첨가제에 대해서 는 안전성을 입증하는 자료(비임상시험 및 임상시험자료) 및 제조, 특성, 품질관리 에 대한 사항을 원료의약품 양식에 따라 기재한다 For excipient(s) used for the first time in a drug product or by a new route of administration, full details of manufacture, characterization, and controls, with cross references to supporting safety data(nonclinical and/or clinical) should be provided according to the drug substance format.(Details in 3.2.A.3). <출처 : ICH-M4Q(R1)＞ 해 설 ○ 새로운 첨가제(제제에 처음 사용되는 것, 새로운 투여경로로 사용되는 것)는 제조방 법, 특성 및 품질관리방법에 대해 원료의약품에서 요구되고 있는 항목과 같은 정도의 기재와 데이터가 필요하다 안전성데이터(임상/비임상)를 참고로 하면서 그 개략을 기 재하고 상세한 내용과 근거자료는 3.2.A.3에 기술한다 3.2.P.5. 완제의약품의 품질관리(Control of Drug Product) 3.2.P.5.1. 규격(Specifications) 완제의약품에 대한 규격을 기재한다 The specifications for the drug product should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 완제의약품의 규격에 대하여 원료의약품과 동일한 양식으로 기재한다 각 시험항목, 분석방법 코드 및 허용기준 등에 대해 표 형식으로 작성한다 출하 규격(release specification)과 유효기간 규격(shelf-life specification)이 따로 있는 경우 구분하여 작 성한다 천연물의약품의 규격은 다음 사항을 참고하여 설정한다 ⦁정의: 제형의 정성적 설명 ⦁확인시험은 단순히 특정 지표물질의 크로마토그래피 유지시간 만으로 확인하는 방법은 특이적으로 간주되지 않는다 원료의약품(생약 또는 생약추출물)을 특이적으로 확인할 수 있는 시험법(예: 성분프로파일 등)이어야 한다 여러 크로마토그래피 방법을 조합하거나, 여러 시험을 조합하여 하나로 통합한 시험법(예: HPLC/UN diode array, HPLC/MS, GC/MS 등)은 가능하다 ⦁함량: 기지의 치료적 활성성분, 활성 지표성분 또는 지표성분에 대하여 설정한다 특이 성이 확보되지 않은 시험방법(예: UV 흡광도법 등)은 다른 적합한 시험방법(예; 성분 프로파일 등)과 조합하여 사용할 수 있다 ⦁불순물: 생약 또는 생약추출물에서 유래되는 불순물, 부산물 및 분해산물 ⦁수분/건조감량 ⦁미생물한도 ⦁제형에 따른 제제학적 시험: 용출/붕해, 제제균일성(함량균일성/질량균일성), pH, 비중, 보존제 등 3.2.P.5.2. 시험방법(Analytical Procedures) 완제의약품을 시험하는데 사용된 시험방법을 기재한다 The analytical procedures used for testing the drug product should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 3.2.P.5.1에 기술된 규격의 시험방법에 대하여 시험 항목별 시험법 코드와 문서번호 및 문서명(공정서 시험법인 경우 공정서 시험법)을 표 형식으로 제시한다 각 시험법에 대하여 시험법 문서를 첨부한다 3.2.S.2.3. 또는 3.2.S.4.2.에 이미 기술 및 첨부된 경우 참조사항을 명확히 기술한다 3.2.P.5.3. 시험방법의 밸리데이션(Validation of Analytical Procedures) 완제의약품을 시험하는데 사용된 시험방법에 대한 시험자료를 포함하여 밸리데이 션 정보를 기재한다 Analytical validation information, including experimental data, for the analytical procedures used for testing the drug product, should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 3.2.P.5.2에 기술된 각 시험방법 중 공정서 시험법이 아닌 시험방법은 시험법 밸리데이션에 대하여 기재한다 시험방법과 밸리데이션 코드, 밸리데이션 문서명을 표 형식으로 제시 한다 밸리데이션 보고서를 첨부한다 3.2.S.2.3. 또는 3.2.S.4.3.에 이미 기술 및 첨부된 밸리데이션은 참조사항을 명확히 기술한다 3.2.P.5.4. 배치분석(Batch Analyses) 배치에 대한 정보와 배치 분석의 결과에 대해 기재한다 A description of batches and results of batch analyses should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 현재까지 생산한 각종 배치(비임상시험, 임상시험, 안정성시험, 시험생산 배치 등)를 포함하여 시판 배치에 대하여 분석한다 분석배치에 대하여 배치번호, 제조 단위, 제조 일, 사용한 원료의약품의 제조번호, 원료약품 및 그 분량, 특징적인 제조방법, 제조원 및 제조소, 용도를 기술한 배치 요약자료와 배치별로 시험항목과 시험결과 등을 표로 정리한다 주요 배치의 시험성적서를 첨부한다 예) 배치분석표(△△△(제품명) □(함량)mg정) 제조번호 표시함량 제조일자 제조원 및 제조소 A공장 B공장 B공장 제조 목적 사용한 주성분 제조번호 원료약품 및 그 분량 제조크기 115000정 115000정 115000정 시험항목 기준 시험결과 장방형, 흰색의 속방성 필름코팅정으로 성상 분할선이 있으며 한면에 XX의 각인이 있다 99.5 용출 45분, 80% 97.4〜100.5 ○ 개발과정에서 여러 가지 규격 변경이 발생할 수 있으므로, 각 배치별 특징적인 제조방 법 및 규격의 변화에 대하여 배치분석 결과로부터 최종적으로 확정된 분석법 및 결과와의 연관성에 대해 언급하여야 한다 3.2.P.5.5. 불순물의 특성(Characterization of Impurities) 완제의약품의 불순물의 특성에 대한 정보를 기술한다 3.2.S.3.2 항에서 기재한 경우 생략할 수 있다 Information on the Characterization of impurities should be provided, if not previously provided in \"3.2.S.3.2 Impurities\". <출처 : ICH-M4Q(R1)＞ 해 설 ○ 완제의약품의 모든 실재적 불순물에 대하여 명칭과 생성되는 원인 등을 표 형식으로 기재한다 생약 및 생약추출물에서 유래된 불순물, 첨가물 및 용기에서 유래한 불순물, 제조공정에서 유래한 공정 관련 불순물 및 분해산물 등이 모두 포함된다 ○ 각 불순물에 대하여 불순물의 구조와 특징, 유래 원인 및 완제의약품에서 검출되는 수준, 규격으로 설정 여부 등을 기술한다 ⦁생약 및 생약추출물에서 유래하는 불순물은 3.2.S.3.2.를 참조 표기할 수 있다 ⦁불순물 관리를 위한 공정개선 노력을 명시할 필요가 있다 ⦁제조 및 안정성시험에서 유의적인 변화를 보이는 불순물일 경우 규격을 설정하여 공정 관리 항목 또는 유효기간 규격으로 할 필요가 있다 ⦁생약 및 생약추출물 및 그 제조과정에서 발생하는 불순물은 원료의약품에서 적절히 관리됨을 입증함으로써 규격시험에서 제외할 수 있다 ⦁규격으로 설정하지 않는 공정부산물 및 분해산물, 잔류용매 등은 공정관리 사항과 배치분석자료 등을 첨부하여 타당성을 입증한다 ⦁불순물의 분석 방법을 밸리데이션 하여 특이성을 증명할 필요가 있다 ⦁불순물의 허용기준은 약효 성분에서의 허용기준, 적격성 평가 수준, 안정성시험 시 증가 정도, 정밀성, 유효기간 등을 고려하여 설정해야 한다 3.2.P.5.6. 규격설정 근거(Justification of Specifications) 완제의약품의 규격 설정 근거에 대해 기재한다 Justification for the proposed drug product specifications should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 현재까지 생산한 모든 배치 분석 결과 및 안정성 시험결과를 고려하여 규격 중 각 시험 항목의 설정 및 비설정 근거와 시험방법 및 허용기준의 근거를 기재한다 공정관리용 배치 또는 시판 배치의 성적을 근거로 하는 것을 권장하나 이전의 임상시험 및 안정성 시험 등에 사용한 배치의 시험결과를 고려하여야 한다 또한 배치분석 결과 외에도 개발 중에 얻어진 불순물 정보, 안정성 결과, 독성 시험결과 등을 고려하되 제안된 규격은 분석 및 생산에서의 변수를 고려하여 적당한 여유를 두고 설정한다 완제의약품 규격의 타당성은 다음 사항과 연계하여 고려되어야 한다 ⦁생약 및 생약추출물의 품질 및 변동성 ⦁생약 및 생약추출물의 공정 및 품질관리 사항과 배치분석 자료 ⦁완제의약품 제조공정(온도 영향, 잔류용매) ⦁활성성분 및 성분프로파일의 안정성 ⦁제형 및 제제학적 특징, 투여의 특징 ⦁포장 상태 ⦁현재까지의 배치분석 자료 ⦁비임상 및 임상시험에 사용한 배치의 안전성 유효성 허용 한계 3.2.P.6. 표준품 및 표준물질(Reference Standards or Materials) 완제의약품의 시험에 사용되는 표준품 또는 표준물질에 대한 자료를 기재한다 3.2.S.5. 표준품 또는 표준물질 항에 기재한 경우는 생략할 수 있다 Information on the reference standards or reference materials used for testing of the drug product should be provided, if not previously provided in \"3.2.S.5 Reference Standards or Materials\". <출처 : ICH-M4Q(R1)＞ 해 설 ○ 완제의약품 시험에 사용한 표준품 또는 표준물질에 대해 기재한다 각 표준품 또는 표준 물질의 용도, 등급(official source 등, 확인용, 정량용 등), 구입처 등을 요약한 개요를 표 형식으로 기재한다 표준품별로 항목을 구분하여 3.2.S.5.와 동일한 형식으로 제시 한다 또한 표준품의 시험성적서 등을 첨부한다 3.2.P.7. 용기 및 포장(Container Closure System) 일차 포장재의 구성재료와 규격을 포함하는 용기 및 포장에 대해 기재한다 규격에는 개요와 확인방법(필요시 도면을 포함한 주요치수)을 기재한다 필요시 밸리데이션 된 자사시험방법을 기재한다 비기능성 이차 포장재(예, 추가적인 보호를 하지 않거나 제품의 운송에 관여하지 않는 포장재)에 대해서는 간단하게 기재한다 기능성 이차 포장재(운송, 차광과 같은 추가적인 보호)에 대한 정보를 추가적으로 기재한다 적합성(Suitability)은 3.2.P.2. 개발경위 항에 기재한다 A description of the container closure systems should be provided, including the identity of materials of construction of each primary packaging component and its specification. The specifications should include description and identification(and critical dimensions, with drawings where appropriate). Non-compendial methods(with validation) should be included where appropriate. For non-functional secondary packaging components(e.g., those that neither provide additional protection nor serve to deliver the product), only a brief description should be provided. For functional secondary packaging components, additional information should be provided. Suitability information should be located in 3.2.P.2. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 용기 및 포장에 관하여 재질과 구성을 포함한 개요를 제공하고 1차 포장용기와 2차 표장용기에 대하여 구분하여 상세한 규격을 제공한다 ○ 3.2.P.7.1. 일차 포장재(Primary Packaging Material) 용기, 마개, 투약 및 분할에 사용하는 용기 등에 대하여 각각 개요와 규격을 제시한다 필요 시 도면을 사용하여 모양과 치수를 기술한다 규격의 시험항목에 대하여 필요시 시험법 밸리데이션 문서를 첨부한다 자가 규격 외에도 공급원에서 제공한 규격 및 안전성에 관한 확인 문서 등을 첨부한다 1차 포장재의 규격은 다음 사항을 고려하여 설정한다 ⦁용기의 재질에 관한 확인시험: IR 등 ⦁두께, 무게, 넓이, 색상 등 ⦁차광, 밀폐 등 주요 기능과 관련된 항목 ⦁무균제제에 사용하는 용기 등의 무균 ⦁안전성과 관련된 항목: 용출, 흡착, 부식 등 ⦁필요 시 시험방법 밸리데이션을 기술한다 예) 1차 표장용기 description material supplier inside PVC 250 μm/PVdC 60 g/m2 Thermoforming foil(duplex) PVC 250 μm/PVdC 120 g/m2 outside Aluminum Foil aluminum ○ 3.2.P.7.2. 이차 포장재(Secondary Packaging Material) 비기능성 이차포장재는 간단히 기술한다 기능성 이차포장재는 운송, 차광과 같은 추가적인 기능에 대하여 기술하며 규격은 따로 기재하지 않아도 된다 3.2.P.8. 안정성시험(Stability) 3.2.P.8.1. 안정성 요약과 결론(Stability Summary and Conclusions) 실시한 시험의 종류, 사용한 시험계획서 그리고 시험결과를 요약하여 기재한다 예를 들어, 보관조건과 사용기간(유효기간)에 대한 결론을 기재하고, 필요시 사용 시 보관조건과 사용기간(유효기간)을 포함한다 The types of studies conducted, protocols used, and the results of the studies should be summarized. The summary should include, for example, conclusions with respect to storage conditions and shelf-life, and, if applicable, in-use storage conditions and shelf-life. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 안정성시험은 온도, 습도, 빛 등 각종 환경요소의 영향 아래서 시간 경과에 따라 약효 성분 또는 의약품의 품질이 어떻게 변하는지에 대한 증거를 확보하고, 그에 따라 약효 성분의 재시험 기간 또는 의약품의 유효기간과 권장 보관 조건을 설정하여야 한다 ○ 3.2.P.8.1.1. 일반 정보(General Information) 안정성시험에 대한 일반 정보를 기재한다 안정성시험에 사용한 배치 정보, 안정성시험이 수행된 조건, 보관기간 및 시험시기, 용기 및 포장, 보관 및 시험기관 등에 대한 정보를 요약하여 기술한다 ⦁검체는 3 배치 이상에 대하여 실시한다 ⦁시판 제제와 동일한 포장 및 용기를 사용한다 ⦁시판 배치의 품질을 확보할 수 있도록 각각 다른 원료의약품 배치로부터 제조된 완제의약품을 사용하는 것이 좋다 ⦁사용 시 용해 또는 희석하여 사용하는 제제는 개봉 후 사용기간 표시를 위한 정보를 제공하기 위하여 용기 안정성 시험(in-use stability)을 실시할 필요가 있다 예) 안정성시험 배치정보 안정성시험 관리번호 제조번 주성분(X) 호 완제의약품 제조일자 제조크기 115,000정 포장일시 포장형태 HDPE bottle 안정성시험 조건 25℃/60%RH 30℃/60%RH 40℃/75%RH 안정성시험 시작일 보관검체 수량 안정성시험 기간(월) 36 36 12 예) 안정성시험 시험별 정보 시험명 온도 습도 포장 측정시기 0, 3, 6, 9, 12, 18,.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 446,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "장기보존시험 24, 36개월 가속시험 0, 3, 6개월 가혹시험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 447,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "50±2℃ - 0, 1, 3, 6개월 (온도) 가혹시험 40±2℃ 75±5%RH 무색유리병, 개전 0, 1, 3, 6개월.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 448,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "(습도) 가혹시험 상황에 상황에 따른 무색 유리샬레(개방) *) (빛) 따른 온도 습도 무색 유리샬레 가혹시험 상황에 상황에 따른 (알루미늄 호일로 *) (빛) 따른 온도 습도 차광).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 449,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "*) 백색 형광램프 및 UV 형광램프로 총 조도 □□□ lux․hr, ○○○W․hr/m2까지 조사한 시점 ○ 3.2.P.8.1.2. 안정성시험 프로토콜(Stability Protocol) 안정성시험 수행에 관한 프로토콜을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 450,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "배치별로 계획된 샘플링 시기와 시험항목, 시험 항목별 시험방법, 허용기준 등을 다음과 같은 방식으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 451,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "안정성시험에서 시험항목은 ‘기준 및 시험방법에 설정한 전 항목’에 대하여 시험하는 것을 원칙으로 하나, 경시변화에 해당되지 않은 시험항목은 명확한 사유를 근거로 일부 중간시점 시험을 생략 할 수 있으며, 이때 시험항목 생략에 대한 사유를 함께 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 452,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁배치별 시험계획 안정성시험 보관검체 포장 관리번호 수량 형태 제조번호 안정성시험조건 시험간격(월) 0 3 6 9 36 시험실시일 성상 O O O O O 생략 붕해 O X O X O ⦁시험항목과 기준 시험항목 시험방법 허용기준 성상 확인 붕해 기타 ⦁시험항목 별 측정시점 및 측정횟수 측정항목 측정시점 측정횟수 외관 모든 시점 확인시험 최초와 최종시점 용출시험 모든 시점 함량 모든 시점 ⦁분석방법 3.2.P.5.2 등 다른 항에서 언급된 경우 참조사항만 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 453,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "○ 3.2.P.8.1.3. 요약 및 결론(Summary and Conclusion) 장기보존시험, 가속시험, 가혹시험(온도, 습도, 빛) 별로 시험결과를 요약하여 기재하고, 각각의 안정성 결과를 통해 보관조건 및 사용기간에 대한 결론을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 454,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁각 시험에서 허용기준에서 벗어난 경우, 활성 또는 지표성분이나 불순물의 유의적인 함량 변화가 있는 경우 이에 대한 평가 ⦁색상, 연화, 분리 등 외관 및 물리적인 변화가 예견되었는지 여부와 이에 따른 성능에 대한 평가 ⦁가혹시험의 빛, 습도, 온도 등에 대한 변화로부터 포장용기 및 보관조건의 타당성에 대한 설명 ⦁전체 시험결과로부터 유효기간의 타당성에 대한 설명 ⦁분할사용 제제의 경우 용시 안정성시험결과로부터 개봉 후 보관조건 제시 ⦁기타 제형별로 안정성 시험과 결과와 결론에서 고려해야할 항목은 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 455,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "주사액 - 성상, 색, pH값, 입자, 유연물질, 충진량, 무균시험(필요시) 현탁액 - 침전속도, 재현탁성, 균질성, 결정성장 유화액 - 균질성, 입자분포도 경질캡슐 - 성상, 필요시 수분함량, 용출시험 혹은 붕해시험 연질캡슐 - 성상, 필요시 수분함량, 용출시험 혹은 붕해시험 내복액제/현탁액 - 성상, 색, 냄새 용액 - 혼탁, 침전 현탁액 - 침전속도, 재현탁성, 동질성, 결정성장 점안제 - 특수용액/현탁액, 연고, pH값, 등장액, 등삼투압 산제 - 성상, 습도 등 복용 시 녹여 먹는 - 성상, pH값, 선도/동질성 제제 연고제 성상, 냄새, 동질성, 지속성, 결정성장 좌제 성상, 경도, 결정성장, 용해시간 정제 성상, 경도, 수분함량, 붕해시험/용출시험 3.2.P.8.2. 허가 후 안정성시험 계획 및 이행 서약(Post-approval Stability Protocol and Stability Commitment) 허가 후 안정성 시험 계획을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 456,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "The post-approval stability protocol and stability commitment should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 초기 배치를 대상으로 한 장기보존 시험자료가 예정 유효 기간을 모두 포함하고 있지 않을 때는 이후의 안정성시험 계획과 이를 통해 유효기간을 입증하겠다는 이행내용을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 457,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "추가 안정성시험 자료는 연차보고를 통해 제출 또는 자가 관리 후 변경신청 시 제출할 것을 약속한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 458,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "또한, 이후의 주기적 안정성시험 계획에 대한 내용도 포함 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 459,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.P.8.3. 안정성 자료(Stability Data) 안정성 시험의 결과는 적절한 양식(예를 들어, 표, 그래프, 설명)으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 460,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "안 정성 시험에 사용한 기준 및 시험방법, 밸리데이션 정보가 포함되어야 하나, 다른 항에서 기재한 경우 인용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 461,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "불순물의 특성에 대한 정보는 3.2.P.5.5. 불순물의 특성 항에 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 462,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "Results of the stability studies should be presented in an appropriate format(e.g. tabular, graphical, narrative). Information on the analytical procedures used to generate the data and validation of these procedures should be included. Information on characterisation of impurities is located in 3.2.P.5.5. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 안정성시험 종류 및 조건별로 항목을 구분하여 전체적인 시험조건과 결과를 요약한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 463,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "○ 배치별 안정성시험 결과를 표 형식으로 기재하고, 함량 등의 유의적인 변화가 없음 또는 있음을 나타내기 위하여 주요 항목에 대하여는 그래프 등을 이용하여 추이를 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 464,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "또한, 시험성적서 및 시험기초자료를 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 465,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "예) 안정성시험 요약표(가혹시험-빛에 대한 영향) 검체명 : 10mg정 제조번호: 제조일: 보존조건 : 백색 형광램프 및 UV 형광램프 조사 포장형태 : 무색 유리 샤알레(개방) 보존기간(개월) 시험항목 기준 0 120만 lux․hr, 200W․hr/m2.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 466,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"성상\", \"확인시험\", \"용출시험(%)\", \"함량(%) (HPLC법)\"], \"행\": [], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 467,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.A. 부록(APPENDICES) 3.2.A.1. 시설과 장비(Facilities and Equipment) 제조 품질관리에 관계된 제조원 및 시험기관의 시설과 장비에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 468,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "Informations on the facilities and equipment relating manufacture and control of the drug substance and drug product should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 신청 품목의 제조 및 관리에 관계된 제조원 및 시험기관의 시설과 장비에 대한 자료 를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 469,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "의약품 제조 및 품질관리 기준에 따른 GMP package를 별도로 구성한 경우 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 470,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.A.2. 외인성 물질에 대한 안전성 평가(Adventitious Agents Safety Evaluation) 외인성 물질의 잠재적 오염에 대한 위험을 평가하는 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 471,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "Information assessing the risk with respect to potential contamination with adventitious agents should be provided. <출처 : ICH-M4Q(R1)＞ 해 설 ○ 의약품의 제조를 위하여 사람이나 동물유래의 첨가제를 사용한 경우 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 472,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.P.4.5에 기재된 사람이나 동물 유래의 첨가제에 대하여 원료의 안전성과 제조공정과 생산관리 측면에서 공정관리에 관한 사항을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 473,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "특별한 사항이 없다면 전염성 해면상뇌증인자(Transmissible sponge form encephalopathy agent, TSE) 안전성에 대한 공급원의 확인 문서 등을 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 474,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "○ 원료의약품으로 동물로부터 유래된 물질(기관, 조직, 체액 등)을 사용하는 경우 바이 러스 안전성에 대한 평가를 따로 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 475,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.S.2.2., 3.2.S.2.3., 3.2.S.2.5. 및 3.2.P.3.4., 3.2.P.4.5.에 기재된 관련 사항에 대하여 다음 사항에 대하여 자세히 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 476,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "관련된 공급원의 확인 문서, 밸리데이션 결과, 시험성적서 등을 첨부한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 477,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "⦁기원동물 및 사용 부위의 바이러스 안전성에 대한 정보 ⦁수행하는 모델 바이러스 선정 및 기준 ⦁제조공정 중 바이러스 불활화공정 선정의 타당성 ⦁바이러스 불활화 공정의 밸리데이션 자료(스케일다운 타당성 등 포함) ⦁제조과정 중 및 원료의약품 또는 완제의약품의 바이러스 시험결과 3.2.A.3. 첨가제(Excipients) 새로운 첨가제에 대한 품질 자료를 원료의약품과 동일한 수준으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 478,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "해 설 ○ 이미 허가된 의약품 등에 사용 예가 없는 첨가제 또는 사용예가 있어도 다른 투여경로로 사용하거나 일반적인 사용량을 초과한 양을 사용하는 경우 해당 첨가제에 대하여 3.2.P.4.6.에 기재된 내용에 대하여 자세히 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 479,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "품질관리에 대한 사항은 원료의약품과 동일한 수준에서 기술하며 수행된 시험을 요약하고 비임상시험 및 임상시험 결과로부터 안전성에 대한 평가를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 480,
+      "type": "sentence",
+      "section": "다. 제조공정 개발의 기술 시 다음 사항을 고려한다.",
+      "path": null,
+      "ko_txt": "3.2.R. 지역정보(REGIONAL INFORMATION) 해 설 ○ 각 국가의 규정에 따라 별도로 정보, 자료 및 시험자료 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 481,
+      "type": "sentence",
+      "section": "3.3. 참고문헌(LITERATURE REFERENCES)",
+      "path": null,
+      "ko_txt": "해 설 ○ 필요한 경우 주요 참고문헌의 리스트를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 482,
+      "type": "sentence",
+      "section": "5. 용어정리",
+      "path": null,
+      "ko_txt": "1. 생약(herbal substances) : 동·식물의 약용으로 하는 부분, 세포내용물, 분비물, 추출물 또는 광물을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 483,
+      "type": "sentence",
+      "section": "5. 용어정리",
+      "path": null,
+      "ko_txt": "일반적으로 가공되지 않은 건조 형태로 신선한 것을 사용하거나 공정서에 따른 포제품도 해당될 수 있음 2. 생약추출물(herbal preparations) : 생약을 추출, 증류, 착유, 분획, 정제, 농축 등의 방법으로 처리하여 얻은 것. 엑스(연조엑스, 건조엑스, 유동엑스), 추출물, 틴크, 정유 등이 포함된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 484,
+      "type": "sentence",
+      "section": "5. 용어정리",
+      "path": null,
+      "ko_txt": "3. 천연물의약품(herbal medicinal products) : 원료의약품으로 생약 또는 생약추출물을 사용하여 제조한 의약품. 법적 용어는 아니나 한약(생약)제제를 포괄적으로 나타내는데 사용함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 485,
+      "type": "sentence",
+      "section": "5. 용어정리",
+      "path": null,
+      "ko_txt": "4. 추출 용매(extraction solvents) : 생약을 추출하는데 사용하는 용매. 5. 순수 생약추출물(native herbal extract) : 일반적으로 첨가물이 없는 상태의 순수 생약 추출물생약추출물 6. 생약추출물의 수득률(ratio of herbal substance to native extract (DER native)) : 생약과 생약추출물 양의 상대적인 비율 7. 지표성분(markers) : 생약, 생약추출물 또는 한약(생약)제제에 함유된 물질로 품질관리를 위한 분석적 목적으로 사용되는 성분 또는 성분군 8. 표준화(standardization) : 천연물의약품의 치료적 활성성분의 함량을 일정 범위에서 조정하기 위하여 부형제 등 첨가물을 투입하거나 생약 또는 생약추출물의 배치를 혼합하는 것이 허용되는 공정 9. 유효성분(active pharmaceutical ingredients) : 내제된 약리작용에 의하여 그 의약품의 효능․효과를 직접 또는 간접적으로 발현한다고 기대되는 물질 또는 물질군(약리학적 활성성분 등이 밝혀지지 아니한 생약 등을 포함한다.) 10. 활성성분(active compounds) : 생약, 생약추출물 또는 한약(생약)제제의 주성분 중 약리학적 활성을 나타내는 성분 11. 규격(specification) : 원료의약품이나 완제의약품이 목적 용도에 적합한 것으로 간주 되기 위하여 부합해야 하는 기준으로 시험 항목, 분석 방법, 그리고 해당 시험 항목에 대한 허용 기준(수치 한도, 범위 또는 기타 기준)으로 구성된 리스트를 의미한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 486,
+      "type": "sentence",
+      "section": "5. 용어정리",
+      "path": null,
+      "ko_txt": "12. 공정 밸리데이션(process validation) : 어떤 제조공정이 미리 설정된 기준 및 품질 특성에 적합한 제품을 일관되게 제조할 수 있다는 것을 확실하게 보증할 수 있도 록 검증하고 그 결과를 문서화하는 것 13. 공정관리(in-process controls) : 생산 중에 공정을 감시하고 필요한 경우 조절하기 위해 수행하는 시험 및 조작 14. 반제품(intermediates) : 의약품의 제조공정 중에 만들어진 것으로서 필요한 제조공정을 더 거쳐야 완제의약품으로 되는 것 15. 밸리데이션(validation) : 어느 특정한 공정, 방법, 기계설비 또는 시스템이 미리 설정되어 있는 판정기준에 적합한 결과가 일관되게 얻어진다는 것을 검증하고 이를 문서화 하는 것 16. 벌크제품(bulk product) : 제조공정은 모두 완료되고 포장공정만 남은 상태의 것으로 원료의약품 또는 완제의약품 17. 불순물(impurity) : 원료의약품 또는 완제의약품에 있는 원료의약품과 첨가제 이외의 화학성분 등 18. 완제의약품(drug product) : 모든 제조공정이 완료되어 최종적으로 인체에 투여할 수 있도록 일정한 제형으로 제조된 의약품 19. 완제품(finished product) : 완제의약품 또는 원료의약품에서 모든 제조공정이 끝난 의약품 20. 원료(material) : 원료의약품의 제조에 사용되는 모든 재료로 출발물질, 촉매, 용매 및 시약을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 487,
+      "type": "sentence",
+      "section": "5. 용어정리",
+      "path": null,
+      "ko_txt": "21. 원료약품 : 완제의약품의 제조에 사용되는 물질(자재 제외), 주성분 및 첨가제를 포함 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 488,
+      "type": "sentence",
+      "section": "5. 용어정리",
+      "path": null,
+      "ko_txt": "22. 원료의약품(drug substance) : 합성, 발효, 추출 등 또는 이들 조합에 의하여 제조되는 물질로서 완제의약품의 주성분 23. 재가공(reprocessing) : 기준 일탈한 제조공정 중의 반제품에 대해서 이미 설정되어 있는 생산공정의 일부 공정을 반복하는 행위 24. 재생(regeneration) : 제조공정에 사용된 칼럼, 필터, 촉매와 같은 물질을 일부 공정을 거쳐 다시 사용하는 것 25. 제제화(formulation) : 완제의약품의 처방과 투여형태를 포함한 제제화 과정 26. 제조(manufacture) : 원자재를 수령하고 원료의약품을 생산하고, 포장, 라벨링, 품질 관리, 입고승인, 보관 및 배포하는 일체 작업과 이와 관련된 관리 27. 제형(dosage form) : 의약품의 제형으로 정제, 캡슐제, 액제, 크림제 등으로 주성분을 포함하며, 일반적으로 첨가제를 포함하는 것이 필수는 아님 28. 주요 공정(critical steps) : 제품의 품질에 영향을 미치는 공정단계로 중요공정이라고도 함 29. 중간체(intermediate) : 원료의약품의 중간공정에서 만들어진 것으로 추가공정을 거쳐 벌크제품(bulk product)이 되는 것 30. 성분프로파일(chemical profile) : 한약(생약)제제의 분석자료(고속액체크로마토그램 등) 로부터 구성 성분의 분포와 함량에 대한 특징을 정리한 자료. 원료의약품(추출물 등) 중 다양한 성분의 조성과 면적비를 포괄적으로 보여주는 크로마토그램 패턴으로 액체크로마토그래프법 (이하 HPLC) 및 핵자기공명분광법 (이하 NMR) 등 다양한 분석 기술을 활용한 결과물.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 489,
+      "type": "sentence",
+      "section": "6. 참고문헌",
+      "path": null,
+      "ko_txt": "1. ICH M4Q. The common technical document for the registration of pharmaceuticals for human Use : Quality overall summary of module 2 & module 3 : Quality(2002).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 490,
+      "type": "sentence",
+      "section": "6. 참고문헌",
+      "path": null,
+      "ko_txt": "EMA Guideline on the use of the CTD format in the preparations of a.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 491,
+      "type": "sentence",
+      "section": "6. 참고문헌",
+      "path": null,
+      "ko_txt": "registration for traditional herbal medicinal products.(2016) 3. 의약품심사부. 의약품 국제공통기술문서(CTD) 가이드라인 해설서(품질).(2015) 4. 한약(생약)추출물 품질관리 가이드라인.(2015) 5. 한약(생약)제제 원료의약품 등록 안내서.(2016) 6. 한약(생약)제제의 성분프로파일 설정 가이드라인.(2016).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 492,
+      "type": "sentence",
+      "section": "6. 참고문헌",
+      "path": null,
+      "ko_txt": "EMA. Guideline on quality of herbal medicinal.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 493,
+      "type": "sentence",
+      "section": "6. 참고문헌",
+      "path": null,
+      "ko_txt": "product/traditional herbal medicinal products.(2008) 8. EMA. Guideline of specifications: Test procedures and acceptance criteria for herbal substances, herbal preparations and herbal medicinal products/traditional herbal medicinal products.(2011) 9. EMA. Guideline on quality of combination herbal medicinal products/traditional herbal medicinal products.(2008) 10. EMA. Guideline on the chemistry of active substances.(2016) 11. TGA. Guidance on equivalence of herbal extract.(2007) 12. ICH Q1A(R2). Stability testing of new drug substances and products.(2003) 13. ICH Q1E. Evaluation of stability data.(2003) 14. ICH Q2(R1). Validation of analytical procedures: Text and Methodology.(1996) 15. ICH Q3C(R6). Impurities: Guidance for residual solvents.(2016).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 494,
+      "type": "sentence",
+      "section": "6. 참고문헌",
+      "path": null,
+      "ko_txt": "ICH Q7. Good manufacturing practice guide for active pharmaceutical.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 495,
+      "type": "sentence",
+      "section": "6. 참고문헌",
+      "path": null,
+      "ko_txt": "ingredients.(2000) 17. ICH Q8(R2). Pharmaceutical development.(2009) 18. ICH Q9. Quality risk management.(2005) 19. ICH Q10. Pharmaceutical quality system.(2008) 20. FDA. Guideline for submitting supporting documentation in drug applications for the manufacture of drug substances.(1987) 21. FDA. Guidance for submitting documentation for the stability of human drugs and biologics.(1987) 22. FDA. Guidance for industry: Container closure systems for packaging human drug and biologics.(1999) 한약(생약)제제 국제공통기술문서 작성 가이드라인-품질분야(민원인 안내서) 박주영, 김지연, 문현주, 강인호, 김민경, 이규하, 이태웅, 김현미, 김난영, 김민정, 황수정, 전미나 발 행 처 식품의약품안전평가원 바이오생약심사부 생약제제과.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

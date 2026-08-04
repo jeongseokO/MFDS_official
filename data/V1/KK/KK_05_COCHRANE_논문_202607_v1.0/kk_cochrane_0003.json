@@ -1,0 +1,307 @@
+{
+  "document_id": "kk_cochrane_0003",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000012.PUB4",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000012.pub4/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "대안 의료 시설은 의학적 중재를 거의 혹은 전혀 원치 않는 임산부들을 위해 설립되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "이러한 환경들은 임신에서 출산까지, 혹은 분만시에만 의료를 제공할 수 있고, 병원의 일부이거나 독립적인 시설일 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "특별히 디자인 된 분만실에는 침실처럼 생긴 방, 은은한 분위기의 방, 다중감각 방 등이 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "주 : 기존의 의료 시설에서 대비 대안 출산 시설에서의 의료를 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "보조 : 출산 환경이 직원, 건축물의 특징, 조직 모형, 그리고 지리적 위치에 영향을 받는지 검토한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Cochrane Pregnancy and Childbirth Group 's Trials Register(2012년 3월 30일)를 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "대안 의료 시설에서의 출산 환경의 효과를 기존의 환경과 비교한 모든 무작위 비교 연구(RCT) 또는 준 무작위 비교 연구.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "Cochrane Collaboration Pregnancy and Childbirth Group의 표준 방법을 사용했다. 2명의 리뷰어가 방법론적 질을 평가했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "데이터 추출을 이중 실시하고 위험비(RR)와 95 % 신뢰 구간(CI)을 사용하여 결과를 제시했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "11,795명의 여성을 대상으로한 10건의 연구가 선택 기준을 충족했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "독립된 출산 센터 및 다중감각 방에 대한 연구는 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "대안 의료 시설을 사용한 경우 다음 사항의 가능성이 증가했다: 분만시 진통제 / 마취의 무 사용(6 연구 8,953명, RR 1.18,95 % CI 1.05˜1.33), 자연 분만(8 연구, 11,202명, RR 1.03,95 % CI 1.01˜1.05), 6‐8 주차의 모유수유(1 연구 1,147명, RR 1.04,95 % CI 1.02˜1.06) 의료에 대한 긍정적인 관점(2 연구 1,207명, RR 1.96,95 % CI 1.78˜2.15).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "대안 의료 시설을 이용한 경우 다음 사항의 가능성이 감소했다: 경막 외 진통제 사용(8 연구, 10,931명, RR 0.80,95 % CI 0.74˜0.87), 분만 촉진을 위한 옥시토신 사용(8 연구, 11,131명, RR 0.77,95 % CI 0.67˜0.88), 기계적 질분만(8 연구, 11,202명, RR 0.89,95 % CI 0.79˜0.99), 회음부 절개(8 연구, 11,055명, RR 0.83,95 % CI 0.77˜0.90).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "모체와 신생아에 대한 유해성은 보이지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "같은 직원이나 다른 직원에 따른 의료에 의한 효과 차이는 보이지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "간병인의 연속성 또는 건축물의 특징의 효과에 관하여 결론은 내지 못했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "본 리뷰에 선택된 연구중 몇건에선 대안 시설의 디자인적 특징이 조직 모형의 다름(대안 시설의 다른 직원, 연속성 높은 간병인의 의료 제공)에 의해 교란을 받고 있었기 때문에, 실제 출산 환경의 독립적인 효과를 추론하는 것은 어려웠다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "병원의 출산 센터는 분만 중 의학적 중재율이 낮았고 만족도가 높았으며 모체와 신생아에 대한 위험성 증가도 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "고소득 및 중소득층 국가에서는 대부분의 가임 여성이 분만병동에서 출산한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "일상적인 의료 중재 또한 시간이 지남에 따라 꾸준히 증가했으며 이에 따라 건강한 가임 여성에 대한 혜택, 안정성 및 위험성에 관한 많은 논의가 이루어지고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "병원 내 분만실은 병동 내 다른 병실과 크게 다르지 않다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "방의 주요 특징으로는 병원 침대가 있고, 의료 장비는 쉽게 보이는 곳에 위치하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "건강한 가임 여성의 정상적인 분만과 출산을 지원하기 위해 다양한 임산부 돌봄 시설이 수립되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "침실처럼 생긴 분만실이 있다 또는 병동과 인접한 침실처럼 생긴 출산 시설도 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "또는 독립적인 출산 시설이 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "최근에는 은은한 분위기의 방과 다중감각 방이 설비 되었는데 이 방들은 일반 침실과는 다르게 평온함, 통제력, 자유로운 느낌을 주도록 디자인 된 가구가 배치되어 있고 다양한 감각자극제도 가지고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 연구의 주요 목표는 기존 의료 시설에서의 출산과 대체 의료 시설에서의 출산을 비교하여 대체 의료 시설 환경이 분만 및 출산 결과에 미치는 효과를 검토하는 것이다. 11,795명의 여성이 참여한 10건의 시험을 포함했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "독립적 출산 시설에 대한 임상시험은 찾지 못했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "기존 의료 시설에서의 출산과 비교했을 때 대체 의료 시설에서의 출산 환경은 의료 중재 감소, 자발적 질 출산 증가, 산모 만족도 증가, 산후(1˜2개월 내) 지속적 모우수유 증가와 관련이 있었고 산모와 아기에게 눈에 띄는 위험 요소도 보이지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "불행히, 일부 임상시험에서 대체 의료 시설의 임산부 돌봄 방식 차이(별도의 직원 및 지속적 간병인 사용)로 인해 각 대체 시설의 기능이 혼동되었고 그 결과 각 대체 시설의 독립적인 영향에 대한 결론을 도출할 수 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "우리는 여성과 정책 입안자가 정상적 분만과 출산을 지원하는 것에 중점을 둔 의료 시설의 이점에 대한 정보를 입수해야 한다고 결론지었다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

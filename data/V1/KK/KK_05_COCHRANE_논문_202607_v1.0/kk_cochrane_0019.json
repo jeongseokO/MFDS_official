@@ -1,0 +1,334 @@
+{
+  "document_id": "kk_cochrane_0019",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000179.PUB3",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000179.pub3/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "비타민 B6는 신경계의 발달과 기능 등 인체의 다양한 대사 과정에서 중요한 역할을 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "비타민 B6은 비무작위화된 임상시험에서 몇 가지 장점을 인정받고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "예를 들어, 아프가 점수의 증가, 출생시 체중 증가, 자간전증이나 조산의 발생률 저하 등을 들 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "최근의 임상시험에서도 일부 인지 기능 장애에 대한 예방이 나타나고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "임신과 분만 중 비타민 B6 섭취의 임상적 효과를 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Cochrane Pregnancy and Childbirth Group Trials Register(2015년 3월 31일)를 검색하고 검색된 임상시험의 참고 문헌을 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "임신이나 분만 중 비타민 B6 투여와 위약, 무보충 또는 비타민 B6 비함유 보충제를 비교한 무작위대조임상시험을 대상으로했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "2명의 검토자가 각 임상시험을 선택 기준과 관련해 평가하고 비뚤림위험을 평가하였으며 데이터의 추출 및 그 정확성을 확인하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "이번 업데이트에서는 바이어스의 위험 및 GRADE 방법을 사용하여 대상 임상시험의 방법론적 질을 평가했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "4건의 임상시험(여성 1,646명)을 대상으로 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "무작위화 방법은 총 4건의 임상시험에서 알수 없었으며, 배정은폐는 1건에서만 보고되고 있었다. 2건은 참가자와 결과에 대해 눈가림을 하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "경구용 캡슐 또는 정제로 투여한 비타민 B6에 의해 임신 여성의 충치 위험이 감소했다(캡슐: 위험비(RR) 0.84; 95% 신뢰구간(CI) 0.71˜0.98; 1건의 임상시험, 371명의 참가자, 근거의 질 낮음 ; 정제: RR 0.68; 95% CI 0.56‐0.83; 1건의 임상시험, n=342, 근거의 질 낮음 ). 1건의 소규모 임상시험에서는 비타민 B6 보충에 따른 평균 출생 체중의 저하가 인정되었다(평균차 ‐0.23 kg; 95% CI ‐0.42˜0.04; 33명의 참가자; 1건의 임상시험).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "경련(캡슐: 1,242명의 참가자; 3건의 임상시험; 정제: 944명의 참가자; 1건의 임상시험), 자간전증(캡슐: 1,197명의 참가자; 2건의 임상시험, 근거의 질 낮음 ; 정제: 944명의 참가자; 1건의 임상시험, 근거의 질 낮음 ) 또는 생후 1분 후 아프가 점수 하락(경구 피리독신: 45명의 참가자; 1건의 임상시험)의 위험에 대한 보충군과 비 보충군 사이에 통계학적으로 유의미한 차이는 나타나지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "생후 5분 후의 아프가 점수, 모유 생산에 대해 대조군과 분만 중 피리독신 경구 투여군(24명; 1건의 임상시험) 또는 근육 내 주사(24명의 참가자; 1건의 임상시험)를 받은 여성 사이에 차이는 나타나지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "전반적으로 비뚤림위험은 없는 것으로 확인되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "GRADE를 이용한 근거의 질은 자간전증과 충치 둘 다에서 낮았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "기타 주요 결과인 임신 연령 37주 전의 조산 및 저체중 출산을 대상으로 한 임상시험은 보고되지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "일부 임상 결과만을 보고한 임상시험이 몇몇 있었지만, 대부분의 임상시험은 방법론이 불명확하며, 추적 관찰도 불충분했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "충치 예방을 시사하는 임상시험을 제외하고 근거가 불충분했기 때문에 임신과 분만 중의 비타민 B6 보충의 임상적 효과를 발견할 수 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "이번 결과와 다른 결과(구강 안면 균열, 심혈관 기형, 신경 발달, 조산, 자간전증이나 부작용)를 평가하는 임상시험이 앞으로 필요하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 연구는 임신 중에 비타민 B6이 포함된 일상적인 보충제가 충치 예방을 제안하는 것을 제외하고는 어떤 혜택이 있다는 무작위대조시험으로부터의 근거를 제공할 수 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "하루치 이상 권장되는 허용량은 무감각함과 걷기가 어려운 것과 관련이 있기 때문에 너무 많이 섭취하면 몸에 해로울 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비타민 B6는 인체의 다양한 신진대사 과정에서 필수적인 역할을 하고 신경계의 발전을 돕는 수용성 비타민이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비타민 B6는 고기, 가금류, 생선, 야채 그리고 바나나를 포함한 많은 음식에 포함되어 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "어머니의 혈압이 높고 단백뇨의 수치가 높은 경우 및 태아가 일찍 태어난 경우(조산)에 비타민 B6이 자간전증의 예방에 도움이 될 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비타민 B6는 임신 중 메스꺼움을 감소시킬 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이번 4건의 임상시험(임산부 1,646명)을 검토하고 자간전증이나 조산의 가능성을 감소시키는 것을 목적으로 한 임신 중 비타민 B6의 정기적 보충을 평가했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "경구용 캡슐 또는 정제로 섭취된 비타민 B6는 1건의 임상시험에서만 임신 여성의 충치 위험을 감소시켰다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "알약은 더 큰 효과를 갖기 때문에, 피리독신의 구강 내 투여의 국소적 효과가 제안된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "경련이나 자간전증의 위험에 뚜렷한 차이는 없었다(3건의 임상시험 및 2건의 임상시험 각각에서 근거의 질은 낮았다).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "임상시험에서 기타 유용한 평가를 가능하게 하는 데이터는 충분하지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "포함된 임상시험은 1960˜1983년에 실시되었으며, 심혈관 기형이나 구강 안면 균열의 저하 등 비타민 B6과의 관련성이 최근에 밝혀진 것과 같은 신생아의 중요한 결과를 포함하지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "임상시험은 임신의 서로 다른 시기에 실시되었으며, 대부분은 후속 관찰을 시행하지 않은 확률이 높고, 비타민 B6(피리독신)의 부작용을 평가하지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "구강 안면 균열, 심혈관 기형, 신경 발달, 조산, 자간전증이나 부작용 등의 결과를 평가하는 새로운 임상시험이 도움이 될 것이다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

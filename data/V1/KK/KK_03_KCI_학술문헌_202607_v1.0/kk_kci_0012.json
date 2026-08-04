@@ -1,0 +1,640 @@
+{
+  "document_id": "kk_kci_0012",
+  "meta": {
+    "set": "KK",
+    "source_folder": "11",
+    "source_code": "kci",
+    "source_name": "국내 학술지 논문(KCI)",
+    "orig_doc_id": "CEX-HPLC법을 사용한 단클론항체의 가혹처리 영향 분석.pdf",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 학술지 논문(KCI)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "KFDC규제과학회지 제18권 제1호, 15-23, 2023 CEX-HPLC법을 사용한 단클론 손애라1,2· 1식품의약품안전평가원 첨단바이오융 초록 단클론항체의약품은 그 특이성과 높은 효능성으로 인 에 폭넓게 응용되고 있으며 가파르게 세계 바이오시장을 점 턴의 변화, 산화, 탈아미드화 같은 단백질 변형으로 품질 및 정성 확보 및 엄격한 품질 관리가 필수적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히 제조과 항체의약품의 전하변이체는 의약품의 효능 및 안정성 평가 본 연구에서는 가혹조건이 단클론항체의약품의 전하변이체 관조건과 다른 온도나 pH 가혹조건에서의 단클론항체의 분 도와 pH를 변화시켜 인위적으로 품질을 저하시킨 검체를 유 전하변이체 분석법인 양이온교환 크로마토그래피(CEX-HP 을 측정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 온도변화(4~40C)에 따른 단클론항 율에는 큰 변화가 관찰되지 않았으나, 온도 및 pH를 모두 변화 가 가혹처리 시간이 증가함에 따라 현저히 감소하는 경향을 이체 변화가 큰 것으로 확인되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 낮은 pH 조건(2-4) 향을 미치는 것을 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서, 단클론항체의약품의 ·운송 중의 잠재적인 가혹조건 노출에 대한 전하변이체의 변 도 및 pH 가혹처리에 따른 단클론항체의 전하변이체 변화를 가시 고려사항을 제공하였으며, 향후, 단클론항체의약품의 효 주요어 단클론항체의약품, 전하변이체, 가혹시험, 안정성, I. 서 론 전 세계 의약품 시장에서 바이오의약품이 차지하는 비중 은 해마다 크게 증가하고 있으며, 특히 항체의약품은 바이 오의약품 총매출액의 50% 이상을 차지할 만큼 가파른 성장 세를 보이고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "항체의약품은 표적질환에 대해 특이적 으로 작용하여 치료효과가 크고 부작용이 적으므로, 기존의 합성의약품으로 치료가 어려운 난치성 암이나 자가면역질 환, 감염성 질환에 다양하게 응용·개발되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그러나, 항 체단백질이 가지는 구조적 복잡성 및 가변성으로 인해 특성 분석이 어렵고, 이상반응 또한 유발할 수 있기 때문에, 보다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "정확하고 과학적으로 합리적인 품질 및 안정성·유효성 평가 가 매우 중요하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "인간은 체내의 면역반응을 통하여 외부의 유해 물질, 세 균, 바이러스와 같은 항원에 특이적으로 결합하는 항체를 생산하여 항원을 제거하거나 독소를 중화시킨다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 항 체의 특성을 이용하여 질병의 진단, 예방, 치료를 목적으로 하는 항체의약품의 광범위한 연구·개발이 활발히 진행되고 교신저자, 박미선 (281 충북 청주시 흥덕구 오송읍 오송생명2로 18 (Tel: 043-719-4751, Fax: 043-719-4750, E-mail: mpark7@korea.kr) 론항체의 가혹처리 영향 분석 ·박미선1† 융복합연구과, 2충북대학교 약학대학 인하여 난치성 암 뿐만 아니라, 감염성질환, 면역질환 치료 점유하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "항체의약품은 다양한 원인에 의해 당사슬패 및 생물학적 활성에 민감한 영향을 받을 수 있기 때문에, 안 과정이나 보관·유통 중의 온도, pH 등에 따라 생길 수 있는 가를 위한 품질 항목으로써 전주기적으로 관리되어야 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "체 생성에 미치는 영향을 조사하기 위하여, 기존에 설정된 보 분해양상 및 물리화학적 변화를 정량적으로 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "온 유럽약전에 수재되어 있는 인플릭시맙(Infliximab) 농축액의 PLC)를 사용하여 노출시간의 경과에 따른 전하변이체의 량 항체의 주피크 및 각 전하변이체(acidic and basic) 피크의 비 화시킨 가혹조건에서는 단클론항체의 주피크의 % peak area o o o 을 보였으며, 특히, 40C에서는 4C 및 25C에 비하여 전하변 )이 높은 pH(8-9)에 비해 전하변이체의 비율 변화에 크게 영 제조공정 중 pH의 변화에 따른 전하변이체의 평가 및 보관 변화를 유의하여 모니터링할 것을 제안한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이상과 같이 온 를 정량적으로 평가함으로써 단클론항체의약품의 안정성 평 효율적인 품질관리에 참고자료로 활용하기를 기대한다. 1985년에 얀센에서 최초로 개발된 Orthoclone (OKT 은 마우스 항체로써 hybridoma cell 기술이 사용되었으며, 그 이후로는 항체의약품 개발 기술이 발전함에 따라 환자 체내의 면역원성을 최소화하기 위하여 동물 유래 부분의 비 중을 줄이고, 보다 인간 항체와 유사하게 제작된 키메라 항 체(chimeric antibody), 인간화 항체(humanized antibody), 인간 항체(human antibody) 등이 개발되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "키메라 단 클론항체(mAb; monoclonal antibody)의 일종인 Infliximab 은 종양괴사인자(TNF-ɑ; Tumor necrosis factor alpha)에 결 합하여 그 기능을 억제하는 작용기전을 가진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "주로 류마 티스 관절염, 크론병, 궤양성 대장염 등 자가면역질환의 치 료목적으로 사용된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "항체의약품은 제제 특성상 온도의 변화나 빛, 산화와 같 은 환경적 요인에 의해 변성되기 쉬우므로 의약품의 품질관 리를 위한 엄격한 보관조건 및 사용기간 설정이 필요하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 이를 뒷받침하는 의약품의 안정성 및 유효성 평가를 위한 근거자료로써 물리화학적 특성, 생물학적 활성, 면역 학적 특성, 순도 및 불순물 등을 포함하는 특성 분석을 수 87 식품의약품안전평가원 첨단바이오융복합연구과 16 손애라·박미선 행하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히 단클론항체는 합성화학의약품에 비 하여 구조적으로 복잡하며 생산·제조 공정 및 의약품 보관 과정에서 잠재적인 물리화학적 변형으로 인하여 C-말단 절 단, 산화, 탈아미드화, 이성질체화, 당화, 응집 등의 원인으 로 전하적 이질성을 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "항체의약품의 전하적 이질성 은 의약품의 생물학적 활성 등에 직접적인 영향을 미칠 수 있으므로 정확하고 신속하게 전하적 이질성을 평가할 수 있 는 시험법의 확립 및 적용이 필요하며 규제과학적 관점에서 도 중요하게 다루어져야 하는 부분이다, 1.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "가혹시험은 의약품 제조 공정 및 보관조건에서의 분해 경 향 평가, 제품 변이체 및 불순물 분리 및 특성화, 제품 고유 의 안정성 등 다양한 목적으로 의약품의 전주기에 걸쳐 적 용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히, 단클론항체의약품의 연구 및 개발과정 에서 일반적으로 많이 사용되고 있는 가혹시험 연구결과는 의약품의 분해 경로를 이해하고 보관 중 유효성분의 분해정 도를 모니터링 하는 등, 항체의약품의 안정성 확보를 위한 유용한 자료로 활용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "단클론항체의 가혹조건에 는 고온, 동결 및 해동, 교반, pH, 빛 등이 포함되며, 이러 한 다양한 조건에 의해서 탈아미드반응(deamidation), 산화 반응(oxidation), 응집(aggregation), 단편화(fragmentation) 등의 단백질 변형이 일어난다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히, 단클론항체의 일반 적인 화학적 분해반응인 탈아미드화 반응은 산성변이체를, 산화반응은 염기성 변이체를 생성하는데, 이러한 전하 변이체는 항원-항체 결합 저하, Fc-FcRn 결합 저하, 단백질 구조 및 기능 변형 등의 원인이 되어 생물학적 활성을 저하 및 안정성 등에 잠재적인 영향을 미칠 수 있다는 보고가 있 기 때문에, 반드시 평가되어야 할 품질항목 중 하나이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "CEX-HPLC법은 단클론항체의 품질평가에 중요한 전하 이질성 분석에 유용하게 사용되는 시험법으로써, 이동상 의 염(salt) 농도를 점차 높이거나 pH를 조절하면서, 또는 두 변수를 동시에 조절하면서 단백질을 분리하여, 표면 전하가 낮은 단백질이 표면 전하가 높은 단백질보다 먼저 용리되는 원리이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "전하변이체는 단클론항체의약품의 효능 및 안정 성에 영향을 미칠 수 있으므로 전하변이체의 변화를 정확하 게 평가하고 품질관리 항목으로써 관리되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서, 본 연구에서는 CEX-HPLC법을 사용하여 온도 및 pH 가혹 처리 조건에 따른 단클론항체의 전하변이체의 변화를 평가 함으로써 단클론항체의약품의 안정성 평가를 위한 기초자 료를 제공하고, 단클론항체의약품의 개발 및 연구에 도움을 주고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "II. 연구방법 1. 시약 및 재료 시약은 Sodium dihydrogen phosphate(Cat#. 1.06342, Merck), Disodium hydrogen phosphate dihydrate(Cat#. 1.06580, Merck), Sodium chloride(Cat#.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "S7653, Sigma), 1N Hydrochloric acid(Cat#. 083-01095, Wako), 1N Sodium hydroxide solution(Cat#. 192-02175, Wako), HPLC grade water(Cat#.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "AH365-4, Burdick&Jackson)을 사용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Analytical Column은 Dionex propac WCX-10(4mm×250 mm, 10µm)(Cat#. 054993, Thermo ScientificTM), Guard column은 Dionex propac WCX-10(4mm×50mm, 10µm) (Cat#. 054994, Thermo ScientificTM)을 사용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "분석장 비는 HPLC(US/e2695, Waters)를 사용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "검체는 Infliximab CRS(Cat#.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Y0002047, EDQM)를 사용하였다. 2. 시험방법 Infliximab의 전하변이체 분석은 European Pharmacopoeia 10.0의 Infliximab concentrated solution의 Charged variants에 따라 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이동상 A는 sodium dihydrogen phosphate와 di-sodium hydrogen phosphate dihydrate를 혼합하고 1N HCl 또는 1N NaOH를 사용하여 pH 를 7.25로 조정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이동상 B는 sodium dihydrogen phosphate, di-sodium hydrogen phosphate dihydrate, sodium chloride를 혼합하고 1N HCl 또는 1N NaOH를 사용하여 pH를 7.25로 조정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이동상 A와 B는 0분에서 21분까 지 시간에 따른 농도구배를 적용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이동상 A는 100% → 92%(0~15분), 92% → 60%(15~16분), 60% → 40%(16~ 21분)으로 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "컬럼온도는 25oC, 자동시료주입기의 온도는 10oC로 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "검체는 Infliximab CRS를 이동 상 A로 희석하여 1mg/mL 농도로 조제 한 후, 50µL 주입 하여 UV detector(214nm)에서 0.8mL/min의 유속으로 분 석하였다. 3. 가혹 검체 준비 가혹 검체를 조제하기 위한 가혹조건 설정은 Nowak 등 (20의 문헌을 참고하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "문헌에 제시된 단클론항체 의 전하변이체 변화를 확인할 수 있는 가혹조건에는 고온, 동결 및 해동, 교반, pH, 빛, 산화 등이 있으며, 이 중 온도 및 pH 조건을 선정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "다양한 온도 및 pH 조건하에서 인위적으로 가혹처리하여 Infliximab의 전하변이체를 증가 시킨 후, CEX-HPLC법으로 단클론항체의 전하변이체의 변 화 정도를 확인하였다. 3.1 열 가혹처리(Heat stress) Infliximab CRS를 증류수로 희석하여 1mg/mL의 농도로 조제하고 4oC, 25oC, 40oC에서 각각 1, 2, 3, 4, 7일 동안 보 관하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "추가적으로 단시간 동안의 가혹 처리 영향 평가 를 위하여 40oC에서 5, 10, 15, 20, 30분 동안 보관하여 가 혹검체를 확보하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "열로 가혹처리한 검체는 CEX-HPLC 법으로 분석하였다. 3.2 pH 가혹처리(pH stress) Infliximab CRS를 증류수로 희석하여 10mg/mL의 농도 로 조제하고 0.1N HCl 또는 0.1N NaOH를 처리 후 최종 농도가 1mg/mL가 되도록 낮은 pH, 높은 pH의 시료를 각 각 조제하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "낮은 pH의 범위는 pH 2-4, 높은 pH 범위는 pH 8-9로 조정하였다. pH 조절을 통하여 가혹처리한 시료 를 4oC, 25oC에서 각각 1, 2, 3, 4일 동안 보관하여 가혹검 solution (1mg/mL) with a pI value of 7.4.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The main peak, acidic var CEX-HPLC:cation exchange-high performance liquid chromatograph 1, day 2, day 3, day 4, day 7) after heat-stress on Infliximab at 4°C, 4°C. (B), (C) The % peak area of acid variants increased according to peak and basic variants decreased.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "CEX-HPLC:cation exchange high performance liquid chromatograph CEX-HPLC법을 사용한 단클론항체의 가혹처리 영향 분석 17 체를 확보하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "추가적으로 단시간 동안의 가혹 처리 영 향 평가를 위하여 낮은 pH, 높은 pH의 시료를 40oC에서 5, 10, 15, 20, 30분 동안 보관하였다. pH 처리 가혹검체는 CEX-HPLC법으로 분석하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "III. 연구결과 및 고찰 1. 실험결과 1.1 CEX-HPLC법 적용 결과 CEX-HPLC법에 따라 Infliximab의 전하변이체를 분석한 olution.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Example profiles obtained using CEX-HPLC for Infliximab riant peaks, and basic variant peaks are denoted.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The CEX-HPLC analysis was performed for five days (day 25°C, and 40°C. (A) No change in charge variants was observed at o the stress test time at 25°C and 40°C, and the % peak area of main 18 손애라·박미선 결과, 산성변이체(Acidic variants), 주피크(Main peak) 및 염기성변이체(Basic variants)가 모두 검출되었으며 % peak area는 각각 20.8%, 38.9%, 40.3%로 확인되었다(Fig. CEX-HPLC법을 사용한 단클론항체의 가혹처리 검체 분석 1.2.1.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Heat stress 4oC, 25oC, 40oC 온도에서의 가혹 처리시간 경과(1일, 2 일, 3일, 4일, 7일)에 따른 단클론항체의 전하변이체 양상 분 석 결과, 4oC에서는 가혹 처리시간 경과에 따른 전하변이체 (산성, 염기성) 및 주피크의 % peak area의 변화는 관찰되 지 않았으며(Fig. 2. (A), Table 1), 25oC와 40oC에서는 가혹 처리시간 경과에 따라 산성변이체의 % peak area는 증가하 고 주피크와 염기성변이체의 % peak area가 감소하는 것을 확인하였다(Fig. 2. (B),(C), Table 1). 1.2.2. pH stress 온도 변화(4oC, 25oC) 및 pH 변화(낮은 pH, 높은 pH)에 서의 가혹 처리시간 경과에 따른 Infliximab의 전하변이체 양상 분석 결과, 4oC에서는 가혹 처리시간 경과에 따라 낮 은 pH, 높은 pH의 시료 모두 주피크 및 산성변이체 % peak area는 감소하고 염기성 변이체의 % peak area는 증가하였 으며, 낮은 pH에서 높은 pH에 비하여 전하변이체의 변화가 더 뚜렷하게 관찰되었다(Fig. 3. (A),(B), Table 2). 25oC에서 는 가혹 처리시간 경과에 따라 낮은 pH의 시료는 산성변이 체 및 주피크의 % peak area는 감소하고 염기성변이체의 % peak area는 증가하는 것을 확인하였으며, 높은 pH의 시료 는 산성변이체의 % peak area는 증가하고 주피크와 염기성 변이체의 % peak area는 감소하는 양상을 나타내었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 낮은 pH와 높은 pH 조건 모두 3일차 부터는 전하변이체의 변화를 확인할 수 없었다(Fig. 3. (C),(D), Table 2). ants of Infliximab after heat-stress by using CEX-HPLC analysis ants of Infliximab after pH-stress by using CEX-HPLC analysis 3, day 4) after pH stress (low pH, high pH). (A), (B) At 4°C, both lo main peak and acidic variants and an increase in the % peak area of was more clearly observed compared to high pH at low pH. (C), (D) and main peak were decreased, and the % peak area of basic variants of acidic variants was increased and the % peak area of main peak and b was observed from day 3 in both low pH and high pH conditions.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "* The low pH range is 2-4, and the high pH is 8-9.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "CEX-HPLC:cation exchange-high performance liquid chromatograph 1.2.3. 단시간 가혹 처리 영향 확인 단시간 동안의 온도 및 pH 가혹 처리 조건에 따른 전하 변이체의 변화를 비교한 결과, 40oC에서 단시간(5분, 10분, CEX-HPLC법을 사용한 단클론항체의 가혹처리 영향 분석 19 iximab.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The analysis was performed for four days (day 1, day 2, day ow pH and high pH samples showed a decrease in the % peak area of basic variants over the stress test time.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The change in charge variants At the low pH at 25°C conditions, the % peak area of acidic variants s was increased.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "At the high pH at 25°C conditions, the % peak area basic variants were decreased.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "In addition, no change in charge variants hy, ND: Not detected 15분, 20분, 30분) 가혹 처리된 Infliximab의 전하변이체(산 성, 염기성), 주피크의 변화는 관찰되지 않았다(Fig. 4. (A), 20 손애라·박미선 sentative peak profiles of Infliximab solution (1mg/ml) resulted from in the different pH conditions; (A)normal pH (pH 7), (B)low pH (pH charge variants (acidic and basic) were observed when infliximab was hand, the total peak area of infliximab was rapidly decreased when it area of infliximab with heat-stress (40°C) in different pH conditions CEX-HPLC:cation exchange-high performance liquid chromatograph 시간(5분, 10분, 15분, 20분, 30분) 가혹 처리 하였을 때에 는 낮은 pH, 40oC 조건에서의 크로마토그램에서는 가혹 처 리 시간이 경과됨에 따라 전체적인 피크의 면적이 감소하 는 것을 확인하였다(Fig. 4. (B), (C), (D), Table 3). 1.3 가혹처리 조건에 따른 영향 비교·분석 다양한 온도(4oC, 25oC, 40oC) 및 pH(낮은 pH, 높은 pH) 조건에서 인위적으로 가혹처리한 Infliximab을 CEX-HPLC 법으로 분석해보았을 때, 온도 조건 변화에 따른 전하변이 체 변화는 25oC와 40oC에서만 확인되었으며, 전체적으로 주피크 및 염기성변이체의 % peak area가 감소하고 산성변 이체의 % peak area는 증가하는 경향을 보였다. pH 조건 변 화(낮은 pH, 높은 pH)에 따른 전하변이체 변화는 4oC일 때 낮은 pH에서 높은 pH에 비하여 명확하게 확인되었으며, 25oC일때는 높은 pH에서의 전하변이체 변화가 낮은 pH에 비하여 명확하게 확인되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이처럼 온도 및 pH 가혹처리 mab under different pH conditions with high temperature.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Reprem CEX-HPLC analysis at 5, 10, 15, 20, 30 min after heat-stress (40°C) H 2-4), (C)high pH (pH 8-9) condition.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "No changes in main peak and s exposed to 40°C in normal pH or high pH conditions.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "On the other t was exposed to 40°C in low pH conditions. (D)Mean of total peak within short-term stress. erm stress with heat in different pH by using CEX-HPLC 조건에 따라서 변화하는 전하변이체 패턴을 확인하고, 항체 의약품의 품질관리 및 안정성 평가를 위한 올바른 보관 및 운반 조건설정이 필요하며, 이를 위하여 다양하게 노출될 수 있는 외부조건들이 고려되어야 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "IV. 결 론 본 연구에서는 유럽약전에 따라 Infliximab의 CEX-HPLC 분석을 수행하여 Infliximab에 대한 전하변이체 분석법의 적용성 시험을 수행하였고, Infliximab에 인위적으로 온도 및 pH 조건을 변경하여 가혹처리한 검체를 조제하고 CEX- HPLC법을 적용하여 가혹처리 조건 및 시간경과에 따른 전 하변이체의 변화를 분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 단클론항체는 온 도 및 pH 변화에 따라 전하변이체 양상이 변화하고 온도 조 건보다 pH 가혹 조건이 전하변이체에 미치는 영향이 더 큰 것으로 확인되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서, 잠재적인 가혹 조건 노출에 대 한 전하변이체 변화 패턴을 정확하게 분석하고 평가하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구를 통하여 도출된 결과는 단클론항체의약품의 개발 및 생산을 포함하는 전 주기적 의약품 품질관리 시 기 초자료로써 유용하게 활용되리라 사료된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 2020~2022년도 식품의약품안전평가원 연구개 발과제 (19171첨단바1, (20171바약안1 지원으로 수 행되었으며 이에 감사드립니다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

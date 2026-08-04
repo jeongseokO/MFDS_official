@@ -1,0 +1,478 @@
+{
+  "document_id": "kk_mfds_guide_0012",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "(안내서-0865-02) 한약(생약)의 기준 미설정 잔류농약 적부판정 해설서(민원인안내서).pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1.1. 목적",
+      "path": null,
+      "ko_txt": "의약품으로 사용되는 한약(생약)은「대한민국약전」및「대한민국약전외한약(생약) 규격집」에‘가자’등 총 599품목(가루생약 및 포제품 포함)이 수재되어 있으며, 그 중 466품목에 대하여 각조에서 규정하는 잔류농약 기준을 따르게 되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1.1. 목적",
+      "path": null,
+      "ko_txt": "‘｢대한민국약전｣ 일반시험법 28.생약시험법 순도시험 다.잔류농약 18)판정 나)항’에는 한약(생약) 중 공정서 의약품각조에 설정되지 아니한 농약이 검출되었을 경우 적부 판정 방법이 수재되어 있으며, 이때 필요한 상세한 정보를 본 안내서에 제공하여 검사기관 등에서도 직접 적부판정 할 수 있도록 도움을 주고자 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "1.2. 관련 법령 및 고시",
+      "path": null,
+      "ko_txt": "․ 약사법, 약사법 시행령 법령 ․ 의약품 등의 안전에 관한 규칙 ․ 한약(생약)제제 등의 품목허가·신고에 관한 규정 ․ 수입의약품등 관리 규정 고시 ․ 한약재 안전 및 품질관리 규정 ․ 대한민국약전(KP) ․ 대한민국약전외한약(생약)규격집(KHP).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "2.1. 관련규정",
+      "path": null,
+      "ko_txt": "‘｢대한민국약전」일반시험법 28.생약시험법 순도시험 다.잔류농약 18)판정’에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "2.1. 관련규정",
+      "path": null,
+      "ko_txt": "18) 판정 가) 의약품각조에서 규정하는 기준을 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "2.1. 관련규정",
+      "path": null,
+      "ko_txt": "다만, 따로 규정이 없는 한 생약 및 생약추출물은 총 디디티 (p,p'-D, p,p'-DDE, o,p'-DDT 및 p,p'-DDT의 합계) 0.1 ppm 이하, 디엘드린 0.01 ppm 이하, 총 비에이치씨 (α,β,γ및 δ-BHC의 합계) 0.2 ppm 이하, 알드린 0.01 ppm 이하, 엔드린 0.01 ppm 이하의 기준을 적용한다.(단, 원료 생약에 대하여 직접 검사한 생약의 추 출물의 경우에는 검사를 생략할 수 있다.) 나) 가)에 설정되지 아니한 농약이 검출되었을 때의 적부판정은 다음 각 호로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "2.1. 관련규정",
+      "path": null,
+      "ko_txt": "① 유럽약전 \"PESTICIDE RESIDUES\" 항의 기준에 따라 적부판정을 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "2.1. 관련규정",
+      "path": null,
+      "ko_txt": "② 유럽약전에 기준이 설정되지 않은 농약이 검출되면 식품의약품안전처장은 다 음의 계산식에 따라 위해평가를 실시하여 적부판정을 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "2.1. 관련규정",
+      "path": null,
+      "ko_txt": " ×  ×  ADI: 해당 농약의 일일섭취허용량 (mg/kg/day) M: 성인 평균체중 (60 kg) MDD: 해당 생약의 일일복용량(kg) 다) 나)에도 불구하고 다음 각 호의 경우는 개별 호에서 정하는 기준에 따라 적부 판정을 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "2.1. 관련규정",
+      "path": null,
+      "ko_txt": "① 각조에 잔류농약이 설정된 품목 중 \"식품의 기준 및 규격\"(식품의약품안전처 고시)의 농약 잔류허용기준을 따르는 생약에서 설정되지 아니한 농약이 검출된 경우는 \"식품의 기준 및 규격\"(식품의약품안전처 고시)의 '농산물의 잔류농약 기준적용' 및 '가공식품의 잔류농약 잠정 기준적용'을 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "2.1. 관련규정",
+      "path": null,
+      "ko_txt": "② '진피(陳皮)'와 '청피'에서 \"식품의 기준 및 규격\"(식품의약품안전처 고시)의 농 약 잔류허용기준 중 '감귤'에 설정된 농약이 검출되었을 경우에는 '감귤'의 기준 에 각 가공계수(진피 8, 청피 14)를 곱한 값을 기준으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "KP 및 KHP 각조 순도시험 중 “잔류농약” 항목이.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "잔류농약 검사대상이 아니오 ―→ 아님 설정되어 있습니까? 예↓ 각조의 잔류농약 항에 따라 판정함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "KP 및 KHP 각조에 검출된 농약의 잔류허용기준이.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "예 ※ 각조 잔류농약기준이 「식품의기준및규격」을 따르도록규정된품목은 PLS* 적용대상임 아니오 설정되어 있습니까? 식품의 기준 및 규격 ‘감귤’의 기준에.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "가공계수(진피 8, 청피 14)를 해당 품목은 다음 중 하나입니까?.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "진피(陳皮), 청피(靑皮) 곱한 값을 기준으로 판정함 아니오 ↓ 유럽약전의 기준에.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "유럽약전에 검출된 농약에 대한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "예 따라서 판정함 [붙임1] 유럽약전참조 잔류허용기준이 있습니까? 아니오 ↓.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "[붙임 2] 및 [붙임 3]을 참고하여 다음의 식에 따라 판정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "ADI: 해당 농약의 일일섭취허용량 (mg/kg/day) M: 성인 평균체중 (60 kg) MDD: 해당 생약의 일일복용량(kg) ADI×M MDD×100 ※ 판정기준의 산출 - 위의 식에 따라 나온 값이 0.01미만일 경우, 0.01을 판정기준으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "- 위의 식에 따라 나온 값이 0.95미만일 경우, 소숫점 이하 0을 제외한 숫자가 처음으로 나오는 자리에서 반올림하여 판정기준으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "- 이 때, 반올림한 값이 0이 되는 경우 그 다음 자리에서 반올림하여 판정기준으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"계산값 (mg/kg)\", \"판정기준 (mg/kg)\"], \"행\": [[\"0.73\", \"1.0\"], [\"0.05\", \"0.1\"], [\"0.42\", \"0.4\"], [\"0.0275\", \"0.03\"], [\"0.04\", \"0.04\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "- 위의 식에 따라 나온 값이 0.95이상 19.5미만일 경우 소숫점 첫째자리에서 반올림 하고, 판정기준을 소숫점 첫째자리로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "예) 계산값 (mg/kg) 판정기준 (mg/kg) 6.5 7.0 1.07 1.0 - 위의 식에 따라 나온 값이 19.5이상일 경우 소숫점 첫째에서 반올림하고, 판정기준은 1자리까지 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "2.2. 적부판정 절차",
+      "path": null,
+      "ko_txt": "예) 계산값 (mg/kg) 판정기준 (mg/kg) 21.4 21 20.05 20 * PLS(Positive List System) : 농약 허용물질목록 관리제도.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "3.1. 유럽약전‘PESTICIDE RESIDUES’",
+      "path": null,
+      "ko_txt": "○ 유럽약전 11.0‘PESTICIDE RESIDUES’항의 자료로 작성된 자료이며, 공정서 개정 등에 따른 변경사항이 있는 경우 최신의 정보를 적용하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "3.1. 유럽약전‘PESTICIDE RESIDUES’",
+      "path": null,
+      "ko_txt": "Substance Limit (mg/kg) 1 Acephate 0.1 2 Alachlor 0.05 3 Aldrin and dieldrin (sum of) 0.05 4 Azinphos-ethyl 0.1 5 Azinphos-methyl 1 6 Bromophos-ethyl 0.05 7 Bromophos-methyl 0.05 8 Brompropylate 3 9 Chlordane (sum of cis-, trans - and oxychlordane) 0.05 10 Chlorfenvinphos 0.5 11 Chlorpyriphos-ethyl 0.2 12 Chlorpyriphos-methyl 0.1 13 Chlorthal-dimethyl 0.01 14 Cyfluthrin (sum of) 0.1 15 λ-Cyhalothrin 1 16 Cypermethrin and isomers (sum of) 1 DDT (sum of o,p′-DDE, p,p′-DDE, o,p′-DDT, p,p′-DDT, 17 1 o,p′-TDE and p,p′-TDE) 18 Deltamethrin 0.5 19 Diazinon 0.5 20 Dichlofluanid 0.1 21 Dichlorvos 1 22 Dicofol 0.5 23 Dimethoate and omethoate (sum of) 0.1 24 Dithiocarbamates (expressed as CS2) 2 25 Endosulfan (sum of isomers and endosulfan sulphate) 3 26 Endrin 0.05 27 Ethion 2 28 Etrimphos 0.05 Fenchlorophos (sum of fenchlorophos and 29 0.1 fenchlorophos-oxon) 30 Fenitrothion 0.5 31 Fenpropathrin 0.03 Fensulfothion (sum of fensulfothion, 32 fensulfothion-oxon, fensulfothion-oxonsulfon and 0.05 fensulfothion-sulfon) Fenthion (sum of fenthion, fenthion-oxon, 33 fenthion-oxon-sulfon, fenthion-oxon-sulfoxid, 0.05 fenthion-sulfon and fenthion-sulfoxid) 34 Fenvalerate 1.5 35 Flucytrinate 0.05 36 τ-Fluvalinate 0.05 37 Fonophos 0.05 Heptachlor (sum of heptachlor, cis-heptachlorepoxide 38 0.05 and trans-heptachlorepoxide) 39 Hexachlorbenzene 0.1 40 Hexachlorocyclohexane (sum of isomers α-, β-, δ- and ε) 0.3 41 Lindan (γ-hexachlorocyclohexane) 0.6 42 Malathion and malaoxon (sum of) 1 43 Mecarbam 0.05 44 Methacriphos 0.05 45 Methamidophos 0.05 46 Methidathion 0.2 47 Methoxychlor 0.05 48 Mirex 0.01 49 Monocrotophos 0.1 50 Parathion-ethyl and Paraoxon-ethyl (sum of) 0.5 51 Parathion-methyl and Paraoxon-methyl (sum of) 0.2 52 Pendimethalin 0.5 53 Pentachloranisol 0.01 54 Permethrin and isomers (sum of) 1 55 Phosalone 0.1 56 Phosmet 0.05 57 Piperonyl butoxide 3 58 Pirimiphos-ethyl 0.05 Pirimiphos-methyl (sum of pirimiphos-methyl and 59 4 N-desethyl-pirimiphos-methyl) 60 Procymidone 0.1 61 Profenophos 0.1 62 Prothiophos 0.05 Pyrethrum (sum of cinerin I, cinerin II, jasmolin I, 63 3 jasmolin II, pyrethrin I and pyrethrin II) 64 Quinalphos 0.05 Quintozene (sum of quintozene, pentachloraniline and 65 1 methyl penthachlorphenyl sulfide) 66 S-421 0.02 67 Tecnazene 0.05 68 Tetradifon 0.3 69 Vinclozolin 0.4.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "3.2. 생약의 일일복용량",
+      "path": null,
+      "ko_txt": "○ 다음의 자료를 토대로 1일 복용량 중 최대량으로 작성된 자료이며, 이 값을 해당 생약의 일일복용량(MDD)에 대입한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "3.2. 생약의 일일복용량",
+      "path": null,
+      "ko_txt": "다만, 본 복용량 정보는 한약 (생약)의 잔류농약 적부판정 만을 위한 것으로 다른 목적으로 사용하는 것에 대해서는 검토된 바가 없음을 일러둔다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "3.2. 생약의 일일복용량",
+      "path": null,
+      "ko_txt": "1) 중화인민공화국약전(2022) 2) 대한약전 및 대한약전외 한약규격주해 제2개정 3) 한약공정서에 관한 연구(II)(2001), 한약공정서에 관한 연구(I)(2002), 한약공정서에 관한 연구(IV)(2003), 한약공정서 과학화 사업(2004) (단위: g) 일일 일일 일일 생약명 규격 생약명 규격 생약명 규격 복용량 복용량 복용량 1 가자 KP 10 21 고량강 KP 9 41 구맥 KHP 15 2 갈근 KP 15 22 고련피 KHP 9 42 구자 KHP 9 3 갈화 KHP 11 23 고목 KP 4.5 43 구절초 KHP 14 4 감국 KHP 15 24 고본 KHP 11 44 구척 KP 15 5 감송향 KHP 6 25 고삼 KP 11 45 국화 KHP 10 6 감수 KHP 4 26 곡기생 KHP 25 46 권백 KHP 11 7 감초 KP 11 27 곡아 KHP 19 47 권삼 KHP 9 8 강향 KHP 15 28 곡정초 KHP 15 48 귀전우 KHP 15 9 강활 KP 19 29 골담초근 KHP 30 49 귤핵 KHP 9 10 강황 KP 11 30 골쇄보 KP 19 50 금앵자 KP 30 11 개자 KHP 11 31 과체 KHP 6 51 금은화 KP 19 12 검인 KP 30 32 곽향 KHP 11 52 금전초 KHP 60 13 겐티아나 KP 0.5 33 관동화 KP 12 53 급성자 KHP 4.5 14 견우자 KP 11 34 관중 KHP 15 54 길경 KP 10 15 결명자 KP 15 35 괄루근 KP 15 55 길초근 KP 6 16 경천 KHP 30 36 괄루인 KP 15 56 나도근 KHP 60 17 계관화 KHP 12 37 광곽향 KP 10 57 낙석등 KHP 15 18 계심 KHP 3 38 광금전초 KHP 30 58 낭독 KHP 2.4 19 계지 KHP 10 39 괴각 KHP 19 59 내복자 KP 15 20 계혈등 KHP 19 40 괴화 KP 10 60 노근 KHP 37.5.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "3.2. 생약의 일일복용량",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"(단위: g)\", \"열\": [\"생약명\", \"규격\", \"일일 복용량\"], \"행\": [[\"노로통\", \"KHP\", \"\"], [\"두충엽\", \"KHP\", \"\"], [\"미사인\", \"KHP\", \"\"], [\"녹제초\", \"KHP\", \"\"], [\"등심초\", \"KP\", \"4.5\"], [\"밀몽화\", \"KHP\", \"\"], [\"뇌환\", \"KHP\", \"\"], [\"등피\", \"KHP\", \"\"], [\"박하\", \"KP\", \"\"], [\"누로\", \"KHP\", \"\"], [\"디기탈리스\", \"KHP\", \"0.6\"], [\"반대해\", \"KHP\", \"\"], [\"능소화\", \"KHP\", \"\"], [\"마발\", \"KHP\", \"\"], [\"반변련\", \"KHP\", \"\"], [\"다투라\", \"KHP\", \"1.5\"], [\"마인\", \"KHP\", \"\"], [\"반지련\", \"KHP\", \"\"], [\"단삼\", \"KP\", \"\"], [\"마전자\", \"KP\", \"0.6\"], [\"반하\", \"KP\", \"\"], [\"담죽엽\", \"KHP\", \"18.5\"], [\"마치현\", \"KHP\", \"\"], [\"방기\", \"KP\", \"\"], [\"당귀\", \"KP\", \"\"], [\"마편초\", \"KHP\", \"\"], [\"방풍\", \"KP\", \"\"], [\"당삼\", \"KP\", \"\"], [\"마황\", \"KP\", \"\"], [\"백굴채\", \"KHP\", \"7.5\"], [\"당약\", \"KP\", \"\"], [\"마황근\", \"KHP\", \"\"], [\"백급\", \"KHP\", \"\"], [\"대계\", \"KHP\", \"\"], [\"만형자\", \"KP\", \"\"], [\"백단향\", \"KHP\", \"7.5\"], [\"대극\", \"KHP\", \"4.5\"], [\"매괴화\", \"KHP\", \"\"], [\"백두구\", \"KP\", \"\"], [\"대두황권\", \"KHP\", \"\"], [\"맥문동\", \"KP\", \"\"], [\"백두옹\", \"KHP\", \"\"], [\"대복피\", \"KP\", \"\"], [\"맥아\", \"KHP\", \"\"], [\"백렴\", \"KHP\", \"\"], [\"대청엽\", \"KHP\", \"\"], [\"모근\", \"KP\", \"\"], [\"백미\", \"KHP\", \"\"], [\"대풍자\", \"KHP\", \"\"], [\"목근피\", \"KHP\", \"\"], [\"백부근\", \"KHP\", \"\"], [\"대황\", \"KP\", \"\"], [\"목단피\", \"KP\", \"\"], [\"백부자\", \"KHP\", \"7.5\"], [\"도인\", \"KP\", \"\"], [\"목방기\", \"KHP\", \"\"], [\"백선피\", \"KP\", \"\"], [\"독활\", \"KP\", \"\"], [\"목별자\", \"KHP\", \"1.2\"], [\"백수오\", \"KHP\", \"\"], [\"동과자\", \"KHP\", \"\"], [\"목적\", \"KHP\", \"\"], [\"백자인\", \"KP\", \"\"], [\"동과피\", \"KHP\", \"\"], [\"목천료\", \"KHP\", \"\"], [\"백전\", \"KHP\", \"\"], [\"동규자\", \"KHP\", \"\"], [\"목통\", \"KP\", \"\"], [\"백지\", \"KP\", \"\"], [\"두시\", \"KHP\", \"\"], [\"목향\", \"KHP\", \"\"], [\"백초상\", \"KHP\", \"\"], [\"두충\", \"KP\", \"\"], [\"무이\", \"KHP\", \"\"], [\"백출\", \"KP\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "3.2. 생약의 일일복용량",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"생약명\", \"규격\", \"일일 복용량\"], \"행\": [[\"백합\", \"KHP\", \"37.5\"], [\"산수유\", \"KP\", \"\"], [\"세네가\", \"KP\", \"137\"], [\"백화사설초\", \"KHP\", \"\"], [\"산자고\", \"KHP\", \"\"], [\"세신\", \"KP\", \"4.5\"], [\"벨라돈나근\", \"KP\", \"138\"], [\"산조인\", \"KP\", \"\"], [\"센나엽\", \"KP\", \"\"], [\"보골지\", \"KHP\", \"\"], [\"산초\", \"KP\", \"\"], [\"소계\", \"KHP\", \"\"], [\"보두\", \"KHP\", \"0.6\"], [\"삼릉\", \"KP\", \"\"], [\"소두구\", \"KP\", \"\"], [\"복령\", \"KP\", \"\"], [\"삼백초\", \"KHP\", \"\"], [\"소목\", \"KP\", \"\"], [\"복신\", \"KHP\", \"\"], [\"삼칠\", \"KHP\", \"\"], [\"속단\", \"KHP\", \"\"], [\"부자\", \"KP\", \"\"], [\"상기생\", \"KHP\", \"22.5\"], [\"속수자\", \"KHP\", \"\"], [\"부평\", \"KHP\", \"\"], [\"상륙\", \"KHP\", \"\"], [\"송화분\", \"KHP\", \"\"], [\"비자\", \"KHP\", \"\"], [\"상백피\", \"KP\", \"\"], [\"쇄양\", \"KP\", \"\"], [\"비파엽\", \"KP\", \"\"], [\"상산\", \"KHP\", \"\"], [\"수오등\", \"KHP\", \"\"], [\"비해\", \"KHP\", \"\"], [\"상심자\", \"KHP\", \"\"], [\"숙지황\", \"KP\", \"\"], [\"빈랑자\", \"KP\", \"\"], [\"상엽\", \"KHP\", \"\"], [\"스코폴리아근\", \"KP\", \"198\"], [\"사간\", \"KHP\", \"\"], [\"상지\", \"KHP\", \"\"], [\"승마\", \"KP\", \"\"], [\"사과락\", \"KHP\", \"\"], [\"생지황\", \"KHP\", \"37.5\"], [\"시라자\", \"KHP\", \"\"], [\"사군자\", \"KHP\", \"\"], [\"서장경\", \"KHP\", \"\"], [\"시체\", \"KHP\", \"\"], [\"사삼\", \"KHP\", \"\"], [\"석곡\", \"KHP\", \"\"], [\"시호\", \"KP\", \"\"], [\"사상자\", \"KHP\", \"\"], [\"석류\", \"KHP\", \"\"], [\"식방풍\", \"KHP\", \"\"], [\"사원자\", \"KHP\", \"\"], [\"석류피\", \"KHP\", \"\"], [\"신곡\", \"KHP\", \"\"], [\"사인\", \"KP\", \"7.5\"], [\"석송자\", \"KHP\", \"\"], [\"신근초\", \"KHP\", \"\"], [\"사프란\", \"KP\", \"\"], [\"석예초\", \"KHP\", \"\"], [\"신이\", \"KHP\", \"\"], [\"사향초\", \"KHP\", \"\"], [\"석위\", \"KHP\", \"\"], [\"아마인\", \"KP\", \"\"], [\"산내\", \"KHP\", \"\"], [\"석창포\", \"KHP\", \"\"], [\"아출\", \"KP\", \"\"], [\"산두근\", \"KHP\", \"\"], [\"선모\", \"KHP\", \"\"], [\"애엽\", \"KHP\", \"\"], [\"산사\", \"KP\", \"\"], [\"선복화\", \"KHP\", \"\"], [\"앵피\", \"KHP\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "3.2. 생약의 일일복용량",
+      "path": null,
+      "ko_txt": "(단위: g) 일일 일일 일일 생약명 규격 생약명 규격 생약명 규격 복용량 복용량 복용량 211 양제근 KHP 30 236 용안육 KP 19 261 인진호 KHP 15 212 양파 KHP 14 237 우담남성 KHP 14 262 일당귀 KHP 14 213 어성초 KHP 25 238 우방자 KP 12 263 자근 KP 11 214 여로 KHP 0.9 239 우슬 KP 15 264 자단향 KHP 14 215 여정실 KHP 15 240 우절 KHP 15 265 자소엽 KP 10 216 여지핵 KHP 10 241 욱리인 KHP 10 266 자소자 KHP 11 217 연교 KP 19 242 운대자 KHP 9 267 자실 KHP 10 218 연자심 KHP 5 243 울금 KP 11 268 자오가 KHP 27 219 연자육 KP 15 244 원지 KP 11 269 자완 KP 11 220 연전초 KHP 30 245 원화 KHP 4 270 자화지정 KHP 37.5 221 열당 KHP 9 246 위령선 KHP 11 271 작약 KP 15 222 영릉향 KHP 15 247 위릉채 KHP 15 272 저령 KP 15 223 영실 KHP 11 248 유기노 KHP 30 273 저마근 KHP 15 224 예지자 KHP 9 249 유백피 KHP 9 274 저백피 KHP 9 225 오가피 KP 11 250 육계 KP 7.5 275 저실자 KHP 15 226 오매 KP 14 251 육두구 KP 10 276 적전 KHP 10 227 오수유 KP 7.5 252 육종용 KHP 15 277 전호 KHP 11 228 오약 KP 11 253 율초 KHP 18 278 절패모 KP 11 229 옥죽 KHP 15 254 은시호 KHP 10 279 접골목 KHP 19 230 옥촉서예 KHP 75 255 은행엽 KP 12 280 정공등 KHP 9 231 와송 KHP 30 256 음양곽 KP 15 281 정력자 KHP 9 232 왕불류행 KHP 11 257 익모초 KP 30 282 정류 KHP 10 233 용규 KHP 37.5 258 익지 KP 11 283 정제부자 KHP 3 234 용담 KP 11 259 인도사목 KHP 15 284 정향 KP 4.5 235 용아초 KHP 19 260 인동 KP 37.5 285 제니 KHP 9.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "3.2. 생약의 일일복용량",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"생약명\", \"규격\", \"일일 복용량\"], \"행\": [[\"조각자\", \"KP\", \"\"], [\"천년건\", \"KHP\", \"\"], [\"토사자\", \"KHP\", \"\"], [\"조구등\", \"KHP\", \"\"], [\"천련자\", \"KHP\", \"\"], [\"통초\", \"KHP\", \"\"], [\"조협\", \"KHP\", \"\"], [\"천마\", \"KP\", \"\"], [\"파극천\", \"KP\", \"\"], [\"종대황\", \"KHP\", \"\"], [\"천문동\", \"KP\", \"\"], [\"파두\", \"KP\", \"0.3\"], [\"종려피\", \"KHP\", \"\"], [\"천오\", \"KHP\", \"7.5\"], [\"판람근\", \"KHP\", \"\"], [\"죽여\", \"KHP\", \"\"], [\"천초근\", \"KHP\", \"\"], [\"팔각회향\", \"KP\", \"341\"], [\"지각\", \"KHP\", \"\"], [\"천패모\", \"KP\", \"\"], [\"패란\", \"KHP\", \"\"], [\"지골피\", \"KP\", \"\"], [\"청대\", \"KHP\", \"\"], [\"패장\", \"KHP\", \"\"], [\"지구자\", \"KHP\", \"\"], [\"청상자\", \"KHP\", \"\"], [\"편축\", \"KHP\", \"\"], [\"지모\", \"KP\", \"\"], [\"청피\", \"KP\", \"\"], [\"포공영\", \"KHP\", \"\"], [\"지부자\", \"KP\", \"\"], [\"청호\", \"KHP\", \"\"], [\"포황\", \"KHP\", \"\"], [\"지실\", \"KP\", \"\"], [\"초과\", \"KP\", \"\"], [\"피마자\", \"KHP\", \"\"], [\"지유\", \"KHP\", \"\"], [\"초두구\", \"KP\", \"\"], [\"필발\", \"KHP\", \"4.5\"], [\"지황\", \"KP\", \"\"], [\"초오\", \"KHP\", \"\"], [\"필징가\", \"KHP\", \"4.5\"], [\"진교\", \"KHP\", \"\"], [\"촉규화\", \"KHP\", \"\"], [\"하고초\", \"KP\", \"\"], [\"진피\", \"KP\", \"\"], [\"충위자\", \"KHP\", \"\"], [\"하르파고\", \"351\", \"피툼근\"], [\"진피\", \"KHP\", \"\"], [\"측백엽\", \"KHP\", \"\"], [\"하수오\", \"KP\", \"\"], [\"질려자\", \"KP\", \"\"], [\"치자\", \"KP\", \"\"], [\"하엽\", \"KHP\", \"\"], [\"차전자\", \"KP\", \"\"], [\"칠피\", \"KHP\", \"\"], [\"학슬\", \"KHP\", \"\"], [\"차전초\", \"KHP\", \"\"], [\"콘두란고\", \"330\", \"KP\"], [\"한련초\", \"KHP\", \"\"], [\"창이자\", \"KP\", \"\"], [\"택란\", \"KP\", \"\"], [\"한속단\", \"KHP\", \"\"], [\"창출\", \"KP\", \"\"], [\"택사\", \"KP\", \"\"], [\"한인진\", \"KHP\", \"\"], [\"천골\", \"KHP\", \"\"], [\"토근\", \"KP\", \"\"], [\"합환피\", \"KHP\", \"\"], [\"천궁\", \"KP\", \"\"], [\"토목향\", \"KHP\", \"\"], [\"해금사\", \"KHP\", \"\"], [\"천남성\", \"KP\", \"\"], [\"토복령\", \"KHP\", \"\"], [\"해대\", \"KHP\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "3.2. 생약의 일일복용량",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"생약명\", \"규격\", \"일일 복용량\"], \"행\": [[\"해동피\", \"KP\", \"\"], [\"현호색\", \"KP\", \"\"], [\"황련\", \"KP\", \"\"], [\"해방풍\", \"KP\", \"\"], [\"형개\", \"KP\", \"\"], [\"황매목\", \"KHP\", \"\"], [\"해백\", \"KHP\", \"\"], [\"호로파\", \"KHP\", \"\"], [\"황백\", \"KP\", \"\"], [\"해인초\", \"KHP\", \"\"], [\"호이초\", \"KHP\", \"\"], [\"황정\", \"KP\", \"\"], [\"해조\", \"KHP\", \"\"], [\"호장근\", \"KHP\", \"\"], [\"회향\", \"KP\", \"\"], [\"해풍등\", \"KHP\", \"\"], [\"호황련\", \"KHP\", \"\"], [\"후박\", \"KP\", \"\"], [\"행인\", \"KP\", \"\"], [\"홍화\", \"KP\", \"\"], [\"후추\", \"KHP\", \"\"], [\"향부자\", \"KP\", \"\"], [\"홍화자\", \"KHP\", \"\"], [\"훤초근\", \"KHP\", \"\"], [\"향유\", \"KHP\", \"\"], [\"화피\", \"KHP\", \"\"], [\"희렴\", \"KHP\", \"\"], [\"현삼\", \"KP\", \"\"], [\"황금\", \"KP\", \"\"], [\"기타생약\", \"-\", \"\"], [\"현초\", \"KP\", \"\"], [\"황기\", \"KP\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "○ 다음의 자료를 토대로 작성된 자료이며, 이 값을 해당 농약의 일일섭취허용량 (ADI)에 대입한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "다만, 규정 개정 등에 따라 다음의 정보사항이 변경된 경우 최신의 정보를 확인하여 적용하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "1) 식품의약품안전처(식약처) 식약처 잔류물질정보(http://w.residue.foodsafetykorea.go.kr) 농산물의 농약 잔류허용기준(2022.12) : 식약처 홈페이지(http://w.mfds.go.kr) > 법령‧자료 > 자료실(안내서/지침) 2) 농촌진흥청(농진청) 「농약 및 원제의 등록기준」 [별표 4의2] 농약의 일일섭취허용량 (농촌 진흥청 고시 제2022-33호, 2022.09.29.) 3) EU : http://ec.europa.eu/food/plant/pesticides/eu-pesticide-database/start/screen/mrls 4) 호주 : Acceptable Daily Intakes (ADI) for Agricultural and Veterinary Chemicals Used in Food Producing Crops or Animals(Australian Government - Australian Pesticide and Veterinary Medicines Authority, 2022.12.) 5) 중국 : China Releases New Maximum Residue Limits for Pesticides in Food [GB2763-2016](Ministry of Agriculture & China Food and Drug Administration, 2017) ADI 연번 원제명 비고 mg/kg b.w./day 1 1-Methylcyclopropene 0.003 농진청 2 2-(1-naphthyl)acetamide 0.15 농진청 3 2,4-Dichlorophenoxyacetic acid 0.01 식약처 4 2,6-Diisopropylnaphthalene 1 식약처 5 4-CPA, 4-Chlorophenoxy acetate 0.006 식약처 6 Benzyladenine, 6-Benzyl aminopurine 0.5 식약처 7 Abamectin 0.002 식약처 8 Acephate 0.03 식약처 9 Acequinocyl 0.023 식약처 10 Acetamiprid 0.071 식약처 11 Acetochlor 0.02 식약처 12 Acibenzolar-S-methyl 0.03 식약처 13 Acrinathrin 0.01 식약처 14 Acynonapyr 0.04 식약처 15 Afidopyropen 0.08 식약처 16 Alachlor 0.01 식약처 17 Aldicarb 0.003 식약처 18 Aldrin & Dieldrin 0.0001 식약처 19 Aluminium phosphide 0.019 식약처 20 Ametoctradin 8.48 식약처 21 Aminopyralid 0.26 식약처 22 Amisulbrom 0.1 식약처 23 Amitraz 0.01 식약처 24 Anilazine 0.1 식약처 25 Anilofos 0.001 농진청 26 Asulam-sodium 0.36 농진청 27 Aviglycine 0.002 농진청 28 Azadirachtin 0.0077 농진청 29 Azimsulfuron 0.096 식약처 30 Azinphos-methyl 0.03 식약처 Azocyclotin 31 0.007 식약처 Azocyclotin과 cyhexatin의 합을 cyhexatin으로 함 32 Azoxystrobin 0.2 식약처 33 Benalaxyl(Benalaxyl-M) 0.07 식약처 34 Bendiocarb 0.004 식약처 35 Benfluralin 0.005 농진청 Benfuracarb 36 Benfuracarb, Carbofuran, 3-hydroxycarbofuran, 0.001 식약처 Carbosulfan, Furathiocarb의 합을 carbofuran으로 함 37 Benfuresate 0.026 식약처 Benomyl 38 Benomyl, carbendazim 및 thiophanate-methyl 0.03 식약처 의 합을 carbendazim으로 함 39 Bensulfuron-methyl 0.2 식약처 40 Bensultap 0.1 식약처 41 Bentazone 0.1 식약처 42 Benthiavalicarb-Isopropyl 0.069 식약처 43 Benzobicyclon 0.016 식약처 44 Benzovindiflupyr 0.049 식약처 45 Benzoximate 0.15 중국 46 BHC 0.0047 식약처 47 Bicyclopyrone 0.00093 식약처 48 Bifenazate 0.01 식약처 49 Bifenox 0.3 식약처 50 Bifenthrin 0.01 식약처 51 Bioresmethrin 0.03 식약처 52 Bispyribac-sodium 0.011 식약처 53 Bistrifluron 0.073 식약처 54 Bitertanol 0.01 식약처 55 Bixafen 0.02 식약처 56 Bordeauxmixture 0.15 농진청 57 Boscalid 0.04 식약처 58 Broflanilide 0.017 식약처 59 Bromacil 0.02 식약처 60 Bromobutide 0.017 식약처 61 Bromopropylate 0.03 식약처 62 Buprofezin 0.009 식약처 63 Butachlor 0.01 식약처 64 Butafenacil 0.0036 농진청 65 Butralin 0.15 농진청 66 Cadusafos 0.0004 식약처 67 Cafenstrole 0.003 식약처 68 Captan 0.1 식약처 69 Carbaryl : NAC 0.0075 식약처 70 Carbendazim 0.03 식약처 71 Carbofuran 0.001 식약처 <삭제> Carbofuran 72 Benfuracarb, Carbofuran, 3-hydroxycarbofuran, 0.001 식약처 Carbosulfan, Furathiocarb의 합을 Carbofuran으로 함 73 Carboxin 0.0082 식약처 74 Carfentrazone-ethyl 0.03 식약처 75 Carpropamide 0.014 식약처 76 Cartap 0.1 식약처 77 Chinomethionat(Oxythioquinox) 0.006 식약처 78 Chlorantraniliprole 2 식약처 79 Chlordane 0.0005 식약처 80 Chlorfenapyr 0.026 식약처 81 Chlorfenvinphos 0.0005 식약처 82 Chlorfluazuron 0.033 식약처 83 Chloridazone 0.1 식약처 84 Chlorimuron-ethyl 0.09 식약처 85 Chlormequat 0.05 식약처 86 Chlorobenzilate 0.02 식약처 87 Chlorothalonil 0.02 식약처 88 Chlorpropham 0.05 식약처 89 Chlorpyrifos 0.01 식약처 90 Chlorpyrifos-methyl 0.01 식약처 91 Chlorsulfuron 0.2 식약처 92 Chromafenozide 0.27 식약처 93 Cinosulfuron 0.077 중국 94 Clethodim 0.01 식약처 95 Clofentezine 0.017 식약처 96 Clomazone 0.13 식약처 97 Clopyralid 0.15 식약처 98 Clothianidin 0.097 식약처 99 Copperhydroxide 0.15 식약처 100 Copperoxychloride 0.15 식약처 101 Coppersulfatebasic 0.15 식약처 102 Cuprousoxide 0.15 식약처 103 Cyantraniliprole 0.057 식약처 104 Cyazofamid 0.17 식약처 105 Cyclaniliprole 0.27 식약처 106 Cycloprothrin 0.085 식약처 107 Cyclosulfamuron 0.03 농진청 108 Cyenopyrafen 0.051 식약처 109 Cyflufenamid 0.041 식약처 110 Cyflumetofen 0.092 식약처 111 Cyfluthrin & beta-Cyfluthrin 0.04 식약처 112 Cyhalofop-butyl 0.01 식약처 113 Cyhalothrin 0.02 식약처 114 Cyhexatin 0.007 식약처 115 Cymoxanil 0.013 식약처 116 Cypermethrin 0.02 식약처 117 Cyproconazole 0.02 식약처 118 Cyprodinil 0.03 식약처 119 Cyromazine 0.06 식약처 120 Daimuron, Dymron 0.3 식약처 121 Daminozide 0.5 식약처 122 Dazomet 0.01 식약처 123 DBEDC 0.15 농진청 124 DDT 0.01 식약처 125 Deltamethrin 0.01 식약처 126 Diafenthiuron 0.003 농진청 127 Diazinon 0.0002 식약처 128 Dicamba 0.3 식약처 129 Dichlobenil 0.01 식약처 130 Dichlobentiazox 0.05 식약처 131 Dichlorprop 0.06 식약처 132 Dichlorproptriethanolamine 0.031 농진청 133 Dichlorvos 0.004 식약처 134 Diclofop-methyl 0.001 식약처 135 Dicloran 0.01 식약처 136 Diclosulam 0.05 식약처 137 Dicofol 0.002 식약처 138 Diethofencarb 0.43 식약처 139 Difenoconazole 0.01 식약처 140 Diflubenzuron 0.02 식약처 141 Diflufenican 0.19 농진청 142 Dimepiperate 0.001 중국 143 Dimethametryn 0.0094 식약처 144 Dimethenamid(Dimethenamid-P 포함) 0.07 식약처 145 Dimethipin 0.02 식약처 146 Dimethomorph 0.2 식약처 147 Dimethoate 0.002 식약처 148 Dichlofluanid 0.3 식약처 149 Dimethyl dithiocarbamates 0.03 식약처 150 Diniconazole 0.0023 식약처 151 Dinotefuran 0.02 식약처 152 Diphenylamine 0.08 식약처 153 Diquat 0.002 식약처 154 Disulfoton 0.0003 식약처 155 Dithianon 0.01 식약처 156 Dithiopyr 0.0036 식약처 157 Diuron 0.007 식약처 158 Dodine 0.1 식약처 159 <삭제> Daimuron과 통합 160 Edifenphos 0.003 식약처 161 Emamectin benzoate 0.0025 식약처 162 Endosulfan 0.006 식약처 163 Endrin 0.0002 식약처 164 EPN 0.0014 식약처 165 Epoxiconazole 0.007 식약처 166 Esprocarb 0.01 식약처 167 Ethaboxam 0.055 식약처 168 Ethalfluralin 0.042 식약처 169 Ethephon 0.05 식약처 170 Ethiofencarb 0.1 식약처 171 Ethion 0.002 식약처 172 Ethiprole 0.005 식약처 173 Ethofumesate 0.07 농진청 174 Ethoprophos 0.0004 식약처 175 Ethoxyquin 0.005 식약처 176 Ethoxysulfuron 0.039 식약처 177 Ethychlozate 0.17 식약처 178 Ethylene dibromide : EDB 1 식약처 179 Etofenprox 0.03 식약처 180 Etoxazole 0.04 식약처 181 Etridiazole 0.016 식약처 182 Etrimfos 0.003 식약처 183 Famoxadone 0.006 식약처 184 Fenamidone 0.028 식약처 185 Fenamiphos 0.0008 식약처 186 Fenarimol 0.01 식약처 187 Fenazaquin 0.005 식약처 188 Fenbuconazole 0.03 식약처 189 Fenbutatin oxide 0.03 식약처 190 Fenclorim 0.075 농진청 191 Fenhexamid 0.2 식약처 192 Fenitrothion 0.005 식약처 193 Fenobucarb : BPMC 0.014 식약처 194 Fenothiocarb 0.015 식약처 195 Fenoxanil 0.007 식약처 196 Fenoxaprop-ethyl 0.011 식약처 197 Fenoxasulfone 0.018 식약처 198 Fenoxycarb 0.053 식약처 199 Fenpicoxamid 0.05 식약처 200 Fenpropathrin 0.03 식약처 201 Fenpropimorph 0.003 식약처 202 Fenpyrazamine 0.053 식약처 203 Fenpyroximate 0.01 식약처 204 Fenquinotrione 0.0017 식약처 205 Fensulfothion 0.0003 식약처 206 Fenthion∶MPP 0.007 식약처 207 Fentin 0.0005 식약처 208 Fentrazamide 0.0052 식약처 209 Fenvalerate 0.02 식약처 Ferbam 210 0.03 식약처 Dithiocarbamate계 농약들의 합(CS2로서) 211 Ferimzone 0.019 식약처 212 Fipronil 0.0002 식약처 213 Flazasulfuron 0.013 농진청 214 Flometoquin 0.008 식약처 215 Flonicamid 0.025 식약처 216 Florpyrauxifen-benzyl 2.4 식약처 217 Florylpicoxamid 0.1 식약처 218 Fluacrypyrim 0.059 식약처 219 Fluazifop-butyl 0.01 식약처 220 Fluazinam 0.01 식약처 221 Flubendiamide 0.017 식약처 222 Flucetosulfuron 0.041 식약처 223 Flucythrinate 0.02 식약처 224 Fludioxonil 0.4 식약처 225 Fluensulfone 0.014 식약처 226 Flufenacet 0.005 식약처 227 Flufenacet-methyl 0.001 농진청 228 Flufenoxuron 0.037 식약처 229 Fluindapyr 0.07 식약처 230 Flumioxazin 0.018 식약처 231 Fluopicolide 0.079 식약처 232 Fluopyram 0.01 식약처 233 Fluoroimide 0.093 식약처 234 Flupoxam 0.0051 농진청 235 Flupyradifurone 0.078 식약처 236 Flupyrimin 0.01 식약처 237 Fluquinconazole 0.002 식약처 238 Fluroxypyr 0.8 식약처 239 Flusilazole 0.007 식약처 240 Flusulfamide 0.001 식약처 241 Fluthiacet-methyl 0.001 식약처 242 Flutianil 2.49 식약처 243 Flutolanil 0.09 식약처 244 Flutriafol 0.011 식약처 245 Fluvalinate 0.005 식약처 246 Fluxametamide 0.0085 식약처 247 Fluxapyroxad 0.021 식약처 248 Folpet 0.1 식약처 249 Fomesafen 0.0025 식약처 250 Foramsulfuron 0.5 농진청 251 Forchlorfenuron 0.07 식약처 252 Formothion 0.02 식약처 253 Fosetyl-aluminium 3 식약처 254 Fosthiazate 0.0042 식약처 255 Furathiocarb 0.0035 EU 256 Glufosinate(ammonium) 0.02 식약처 257 Glufosinate-P 0.0091 농진청 258 Glyphosate 0.8 식약처 259 Halosulfuron-methyl 0.1 식약처 260 Haloxyfop 0.00065 식약처 261 Heptachlor 0.0005 식약처 262 Hexaconazole 0.005 식약처 263 Hexaflumuron 0.02 호주 264 Hexazinone 0.049 식약처 265 Hexythiazox 0.03 식약처 266 Hydrogen cyanide 0.05 식약처 267 Hymexazol 0.17 식약처 268 Imazalil 0.03 식약처 269 Imazamox 3 식약처 270 Imazapic 0.46 식약처 271 Imazapyr 3 식약처 272 Imazaquin 0.25 식약처 273 Imazethapyr 0.5 식약처 274 Imazosulfuron 0.75 식약처 275 Imibenconazole 0.0098 식약처 276 Imicyafos 0.0005 식약처 277 Imidacloprid 0.06 식약처 278 Iminoctadine 0.004 식약처 279 Inabenfide 0.14 농진청 280 Indanofan 0.0035 식약처 281 Indaziflam 0.02 식약처 282 Indoxacarb 0.01 식약처 283 Iodosulfuron-methylsodium 0.03 농진청 284 Ipconazole 0.015 식약처 285 Ipfencarbazone 0.001 식약처 286 Ipflufenoquin 0.05 식약처 287 Iprobenfos 0.035 식약처 288 Iprodione 0.06 식약처 289 Iprovalicarb 0.026 식약처 290 Isazofos 0.00005 중국 291 Isocycloseram 0.017 식약처 292 Isofenphos 0.001 식약처 293 Isofetamid 0.053 식약처 294 Isoprocarb : MIPC 0.002 중국 295 Isoprothiolane 0.1 식약처 296 Isopyrazam 0.055 식약처 297 Isotianil 0.028 식약처 298 Isoxaben 0.05 식약처 299 Isoxaflutole 0.02 식약처 300 Kasugamycin 0.1 식약처 301 Kresoxim-methyl 0.4 식약처 302 Lepimectin 0.02 식약처 303 Lindane, γ-BHC 0.005 식약처 304 Linuron 0.0077 식약처 305 Lufenuron 0.015 식약처 306 Magnesiumphosphide 0.011 농진청 307 Malathion 0.029 식약처 308 Maleic hydrazide 0.3 식약처 Mancozeb 309 0.03 식약처 Dithiocarbamate계 농약들의 합(CS2로서) 310 Mandestrobin 0.19 식약처 311 Mandipropamid 0.05 식약처 Maneb 312 0.03 식약처 Dithiocarbamate계 농약들의 합(CS2로서) 313 MCPA 0.0019 식약처 314 MCPB 0.015 식약처 315 Mecarbam 0.002 식약처 316 Mecoprop-P 0.01 식약처 317 Mefenacet 0.007 식약처 318 Mefentrifluconazole 0.035 식약처 319 Mepanipyrim 0.02 식약처 320 Mepiquat chloride 0.2 식약처 321 Mepronil 0.05 식약처 322 Meptyldinocap 0.02 식약처 323 Mesotrione 0.003 식약처 324 Metaflumizone 0.1 식약처 325 Metalaxyl 0.08 식약처 326 Metaldehyde 0.02 식약처 327 Metam(Metam-sodium, Metam-p 포함) 0.001 농진청 328 Metamifop 0.017 식약처 329 Metazachlor 0.032 식약처 330 Metazosulfuron 0.023 식약처 331 Metconazole 0.04 식약처 332 Methabenzthiazuron 0.004 농진청 333 Methamidophos 0.004 식약처 334 Methiocarb 0.02 식약처 335 Methidathion 0.001 식약처 336 Methiozolin 0.41 농진청 337 Methomyl 0.02 식약처 338 Methoprene 0.09 식약처 339 Methoxychlor 0.1 식약처 340 Methoxyfenozide 0.1 식약처 341 Methyl bromide 1 식약처 Metiram 342 0.03 식약처 Dithiocarbamate계 농약들의 합(CS2로서) 343 Metobromuron 0.008 식약처 344 Metolachlor 0.097 식약처 345 Metrafenone 0.25 식약처 346 Metribuzin 0.013 식약처 347 Metsulfuron-methyl 0.22 식약처 348 Mevinphos 0.00025 식약처 349 Milbemectin 0.03 식약처 350 Molinate 0.0021 식약처 351 Monocrotophos 0.0006 식약처 352 Myclobutanil 0.03 식약처 Nabam 353 0.03 식약처 Dithiocarbamate계 농약들의 합(CS2로서) 354 Naled 0.002 식약처 355 Napropamide 0.3 식약처 356 Nicosulfuron 2 식약처 357 Nitrapyrin 0.03 식약처 358 Norflurazon 0.015 식약처 359 Novaluron 0.01 식약처 360 Nuarimol 0.025 농진청 361 Ofurace 0.025 농진청 362 Omethoate 0.0003 식약처 363 Ortho-phenylphenol 0.39 식약처 364 Orthosulfamuron 0.05 식약처 365 Orysastrobin 0.052 식약처 366 Oryzalin 0.12 식약처 367 Oxadiargyl 0.008 식약처 368 Oxadiazon 0.0036 식약처 369 Oxadixyl 0.11 식약처 370 Oxamyl 0.001 식약처 371 Oxathiapiprolin 1.04 식약처 372 Oxaziclomefone 0.0091 식약처 373 Oxolinic acid 0.021 식약처 374 Oxycarboxin 0.15 농진청 375 Oxydemeton-Methyl 0.0003 식약처 376 Oxyfluorfen 0.003 식약처 377 Oxytetracycline 0.03 식약처 378 Paclobutrazol 0.022 식약처 379 Paraquat 0.005 식약처 380 Parathion 0.004 식약처 381 Parathion-methyl 0.003 식약처 382 Penconazole 0.03 식약처 383 Pencycuron 0.2 식약처 384 Pendimethalin 0.13 식약처 385 Penflufen 0.04 식약처 386 Penoxsulam 0.05 식약처 387 Penthiopyrad 0.081 식약처 388 Pentoxazone 0.23 식약처 389 Permethrin(Permetrin) 0.05 식약처 390 Phenothrin 0.007 식약처 391 Phenthoate : PAP 0.003 식약처 392 Phorate 0.0007 식약처 393 Phosalone 0.002 식약처 394 Phosphamidon 0.0005 식약처 395 Phosmet, PMP 0.01 식약처 396 Phosphine 0.011 농진청 397 Phoxim 0.004 식약처 398 Picarbutrazox 0.023 식약처 399 Picoxystrobin 0.043 식약처 400 Pinoxaden 0.05 식약처 401 Piperonyl butoxide 0.2 식약처 402 Pirimicarb 0.02 식약처 403 Pirimiphos-methyl 0.03 식약처 404 PolyoxinB 0.5 농진청 405 PolyoxinD 0.5 농진청 406 Pretilachlor 0.018 식약처 407 Probenazole 0.01 식약처 408 Prochloraz 0.01 식약처 409 Procymidone 0.1 식약처 410 Prodiamine 0.065 농진청 411 Profenofos 0.03 식약처 412 Profoxydim 0.05 농진청 Prohexadione-Calcium 413 0.2 식약처 (Prohexadion-calcium) 414 Prohydrojasmon 0.14 농진청 415 Prometryn 0.04 식약처 416 Propamocarb 0.4 식약처 417 Propanil 0.02 식약처 418 Propaquizafop 0.015 식약처 419 Propargite 0.01 식약처 420 Propiconazole 0.07 식약처 Propineb 421 0.03 식약처 Dithiocarbamate계 농약들의 합(CS2로서) 422 Propisochlor 0.025 식약처 423 Propoxur 0.005 식약처 424 Propyrisulfuron 0.011 식약처 425 Propyzamide 0.05 식약처 426 Proquinazid 0.012 농진청 427 Prosulfocarb 0.005 식약처 428 Prothioconazole 0.01 식약처 429 Pydiflumetofen 0.092 식약처 430 Pyflubumide 0.0074 식약처 431 Pymetrozine 0.03 식약처 432 Pyraclofos 0.001 농진청 433 Pyraclonil 0.0044 식약처 434 Pyraclostrobin 0.03 식약처 435 Pyraflufen-ethyl 0.17 식약처 436 Pyraziflumid 0.022 식약처 437 Pyrazolate 0.0037 농진청 438 Pyrazophos 0.004 식약처 439 Pyrazosulfuron-ethyl 0.01 식약처 440 Pyrazoxyfen 0.0017 농진청 441 Pyrethrins 0.04 식약처 442 Pyribencarb 0.039 식약처 443 Pyribenzoxim 0.25 농진청 444 Pyributicarb 0.0088 식약처 445 Pyridaben 0.005 식약처 446 Pyridalyl 0.028 식약처 447 Pyridaphenthion 0.00085 농진청 448 Pyridate 0.036 식약처 449 Pyrifluquinazon 0.005 식약처 450 Pyriftalid 0.0056 식약처 451 Pyrimethanil 0.2 식약처 452 Pyrimidifen 0.0015 식약처 453 Pyriminobac-methyl 0.02 식약처 454 Pyrimisulfan 0.1 식약처 455 Pyriofenone 0.091 식약처 456 Pyriproxyfen 0.1 식약처 457 Pyroquilon 0.019 식약처 458 Quinclorac 0.42 식약처 459 Quinmerac 0.079 식약처 460 Quinoclamine 0.0021 식약처 461 Quinoxyfen 0.2 식약처 462 Quintozene 0.01 식약처 463 Quizalofop-ethyl 0.009 식약처 464 Rimsulfuron 0.12 농진청 465 Saflufenacil 0.046 식약처 466 Sedaxane 0.11 식약처 467 Sethoxydim 0.14 식약처 468 Silafluofen 0.11 식약처 469 Simazine 0.018 식약처 470 Simeconazole 0.0085 식약처 471 Simetryn 0.012 농진청 472 Sodium 1-naphthyl-acetate 0.05 농진청 473 soprocarb 0.004 농진청 474 Spinetoram 0.05 식약처 475 Spinosad 0.02 식약처 476 Spirodiclofen 0.01 식약처 477 Spiromesifen 0.03 식약처 478 Spiropidion 0.05 식약처 479 Spirotetramat 0.05 식약처 480 Spiroxamine 0.025 식약처 481 Streptomycin(sulfatesalt) 0.05 농진청 482 Sulfentrazone 0.14 식약처 483 Sulfoxaflor 0.05 식약처 484 Sulfur dioxide 0.7 식약처 485 Sulfuryl fluoride 0.01 식약처 486 Tebuconazole 0.03 식약처 487 Tebufenozide 0.02 식약처 488 Tebufenpyrad 0.01 식약처 489 Tebufloquin 0.041 식약처 490 Tebupirimfos 0.0002 식약처 491 Tecloftalam 0.058 농진청 492 Tecnazene 0.02 식약처 493 Teflubenzuron 0.01 식약처 494 Tefluthrin 0.005 식약처 495 Tefuryltrione 0.0008 식약처 496 Tepraloxydim 0.025 식약처 497 Terbacil 0.014 식약처 498 Terbufos 0.0006 식약처 499 Terbuthylazine 0.004 식약처 500 Terbutryn 0.1 호주 501 Tetraconazole 0.004 식약처 502 Tetraniliprole 0.88 식약처 503 Thiabendazole 0.1 식약처 504 Thiacloprid 0.01 식약처 505 Thiamethoxam 0.08 식약처 506 Thiazopyr 0.008 식약처 507 Thidiazuron 0.039 식약처 508 Thifensulfuron-methyl 0.01 식약처 509 Thifluzamide 0.014 식약처 510 Thiobencarb 0.009 식약처 511 Thiocyclam 0.1 식약처 Thiodicarb 512 0.02 식약처 Methomyl과 thiodicarb의 합을 methomyl로 함 513 Thiometon 0.003 식약처 Thiophanate-methyl 514 Benomyl, carbendazim 및 thiophanate-methyl의 0.03 식약처 합을 carbendazim으로 함 Thiram 515 0.03 식약처 Dithiocarbamate계 농약들의 합(CS2로서) 516 Tiadinil 0.04 식약처 517 Tiafenacil 0.011 식약처 518 Tolclofos-methyl 0.07 식약처 519 Tolfenpyrad 0.0056 식약처 520 Tolpyralate 0.0093 식약처 521 Tolylfluanid 0.08 식약처 Tralomethrin 522 0.01 식약처 Deltamethrin(이성질체의합) 523 Triadimefon 0.03 식약처 524 Triadimenol 0.03 식약처 525 Triafamone 0.02 식약처 526 Tri-allate 0.025 식약처 527 Triazophos 0.001 식약처 528 Trichlorfon(DEP) 0.004 식약처 529 Triclopyr 0.05 식약처.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"물질명\", \"농도\", \"기관\"], \"행\": [[\"Tricyclazole\", \"0.05\", \"식약처\"], [\"Tridemorph\", \"0.003\", \"식약처\"], [\"Trifloxystrobin\", \"0.04\", \"식약처\"]], \"각주\": [], \"raw_lines\": [\"Tricyclazole\", \"0.05\", \"식약처\", \"Tridemorph\", \"0.003\", \"식약처\", \"Trifloxystrobin\", \"0.04\", \"식약처\"], \"keep_ratio\": 0.75, \"guard\": \"low_keep\"}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "Trifloxysulfuron-sodium.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"농진청\", \"식약처\", \"식약처\", \"식약처\", \"식약처\", \"식약처\", \"식약처\"], \"행\": [[\"0.15\", \"Triflumezopyrim\"], [\"0.12\", \"Triflumizole\"], [\"0.048\", \"Triflumuron\"], [\"0.0082\", \"Trifluralin\"], [\"0.015\", \"Triforine\"], [\"0.02\", \"식약처\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "Trinexapac-ethyl.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"농약\", \"식약처\"], \"행\": [[\"Triticonazole\", \"0.0059\"], [\"ValidamycinA\", \"0.025\"], [\"Valifenalate\", \"0.13\"], [\"Vamidothion\", \"0.07\"], [\"Vinclozolin\", \"0.008\"], [\"Zineb\", \"0.01\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "Dithiocarbamate계 농약들의 합(CS2로서) 0.03 식약처 Ziram Dithiocarbamate계 농약들의 합(CS2로서).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "3.3. 농약의 일일섭취허용량",
+      "path": null,
+      "ko_txt": "0.03 식약처 Zoxamide 0.48 식약처.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "2. 대한민국약전외한약(생약)규격집 제4개정(2022)",
+      "path": null,
+      "ko_txt": "3. European Pharmacopoeia 11.0(2023).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "5. 농산물의 농약 잔류허용기준(2022)",
+      "path": null,
+      "ko_txt": "6. 농약 및 원제의 등록기준 (농촌진흥청 고시 제2022-33호, 2022.09.29.) 7. Acceptable Daily Intakes (ADI) for Agricultural and Veterinary Chemicals Used in Food Producing Crops or Animals(2022) 8. China Releases New Maximum Residue Limits for Pesticides in Food(2017).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "13. 한약공정서 과학화 사업(2004)",
+      "path": null,
+      "ko_txt": "한약(생약)의 기준 미설정 잔류농약 적부판정 해설서 강인호, 석지현, 박성환, 이재준, 최지영, 김현미, 식품의약품안전평가원 바이오생약심사부 생약제제과.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

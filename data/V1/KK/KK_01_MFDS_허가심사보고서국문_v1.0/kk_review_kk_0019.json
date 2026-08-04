@@ -1,0 +1,6433 @@
+{
+  "document_id": "kk_review_kk_0019",
+  "meta": {
+    "set": "KK",
+    "source_folder": "6",
+    "source_code": "review_kk",
+    "source_name": "의약품허가심사보고서(KK)",
+    "orig_doc_id": "(자료제출의약품) 네폭실캡슐(구연산제이철수화물)_한국쿄와기린",
+    "category_l1": "규제·지침",
+    "category_l2": "허가·심사",
+    "category_l3": "허가심사보고서",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": 429
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": "접수.접수일자",
+      "ko_txt": "2021-05-27",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": "접수.신청인(회사명)",
+      "ko_txt": "한국쿄와기린(주)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 2
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.제품명",
+      "ko_txt": "네폭실캡슐500mg",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.주성분명(원료의약품등록번호)",
+      "ko_txt": "구연산제이철수화물",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.제조수입품목",
+      "ko_txt": "제조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 5
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.전문일반",
+      "ko_txt": "전문",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 6
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.제형함량.함량",
+      "ko_txt": "500mg",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.효능효과",
+      "ko_txt": "혈액투석을받고있는만성신장질환환자의고인산혈증치료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 8
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.용법용량",
+      "ko_txt": "이약은1일3회식사와함께또는식후즉시복용하여야한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.용법용량",
+      "ko_txt": "이약의초기권장용량은1일4g이며,규칙적으로혈청인산농도를 모니터링하면서 적정 혈청 인산 농도에 도달할 때까지 1주 간격으로 투여량을 조정한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.용법용량",
+      "ko_txt": "이 약의 용량을 조절하는 경우에는 1g 이내로 조절하며, 이 약의 최대 투여량은 1일 6g이다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.허가일자",
+      "ko_txt": "22.5.9",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.효능효과",
+      "ko_txt": "혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 개선",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 11
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.용법용량",
+      "ko_txt": "성인 이 약은 1일 3회 식사와 함께 또는 식사 직후 복용하여야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.용법용량",
+      "ko_txt": "이 약의 초기 권장 용량은 1일 4g이다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.용법용량",
+      "ko_txt": "목표 혈청 인산 농도에 도달할 때까지 혈청 인산 농도에 따라 용량을 1g(2캡슐)씩 용량을 조절하고, 그 이후 정기적으로 모니터링해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.사용상의 주의사항",
+      "ko_txt": "첨부참조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 13
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.저장방법 및 사용기간",
+      "ko_txt": "밀폐용기, 실온보관(1~30℃), 제조일로부터 24개월",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 14
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.허가조건",
+      "ko_txt": "1.「약사법」제32조 및 「의약품등의 안전에 관한 규칙」제22조제1항제2호가목에 의한 재심사 대상 의약품임 -재심사기간 :2022.05.09.~2026.05.08.(4년) -재심사신청기간:2026.05.09.~2026.08.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 15
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.허가조건",
+      "ko_txt": "08. 2.「신약 등의 재심사 기준」(식품의약품안전처고시)을 준수할 것",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 15
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.허가조건",
+      "ko_txt": "3.위해성관리계획을 승인받은 대로 실시하고 그 결과를 허가 후 2년까지는 매 6개월마다 보고하고, 이후 매년 보고할 것.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 15
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.허가조건",
+      "ko_txt": "4.만일 정당한 사유 없이 상기 조건을 이행하지 아니할 경우에는 본 품목허가를 취소할 수 있음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 15
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.허가부서",
+      "ko_txt": "허가부서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 16
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.허가담당자",
+      "ko_txt": "사무관,이수정과장",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 17
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.심사부서",
+      "ko_txt": "순환신경계약품과",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 18
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.심사담당자",
+      "ko_txt": "(안유)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 19
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.GMP 평가부서",
+      "ko_txt": "의약품품질과",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 20
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.GMP 담당자",
+      "ko_txt": "이영재",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 21
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.안전성유효성심사결과",
+      "ko_txt": "붙임 1 참조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.효능효과",
+      "ko_txt": "혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 개선",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 2
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.용법용량",
+      "ko_txt": "성인 이 약은 1일 3회 식사와 함께 또는 식사 직후 복용하여야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.용법용량",
+      "ko_txt": "이 약의 초기 권장 용량은 1일 4g이다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.용법용량",
+      "ko_txt": "목표 혈청 인 농도에 도달할 때까지 혈청 인 농도에 따라 용량을 1g(2캡슐)씩 용량을 조절하고, 그 이후 정기적으로 모니터링해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.용법용량",
+      "ko_txt": "1주 또는 그 이상의 간격으로 투여량을 조절한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.사용상주의사항",
+      "ko_txt": "첨부참조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.저장방법 및 사용기간",
+      "ko_txt": "밀폐용기, 실온보관(1~30℃), 제조일로부터 24개월",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 5
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.원료의약품등록(DMF)사항",
+      "ko_txt": "해당없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 6
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.허가조건",
+      "ko_txt": "1.「약사법」제32조 및 「의약품등의 안전에 관한 규칙」제22조제1항제2호가목에 의한 재심사 대상 의약품임 -재심사기간 :2022.05.09.~2026.05.08.(4년) -재심사신청기간:2026.05.09.~2026.08.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.허가조건",
+      "ko_txt": "08. 2.「신약 등의 재심사 기준」(식품의약품안전처고시)을 준수할 것",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.허가조건",
+      "ko_txt": "3.위해성관리계획을 승인받은 대로 실시하고 그 결과를 허가 후 2년까지는 매 6개월마다 보고하고, 이후 매년 보고할 것.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.허가조건",
+      "ko_txt": "4.만일 정당한 사유 없이 상기 조건을 이행하지 아니할 경우에는 본 품목허가를 취소할 수 있음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.개량신약지정여부",
+      "ko_txt": "해당없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 8
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.중앙약사심의위원회자문결과",
+      "ko_txt": "해당없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.사전검토",
+      "ko_txt": "2020.12.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.사전검토",
+      "ko_txt": "16. 의약품등의 사전검토신청(접수번호 20200276182)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[0]",
+      "ko_txt": "의약품 품목허가 보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[1]",
+      "ko_txt": "2021-05-27",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 2
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[2]",
+      "ko_txt": "자료제출의약품,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[3]",
+      "ko_txt": "Ⅱ.자료제출의약품",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[3]",
+      "ko_txt": "1.새로운염(이성체등)을유효성분으로함유한의약품",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[4]",
+      "ko_txt": "2.새로운효능군의약품성인(65세이상고령자포함) 도를 모니터링하면서 적정 혈청 인산 농도에 도달할 때까지 1주 간격으로 투여량을 조정한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 5
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[4]",
+      "ko_txt": "이 약의 용량을 조절하는 경우에는 1g 이내로 조절하며, 이 약의 최대 투여량은 1일 6g이다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 5
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[5]",
+      "ko_txt": "허가일자 ‘22.5.9",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 6
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[6]",
+      "ko_txt": "효능·효과 붙임참조최종용법·용량 붙임참조사항 사용상의 주의사항 붙임참조저장방법 및 사용기간 붙임참조허가조건 붙임참조국외허가현황 -",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[7]",
+      "ko_txt": "*의약품제조및품질관리실시상황평가에필요한자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 8
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[8]",
+      "ko_txt": "1.2최종 허가사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[9]",
+      "ko_txt": "○효능·효과 혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 개선",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[10]",
+      "ko_txt": "○용법·용량 성인 이 약은 1일 3회 식사와 함께 또는 식사 직후 복용하여야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 11
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[11]",
+      "ko_txt": "이 약의 초기 권장 용량은 1일 4g이다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[11]",
+      "ko_txt": "목표 혈청 인산 농도에 도달할 때까지 혈청 인산 농도에 따라 용량을 1g(2캡슐)씩 용량을 조절하고, 그 이후 정기적으로 모니터링해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[11]",
+      "ko_txt": "1주 또는 그 이상의 간격으로 투여량을 조절한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[12]",
+      "ko_txt": "○사용상의 주의사항 첨부참조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 13
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[13]",
+      "ko_txt": "○저장방법 및 사용기간 밀폐용기, 실온보관(1~30℃), 제조일로부터 24개월",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 14
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[14]",
+      "ko_txt": "1.3원료의약품등록(DMF)사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 15
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[15]",
+      "ko_txt": "○해당없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 16
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[16]",
+      "ko_txt": "1.4허가조건(해당하는 경우)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 17
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[17]",
+      "ko_txt": "1.「약사법」제32조 및 「의약품등의 안전에 관한 규칙」제22조제1항제2호가목에 의한 재심사 대상 의약품임",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 18
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[18]",
+      "ko_txt": "-재심사기간 :2022.05.09.~2026.05.08.(4년)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 19
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[19]",
+      "ko_txt": "-재심사신청기간:2026.05.09.~2026.08.08.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 20
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[20]",
+      "ko_txt": "2.「신약 등의 재심사 기준」(식품의약품안전처고시)을 준수할 것",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 21
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[21]",
+      "ko_txt": "3.위해성관리계획을 승인받은 대로 실시하고 그 결과를 허가 후 2년까지는 매 6개월마다 보고하고, 이후 매년 보고할 것.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 22
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "4.만일 정당한 사유 없이 상기 조건을 이행하지 아니할 경우에는 본 품목허가를 취소할 수 있음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[23]",
+      "ko_txt": "1.5개량신약 지정 여부(해당하는 경우)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 24
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[24]",
+      "ko_txt": "○해당없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 25
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[25]",
+      "ko_txt": "1.6중앙약사심의위원회 자문 결과(해당하는 경우)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 26
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[25]",
+      "ko_txt": "○해당없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 26
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[26]",
+      "ko_txt": "1.7사전검토(해당하는 경우)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 27
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[27]",
+      "ko_txt": "○2020.12.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 28
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[27]",
+      "ko_txt": "16. 의약품등의 사전검토신청(접수번호 20200276182)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 28
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[28]",
+      "ko_txt": "1.8검토이력",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 29
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[29]",
+      "ko_txt": "【제출자료목록】",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 30
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[30]",
+      "ko_txt": "○관련규정 : 의약품의 품목허가․신고․심사규정(식약처고시)제5조제2항 [별표1]에 따른 구분자 료 번 호 주1)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 31
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[31]",
+      "ko_txt": "면제사유",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 32
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[32]",
+      "ko_txt": "○제출자료 목록",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 33
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[33]",
+      "ko_txt": "1. 기원 또는 발견 및 개발경위에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 34
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[34]",
+      "ko_txt": "2. 구조결정, 물리화학적 성질에 관한 자료(품질에 관한 자료) 가. 원료의약품에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 35
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[35]",
+      "ko_txt": "1) 구조결정에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 36
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[36]",
+      "ko_txt": "2) 물리화학적 성질에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 37
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[37]",
+      "ko_txt": "3) 제조방법에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 38
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[38]",
+      "ko_txt": "4) 기준 및 시험방법이 기재된 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 39
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[39]",
+      "ko_txt": "5) 기준 및 시험방법에 관한 근거자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 40
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[40]",
+      "ko_txt": "6) 시험성적에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 41
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[41]",
+      "ko_txt": "7) 표준품 및 시약·시액에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 42
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[42]",
+      "ko_txt": "8) 용기 및 포장에 관한 자료나. 완제의약품에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 43
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[43]",
+      "ko_txt": "1) 원료약품 및 그 분량에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 44
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[44]",
+      "ko_txt": "2) 제조방법에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 45
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[45]",
+      "ko_txt": "3) 기준 및 시험방법이 기재된 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 46
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[46]",
+      "ko_txt": "4) 기준 및 시험방법에 관한 근거자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 47
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[47]",
+      "ko_txt": "5) 시험성적에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 48
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[48]",
+      "ko_txt": "6) 표준품 및 시약·시액에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 49
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[49]",
+      "ko_txt": "7) 용기 및 포장에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 50
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[50]",
+      "ko_txt": "3. 안정성에 관한 자료가. 원료의약품에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 51
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[51]",
+      "ko_txt": "1) 장기보존시험 또는 가속시험자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 52
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[52]",
+      "ko_txt": "2) 가혹시험자료나. 완제의약품에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 53
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[53]",
+      "ko_txt": "1) 장기보존시험 또는 가속시험자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 54
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[54]",
+      "ko_txt": "2)가혹시험자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 55
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[55]",
+      "ko_txt": "4.독성에 관한 자료가.단회투여독성시험자료나.반복투여독성시험자료다.유전독성시험자료라.생식발생독성시험자료마.발암성시험자료바.기타독성시험자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 56
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[56]",
+      "ko_txt": "1)국소독성시험(국소내성시험포함)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 57
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[57]",
+      "ko_txt": "2)의존성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 58
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[58]",
+      "ko_txt": "3)항원성 및 면역독성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 59
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[59]",
+      "ko_txt": "4)작용기전독성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 60
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[60]",
+      "ko_txt": "5)대사물",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 61
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[61]",
+      "ko_txt": "6)불순물",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 62
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[62]",
+      "ko_txt": "7)기타",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 63
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[63]",
+      "ko_txt": "5.약리작용에 관한 자료가.효력시험자료나.일반약리시험자료 또는 안전성약리시험자료다.흡수,분포,대사 및 배설시험자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 64
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[64]",
+      "ko_txt": "1)분석방법과 밸리데이션 보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 65
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[65]",
+      "ko_txt": "2)흡수",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 66
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[66]",
+      "ko_txt": "3)분포",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 67
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[67]",
+      "ko_txt": "4)대사",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 68
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[68]",
+      "ko_txt": "5)배설",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 69
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[69]",
+      "ko_txt": "라.약물상호작용 등에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 70
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[70]",
+      "ko_txt": "6.임상시험성적에 관한 자료가.임상시험자료집",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 71
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[71]",
+      "ko_txt": "1)생물약제학 시험보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 72
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[72]",
+      "ko_txt": "2)인체시료를 이용한 약동학 관련 시험 보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 73
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[73]",
+      "ko_txt": "3)약동학(PK)시험보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 74
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[74]",
+      "ko_txt": "4)약력학(PD)시험 보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 75
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[75]",
+      "ko_txt": "5)유효성과 안전성 시험 보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 76
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[76]",
+      "ko_txt": "6)시판후 사용경험에 대한 보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 77
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[77]",
+      "ko_txt": "7)증례기록서와 개별 환자 목록나.가교자료다.생물학적동등성 시험에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 78
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[78]",
+      "ko_txt": "7.외국의 사용현황 등에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 79
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[79]",
+      "ko_txt": "8.국내 유사제품과의 비교검토 및 당해 의약품등의 특성에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 80
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[80]",
+      "ko_txt": "[심사자종합의견]",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 81
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "• 신청품목(구연산제이철수화물) 경구투여시 위장관 내 인의 흡수를 감소시켜 혈청 인 농도를 낮출 수 있음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "즉, 구연산제이철수화물에서 해리되는 3가 철 이온(ferric ion)은 위장관에서 음식의 인산염과 반응하여 불용성의 인산철 침전물을 형성하고, 대변으로 제거되어 혈청 내 인 농도를 감소시킴. 구 연산염은 흡수된 이후 중탄산염으로 대사된다고 알려짐",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "• 비임상시험자료 : 신청품목은 제28조제2항에 근거하여 개발국(대만) 이외의 사용국이 있는 품목으로 당해년도를 포함하여 3년 이내에 발간된 제4조제4항에서 정한 외국의 의약품집(일본의약품집)에 수 재된 품목으로 제5조제1항제4호 및 제5호의 자료를 면제할 수 있음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "• 약동학적 정보 : 임상약리시험이 별도로 수행되지 않았으나, 구연산제이철수화물에 포함된 3가 철 이온은 대부분이 흡수되지 않고 대변으로 배설된다고 알려짐. 3가 철 이온은 장 상피세포의 환원효 소에 의해 일부가 2가 철 이온으로 환원되어 흡수될 수 있으며, 임상시험에서 이 약 투여 후 혈청 철 농도등 철 매개 변수 증가가 확인되었음(임상시험의 구연산 철 투여군에서는 일반적으로 혈청 철분, 페리틴, TSAT가 증가하고 TIBC는 감소하였음)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "* CTD에서 구연산제이철수화물의 제조소의 합성 공정을 통해 용해도를 높여 치료효과를 증진시켰 다고 기술되어 있는데, 용해도 증가로 인하여 체내 흡수율이 증가되어 철 축적에 대한 위험성을 배제할 수 없음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "위해성 관리계획을 통해 철 축적/간독성 면밀하게 모니터링 필요함",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "• 임상자료 : 혈액투석을 받고 있는 만성 신장질환이 있는 고인산혈증(혈청 인>5.5mg/dL) 환자를 대상 으로 한 원개발국(대만)에 제출된 핵심 제3상 임상시험(PNC00301)에서 위약, 구연산제이철수화물 4g, 6g 투여군으로 무작위배정하였음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "기저치 대비 8주 시점(투여 57일)에 혈청 인의 평균 감소량은 1.60mg/dL, 2.27mg/dL였으며, 위약군과 비교하여 유의한 감소를 보였음(p<0.001). 기저치 및 치료 종 료시점(57일)에 평균 혈청 페리틴(ferritin) 수치는 이 약 1일 6g 투여군에서 각각 351.29ng/ml와 427.57ng/ml였고, 이 약 1일 4g 투여군에서 각각 354.62ng/mL와 436.04ng/ml였음 위약군에서는 각각 393.54ng/mL, 402.43ng/ml이었음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "기저치 및 치료 종료시점(57일)에 평균 트랜스페린 포화도(TSAT) 수치는 이 약 1일 6g 투여군에서 각각 26.75%와 31.90%였고, 이 약 1일 4g 투여군에서 각각 27.22% 와 31.74%, 위약군에서 각각 30.22%와 25.62%였음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[82]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 83
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[82]",
+      "ko_txt": "1.제품정보",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 83
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[83]",
+      "ko_txt": "• 제품명 : 네폭실캡슐(구연산제이철수화물)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 84
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[84]",
+      "ko_txt": "• 약리작용 기전 : 구연산제이철수화물은 위장관 내 인의 흡수를 감소시켜 혈청 인 농도를 낮출 수있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 85
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[84]",
+      "ko_txt": "이 약의 3가 철 이온(ferric ion)은 위장관에서 음식의 인산염과 반응하여 불용성의 인산철 침전물을 형성하고, 대변으로 제거되어 혈청 내 인 농도를 감소시킨다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 85
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[84]",
+      "ko_txt": "이 약의 구연산염은 흡수된 이후 중탄산염으로 대사됨",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 85
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[85]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 86
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[85]",
+      "ko_txt": "2.기원 및 개발경위",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 86
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[86]",
+      "ko_txt": "• 네폭실캡슐500mg은 구연산제이철수화물을 주성분으로 하는 만성 신장질환 환자에서 혈청 인을 조절하는 약물로, 만성 신부전 (CKD) 환자의 혈청 인 수치를 감소 및 조절하기 위해 사용하는 약물임",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 87
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[87]",
+      "ko_txt": "• 이 약은 대만 Panion & BF 바이오테크 회사(Panion)에 의해 PBF1681이라는 코드로 개발되었으며, 미국에서는 Keryx Biopharmaceuticals, Inc. (Keryx)회사가 KRX-0502라는 코드명으로, 일본에서는 Japan Tabacco Inc. (JT)가 JTT-751이라는 코드명으로 공동 개발을 진행하였음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 88
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[88]",
+      "ko_txt": "• 만성신장질환 환자에서 고인산혈증은 흔히 초래될 수 있으며, 이때 혈청 인 수치를 조절하기 위해서는 인 결합제(phosphate binder)를 사용해야 함 구연산제이철수화물은 경구 투여 시 위장관 내의 인과 반응하여, 인산철(ferric phosphate)의 형태로 인을 침전시킴. 인산철은 불용성 물질로 대변을 통해 배설되며, 결과적으로 장관 내에서 흡수되는 인의 양 및 혈청 인 수치가 감소함",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 89
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[89]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 90
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[89]",
+      "ko_txt": "3. 신청 적응증 개요 및 치료법",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 90
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[90]",
+      "ko_txt": "•Management of chronic kidney disease–mineral and bone disorder:Korean working group recommendations(Kidney ResClinPract34(2015)4–12)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 91
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[90]",
+      "ko_txt": "- 혈청 인 농도의 목표 범위 : 2.4-5.0mg/dL",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 91
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[90]",
+      "ko_txt": "- 혈청 인 농도 5.0mg/dL(이하)인 경우, 인 결합제 투여가 권장됨",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 91
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[91]",
+      "ko_txt": "•인 결합제",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 92
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[91]",
+      "ko_txt": "- 칼슘계 인 결합제 : Calcium carbonate(씨씨본정 등), Calcium acetate(포슬로정) - 비칼슘계 인 결합제 : Sevelamer carbonate(렌벨라정), lanthanum carbonate(포스레놀정)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 92
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[92]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 93
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[92]",
+      "ko_txt": "4.신청품목과 관련된 중요한 안전성 쟁점",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 93
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[93]",
+      "ko_txt": "• 8주 위약대조 임상시험에서 보고되 이상반응 : 183명을 대상으로 8주간 실시한 위약 대조 임상시험에서, 이 약 1일 4g, 6g 또는 위약 투여시 보고된 이상반응은 각각 94.7%(71/75명), 86.1%(62/72명), 위약 66.7%(24/36명)이었음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 94
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[93]",
+      "ko_txt": "이 약 또는 위약 투여군에서 5% 이상 발생한 이상반응은 다음과 같음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 94
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[94]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 95
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[94]",
+      "ko_txt": "5. 신청품목의 허가신청 전 민원이력에 관한 사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 95
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[95]",
+      "ko_txt": "․2017.07.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 96
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[95]",
+      "ko_txt": "26. 수입품목허가신청(접수번호 20170129690)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 96
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[96]",
+      "ko_txt": "․2020.12.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 97
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[96]",
+      "ko_txt": "16. 의약품등의 사전검토신청(접수번호 20200276182)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 97
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[97]",
+      "ko_txt": "2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 98
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[97]",
+      "ko_txt": "1. 원료의약품(Drug substance)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 98
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[98]",
+      "ko_txt": "2.1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 99
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[98]",
+      "ko_txt": "1. 일반정보",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 99
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[99]",
+      "ko_txt": "• 명칭: 구연산제이철수화물",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 100
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[100]",
+      "ko_txt": "• 일반명: Ferric citrate hydrate, pharmaceutical grade",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 101
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[100]",
+      "ko_txt": "• 분자식:",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 101
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[101]",
+      "ko_txt": "• 구조식",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 102
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[102]",
+      "ko_txt": "2.1.2 원료의약품 시험항목",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 103
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[103]",
+      "ko_txt": "• 구연산제이철수화물 :",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 104
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[104]",
+      "ko_txt": "■ 성상 ■ 확인시험 시성치 ( □ pH □ 비선광도 □ 굴절률 □ 융점 □ 기타 ) 순도시험 (■ 유연물질 ■ 잔류용매시험 ■ 중금속 □ 기타 )",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 105
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[105]",
+      "ko_txt": "■ 건조감량/강열감량/수분 □ 강열잔분/회분/산불용성회분",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 106
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[106]",
+      "ko_txt": "□ 특수시험 ■ 기타시험(미생물한도) ■ 정량법 □ 표준품/시약․시액",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 107
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[107]",
+      "ko_txt": "*시험항목이 설정된 경우 ■로 기재한다",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 108
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[108]",
+      "ko_txt": "2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 109
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[108]",
+      "ko_txt": "2. 완제의약품(Drug product)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 109
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[109]",
+      "ko_txt": "• 해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 110
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[110]",
+      "ko_txt": "2.2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 111
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[110]",
+      "ko_txt": "2. 완제의약품 시험항목",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 111
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[111]",
+      "ko_txt": "*특수시험 :안전성시험,항원성시험,히스타민시험,소화력시험",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 112
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[112]",
+      "ko_txt": "*기타시험 :미생물한도시험,원료의 입자도시험 등",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 113
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[113]",
+      "ko_txt": "3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 114
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[113]",
+      "ko_txt": "1.원료의약품의 안정성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 114
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[114]",
+      "ko_txt": "• 해당없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 115
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[115]",
+      "ko_txt": "3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 116
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[115]",
+      "ko_txt": "2. 완제의약품의 안정성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 116
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[116]",
+      "ko_txt": "3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 117
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[116]",
+      "ko_txt": "3. 신청사항 및 외국의 허가현황",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 117
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[117]",
+      "ko_txt": "• 밀폐용기, 실온(1~30℃) 보관, 제조일로부터 24개월",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 118
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[118]",
+      "ko_txt": "3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 119
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[118]",
+      "ko_txt": "4. 안정성에 대한 심사자 의견",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 119
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[119]",
+      "ko_txt": "• 제출된 근거자료에 따라 신청 저장방법 및 사용기간(제조일로부터 24개월)은 타당함.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 120
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[120]",
+      "ko_txt": "• 동 규정 제28조 제2항에 따라 독성 및 약리작용에 관한 자료 제출 면제",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 121
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[121]",
+      "ko_txt": "• 대만 (변경)허가 당시 자료제출 증명서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 122
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[122]",
+      "ko_txt": "6.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 123
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[122]",
+      "ko_txt": "2.임상시험자료집 개요",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 123
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[123]",
+      "ko_txt": "6.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 124
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[123]",
+      "ko_txt": "3.유효성 및 안전성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 124
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[124]",
+      "ko_txt": "• 4건의 핵심임상시험의 시험결과 - 혈청 인 수치의 변화",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 125
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[125]",
+      "ko_txt": "6.3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 126
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[125]",
+      "ko_txt": "2.유효성 결과에 대한 요약 및 결론",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 126
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[126]",
+      "ko_txt": "• 제출된 임상자료 중 대만 허가당시 제출한 핵심 임상시험(PNC003010)에서 구연산제이철수화물 4g, 또는 6g 투여시 위약 대비 통계학적으로 유의하게 혈청 인 감소를 보였음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 127
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[127]",
+      "ko_txt": "6.3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 128
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[127]",
+      "ko_txt": "3.안전성 결과에 대한 요약 및 결론",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 128
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[127]",
+      "ko_txt": "• 가장 빈번하게 발생한 이상반응은 위장관계 반응이었고, 제제에서 유리된 철이 흡수되어 철분 관련 매개변수 증가가 함께 확인되었음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 128
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[128]",
+      "ko_txt": "6.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 129
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[128]",
+      "ko_txt": "4.임상에 대한 심사자의견",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 129
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[128]",
+      "ko_txt": "• 혈액투석을 받고 있는 만성 신장질환이 있는 고인산혈증(혈청 인>5.5mg/dL) 환자를 대상으로 한 원개발국(대만)에 제출된 핵심 제3상 임상시험(PNC00301)에서 위약, 구연산제이철수화물 4g, 6g 투여군으로 무작위배정하였음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 129
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[128]",
+      "ko_txt": "기저치 대비 8주 시점(투여 57일)에 혈청 인의 평균 감소량은 1.60mg/dL, 2.27mg/dL였으며, 위약군과 비교하여 유의한 감소를 보였음(p<0.001). 기저치 및 치료 종료시점(57일)에 평균 혈청 페리틴(ferritin) 수치는 이 약 1일 6g 투여군에서 각각 351.29ng/ml와 427.57ng/ml였고, 이 약 1일 4g 투여군에서 각각 354.62ng/mL와 436.04ng/ml였음 위약군에서는 각각 393.54ng/mL, 402.43ng/ml이었음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 129
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[128]",
+      "ko_txt": "기저치 및 치료 종료시점(57일)에 평균 트랜스페린 포화도(TSAT) 수치는 이 약 1일 6g 투여군에서 각각 26.75%와 31.90%였고, 이 약 1일 4g 투여군에서 각각 27.22%와 31.74%, 위약군에서 각각 30.22%와 25.62%였음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 129
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[128]",
+      "ko_txt": "• 임상시험에서 빈번하게 나타난(5% 이상) 이상반응은 위장관계 이상반응으로 변 변색, 설사, 변비, 오심, 구토, 기침, 복통 및 고칼륨혈증이 보고되었음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 129
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[128]",
+      "ko_txt": "구연산제이철수화물 투여시 철분 관련 파라미터의 개선이 관찰되었으나, 철분 과다 축적으로 인한 독성은 관찰되지 않았음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 129
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[128]",
+      "ko_txt": "다만,구연산 철 투여전 및 투여 중 철 관련 파라미터(serum ferritin, TSAT 등)에 대하여 정기적으로 확인이 필요함",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 129
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[129]",
+      "ko_txt": "․ FDA : Auryxia Tablet 1g, Keryx Biopharmaceuticals, Inc.(2014.9.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 130
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[129]",
+      "ko_txt": "5. 허가)․ EMA : Fexeric 1g Film-coated Tablet, Keryx Biopharma UL Ltd. (2015.9.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 130
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[129]",
+      "ko_txt": "23. 최초 허가, 2020.1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 130
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[129]",
+      "ko_txt": "13. 품목 허가 효력 상실(유럽 미시판))․ 일본 : Riona Tablet 250mg, JT/Torii(2014.1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 130
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[129]",
+      "ko_txt": "17. 허가)․ 대만 : Nephoxil capsule 500mg, Panion&BF Biotech Inc.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 130
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[130]",
+      "ko_txt": "(2015.1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 131
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[130]",
+      "ko_txt": "13. 최초 허가, 2020.04.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 131
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[130]",
+      "ko_txt": "13. 용법용량 변경허가)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 131
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[131]",
+      "ko_txt": "안전성 검토항목 의약품 감시계획 위해성 완화 일반적인 감시활동 - 위장관 출혈 및 염증 추가 약물 감시활동: 시판후조사(사용성적조사) 일반적인 감시활동관찰연구 - 병용 투여된 시프로플록사신/독시사이 클린의 치료 효과 감소",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 132
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[132]",
+      "ko_txt": "2. 중요한 잠재적 위해성일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 133
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[133]",
+      "ko_txt": "- 철 침착/간독성 추가 약물 감시활동:",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 134
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[134]",
+      "ko_txt": "작용으로 인한 고알루미늄혈증 - 소아에서 과량투여로 인한 손상 가능성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 135
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[135]",
+      "ko_txt": "3. 중요한 부족정보",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 136
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[136]",
+      "ko_txt": "- 임부 및 수유부에서의 안전성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 137
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[137]",
+      "ko_txt": "- 75세 고령 환자에서의 안전성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 138
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[138]",
+      "ko_txt": "1. 경고철 함유제제는 6세 이하의 어린이가 사고로 과량 복용하였을 경우 중독성 사망을 일으킬 수 있으므로, 어린이의 손에 닿지 않도록 보관한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 139
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[138]",
+      "ko_txt": "만약 어린이가 사고로 과량 복용하였을 경우, 즉시 의사나 응급센터에 연락한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 139
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[139]",
+      "ko_txt": "2. 다음 환자에는 투여하지 말 것.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 140
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[140]",
+      "ko_txt": "1) 이 약 또는 이 약의 구성성분에 과민증이 있는 환자",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 141
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[140]",
+      "ko_txt": "2) 저인산혈증 환자",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 141
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[140]",
+      "ko_txt": "3) 철 대사 이상 또는 철 과잉증 환자(예, 혈색소증)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 141
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[141]",
+      "ko_txt": "3. 다음 환자에는 신중히 투여할 것",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 142
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[141]",
+      "ko_txt": "1) 혈청 페리틴 및 트랜스페린 포화도 등으로 부터 철 과잉증이 의심되는 환자",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 142
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[141]",
+      "ko_txt": "철 과잉증이 의심되는 환자는 전반적인 상태를 평가하여 신중히 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 142
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[141]",
+      "ko_txt": "철 과잉 증상이 관찰되는 경우 철분 제제 투여를 중단한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 142
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[142]",
+      "ko_txt": "2) 소화성 궤양, 위장관 출혈, 염증성 장 질환 등의 위장 질환이 있는 환자(임상시험에서 투여 경험이 없으므로, 안전성이 확립되어 있지 않다.)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 143
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[142]",
+      "ko_txt": "3) 만성 C형 간염 등의 간염 환자(질환을 악화시킬 우려가 있다.)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 143
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[142]",
+      "ko_txt": "4) 발작성 야간 혈색소 뇨증 환자(용혈을 유발하여 질환을 악화시킬 우려가 있다.)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 143
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[142]",
+      "ko_txt": "5) 다른 철 함유 제제 투여 중인 환자 (철 과잉증을 일으킬 수 있다)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 143
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[142]",
+      "ko_txt": "6) 이 약은 황색4호(타르트라진)를 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에 는 신중히 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 143
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[143]",
+      "ko_txt": "4. 이상반응임상시험에서 이 약에서 보고된 이상반응은 대부분 경증에서 중등도의 위장관계 불편감이었으며, 가장 흔하게 보고된 이상반응은 대변 변색이었고, 변비, 복부 팽만, 설사 및 복통 등의 순으로 보고되었다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 144
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[144]",
+      "ko_txt": "5. 일반적 주의",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 145
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[144]",
+      "ko_txt": "1) 이 약은 혈중 인의 배설을 촉진하는 약물이 아니기 때문에, 식이 요법 등에 의한 인 섭취 제한을 고려해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 145
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[145]",
+      "ko_txt": "2) 알루미늄 함유 제제와 같이 투여해서는 안 된다 (구연산염과 병용 시 알루미늄의 흡수가 촉진되었다는 보고가 있다).",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 146
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[146]",
+      "ko_txt": "3) 이 약은 비칼슘계 인결합제이므로, 특히 저칼슘혈증이 있는 말기 신장질환자에서 혈청 칼슘 농도를 정기적으로 모니터링 해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 147
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[147]",
+      "ko_txt": "4) 알부민, 칼슘, 인, 철, PTH, 총 혈청 페리틴, 총 철 결합능(TIBC) 및 간 기능 검사(GOT/GPT)등 혈액학 \t검사 및 생화학검사를 매달 모니터링한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 148
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[148]",
+      "ko_txt": "5) 이 약의 성분 중 철이 일부 흡수될 수 있으므로, 혈청 페리틴, 트랜스페린 포화도 등을 정기적으로 측정하고 철 과잉에 주의해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 149
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[149]",
+      "ko_txt": "또한 헤모글로빈 등을 정기적으로 측정하고, 특히 적혈구 조혈 자극 인자 제제와 병용하는 경우에는 과잉 조혈에 주의 한다",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 150
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[150]",
+      "ko_txt": "6) 저인산혈증이 발생하면 이 약의 투여를 중단해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 151
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[151]",
+      "ko_txt": "7) 다른 경구용 철분제제와 같이 이 약 투약에 의해 대변 변색(흑색)이 나타날 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 152
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[152]",
+      "ko_txt": "6. 상호작용위의 표에 나열되지 않은 경구용 의약품의 경우 이 약과 약물 상호작용에 대한 자료는 없다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 153
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[153]",
+      "ko_txt": "해당 약물의 생체이용률 감소로 인해 안전성 및 유효성에 의미 있는 영향이 나타나는 약물의 경우, 두 약물의 투여 시기 분리를 고려한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 154
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[154]",
+      "ko_txt": "두 약물의 투여 간격은 병용투여하는 약물의 최고 혈중농도 도달시간 및 약물의 방출 특성(속방 또는 지연 방출)과 같은 흡수 특성을 고려해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 155
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[155]",
+      "ko_txt": "병용투여하는 약물이 치료영역이 좁은 경우 약물의 혈중 농도 및 임상적 반응 모니터링을 고려한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 156
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[156]",
+      "ko_txt": "7. 임부 및 수유부에 대한 투여 임부에 대한 이 약의 적절한 임상시험 자료는 없다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 157
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[156]",
+      "ko_txt": "그러므로 이 약을 임부, 임신하고 있을 가능성이 있는 여성 및 수유부에게 치료상의 유익성이 위험성을 상회한다고 판단하는 경우에만 투여해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 157
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[157]",
+      "ko_txt": "8. 소아에 대한 투여 소아에 대한 이 약의 안전성과 유효성은 확립되어 있지 않다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 158
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[158]",
+      "ko_txt": "9. 고령자에 대한 투여 일반적으로 고령자는 생리기능이 저하되어 있으므로, 환자의 상태를 관찰하면서 신중히 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 159
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[159]",
+      "ko_txt": "10. 보관 및 취급상의 주의사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 160
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[159]",
+      "ko_txt": "1) 어린이의 손이 닿지 않는 곳에 보관한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 160
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[159]",
+      "ko_txt": "2) 다른 용기에 바꾸어 넣는 것은 사고원인이 되거나 품질 유지 면에서 바람직하지 않으므로 주의한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 160
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[160]",
+      "ko_txt": "11. 전문가를 위한 정보",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 161
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[160]",
+      "ko_txt": "1) 약리작용 구연산제이철수화물은 위장관 내 인의 흡수를 감소시켜 혈청 인 농도를 낮출 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 161
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[160]",
+      "ko_txt": "이 약의 3가 철 이온(ferric ion)은 위장관에서 음식의 인산염과 반응하여 불용성의 인산철 침전물을 형성하고, 대변으로 제거되어 혈청 내 인 농도를 감소시킨다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 161
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[160]",
+      "ko_txt": "이 약의 구연산염은 흡수된 이후 중탄산염으로 대사된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 161
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[161]",
+      "ko_txt": "2) 약동학적 정보 구연산제이철수화물에 포함된 3가철 이온은 대부분이 흡수되지 않고 대변으로 배설된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 162
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[161]",
+      "ko_txt": "3가 철 이온은 장 상피세포의 환원효소에 의해 일부가 2가 철 이온으로 환원되어 흡수된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 162
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[161]",
+      "ko_txt": "임상시험에서, 이 약 투여 후 혈청 철 농도등 철 매개 변수 증가가 확인되었다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 162
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[162]",
+      "ko_txt": "3) 임상시험 정보 8주간 진행된 3상 위약 대조군 임상시험에서, 혈액 투석을 받고 있는 만성 신장 질환이 있는 고인산혈증(혈청 인> 5.5mg/dL) 환자 183명에게 이 약 1일 4g, 6g 투여군 또는 위약군으로 무작위 배정했다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 163
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[163]",
+      "ko_txt": "이 약 4g, 6g 투여군에서 투여 첫 주에 혈청 인이 유의하게 감소되었다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 164
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[164]",
+      "ko_txt": "* 유효성 집단은 이 약 투여 전 및 (한 번 이상) 15일 또는 이후에 혈청 인 농도 측정이 누락되지 않은 모든 안전성 평가 집단으로 구성되었다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 165
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[165]",
+      "ko_txt": "** ANCOVA 이용한 분석그림 1: 8주간 혈청 인 평균 변화량",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 166
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[166]",
+      "ko_txt": "4) 독성시험 정보 개를 대상으로 한 장기 반복 투여 독성 시험에서 최대 임상용량의 철로 약 5배에 해당하는 용량에서 철분 과잉 축적에 따른 간 조직 병변(만성 염증, 미세 담관의 이상증식 및 간 실질의 섬유화)이 확인되었다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 167
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[166]",
+      "ko_txt": "이러한 변화는 회복기 동안 회복되지 않고, 병태의 진행이 확인되었다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 167
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[167]",
+      "ko_txt": "[ 별지 1] 의약품 품목허가 보고서 공개 양식허가 심사 개요 (「 의약품등의 안전에 관한 규칙 」 제 4 조제 1 항 관련)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 168
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[168]",
+      "ko_txt": "1.1 안전성 · 유효성 및 기준 및 시험방법 심사결과 < 붙임 1 참조 > 원료의약품등록 사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 169
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[169]",
+      "ko_txt": "1.3 (DMF)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 170
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[170]",
+      "ko_txt": "[ 붙임 1] 안전성 · 유효성 및 기준 및 시험방법 심사 결과",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 171
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[171]",
+      "ko_txt": "[ 2] [ ] 붙임 위해성 관리 계획 요약첨 부 사용상의 주의사항자 료 번 호 주",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 172
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[171]",
+      "ko_txt": "1) 약리작용 기전 : 구연산제이철수화물은 위장관 내 인의 흡수를 감소시켜 혈청 인 농도를 낮출 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 172
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[171]",
+      "ko_txt": "이 약의 3가 철 이온(ferric ion)은 위장관에서 음식의 인산염과 반응하여 불용성의 인산철 침 전물을 형성하고, 대변으로 제거되어 혈청 내 인 농도를 감소시킨다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 172
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[171]",
+      "ko_txt": "이 약의 구연산염은 흡수된 이",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 172
+    },
+    {
+      "seg_id": 295,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[172]",
+      "ko_txt": "Management of chronic kidney disease -mineral and bone disorder:Korean working group recommendations(Kidney ResClinPract34(2015)4 -12)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 173
+    },
+    {
+      "seg_id": 296,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[173]",
+      "ko_txt": "2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 174
+    },
+    {
+      "seg_id": 297,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[174]",
+      "ko_txt": "Molecular formula: FeCoHsO7 nH2O.n 0.6~2.2",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 175
+    },
+    {
+      "seg_id": 298,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[175]",
+      "ko_txt": "Molecular weight: 244.94 g/mol anhydrous basis)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 176
+    },
+    {
+      "seg_id": 299,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[176]",
+      "ko_txt": "■ 성상 ■ 확인시험 시성치 ( □ pH □ 비선광도 □ 굴절률 □ 융점 □ 기타 ) 순도시험 (■ 유연물질 ■ 잔류용매시험 ■ 중금속 □ 기타 )",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 177
+    },
+    {
+      "seg_id": 300,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[177]",
+      "ko_txt": "■ 건조감량/강열감량/수분 □ 강열잔분/회분/산불용성회분",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 178
+    },
+    {
+      "seg_id": 301,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[178]",
+      "ko_txt": "□ 특수시험 ■ 기타시험(미생물한도) ■ 정량법 □ 표준품/시약",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 179
+    },
+    {
+      "seg_id": 302,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[179]",
+      "ko_txt": "․ 시액",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 180
+    },
+    {
+      "seg_id": 303,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[180]",
+      "ko_txt": "*시험항목이 설정된 경우 ■로 기재한다",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 181
+    },
+    {
+      "seg_id": 304,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[181]",
+      "ko_txt": "2.2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 182
+    },
+    {
+      "seg_id": 305,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[181]",
+      "ko_txt": "1. 첨가제의 종류 ( 주사제 , 점안제 , 안연고제 , 점이제에 해당하는 경우 )",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 182
+    },
+    {
+      "seg_id": 306,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[182]",
+      "ko_txt": "6.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 183
+    },
+    {
+      "seg_id": 307,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[182]",
+      "ko_txt": "1. 임상시험자료의 신뢰성 (GCP 준수 )",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 183
+    },
+    {
+      "seg_id": 308,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[183]",
+      "ko_txt": "Table2:Description of Clinical EfficacyStudies",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 184
+    },
+    {
+      "seg_id": 309,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[184]",
+      "ko_txt": "Part1ofthe studywasprior toprotocolAmendment2.Dosebasedontwelve375-mgcapsules/day(4.5g/day)titrated tothity375-mgcapsules/day (11.3g/day).Part 2of the study was after protocol Amendment 2wasimplemented.Dose based on sixteen 375-mg capsules/day(6.0g/day)titrated to thirty375-mgcapsules/day（11.3g/day)(seeStudy201Protocol,Amendment2).",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 185
+    },
+    {
+      "seg_id": 310,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[185]",
+      "ko_txt": "Ten additional subjectswere planned foradoseregimengroupof9g/day.Administration to thisgroupwasnotcarried out due toincidence of gastrointestinaldisordersinthe7.5g/daygroup.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 186
+    },
+    {
+      "seg_id": 311,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[186]",
+      "ko_txt": "Study 307 was for safety assessment and did not pre-define efficacy endpoint.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 187
+    },
+    {
+      "seg_id": 312,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[187]",
+      "ko_txt": "The serum phosphorus was included in the safety assessment parameters.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 188
+    },
+    {
+      "seg_id": 313,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[188]",
+      "ko_txt": "CKD = chronic kidney disease;",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 189
+    },
+    {
+      "seg_id": 314,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[189]",
+      "ko_txt": "EAP = Efficacy Assessment Period;",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 190
+    },
+    {
+      "seg_id": 315,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[190]",
+      "ko_txt": "HCl = hydrochloride;",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 191
+    },
+    {
+      "seg_id": 316,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[191]",
+      "ko_txt": "SPA = Special Protocol Assessment,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 192
+    },
+    {
+      "seg_id": 317,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[192]",
+      "ko_txt": "TSAT = transferrin saturation;",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 193
+    },
+    {
+      "seg_id": 318,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[193]",
+      "ko_txt": "US = United States 유효성 안전성시험 개요",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 194
+    },
+    {
+      "seg_id": 319,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[194]",
+      "ko_txt": "6.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 195
+    },
+    {
+      "seg_id": 320,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[194]",
+      "ko_txt": "3. 유효성 및 안전성 6.3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 195
+    },
+    {
+      "seg_id": 321,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[194]",
+      "ko_txt": "1. ․",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 195
+    },
+    {
+      "seg_id": 322,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[195]",
+      "ko_txt": "Table2:Summary ofKeyDesignFeaturesof theAdequateandWell-controlledStudies",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 196
+    },
+    {
+      "seg_id": 323,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[196]",
+      "ko_txt": "Calcium acetateorsevelamercarbonateor anycombinationof calcium acetate andsevelamercarbonate at thediscretion of thePrincipalInvestigator.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 197
+    },
+    {
+      "seg_id": 324,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[197]",
+      "ko_txt": "b Pre-defined secondary endpoints in Study 304 and pre-specified secondary endpoints using safety population in Study PNC00301, Study 305, and PBB00101.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 198
+    },
+    {
+      "seg_id": 325,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[198]",
+      "ko_txt": "NCT=non criterion",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 199
+    },
+    {
+      "seg_id": 326,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[199]",
+      "ko_txt": "Exploratory analysis endpoint",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 200
+    },
+    {
+      "seg_id": 327,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[200]",
+      "ko_txt": "Table 6: Serum Phosphorus Treatment-response Relationship Analysis: Change From Baseline to End of Treatment Period, Efficacy Analysis Population",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 201
+    },
+    {
+      "seg_id": 328,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[201]",
+      "ko_txt": "Sources: Study PNC00301 CSR. Table 11-6: Study 304 CSR, Table 14.2.1.2: Study 305 CSR, Table 12.1.2.3: Study PBB00101 CSR. Table 14.2.1",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 202
+    },
+    {
+      "seg_id": 329,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[202]",
+      "ko_txt": "ForStudy304.baselinedenotedasWeek-52-baseline.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 203
+    },
+    {
+      "seg_id": 330,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[203]",
+      "ko_txt": "StudyPBB00101.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 204
+    },
+    {
+      "seg_id": 331,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[204]",
+      "ko_txt": "viaanMMRMmodelwithtermsfortreatmentgroup.Week-52-baselinevalueweekspost-baselineand treatmentbyweekspost-baselineinteraction.Betweentreatment differences are calculated as theLS Mean(ferriccitrate)-LSMean(Placebo).",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 205
+    },
+    {
+      "seg_id": 332,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[205]",
+      "ko_txt": "ForStudy305.ferriccitrate(1.6.and8g/day)pairwisecomparedwith eachotherprovidingmeandifferenceofchangefrom theDay0baseline.95%CIfor",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 206
+    },
+    {
+      "seg_id": 333,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[206]",
+      "ko_txt": "ForStudyPNC00301andPBB00101ferriccitratetreatientgroupswereseparatelycomparedwitPlaceboprovidingmeandifferenceofchangefromtheDay 0baseline.95%CI formean difference.and p-value for testing mean difference equal to 0.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 207
+    },
+    {
+      "seg_id": 334,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[207]",
+      "ko_txt": "7. 외국의 사용현황에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 208
+    },
+    {
+      "seg_id": 335,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[208]",
+      "ko_txt": "․ 대만 : Nephoxil capsule 500mg, Panion&BF Biotech Inc. (2015.1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 209
+    },
+    {
+      "seg_id": 336,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[208]",
+      "ko_txt": "13. 최초 허가, 2020.04.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 209
+    },
+    {
+      "seg_id": 337,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[208]",
+      "ko_txt": "13. 용법용량 변경허가) 품목 개요",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 209
+    },
+    {
+      "seg_id": 338,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[209]",
+      "ko_txt": "[ 2] □",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 210
+    },
+    {
+      "seg_id": 339,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[210]",
+      "ko_txt": "□ 안전성 검토항목 및 조치계획",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 211
+    },
+    {
+      "seg_id": 340,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[211]",
+      "ko_txt": "[ 첨 부 ] 사용상의 주의사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 212
+    },
+    {
+      "seg_id": 341,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[212]",
+      "ko_txt": "4/day 개를 대상으로 한 장기 반복 투여 독성 시험에서 최대 임상용량의 철로 약 5 배에 해당하는 용량에서 철분 과잉 축적에 따른 간 조직 병변 ( 만성 염증 , 미세 담관의 이상증식 및 간 실질의 섬유화 ) 이 확인되었다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 213
+    },
+    {
+      "seg_id": 342,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[212]",
+      "ko_txt": "이러한 변화는 회복기 동안 회복되지 않고, 병태의 진행이 확인되었다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 213
+    },
+    {
+      "seg_id": 343,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[212]",
+      "ko_txt": "끝.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 213
+    },
+    {
+      "seg_id": 344,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[213]",
+      "ko_txt": "접수일자 2021-05-27 접수번호 20210072906",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 214
+    },
+    {
+      "seg_id": 345,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[214]",
+      "ko_txt": "Ⅱ. 자료제출의약품신청구분",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 215
+    },
+    {
+      "seg_id": 346,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[214]",
+      "ko_txt": "1. 새로운염(이성체등)을유효성분으로함유한의약품신청인(회사명) 한국쿄와기린(주) 제품명 네폭실캡슐500mg(구연산제이철수화물) 주성분명 (원료의약품등록번호) 구연산제이철수화물제조/수입품목 □ 제조 ■ 수입 전문/일반 ■전문 □일반",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 215
+    },
+    {
+      "seg_id": 347,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[215]",
+      "ko_txt": "이약의초기권장용량은1일4 g이며, 규칙적으로혈청인산농 사용상의 주의사항 붙임참조김성란 주무관, 문성은허가부서 허가총괄담당관 허가담당자사무관, 이수정과장 (안유) 김송이 주무관, 승호선 연구관, 김호정순환신경계약품과정희금 심사원, 김명미심사부서 의약품안전평가과심사담당자 사무관, 신경승과장첨단의약품품질심사과 (기시) 이서윤 심사원, 이경신 연구관, 손경훈",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 216
+    },
+    {
+      "seg_id": 348,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[216]",
+      "ko_txt": "이영재심사원,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 217
+    },
+    {
+      "seg_id": 349,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[216]",
+      "ko_txt": "박미자",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 217
+    },
+    {
+      "seg_id": 350,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[217]",
+      "ko_txt": "GMP*",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 218
+    },
+    {
+      "seg_id": 351,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[217]",
+      "ko_txt": "평가부서의약품품질과 GMP 담당자사무관, 강영아과장",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 218
+    },
+    {
+      "seg_id": 352,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[218]",
+      "ko_txt": "1. 허가·심사 개요 (「의약품등의 안전에 관한 규칙」제4조제1항 관련) 구    분품목허가기준및시험방법제조및품질관리기관련 자료준 관련 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 219
+    },
+    {
+      "seg_id": 353,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[219]",
+      "ko_txt": "□ 특수시험 ■ 기타시험(미생물한도) ■ 정량법 □ 표준품/시약․시액",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 220
+    },
+    {
+      "seg_id": 354,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[220]",
+      "ko_txt": "■성상 ■확인시험 시성치 ( □pH □비중 □기타(점도) ) 순도시험( ■유연물질 □기타) ■건조감량/수분 □특수시험 □기타시험 ■함량시험 □표준품/시약․시액 *시험항목이 설정된 경우 ■로 기재한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 221
+    },
+    {
+      "seg_id": 355,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[221]",
+      "ko_txt": "제제시험 ■붕해/용출시험 ■질량(용량)편차/제제균일성시험 □입도시험/입자도시험 □금속성이물시험 □단위분무량시험/단위분무당함량시험 □무균시험 ■미생물한도시험 □불용성미립자시험 □불용성이물시험 □알코올수시험 □엔도톡신/발열성물질시험 □점착력시험 □형상시험 □기타시험 *시험항목이 설정된 경우 ■로 기재한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 222
+    },
+    {
+      "seg_id": 356,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[222]",
+      "ko_txt": "시험종류 시험조건 용기형태/재질 결과 장기보존시험 25℃/60% RH HDPE 병, PP 캡 적합 가속시험 40℃/75% RH 적합",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 223
+    },
+    {
+      "seg_id": 357,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[223]",
+      "ko_txt": "Study number Title KRX-0502-101 Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Ciprofloxacin",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 224
+    },
+    {
+      "seg_id": 358,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[224]",
+      "ko_txt": "KRX-0502-102 Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Digoxin",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 225
+    },
+    {
+      "seg_id": 359,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[225]",
+      "ko_txt": "KRX-0502-103 Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Glimepiride",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 226
+    },
+    {
+      "seg_id": 360,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[226]",
+      "ko_txt": "KRX-0502-104 Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Losartan",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 227
+    },
+    {
+      "seg_id": 361,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[227]",
+      "ko_txt": "KRX-0502-105 Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Diltiazem",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 228
+    },
+    {
+      "seg_id": 362,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[228]",
+      "ko_txt": "KRX-0502-106 Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Clopidogrel",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 229
+    },
+    {
+      "seg_id": 363,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[229]",
+      "ko_txt": "KRX-0502-202 A 6-Week Feasibility Trial of a New formulation of KRX-0502(Ferric Citrate) in patients with ESRD",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 230
+    },
+    {
+      "seg_id": 364,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[230]",
+      "ko_txt": "PNC00301 A Randomized, Double-blind, placebo-controlled, multi-center, definitive phase III study of the effects of ferric citrate on serum phosphate in subjects with ESRD",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 231
+    },
+    {
+      "seg_id": 365,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[231]",
+      "ko_txt": "PBB00101 A Randomized, Double-blind, placebo-controlled, Dose-ranging study of the effects of ferric citrate on serum phosphate in patients with ESRD",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 232
+    },
+    {
+      "seg_id": 366,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[232]",
+      "ko_txt": "KRX-0502-304 A Three-period, 58-Week safety and efficacy trial of KRX-0502(ferric citrate) in patients with ESRD on dialysis",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 233
+    },
+    {
+      "seg_id": 367,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[233]",
+      "ko_txt": "KRX-0502-305 A 4-week dose ranging and efficacy study of KRX-0502(ferric citrate) in patients with ESRD following a two-week washout period GBA2-1 Investigation of the effect and safety of JTT-751 in hemodialysis patients",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 234
+    },
+    {
+      "seg_id": 368,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[234]",
+      "ko_txt": "GBA4-1 Comparative study of JTT-751 in hemodialysis patients with sevelamer hydrochloride as a comparator",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 235
+    },
+    {
+      "seg_id": 369,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[235]",
+      "ko_txt": "PBB00501 A long-term, open-label, prospective observational phase IV study to assess the safety and efficacy of Nephoxil in subjects with ESRD on dialysis",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 236
+    },
+    {
+      "seg_id": 370,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[236]",
+      "ko_txt": "OLE-PBB00101 Long term, open-label extension use of ferric citrate in ESRD patients",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 237
+    },
+    {
+      "seg_id": 371,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[237]",
+      "ko_txt": "KRX-0502-201 A safety and tolerability study of Zerenex(ferric citrate) in patients with ESRD",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 238
+    },
+    {
+      "seg_id": 372,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[238]",
+      "ko_txt": "KRX-0502-307 A long-term safety extension trial of KRX-0502(ferric citrate) in patients with ESRD on Dialysis",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 239
+    },
+    {
+      "seg_id": 373,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[239]",
+      "ko_txt": "GBA2-2 Exploratory study of high-dose JTT-751 in hemodialysis patients",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 240
+    },
+    {
+      "seg_id": 374,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[240]",
+      "ko_txt": "GBA4-3 Clinical study in peritoneal dialysis patients",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 241
+    },
+    {
+      "seg_id": 375,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[241]",
+      "ko_txt": "GBA4-5 Investigation of long-term safety and efficacy of JTT-751 in hemodialysis patients",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 242
+    },
+    {
+      "seg_id": 376,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[242]",
+      "ko_txt": "GBA4-6 Investigation on long-term safety and efficacy of JTT-751 in hemodialysis patients",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 243
+    },
+    {
+      "seg_id": 377,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[243]",
+      "ko_txt": "ISS Integrated summary of safety",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 244
+    },
+    {
+      "seg_id": 378,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[244]",
+      "ko_txt": "ISE Integrated summary of efficacy",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 245
+    },
+    {
+      "seg_id": 379,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[245]",
+      "ko_txt": "GBA4-4 Investigation on the efficacy and safety of JTT-751 in patients with CKD not on Dialysis",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 246
+    },
+    {
+      "seg_id": 380,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[246]",
+      "ko_txt": "GBA4-7 Investigation on the safety and efficacy of JTT-751 in patients with CKD not on dialysis(Extension study)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 247
+    },
+    {
+      "seg_id": 381,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[247]",
+      "ko_txt": "UM-1 An Open-label, Crossover Study of a New Phosphate-binding agent in hemodialysis patients: ferric citrate",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 248
+    },
+    {
+      "seg_id": 382,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[248]",
+      "ko_txt": "UM-2 An efficacy study of a New phosphate-binding agent for ESRD patients: ferric citrate",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 249
+    },
+    {
+      "seg_id": 383,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[249]",
+      "ko_txt": "KRX-0502-101 Drug-Drug Interaction study of KRX-0502(Ferric citrate) with Ciprofloxacin",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 250
+    },
+    {
+      "seg_id": 384,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[250]",
+      "ko_txt": "□품목 개요",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 251
+    },
+    {
+      "seg_id": 385,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[251]",
+      "ko_txt": "회사명 한국쿄와기린(주) 허가일 ‘22.5.9",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 252
+    },
+    {
+      "seg_id": 386,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[252]",
+      "ko_txt": "<위해성 관리계획위해성관리계획 번호 ( K K K R - R M P - N P X (버전, 날짜) v1.5, 2022.05.03.)> 주성분 및 함량 1캡슐 중 구연산제이철수화물 500mg 효능·효과 혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 개선안전성 검토항목 의약품 감시계획 위해성 완화조치방법*",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 253
+    },
+    {
+      "seg_id": 387,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[253]",
+      "ko_txt": "1. 중요한 규명된 위해성첨부문서 - 저인산혈증관찰연구 첨부문서 - 알루미늄 함유 의약품과 구연산의 상호 - 소아(18세 이하의 소아 및 청소년)에서 - 생식에 대한 영향",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 254
+    },
+    {
+      "seg_id": 388,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[254]",
+      "ko_txt": "이 약과 병용투여할 수 있는 경구용 의약품 암로디핀 아스피린 아토르바스타틴 칼시트리올 클로피도그렐 디곡신 딜티아젬 도세칼시페롤 에날라프릴 플루바스타틴 글리메피리드 레보플록사신 로사르탄 메토프롤롤 프라바스타틴 프로파리놀롤 시타글립틴 와파린이 약과 투여 간격을 두고 투여해야하는 경구용 의약품권장 투여 방법 독시사이클린 이 약 투여 최소 1 시간 전에 투여시프로플록사신 이 약 투여 전 또는 후로 최소 2 시간 간격을 두고 투여이 약 1 일 6 g (N=66)* 이 약 1 일 4 g (N=72)* 위약 (N=28) 평균 혈청 인 농도(mg/dL)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 255
+    },
+    {
+      "seg_id": 389,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[0]",
+      "ko_txt": "[열] 신청인(회사명) | 제품명 | 주성분명 | 제조/수입품목 | 제형/함량 | 효능효과\n[행0] 한국쿄와기린(주) | 네폭실캡슐500mg | 구연산제이철수화물 | 제조 | 전문 | 혈액투석을받고있는만성신장질환환자의고인산혈증치료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 256,
+      "table": {
+        "title": null,
+        "columns": [
+          "신청인(회사명)",
+          "제품명",
+          "주성분명",
+          "제조/수입품목",
+          "제형/함량",
+          "효능효과"
+        ],
+        "rows": [
+          [
+            "한국쿄와기린(주)",
+            "네폭실캡슐500mg",
+            "구연산제이철수화물",
+            "제조",
+            "전문",
+            "혈액투석을받고있는만성신장질환환자의고인산혈증치료"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 390,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[1]",
+      "ko_txt": "[열] 신청 | 용법용량\n[행0] 사항 | 용법용량\n[행1] 이약은1일3회식사와함께또는식후즉시복용하여야한다. | 이약의초기권장용량은1일4g이며,규칙적으로혈청인산농",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 268,
+      "table": {
+        "title": null,
+        "columns": [
+          "신청",
+          "용법용량"
+        ],
+        "rows": [
+          [
+            "사항",
+            "용법용량"
+          ],
+          [
+            "이약은1일3회식사와함께또는식후즉시복용하여야한다.",
+            "이약의초기권장용량은1일4g이며,규칙적으로혈청인산농"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 391,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[2]",
+      "ko_txt": "[열] 허가부서 | 허가총괄담당관 | 허가담당자 | 김성란 | 주무관, | 문성은\n[행0] 허가부서 | 허가총괄담당관 | 허가담당자 | 사무관,이수정과장 |  | \n[행1] 심사부서 | 순환신경계약품과 | 심사담당자 | (안유) | 김송이 | 주무관,\n[행2] 심사부서 | 순환신경계약품과 | 심사담당자 | 승호선 | 연구관, | 김호정\n[행3] 심사부서 | 순환신경계약품과 | 심사담당자 | 과장 |  | \n[행4] 심사부서 | 순환신경계약품과 | 심사담당자 | 정희금 | 심사원, | 김명미\n[행5] 심사부서 | 의약품안전평가과 | 심사담당자 | 정희금 | 심사원, | 김명미\n[행6] 심사부서 | 의약품안전평가과 | 심사담당자 | 사무관,신경승과장 |  | \n[행7] 심사부서 | 첨단의약품품질심사과 | 심사담당자 | 사무관,신경승과장 |  | \n[행8] 심사부서 | 첨단의약품품질심사과 | 심사담당자 | (기시) | 이서윤 | 심사원,\n[행9] 심사부서 | 첨단의약품품질심사과 | 심사담당자 | 이경신 | 연구관, | 손경훈",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 274,
+      "table": {
+        "title": null,
+        "columns": [
+          "허가부서",
+          "허가총괄담당관",
+          "허가담당자",
+          "김성란",
+          "주무관,",
+          "문성은"
+        ],
+        "rows": [
+          [
+            "허가부서",
+            "허가총괄담당관",
+            "허가담당자",
+            "사무관,이수정과장",
+            "",
+            ""
+          ],
+          [
+            "심사부서",
+            "순환신경계약품과",
+            "심사담당자",
+            "(안유)",
+            "김송이",
+            "주무관,"
+          ],
+          [
+            "심사부서",
+            "순환신경계약품과",
+            "심사담당자",
+            "승호선",
+            "연구관,",
+            "김호정"
+          ],
+          [
+            "심사부서",
+            "순환신경계약품과",
+            "심사담당자",
+            "과장",
+            "",
+            ""
+          ],
+          [
+            "심사부서",
+            "순환신경계약품과",
+            "심사담당자",
+            "정희금",
+            "심사원,",
+            "김명미"
+          ],
+          [
+            "심사부서",
+            "의약품안전평가과",
+            "심사담당자",
+            "정희금",
+            "심사원,",
+            "김명미"
+          ],
+          [
+            "심사부서",
+            "의약품안전평가과",
+            "심사담당자",
+            "사무관,신경승과장",
+            "",
+            ""
+          ],
+          [
+            "심사부서",
+            "첨단의약품품질심사과",
+            "심사담당자",
+            "사무관,신경승과장",
+            "",
+            ""
+          ],
+          [
+            "심사부서",
+            "첨단의약품품질심사과",
+            "심사담당자",
+            "(기시)",
+            "이서윤",
+            "심사원,"
+          ],
+          [
+            "심사부서",
+            "첨단의약품품질심사과",
+            "심사담당자",
+            "이경신",
+            "연구관,",
+            "손경훈"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 392,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[3]",
+      "ko_txt": "[열] GMP* | 평가부서 | 의약품품질과 | GMP | 담당자 | 이영재 | 심사원, | 박미자 | 사무관,강영아과장\n[행0] GMP* | 평가부서 | 의약품품질과 | GMP | 담당자 | 이영재 | 심사원, | 박미자 | 사무관,강영아과장",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 332,
+      "table": {
+        "title": null,
+        "columns": [
+          "GMP*",
+          "평가부서",
+          "의약품품질과",
+          "GMP",
+          "담당자",
+          "이영재",
+          "심사원,",
+          "박미자",
+          "사무관,강영아과장"
+        ],
+        "rows": [
+          [
+            "GMP*",
+            "평가부서",
+            "의약품품질과",
+            "GMP",
+            "담당자",
+            "이영재",
+            "심사원,",
+            "박미자",
+            "사무관,강영아과장"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 393,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[4]",
+      "ko_txt": "[열] 구    분 | 품목허가 | 기준및시험방법관련 자료 | 관련 자료 | 제조및품질관리기준 관련 자료 | 원료의약품등록관련 자료\n[행0] 신청일자 | ’21.05.27 |  |  |  | -\n[행1] 보완요청일자 |  | ’21.08.19.(1차) ’22.04.05(2차) | ’21.08.19.(1차) ’22.04.05(2차) | ’20.07.30. | \n[행2] 보완접수일자 |  | ’22.02.15.(1차) ’22.04.15.(2차) | ’22.02.15.(1차) ’22.04.15.(2차) | ’22.02.25 | \n[행3] 최종처리일자 | ‘22.05.09 |  |  |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 350,
+      "table": {
+        "title": null,
+        "columns": [
+          "구    분",
+          "품목허가",
+          "기준및시험방법관련 자료",
+          "관련 자료",
+          "제조및품질관리기준 관련 자료",
+          "원료의약품등록관련 자료"
+        ],
+        "rows": [
+          [
+            "신청일자",
+            "’21.05.27",
+            "",
+            "",
+            "",
+            "-"
+          ],
+          [
+            "보완요청일자",
+            "",
+            "’21.08.19.(1차) ’22.04.05(2차)",
+            "’21.08.19.(1차) ’22.04.05(2차)",
+            "’20.07.30.",
+            ""
+          ],
+          [
+            "보완접수일자",
+            "",
+            "’22.02.15.(1차) ’22.04.15.(2차)",
+            "’22.02.15.(1차) ’22.04.15.(2차)",
+            "’22.02.25",
+            ""
+          ],
+          [
+            "최종처리일자",
+            "‘22.05.09",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 394,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[5]",
+      "ko_txt": "[열] 제출자료 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 비\n[행0] 구분 | 1 | 가 | 나 |  | \n[행1] 가나다라마바가나다라가나 | 7 | 8 | 고 |  | \n[행2] 제출자료새로 | ○ | ○ | X | △ | ×\n[행3] 운염 | ○ | × | × |  | \n[행4] 새로운효능 | ○ | ○ | X |  | \n[행5] 제출여부 | ○ | ○ | X |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 369,
+      "table": {
+        "title": null,
+        "columns": [
+          "제출자료",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "비"
+        ],
+        "rows": [
+          [
+            "구분",
+            "1",
+            "가",
+            "나",
+            "",
+            ""
+          ],
+          [
+            "가나다라마바가나다라가나",
+            "7",
+            "8",
+            "고",
+            "",
+            ""
+          ],
+          [
+            "제출자료새로",
+            "○",
+            "○",
+            "X",
+            "△",
+            "×"
+          ],
+          [
+            "운염",
+            "○",
+            "×",
+            "×",
+            "",
+            ""
+          ],
+          [
+            "새로운효능",
+            "○",
+            "○",
+            "X",
+            "",
+            ""
+          ],
+          [
+            "제출여부",
+            "○",
+            "○",
+            "X",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 395,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[6]",
+      "ko_txt": "[열] 이상반응 (%) | 이 약(1 일 6 g) (N=72) | 이 약(1 일 4 g) (N=75) | 위약 (N=36)\n[행0] 위장관계 |  |  | \n[행1] 대변 변색 | 37.5 | 37.3 | 5.6\n[행2] 변비 | 6.9 | 6.7 | 0.0\n[행3] 복부 팽만 | 5.6 | 6.7 | 0.0\n[행4] 설사 | 4.2 | 8.0 | 5.6\n[행5] 복통 | 4.2 | 5.3 | 2.8\n[행6] 상복부통증 | 1.4 | 4.0 | 8.3\n[행7] 상부 호흡기 감염 | 19.4 | 26.7 | 5.6",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 405,
+      "table": {
+        "title": null,
+        "columns": [
+          "이상반응 (%)",
+          "이 약(1 일 6 g) (N=72)",
+          "이 약(1 일 4 g) (N=75)",
+          "위약 (N=36)"
+        ],
+        "rows": [
+          [
+            "위장관계",
+            "",
+            "",
+            ""
+          ],
+          [
+            "대변 변색",
+            "37.5",
+            "37.3",
+            "5.6"
+          ],
+          [
+            "변비",
+            "6.9",
+            "6.7",
+            "0.0"
+          ],
+          [
+            "복부 팽만",
+            "5.6",
+            "6.7",
+            "0.0"
+          ],
+          [
+            "설사",
+            "4.2",
+            "8.0",
+            "5.6"
+          ],
+          [
+            "복통",
+            "4.2",
+            "5.3",
+            "2.8"
+          ],
+          [
+            "상복부통증",
+            "1.4",
+            "4.0",
+            "8.3"
+          ],
+          [
+            "상부 호흡기 감염",
+            "19.4",
+            "26.7",
+            "5.6"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 396,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[7]",
+      "ko_txt": "[열] 비인두염 | 1.4 | 1.3 | 5.6\n[행0] 근골격계 |  |  | \n[행1] 근육 연축 | 12.5 | 18.7 | 16.7\n[행2] 호흡기계 |  |  | \n[행3] 기침 | 13.9 | 14.7 | 11.1\n[행4] 순환기계 |  |  | \n[행5] 시술 관련 저혈압 | 12.5 | 8.0 | 11.1\n[행6] 단락 기능부전 | 1.4 | 1.3 | 5.6\n[행7] 피부 및 피하조직 |  |  | \n[행8] 소양증 | 8.3 | 8.0 | 5.6\n[행9] 신경계 |  |  | \n[행10] 어지러움 | 5.6 | 4.0 | 0.0\n[행11] 두통 | 1.4 | 5.3 | 11.1\n[행12] 저혈압 | 5.6 | 2.7 | 5.6\n[행13] 일반 및 투여 부위 상태 |  |  | \n[행14] 발열 | 5.6 | 2.7 | 2.8",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 438,
+      "table": {
+        "title": null,
+        "columns": [
+          "비인두염",
+          "1.4",
+          "1.3",
+          "5.6"
+        ],
+        "rows": [
+          [
+            "근골격계",
+            "",
+            "",
+            ""
+          ],
+          [
+            "근육 연축",
+            "12.5",
+            "18.7",
+            "16.7"
+          ],
+          [
+            "호흡기계",
+            "",
+            "",
+            ""
+          ],
+          [
+            "기침",
+            "13.9",
+            "14.7",
+            "11.1"
+          ],
+          [
+            "순환기계",
+            "",
+            "",
+            ""
+          ],
+          [
+            "시술 관련 저혈압",
+            "12.5",
+            "8.0",
+            "11.1"
+          ],
+          [
+            "단락 기능부전",
+            "1.4",
+            "1.3",
+            "5.6"
+          ],
+          [
+            "피부 및 피하조직",
+            "",
+            "",
+            ""
+          ],
+          [
+            "소양증",
+            "8.3",
+            "8.0",
+            "5.6"
+          ],
+          [
+            "신경계",
+            "",
+            "",
+            ""
+          ],
+          [
+            "어지러움",
+            "5.6",
+            "4.0",
+            "0.0"
+          ],
+          [
+            "두통",
+            "1.4",
+            "5.3",
+            "11.1"
+          ],
+          [
+            "저혈압",
+            "5.6",
+            "2.7",
+            "5.6"
+          ],
+          [
+            "일반 및 투여 부위 상태",
+            "",
+            "",
+            ""
+          ],
+          [
+            "발열",
+            "5.6",
+            "2.7",
+            "2.8"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 397,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[8]",
+      "ko_txt": "[열] ■성상 ■확인시험 시성치 (□pH□비중 □기타(점도))\n순도시험( ■유연물질 □기타) ■건조감량/수분\n□특수시험 □기타시험 ■함량시험 □표준품/시약․시액\n*시험항목이 설정된 경우 ■로 기재한다.\n[행0] 제제시험\n■붕해/용출시험 ■질량(용량)편차/제제균일성시험 □입도시험/입자도시험\n□금속성이물시험 □단위분무량시험/단위분무당함량시험\n□무균시험 ■미생물한도시험 □불용성미립자시험 □불용성이물시험\n□알코올수시험 □엔도톡신/발열성물질시험 □점착력시험 □형상시험 □기타시험*시험항목이 설정된 경우 ■로 기재한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 484,
+      "table": {
+        "title": null,
+        "columns": [
+          "■성상 ■확인시험 시성치 (□pH□비중 □기타(점도))\n순도시험( ■유연물질 □기타) ■건조감량/수분\n□특수시험 □기타시험 ■함량시험 □표준품/시약․시액\n*시험항목이 설정된 경우 ■로 기재한다."
+        ],
+        "rows": [
+          [
+            "제제시험\n■붕해/용출시험 ■질량(용량)편차/제제균일성시험 □입도시험/입자도시험\n□금속성이물시험 □단위분무량시험/단위분무당함량시험\n□무균시험 ■미생물한도시험 □불용성미립자시험 □불용성이물시험\n□알코올수시험 □엔도톡신/발열성물질시험 □점착력시험 □형상시험 □기타시험*시험항목이 설정된 경우 ■로 기재한다."
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 398,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[9]",
+      "ko_txt": "[열] 시험종류 | 시험조건 | 용기형태/재질 | 결과\n[행0] 장기보존시험 | 25℃/60% RH | HDPE 병, PP 캡 | 적합\n[행1] 가속시험 | 40℃/75% RH | HDPE 병, PP 캡 | 적합",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 486,
+      "table": {
+        "title": null,
+        "columns": [
+          "시험종류",
+          "시험조건",
+          "용기형태/재질",
+          "결과"
+        ],
+        "rows": [
+          [
+            "장기보존시험",
+            "25℃/60% RH",
+            "HDPE 병, PP 캡",
+            "적합"
+          ],
+          [
+            "가속시험",
+            "40℃/75% RH",
+            "HDPE 병, PP 캡",
+            "적합"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 399,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[10]",
+      "ko_txt": "[열] Study number | Title\n[행0] KRX-0502-101 | Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Ciprofloxacin\n[행1] KRX-0502-102 | Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Digoxin\n[행2] KRX-0502-103 | Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Glimepiride\n[행3] KRX-0502-104 | Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Losartan\n[행4] KRX-0502-105 | Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Diltiazem\n[행5] KRX-0502-106 | Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Clopidogrel\n[행6] KRX-0502-202 | A 6-Week Feasibility Trial of a New formulation of KRX-0502(Ferric Citrate) in patients with ESRD\n[행7] PNC00301 | A Randomized, Double-blind, placebo-controlled, multi-center, definitive phase III study of the effects of ferric citrate on serum phosphate in subjects with ESRD\n[행8] PBB00101 | A Randomized, Double-blind, placebo-controlled, Dose-ranging study of the effects of ferric citrate on serum phosphate in patients with ESRD\n[행9] KRX-0502-304 | A Three-period, 58-Week safety and efficacy trial of KRX-0502(ferric citrate) in patients with ESRD on dialysis\n[행10] KRX-0502-305 | A 4-week dose ranging and efficacy study of KRX-0502(ferric citrate) in patients with ESRD following a two-week washout period\n[행11] GBA2-1 | Investigation of the effect and safety of JTT-751 in hemodialysis patients\n[행12] GBA4-1 | Comparative study of JTT-751 in hemodialysis patients with sevelamer hydrochloride as a comparator\n[행13] PBB00501 | A long-term, open-label, prospective observational phase IV study to assess the safety and efficacy of Nephoxil in subjects with ESRD on dialysis\n[행14] OLE-PBB00101 | Long term, open-label extension use of ferric citrate in ESRD patients\n[행15] KRX-0502-201 | A safety and tolerability study of Zerenex(ferric citrate) in patients with ESRD\n[행16] KRX-0502-307 | A long-term safety extension trial of KRX-0502(ferric citrate) in patients with ESRD on Dialysis\n[행17] GBA2-2 | Exploratory study of high-dose JTT-751 in hemodialysis patients\n[행18] GBA4-3 | Clinical study in peritoneal dialysis patients\n[행19] GBA4-5 | Investigation of long-term safety and efficacy of JTT-751 in hemodialysis patients\n[행20] GBA4-6 | Investigation on long-term safety and efficacy of JTT-751 in hemodialysis patients\n[행21] ISS | Integrated summary of safety\n[행22] ISE | Integrated summary of efficacy\n[행23] GBA4-4 | Investigation on the efficacy and safety of JTT-751 in patients with CKD not on Dialysis\n[행24] GBA4-7 | Investigation on the safety and efficacy of JTT-751 in patients with CKD not on dialysis(Extension study)\n[행25] UM-1 | An Open-label, Crossover Study of a New Phosphate-binding agent in hemodialysis patients: ferric citrate\n[행26] UM-2 | An efficacy study of a New phosphate-binding agent for ESRD patients: ferric citrate",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 498,
+      "table": {
+        "title": null,
+        "columns": [
+          "Study number",
+          "Title"
+        ],
+        "rows": [
+          [
+            "KRX-0502-101",
+            "Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Ciprofloxacin"
+          ],
+          [
+            "KRX-0502-102",
+            "Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Digoxin"
+          ],
+          [
+            "KRX-0502-103",
+            "Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Glimepiride"
+          ],
+          [
+            "KRX-0502-104",
+            "Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Losartan"
+          ],
+          [
+            "KRX-0502-105",
+            "Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Diltiazem"
+          ],
+          [
+            "KRX-0502-106",
+            "Drug-Drug Interaction Study of KRX-5052(Ferric Citrate) with Clopidogrel"
+          ],
+          [
+            "KRX-0502-202",
+            "A 6-Week Feasibility Trial of a New formulation of KRX-0502(Ferric Citrate) in patients with ESRD"
+          ],
+          [
+            "PNC00301",
+            "A Randomized, Double-blind, placebo-controlled, multi-center, definitive phase III study of the effects of ferric citrate on serum phosphate in subjects with ESRD"
+          ],
+          [
+            "PBB00101",
+            "A Randomized, Double-blind, placebo-controlled, Dose-ranging study of the effects of ferric citrate on serum phosphate in patients with ESRD"
+          ],
+          [
+            "KRX-0502-304",
+            "A Three-period, 58-Week safety and efficacy trial of KRX-0502(ferric citrate) in patients with ESRD on dialysis"
+          ],
+          [
+            "KRX-0502-305",
+            "A 4-week dose ranging and efficacy study of KRX-0502(ferric citrate) in patients with ESRD following a two-week washout period"
+          ],
+          [
+            "GBA2-1",
+            "Investigation of the effect and safety of JTT-751 in hemodialysis patients"
+          ],
+          [
+            "GBA4-1",
+            "Comparative study of JTT-751 in hemodialysis patients with sevelamer hydrochloride as a comparator"
+          ],
+          [
+            "PBB00501",
+            "A long-term, open-label, prospective observational phase IV study to assess the safety and efficacy of Nephoxil in subjects with ESRD on dialysis"
+          ],
+          [
+            "OLE-PBB00101",
+            "Long term, open-label extension use of ferric citrate in ESRD patients"
+          ],
+          [
+            "KRX-0502-201",
+            "A safety and tolerability study of Zerenex(ferric citrate) in patients with ESRD"
+          ],
+          [
+            "KRX-0502-307",
+            "A long-term safety extension trial of KRX-0502(ferric citrate) in patients with ESRD on Dialysis"
+          ],
+          [
+            "GBA2-2",
+            "Exploratory study of high-dose JTT-751 in hemodialysis patients"
+          ],
+          [
+            "GBA4-3",
+            "Clinical study in peritoneal dialysis patients"
+          ],
+          [
+            "GBA4-5",
+            "Investigation of long-term safety and efficacy of JTT-751 in hemodialysis patients"
+          ],
+          [
+            "GBA4-6",
+            "Investigation on long-term safety and efficacy of JTT-751 in hemodialysis patients"
+          ],
+          [
+            "ISS",
+            "Integrated summary of safety"
+          ],
+          [
+            "ISE",
+            "Integrated summary of efficacy"
+          ],
+          [
+            "GBA4-4",
+            "Investigation on the efficacy and safety of JTT-751 in patients with CKD not on Dialysis"
+          ],
+          [
+            "GBA4-7",
+            "Investigation on the safety and efficacy of JTT-751 in patients with CKD not on dialysis(Extension study)"
+          ],
+          [
+            "UM-1",
+            "An Open-label, Crossover Study of a New Phosphate-binding agent in hemodialysis patients: ferric citrate"
+          ],
+          [
+            "UM-2",
+            "An efficacy study of a New phosphate-binding agent for ESRD patients: ferric citrate"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 400,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[11]",
+      "ko_txt": "[열] 고정용량 | 가변용량\n[행0] 시험번호 | PNC00301 | GBA 4-1 | 304 \n(안전성 평가기) | 304 \n(유효성 평가기) | 304 \n(유효성 평가기) |  |  |  | \n[행1] 1일 투여량 | 위약 | 4g | 6g | 1.5~6g | 활성약 | 6~12g |  |  | \n[행2] n수 | 28 | 75 | 72 | 115 | 110 | 281 |  |  | \n[행3] 평가시점 | 8주 | 12주 | 12주 | 4주 |  |  |  |  | \n[행4] 투여 전 | 7.371 | 6.964 | 6.952 | 7.84 | 7.81 | 7.41 | 7.56 | 5.12 | 5.44\n[행5] 투여 후 | 7.393 | 5.442 | 4.741 | 5.31 | 5.40 | 5.38 | 5.34 | 4.88 | 7.23\n[행6] 변화량 | 0.021 | -1.522 | -2.211 | -2.53 | -2.40 | -2.02 | -2.22 | -0.24 | 1.79\n[행7] 목표달성률% | - | 61.7 | 60.0 | 60.9 | 63.7 | 71.4 | 20.9 |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 554,
+      "table": {
+        "title": null,
+        "columns": [
+          "고정용량",
+          "가변용량"
+        ],
+        "rows": [
+          [
+            "시험번호",
+            "PNC00301",
+            "GBA 4-1",
+            "304 \n(안전성 평가기)",
+            "304 \n(유효성 평가기)",
+            "304 \n(유효성 평가기)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1일 투여량",
+            "위약",
+            "4g",
+            "6g",
+            "1.5~6g",
+            "활성약",
+            "6~12g",
+            "",
+            "",
+            ""
+          ],
+          [
+            "n수",
+            "28",
+            "75",
+            "72",
+            "115",
+            "110",
+            "281",
+            "",
+            "",
+            ""
+          ],
+          [
+            "평가시점",
+            "8주",
+            "12주",
+            "12주",
+            "4주",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "투여 전",
+            "7.371",
+            "6.964",
+            "6.952",
+            "7.84",
+            "7.81",
+            "7.41",
+            "7.56",
+            "5.12",
+            "5.44"
+          ],
+          [
+            "투여 후",
+            "7.393",
+            "5.442",
+            "4.741",
+            "5.31",
+            "5.40",
+            "5.38",
+            "5.34",
+            "4.88",
+            "7.23"
+          ],
+          [
+            "변화량",
+            "0.021",
+            "-1.522",
+            "-2.211",
+            "-2.53",
+            "-2.40",
+            "-2.02",
+            "-2.22",
+            "-0.24",
+            "1.79"
+          ],
+          [
+            "목표달성률%",
+            "-",
+            "61.7",
+            "60.0",
+            "60.9",
+            "63.7",
+            "71.4",
+            "20.9",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 401,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[12]",
+      "ko_txt": "[열] 회사명 | 허가일 | 제품명 | 위해성관리계획 번호 \t(버전, 날짜) | 주성분 및 함량 | 효능·효과\n[행0] 한국쿄와기린(주) | ‘22.5.9 | 네폭실캡슐500mg(구연산제이철수화물) | <위해성 \t관리계획\n( K K K R - R M P - N P Xv1.5, 2022.05.03.)> | 1캡슐 중 구연산제이철수화물 500mg | 혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 개선",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 619,
+      "table": {
+        "title": null,
+        "columns": [
+          "회사명",
+          "허가일",
+          "제품명",
+          "위해성관리계획 번호 \t(버전, 날짜)",
+          "주성분 및 함량",
+          "효능·효과"
+        ],
+        "rows": [
+          [
+            "한국쿄와기린(주)",
+            "‘22.5.9",
+            "네폭실캡슐500mg(구연산제이철수화물)",
+            "<위해성 \t관리계획\n( K K K R - R M P - N P Xv1.5, 2022.05.03.)>",
+            "1캡슐 중 구연산제이철수화물 500mg",
+            "혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 개선"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 402,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[13]",
+      "ko_txt": "[열] - 저인산혈증 | 추가 약물 감시활동: | 첨부문서\n[행0] - 저인산혈증 | 시판후조사(사용성적조사) | 첨부문서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 631,
+      "table": {
+        "title": null,
+        "columns": [
+          "- 저인산혈증",
+          "추가 약물 감시활동:",
+          "첨부문서"
+        ],
+        "rows": [
+          [
+            "- 저인산혈증",
+            "시판후조사(사용성적조사)",
+            "첨부문서"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 403,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[14]",
+      "ko_txt": "[열] - 알루미늄 함유 의약품과 구연산의 상호 | 관찰연구 | 첨부문서\n[행0] 일반적인 감시활동 | 첨부문서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 637,
+      "table": {
+        "title": null,
+        "columns": [
+          "- 알루미늄 함유 의약품과 구연산의 상호",
+          "관찰연구",
+          "첨부문서"
+        ],
+        "rows": [
+          [
+            "일반적인 감시활동",
+            "첨부문서"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 404,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[15]",
+      "ko_txt": "[열] - 소아(18세 이하의 소아 및 청소년)에서 | 일반적인 감시활동 | 첨부문서\n[행0] 의 안전성 | 추가 약물 감시활동:\n[행1] - 생식에 대한 영향 | 시판후조사(사용성적조사)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 642,
+      "table": {
+        "title": null,
+        "columns": [
+          "- 소아(18세 이하의 소아 및 청소년)에서",
+          "일반적인 감시활동",
+          "첨부문서"
+        ],
+        "rows": [
+          [
+            "의 안전성",
+            "추가 약물 감시활동:"
+          ],
+          [
+            "- 생식에 대한 영향",
+            "시판후조사(사용성적조사)"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 405,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[16]",
+      "ko_txt": "[열] 이상반응 (%) | 이 약(1 일 6 g) (N=72) | 이 약(1 일 4 g) (N=75) | 위약 (N=36)\n[행0] 위장관계 |  |  | \n[행1] 대변 변색 | 37.5 | 37.3 | 5.6\n[행2] 설사 | 4.2 | 6.7 | 5.6\n[행3] 복부 팽만 | 1.4 | 2.7 | 0.0\n[행4] 변비 | 1.4 | 2.7 | 0.0\n[행5] 대사 및 영양계 |  |  | \n[행6] 저인산혈증 | 2.8 | 0.0 | 0.0",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 649,
+      "table": {
+        "title": null,
+        "columns": [
+          "이상반응 (%)",
+          "이 약(1 일 6 g) (N=72)",
+          "이 약(1 일 4 g) (N=75)",
+          "위약 (N=36)"
+        ],
+        "rows": [
+          [
+            "위장관계",
+            "",
+            "",
+            ""
+          ],
+          [
+            "대변 변색",
+            "37.5",
+            "37.3",
+            "5.6"
+          ],
+          [
+            "설사",
+            "4.2",
+            "6.7",
+            "5.6"
+          ],
+          [
+            "복부 팽만",
+            "1.4",
+            "2.7",
+            "0.0"
+          ],
+          [
+            "변비",
+            "1.4",
+            "2.7",
+            "0.0"
+          ],
+          [
+            "대사 및 영양계",
+            "",
+            "",
+            ""
+          ],
+          [
+            "저인산혈증",
+            "2.8",
+            "0.0",
+            "0.0"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 406,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[17]",
+      "ko_txt": "[열] 이 약과 병용투여할 수 있는 경구용 의약품 | 이 약과 투여 간격을 두고 투여해야하는 경구용 의약품 | 권장 투여 방법\n[행0] 암로디핀 | 아스피린 | 아토르바스타틴 | 칼시트리올 | 클로피도그렐 | 디곡신 | 딜티아젬 | 도세칼시페롤 | 에날라프릴 | 플루바스타틴 | 글리메피리드 | 레보플록사신 | 로사르탄\n[행1] 메토프롤롤 | 프라바스타틴 | 프로파리놀롤 | 시타글립틴 | 와파린 |  |  |  |  |  |  |  | \n[행2] 독시사이클린 | 이 약 투여 최소 1 시간 전에 투여 |  |  |  |  |  |  |  |  |  |  | \n[행3] 시프로플록사신 | 이 약 투여 전 또는 후로 최소 2 시간 간격을 두고투여 |  |  |  |  |  |  |  |  |  |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 675,
+      "table": {
+        "title": null,
+        "columns": [
+          "이 약과 병용투여할 수 있는 경구용 의약품",
+          "이 약과 투여 간격을 두고 투여해야하는 경구용 의약품",
+          "권장 투여 방법"
+        ],
+        "rows": [
+          [
+            "암로디핀",
+            "아스피린",
+            "아토르바스타틴",
+            "칼시트리올",
+            "클로피도그렐",
+            "디곡신",
+            "딜티아젬",
+            "도세칼시페롤",
+            "에날라프릴",
+            "플루바스타틴",
+            "글리메피리드",
+            "레보플록사신",
+            "로사르탄"
+          ],
+          [
+            "메토프롤롤",
+            "프라바스타틴",
+            "프로파리놀롤",
+            "시타글립틴",
+            "와파린",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "독시사이클린",
+            "이 약 투여 최소 1 시간 전에 투여",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "시프로플록사신",
+            "이 약 투여 전 또는 후로 최소 2 시간 간격을 두고투여",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 407,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[18]",
+      "ko_txt": "[열] 평균 혈청 인 농도(mg/dL) | 이 약 1 일 6 g (N=66)* | 이 약 1 일 4 g (N=72)* | 위약 (N=28)\n[행0] 기저치 (휴약기 이후) | 6.95 | 6.96 | 7.37\n[행1] 치료 종료시점 (57 일) | 4.69 | 5.38 | 7.42\n[행2] 기저치로부터의 평균 변화량 | -2.27 | -1.60 | 0.08\n[행3] 위약군과 비교 LS mean p-값** | -2.51 <0.001 | -1.83 <0.001 | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 700,
+      "table": {
+        "title": null,
+        "columns": [
+          "평균 혈청 인 농도(mg/dL)",
+          "이 약 1 일 6 g (N=66)*",
+          "이 약 1 일 4 g (N=72)*",
+          "위약 (N=28)"
+        ],
+        "rows": [
+          [
+            "기저치 (휴약기 이후)",
+            "6.95",
+            "6.96",
+            "7.37"
+          ],
+          [
+            "치료 종료시점 (57 일)",
+            "4.69",
+            "5.38",
+            "7.42"
+          ],
+          [
+            "기저치로부터의 평균 변화량",
+            "-2.27",
+            "-1.60",
+            "0.08"
+          ],
+          [
+            "위약군과 비교 LS mean p-값**",
+            "-2.51 <0.001",
+            "-1.83 <0.001",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 408,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[19]",
+      "ko_txt": "[열] 접수일자 | 접수번호 | 2021-05-27 | 20210072906\n[행0] 신청구분 | 자료제출의약품, Ⅱ. 자료제출의약품 1. 새로운염(이성체 등)을 유효성분으로 함유한 의약품 2. 새로운 효능군 의약품 |  | \n[행1] 신 청 인 (회사명) | 한국쿄와기린(주) |  | \n[행2] 제 품 명 | 네폭실캡슐500mg(구연산제이철수화물) |  | \n[행3] 주성분명 (원료의약품등록 번호) | 구연산제이철수화물 |  | \n[행4] 제조/수입 품목 | □ 제조 ■ 수입 | 전문/일반 | ■ 전문 □ 일반\n[행5] 제형/함량 | 1캡슐, 구연산제이철수화물500mg(제이철로서 105mg) |  | \n[행6] 신청 사항 | 효능효과 | 혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 치료 | \n[행7] 신청 사항 | 용법용량 | 성인 (65세 이상 고령자 포함) 이 약은 1일 3회 식사와 함께 또는 식후 즉시 복용하여야 한다. 이 약의 초기 권장 용량은 1일 4 g이며, 규칙적으로 혈청 인산농 도를 모니터링하면서 적정 혈청 인산농도에 도달할 때까지 1주 간격으로 투여량을 조정한다. 이 약의 용량을 조절하는 경우에는 1 g 이내로 조절하며, 이 약의 최대 투여량은 1일 6 g이다. '22.5.9 | \n[행8] 최종 허가 사항 | 허가일자 |  | \n[행9] 최종 허가 사항 | 효능·효과 | 붙임 참조 | \n[행10] 최종 허가 사항 | 용법·용량 | 붙임 참조 | \n[행11] 최종 허가 사항 | 사용상의 주의사항 | 붙임 참조 | \n[행12] 최종 허가 사항 | 저장방법및 사용기간 | 붙임 참조 | \n[행13] 최종 허가 사항 | 허가조건 | 붙임 참조 | \n[행14] 국외 | 허가현황 | - | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 719,
+      "table": {
+        "title": null,
+        "columns": [
+          "접수일자",
+          "접수번호",
+          "2021-05-27",
+          "20210072906"
+        ],
+        "rows": [
+          [
+            "신청구분",
+            "자료제출의약품, Ⅱ. 자료제출의약품 1. 새로운염(이성체 등)을 유효성분으로 함유한 의약품 2. 새로운 효능군 의약품",
+            "",
+            ""
+          ],
+          [
+            "신 청 인 (회사명)",
+            "한국쿄와기린(주)",
+            "",
+            ""
+          ],
+          [
+            "제 품 명",
+            "네폭실캡슐500mg(구연산제이철수화물)",
+            "",
+            ""
+          ],
+          [
+            "주성분명 (원료의약품등록 번호)",
+            "구연산제이철수화물",
+            "",
+            ""
+          ],
+          [
+            "제조/수입 품목",
+            "□ 제조 ■ 수입",
+            "전문/일반",
+            "■ 전문 □ 일반"
+          ],
+          [
+            "제형/함량",
+            "1캡슐, 구연산제이철수화물500mg(제이철로서 105mg)",
+            "",
+            ""
+          ],
+          [
+            "신청 사항",
+            "효능효과",
+            "혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 치료",
+            ""
+          ],
+          [
+            "신청 사항",
+            "용법용량",
+            "성인 (65세 이상 고령자 포함) 이 약은 1일 3회 식사와 함께 또는 식후 즉시 복용하여야 한다. 이 약의 초기 권장 용량은 1일 4 g이며, 규칙적으로 혈청 인산농 도를 모니터링하면서 적정 혈청 인산농도에 도달할 때까지 1주 간격으로 투여량을 조정한다. 이 약의 용량을 조절하는 경우에는 1 g 이내로 조절하며, 이 약의 최대 투여량은 1일 6 g이다. '22.5.9",
+            ""
+          ],
+          [
+            "최종 허가 사항",
+            "허가일자",
+            "",
+            ""
+          ],
+          [
+            "최종 허가 사항",
+            "효능·효과",
+            "붙임 참조",
+            ""
+          ],
+          [
+            "최종 허가 사항",
+            "용법·용량",
+            "붙임 참조",
+            ""
+          ],
+          [
+            "최종 허가 사항",
+            "사용상의 주의사항",
+            "붙임 참조",
+            ""
+          ],
+          [
+            "최종 허가 사항",
+            "저장방법및 사용기간",
+            "붙임 참조",
+            ""
+          ],
+          [
+            "최종 허가 사항",
+            "허가조건",
+            "붙임 참조",
+            ""
+          ],
+          [
+            "국외",
+            "허가현황",
+            "-",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 409,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[20]",
+      "ko_txt": "[열] 허가부서 | 허가총괄담당관 | 허가담당자 | 김성란 주무관 | 문성은 사무관 | 이수정 과장\n[행0] 심사부서 | 순환신경계약품과 | 의약품안전평가과 | 첨단의약품품질심사과 | 심사담당자 | (안유) 김송이 주무관 | 승호선 연구관 | 김호정 과장 | 정희금 심사원 | 김명미 사무관 | 신경승 과장 | (기시) 이서윤 심사원 | 이경신 연구관 | 손경훈 과장\n[행1] GMP* 평가부서 | 의약품품질과 | GMP 담당자 | 이영재 심사원 | 박미자 사무관 | 강영아 과장 |  |  |  |  |  |  |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 763,
+      "table": {
+        "title": null,
+        "columns": [
+          "허가부서",
+          "허가총괄담당관",
+          "허가담당자",
+          "김성란 주무관",
+          "문성은 사무관",
+          "이수정 과장"
+        ],
+        "rows": [
+          [
+            "심사부서",
+            "순환신경계약품과",
+            "의약품안전평가과",
+            "첨단의약품품질심사과",
+            "심사담당자",
+            "(안유) 김송이 주무관",
+            "승호선 연구관",
+            "김호정 과장",
+            "정희금 심사원",
+            "김명미 사무관",
+            "신경승 과장",
+            "(기시) 이서윤 심사원",
+            "이경신 연구관",
+            "손경훈 과장"
+          ],
+          [
+            "GMP* 평가부서",
+            "의약품품질과",
+            "GMP 담당자",
+            "이영재 심사원",
+            "박미자 사무관",
+            "강영아 과장",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 410,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[21]",
+      "ko_txt": "[열] 구 분 | 품목허가 | 기준및시험방법 관련자료 | 안전성 · 유효성 관련 자료 | 제조및품질관리기 준 관련 자료 | 원료의약품등록 관련 자료\n[행0] 신청일자 | '21.05.27 | -\n[행1] 보완요청 일자 | '21.08.19.(1 차 ) '22.04.05(2 차 ) | \n[행2] 보완접수 일자 | '22.02.15.(1 차 ) '22.04.15.(2 차 ) | '22.02.25\n[행3] 최종처리 일자 | '22.05.09 | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 789,
+      "table": {
+        "title": null,
+        "columns": [
+          "구 분",
+          "품목허가",
+          "기준및시험방법 관련자료",
+          "안전성 · 유효성 관련 자료",
+          "제조및품질관리기 준 관련 자료",
+          "원료의약품등록 관련 자료"
+        ],
+        "rows": [
+          [
+            "신청일자",
+            "'21.05.27",
+            "-"
+          ],
+          [
+            "보완요청 일자",
+            "'21.08.19.(1 차 ) '22.04.05(2 차 )",
+            ""
+          ],
+          [
+            "보완접수 일자",
+            "'22.02.15.(1 차 ) '22.04.15.(2 차 )",
+            "'22.02.25"
+          ],
+          [
+            "최종처리 일자",
+            "'22.05.09",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 411,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[22]",
+      "ko_txt": "[열] Study No., Phase, Sites,Country | Study Design Treatment Duration | PrimaryEficacy Endpoint | StudyPopulation | Dosage Form,Treatment:Dose | No. Randomized\n[행0] CoreStudies(Adequate andwell-controlled Studies) | CoreStudies(Adequate andwell-controlled Studies) | CoreStudies(Adequate andwell-controlled Studies) | CoreStudies(Adequate andwell-controlled Studies) | CoreStudies(Adequate andwell-controlled Studies) | CoreStudies(Adequate andwell-controlled Studies)\n[행1] StudyPNC00301 (pivotalwith TFDA) Phase3 | Randomized,double-blind, placebo-controlled,fixed-dose 2weekwashout,56daysof treatment | Change in serum phosphorus from baseline to the endof treatment (Day 56), | Subjectswith CKDon hemodialysis | Oral capsules Fixed dose ferric citrate: 4g/day 6g/day Placebo | 75 72 36\n[행2] 5inTaiwan Study304(under SPAwith US FDA) Phase3 58inUS 2inIsrael | 3-period,multicenter,randomized open-label,active-controlled,then Placebo-controlled study 2-weekWashoutPeriod,S6weeks of treatment (52-week Safety AssessmentPeriod with subjects. onferriccitratere-randomized toa 4-weekEAPfollowing theSafety AssessmentPeriod) | Change in serum phosphorusfrom Week 52-baseline Week56 Pre-defined secondary endpoints,ina statistical hierarchy: 1) Change in ferritin vs activecontrol 2) Change in TSAT vs active control 3) CumulativeIViron usevs active control 4) CumulativeESAuse Vsactivecontrol | Subjectswith CKDon hemodialysis or peritoneal dialysis | Oraltablets SafetyAssessment Period: Ferric citrate: 6gstarting dosetitratedwithin the doserange of0 to12g to achieve target serum phosphorus of 3.5to 5.5mg/dL Active control EAP Ferric citrate: Startingwith last doseinSafety AssessmentPeriod,titratedwithin the dose rangeof0 to 12gto achieve target serum phosphorusof 3.5to5.5mg/dL Placebo | 292 149 96\n[행3] Study305(under SPA with US FDA) Phase3 15inUS | Multcntrranomizedpn labelfixed dose,dose-ranging 2-weekwashout,28days of treatment | Change in serum phosphorusfrombaseline to the end of treatment (Day28),assessed by dose-response(linear fegression)analysis: | Subjects with CKD on dialysis | Oraltablets Fixed dose ferriccitrate: 1g/day 6g/day 8g/day | 96 51 52 48\n[행4] StuidyPBB00101 Phase2 | Randomized,double-blind Placebo-controlled,fixed dose, dose-ranging | Change in serum phosphorus | Subjects with CKDon hemodialysis | Oralcapsules Fixed dose ferriccitrate: 2g/day | 33\n[행5] Long-term Studies | Long-term Studies | Long-term Studies | Long-term Studies | Long-term Studies | Long-term Studies\n[행6] StudyPBB00501 Phase4 9inTaiwan | Uncontrolled.open-label long- termadministrationstudy 52weeks | Change in serum phosphorus | Subjects with CKDon hemodialysis | Oral capsules Ferric citrate Subjectswere started ata dose of either3g/dayor4.5g/dayof ferric citrate,titrated with a maximum doseof12g/day to maintainserumphosphorus between3.5and5.5mg/dL. | 202\n[행7] Study307 Phase3 35inUS | Uncontrolled.open-labellong- term extension studyofStudy304 48weeks | Change in serum phosphorus | Subjects with CKDon hemodialysis or peritoneal dialysis | Oraltablets Ferric citrate All subjects were started ata dose of6g/day and titratedwithin the doserangeof0to12g/day to achieve target serum phosphorus between3.5and5.5mg/dL | 168\n[행8] Supportive dialysis studies | Supportive dialysis studies | Supportive dialysis studies | Supportive dialysis studies | Supportive dialysis studies | Supportive dialysis studies\n[행9] Study201 Phase2 7inUS | Multicenter.uncontrolled.open- label,exploratory 4weeks | Change in serum phosphorusfrom baseline toDay28 | Subjects with CKDon hemodialysis | Oral capsulesa Ferric citrate Part 1:4.5g/day titrated to 11.3 g/day Part 2:6.0g/day titrated to11.3 g/day | 21\n[행10] Study202 Phase2 3inIsrael | 6-week,multicenter,uncontrolled 2-weekWashoutPeriod.4weeks of treatment | Changem serum phosphorusfrom baseline toWeek4 | Subjects with CKDon hemodialysis | Oral caplets Ferric citrate: 6g/day titratedupto12g/day | 22",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 805,
+      "table": {
+        "title": null,
+        "columns": [
+          "Study No., Phase, Sites,Country",
+          "Study Design Treatment Duration",
+          "PrimaryEficacy Endpoint",
+          "StudyPopulation",
+          "Dosage Form,Treatment:Dose",
+          "No. Randomized"
+        ],
+        "rows": [
+          [
+            "CoreStudies(Adequate andwell-controlled Studies)",
+            "CoreStudies(Adequate andwell-controlled Studies)",
+            "CoreStudies(Adequate andwell-controlled Studies)",
+            "CoreStudies(Adequate andwell-controlled Studies)",
+            "CoreStudies(Adequate andwell-controlled Studies)",
+            "CoreStudies(Adequate andwell-controlled Studies)"
+          ],
+          [
+            "StudyPNC00301 (pivotalwith TFDA) Phase3",
+            "Randomized,double-blind, placebo-controlled,fixed-dose 2weekwashout,56daysof treatment",
+            "Change in serum phosphorus from baseline to the endof treatment (Day 56),",
+            "Subjectswith CKDon hemodialysis",
+            "Oral capsules Fixed dose ferric citrate: 4g/day 6g/day Placebo",
+            "75 72 36"
+          ],
+          [
+            "5inTaiwan Study304(under SPAwith US FDA) Phase3 58inUS 2inIsrael",
+            "3-period,multicenter,randomized open-label,active-controlled,then Placebo-controlled study 2-weekWashoutPeriod,S6weeks of treatment (52-week Safety AssessmentPeriod with subjects. onferriccitratere-randomized toa 4-weekEAPfollowing theSafety AssessmentPeriod)",
+            "Change in serum phosphorusfrom Week 52-baseline Week56 Pre-defined secondary endpoints,ina statistical hierarchy: 1) Change in ferritin vs activecontrol 2) Change in TSAT vs active control 3) CumulativeIViron usevs active control 4) CumulativeESAuse Vsactivecontrol",
+            "Subjectswith CKDon hemodialysis or peritoneal dialysis",
+            "Oraltablets SafetyAssessment Period: Ferric citrate: 6gstarting dosetitratedwithin the doserange of0 to12g to achieve target serum phosphorus of 3.5to 5.5mg/dL Active control EAP Ferric citrate: Startingwith last doseinSafety AssessmentPeriod,titratedwithin the dose rangeof0 to 12gto achieve target serum phosphorusof 3.5to5.5mg/dL Placebo",
+            "292 149 96"
+          ],
+          [
+            "Study305(under SPA with US FDA) Phase3 15inUS",
+            "Multcntrranomizedpn labelfixed dose,dose-ranging 2-weekwashout,28days of treatment",
+            "Change in serum phosphorusfrombaseline to the end of treatment (Day28),assessed by dose-response(linear fegression)analysis:",
+            "Subjects with CKD on dialysis",
+            "Oraltablets Fixed dose ferriccitrate: 1g/day 6g/day 8g/day",
+            "96 51 52 48"
+          ],
+          [
+            "StuidyPBB00101 Phase2",
+            "Randomized,double-blind Placebo-controlled,fixed dose, dose-ranging",
+            "Change in serum phosphorus",
+            "Subjects with CKDon hemodialysis",
+            "Oralcapsules Fixed dose ferriccitrate: 2g/day",
+            "33"
+          ],
+          [
+            "Long-term Studies",
+            "Long-term Studies",
+            "Long-term Studies",
+            "Long-term Studies",
+            "Long-term Studies",
+            "Long-term Studies"
+          ],
+          [
+            "StudyPBB00501 Phase4 9inTaiwan",
+            "Uncontrolled.open-label long- termadministrationstudy 52weeks",
+            "Change in serum phosphorus",
+            "Subjects with CKDon hemodialysis",
+            "Oral capsules Ferric citrate Subjectswere started ata dose of either3g/dayor4.5g/dayof ferric citrate,titrated with a maximum doseof12g/day to maintainserumphosphorus between3.5and5.5mg/dL.",
+            "202"
+          ],
+          [
+            "Study307 Phase3 35inUS",
+            "Uncontrolled.open-labellong- term extension studyofStudy304 48weeks",
+            "Change in serum phosphorus",
+            "Subjects with CKDon hemodialysis or peritoneal dialysis",
+            "Oraltablets Ferric citrate All subjects were started ata dose of6g/day and titratedwithin the doserangeof0to12g/day to achieve target serum phosphorus between3.5and5.5mg/dL",
+            "168"
+          ],
+          [
+            "Supportive dialysis studies",
+            "Supportive dialysis studies",
+            "Supportive dialysis studies",
+            "Supportive dialysis studies",
+            "Supportive dialysis studies",
+            "Supportive dialysis studies"
+          ],
+          [
+            "Study201 Phase2 7inUS",
+            "Multicenter.uncontrolled.open- label,exploratory 4weeks",
+            "Change in serum phosphorusfrom baseline toDay28",
+            "Subjects with CKDon hemodialysis",
+            "Oral capsulesa Ferric citrate Part 1:4.5g/day titrated to 11.3 g/day Part 2:6.0g/day titrated to11.3 g/day",
+            "21"
+          ],
+          [
+            "Study202 Phase2 3inIsrael",
+            "6-week,multicenter,uncontrolled 2-weekWashoutPeriod.4weeks of treatment",
+            "Changem serum phosphorusfrom baseline toWeek4",
+            "Subjects with CKDon hemodialysis",
+            "Oral caplets Ferric citrate: 6g/day titratedupto12g/day",
+            "22"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 412,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[23]",
+      "ko_txt": "[열] Study No., Phase, Sites,Country | Study Design Treatment Duration | PrimaryEfficacy Endpoint | StudyPopulation | DosageForm,Treatment:Dose | No. Randomized\n[행0] StudyGBA2-1 Phase2 35inJapan | Randomized,double-blind, Placebo-controlled,fixed-dose, dose-ranging Up to24 days washout.4weeks of treatment | Change in serum phosphorusfrom baseline toWeek4 | Subjects with CKDon hemodialysis | Oral tablets Ferric citrate: 1.5g/day 3g/day 6g/day Placebo | 49 50 45 48\n[행1] StudyGBA2-2 Phase2 1in Japan | Open-label,fixed-dose Up to~1weekwashout, 14 daysof treatment | Change in senum phosphorus frombaseline toWeek1 andWeek2 | Subjects with CKDon hemodialysis | Oraltablet Ferric citrate: 7.5g/day | 10\n[행2] StudyGBA4-1 Phase3 49 in Japan | Multicenter,randomized,open- label,active controlled,parallel- group Up to~2weekswashout,12weeks oftreatment | Change in serum phosphorus from baseline toWeek12 | Subjects with CKDon hemodialysis | Oraltablets Ferric citrate: 1.5 g/day titratedup to6g/day Sevelamer HCl: 3or6g/daytitratedto9g/day | 116 114\n[행3] Study GBA4-3 Phase3 17 in Japan | Multicenter,uncontrolled,open- label Up to~4weekswashout, 12weeks(84 days)+extension period(40 weeks)of treatment | Change in serim phosphorusfrom baseline toWeek12(andWeek 52in the extension study) | Subjects with CKDon peritoneal dialysis | Oraltablets Ferric citrate: 1.5g/day titratedup to6g/day | 56\n[행4] Study GBA4-5 Phase3 41inJapan | Multicenter,uncontrolled,open- label,long-term administration 28weeks | Change in serum phosphorus from baseline toWeek28 | Subjects with CKDon hemodialysis | Oral tablets Ferric citrate: 1.5g/day titratedupto6g/day | 235\n[행5] Study GBA4-6 Phase3 29inJapan | Multicenter,uncontrolledopen- label.long-term administration study,52weeks | Change in serum phosphorusfrom baseline toWeek52 | Subjects with CKDon hemodialysis | Oral tablets Ferric citrate: 1.5g/day titratedup to6g/day | 180\n[행6] Supportivenon-dialysis studies | Supportivenon-dialysis studies | Supportivenon-dialysis studies | Supportivenon-dialysis studies | Supportivenon-dialysis studies | Supportivenon-dialysis studies\n[행7] Study GBA4-4 Phase3 36inJapan | Randomized,double-blind, Placebo-controlled,comparative Up to~4weeks washout, 12weeks(84days)of treatment | Change in serum phosphorusfrom baseline toWeek12 | Subject with CKD not on dialysis | Oraltablets Ferric citrate: 1.5 g/day titratedup to6 g/day Placebo | 60 30\n[행8] Study GBA4-7 Phase3 35inJapan | Multicenter,uncontrolled.open- labelextension study of Study GBA4-4 40weeks(52weekstotalincluding prior study) | Change in serum phosphorusfrombaseline toWeek52 | Subject with CKD not on dialysis | Oraltablets Ferric citrate-first: 1.5g/day titratedup to6g/day Placebo-first: 1.5g/day titratedup to6g/day | 11 18",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 877,
+      "table": {
+        "title": null,
+        "columns": [
+          "Study No., Phase, Sites,Country",
+          "Study Design Treatment Duration",
+          "PrimaryEfficacy Endpoint",
+          "StudyPopulation",
+          "DosageForm,Treatment:Dose",
+          "No. Randomized"
+        ],
+        "rows": [
+          [
+            "StudyGBA2-1 Phase2 35inJapan",
+            "Randomized,double-blind, Placebo-controlled,fixed-dose, dose-ranging Up to24 days washout.4weeks of treatment",
+            "Change in serum phosphorusfrom baseline toWeek4",
+            "Subjects with CKDon hemodialysis",
+            "Oral tablets Ferric citrate: 1.5g/day 3g/day 6g/day Placebo",
+            "49 50 45 48"
+          ],
+          [
+            "StudyGBA2-2 Phase2 1in Japan",
+            "Open-label,fixed-dose Up to~1weekwashout, 14 daysof treatment",
+            "Change in senum phosphorus frombaseline toWeek1 andWeek2",
+            "Subjects with CKDon hemodialysis",
+            "Oraltablet Ferric citrate: 7.5g/day",
+            "10"
+          ],
+          [
+            "StudyGBA4-1 Phase3 49 in Japan",
+            "Multicenter,randomized,open- label,active controlled,parallel- group Up to~2weekswashout,12weeks oftreatment",
+            "Change in serum phosphorus from baseline toWeek12",
+            "Subjects with CKDon hemodialysis",
+            "Oraltablets Ferric citrate: 1.5 g/day titratedup to6g/day Sevelamer HCl: 3or6g/daytitratedto9g/day",
+            "116 114"
+          ],
+          [
+            "Study GBA4-3 Phase3 17 in Japan",
+            "Multicenter,uncontrolled,open- label Up to~4weekswashout, 12weeks(84 days)+extension period(40 weeks)of treatment",
+            "Change in serim phosphorusfrom baseline toWeek12(andWeek 52in the extension study)",
+            "Subjects with CKDon peritoneal dialysis",
+            "Oraltablets Ferric citrate: 1.5g/day titratedup to6g/day",
+            "56"
+          ],
+          [
+            "Study GBA4-5 Phase3 41inJapan",
+            "Multicenter,uncontrolled,open- label,long-term administration 28weeks",
+            "Change in serum phosphorus from baseline toWeek28",
+            "Subjects with CKDon hemodialysis",
+            "Oral tablets Ferric citrate: 1.5g/day titratedupto6g/day",
+            "235"
+          ],
+          [
+            "Study GBA4-6 Phase3 29inJapan",
+            "Multicenter,uncontrolledopen- label.long-term administration study,52weeks",
+            "Change in serum phosphorusfrom baseline toWeek52",
+            "Subjects with CKDon hemodialysis",
+            "Oral tablets Ferric citrate: 1.5g/day titratedup to6g/day",
+            "180"
+          ],
+          [
+            "Supportivenon-dialysis studies",
+            "Supportivenon-dialysis studies",
+            "Supportivenon-dialysis studies",
+            "Supportivenon-dialysis studies",
+            "Supportivenon-dialysis studies",
+            "Supportivenon-dialysis studies"
+          ],
+          [
+            "Study GBA4-4 Phase3 36inJapan",
+            "Randomized,double-blind, Placebo-controlled,comparative Up to~4weeks washout, 12weeks(84days)of treatment",
+            "Change in serum phosphorusfrom baseline toWeek12",
+            "Subject with CKD not on dialysis",
+            "Oraltablets Ferric citrate: 1.5 g/day titratedup to6 g/day Placebo",
+            "60 30"
+          ],
+          [
+            "Study GBA4-7 Phase3 35inJapan",
+            "Multicenter,uncontrolled.open- labelextension study of Study GBA4-4 40weeks(52weekstotalincluding prior study)",
+            "Change in serum phosphorusfrombaseline toWeek52",
+            "Subject with CKD not on dialysis",
+            "Oraltablets Ferric citrate-first: 1.5g/day titratedup to6g/day Placebo-first: 1.5g/day titratedup to6g/day",
+            "11 18"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 413,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[24]",
+      "ko_txt": "[열] DesignFeature | Study PNC00301 | Study304 | Study305 | StudyPBB00101\n[행0] Phaseno. Study sites.countries Study design | 3(pivotal with TFDA) 5inTaiwan Randomized.double-blind, placebo-controlled.fixed- dose | 3(underSPAofUSFDA) 56in US.2 in Israel 3-period,multicenter.open-label. randomized,active-controlledthenplacebo- | 3(underSPAofUSFDA) 15inUS Fixed-dose.4-week.dose- ranging.multicenter, randomized.open-label | 2 5 im US. 1 in Taiwan Randomized.double-blind. placebo-controlled,fixed- dose.dose-ranging\n[행1] Placebo | controlled Active:sevelamercarbonate,calcium acetate.orboth(Study-baseline toWeek52) | None |  | \n[행2] Studypopulation | Subjectswith CKDon | SubjectswithCKDondialysis | Subjectswith CKDon hemodialysis | \n[행3] Study duration | hemodialysis 2-weekwashout.56days oftreatment | 2-weekWashoutPeriod.upto56weeksof treatment(52-weekSPwithferriccitrate subjectsre-randomized toa4-weekEAP following the SP) | 2-week washout.28 days of treatment | \n[행4] Timeondialysis Previous phosphatebinder | ≥3months Stable doseofa phosphate-binding agent for atleast1month | ≥3months Calcium acetate,calcium carbonate. lanthanum carbonate.sevelamer.or any other agentserving as aphosphatebinder,or any combinationof theseagents |  | \n[행5] Serum phosphorus level atScreening (mg/dL) | NCT | ≥2.5 and≤8.0 | ≥3.5 and≤8.0 | \n[행6] Serum phosphorus level afterwashout (mg/dL) | ≥5.5and≤10 | ≥6.0 |  | \n[행7] TSATat Screening(%) | NCT | <50 |  | \n[행8] Ferritin | <1000 | ≤800 |  | \n[행9] Concomitant therapy | ≤800 VitaminD or calcitriol were allowed.however. theuseand dosewere to remain constant throughoutthetreatment period. Nomedicationscontaining Al.Ca.PO4 or Mg that interferewithPO4orCa absoiptionwereallowed. No IViron therapy or iron containingmedications were allowed. | VitaminD(and analog) and Sensiparwere at the discretionof theInvestigator.Calcium supplements atbedtime or2hours ormore priorto a subjectsmeal/snack.IViron therapy was allowed:the dosingwas at the discretionoftheInvestigator.IViron therapy was to be discontinued in patients withserumferritin>1000μg/LorTSAT >30%. |  | \n[행10] Dosageforin Treatment:dose | Oral capsules Ferriccitratefixed dose 4g/day 6g/day Placebo | Oraltablets SP: Ferric citrate: 6g titratedwithin the doserange of0 to12 g to achieve target serumphosphorusof 3.5 to5.5mg/dL Activecontrola |  | \n[행11] No.randomized/ evaluatedforefficacy | 4g/day75/72 6g/day:72/66 Placebo:36/28 | SP Ferriccitrate:292/281 Active control: 149/1446 |  | \n[행12] Primaryefficacy endpoints | Serum phosphorus change from baseline toDay56 | Serum phosphoruschangefromWeek-52- baselinetoWeek56 |  | \n[행13] Secondary efficacy endpointsb | CaxPO4changefrom baseline toDay 56 Cumulative drop-outrate duetoserumP>9mg/dLat Day56c Changeiniron parameters （including ferritin&TSAT) frombaselinetoDay56 | Changeinferritinfrombaseline toWeek52 Change inTSATfrom baseline toWeek52 |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 937,
+      "table": {
+        "title": null,
+        "columns": [
+          "DesignFeature",
+          "Study PNC00301",
+          "Study304",
+          "Study305",
+          "StudyPBB00101"
+        ],
+        "rows": [
+          [
+            "Phaseno. Study sites.countries Study design",
+            "3(pivotal with TFDA) 5inTaiwan Randomized.double-blind, placebo-controlled.fixed- dose",
+            "3(underSPAofUSFDA) 56in US.2 in Israel 3-period,multicenter.open-label. randomized,active-controlledthenplacebo-",
+            "3(underSPAofUSFDA) 15inUS Fixed-dose.4-week.dose- ranging.multicenter, randomized.open-label",
+            "2 5 im US. 1 in Taiwan Randomized.double-blind. placebo-controlled,fixed- dose.dose-ranging"
+          ],
+          [
+            "Placebo",
+            "controlled Active:sevelamercarbonate,calcium acetate.orboth(Study-baseline toWeek52)",
+            "None",
+            "",
+            ""
+          ],
+          [
+            "Studypopulation",
+            "Subjectswith CKDon",
+            "SubjectswithCKDondialysis",
+            "Subjectswith CKDon hemodialysis",
+            ""
+          ],
+          [
+            "Study duration",
+            "hemodialysis 2-weekwashout.56days oftreatment",
+            "2-weekWashoutPeriod.upto56weeksof treatment(52-weekSPwithferriccitrate subjectsre-randomized toa4-weekEAP following the SP)",
+            "2-week washout.28 days of treatment",
+            ""
+          ],
+          [
+            "Timeondialysis Previous phosphatebinder",
+            "≥3months Stable doseofa phosphate-binding agent for atleast1month",
+            "≥3months Calcium acetate,calcium carbonate. lanthanum carbonate.sevelamer.or any other agentserving as aphosphatebinder,or any combinationof theseagents",
+            "",
+            ""
+          ],
+          [
+            "Serum phosphorus level atScreening (mg/dL)",
+            "NCT",
+            "≥2.5 and≤8.0",
+            "≥3.5 and≤8.0",
+            ""
+          ],
+          [
+            "Serum phosphorus level afterwashout (mg/dL)",
+            "≥5.5and≤10",
+            "≥6.0",
+            "",
+            ""
+          ],
+          [
+            "TSATat Screening(%)",
+            "NCT",
+            "<50",
+            "",
+            ""
+          ],
+          [
+            "Ferritin",
+            "<1000",
+            "≤800",
+            "",
+            ""
+          ],
+          [
+            "Concomitant therapy",
+            "≤800 VitaminD or calcitriol were allowed.however. theuseand dosewere to remain constant throughoutthetreatment period. Nomedicationscontaining Al.Ca.PO4 or Mg that interferewithPO4orCa absoiptionwereallowed. No IViron therapy or iron containingmedications were allowed.",
+            "VitaminD(and analog) and Sensiparwere at the discretionof theInvestigator.Calcium supplements atbedtime or2hours ormore priorto a subjectsmeal/snack.IViron therapy was allowed:the dosingwas at the discretionoftheInvestigator.IViron therapy was to be discontinued in patients withserumferritin>1000μg/LorTSAT >30%.",
+            "",
+            ""
+          ],
+          [
+            "Dosageforin Treatment:dose",
+            "Oral capsules Ferriccitratefixed dose 4g/day 6g/day Placebo",
+            "Oraltablets SP: Ferric citrate: 6g titratedwithin the doserange of0 to12 g to achieve target serumphosphorusof 3.5 to5.5mg/dL Activecontrola",
+            "",
+            ""
+          ],
+          [
+            "No.randomized/ evaluatedforefficacy",
+            "4g/day75/72 6g/day:72/66 Placebo:36/28",
+            "SP Ferriccitrate:292/281 Active control: 149/1446",
+            "",
+            ""
+          ],
+          [
+            "Primaryefficacy endpoints",
+            "Serum phosphorus change from baseline toDay56",
+            "Serum phosphoruschangefromWeek-52- baselinetoWeek56",
+            "",
+            ""
+          ],
+          [
+            "Secondary efficacy endpointsb",
+            "CaxPO4changefrom baseline toDay 56 Cumulative drop-outrate duetoserumP>9mg/dLat Day56c Changeiniron parameters （including ferritin&TSAT) frombaselinetoDay56",
+            "Changeinferritinfrombaseline toWeek52 Change inTSATfrom baseline toWeek52",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 414,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[25]",
+      "ko_txt": "[열] PNC00301 | Study304 | Study305 | PBB00101\n[행0] Ferric Citrate 4g/day | Ferric Citrate 6g/day | Placebo | \n[행1] N | 72 | 66 | 28\n[행2] Mean(SD)at baselinea | (1.08) 6.96 | (1.15) 6.95 | (1.26) 7.37\n[행3] N | 66 | 54 | 12\n[행4] Mean(SD)at endof treatmentb | 5.379 (1.453) | 4.687 (1.247) | 7.417 (1.888)\n[행5] Mean (SD) change from baseline (95%CI) | -1.595 (1.385) (NC) | -2.270 (1.289) (NC) | 0.075 (1.510) (NC)\n[행6] Mean (SE)c.d.e treatment difference (95%CI) p-value | <0.001 (-2.7.- -1.83 1.0) | <0.001 (-3.4.- -2.51 1.6) | \n[행7] Comparison with6g/daye | NC |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 989,
+      "table": {
+        "title": null,
+        "columns": [
+          "PNC00301",
+          "Study304",
+          "Study305",
+          "PBB00101"
+        ],
+        "rows": [
+          [
+            "Ferric Citrate 4g/day",
+            "Ferric Citrate 6g/day",
+            "Placebo",
+            ""
+          ],
+          [
+            "N",
+            "72",
+            "66",
+            "28"
+          ],
+          [
+            "Mean(SD)at baselinea",
+            "(1.08) 6.96",
+            "(1.15) 6.95",
+            "(1.26) 7.37"
+          ],
+          [
+            "N",
+            "66",
+            "54",
+            "12"
+          ],
+          [
+            "Mean(SD)at endof treatmentb",
+            "5.379 (1.453)",
+            "4.687 (1.247)",
+            "7.417 (1.888)"
+          ],
+          [
+            "Mean (SD) change from baseline (95%CI)",
+            "-1.595 (1.385) (NC)",
+            "-2.270 (1.289) (NC)",
+            "0.075 (1.510) (NC)"
+          ],
+          [
+            "Mean (SE)c.d.e treatment difference (95%CI) p-value",
+            "<0.001 (-2.7.- -1.83 1.0)",
+            "<0.001 (-3.4.- -2.51 1.6)",
+            ""
+          ],
+          [
+            "Comparison with6g/daye",
+            "NC",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 415,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[26]",
+      "ko_txt": "[열] 안전성 검토항목 | 의약품 감시계획 | 위해성 완화 조치방법 *\n[행0] 1. 중요한 규명된 위해성 |  | \n[행1] - 위장관 출혈 및 염증 | 일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사) | 첨부문서\n[행2] - 저인산혈증 | 일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사) 관찰연구 | 첨부문서\n[행3] - 병용 투여된 시프로플록사신/ 독시사이 클린의 치료 효과 감소 | 일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사) | 첨부문서\n[행4] 2. 중요한 잠재적 위해성 |  | \n[행5] - 철 침착/간독성 | 일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사) 관찰연구 | 첨부문서\n[행6] - 알루미늄 함유 의약품과 구연산의 상호 작용으로 인한 고알루미늄혈증 - 소아에서 과량투여로 인한 손상 가능성 | 일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사) | 첨부문서\n[행7] 3. 중요한 부족정보 |  | \n[행8] - 임부 및 수유부에서의 안전성 - 소아(18세 이하의 소아 및 청소년)에서 의 안전성 - 생식에 대한 영향 - 75세 고령 환자에서의 안전성 | 일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사) | 첨부문서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1021,
+      "table": {
+        "title": null,
+        "columns": [
+          "안전성 검토항목",
+          "의약품 감시계획",
+          "위해성 완화 조치방법 *"
+        ],
+        "rows": [
+          [
+            "1. 중요한 규명된 위해성",
+            "",
+            ""
+          ],
+          [
+            "- 위장관 출혈 및 염증",
+            "일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사)",
+            "첨부문서"
+          ],
+          [
+            "- 저인산혈증",
+            "일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사) 관찰연구",
+            "첨부문서"
+          ],
+          [
+            "- 병용 투여된 시프로플록사신/ 독시사이 클린의 치료 효과 감소",
+            "일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사)",
+            "첨부문서"
+          ],
+          [
+            "2. 중요한 잠재적 위해성",
+            "",
+            ""
+          ],
+          [
+            "- 철 침착/간독성",
+            "일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사) 관찰연구",
+            "첨부문서"
+          ],
+          [
+            "- 알루미늄 함유 의약품과 구연산의 상호 작용으로 인한 고알루미늄혈증 - 소아에서 과량투여로 인한 손상 가능성",
+            "일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사)",
+            "첨부문서"
+          ],
+          [
+            "3. 중요한 부족정보",
+            "",
+            ""
+          ],
+          [
+            "- 임부 및 수유부에서의 안전성 - 소아(18세 이하의 소아 및 청소년)에서 의 안전성 - 생식에 대한 영향 - 75세 고령 환자에서의 안전성",
+            "일반적인 감시활동 추가 약물 감시활동: 시판후조사(사용성적조사)",
+            "첨부문서"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 416,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[27]",
+      "ko_txt": "[제목] 이상반응 발생률\n[열] 투여군 | 이상반응 발생률\n[행0] 1일 4g | 94.7%(71/75명)\n[행1] 1일 6g | 86.1%(62/72명)\n[행2] 위약 | 66.7%(24/36명)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1045,
+      "table": {
+        "title": "이상반응 발생률",
+        "columns": [
+          "투여군",
+          "이상반응 발생률"
+        ],
+        "rows": [
+          [
+            "1일 4g",
+            "94.7%(71/75명)"
+          ],
+          [
+            "1일 6g",
+            "86.1%(62/72명)"
+          ],
+          [
+            "위약",
+            "66.7%(24/36명)"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 417,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[28]",
+      "ko_txt": "[제목] 약물이상반응 발생률\n[열] 투여군 | 약물이상반응 발생률\n[행0] 1일 4g | 49.3%(37/75명)\n[행1] 1일 6g | 50.0%(36/72명)\n[행2] 위약 | 19.4%(7/36명)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1054,
+      "table": {
+        "title": "약물이상반응 발생률",
+        "columns": [
+          "투여군",
+          "약물이상반응 발생률"
+        ],
+        "rows": [
+          [
+            "1일 4g",
+            "49.3%(37/75명)"
+          ],
+          [
+            "1일 6g",
+            "50.0%(36/72명)"
+          ],
+          [
+            "위약",
+            "19.4%(7/36명)"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 418,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[29]",
+      "ko_txt": "[제목] 흔하고 이 약과 관련이 있는 이상반응\n[열] 이상반응 | 발생률\n[행0] 대변 변색 | 41.1%\n[행1] 설사 | 10.4%\n[행2] 변비 | 7.9%\n[행3] 복부팽만 | 4.0%\n[행4] 복통 | 4.0%\n[행5] 고페리틴혈증 | 4.0%\n[행6] 소양증 | 3.0%\n[행7] 묽은 변 | 2.5%\n[행8] 상복부 통증 | 1.5%",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1063,
+      "table": {
+        "title": "흔하고 이 약과 관련이 있는 이상반응",
+        "columns": [
+          "이상반응",
+          "발생률"
+        ],
+        "rows": [
+          [
+            "대변 변색",
+            "41.1%"
+          ],
+          [
+            "설사",
+            "10.4%"
+          ],
+          [
+            "변비",
+            "7.9%"
+          ],
+          [
+            "복부팽만",
+            "4.0%"
+          ],
+          [
+            "복통",
+            "4.0%"
+          ],
+          [
+            "고페리틴혈증",
+            "4.0%"
+          ],
+          [
+            "소양증",
+            "3.0%"
+          ],
+          [
+            "묽은 변",
+            "2.5%"
+          ],
+          [
+            "상복부 통증",
+            "1.5%"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 419,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[30]",
+      "ko_txt": "[제목] 치료 군간 혈청 인 농도 변화\n[열] 투여군 | 기저치 | 치료 종료 시점\n[행0] 1일 6g | 351.29ng/ml | 427.57ng/ml\n[행1] 1일 4g | 354.62ng/ml | 436.04ng/ml\n[행2] 위약군 | 393.54ng/ml | 402.43ng/ml",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1084,
+      "table": {
+        "title": "치료 군간 혈청 인 농도 변화",
+        "columns": [
+          "투여군",
+          "기저치",
+          "치료 종료 시점"
+        ],
+        "rows": [
+          [
+            "1일 6g",
+            "351.29ng/ml",
+            "427.57ng/ml"
+          ],
+          [
+            "1일 4g",
+            "354.62ng/ml",
+            "436.04ng/ml"
+          ],
+          [
+            "위약군",
+            "393.54ng/ml",
+            "402.43ng/ml"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 420,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[31]",
+      "ko_txt": "[열] 투여군 | 기저치 | 치료 종료 시점\n[행0] 1일 6g | 26.75% | 31.90%\n[행1] 1일 4g | 27.22% | 31.74%\n[행2] 위약군 | 30.22% | 25.62%",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1097,
+      "table": {
+        "title": null,
+        "columns": [
+          "투여군",
+          "기저치",
+          "치료 종료 시점"
+        ],
+        "rows": [
+          [
+            "1일 6g",
+            "26.75%",
+            "31.90%"
+          ],
+          [
+            "1일 4g",
+            "27.22%",
+            "31.74%"
+          ],
+          [
+            "위약군",
+            "30.22%",
+            "25.62%"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 421,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[32]",
+      "ko_txt": "[열] 시험 항목\n[행0] 비중\n[행1] 기타 ( 점도 )\n[행2] 건조감량 / 수분\n[행3] 기타시험\n[행4] 함량시험\n[행5] 표준품 / 시약 ․ 시액 로 기재한다 .\n[행6] 제제시험\n[행7] 붕해 / 용출시험\n[행8] 질량 ( 용량 ) 편차 / 제제균일성시험\n[행9] 입도시험 / 입자도시험\n[행10] 금속성이물시험\n[행11] 단위분무량시험 / 단위분무당함량시험\n[행12] 무균시험\n[행13] 미생물한도시험불용성미립자시험\n[행14] 불용성이물시험\n[행15] 알코올수시험\n[행16] 엔도톡신 / 발열성물질시험\n[행17] 점착력시험\n[행18] 형상시험\n[행19] 로 기재한다 .",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1109,
+      "table": {
+        "title": null,
+        "columns": [
+          "시험 항목"
+        ],
+        "rows": [
+          [
+            "비중"
+          ],
+          [
+            "기타 ( 점도 )"
+          ],
+          [
+            "건조감량 / 수분"
+          ],
+          [
+            "기타시험"
+          ],
+          [
+            "함량시험"
+          ],
+          [
+            "표준품 / 시약 ․ 시액 로 기재한다 ."
+          ],
+          [
+            "제제시험"
+          ],
+          [
+            "붕해 / 용출시험"
+          ],
+          [
+            "질량 ( 용량 ) 편차 / 제제균일성시험"
+          ],
+          [
+            "입도시험 / 입자도시험"
+          ],
+          [
+            "금속성이물시험"
+          ],
+          [
+            "단위분무량시험 / 단위분무당함량시험"
+          ],
+          [
+            "무균시험"
+          ],
+          [
+            "미생물한도시험불용성미립자시험"
+          ],
+          [
+            "불용성이물시험"
+          ],
+          [
+            "알코올수시험"
+          ],
+          [
+            "엔도톡신 / 발열성물질시험"
+          ],
+          [
+            "점착력시험"
+          ],
+          [
+            "형상시험"
+          ],
+          [
+            "로 기재한다 ."
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 422,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[33]",
+      "ko_txt": "[제목] 제형 및 함량\n[열] 제형/함량\n[행0] 1캡슐, 구연산제이철수화물500mg(제이철로서105mg)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1130,
+      "table": {
+        "title": "제형 및 함량",
+        "columns": [
+          "제형/함량"
+        ],
+        "rows": [
+          [
+            "1캡슐, 구연산제이철수화물500mg(제이철로서105mg)"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 423,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[34]",
+      "ko_txt": "[제목] 효능 효과\n[열] 효능효과\n[행0] 혈액투석을받고있는만성신장질환환자의고인산혈증치료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1133,
+      "table": {
+        "title": "효능 효과",
+        "columns": [
+          "효능효과"
+        ],
+        "rows": [
+          [
+            "혈액투석을받고있는만성신장질환환자의고인산혈증치료"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 424,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[35]",
+      "ko_txt": "[제목] 복용 방법\n[열] 복용 방법\n[행0] 이약은1일3회식사와함께또는식후즉시복용하여야한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1136,
+      "table": {
+        "title": "복용 방법",
+        "columns": [
+          "복용 방법"
+        ],
+        "rows": [
+          [
+            "이약은1일3회식사와함께또는식후즉시복용하여야한다."
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 425,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[36]",
+      "ko_txt": "[제목] 위해성 관리 계획 요약제출자료구분\n[열] 신청일자 | 보완요청 | 보완접수 | 최종처리 | 일자\n[행0] ’21.05.27 | ’22.04.05(2차) | ’22.04.15.(2차) | ‘22.05.09\n[행1] ’21.08.19.(1차) | ’22.02.15.(1차) |  | \n[행2] ’20.07.30. |  |  | \n[행3] ’22.02.25 |  |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1139,
+      "table": {
+        "title": "위해성 관리 계획 요약제출자료구분",
+        "columns": [
+          "신청일자",
+          "보완요청",
+          "보완접수",
+          "최종처리",
+          "일자"
+        ],
+        "rows": [
+          [
+            "’21.05.27",
+            "’22.04.05(2차)",
+            "’22.04.15.(2차)",
+            "‘22.05.09"
+          ],
+          [
+            "’21.08.19.(1차)",
+            "’22.02.15.(1차)",
+            "",
+            ""
+          ],
+          [
+            "’20.07.30.",
+            "",
+            "",
+            ""
+          ],
+          [
+            "’22.02.25",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 426,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[37]",
+      "ko_txt": "[제목] 이상반응 (%)\n[열] 이 약(1 일 6 g) | 위약 (N=36) | 위장관계 | 대변 변색 | 변비 | 복부 팽만 | 설사 | 복통 | 상복부통증 | 감염 | 상부 호흡기 감염 | 이 약(1 일 4 g) | (N=72) | (N=75) | 비인두염 | 근골격계 | 근육 연축 | 호흡기계 | 기침 | 순환기계 | 시술 관련 저혈압 | 단락 기능부전 | 피부 및 피하조직 | 소양증 | 신경계 | 어지러움 | 두통 | 저혈압 | 일반 및 투여 부위 상태 | 발열\n[행0] 37.5 | 37.3 | 5.6 | 6.9 | 6.7 | 0.0 | 5.6 | 6.7 | 0.0 | 4.2 | 8.0 | 5.6 | 4.2 | 5.3 | 2.8 | 1.4 | 4.0 | 8.3 | 19.4 | 26.7 | 5.6 | 1.4 | 1.3 | 5.6 | 12.5 | 18.7 | 16.7 | 13.9 | 14.7 | 11.1 | 12.5 | 8.0 | 11.1 | 1.4 | 1.3 | 5.6 | 8.3 | 8.0 | 5.6 | 5.6 | 4.0 | 0.0 | 1.4 | 5.3 | 11.1 | 5.6 | 2.7 | 5.6 | 5.6 | 2.7 | 2.8",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1153,
+      "table": {
+        "title": "이상반응 (%)",
+        "columns": [
+          "이 약(1 일 6 g)",
+          "위약 (N=36)",
+          "위장관계",
+          "대변 변색",
+          "변비",
+          "복부 팽만",
+          "설사",
+          "복통",
+          "상복부통증",
+          "감염",
+          "상부 호흡기 감염",
+          "이 약(1 일 4 g)",
+          "(N=72)",
+          "(N=75)",
+          "비인두염",
+          "근골격계",
+          "근육 연축",
+          "호흡기계",
+          "기침",
+          "순환기계",
+          "시술 관련 저혈압",
+          "단락 기능부전",
+          "피부 및 피하조직",
+          "소양증",
+          "신경계",
+          "어지러움",
+          "두통",
+          "저혈압",
+          "일반 및 투여 부위 상태",
+          "발열"
+        ],
+        "rows": [
+          [
+            "37.5",
+            "37.3",
+            "5.6",
+            "6.9",
+            "6.7",
+            "0.0",
+            "5.6",
+            "6.7",
+            "0.0",
+            "4.2",
+            "8.0",
+            "5.6",
+            "4.2",
+            "5.3",
+            "2.8",
+            "1.4",
+            "4.0",
+            "8.3",
+            "19.4",
+            "26.7",
+            "5.6",
+            "1.4",
+            "1.3",
+            "5.6",
+            "12.5",
+            "18.7",
+            "16.7",
+            "13.9",
+            "14.7",
+            "11.1",
+            "12.5",
+            "8.0",
+            "11.1",
+            "1.4",
+            "1.3",
+            "5.6",
+            "8.3",
+            "8.0",
+            "5.6",
+            "5.6",
+            "4.0",
+            "0.0",
+            "1.4",
+            "5.3",
+            "11.1",
+            "5.6",
+            "2.7",
+            "5.6",
+            "5.6",
+            "2.7",
+            "2.8"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 427,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[38]",
+      "ko_txt": "[제목] 유효성․안전성시험 개요\n[열] 시험번호 | 1일 투여량 | n수 | 평가시점 | 투여 전 | 투여 후 | 변화량 | 목표달성률%\n[행0] PNC00301 | 위약 4g | 28 | 8주 | 7.371 | 7.393 | 0.021 | -\n[행1] GBA 4-1 | 6g | 75 | 12주 | 6.964 | 5.442 | -1.522 | -\n[행2] 304 (안전성 평가기) | 1.5~6g | 72 | 12주 | 6.952 | 4.741 | -2.211 | -\n[행3] 304 (유효성 평가기) | 활성약 6~12g | 115 | 4주 | 7.84 | 5.31 | -2.53 | 61.7\n[행4]  | 활성약 6~12g | 110 |  | 7.81 | 5.40 | -2.40 | 60.0\n[행5]  | 위약 | 281 |  | 7.41 | 5.38 | -2.02 | 60.9\n[행6]  |  | 146 |  | 7.56 | 5.34 | -2.22 | 63.7\n[행7]  |  | 91 |  | 5.12 | 4.88 | -0.24 | 71.4\n[행8]  |  | 91 |  | 5.44 | 7.23 | 1.79 | 20.9",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1235,
+      "table": {
+        "title": "유효성․안전성시험 개요",
+        "columns": [
+          "시험번호",
+          "1일 투여량",
+          "n수",
+          "평가시점",
+          "투여 전",
+          "투여 후",
+          "변화량",
+          "목표달성률%"
+        ],
+        "rows": [
+          [
+            "PNC00301",
+            "위약 4g",
+            "28",
+            "8주",
+            "7.371",
+            "7.393",
+            "0.021",
+            "-"
+          ],
+          [
+            "GBA 4-1",
+            "6g",
+            "75",
+            "12주",
+            "6.964",
+            "5.442",
+            "-1.522",
+            "-"
+          ],
+          [
+            "304 (안전성 평가기)",
+            "1.5~6g",
+            "72",
+            "12주",
+            "6.952",
+            "4.741",
+            "-2.211",
+            "-"
+          ],
+          [
+            "304 (유효성 평가기)",
+            "활성약 6~12g",
+            "115",
+            "4주",
+            "7.84",
+            "5.31",
+            "-2.53",
+            "61.7"
+          ],
+          [
+            "",
+            "활성약 6~12g",
+            "110",
+            "",
+            "7.81",
+            "5.40",
+            "-2.40",
+            "60.0"
+          ],
+          [
+            "",
+            "위약",
+            "281",
+            "",
+            "7.41",
+            "5.38",
+            "-2.02",
+            "60.9"
+          ],
+          [
+            "",
+            "",
+            "146",
+            "",
+            "7.56",
+            "5.34",
+            "-2.22",
+            "63.7"
+          ],
+          [
+            "",
+            "",
+            "91",
+            "",
+            "5.12",
+            "4.88",
+            "-0.24",
+            "71.4"
+          ],
+          [
+            "",
+            "",
+            "91",
+            "",
+            "5.44",
+            "7.23",
+            "1.79",
+            "20.9"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 428,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[39]",
+      "ko_txt": "[제목] 위장관계 및 감염 관련 데이터\n[열] 증상 | 위약 (N=36) | 기타1 | 기타2\n[행0] 대변 변색 | 37.5 | 37.3 | 5.6\n[행1] 변비 | 6.9 | 6.7 | 0.0\n[행2] 복부 팽만 | 5.6 | 6.7 | 0.0\n[행3] 설사 | 4.2 | 8.0 | 5.6\n[행4] 복통 | 4.2 | 5.3 | 2.8\n[행5] 상복부통증 | 1.4 | 4.0 | 8.3\n[행6] 상부 호흡기 감염 | 19.4 | 26.7 | 5.6\n[행7] 비인두염 | 1.4 | 1.3 | 5.6",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1303,
+      "table": {
+        "title": "위장관계 및 감염 관련 데이터",
+        "columns": [
+          "증상",
+          "위약 (N=36)",
+          "기타1",
+          "기타2"
+        ],
+        "rows": [
+          [
+            "대변 변색",
+            "37.5",
+            "37.3",
+            "5.6"
+          ],
+          [
+            "변비",
+            "6.9",
+            "6.7",
+            "0.0"
+          ],
+          [
+            "복부 팽만",
+            "5.6",
+            "6.7",
+            "0.0"
+          ],
+          [
+            "설사",
+            "4.2",
+            "8.0",
+            "5.6"
+          ],
+          [
+            "복통",
+            "4.2",
+            "5.3",
+            "2.8"
+          ],
+          [
+            "상복부통증",
+            "1.4",
+            "4.0",
+            "8.3"
+          ],
+          [
+            "상부 호흡기 감염",
+            "19.4",
+            "26.7",
+            "5.6"
+          ],
+          [
+            "비인두염",
+            "1.4",
+            "1.3",
+            "5.6"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 429,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[40]",
+      "ko_txt": "[제목] 기타 데이터\n[열] 항목 | 값1 | 값2 | 값3\n[행0] 저인산혈증 | 2.8 | 0.0 | 0.0\n[행1] 기저치 (휴약기 이후) | 6.95 | 6.96 | 7.37\n[행2] 치료 종료시점 (57 일) | 4.69 | 5.38 | 7.42\n[행3] 기저치로부터의 평균 변화량 | -2.27 | -1.60 | 0.08\n[행4] 위약군과 비교 LS mean p-값** | -2.51 | <0.001 | \n[행5]  | -1.83 | <0.001 | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1340,
+      "table": {
+        "title": "기타 데이터",
+        "columns": [
+          "항목",
+          "값1",
+          "값2",
+          "값3"
+        ],
+        "rows": [
+          [
+            "저인산혈증",
+            "2.8",
+            "0.0",
+            "0.0"
+          ],
+          [
+            "기저치 (휴약기 이후)",
+            "6.95",
+            "6.96",
+            "7.37"
+          ],
+          [
+            "치료 종료시점 (57 일)",
+            "4.69",
+            "5.38",
+            "7.42"
+          ],
+          [
+            "기저치로부터의 평균 변화량",
+            "-2.27",
+            "-1.60",
+            "0.08"
+          ],
+          [
+            "위약군과 비교 LS mean p-값**",
+            "-2.51",
+            "<0.001",
+            ""
+          ],
+          [
+            "",
+            "-1.83",
+            "<0.001",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "document_id": "kk_cochrane_0015",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000103.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000103.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "허혈성 뇌졸중은 뇌의 한 부위로 가는 혈류가 차단되는 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "혈액희석 치료는 해당 뇌부위로 가는 혈류를 개선하여 경색 범위(infarct size)를 줄이는 것으로 생각된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "급성 허혈성 뇌졸중에서 혈액희석의 효과를 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Cochrane Stroke Group Trials Register (2014년 2월), Cochrane Central Register of Controlled Trials (제1호, 2014년), MEDLINE (2008년 1월˜2013년 10월), EMBASE (2008년 1월˜2013년 10월)를 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "또 임상시험 등록사이트를 검색하고 참고문헌 목록을 조사하며, 저자와도 접촉했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "이 고찰의 이전판에서는, 저자들이 해당영역의 제약회사나 연구자와도 연락을 취했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "급성 허혈성 뇌졸중 환자를 대상으로 한 혈액희석요법의 무작위시험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "뇌졸중 발병 72시간 내에 치료를 개시한 시험에 한정하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "뇌졸중 발병 72시간 내에 치료를 개시한 시험에 한정하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "2명의 저자가 시험의 질을 평가하고 1명의 저자가 데이터를 추출했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "참가자 4,174명을 대상으로 한 21건의 시험에 대해서 검토했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "정맥절개(venesection)와 혈장증량제(volume expander)를 병용한 시험은 9건이었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "혈장증량제만 단독으로 사용한 시험은 12건이었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "시험에서 사용된 혈장증량제는 혈장만 사용한 경우가 1건, 덱스트란 40을 사용한 경우가 12건, 히드록시에틸 스타치(HES)를 사용한 경우가 5건이었고 3건에서는 알부민을 사용했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "혈액희석과 다른 치료를 병용한 경우를 대상으로 한 시험은 2건이었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "평가가 맹검적으로 치러진 시험은 14건이었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "시험 참가자에 뇌내출혈(intracerebral hemorrhage) 환자가 일부 포함되었을 가능성이 있는 시험은 5건이었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "혈액희석 치료는 발병 4주 내 사망을 유의하게 감소시키지 못했다(위험비[RR] 1.10; 95% CI 0.90˜1.34).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "또한, 혈액희석은 3˜6개월 이내 사망(RR 1.05; 95% CI 0.93˜1.20), 또는 사망, 자립장애나 시설입소(RR 0.96; 95% CI 0.85˜1.07)에도 영향을 미치지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "교란변수를 통제한 시험과 통제하지 않은 시험, 그리고 등용량 혈액희석(isovolemic hemodilution)과 고용량 혈액희석(hypervolaemic hemodilution)에서 모두 유사한 결과를 보였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "특정 종류의 혈액희석제가 통계적으로 유의하게 이득을 보이지는 않았으나, HES의 효과에 대해서는 통계적 검출력이 약했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "여섯 건의 시험에서 정맥혈전색전(venous thromboembolic event)이 보고되었다. 3개월 또는 6개월간 추적관찰했을 때 심부정맥혈전증(deep venous thrombosis), 폐색전증(pulmonary embolism) 혹은 그 둘 다는 빈도가 감소하는 경향을 보였다(RR 0.68; 95% CI 0.37˜1.24).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "심장의 위중한 심장문제 발생이, 혈액희석을 시행한 참가자에서 유의하게 증가하지는 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "본 검토 결과를 종합하면, 급성 허혈성 뇌졸중에 대한 혈액희석 요법이 유익한지에 대한 명확한 근거는 없는 것으로 보인다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "이상의 결과는 급성 허혈성 뇌졸중에 혈액희석 요법을 시행할 만한 근거가 없다는 것을 보여주는 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "이 요법이 생존 또는 기능적 성과지표를 개선한다는 근거는 없다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "허혈성 뇌졸중 환자에서 발병 72시간 내에 혈액희석(혈액을 희석)을 시작한 치료의 유효성을, 사망이나 자립기능장애 측면에서 검토할 목적으로 대조치료 또는 아무런 치료도 하지 않은 경우와 비교했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌졸중 (stroke)은 세계적으로 사망원인 중 2위를 차지한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌졸중은 얼굴근육의 마비, 팔의 무력 및 언어장애 등의 증상을 보인다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌졸중은 대부분 혈전에 의해 뇌의 한 부분으로 가는 혈류가 차단되어 발생한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "혈류가 조속히 재개되지 않으면 뇌세포가 사멸한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이론적으로, 혈액희석 치료는 혈액의 흐름을 개선하여 뇌에 공급되는 산소와 영양물질을 증가시키고, 결국 사멸할 위기에 처했던 뇌세포가 살아남게 된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌졸중 동물모델에서는 이 치료로 뇌경색의 범위(세포가 사멸한 영역)가 줄어든다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "혈액희석은 사혈(혈액의 제거)이나 수액 주입 또는 그 두 치료를 병용하는 방법으로 시행된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "수액으로는 전해질용액을 사용하기도 하지만, 수액이 정맥 내에 남아있도록 붙잡아주는 큰 불용성 분자로 구성된 콜로이드 용액이 혈액희석제로 유효하다. 1970년대 이후 많은 나라에서 혈액희석이 급성 뇌졸중 환자의 임상치료에 사용되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이후 급성 뇌졸중에서의 혈액희석 치료에 관한 방대한 수의 임상 연구가 발표되고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 검토의 목적은 혈액희석 치료로 혈전에 인한 뇌졸중 환자의 사망을 예방할 수 있는지를 검토하는 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "급성 허혈성 뇌졸중으로 여겨지는 성인남녀 참가자 4,174명을 대상으로 한 21건의 시험이 특정되었다. 2014년 2월까지의 자료를 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "적어도 3˜6개월간 참가자를 추적한 시험이 많았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이 치료에는 여러 종류의 용액이 사용되며, 등용량(혈액량의 일부를 수액으로 치환)과 고용량 요법(수액을 추가하여 총 혈액양을 증가시킴)이 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 검토에서 모든 연구결과들을 통합해 보면, 혈액희석으로 얻는 이익에 대한 명확한 근거는 없다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "또 사혈유무에 상관없이, 다양한 혈액희석제 중 특정 혈액희석법이 더 유효하다는 명확한 근거도 없다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이 요법 시행군에서 유의하게 증가된 위중한 부작용도 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "결론적으로, 급성 허혈성 뇌졸중 환자에게 통상적으로 혈액희석 치료를 하도록 할 만한 과학적 근거는 뚜렷하지 않다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "개개의 시험들은 다양한 질을 보이므로, 전반적인 근거의 질은 양호했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "시험들 간에 불균형은 거의 없었다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,1360 @@
+{
+  "document_id": "kk_kci_0003",
+  "meta": {
+    "set": "KK",
+    "source_folder": "11",
+    "source_code": "kci",
+    "source_name": "국내 학술지 논문(KCI)",
+    "orig_doc_id": "3D 프린팅 기반 흡수성 치주조직 재생 유도재의 구강 모사 환경에서의 성능평가 체계 연구.pdf",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 학술지 논문(KCI)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "KFDC규제과학회지 제20권 제2호, 119-129, 2025 3D 프린팅 기반 흡수성 구강 모사 환경에서의 정지희1·성연국1· 1식품의약품안전평가원 의료 2서울대학교 바이 A Study on the Performance Evaluatio Barrier Membrane under O Ji-Hee Jeong¹, Yeon-Guk Seong¹, Jo 1Medical Device Research Division, Pharmaceuti National Institute of Food a 2Department of Biosystems Engin Abstract: Advancements in 3D printing technology ha devices capable of replacing damaged human tissues.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "These d biocompatible and biodegradable properties.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "In particular rates that match the pace of tissue regeneration, making human body essential.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "In this study, we developed a te absorbable barrier membrane fabricated from polycapro using artificial saliva and phosphate-buffered saline, and were evaluated.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Domestic and international standards a items and procedures, and the reliability of the proposed The results showed no observable changes in appearance, wh were not statistically significant.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "In contrast, decreases in strength showed a substantial reduction, with all three par findings indicate that performance degradation is more c and the resulting decrease in mechanical strength than w study highlights the necessity of evaluating biodegrada simulate the implantation environment, and it is expected evaluation for future devices.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 기술은 기존의 제조 공정으로는 구현이 어려운 복잡한 형상의 의료기기를 정밀하게 제작할 수 있으며, 다양한 제품을 소량으로 생산 할 수 있는 유연성을 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "현재 3D 프린팅은 산업 (Tel: 043-719-4919, Fax: 043-719-4900, E-mail: etlee@korea.kr) 치주조직 재생 유도재의 의 성능평가 체계 연구 ·엄준호1·이응태1,2† 료제품연구부 의료기기연구과 이오시스템공학과 on System of 3D-Printed Absorbable Oral Simulation Environment oon-Ho Eom¹, and Eung-Tae Lee¹,²† icals and Medical Devices Research Department, and Drug Safety Evaluation neering, Seoul National University ave facilitated the development of implantable medical devices are primarily fabricated from synthetic polymers with r, biodegradable polymers require appropriate degradation g performance evaluation under conditions similar to the esting method to assess the performance of 3D-printed olactone.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Human biomimetic conditions were simulated d the changes in performance before and after exposure and guidelines were analyzed to determine relevant test d evaluation method was verified through validation tests. hile the changes in dimensional and porosity characteristics n mass and molecular weight were observed, and tensile rameters exhibiting statistically significant changes.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "These closely associated with the reduction in molecular weight with changes in appearance.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Based on these results, the able implantable medical devices under conditions that d to contribute to enhancing the reliability of performance plantable medical devices, Performance evaluation 전반에 걸쳐 빠르게 보급되고 있으며, 특히 의료기기 분야 에서는 정형외과, 신경외과, 성형외과, 치과를 중심으로 환자 맞춤형 의료기기 개발에 활발히 활용되고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이와 더불어, 의료용품 분야에서는 생체적합성이 우수하고 생분해 특성을 가진 소재를 기반으로 한 인체 이식형 의료 기기의 개발이 활발하게 이루어지고 있으며, 3D 프린팅 기술은 이러한 생분해성 의료기기의 제작에 적용되고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "생분해성 고분자는 인체 내에서 일정 시간 경과 후 자연스 187 식품의약품안전평가원 의료기기연구과 120 정지희·성연국·엄준호·이응태 럽게 분해되어 사라지는 특성을 가지고 있으며, 사용 목적에 따라 적절한 분해 속도와 기계적 성능을 유지해야 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그러나 인체 부위별로 이식 환경이 상이하여, 분해반응에 영향을 미치는 다양한 요인에 따라 고분자 소재의 물성이 변화하고, 이로 인해 의료기기의 성능이 본래의 목적에 부 합하지 못하는 경우가 발생하기도 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 생분해성 고분자 이식형 의료기기는 이식 후 원재료의 물성 변화가 의료기기의 성능에 영향을 줄 수 있어 성능 확보를 위해 이식 부위의 조건을 고려하여 연구개발 및 성능평가가 필요할 것 본 연구에서는 생분해성 고분자 이식형 의료기기의 인체 이식 환경을 모사한 성능평가 시험항목 및 시험방법을 개발 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 통해 향후 생분해성 고분자 이식형 의료기기의 설계·개발 및 성능평가 시, 이식 후 시간 경과에 따른 성능 변화까지 고려한 체계적인 성능 평가기술 적용의 필요성을 제시하고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "II. 연구방법 생분해성 고분자 소재를 적용한 인체 이식형 3D 프린팅 의료기기를 대상으로, 허가 현황 및 국내 시장 현황을 조사 하여 연구대상 의료기기를 선정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "선정된 의료기기의 실제 적용 부위 환경을 고려하여, 인체 모사 환경을 구축하 였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 위해 관련 규격을 분석하고, 이식 환경에 영향을 미치는 주요 인자 및 이식 부위의 생리학적 요인을 검토하여 실제 사용 환경과 유사한 시험 환경을 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한, 의료기기 관련 규격, 가이드라인 및 기허가 사례를 분석하여 성능평가에 필요한 시험항목을 도출하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 기반으로 모사 환경에 의료기기를 일정 기간 노출시킨 후 노출 전, 후 시험방법을 설정하고, 시험검증을 통해 해당 시험방법의 신 연번 등급 품 흡수성 합성 폴리머 재료 (신체 부분의 재건 시 일시적 공간의 지지 특수 재질 두개골 성형 재료 (두개골의 결함을 수리하는 데에 사용되는 흡수성 치주조직 재생 유도재 (치은과 치조골간의 장벽 역할을 하여 치주 연번 품목명 생산 1 흡수성 치주조직 재생 유도재 52,356,516 2 특수 재질 두개골 성형 재료 19,798,491 3 흡수성 합성 폴리머 재료 2,914,207 1)국내 시장규모=생산+수입-수출 * 환율: 기획재정부(통화별 환율 조사통계, 연도별 적용) 뢰성을 확보하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "시험검증에 사용된 시편은 외형, 치수, 원재료, 3D 프린팅 제조 방식 및 멸균 조건 등에서 기허가 제품과 동등한 수준 으로 제작되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "아울러, 시험항목 및 시험방법의 설정뿐만 아니라 이식 환경의 타당성을 제고하기 위해 산·학·연 전문 가의 의견을 수렴·반영함으로써 성능평가 방법의 전문성과 타당성을 확보하였다. 3D 프린팅 생분해성 이식형 의료기기 현황 및 연구 대상 의료기기 1.1. 허가 현황 성능평가 기술 개발을 위한 연구 대상 의료기기 품목 선정을 위해, 3D 프린터로 제조된 생분해성 이식형 의료기기의 허가 현황을 조사하였다 2017년부터 최근 5년간 제조 또는 수입 허가된 생분해성 고분자 소재 이식형 의료기기 중, 3D 프린 터로 제작된 품목은 아래 표 1과 같다. 1.2. 국내 시장 규모 식품의약품안전처에서 제공하는 의료기기 생산 및 수·출입 실적 통계자료를 바탕으로, 3D 프린팅 기술을 활용한 생분 해성 이식형 의료기기의 국내 시장 동향을 분석하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 2018년부터 최근 5개년 동안 생산액, 수입액 및 수 출액이 가장 높은 품목은 ‘흡수성 치주조직 재생 유도재’인 것으로 나타났다. 1.3. 원재료 연구 대상 품목의 원재료 선정을 위해 3D 프린팅 기반 생분해성 이식형 의료기기의 원재료를 분석한 결과, 합성고 분자 소재만으로 제작된 제품의 경우 대부분 폴리카프로락 톤(Polycaprolactone, PCL)이 사용되는 것으로 나타났다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "의료기기 제조·수입 허가 현황 (2017~2021년) 품목명 허가 건수 또는 유지를 목적으로 사용되는 흡수성 재료) 는 임플란트(판, 나사, 쇠줄 등)) 주 조직의 재생을 유도하는 흡수성 재료) 의료기기 품목의 국내 시장 규모 (2018~2022년) (단위: 천원) 수입 수출 국내 시장 규모 19,224,327 22,749,014 48,831,829 2,279,451 1,413,812 20,664,130 95 65,735 2,848,567 3D 프린팅 기반 흡수성 치 원재료 (2016~2021년) 연번 품목명 원재료 PCL / PCL + β-TCP / 1 특수 재질 두개골 성형 재료 PCL + BGS-7 2 흡수성 합성 폴리머 재료 PCL 3 흡수성 치주조직 재생 유도재 PCL / PCL + β-TCP 1)Tri Calcium Phosphate, 2)Bioactive Glass ceramic 품목의 제조 방식 (2016~2021년) 연번 품목명 3D 프린팅 제조 방식 1 특수 재질 두개골 성형 재료 FDM 2 흡수성 합성 폴리머 재료 FDM 3 흡수성 치주조직 재생 유도재 FDM 폴리카프로락톤은 낮은 유리전이온도와 녹는점을 가져 가공이 용이하며, 생체 내 독성이 없어 생체적합성이 요구되는 의료분야에서 폭넓게 활용되고 있다. 1.4. 제조 방식 2016년부터 약 5년간 3D 프린터로 제작된 생분해성 이식형 의료기기의 3D 프린팅 제조 방식은 표 4와 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "제조 방식 확인이 불가능한 사례를 제외하면, 제품 대부분이 FDM(Fused Deposition Modeling) 방식을 통해 제작된 것으로 나타났다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "FDM 방식은 열가소성 재료를 열로 용융시킨 후 노즐을 통해 분사·적층하여 형상을 구현하는 방식으로, 열에 민감한 재료의 사용에는 제한이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "현재 3D 프린팅 생분해성 이식형 의료기기 분야에서는 FDM 방식이 가장 널리 활용되고 1.5. 멸균 방법 연구 대상 품목의 멸균 방법을 선정하기 위해 3D 프린팅 기반 생분해성 이식형 의료기기에 적용되는 멸균 방법을 조사한 결과, 감마(γ)선 멸균 공정이 에틸렌옥사이드(Ethylene Oxide) 가스 멸균보다 상대적으로 더 많이 사용되고 있음을 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이는 대표적인 생체적합 고분자 소재가 고온 및 고압 조건에 취약하므로, 대부분의 경우 감마선 멸균이 연번 참고문헌 HANS, Rinki, et al. Effect of various sugary beverages amongst adults.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Scientifica, 2016, 2016.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "BALIGA, Sharmila; MUGLIKAR, Sangeeta; KALE, Rah Indian Society of Periodontology, 2013, 17.4: 461.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "HUMPHREY, Sue P.; WILLIAMSON, Russell T. A revie The Journal of prosthetic dentistry, 2001, 85.2: 162-169.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "M.; THOMSON, W. Saliva: an overview. 5 전국치과대학(원)생리학교수협의회,『치의학을 위한 생리 치주조직 재생 유도재의 구강 모사 환경에서의 성능평가 체계 연구 121 (2016~2021년) 연번 품목명 멸균 방법 1 특수 재질 두개골 성형 재료 감마 멸균 2 흡수성 합성 폴리머 재료 감마 멸균 감마 멸균/에틸렌옥사이드가스 3 흡수성 치주조직 재생 유도재 주로 적용되고 있는 것으로 판단된다. 3D 프린터로 제작된 생분해성 고분자 소재 이식형 의료 기기의 제조 및 수입 허가 현황과 3D 프린팅 제조가 가능한 품목 중, 국내 시장 규모가 가장 큰 ‘흡수성 치주조직 재생 유도재’를 인체 이식 환경을 고려한 성능평가 기술 개발의 대상 품목으로 선정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한, 해당 의료기기의 허가 품목에 대한 원재료 및 제조 방식을 참고하여, 본 연구에서는 원재료로 폴리카프로락톤을, 제조 방식으로는 FDM 방식을 채택하였으며, 제작된 시편의 멸균 공정은 감마 멸균으로 선정하였다. 2. 인체 이식 환경을 고려한 모사 환경 구축 이식형 의료기기의 체내 분해 반응은 이식 환경의 온도, pH, 구성성분, 물리적 자극 등의 다양한 요인에 영향을 받는 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 인체 이식 환경과 유사한 조건을 구현하기 위해 서는 이식 부위의 생리학적 요인들을 분석하고 이를 모사 환경에 반영할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 흡수성 치주조직 재생 유도재의 적용 부위인 구강 환경을 고려하여, 구강 내 타액 및 체액의 특성을 반영한 두 가지 인체 모사 환경을 구축하였다. 2.1. 온도 사람의 평균 체온은 일반적으로 36.0~37.5oC범위에 존재 하나, 성별, 연령, 측정 부위에 따라 차이를 보인다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "구강 내 온도는 외부 공기의 유입에 따라 변동되며, 33.2oC에서 최대 38.0oC까지의 폭을 가진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "흡수성 치주조직 재생 유도 재는 외부 공기와 거의 접촉하지 않는 구강 내 환경에 위치 하게 되므로, 실제 이식 환경을 모사하기 위한 인공타액 및 체액의 온도는 37±1oC로 설정하였다. pH 참고문헌 문헌 타액의 pH s on salivary pH, flow rate, and oral clearance rate 6.7 ~ 7.4 hul. Salivary pH: A diagnostic biomarker.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Journal of 6.2 ~ 7.6 ew of saliva: normal composition, flow, and function.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "NZ Dent J, 2014, 110.3: 92-96. 6 ~ 7 리학 제2판』, 대한나래출판사, 2009 6.5 ~ 7.5 122 정지희·성연국·엄준호·이응태 연번 참고표 ASTM E2720-16 Standard Practice for Evaluation of E Permeable Materials when Challenged with Biological Ae KS M 1992 어린이용 제품 및 육아용 제품－탄성체 또는 및 니트로스화할 수 있는 물질의 유출량 검출방법 연번 참고문헌 pH 동맥혈 7.4 전국치과대학(원)생리학교수 세포외액 정맥혈 7.35 1 협의회『, 치의학을 위한 생리학 간질액 7.35 제2판』, 대한나래출판사, 2009 세포내액 6.0 ~ 7.4 2.2. pH 생분해성 이식형 의료기기는 생체 내에서 가수분해 반응을 통해 분해되며, 이 과정에서 pH는 반응 속도에 큰 영향을 미친다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "구강 내 타액의 pH는 음식물 섭취 등에 의해 일정 수준의 변동성을 가지나, 기존 문헌 및 표준을 참고하여 모사 환경에서의 인공타액 pH는 7.2±0.5로 설정하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "체액의 산도는 주로 대사 과정에서 생성된 이산화탄소가 용해되어 형성된 휘발성 산과 황산 등 비휘발성 산에 의해 결정되며, 체액의 종류에 따라 세포외액은 pH 7.3 ~ 7.4, 세포내액은 pH 6.0 ~ 7.4 범위를 가진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 관련 문헌 및 인공체액 관련 표준을 바탕으로, 모사 환경에서의 인공체액 pH를 7.4 ± 0.5로 설정하였다. 2.3. 구성성분 이식 환경의 구성성분은 이식형 의료기기의 분해 반응에 있어 장벽 또는 촉매로 작용할 수 있으므로, 실제 이식 환경의 조성을 반영한 모사 환경 구성이 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "타액은 약 99%가 수분이며, 나트륨, 칼륨, 칼슘, 마그네슘, 인산염 등의 전해 질과 함께 뮤신, 요소 등을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히, 뮤신은 고분자 물질의 분해를 억제하는 장벽 역할을 수행할 수 있음이 보고된 바 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이에 본 연구에서는 이러한 성분을 포함한 상용 인공타액을 적용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "체액의 경우 주된 성분은 전해질이며, 포도당 및 아미노 연번 참고표 ISO 16428:2005 Implants for surgery -- Test solutions and en tests on implantable materials and medical devices ISO 16603:2004 Clothing for protection against contact with b protective clothing materials to penetration by blood and body f 3 KS P ISO 16428 외과용 이식재－이식재 및 의료기기에 대한 KS K ISO 16603(2017 확인) 혈액 및 체액 차단 보호복－혈 공혈액을 이용하는 시험방법 타액 관련 표준 표준 pH Effectiveness of Decontamination Procedures for Airerosols Containing Human Pathogenic Viruses 고무재질의 젖꼭지 및 노리개 젖꼭지 중 니스로스아민 연번 성분명 함량 1 Mucin 3 g/L 2 Potassium Chloride 1.04 g/L 3 Sodium Chloride 0.88 g/L 4 Sodium Bicarbonate 0.42 g/L 5 Potassium Thiocyanate 0.19 g/L 6 Calcium Chloride monohydrate 0.13 g/L 7 Urea 0.12 g/L 8 Ammonium Chloride 0.11 g/L 9 Magnesium Chloride heptahydrate 0.04 g/L 10 0.2 M Potassium Phosphate Dibasic 12.3 mL/L 11 0.2 M Potassium Phosphate Monobasic 7.7 mL/L 12 Methylchloroiso thiazolinone 0.3 mL/L 연번 성분명 함량 1 KHPO 144 mg/L 2 NaCl 9,000 mg/L 3 NaHPO 421.62 mg/L 산과 같은 유기물의 함량은 상대적으로 적다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이에 따라, 일반적으로 생체 환경 모사 실험에서 널리 활용되는 인산완 충용액(Phosphate Buffered Saline, PBS)을 체액 모사 환경 으로 설정하였다. 2.4. 물리적·기계적 자극 자극 상태에서 타액의 분비 속도는 0.2 ~ 1.7 mL/min, 비자극 상태에서는 0.1 ~ 0.4 mL/min 범위로 보고된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 낮은 유속으로 인해 물리적·기계적 자극이 생분해 반응에 미치는 영향은 제한적일 것으로 판단하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "더불어, 치주조직 재생 유도재는 치주 결손 부위에 이식되어 연조직 및 치조골에 체액 관련 표준 표준 pH nvironmental conditions for static and dynamic corrosion blood and body fluids -- Determination of the resistance of 7.3 ± 0.1 fluids -- Test method using synthetic blood 한 정적 및 동적 부식 시험을 위한 시험 용액 및 환경 조건 7 혈액 및 체액 차단 보호복 재료의 침투 저항성 측정－인 7.3 ± 0.1 3D 프린팅 기반 흡수성 치 의해 물리적 하중이 직접 전달되지 않으므로 저작 운동 및 교합력의 영향을 받지 않을 것으로 판단하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 본 연구의 모사 환경에서는 물리적·기계적 자극 요인을 고려하지 않았다. 2.5. 구강 환경을 고려한 모사 환경 구축 위의 조사된 내용을 바탕으로 흡수성 치주조직 재생 유도 재의 적용 부위인 구강 환경을 고려하여, 타액 및 체액의 특성을 반영한 인체 모사 환경을 구축하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "온도는 구강 내 평균 온도와 실제 체온을 바탕으로, 인공타액 및 인산완충 용액의 온도를 37 ± 1oC로 설정하였다. pH는 다양한 문헌 및 관련 표준을 참고하여, 인공타액은 7.2 ± 0.5, 인산완충용 액은 7.4 ± 0.5로 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "구성성분 측면에서는, 고분자 분해에 영향을 줄 수 있는 뮤신, 전해질, 요소 등을 포함한 상용 인공타액을 적용하였으며, 체액 모사 용액은 생체 환경에서 일반적으로 사용되는 인산완충용액을 활용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "물리적·기계적 자극은 구강 내 타액 및 체액의 흐름 속도가 낮아 분해 반응에 미치는 영향이 제한적이라 판단되어, 본 모사 환경에서는 별도 고려하지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이와 같이, 실제 이식 환경의 생리적 조건을 반영하여 두 가지 모사 환경을 설정함으로써, 흡수성 치주조직 재생 유 도재의 성능을 보다 신뢰성 있게 평가할 수 있는 시험 조건을 구축하였다. 3. 흡수성 치주조직 재생 유도재 성능평가 시험항목 및 시험방법 개발 흡수성 치주조직 재생 유도재의 성능평가를 위한 시험항목 및 시험방법을 선정하기 위해, 관련 품목의 연구개발 과제, 규격, 가이드라인 및 기허가 제품의 허가 현황 등을 조사·분 석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "식품의약품안전처에서 2020년도에 수행한 용역 연구개발과제인 「치과용 3D 프린팅 기반 제품의 평가기술 모사 환경 용액명 온도 타액 특성 반영 인공타액 37 ± 1oC 7 체액 특성 반영 인산완충용액 37 ± 1oC 7 연번 시험항목 육안 및 실체현미경 등을 이용 1 외형 물리적 특성 소의 존재 여부를 확인 2 평가 치수 버니어 캘리퍼스, 디지털현미 3 기공률 미세전산화단층 X선 촬영 장 4 질량 분석저울 등을 이용하여 주 5 생분해 특성 분자량 겔 투과 크로마토그래피 등을 평가 만능재료시험기 등을 이용하 6 인장하중 치주조직 재생 유도재의 구강 모사 환경에서의 성능평가 체계 연구 123 시험항목 및 관련 규격 연번 시험항목 관련 규격 1 치수 ISO 1923 ASTM F88, ASTM F1929, ASTM 2 포장 D4991, ASTM F1608, ISO 11607-1 3 성상 및 표면 특성 ASTM F2450 4 기공도 ASTM F2450 5 인장강도 ISO 527-1, ASTM D624 ISO 13781, ASTM F2902, ASTM F1635, 6 생분해성 FDA Guidance Document for Testing Biodegradable Polymer Implant Devices 시험항목 흡수성 치주조직 재생 유도재 연번 성능 시험 A사 B사 1 외관 O O 2 치수 O O 3 기공도 O O 4 용출물 O O 5 잔류물 분석 O 6 인장강도 O O 7 생분해성 O O 개발 연구」에서는 해당 제품에 대해 치수, 포장, 성상 및 표면 특성, 기공도, 인장강도, 생분해성 등 총 6가지 시험항목을 제시한 바 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한, 3D 프린팅 기술을 이용한 다른 이식형 의료기기 품목인 ‘이식형 조직재생용 지지체(B07130.’ 관련 안전성 및 성능시험 가이드라인을 조사·분석한 결과, 3D 프 린팅 기반 생분해성 이식형 의료기기에서 공통적으로 요구 되는 핵심 시험항목은 생분해성 시험과 인장강도 시험임을 확인하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "고려한 모사 환경 설정 pH 구성성분 물리적·기계적 자극 7.2 ± 0.5 인산칼륨, 뮤신 등 반영하지 않음 7.4 ± 0.5 인산칼륨, 염화나트륨 등 반영하지 않음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "재의 성능평가 시험항목 및 시험내용 시험내용 용하여 흡수성 치주조직 재생 유도재의 사용에 지장을 일으킬 수 있는 요",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "미경 등을 이용하여 흡수성 치주조직 재생 유도재의 치수를 측정 장비 등 기기를 이용하여 흡수성 치주조직 재생 유도재의 기공률 계산 차별 흡수성 치주조직 재생 유도재의 질량 변화를 측정 을 이용하여 주 차별 흡수성 치주조직 재생 유도재의 분자량 변화 측정 하여 주 차별 흡수성 치주조직 재생 유도재의 파단 시 최대 하중 변화 124 정지희·성연국·엄준호·이응태 더불어, 기허가된 흡수성 치주조직 재생 유도재에 대해 허가 시 제출되는 시험항목을 분석한 결과, 제품의 사용 목적 및 특성에 따라 다소 차이는 있으나, 외관, 치수, 기공도, 용출물, 인장강도, 생분해성 등이 공통으로 포함되어 있는 것으로 나타났다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 연구과제, 가이드라인 및 기허가 품목의 허가자료 분석 결과를 종합하여, 본 연구에서는 흡수성 치주조직 재생 유도재의 이식 환경을 고려한 성능평가 방법을 제안하고자 하며, 이에 따라 물리적 특성 평가를 위한 시험항목으로는 외관, 치수, 기공률을, 생분해 특성 평가를 위한 시험항목으 로는 질량 손실, 분자량 변화, 인장하중 등을 선정하였다. 3.1. 외형 시편의 외형 및 미세구조 변화를 관찰하기 위해 실체현미경 또는 주사전자현미경 등의 광학기기를 사용할 수 있으며, 시편의 수는 통계적 신뢰성을 확보하기 위해 최소 3개 이상 사용하는 것을 권장한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 흡수성 치주조직 재생 유도재의 모사 환경 노출 전·후의 외형 변화 및 미세구조 평가를 위해 실체현미경(ZEISS, 독일)을 활용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "인공 타액 및 체액의 모사 환경 조건에 대해 각 4개의 시편을 선정하여, 노출 전·후 각각 동일한 관찰 지점을 기준으로 촬영하였으며, 이를 바탕으로 시편의 미세구조 및 기공의 형상을 비교·분석하였다. 3.2. 치수 시편의 가로, 세로, 기공 크기, 선폭 및 두께 변화를 측정 하기 위해 실체현미경이나 마이크로미터, 버니어 캘리퍼스, 주사전자현미경, 미세전산화 단층 X선 촬영장비 등의 장비를 사용할 수 있으며, 시편 수는 통계적 신뢰성을 확보하기 위해 3개 이상 사용하는 것을 권장한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 흡수성 치 주조직 재생 유도재의 모사 환경 노출 전·후의 치수 변화를 평가하고자, 인공타액 및 체액의 모사 환경 조건에 대해 각 4개의 시편을 선정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "실체현미경(ZEISS, 독일) 및 전용 소프트웨어를 통해 가로, 세로, 기공 크기, 선폭을 비교·분석 하였고, 마이크로미터(Mitutoyo, 일본)를 이용하여 시편 중 앙의 두께를 측정하여 비교·분석하였다. 3.3. 기공률 시편의 기공률을 측정하기 위해 미세전산화단층 X선 촬영 장비 등의 기기를 사용할 수 있으며, 시편 수는 통계적 신뢰 성을 확보하기 위해 3개 이상 사용하는 것을 권장한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 흡수성 치주조직 재생 유도재의 모사 환경 노출 전·후의 기공률 변화를 평가하고자, 미세전산화단층 X선 촬영 장비(Micro-Computed Tomography; Bruker, 미국)를 이용 하여 측정하였으며, 시편의 모사 환경 노출 전후 각각 3개씩 총 6개 시편을 대상으로 분석을 진행하였다. 3.4. 질량 시편의 질량을 측정하기 위해 분석저울 등의 장비를 사용할 수 있으며, 시편 수는 통계적 신뢰성을 확보하기 위해 3개 이상 사용하는 것이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 흡수성 치주 조직 재생 유도재의 모사 환경 노출 전·후의 질량 변화를 평가하고자, 분석저울(Sartorius, 독일)을 이용하여 측정하 였으며, 모사 환경 노출 기간은 총 2주, 4주, 8주, 12주, 16주, 20주, 24주로 설정하여 총 7회에 걸쳐 진행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "기간마다 4 개의 시편을 측정하여 시간 경과에 따른 질량 변화를 비교· 분석하였다. 3.5. 분자량 시편의 분자량을 측정하기 위해 겔 투과 크로마토그래피 등의 장비를 사용할 수 있으며, 시편 수는 통계적 신뢰성을 확보하기 위해 3개 이상 사용하는 것이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에 서는 흡수성 치주조직 재생 유도재의 모사 환경 노출 전·후의 분자량 변화를 평가하고자, 겔 투과 크로마토그래피(Gel Permeation Chromatography; Waters, 미국)를 이용하여 측정하 였으며, 모사 환경 노출 기간은 총 2주, 4주, 8주, 12주, 16주, 20주, 24주로 설정하여 총 7회에 걸쳐 진행하였다 4개의 시편을 측정하여 시간 경과에 따른 분자량 변화를 비교· 분석하였다. 3.6. 인장하중 시편의 인장하중을 측정하기 위해 만능재료시험기 등의 장비를 사용할 수 있으며, 시편 수는 통계적 신뢰성을 확보 하기 위해 6개 이상 사용하는 것이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 흡수성 치주조직 재생 유도재의 모사 환경 노출 전·후의 인장하중 변화를 평가하고자, 만능재료시험기(Instron, 미국)를 이용하여 측정하였으며, 모사 환경 노출 기간은 총 2주, 4주, 8주, 12주, 16주, 20주, 24주로 설정하여 총 7회에 걸쳐 진행 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "기간마다 6개의 시편 중앙부에서 파단이 발생할 때의 최대 하중 값을 측정하여 시간 경과에 따른 인장하중 변화를 비교·분석하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "외형 항목을 제외한 치수, 기공률, 질량, 분자량, 인장하중에 대해서는 시편을 모사 환경에 노출하기 전과 후의 시험 결과를 비교하였으며, 두 조건 간 차이가 통계적으로 유의 미한지 검증하기 위해 t-검정을 실시하였다. 4. 흡수성 치주조직 재생 유도재 제작 본 연구에서는 3D 프린터(Rokit, 한국)를 활용하여 FDM 방식으로 서로 다른 치수를 갖는 두 종류의 흡수성 치주조직 재생 유도재 시편(10 × 10 × 0.5 mm, 3층 / 10 × 30 × 0.4 mm, 3층)을 제작하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "제작된 시편은 감마 멸균 공정을 통해 멸균 처리되었으며, 시편 제작에 사용된 원재료는 폴리카프 로락톤(Polysciences, 미국, 분자량(Mw): 59,0이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "제작 3D 프린팅 기반 흡수성 치 모사 환경 침적 시편 구분 시편 질량 해당 시험 용액 부피 (mm) (g) (mL) 외형, 치수, 기공률, 10 × 10 0.03 0.9 이상 질량, 분자량 10 × 30 인장하중 0.07 2.1 이상 된 시편 중 10 × 30 mm 규격의 시편은 인장하중 시험에 사용 하였으며, 10 × 10 mm 규격의 시편은 인장하중 시험을 제외한 나머지 시험에 사용하였다. 5. 흡수성 치주조직 재생 유도재 모사 환경 침적 용액 설정 모사 환경 침적 용액의 부피는 관련 표준을 참고하여 시편의 질량(g) 대비 침적 용액 부피(mL)의 비율을 1:30 이상으로 설정함으로써 시편이 완전히 잠기게 하였다. 6. 흡수성 치주조직 재생 유도재 모사 환경 노출 기간 설정 모사 환경 노출 기간은 흡수성 치주조직 재생 유도재의 분해 특성을 고려하여 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "외형, 치수, 기공률을 물리적 특성 평가 항목으로 설정하고 노출 기간은 24주로 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "생분해 특성 평가는 질량, 분자량, 인장하중으로 노출 기간은 2주, 4주, 8주, 12주, 16주, 20주, 24주로 설정하여 주 차별 시험을 수행하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "III. 연구결과 및 고찰 본 연구에서 설정한 시험 항목 및 시험방법의 타당성을 검증하기 위해, 실제 이식 환경을 반영한 환경에서 체계적인 시험을 수행하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "흡수성 치주조직 재생 유도재의 인체 이식 환경을 모사하기 위하여 인공타액 및 인산완충용액에 시편을 침적시킨 후, 침적 전·후의 성능 변화를 평가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "모사 환경의 온도는 항온기(또는 항온조) 등을 이용하여 구강 및 체온과 유사한 37 ± 1oC로 모사 환경 침적 용액의 온도를 유지하였으며, 모사 환경-인공타액의 pH는 7.2 ± 0.5, 모사 환경-인산완충용액의 pH는 7.4 ± 0.5로 설정하여 주기적인 pH 측정을 통해 이를 관리하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "한편, 치주조직 재생 유도재는 치주 결손 부위 중 연조직과 치주조직 재생 유도재의 구강 모사 환경에서의 성능평가 체계 연구 125 치조골 주변에 이식되므로, 저작 운동이나 교합력과 같은 물리적 하중이 직접적으로 작용하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 본 연구에서는 물리적·기계적 자극 요인을 제외한 상태에서 인체 이식 환경을 모사하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "다만, 본 연구에서는 치주조직 재생 유도재에 국한하여 물리적·기계적 자극을 고려하지 않았으나, 다른 부위에 이식하는 의료기기의 경우에는 직접적인 기계적 자극을 받을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 향후 연구에서는 이러한 물리적· 기계적 요인을 모사할 수 있는 시험 환경을 추가적으로 구축하여, 다양한 의료기기의 성능평가로 연구 분야를 확장 할 필요가 있을 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "시험 시편은 3D 프린팅 기술을 활용하여 제작하였으며, 시편의 생분해 특성과 물리적 변화 여부를 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "모사 환경에 노출되기 전과 후의 시험 결과값 간의 유의미한 차이를 통계적으로 분석하기 위하여 t-검정을 실시하였다. 1. 외형 시험은 모사 환경 노출 전과 후로 구분하여 수행하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "모사 환경 노출 전에는 멸균이 완료된 시편의 포장을 제거한 24주 후 (하) 24주 후 (하) 126 정지희·성연국·엄준호·이응태 뒤 육안으로 형상을 관찰하고, 실체현미경을 이용하여 시편의 외형을 확인할 수 있는 적절한 지점을 촬영하여 미세구조 및 기공의 형상을 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 시편을 모사 환경(37 ± 1oC 조건의 인공타액 또는 인산완충용액)에 24주간 노출시킨 후 회수하였으며, 표면에 잔류할 수 있는 미립자나 잔여 물질 제거를 위해 증류수로 부드럽고 꼼꼼하게 세척하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세척된 시편은 고정 질량에 이를 때까지 건조시키는데, 해당 건조 시간은 사전시험을 통해 시편이 고정 질량에 도달하는 시간으 로 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "건조가 완료된 시편은 육안으로 재차 형상을 확인하고, 노출 전과 동일한 방식으로 실체현미경을 이용하여 동일한 지점을 촬영하고 해당 지점의 미세구조 및 기공의 형상을 확인하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최종적으로 모사 환경 노출 전후의 미세구조와 기공 형상을 비교·분석한 결과, 타액 및 체액 모사 환경에 24주간 노출한 시편은 노출 이전과 비교하여 전체 외형 및 미세구조에서 뚜렷한 차이를 보이지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 시험은 식품의약품안전처의 「3D 프린터를 이용하여 제조되는 피부재생용 생분해성 지지체의 안전성 및 성능시험 가이드라인」을 참고하여 설계 및 수행되었다. 2. 치수 시험은 모사 환경 노출 전과 노출 후로 나누어 진행하였 으며, 각 단계에서는 동일한 절차에 따라 정밀한 비교가 가 능하도록 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "노출 전에는 멸균이 완료된 시편의 포장을 제거한 뒤, 마이크로미터를 이용하여 시편 중심부의 두께를 측정하고, 실체현미경을 통해 시편의 형상을 촬영하여 시편의 가로, 세로, 두께, 기공 크기, 그리고 선폭의 대표 지점을 선 정하여 해당 부위의 정밀 치수를 측정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 시편을 모사 환경(37 ± 1oC 조건의 인공타액 또는 인산완충용액)에 24주간 노출시킨 뒤 회수하였으며, 표면에 잔류할 수 있는 미립자나 잔여 물질 제거를 위해 증류수로 부드럽고 꼼꼼하게 세척하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세척된 시편은 고정 질량에 이를 때까지 건조 시키는데, 해당 건조 시간은 사전시험을 통해 고정 질량에 도달하는 시간으로 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "건조가 완료된 시편은 다시 마이크로미터로 중심부 두께를 측정한 뒤, 실체현미경을 통해 동일한 부위의 형상을 촬영하고, 가로·세로 치수, 두께, 기공 크기, 선폭 등을 동일한 방법으로 측정하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최종적으로 치수의 각 항목별 측정값의 평균을 산출하여 모사 환경 노출 전후의 변화를 비교·분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 통해 시편을 타액 및 체액 모사 환경에 24주간 노출한 후 치수 변화율을 확인한 결과 ±2% 이내의 변화율이 확인되었으며, 통계적으로 유의미한 차이는 나타나지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 시험은 식품의약품안전처의 「3D 프린터를 이용하여 제조되는 피부재생용 생분해성 지지체의 안전성 및 성능시험 가이드라인」, ISO 1923 Cellular plastics and rubbers- Determination of linear dimensions, ASTM F2450 Standard 모사 환경 구분 측정 위치 변화율(%) p 값 가로 1.00 세로 0.75 타액 모사 두께 0.44 p>0.05 기공 -0.71 선폭 0.24 가로 1.52 세로 1.53 체액 모사 두께 -0.19 p>0.05 기공 1.10 선폭 0.33 Guide for Assessing Microstructure of Polymeric Scaffolds for Use in Tissue Engineered Medical Products을 참고하여 설계 및 수행되었다. 3. 기공률 시험은 모사 환경 노출 전과 노출 후로 구분하여 수행하 였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "노출 전 단계에서는 멸균이 완료된 시편의 포장을 제거한 후, 시편을 Micro-CT 전용 지그의 회전축에 정밀하게 맞춰 고정하고 장비 내부에 장착하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 X-ray를 이용한 촬영을 수행하고, 획득된 이미지를 재구성하여 CT 데이터를 생성하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "생성된 CT 데이터를 바탕으로 시편의 다공성 구조를 분석하고 기공률을 도출하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세척된 시편은 고정 질량에 이를 때까지 건조시키 는데, 해당 건조 시간은 사전시험을 통해 고정 질량에 도달 하는 시간으로 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "건조가 완료된 시편은 노출 전과 동일하게 시편을 지그에 고정하고 Micro-CT 내부에 장착한 뒤, X-ray 촬영 및 이미지 재구성을 통해 CT 데이터를 획득하였고, 이를 기반으로 노출 전과 동일한 방식으로 기공률을 도출하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최종적으로 기공률 측정값의 평균을 산출하여 모사 환경 노출 전후의 변화를 비교·분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 시편을 타액 및 체액 모사 환경에 24주간 노출한 후 기공률의 변화율은 각각 2.09%와 -0.13%의 변화율이 확인되었으며, 두 모사 환경 모두 통계적으로 유의미한 차이는 나타나지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 시험은 ASTM F2450 Standard Guide for Assessing Microstructure of Polymeric Scaffolds for Use in Tissue 모사환경 구분 변화율(%) p 값 타액 모사 2.09 p>0.05 체액 모사 -0.13 p>0.05 3D 프린팅 기반 흡수성 치 모사환경 구분 변화율(%) p 값 타액 모사 -1.37 p<0.05 체액 모사 -1.00 p>0.05 Engineered Medical Products을 참고하여 설계 및 수행되었다. 4. 질량 시험은 모사 환경 노출 전과 노출 후로 구분하여 수행하였 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "노출 전에는 멸균이 완료된 시편의 포장을 제거한 후, 건조 된 시편의 초기 질량을 정밀 분석저울로 측정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 시 편을 모사 환경(37 ± 1oC 조건의 인공타액 또는 인산완충용액) 에 설정된 기간(2, 4, 8, 12, 16, 20, 24주)에 따라 노출시킨 후 회수하였으며, 표면에 잔류할 수 있는 미립자나 잔여 물질 제 거를 위해 증류수로 부드럽고 꼼꼼하게 세척하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세척된 시편은 고정 질량에 이를 때까지 건조시키는데, 해당 건조 시 간은 사전시험을 통해 고정 질량에 도달하는 시간으로 설정하 였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "건조가 완료된 시편은 노출 전과 동일한 분석저울을 이 용해 다시 질량을 측정하였으며, 측정이 완료된 시편은 다시 모사 환경에 재침적하지 않고, 단회 측정으로만 활용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최종적으로 질량 측정값의 평균을 산출하여 모사 환경 노출 전후의 변화를 비교·분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 시편을 모사 환경에 24주간 노출한 후 질량 변화율은 타액 모사 환경에서 -1.37%로, 통계적으로 유의미한 감소를 보였으며, 체액 모사 환경에서는 -1.00%로, 통계적으로 유의미한 차이가 나타나지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 시험은 식품의약품안전처의 「3D 프린터를 이용하여 제조되는 피부재생용 생분해성 지지체의 안전성 및 성능시험 가이드라인」, ISO 13781 Implants for surgery -- Homopolymers, copolymers and blends on poly(lactide) -- In vitro degradation testing, ASTM F1635 Standard Test Method for in vitro Degradation Testing of Hydrolytically Degradable Polymer Resins and Fabricated Forms for Surgical Implants을 참고하여 설계 및 수행되었다. 5. 분자량 시험은 모사 환경 노출 전과 노출 후로 구분하여 수행하 였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "노출 전에는 멸균이 완료된 시편의 포장을 제거한 후, 적절한 용매에 완전히 용해시켰다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 GPC를 통해 표준 물질의 검량선(Calibration curve)을 작성하고 용매에 용해시킨 시편을 GPC로 측정하여 표준물질 대비 시편의 상대 분자량을 측정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 시편을 모사 환경(37 ± 1oC 조건의 인공 타액 또는 인산완충용액)에 설정된 기간(2, 4, 8, 12, 16, 20, 24주)에 따라 노출시킨 후 회수하였으며, 표면에 잔류할 수 있는 미립자나 잔여 물질 제거를 위해 증류수로 부드럽고 꼼꼼하게 세척하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세척된 시편은 고정 질량에 이를 때 까지 건조시키는데, 해당 건조 시간은 사전시험을 통해 고정 치주조직 재생 유도재의 구강 모사 환경에서의 성능평가 체계 연구 127 모사환경 구분 변화율(%) p 값 타액 모사 -19.54 p<0.05 체액 모사 -11.18 p<0.05 질량에 도달하는 시간으로 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "건조가 완료된 시편은 동일한 용매에 용해시킨 후, 동일한 방법으로 검량선을 작성 하고 GPC를 통해 상대 분자량을 측정하였으며, 측정이 완료 된 시편은 다시 모사 환경에 재침적하지 않고, 단회 측정으 로만 활용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최종적으로 분자량 측정값의 평균을 산출하여 모사 환경 노출 전후의 변화를 비교·분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 24주간 모사 환경에 노출한 후, 시편의 분자량은 두 모사 환경에서 모두 감소하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "타액 모사 환경에서는 -19.54%의 변화율을 보여 감소 폭이 상대적으로 컸으며, 체액 모사 환경에서는 -11.18%의 감소가 관찰되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "두 모사 환경 모두 통계적으로 유의미한 차이가 나타났다. 118, US EPA 3640A을 참 고하여 설계 및 수행되었다. 6. 인장하중 시험은 모사 환경 노출 전과 노출 후로 구분하여 수행하 였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "노출 전에는 멸균이 완료된 시편의 포장을 제거한 후, 만능재료시험기의 그립 사이에 팽팽하게 고정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "상·하 그립 간 간격은 10 mm로 설정하였으며, 인장시험은 일정한 속도로 진행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "인장하중은 시편이 중앙 위치에서 파단 될 때의 최대 하중으로 정의하였으며, 그립 인접부에서 파단이 발생한 경우 해당 데이터는 폐기하고 동일 조건으로 재시험을 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 시편을 모사 환경(37±1oC 조건의 인공타액 또는 인산완충용액)에 설정된 기간(2, 4, 8, 12, 16, 20, 24주)에 따라 노출시킨 후 회수하였으며, 회수된 시편은 시험 직전 시편의 고정 예정 부위만을 종이 타월로 조심스럽게 닦아내어 물기를 제거한 후, 동일한 방식으로 즉시 시험을 수행하여 인장하중 값을 측정하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최종적으로 인장하중 측정값의 평균을 산출하여 모사 환경 노출 전후의 변화를 비교·분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 24주간 모사 환경에 노출한 후 시편의 인장하중은 두 모사 환경에서 모두 감소하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "타액 모사 환경에서는 -72.84%로 매우 큰 폭의 감소가 나타났으며, 체액 모사 환경에서도 -31.52%의 감소가 확인되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "두 모사 환경 모두 통계적으로 유의미한 차이를 128 정지희·성연국·엄준호·이응태 모사환경 구분 변화율(%) p 값 타액 모사 -72.84 p<0.05 체액 모사 -31.52 p<0.05 보였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 시험은 식품의약품안전처의 「3D 프린터를 이용하여 제조되는 피부재생용 생분해성 지지체의 안전성 및 성능시험 가이드라인」, ISO 527-1 Plastics -- Determination of tensile properties -- Part 1: General principles, ISO 527-3 Plastics - - Determination of tensile properties -- Part 3: Test conditions for films and sheets, ISO 13781 Implants for surgery -- Homopolymers, copolymers and blends on poly(lactide) -- In vitro degradation testing, ASTM D638 Standard Test Method for Tensile Properties of Plastics, ASTM D882 Standard Test Method for Tensile Properties of Thin Plastic Sheeting, USP 40 Absorbable Surgical Suture - Tensile strength을 참고하여 설계 및 수행되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "흡수성 치주조직 재생 유도재를 모사 환경에 24주간 노출 하여 시험을 수행한 결과, 외형에서는 뚜렷한 변화가 관찰 되지 않았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "치수와 기공률에서 모사 환경에 따른 미세한 증감이 확인되었으나, 이러한 수치상의 변화는 통계적으로 유의하지 않아 모사 환경에 따른 의미 있는 변화로 판단하 기는 어려웠다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "반면 질량에서는 체액 모사 환경에서 -1.00%의 감소로 통계적으로 유의미하지 않았으나, 타액 모사 환경에서는 -1.37%의 감소가 나타나 유의미한 차이를 보였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "분자량은 두 환경 모두에서 감소하였으며, 타액 모사 환경에서 -19.54%, 체액 모사 환경에서 -11.18%의 유의미한 변화가 확인되었 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히 인장하중에서는 가장 큰 감소가 나타나, 체액 모사 환경에서 -31.52%, 타액 모사 환경에서 -72.84%로 현저한 감소폭이 확인되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 결과는 모사 환경에서의 성능 저하가 외형적 변화 보다는 분자량 감소에 따른 기계적 강도(인장하중) 저하와 밀접하게 연관되어 있음을 보여준다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "즉, 장기간 체내 환경에 노출될 경우 구조적 변화보다는 분자량 감소와 이에 따른 기계적 특성의 저하가 주요한 성능 변화로 작용할 수 있음을 시사한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 본 연구는 흡수성 치주조직 재생 유도재의 설계 및 성능평가 과정에서 이식 후의 분자량과 기계적 강도 변화 여부를 고려할 필요성을 제시하며, 생분해성 이식 의료기기의 장기적인 임상적 성능 확보를 위한 연구개발에 기여할 수 있을 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "IV. 결 론 본 연구에서는 생분해성 합성 고분자 이식형 의료기기의 성능이 이식 부위 및 사용 목적에 따라 달라지고, 이식 후 원재료의 물성 변화가 의료기기 성능에 영향을 미칠 수 있 다는 점을 바탕으로, 성능 확보를 위해 인체 이식 환경을 모사한 조건에서 성능평가를 위한 시험 항목 및 시험방법을 개발하고자 하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 위해 3D 프린팅 기술을 활용하여 제작된 흡수성 치 주조직 재생 유도재에 대해 실제 이식 환경을 반영한 성능 평가 방법을 마련하고자, 이에 적합한 평가 항목 및 시험 방법을 체계적으로 제시하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히, 인체 이식 환경을 모사한 조건에 장기적으로 노출시켜 주차별 성능평가를 수행하였고 구강 내 실제 사용 환경을 반영하기 위해 인공타액 및 인산 완충용액을 포함한 모사 환경을 설정함으로써, 실제 이식 환경과 유사한 평가 체계를 구축하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "제안된 시험 항목은 외형, 치수, 기공률과 같은 물리적 특성뿐만 아니라, 질량, 분자량, 인장하중과 같은 생분해 특성을 확인 할 수 있는 항목까지 포함하여 노출 시간 경과에 따른 흡수성 치주조직 재생 유도재의 성능 변화를 다각도로 평가할 수 있도록 구성되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한, 통계적 분석을 통해 모사 환경 노출 전·후의 유의미한 차이를 검증할 수 있도록 하여 시험 결과의 신뢰 성을 높였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "모사 환경의 조건, 시편의 세척 및 건조 절차, 성능평가 측정 주기 등 모든 실험 조건은 타당성과 재현성을 고려하여 구축되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 바탕으로, 본 연구에서 제시한 평가 방법은 향후 유사한 생분해성 고분자 기반 이식형 의료기기의 성능평가에 적용 가능하며, 제품 개발 단계에서의 성능 검증 및 품질관 리를 위해 활용될 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히, 실제 사용 환경을 반영한 인체 모사 시험 조건의 설정은 생분해성 소재의 성능 변화 양상을 정확히 이해하고 예측하는 데 중요한 기반이 되며, 이를 통해 생분해성 이식형 의료기기의 품질관리 체계 고도화와 성능평가의 신뢰성 확보에 기여할 수 있을 것으로 기대된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 2022년도 식품의약품안전처의 연구개발비(22201 미래기2로 수행되었으며 이에 감사드립니다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

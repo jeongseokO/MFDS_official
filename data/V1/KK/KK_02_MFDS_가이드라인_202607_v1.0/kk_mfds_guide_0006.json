@@ -1,0 +1,2458 @@
+{
+  "document_id": "kk_mfds_guide_0006",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "(안내서-0286-05)임상시험용 한약(생약)제제의 품질 가이드라인(민원인 안내서).pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "4. 용어 정의",
+      "path": null,
+      "ko_txt": "부록 1. 임상 단계별로 요구되는 품질자료 요약표 부록 2. 초기 임상 또는 공중보건 위기대응 치료제 및 신속심사대 상 의약품 임상 품질자료의 한글요약문 기재방법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "이 가이드라인은 임상시험계획승인(Investigational New Drug Application) 신청 시 제출하는 임상약리시험, 치료적 탐색 임상시험 및 치료적 확증 임상시험에 사 용되는 ‘임상시험용 한약(생약)제제’의 제조 및 품질에 관한 자료에 대한 권고 사항을 제공하며, 화학의약품 및 생물학적제제에는 적용하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "이 가이드라인의 적용범위는 임상시험용 한약(생약)제제의 원료의약품인 한약 (생약) 및 추출물과 임상시험용 한약(생약)제제이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "한약(생약)은 특성상 기원, 생육환경, 산지(야생 또는 재배 포함), 채집시기 등에 따라 구성 성분의 조성 및 함량 변동이 있을 수 있어 품질관리에 있어 화학의약품과는 상당한 차이가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "한약(생약)제제의 변동성을 조절하고 품질 일관성 확보를 위해서는 약효와 관련 된 활성성분들을 하나의 통합적 단위로 보고 그 구성성분의 조성과 함량을 일관 되게 일정 범위로 관리하는 것이 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "한약(생약)제제의 품질은 추출물의 구 성성분의 종류 및 함량, 수율과 직접적 관련이 있는 제조공정에 영향을 받으므로 한약(생약) 및 추출물의 구성성분과 조성 및 함량 변동을 최소화할 수 있는 통합 적 품질관리가 이루어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "이러한 특성은 임상시험용 한약(생약)제제에도 동일하게 적용되므로 임상약리시험 단계에서부터 치료적 확증 임상시험 단계에 이르기까지 일관된 품질유지가 안전성·유효성 확보의 근간이 된다고 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "식품의약품안전처는 임상시험용 한약(생약)제제 관련 제조 및 품질에 관한 자 료를 임상시험 대상자의 안전을 확보하고, 임상시험용 한약(생약)제제에 대해 충 분히 검토할 수 있도록 자세하게 기재할 것을 권장한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "이러한 제조 및 품질에 관한 정보가 임상시험용 한약(생약)제제와 시판될 제품 간의 상관관계를 확립하 고, 허가 신청 시 원료의약품 제조공정 개발, 완제의약품 개발의 자료로서 사용 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "임상시험 단계 별로 임상시험에 사용되는 한약(생약)제제의 확인, 순도, 함량 등을 확인할 수 있는 충분한 정보를 제출해야 하지만, 이러한 정보자료의 양은 임상 단계, 임상시험 기간, 투여 형태, 기타 정보의 양에 따라 달라질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "임상시험용 한약(생약)제제 관련 제조 및 품질에 관한 자료의 변경내용에 따라 임상시험계획 변경승인을 받거나 다음 단계의 임상시험계획승인 신청 시 또는 허가(New Drug Application) 신청 시 제출 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "의약품 개발 단계에서 다음의 변경 사항은 임상시험 대상자의 안전성 및 임상 시험용 한약(생약)제제의 품질에 영향을 줄 수 있는 사항으로서, 변경사항에 관한 자료 작성 시 이를 고려한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "▪ 원료의약품 제조공정 변경 ·제조 과정 변경(제조에 사용되는 시약· 기기·용매* 변경, 추출방법(온도, 시간 등) 및 수율 변경 등) * 원료의약품 추출 용매 변경은 새로운 품목에 해당함 ▪ 원료의약품 규격 변경 ▪ 원료의약품(무균) 및 임상시험용 한약(생약)제제의 멸균 방법 변경 ▪ 투여 경로 변경에 따른 임상시험용 한약(생약)제제 제형 변경 ▪ 임상시험용 의약품 조성 변경 ▪ 임상시험용 한약(생약)제제 제조공정 변경 및 이에 따른 품질 사항 변경 ▪ 임상시험용 한약(생약)제제 용기 및 포장 변경과 이에 따른 안정성 등 변경 다만, 다음의 사항은 임상시험 대상자의 안전성 및 임상시험용의약품의 품질에 영향을 주지 않는 사항으로, 변경승인 신청 대상에서 제외할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "1. 서론",
+      "path": null,
+      "ko_txt": "▪ 사용기간 변경이 없는 안정성시험결과 업데이트 ▪ 임상시험 승인 시의 시정사항을 반영하기 위한 변경 ▪ 배치 정보 업데이트 ▪ 단순 오기 정정 ▪ 제조 ‧ 품질관리의 실제 변경 없는 문구 수정 이 가이드라인은 「한약(생약)제제 국제공통기술문서 작성 가이드라인-품질분 야」(Common Technical Document, 이하 CTD)를 참고하여 제출자료 목록을 작성 하여 민원인 및 평가자의 편의를 도모하고자 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "2.1. 임상약리시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "임상시험용 한약(생약)제제의 제조방법과 제형은 연구가 진행됨에 따라 변경될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "2.1. 임상약리시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "임상약리시험 단계에서는 임상시험 대상자의 안전성을 평가할 수 있는 임상시험용 한약(생약)제제의 품질 정보를 제공하는 것이 무엇보다 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "2.1. 임상약리시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "임 상약리시험에서 안전성 문제가 발생하거나 제공한 정보가 안전성을 평가하기에 부족할 경우에는 품질에 관한 자료에 근거하여 임상시험을 보류할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "2.1. 임상약리시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "문제 를 일으킬 수 있는 원인으로는 (1) 독성이 높거나 독성 우려가 있는 물질을 함유 한 경우, (2) 임상시험 기간 동안 화학적으로 안정한 상태를 유지할 수 없는 경 우, (3) 건강상 위해를 일으킬 수 있는 불순물 또는 위해를 평가하기 힘든 불순물 을 함유한 경우 등이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "2.1. 임상약리시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "비임상시험을 이용해 임상시험의 안전성을 보장하려면, 원칙적으로 임상시험용 한약(생약)제제와 동물시험에 사용한 의약품은 동등한 품질을 유지하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "2.1. 임상약리시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "만약 비임상시험에 사용된 의약품과 임상시험용 한약(생약)제제 사이에 화학적 또 는 제조상의 차이가 존재하는 경우 그 차이를 명확히 설명해야 하며, 또한 이러한 차이가 의약품의 유효성 및 안전성에 어떠한 영향을 미치는지 설명해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "2.1. 임상약리시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "초기 임상 또는 공중보건 위기대응 치료제(예: COVID-19 치료제) 및 신속심사 대상 의약품 개발을 위한 임상시험용 한약(생약)제제의 임상시험계획 승인 신청 시 영문 임상시험용의약품 품질문서(IMPD)를 제출하는 경우, 의약품 임상시험계 획 승인에 관한 규정 제3조제4항에 따른 한글 요약문은 해당 자료의 위치를 명 시하는 것으로 갈음할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "2.1. 임상약리시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "기재 방법은 부록 2를 참고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "한약(생약)제제의 원료의약품에는 한약(생약) 또는 추출물이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "이들은 화학 의약품과 달리 규격의 적합성만으로 물리․화학적 특성이 확인된 것으로 보기 어 렵기 때문에 출발물질에 대한 정보(기원, 성상 등)가 명확하게 제시되어야 하고, 추출물의 경우에는 한약(생약)에 대한 정보와 함께 수율, 한약(생약)과의 제조로 트 간 일관성 등에 대한 정보가 제시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "추출물의 경우 성분프로파일에 대한 정보 제시가 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "임상시험계획승인을 뒷받침하기 위한 품질에 관한 정보를 제공하기 위해 등록 된 원료의약품의 정보와 이미 승인된 임상시험계획 등을 인용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.1. 일반정보 (General Information) S.1.1. 명칭 (Nomenclature) 한약(생약)의 경우 한약(생약)명, 기원 동·식물의 학명(속, 종, 변종, 명명자 등), 사용 부위, 동명(약전 등의 이명), 회사 코드 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "추출물의 경우, 한약(생약)명 다음에 추출용매, 물리적 형태(연조, 건조 등), 수 득률(한약(생약) 대비 추출물의 비율)을 병기한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.1.2. 구조 (Structure) 원료의약품에 대한 물리적 형태, 지표성분 또는 유효성분(활성성분) 등에 대하 여 정의하고, 이들의 화학명, 구조식, 분자식, 분자량을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "한약(생약)의 경우 명칭, 학명, 사용부위, 정의 및 특성, 생산, 수집 및 가공, 활성 성분 또는 지표성분 등에 대한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "추출물의 경우 명칭, 정의(수율, 추출용매 포함), 제조방법, 활성성분 또는 지표성 분 등에 대한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.1.3. 일반적 특성 (General Properties) 한약(생약), 또는 추출물의 물리·화학적 특성 및 기타 중요한 특징에 대해 기 술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "추출물의 경우 성분프로파일에 대한 정보 제시가 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.2. 제조(Manufacture) S.2.1. 제조원 (Manufacturer(s)) 원료의약품 제조원(수탁업소 포함)의 명칭과 주소를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "원료의약품 제조 원이 2곳 이상인 경우, 각각 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "2.1.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.2.2. 제조공정 및 공정관리 (Description of Manufacturing Process and Process Controls) 원료의약품이 추출물인 경우 원료한약(생약)에 대한 정보(생산지, 가공 등), 원 료한약(생약)에서부터 추출물 제조 전 공정에 대한 요약 및 흐름도(추출용매, 추 출조건, 수득률 등), 물리적 형태(유동, 건조, 연조), 배치크기 등에 대하여 기술한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "지 않는 것을 원칙으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.3. 특성 (Characterisation) S.3.1. 구조 및 기타 특성 (Elucidation of Structure and other Characteristics) 한약(생약)의 경우, 외형 및 미세 구조, 물리·화학적 특성, 유전학적 분석, 생 리활성 등에 대한 정보를 기재하고, 사진이나 크로마토그래피 특성 등의 첨부· 기술이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "추출물의 경우, 물리화학적 특성, 유효성분, 생리활성 등에 대 한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "크로마토그래피 특성에 근거한 물리화학적 분석은 추출물의 정의에 있어서 특히 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.3.2. 순도 (Impurities) 한약(생약) 또는 제조공정에서 유래하는 이물, 중금속, 잔류농약, 잔류용매 등 에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.4. 원료의약품의 관리 (Control of Drug Substance) S.4.1. 기준 (Specification) 한약(생약)제제 개발 초기 단계인 임상약리시험에서는 확정된 규격이 요구되지 는 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "다만, 정의에 대한 사항, 즉 기원 한약(생약)과 각 한약(생약) 및 추출 물의 지표성분 또는 유효성분에 대한 기준은 치료적 확증 시험 종료 시까지 변 경하지 않는 것을 원칙하며 한약(생약)은 기원식물, 채집시기, 산지, 재배기후 등 에 따라 유효성분(지표성분)의 변화가 있을 수 있으므로, 공정서 규격인 경우라도 기원종이 다양한 경우에는 임상시험에서 사용한 종을 특정하여 관리하는 것이 바람직하며, 유효성분(지표성분)의 함량기준은 가능한 범위 값으로 설정하는 것을 권고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "원료의약품의 확인, 함량, 순도를 확보(보장)하기 위해 사용되는 규격을 간략히 설명하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "추출물 원료의약품의 경우 한약(생약)의 규격을 함께 기재한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "순도는 안전성을 고려하여 기준을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.4.2. 시험방법 (Analytical Procedures) 원료의약품에 사용된 분석방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.4.3. 시험방법 밸리데이션 (Validation of Analytical Procedures) 일반적으로 의약품 개발 초기 단계에서는 밸리데이션 자료가 요구되지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.4.4. 배치 분석 (Batch Analyses) 생산된 원료의약품 중 대표적인 배치에 대한 정보(배치번호, 제조 크기, 제조 일, 제조장소, 용도) 및 배치 분석 결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "배치 분석은 시험성적서나 배치 분석 결과를 표로 정리하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.5. 표준품 또는 표준물질 (Reference Standard or Materials) 해당될 경우, 원료의약품 시험에 사용되는 표준품 또는 표준물질에 대해 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.6. 표준품 또는 표준물질에 기재한 경우는 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.6. 용기 및 포장 (Container Closure System) 원료의약품을 보관하는데 사용되는 1차 포장재에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.7. 안정성 (Stability) 개발단계에서 입수된 안정성자료를 표로 요약한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "원료의약품의 안정성에 중 요한 영향을 미치는 물리화학적 특성(광과민성, 흡습성 등)을 기재할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "2.1.2. 임상시험용 한약(생약)제제 (INVESTIGATIONAL HERBAL MEDICINAL PRODUCTS) P.1. 임상시험용 한약(생약)제제의 개요와 조성 (Description and Composition of the Investigational Herbal Medicinal Products) 원료약품 및 그 분량을 작성하며, 주성분 및 첨가제의 명칭과 규격을 기재한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "｢한약(생약)제제 등의 품목허가･신고에 관한 규정｣ 제12조(원료약품 및 그 분 량)에 따라 각 성분마다 배합목적, 성분명, 규격, 분량을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.2. 개발 경위 (Pharmaceutical Development) 첨가제 사용 근거를 포함하여 제제 개발사유에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.3. 제조(Manufacture) P.3.1. 제조원 (Manufacturer(s)) 임상시험용 한약(생약)제제 제조원의 명칭 (수탁업소 포함) 및 주소를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.3.2. 배치 조성 및 P.3.3. 제조공정 및 공정관리 개요 (Batch Formula, Description of Manufacturing Process and Process Controls) 제제에 나타나지 않을 수 있더라도 제조공정에 사용된 모든 성분과 각 성분들 의 목록을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "「한약(생약)제제 등의 품목허가·신고에 관한 규정」 제14 조(제조방법) 및 의약품제제의 제조방법 기재요령(「의약품의 품목허가·신고· 심사 규정」 [별표 8의3])에 따라 제조방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.4. 첨가제의 관리(Control of Excipients) 첨가제의 제조(필요한 경우)와 품질관리정보, 참고정보(기허가사항 여부)에 대 해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "대한민국약전 및 공정서에 수재된 첨가제의 규격은 해당 공정서명 을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "공정서에 기재된 것 이외에 추가 시험항목을 설정할 수 있으며, 동 내용에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "대한민국약전 및 공정서 규격이 아닌 첨가제의 경우 별 첨규격으로 작성하며, 기준과 시험방법을 포함하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "별첨규격인 경우 해당 규격에 따른 시험성적서를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "다만, 공정서 규격의 물질로 구성된 첨가제 혼합물(예: 필름코팅기제)으로서 별첨규격인 경우, 시험성적서 미제출이 인정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "국내 사용례가 없는 첨가제의 경우, 첨가제에 대한 물리화학적 성질에 관한 자 료, 독성에 관한 자료, 배합목적 및 용도에 관한 자료, 안정성에 관한 자료(완제 품에 대한 시험자료도 가능)를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.5. 임상시험용 한약(생약)제제의 관리(Control of Investigational Herbal Medicinal Products) P.5.1. 기준 (Specification) 한약(생약)제제 개발 초기 단계인 임상약리시험에서는 확정된 규격이 요구되지 는 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "다만 의약품의 확인, 함량, 순도를 보장하기 위해 사용되는 규격을 간 략히 설명하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "제형의 특성을 고려하여 시험항목을 설정하고, 무균제 제의 경우 무균시험과 엔도톡신시험을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.5.2. 시험방법 (Analytical Procedures) 임상시험용 한약(생약)제제의 특성을 확인하기 위해 사용된 분석법의 개요를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.5.3. 시험방법의 밸리데이션 (Validation of Analytical Procedures) 일반적으로 의약품 개발 초기 단계에서는 밸리데이션 자료가 요구되지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.5.4. 배치 분석 (Batch Analyses) 생산된 임상시험용 한약(생약)제제 중 대표적인 배치에 대한 정보(배치번호, 제 조 크기, 제조일, 제조장소, 용도) 및 배치 분석 결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "시험성적서나 배치 분석 결과를 표로 정리하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.6. 표준품 또는 표준물질 (Reference Standard or Materials) 임상시험용 한약(생약)제제의 시험에 사용되는 표준품 또는 표준물질에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "S.5. 표준품 또는 표준물질에 기재한 경우는 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.7. 용기 및 포장 (Container Closure System) 1차 포장재에 대하여 간략하게 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "P.8. 안정성 (Stability) 안정성자료의 제출범위 ․ 로트 수 : 1 로트 이상 ․ 원칙적으로 장기보존시험 결과로 사용기한 설정 임상약리시험에 사용되는 임상시험용 한약(생약)제제의 안정성을 확인하기 위 해 사용한 안정성시험 기준과 시험방법, 결과를 간략히 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "사용기간 연장을 적용하여 사용기간을 설정하는 경우, 사용기간 연장(안), 안정 성시험 계획서 및 안정성시험 이행서약서를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "이행서약서에는 제출한 안 정성시험 계획서 및 사용기간 연장(안)에 따라 안정성시험을 실시할 것이며, 안정 성시험 중 기준일탈, 시험결과의 부정적인 경향성 등이 발생하면 사용기간 연장 은 이루어지지 않으며, 즉시 시정조치와 함께 식품의약품안전처에 해당 사항을 신속히 보고 할 것을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "안정성시험 계획서는 최대 사용기간을 포함하여 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "다. 주요 제조공정에 대한 사항은 치료적 확증 임상시험을 종료할 때까지 변경하",
+      "path": null,
+      "ko_txt": "근거가 있는 경우 임상시험용 한약(생약)제제의 적절한 브래케팅 및 매트릭스 설계가 허용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "2.2. 치료적 탐색 임상시험 (PHASE II)",
+      "path": null,
+      "ko_txt": "일반적으로 제품생산이 대규모로 이루어지는 치료적 탐색 임상시험 및 치료적 확증 임상시험 계획 승인을 위해서는 더 많은 품질 자료가 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "2.2. 치료적 탐색 임상시험 (PHASE II)",
+      "path": null,
+      "ko_txt": "한약(생약)제제는 한약(생약)의 기원, 생산지, 제조방법 등 품질에 관한 사항이 추출물 및 완제의 규격과 연동되는 통합적 단위의 규격관리를 요구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "2.2. 치료적 탐색 임상시험 (PHASE II)",
+      "path": null,
+      "ko_txt": "따라서 이러한 개념은 임상시험용 한약(생약)제제에도 동일하게 적용되어 안전성·유효 성 확보차원에서 임상약리시험에서부터 치료적 확증 시험 단계에 이르기까지 그 규격은 일관되게 관리되어야 할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "2.2. 치료적 탐색 임상시험 (PHASE II)",
+      "path": null,
+      "ko_txt": "초기 임상 또는 공중보건 위기대응 치료제(예: COVID-19 치료제) 및 신속심사 대상 의약품 개발을 위한 임상시험용 한약(생약)제제의 임상시험계획 승인 신청 시 영문 임상시험용의약품 품질문서(IMPD)를 제출하는 경우, 의약품 임상시험계 획 승인에 관한 규정 제3조제4항에 따른 한글 요약문은 해당 자료의 위치를 명 시하는 것으로 갈음할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "2.2. 치료적 탐색 임상시험 (PHASE II)",
+      "path": null,
+      "ko_txt": "기재 방법은 부록 2를 참고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "2.2.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "치료적 탐색 임상시험을 뒷받침하기 위해 제공되는 임상시험용 한약(생약)제제 관련 제조 및 품질에 관한 자료는 이 시험에 참여하는 환자의 안전성을 유지하 기 위해 임상약리시험을 위한 임상시험계획승인 단계에서 제출된 내용 중에서 변경 혹은 추가되는 정보를 포함하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "2.2.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "임상시험계획승인을 뒷받침하기 위한 품질에 관한 정보를 제공하기 위해 등록 된 원료의약품 정보, 이미 승인된 임상시험계획 등을 인용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "2.2.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.1. 일반정보 (General Information) S.1.1. 명칭 (Nomenclature) ․ 원료의약품의 명칭은 ｢한약(생약)제제 등의 품목허가･신고에 관한 규정｣ 제34조 (원료의약품의 기준 및 시험방법 작성요령) 및 ｢의약품 명명법 가이드라인｣을 참고 하여 기재하고 영문명은 국제적으로 공인된 명칭을 사용하고 약용부위를 병기한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "2.2.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "․ 한약(생약)의 경우 한약(생약)명, 기원 동·식물의 학명(속, 종, 변종, 명명자), 사용 부위, 동명(약전 등의 이명), 회사 코드 등을 기재하고, 전문가의 육안/현미 경 검사 같은 방법을 통해 평가하고, 표본과 대조하는 것이 좋으며, 유전자분석 (DNA 바코딩 등) 등으로 동·식물 기원종 확인을 권장한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "2.2.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "․ 멸종위기 동식물에 해당하는 지 확인한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "2.2.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "․ 추출하여 제조한 원료의약품의 경우 한약(생약) 원료의약품에 따르되, 한약(생 약)명 다음에 사용한 추출용매 및 물리적인 형태(유동, 연조, 건조 등)를 기재하 며 수득률을 병기한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "2.2.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.1.2. 구조 (Structure) 지표성분 또는 유효성분 선정의 타당성, 구조식, 분자식, 분자량에 대해 기술한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "대한 지표성분 또는 유효성분을 설정하는 것을 원칙으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "다만, 정량이 불 가능한 경우 타당한 근거자료를 첨부하여 설정하지 않을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "이 때 유효성 분의 함량기준은 가능한 범위 값으로 설정하는 것을 권고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "임상약리시험에서 제출되었던 자료의 추가 및 변경정보를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "S.1.3. 일반적 특성 (General Properties) 물리․화학적 특성 및 기타 중요한 특성에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "한약(생약)에 대한 외형 및 미세 구조, 물리·화학적 특성, 유효성분 및 생리활성에 대한 정보를 기 술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "추출물의 경우 성분프로파일에 대한 정보 제시가 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "임상약리시 험 단계에서 제출되었던 자료의 추가 및 변경정보를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "다. 하나 이상의 한약(생약)으로 구성된 원료의약품의 경우 각각의 한약(생약)에",
+      "path": null,
+      "ko_txt": "S.2 제조 (Manufacture) S.2.1. 제조원 (Manufacturer(s)) 제조원(수탁업소 포함)의 명칭, 주소를 기재하고, 한약(생약)에 대하여는 생산, 수집 및 시험과 관련된 사업소와 공급자 명칭, 주소 등을 기재하고, 추출물에 대 하여는 제조 및 시험과 관련된 제조원(수탁업소 포함) 명칭 및 주소 등을 기재한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "의 추가, 삭제 또는 변경)에 대해서 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "S.2.2. 제조공정 및 공정관리 (Description of Manufacturing Process and Process Controls) ․ 원료의약품의 제조과정에 대한 자료는 제조과정에 대한 간단한 흐름도를 작 성하고 물리적 형태 및 배치크기 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "흐름도에는 한약(생약) 으로부터 최종 원료의약품에 이르기까지 각 제조 단계에 따라 추출용매, 추출용매의 분량, 추출온도 및 시간, 여과조건, 농축방법 및 수득률 등을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "․ 1 개의 주성분(추출물)에 2 개 이상의 한약(생약)이 포함된 경우, 각각의 제조 공정을 거쳐 혼합하였는지, 한약(생약)을 혼합 후 제조공정을 거쳤는지 기술하고, 각각의 제조공정을 거쳐 혼합한 경우에는 각각의 공정을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "․ 한약(생약)의 가공공정(세척, 건조, 분쇄 등), 이물질 제거(흙, 벌레 등), 보존방 법, 운송방법 등에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "․ 임상약리시험에 사용된 원료의약품과 제조과정 변경이 있는 경우 품질에 크 게 영향을 미치는 변경사항을 중심으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "S.3. 특성 (Characterization) S.3.1. 구조 및 기타 특성 (Elucidation of Structure and other Characteristics) 한약(생약)의 경우, 외형 및 미세 구조, 물리·화학적 특성, 유전학적 분석, 생 리활성 등에 대한 정보를 기재하고, 사진이나 크로마토그래피 특성 등의 첨부· 기술이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "추출물의 경우, 물리화학적 특성, 유효성분, 생리활성 등에 대 한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "크로마토그래피 특성에 근거한 물리화학적 분석은 추출물의 정의에 있어서 특히 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "지표성분 또는 유효성분의 특성 및 화학구조 등에 대한 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "임 상약리시험에서 제출되지 않았던 추가 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "S.3.2. 순도 (Impurities) 중금속, 잔류용매, 잔류농약, 일반이물(제조공정으로부터 혼입, 잔류, 생성 또는 첨가될 수 있는 이물을 말한다), 증발잔류물, 기타 혼재물 등에 대한 정보를 기재 하되, 제조경험, 안정성자료, 안전성을 고려하여 각 기준을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "제조공정에 사용된 용매, 촉매 등의 한도시험을 미설정하는 경우 사유 및 근거 를 간략히 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "S.4. 원료의약품의 관리 (Control of Drug Substance) S.4.1. 기준 (Specification) 원료의약품에 대한 규격을 기재하고, 추출물의 경우에는 한약(생약)에 대한 규 격을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "확인, 순도, 함량을 포함하며 필요시 추가적인 기준을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "제2상 및 제3상 임상시험에 대한 추가 정보 선행 제1상 또는 제2상 임상시험에서 설정된 기준 및 허용 기준을 검토해야 하 며, 그리고 적절할 경우 현 개발 단계에 맞게 조정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "S.4.2. 시험방법 (Analytical Procedures) 원료의약품의 규격을 확인하기 위해 사용된 시험방법에 대해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "다. 임상약리시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원",
+      "path": null,
+      "ko_txt": "S.4.3. 시험방법 밸리데이션 (Validation of Analytical Procedures) 시험방법은 대한민국약전 및 공정서의 시험방법인 경우는 공정서명을 인용한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "분석법 밸리데이션 요약표를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "S.4.4. 배치 분석 (Batch Analyses) 생산된 원료의약품 중 대표적인 배치에 대한 정보(배치번호, 제조 크기, 제조 일, 제조장소, 용도) 및 배치 분석 결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "배치 분석은 시험성적서나 배치 분석 결과를 표로 정리하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "S.4.5. 기준 설정근거 (Justification of Specification) 기준 설정근거에 대하여 간략하게 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "S.5. 표준품 또는 표준물질 (Reference Standards or Materials) 해당될 경우, 원료의약품 시험에 사용되는 표준품 또는 표준물질에 대해 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.6. 표준품 또는 표준물질에 기재한 경우는 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "S.6. 용기 및 포장 (Container Closure System) 원료의약품을 보관하는데 사용되는 1차 포장재 구성성분에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "임상약리시험 단계에서 제출되었던 자료에 변경이 있는 경우, 그 변경사항에 대 해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "S.7. 안정성 (Stability) 개발단계에서 입수된 안정성자료를 표로 요약한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "원료의약품의 안정성에 중 요한 영향을 미치는 물리화학적 특성(광과민성, 흡습성 등)을 기재할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "2.2.2. 임상시험용 한약(생약)제제 (INVESTIGATIONAL HERBAL MEDICINAL PRODUCTS) P.1. 임상시험용 한약(생약)제제의 개요와 조성 (Description and Composition of the Investigational Herbal Medicinal Products) ｢한약(생약)제제 등의 품목허가･신고에 관한 규정｣ 제12조(원료약품 및 그 분 량)에 따라 각 원료마다 배합목적, 성분명, 규격, 분량을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "임상약리시험 단계에서 제출되었던 정보에 변경이 있는 경우에는 그 변경사항을 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.2. 개발 경위 (Pharmaceutical Development) 첨가제 사용 근거를 포함하여 제형개발사유에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "이전 임상시험에서 사용한 임상시험용 한약(생약)제제와 비교하여 조성, 제형, 제조공정 등의 변경이 있는 경우 변경 사유 및 품질에 미치는 영향을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.3. 제조 (Manufacture) P.3.1. 제조원 (Manufacturer(s)) 제조원의 명칭, 주소를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "임상약리시험 단계에서 명시한 내용에 변경 이 있는 경우, 그 변경사항(제조원의 추가, 삭제 또는 변경)에 대해서 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.3.2. 배치 조성 (Batch Formula) 치료적 탐색 임상시험에서 사용될 최종 제품 배치의 조성을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "배치 조 성은 제조과정에서 사용되는 제제의 모든 성분에 대하여 배치당 분량, 규격 (quality standard)을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.3.3. 제조공정 및 공정관리 (Description of Manufacturing Process and Process Controls) 제제에 나타나지 않을 수 있더라도 제조공정에 사용된 모든 성분과 각각의 양 을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "「한약(생약)제제 등의 품목허가·신고에 관한 규정」 제14조(제조 방법) 및 ｢의약품의 품목허가･신고･심사 규정｣ (식약처고시) 별표8의3 의약품제 제의 제조방법 기재요령에 따라 제조방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "임상약리시험 단계에서 명 시한 내용에 변경이 있는 경우, 그 변경사항(첨가제의 추가, 삭제 또는 변경포함) 에 대해서 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.4. 첨가제의 관리 (Control of Excipients) 첨가제의 제조(필요한 경우)와 품질관리정보, 참고정보(기허가사항 여부)에 대 해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "대한민국약전 및 공정서에 수재된 첨가제의 규격은 해당 공정서명 을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "공정서에 기재된 것 이외에 추가 시험항목을 설정할 수 있으며, 동 내용에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "대한민국약전 및 공정서 규격이 아닌 첨가제의 경우 별 첨규격으로 작성하며, 기준과 시험방법을 포함하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "별첨규격인 경우 해당 규격에 따른 시험성적서를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "다만, 공정서 규격의 물질로 구성된 첨가제 혼합물(예: 필름코팅기제)으로서 별첨규격인 경우, 시험성적서 미제출이 인정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "국내 사용례가 없는 새로운 첨가제의 경우, 첨가제에 대한 물리․화학적 성질에 관한 자료, 독성에 관한 자료, 배합목적 및 용도에 관한 자료, 안정성에 관한 자 료(완제품에 대한 시험자료도 가능)를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "동물유래성분을 사용하는 경우 기원동물, 사용부위, 외인성 물질에 대한 안전 성 평가자료 등을 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.5. 임상시험용 한약(생약)제제의 관리 (Control of the Investigational Herbal Medicinal Products) P.5.1. 기준 (Specifications) 물리․화학적 시험(예, 확인, 함량, 순도, 함량균일성, 용출, 입자도 등), 미생물학 적 시험(예, 미생물한도시험 등)이 제제의 특성에 따라 설정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "안전성 에 영향을 줄 수 있는 규격상의 변경이 있을 때에는 임상시험계획 변경승인을 통해 변경되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.5.2. 시험방법 (Analytical Procedures) 임상시험용 한약(생약)제제에 사용된 시험방법을 기술하되, 임상약리시험 단계 에서 설정한 시험방법에 대해 변화가 있을 때에는 그 변경된 사항을 중심으로 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.5.3. 시험방법 밸리데이션 (Validation of Analytical Procedures) 시험방법이 대한민국약전 및 공정서 시험방법인 경우에는 공정서명을 인용한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "분석법 밸리데이션 요약표를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.5.4. 배치 분석 (Batch Analyses) 생산된 임상시험용 한약(생약)제제 중 대표적인 배치에 대한 정보(배치번호, 제 조 크기, 제조일, 제조장소, 용도) 및 배치 분석 결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "시험성적서나 배치 분석 결과를 표로 정리하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.5.5. 순도 특성 (Characterization of Impurities) 중금속, 잔류용매 또는 최종제품에 잔류하는 불순물 등을 설정하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "제조공정, 안정성자료, 안전성기준을 근거로 순도 기준을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.5.6. 기준 설정근거 (Justification of Specification) 기준설정근거에 대하여 간략하게 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.6. 표준품 또는 표준물질 (Reference Standards or Materials) 임상시험용 한약(생약)제제의 시험에 사용되는 표준품 또는 표준물질에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "S.5 표준품 또는 표준물질에 기재한 경우는 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.7. 용기 및 포장 (Container Closure System) 임상시험용 한약(생약)제제를 보관하는데 사용되는 1차 포장재의 구성성분에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "임상약리시험 단계에서 제출되었던 자료에 변경이 있는 경우, 그 변경사항에 대해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "P.8. 안정성 (Stability) 안정성자료의 제출범위 ․ 로트 수 : 1 로트 이상 ․ 원칙적으로 장기보존시험 결과로 사용기한 설정 실시한 시험의 종류 그리고 시험결과를 요약하여 기재하고 임상시험용 한약(생 약)제제의 사용기한은 제출된 안정성시험자료를 근거로, 시험항목에 대하여 유의적 인 변화가 보이지 않는 경우, 안정성시험계획에 따라 사용기한을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "사용기간 연장을 적용하여 사용기간을 설정하는 경우, 사용기간 연장(안), 안정성 시험 계획서 및 안정성시험 이행서약서를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "이행서약서에는 제출한 안정성 시험 계획서 및 사용기간 연장(안)에 따라 안정성시험을 실시할 것이며, 안정성시험 중 기준일탈, 시험결과의 부정적인 경향성 등이 발생하면 사용기간 연장은 이루어 지지 않으며, 즉시 시정조치와 함께 식품의약품안전처에 해당 사항을 신속히 보고 할 것을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "안정성시험 계획서는 최대 사용기간을 포함하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "다. 식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우에는",
+      "path": null,
+      "ko_txt": "근거가 있는 경우 임상시험용 한약(생약)제제의 적절한 브래케팅 및 매트릭스 설계가 허용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "2.3. 치료적 확증 임상시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "일반적으로 제품생산이 대규모로 이루어지는 치료적 탐색 임상시험 및 치료적 확증 임상시험 계획 승인을 위해서는 더 많은 품질 자료가 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "2.3. 치료적 확증 임상시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "초기 임상 또는 공중보건 위기대응 치료제(예: COVID-19 치료제) 및 신속심사 대상 의약품 개발을 위한 임상시험용 한약(생약)제제의 임상시험계획 승인 신청 시 영문 임상시험용의약품 품질문서(IMPD)를 제출하는 경우, 의약품 임상시험계 획 승인에 관한 규정 제3조제4항에 따른 한글 요약문은 해당 자료의 위치를 명 시하는 것으로 갈음할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "2.3. 치료적 확증 임상시험 (PHASE I)",
+      "path": null,
+      "ko_txt": "기재 방법은 부록 2를 참고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.1. 일반정보 (General Information) S.1.1. 명칭 (Nomenclature) 치료적 탐색 임상시험의 원료의약품에 준하여 기재하고, 치료적 탐색 임상시험 에서 제출되었던 정보에 변경이 있는 경우 그 변경사항을 기재하고 근거자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.1.2. 구조 (Structure) 치료적 탐색 임상시험의 원료의약품에 준하여 기재하고, 치료적 탐색 임상시험 에서 제출되었던 정보에 변경이 있는 경우 그 변경사항을 기재하고 근거자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.1.3. 일반적 특성 (General Properties) 물리․화학적 특성 및 기타 중요한 특성에 대해 기재하고, 시험자료(밸리데이션 자료 등)를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "이 때 시험자료는 요약된 형태로 제출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "추출물의 경우 성분프로파일에 대한 정보 제시가 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "치료적 탐색 임상시험에서 제 출되었던 정보에 변경이 있는 경우 그 변경사항을 기재하고 근거자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.2. 제조 (Manufacture) S.2.1. 제조원 (Manufacturer(s)) 제조원의 명칭, 주소를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "치료적 탐색 임상시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항(제조원의 추가, 삭제 또는 변경)에 대해서 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.2.2. 제조공정 및 공정관리 (Description of Manufacturing Process and Process Controls) 원료의약품의 제조과정에 대한 자료는 제조과정에 대한 간단한 흐름도를 작성 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "흐름도에는 한약(생약)으로부터 최종 원료의약품까지 각 제조 단계에 따라 추출용매, 추출용매의 분량, 추출온도 및 시간, 여과조건, 농축방법, 물리적 형태 및 수득률 등을 상세하게 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "첨가제가 있는 경우 이에 대한 종류, 규격 및 분량을 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "주요 공정에서 중간체가 확인된 경우 중간체 규격을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "이전 임상시험과 원료의약품의 제조과정 변경이 있는 경우 품질에 크게 영향 을 미치는 변경사항을 중심으로 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.3. 특성 (Characterization) S.3.1. 구조 및 기타 특성 (Elucidation of Structure and other Characteristics) 한약(생약)의 경우, 외형 및 미세 구조, 물리·화학적 특성, 유전학적 분석, 생 리활성 등에 대한 정보를 기재하고, 사진이나 크로마토그래피 특성 등의 첨부· 기술이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "추출물의 경우, 물리화학적 특성, 유효성분, 생리활성 등에 대 한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "크로마토그래피 특성에 근거한 물리화학적 분석은 추출물의 정의에 있어서 특히 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "지표성분 또는 유효성분의 특성 및 화학구조 등에 대한 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "치 료적 탐색 임상시험에서 제출되지 않았던 추가 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.3.2. 순도 (Impurities) 중금속, 잔류농약, 잔류용매, 이물(제조공정으로부터 혼입, 잔류, 생성 또는 첨 가될 수 있는 이물을 말한다), 기타 혼재물(벤조피렌 등) 등에 대한 정보를 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "제조경험, 안정성자료, 안전성 등을 고려하여 기준을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "제조공정에 사용된 용매, 촉매 등의 한도시험을 미설정하는 경우 사유 및 근거 를 간략히 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.4. 원료의약품의 관리 (Control of Drug Substance) S.4.1. 기준 (Specification) 원료의약품에 관한 상세한 기준 및 시험방법(예, 함량, 확인, 중금속, 잔류용매, 잔류농약 등)을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.4.2. 시험방법 (Analytical Procedures) 시험방법에 대해 기재하고, 치료적 탐색 임상시험 단계에서 설정한 시험방법에 변경이 있을 경우 그 변경된 사항을 중심으로 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.4.3. 시험방법 밸리데이션 (Validation of Analytical Procedures) 시험방법이 대한민국약전 및 공정서 시험방법인 경우는 공정서명을 인용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우 분석법 밸리데이션을 수행하고 밸리데이션 자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "이 때 밸리데이션 자료는 요약된 형태로 제출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.4.4. 배치 분석 (Batch Analyses) 생산된 원료의약품 중 대표적인 배치에 대한 정보(배치번호, 제조 크기, 제조 일, 제조장소, 용도) 및 배치 분석 결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "배치 분석은 시험성적서나 배치 분석 결과를 표로 정리하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.4.5. 기준 설정근거 (Justification of Specification) 기준 설정근거에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.5. 표준품 또는 표준물질 (Reference Standards or Materials) 해당될 경우, 원료의약품 시험에 사용되는 표준품 또는 표준물질에 대해 기재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.6. 표준품 또는 표준물질에 기재한 경우는 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.6. 용기 및 포장 (Container Closure System) 원료의약품을 보관하는데 사용되는 1차 포장재에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "각 임상 단 계별로 변경이 있는 경우, 그 변경사항에 대해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.7. 안정성 (Stability) 개발단계에서 입수된 안정성자료를 표로 요약한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "원료의약품의 안정성에 중 요한 영향을 미치는 물리화학적 특성(광과민성, 흡습성 등)을 기재할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "2.3.2. 임상시험용 한약(생약)제제 (INVESTIGATIONAL HERBAL MEDICINAL.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "Composition of the Investigational Herbal Medicinal Products) ｢한약(생약)제제 등의 품목허가･신고에 관한 규정｣ 제12조(원료약품 및 그 분 량)에 따라 각 성분마다 배합목적, 성분명, 규격, 분량을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "치료적 탐색 임상시험 단계에서 제출되었던 정보에 변경이 있는 경우에는 그 변경사항을 제 출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.2. 개발 경위 (Pharmaceutical Development) 첨가제 사용 근거를 포함하여 제형개발사유에 대하여 간략하게 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "이전 임상시험에서 사용한 임상시험용 한약(생약)제제와 비교하여 조성, 제형, 제조공 정 등의 변경이 있는 경우 변경 사유 및 품질에 미치는 영향을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.3. 제조 (Manufacture) P.3.1. 제조원 (Manufacturer(s)) 치료적 탐색 임상시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항 (제조원의 추가, 삭제 또는 변경)에 대해서 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.3.2. 배치 조성 (Batch Formula) 치료적 확증 임상시험에서 사용될 임상시험용 한약(생약)제제의 최종제품 배치 조성을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.3.3. 제조공정 및 공정관리 (Description of Manufacturing Process and Process Controls) 제제에 나타나지 않을 수 있더라도 제조공정에 사용된 모든 성분들의 목록을 작성하고, 각각의 양을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "｢한약(생약)제제 등의 품목허가･신고에 관한 규 정｣(식약처고시) 제14조(제조방법) 및 ｢의약품의 품목허가･신고･심사 규정｣ (식약 처고시) 별표8의3 의약품제제의 제조방법 기재요령에 따라 제조방법을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "치료적 탐색 임상시험 단계에서 명시한 내용에 변경이 있는 경우, 그 변경사항 (첨가제의 추가, 삭제 또는 변경 등)에 대해서 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "품목허가 시 벤조피렌 저감화 공정 추가에 따라 제조방법이 변경되지 않도록 미리 벤조피렌의 안전성을 확인하여 관리할 것을 권고한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.4. 첨가제의 관리 (Control of Excipients) 첨가제의 제조(필요한 경우)와 품질관리정보, 참고정보(기허가사항 여부)에 대 해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "대한민국약전 및 공정서에 수재된 첨가제의 규격은 해당 공정서명 을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "공정서에 기재된 것 이외에 추가 시험항목을 설정할 수 있으며, 동 내용에 대하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "대한민국약전 및 공정서 규격이 아닌 첨가제의 경우 별 첨규격으로 작성하며, 기준과 시험방법을 포함하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "별첨규격인 경우 해당 규격에 따른 시험성적서를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "다만, 공정서 규격의 물질로 구성된 첨가제 혼합물(예: 필름코팅기제)으로서 별첨규격인 경우, 시험성적서 미제출이 인정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "국내 사용례가 없는 새로운 첨가제의 경우, 첨가제에 대한 물리․화학적 성질에 관한 자료, 독성에 관한 자료, 배합목적 및 용도에 관한 자료, 안정성에 관한 자 료(완제품에 대한 시험자료도 가능)를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "치료적 탐색 임상시험의 첨가제 관리에 준하여 작성하고 치료적 탐색 임상시 험에서 제출되었던 정보에 변경이 있는 경우 그 변경사항을 기재하고 근거자료 를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "동물유래성분을 사용하는 경우 기원동물, 사용부위, 외인성 물질에 대한 안전 성 평가자료 등을 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.5. 임상시험용 한약(생약)제제의 관리 (Control of the Investigational Herbal Medicinal Products) P.5.1. 기준 (Specifications) 임상시험용 한약(생약)제제의 모든 시험 항목에 대한 기준 및 시험방법이 기재 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "안전성에 영향을 줄 수 있는 규격 상의 변경이 있을 때에는 임상시 험계획 변경승인을 통해 변경되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.5.2. 시험방법 (Analytical Procedures) 시험방법을 기재하고, 치료적 탐색 임상시험에서 설정한 시험방법에 대해 변경 이 있을 때 최신 사항을 중심으로 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.5.3. 시험방법 밸리데이션 (Validation of Analytical Procedures) 시험방법이 대한민국약전 및 공정서 시험방법인 경우는 공정서명을 인용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "식품의약품안전처장이 인정하는 공정서 및 공인된 시험방법이 아닌 경우 분석법 밸리데이션을 수행하고 밸리데이션 자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "이 때 밸리데이션 자료는 요약된 형태로 제출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.5.4. 배치 분석 (Batch Analyses) 생산된 임상시험용 한약(생약)제제 중 대표적인 배치에 대한 정보(배치번호, 제 조 크기, 제조일, 제조장소, 용도) 및 배치 분석 결과를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "배치 분석은 시 험성적서나 배치 분석 결과를 표로 정리하여 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.5.5. 순도 특성 (Characterization of Impurities) 중금속, 잔류용매, 벤조피렌 등 최종 제품에 잔류할 수 있는 불순물에 대한 정 보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "치료적 탐색 임상시험의 P.5.5에 준하여 기재하고, 치료적 탐색 임상시험에서 제출되었던 정보에 변경이 있는 경우 그 변경사항을 기재하고 근 거자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.5.6. 기준 설정근거 (Justification of Specification) 기준 설정근거에 대하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.6. 표준품 또는 표준물질 (Reference Standards or Materials) 임상시험용 한약(생약)제제의 시험에 사용되는 표준품 또는 표준물질에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "S.5 표준품 또는 표준물질에 기재한 경우는 생략할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.7. 용기 및 포장 (Container Closure System) 임상시험용 한약(생약)제제를 보관하는데 사용되는 1차 포장재에 대하여 기술 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "각 임상 단계별로 변경이 있는 경우, 그 변경사항에 대해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "P.8. 안정성 (Stability) 안정성자료의 제출범위 ․ 로트 수 : 1 로트 이상 ․ 원칙적으로 장기보존시험 결과로 사용기한 설정 실시한 시험의 종류 그리고 시험결과를 요약하여 기재하고 임상시험용 한약(생 약)제제의 사용기한은 제출된 안정성시험자료를 근거로 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "시험항목에 대 하여 유의적인 변화가 보이지 않는 경우, 안정성시험계획에 따라 사용기한을 설 정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "사용기간 연장을 적용하여 사용기간을 설정하는 경우, 사용기간 연장(안), 안정성 시험 계획서 및 안정성시험 이행서약서를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "이행서약서에는 제출한 안정 성시험 계획서 및 사용기간 연장안에 따라 안정성시험을 실시할 것이며, 안정성시 험 중 기준일탈, 시험결과의 부정적인 경향성 등이 발생하면 사용기간 연장은 이 루어지지 않으며, 즉시 시정조치와 함께 식품의약품안전처에 해당 사항을 신속히 보고 할 것을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "안정성시험 계획서는 최대 사용기간을 포함하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품 (DRUG SUBSTANCE)",
+      "path": null,
+      "ko_txt": "근거가 있는 경우 임상시험용한약(생약)제제의 적절한 브래케팅 및 매트릭스 설계가 허용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "3.1. 위약 (Placebo)",
+      "path": null,
+      "ko_txt": "원료약품 및 그 분량, 규격, 시험성적서, 제조원의 주소, 제조공정을 제출하고, 임상시험 단계 별로 변경사항이 있을 경우 그 변경사항에 대해 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "3.1. 위약 (Placebo)",
+      "path": null,
+      "ko_txt": "주성분 이 존재하지 않는 것을 확인할 수 있도록 규격을 설정하고, 이를 확인할 수 있는 시험성적서 등을 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "3.1. 위약 (Placebo)",
+      "path": null,
+      "ko_txt": "가능한 한 위약은 임상시험용 한약(생약)제제에 사용 된 첨가제로 구성하도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "3.1. 위약 (Placebo)",
+      "path": null,
+      "ko_txt": "점안제와 같이 무균시험, 불용성이물 등 임상시험 대상자의 안전성 확보에 필 요한 항목을 포함하여 규격 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "3.1. 위약 (Placebo)",
+      "path": null,
+      "ko_txt": "위약의 사용기간은 임상시험 기간 동안 품질이 보장될 수 있도록 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "3.1. 위약 (Placebo)",
+      "path": null,
+      "ko_txt": "경 구용 고형제제(정제, 캡슐제 등) 등으로서 위약의 조성이 주성분을 제외한 첨가제 종류 및 분량이 유사한 경우 위약의 사용기간은 시험약 사용기간과 동일한 것으 로 간주하며, 위약의 사용기간을 시험약보다 길게 설정하는 경우 근거자료를 제 출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "3.1. 위약 (Placebo)",
+      "path": null,
+      "ko_txt": "또한, 위약에서 물리적 특성 변화 또는 분해가 있을 것으로 의심되는 경 우와 주사제, 점안제 등과 같이 임상시험 대상자의 안전성 확보에 필요한 항목 (예: 무균시험, 불용성이물)이 규격에 포함된 경우 안정성시험 자료가 요구될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "3.2. 대조약 (Comparator)",
+      "path": null,
+      "ko_txt": "임상시험에 사용되는 대조약에 대한 정보를 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "3.2. 대조약 (Comparator)",
+      "path": null,
+      "ko_txt": "이미 허가된 시판 완제 의약품과 동일한 경우, 추가적인 정보를 제출하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "3.2. 대조약 (Comparator)",
+      "path": null,
+      "ko_txt": "이미 허가된 시판 완제의약품을 눈가림 임상시험에서 대조약으로 사용하기 위 해 변경하거나 가공한 경우, 제품의 품질에 부정적인 영향을 미치지 않음을 보장 하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "3.2. 대조약 (Comparator)",
+      "path": null,
+      "ko_txt": "변경 대조약에 대한 개요와 조성, 개발 경위, 제조관련 사항, 기준 및 시험방법 등에 대한 사항을 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "3.2. 대조약 (Comparator)",
+      "path": null,
+      "ko_txt": "재포장 과정이 안정성에 영향을 미치지 않거나 더 안정한 상태로 보관되는 경 우에는 (예, 보관조건이 양호한 상태로 변경하는 경우, encapsulation 등) 새롭게 안정성시험을 수행하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "3.2. 대조약 (Comparator)",
+      "path": null,
+      "ko_txt": "다만, 재포장으로 인하여 안정성이 영향을 받는 경우에는 재포장 상태에서 실시한 안정성시험 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "4. 용어 정의 (Definitions)",
+      "path": null,
+      "ko_txt": "w 로트 : 동일한 제조공정 하에서 균질성을 갖도록 제조된 의약품의 일정한 분량 w 성분프로파일 : 생약이나 그 제품에 함유된 다양한 성분의 조성과 함량을 포괄적으로 보여주는 크로마토그래피 상의 패턴 w 유전학적 분석 : 염색체에 들어있는 유전자에 대한 검사로써 유전질환, 돌연변이 및 기원 종 확인 등에 활용되는 시험법으로 중합효소연쇄 반응(PCR) 혹은.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "4. 용어 정의 (Definitions)",
+      "path": null,
+      "ko_txt": "microarray) 및 DNA 핑거프린팅(DNA fingerprinting) 등이 대표적임 w 유효성분 : 내재된 약리작용에 의하여 그 의약품의 효능·효과를 직접 또는 간접적으로 발현한다고 기대되는 물질 또는 물질군(약리학적 활성성분 등이 밝혀지지 아니한 생약 등을 포함한다)으로서 주성분을 말함 w 원료의약품 : 합성, 발효, 추출 등 또는 이들 조합에 의하여 제조되는 물질로 서 완제의약품의 주성분 w 지표성분 : 한약(생약)제제에 함유된 물질로 품질관리를 위한 분석적 목적으로 사용되는 성분 또는 성분군 부록 1. 임상 단계별로 요구되는 품질자료 요약표(Summaries).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "4. 용어 정의 (Definitions)",
+      "path": null,
+      "ko_txt": "◌ ◌ S.4.3. 시험방법의 밸 × 밸리데이션 요약표 밸리데이션 요약표 리데이션 제출 생략 가능 제출 제출 S.4.4. 배치 분석 ◌ ◌ ◌ ◌ ◌ ◌ S.4.5. 기준 설정근거 간략 기재 간략 기재 간략 기재.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "4. 용어 정의 (Definitions)",
+      "path": null,
+      "ko_txt": "1차 포장재 기술 1차 포장재 기술 1차 포장재 기술 ◌ ◌ ◌ 개발단계에서 입수된 개발단계에서 입수된 개발단계에서 입수된 S.7. 안정성 안정성자료를 표로 안정성자료를 표로 안정성자료를 표로 요약 요약 요약 P. 임상시험용 한약(생약)제제 P.1. 임상시험용 한약 ◌ ◌ (생약)제제의 개요와 ◌ 추가 변경 사항 기재 추가 변경 사항 기재 조성 ◌ ◌ ◌ P.2. 개발 경위 조성, 제형, 제조공정 등 조성, 제형, 제조공정 등 간략하게 기재 변경 사유 기재 변경 사유 기재 P.3. 제조 P.3.1. 제조원 ◌ ◌ ◌ P.3.2. 배치조성 ◌ ◌ ◌.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "4. 용어 정의 (Definitions)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"P.3.3. 제조공정 및 공\", \"추출용매, 수율 등\", \"정관리\", \"기재\"], \"행\": [[]], \"각주\": [], \"raw_lines\": [\"◌\", \"P.3.3. 제조공정 및 공\", \"추출용매, 수율 등 ◌ ◌\", \"정관리\", \"기재\"], \"keep_ratio\": 1.0}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "4. 용어 정의 (Definitions)",
+      "path": null,
+      "ko_txt": "P.4. 첨가제관리 ◌ ◌ ◌ P.5. 임상시험용 한약(생약)제제의 관리 P.5.1. 기준 확인, 함량, 순도시험 확인, 순도시험,.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "4. 용어 정의 (Definitions)",
+      "path": null,
+      "ko_txt": "P.5.3. 시험방법 밸리 × ◌ ◌ 밸리데이션 요약표 밸리데이션 요약표 데이션 제출 생략 가능 제출 제출 P.5.4. 배치 분석 ◌ ◌ ◌ P.5.5. 순도 특성 ◌ ◌ ◌ P.5.6. 기준 설정근거 ◌ ◌ ◌ ◌ ◌ ◌ P.6. 표준품 또는 표준 원료의약품과 원료의약품과 원료의약품과 동일하면 물질 동일하면 생략 가능 동일하면 생략 가능 생략 가능 ◌ ◌ ◌ P.7. 용기 및 포장 1차 포장재에 1차 포장재에 1차 포장재에 대해 기재 대해 기재 대해 기재 P.8. 안정성 ○ ○ ◌ 부록 2. 초기 임상 또는 공중보건 위기대응 치료제 및 신속심 사대상 의약품 임상 품질자료의 한글요약문 기재 방안 초기 임상시험계획 또는 공중보건 위기대응 치료제(예: COVID-19 치료제) 및 신 속심사대상 의약품 개발을 위한 임상시험용 의약품의 임상시험계획 승인 신청 시 영문 임상시험용의약품 품질문서(IMPD)를 제출하는 경우 의약품 임상시험계 획 승인에 관한 규정 제3조제4항에 따른 원료의약품 및 임상시험용의약품 규격 의 한글 요약문은 아래와 같이 해당 자료의 위치를 명시하는 것으로 갈음할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "4. 용어 정의 (Definitions)",
+      "path": null,
+      "ko_txt": "⃝ 원료물질 규격 (한글요약문) ‘임상시험용의약품 품질문서(IMPD)’ 중 ‘2.S.4. 원료의약품관 리’와 관련된 부분의 목차* 기재 (영어원문) 품질문서 자료 중 해당 부분을 발췌하여 제출 (예시) ‘임상시험용의약품 품질문서(IMPD)’ 중 ‘2.S.4.1. 기준 및 2.S.4.2. 시험방법’에 따름 ⃝ 임상시험용의약품의 기준 및 시험방법 (한글요약문) ‘임상시험용의약품 품질문서(IMPD)’ 중 ‘2.P.5. 임상시험용 의약 품의 관리’와 관련된 부분의 목차* 기재 (영어원문) 품질문서 자료 중 해당 부분을 발췌하여 제출 (예시) ‘임상시험용의약품 품질문서(IMPD)’ 중 ‘P.5.1. 기준 및 P.5.2. 시험방법’에 따름 ⃝ 임상시험용의약품의 제조방법 (한글요약문) ‘임상시험용의약품 품질문서(IMPD)’ 중 ‘2.P.3. 제조’과 관련된 부분의 목차 기재. 필요 시 ‘2.S.2.1. 제조원’. ‘2.P.4.5. 사람 또 는 동물유래 첨가제’ 및 ‘2.P.7. 용기 및 포장’ 등 관련 부분 포함 (영어원문) 품질문서 자료 중 해당 부분을 발췌하여 제출 (예시) ‘임상시험용의약품 품질문서(IMPD)’ 중 ‘2.P.3.3. 제조공정 및 공정관리 개요’에 따름 *「의약품 임상시험 계획 승인에 관한 규정」 [별표 2] 임상시험용의약품 품질문서 작성방법 참고 임상시험용 한약(생약)제제의 품질 가이드라인(민원인 안내서) 발 행 일 2022년 7월 발 행 인 식품의약품안전평가원장 서 경 원 편집위원장 바이오생약심사부장 박 인 숙 편 집 위 원 (바이오생약심사부 생약제제과) 강인호, 박성환, 백옥진, 이재준, 이태웅, 김현미, 김난영, 이가영, 최은영, 전미나 발 행 처 식품의약품안전평가원 바이오생약심사부 생약제제과.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

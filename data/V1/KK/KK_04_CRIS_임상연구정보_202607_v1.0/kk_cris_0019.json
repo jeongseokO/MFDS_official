@@ -1,0 +1,289 @@
+{
+ "document_id": "kk_cris_0019",
+ "meta": {
+  "set": "KK",
+  "source_folder": "12",
+  "source_code": "cris",
+  "source_name": "국내 임상연구(CRIS)",
+  "orig_doc_id": "KCT0000020",
+  "category_l1": "임상연구정보",
+  "category_l2": "임상시험 등록정보",
+  "category_l3": "국내 임상연구(CRIS)",
+  "title_ko": null,
+  "title_en": null,
+  "source_doc": null,
+  "target_doc": null,
+  "doc_type": "CRIS",
+  "source_language": "ko",
+  "target_language": null,
+  "pub_date_ko": null,
+  "pub_date_en": null,
+  "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=1005",
+  "domain_tag": null,
+  "align_method": null,
+  "n_pairs": 29
+ },
+ "segments": [
+  {
+   "seg_id": 1,
+   "type": "sentence",
+   "section": "1. 연구개요_요약제목",
+   "path": null,
+   "ko_txt": "변이형 협심증에 대한 cilostazol 치료 효과 검증을 위한 전향적 연구",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 2,
+   "type": "sentence",
+   "section": "1. 연구개요_연구제목",
+   "path": null,
+   "ko_txt": "기존 약제에 반응이 없는 변이형 협심증에 대한 cilostazol 치료 효과 검증을 위한 다기관, 전향적 연구",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 3,
+   "type": "sentence",
+   "section": "2. 임상연구윤리심의_위원회명",
+   "path": null,
+   "ko_txt": "양산부산대학교병원 연구윤리심의위원회",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 4,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_성명",
+   "path": null,
+   "ko_txt": "김준홍",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 5,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_직위",
+   "path": null,
+   "ko_txt": "의사",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 6,
+   "type": "sentence",
+   "section": "3. 연구자_연구책임자_기관명",
+   "path": null,
+   "ko_txt": "양산부산대학교병원",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 7,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_성명",
+   "path": null,
+   "ko_txt": "송성국",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 8,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_직위",
+   "path": null,
+   "ko_txt": "의사",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 9,
+   "type": "sentence",
+   "section": "3. 연구자_연구실무담당자_기관명",
+   "path": null,
+   "ko_txt": "양산부산대학교병원",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 10,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_성명",
+   "path": null,
+   "ko_txt": "송성국",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 11,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_직위",
+   "path": null,
+   "ko_txt": "의사",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 12,
+   "type": "sentence",
+   "section": "3. 연구자_등록관리자_기관명",
+   "path": null,
+   "ko_txt": "양산부산대학교병원",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 13,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+   "path": null,
+   "ko_txt": "강릉아산병원",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 14,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+   "path": null,
+   "ko_txt": "인제대학교 해운대백병원",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 15,
+   "type": "sentence",
+   "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+   "path": null,
+   "ko_txt": "양산부산대학교병원",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 16,
+   "type": "sentence",
+   "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+   "path": null,
+   "ko_txt": "한국오츠카제약 (주)",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 17,
+   "type": "sentence",
+   "section": "6. 연구책임기관_1.연구책임기관_기관명",
+   "path": null,
+   "ko_txt": "양산부산대학교병원",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 18,
+   "type": "sentence",
+   "section": "7. 연구요약",
+   "path": null,
+   "ko_txt": "본 연구는 cilostazol 이 갖는 혈관 확장 및 내피 세포 기능 개선의 효과가 변이형 협심증에 실제 미치는 치료 효과를 규명함으로써 변이형 협심증에 대한 치료의 가능성을 보다 확대하고자 함이다",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 19,
+   "type": "sentence",
+   "section": "8. 연구설계_중재상세설명",
+   "path": null,
+   "ko_txt": "기존의 치료에 잘 반응하지 않는 변이형 협심증 환자에서 cilostazol 50-100 mg BID 용법을 일주일 동안 투여 한 후 이에 따른 임상 양상의 변화를 관찰",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 20,
+   "type": "sentence",
+   "section": "8. 연구설계_군_1.중재군_군명",
+   "path": null,
+   "ko_txt": "cilostazol group",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 21,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 포함기준_내용",
+   "path": null,
+   "ko_txt": "양산부산대학교병원,강릉아산병원,해운대백병원에 내원한 흉통환자 중에서 ① 피험자 동의서에 동의한 자 ② 만 20~80 세의 남녀 ③ 다음의 기준에 의해 Variant angina으로 진단되는 경우",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 22,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 포함기준_내용",
+   "path": null,
+   "ko_txt": "ⅰ. Resting anginal chest pain",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 23,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 포함기준_내용",
+   "path": null,
+   "ko_txt": "ⅱ. Documented coronary vasospasm : A~C 중 하나 A. CAG ( Reversible vasospasm ) : a or b a. Provocation Test (Use of intravenous Ergonovine) : positive b. Vasodilator Response Test ( Use of intracoronary Nitroglycerin) : reversibility of baseline vasospasm ( Resolved vasospasm of ≥50%) B. Echocardiogram a. Provocation Test (Use of intravenous Ergonovine) : positive C. Routine ECG or 24h ECG Holter monitoring a. Transient ST-T wave",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 24,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 포함기준_내용",
+   "path": null,
+   "ko_txt": "ⅲ. Exclusion of significant coronary arterial stenosis: A~D 중 하나 A. CAG : No Culprit lesion (< 50% luminal narrowing ) B. CT-Coronary Angio : No significant lesion (<50% stenosis ) C. TMT : Negative D. thalium SPECT : Normal uptake",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 25,
+   "type": "sentence",
+   "section": "9. 대상자선정기준_대상자 제외기준",
+   "path": null,
+   "ko_txt": "① 20 세 미만 이나 80세 이상의 환자 ② 연축이 발생하는 부위가 내강 협착이 50% 이상의 병변을 가지고 있는 mixed angina ③ Pletaal 사용의 금기증이 있는 환자 ④ 만성 심부전 환자 ( serum Cre > 2 mg/dL) 환자 ⑤ EF <40% 미만인 환자 ⑥ 혈관 연축 시 부위가 좌주관지이거나 이와 대등한 큰 영역의 허혈이 유발되는 경우 ⑦ 임산부",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 26,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+   "path": null,
+   "ko_txt": "흉통 지수",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 27,
+   "type": "sentence",
+   "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+   "path": null,
+   "ko_txt": "cilostazol 투여후 1주일 후",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 28,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+   "path": null,
+   "ko_txt": "부작용",
+   "en_txt": null,
+   "align_score": null
+  },
+  {
+   "seg_id": 29,
+   "type": "sentence",
+   "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+   "path": null,
+   "ko_txt": "cilostazol 투여후 1주일 후",
+   "en_txt": null,
+   "align_score": null
+  }
+ ]
+}

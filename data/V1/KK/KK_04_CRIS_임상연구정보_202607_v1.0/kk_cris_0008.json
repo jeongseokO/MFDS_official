@@ -1,0 +1,361 @@
+{
+  "document_id": "kk_cris_0008",
+  "meta": {
+    "set": "KK",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000008",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=3770",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": "수술적 및/또는 비수술적 치료를 받은 간세포암 환자를 대상으로 한 크레아박스-에치씨씨 임상2상 연구",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": "수술적 및/또는 비수술적 치료를 받은 간세포암 환자를 대상으로 대조군과 크레아박스-에치씨씨(자가유래 성숙화 수지상세포) 투여군의 유효성과 안전성을 비교하여평가하기 위한 공개, 무작위배정, 다기관 제2상 임상연구",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": "서울대학교병원 의학연구윤리심의위원회",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": "김윤준",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": "의사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": "서울대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": "허민규",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": "과장",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": "제이더블유크레아젠(주)",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": "허민규",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": "차장",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": "제이더블유크레아젠(주)",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": "서울대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": "삼성서울병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_4.참여기관_기관명",
+      "path": null,
+      "ko_txt": "경북대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_5.참여기관_기관명",
+      "path": null,
+      "ko_txt": "부산대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": "한국보건산업진흥원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": "제이더블유크레아젠(주)",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "간세포암 1차 치료 후, 재발방지 목적으로 대조군과 크레아박스-에치씨씨 투여군의 유효성과 안전성을 비교 평가하고자 하며 본 임상시험의 일차목적은 대조군과 크레아박스-에치씨씨 투여군의 무재발생존율(Recurrence free survival rate)을 비교하기 위함이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "투여 용량: 3x10^7 세포 / 주입 투여 기간: 2주 간격 4회 투여 후, 4주 간격 2회 투여로 총 6회 투여",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": "크레아박스-에치씨씨 투여군",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_상세내용",
+      "path": null,
+      "ko_txt": "투여 용량: 3x10^7 세포 / 주입 투여 기간: 2주 간격 4회 투여 후, 4주 간격 2회 투여로 총 6회 투여",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": "(1) 방사선학적(CT 또는MRI등) 검사로 modified UICC 병기 체체의 Stage I, II, III기로 진단된 환자 중, 등록 4개월 이내에 수술적 및/또는 비수술적(간동맥 화학색전술, 경피적 에탄올 주입법, 고주파열 치료술) 치료(2회 이내)를 통해 CR 단계로 치료된 간세포암 환자 (2) 만 20세 이상 남녀 (3) 활동도가 ECOG 기준 0-1인 환자 (4) 예상 생존 기간이 3개월 이상인 환자 (5) 혈액학적 검사수치 Hemoglobin ≥ 8.5g/dL, WBC ≥ 2,000/mm3, Platelet ≥ 50,000/ mm3 (6) 적절한 간기능을 가진 환자: Child Pugh score 7이하, 간효소치 ALT(Alanine transaminase), AST(aspartate aminotransferase) ≤ 5 x ULN (7) 적절한 신기능을 가진 환자: 크레아티닌 < 1.5mg/dL (8) 본 임상시험에 자의로 참여를 결정하고 환자동의서에 서명한 환자",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": "(1) 장기이식을 받은 환자 (2) 동반된 다른 악성 종양을 갖고 있거나 5년 이내의 악성종양 병력이 있는 환자 (3) 자가면역질환의 병력을 가졌거나 현재 면역치료를 통해 악화될 수 있는 면역결핍증 또는 자가 면역질환을 가지고 있는 환자 (4) 항생제 투여를 요하는 심각한 감염증 후 2주가 지나지 않은 환자 (5) HIV 에 양성인 환자 (6) 시험자의 판단으로 심각한 심폐기능 장애가 있는 자 (7) 정신질환의 과거력이나 간질이 있는 환자 (8) 과거 4주 이내에 다른 임상시험에 참가한 환자 (9) 임부, 수유부, 또는 임상기간 중 임신하려는 의도를 가진 여성 (10) 1차 치료 후, 4개월이 지난 환자와 재발성 간세포암 환자 <약물복용력/치료력> (1) 간세포암 치료목적으로 전신적 치료(Systemic Therapy)를 받은 환자 (2) cyclosporin A 나 Azathioprine 등의 면역억제약품을 등록전 3개월 이내에 투여받은 적이 있는 환자",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": "무재발생존율",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": "무작위배정 시점 2년 후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "재발율",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "무작위배정 시점 2년 후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "재발까지의 시간",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "무작위배정 시점 2년 후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "전체생존기간",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "무작위배정 시점 2년 후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "암항원특이적 세포성 면역반응 유도",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "무작위배정 시점 2년 후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_5.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "혈중 AFP 및 PIVKAII 의 농도변화",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_5.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "무작위배정 시점 2년 후",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "document_id": "kk_cochrane_0016",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000143.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000143.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "호흡기계를 통해 인공호흡을 받은 미숙아는 호흡 부전이 발생할 위험이 있으며, 이로 인해 재삽관이 필요할 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "이는 무호흡, 호흡성 산증, 또는 저산소증으로 인한 것일 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "역사적으로 미숙아는 호흡기계에서 제거된 후 헤드박스 산소나 저유량 비강 캐뉼라를 사용해 산소를 공급받았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "비침습적 양압을 통한 지원은 기도를 안정시키고, 폐 기능을 개선하며, 무호흡을 줄여 미숙아의 호흡기계 제거 성공률을 높이는 데 도움이 될 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "이는 1997년에 처음 발표되고 2003년에 마지막으로 업데이트된 리뷰의 업데이트이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "미숙아의 호흡기계 제거 직후 비강 지속적 기도 양압(nasal continuous positive airway pressure, NCPAP)이 호흡기계 제거 실패와 추가적인 호흡 지원 필요성을 줄이는지, 그리고 임상적으로 중요한 부작용 없이 이점이 있는지를 파악하는 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "2023년 9월 22일, 중앙 데이터베이스(CENTRAL), MEDLINE, Embase, 임상 시험 등록부를 사용하여 수정된 전략으로 검색을 실시하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "또한, 학회 초록과 포함된 연구 및 관련된 체계적 리뷰의 참고 문헌 목록을 확인하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "또한, 학회 초록과 포함된 연구 및 관련된 체계적 리뷰의 참고 문헌 목록을 확인하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "적합한 연구는 미숙아가 호흡기계에서 제거되는 중재에 대해 무작위 또는 준무작위 배정을 사용한 연구여야 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "적합한 비교 대상은 비강 지속적 기도 양압(NCPAP, 어떤 장치와 인터페이스를 사용하든)과 헤드박스 산소, 실내 공기, 또는 다른 형태의 저압 보조 산소였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "비교 대상은 '비지속적 기도 양압(no CPAP)'으로 분류하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "두 명의 리뷰 저자가 독립적으로 연구의 비뚤림 위험을 평가하고 데이터를 추출하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "연구들이 충분히 유사한 경우, 이항 자료에 대해 위험 비율(RR)과 95% 신뢰 구간(CI)을 계산하는 메타 분석을 수행하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "주요 결과에서 효과가 나타난 경우, 추가적인 유익한 결과를 얻기 위해 필요한 치료 인원(number needed to treat for an additional beneficial, NNTB)을 계산하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "주요 결과에 대한 근거의 확실성을 평가하기 위해 GRADE 방법을 사용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "이 업데이트된 리뷰에서 9개의 연구(726명의 미숙아)를 정량적 분석에 포함시켰다. 8개의 연구는 1982년에서 2005년 사이에 고소득 국가에서 진행되었으며, 1개의 연구는 당시 중상위 소득 국가로 분류되었던 칠레에서 진행되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "모든 연구는 대조군으로 헤드박스 산소를 사용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "연구의 비뚤림 위험은 일반적으로 낮았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "그러나 중재의 특성상 모든 연구에서 블라인딩을 적용하지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "따라서 신생아 중환자실 직원은 각 아기가 배정된 그룹을 알고 있었고, 이에 따라 모든 연구에서 실행 비뚤림이 높다고 판단하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "그러나 결과 평가자의 블라인딩(결과확인 비뚤림)에 대해서는 7개의 연구에서 객관적인 기준을 사용하여 주요 결과를 정의했기 때문에 낮은 위험으로 평가하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "비강 지속적 기도 양압(NCPAP)을 비지속적 기도 양압(no CPAP)과 비교했을 때, 호흡기계 제거 실패의 위험이 줄어들 수 있다(RR 0.62, 95% CI 0.51 ~ 0.76; 위험 차이(RD) −0.17, 95% CI −0.23 ~ −0.10; NNTB 6, 95% CI 4 to 10; I 2 = 55%; 9개 연구, 726명 아기; 낮은 확실성 근거).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "또한, 재삽관의 위험도 줄어들 수 있다(RR 0.79, 95% CI 0.64 ~ 0.98; RD −0.07, 95% CI −0.14 ~ −0.01; NNTB 15, 95% CI 8 to 100; I 2 = 65%; 9개 연구, 726명 아기; 매우 낮은 확실성 근거).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "그러나 재삽관에 대한 근거는 매우 불분명하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "비강 지속적 기도 양압이 기관지폐 이형성증에 미치는 영향은 거의 없을 수 있으나, 이 근거는 매우 확실하지 않다(RR 0.89, 95% CI 0.47 ~ 1.68; RD −0.03, 95% CI −0.22 ~ 0.15; 1개 연구, 92명 아기; 매우 낮은 확실성 근거).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "신경 발달 결과에 관한 연구는 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "비강 지속적 기도 양압(NCPAP)은 미숙아가 호흡기계에서 제거된 직후 적용할 경우 호흡기계 제거 실패를 예방하는 데 더 효과적일 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "그러나 재삽관이나 기관지폐 이형성증의 위험을 줄일 수 있는지에 대해서는 확실하지 않다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "장기적인 신경 발달 결과에 대한 정보는 없다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "비강 지속적 기도 양압의 효과에 대한 확실성은 낮지만, 이 중재는 표준 치료법이 되어 왔으며 추가 연구는 필요하지 않다고 판단된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "• 비강 지속적 기도 양압(비강 CPAP, 코를 통한 지속적인 공기 흐름)은 미숙아가 호흡기계에서 제거된 후 겪는 호흡 문제를 줄이는 데 도움이 될 수 있다. • 비강 지속적 기도 양압이 호흡기계로 돌아가는 위험이나 호흡기계가 유발할 수 있는 폐 손상의 위험을 줄이는지에 대해서는 불분명하다. • 이 주제에 대한 추가 연구는 필요하지 않다고 생각된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "지속적 기도 양압(CPAP)은 비침습적 환기 방식 중 하나로, 아기가 스스로 호흡을 하면서도 일정한 압력의 공기를 통해 기도와 폐를 열어 호흡을 용이하게 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비강 CPAP은 보통 코에 장착된 장비를 통해 제공된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "산소는 아기의 필요에 따라 긍정적인 압력과 함께 공급된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비강 CPAP은 미숙아에게 어떻게 도움이 될 수 있는가?",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "폐 질환이 있는 아기는 인공호흡기를 통해 호흡 지원을 받을 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "인공호흡기는 아기의 기도에 튜브를 삽입하여 정기적으로 폐를 확장시켜 아기의 호흡을 대신한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "그러나 인공호흡기는 아기의 생명을 구할 수 있지만, 아기의 폐에 해를 끼칠 수도 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "따라서 가능한 한 빨리 튜브를 제거하고 호흡기계에서 벗어나는 것이 중요하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "그러나 미숙아는 폐와 호흡 조절 메커니즘이 미성숙하여 스스로 호흡하는 데 어려움을 겪는다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이로 인해 다시 튜브를 삽입하여 호흡기계에 다시 연결될 위험이 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비강 CPAP을 사용하면 이러한 위험을 줄일 수 있을 것으로 예상된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비강 CPAP과 비CPAP(호흡기계 없이 산소를 공급하는 방법, 예: 헤드박스 산소) 간의 차이를 비교하고자 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "과거에는 헤드박스라는 투명한 플라스틱 후드를 사용해 아기의 머리를 둘러싸고 따뜻하고 습기 있는 산소를 공급했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "또한 낮은 압력의 산소를 공급하는 다른 방법들도 존재하는데, 예를 들어 얇은 튜브를 아기의 코에 삽입하는 방법이 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 연구에서는 비강 CPAP을 적용받은 미숙아들이 호흡기계에서 제거된 후 호흡 문제를 덜 겪고, 재삽관(호흡기계에 다시 연결되는 것)의 위험이 낮아지는지 확인하고자 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "또한, 비강 CPAP이 폐 손상의 위험을 줄이고 두 살 이상의 아기 뇌 발달에 도움이 되는지도 알고자 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "미숙아가 호흡기계에서 제거될 준비가 되어 비강 CPAP을 적용받거나 비CPAP을 적용받은 연구를 찾았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "연구들의 결과를 종합하여 근거에 대한 신뢰도를 평가했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "726명의 아기가 참여한 9개의 연구를 발견했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "그중 8개 연구는 고소득 국가(미국, 영국, 그리스, 일본, 호주)에서 진행되었고, 1개 연구는 칠레에서 진행되었으며, 당시 칠레는 중상위 소득 국가로 분류되었다. 7개의 연구는 2000년 이전에 실시되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "모든 연구는 비강 CPAP과 헤드박스 산소를 비교하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비강 CPAP을 적용받은 아기는 헤드박스 산소를 적용받은 아기보다 호흡 문제를 덜 겪고 재삽관이 필요할 확률이 낮을 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "그러나 재삽관에 관한 결과는 매우 불분명하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "비강 CPAP이 호흡기계로 인한 폐 손상을 줄이는지에 대해서는 확실하지 않으며, 두 살 이상의 아기 뇌 발달에 관한 연구는 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "근거에 대한 신뢰도는 낮다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "첫째, 일부 연구에서는 연구 결과에 오류를 일으킬 가능성이 있는 방법이 사용되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "연구자들은 아기가 비강 CPAP을 받는지 아닌지 알고 있었고, 이는 아기에게 제공되는 치료에 영향을 미쳤을 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "둘째, 연구들 간 결과에 일관성이 부족했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "마지막으로, 결과가 부정확하여 혜택이 크거나 작은지 알 수 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이 리뷰는 이전 리뷰의 업데이트다(2003).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "근거는 2023년 9월까지 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

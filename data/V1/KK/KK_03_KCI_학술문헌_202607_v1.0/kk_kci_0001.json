@@ -1,0 +1,919 @@
+{
+  "document_id": "kk_kci_0001",
+  "meta": {
+    "set": "KK",
+    "source_folder": "11",
+    "source_code": "kci",
+    "source_name": "국내 학술지 논문(KCI)",
+    "orig_doc_id": "1형당뇨병 예방 약물의 현재와 미래_ 테플리주맙과 면역조절약물.pdf",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 학술지 논문(KCI)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "한국임상약학회지 제34권 제4호 1형당뇨병 예방 약물의 현재와 미래: 테플리주맙 손희석1†·김수종1†·윤정현1,2* 1부산대학교 약학대학, 2부산대학교 신약개발연구소 The Present and Future of Type 1 Diabetes Teplizumab and Immunomodulators Heeseok Sohn1, Sujong Kim1, and Jeong-Hyun Yoon1,2* 1College of Pharmacy, Pusan National University, 2 Busandaehak-ro, 63beon-g 2Research Institute for Drug Development, Pusan National University, 2 Busand Type 1 diabetes (T1D) is a chronic autoimmune disease characterize Genetic variations within the major histocompatibility complex (M progression often indicated by the presence of autoantibodies.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Until in 2022, the Food and Drug Administration approved teplizumab, therapy to delay the onset of T1D.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Various immunologic agents, in been investigated across various stages of T1D in clinical trials.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Th prevention and treatment of T1D and summarizes key studies that ai to halt or prevent the disease prior to clinical diagnosis have yielded potential in slowing disease progression by preserving beta-cell func to the delay of T1D onset is necessary, and ongoing studies require e 1형당뇨병은 자가면역반응으로 인해 인슐린을 생산하는 췌장 의 베타세포가 손상되고 사멸하여 발생하는 질환이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "자가면 역 형성과정에 대해서는 완전히 밝혀지지는 않았으나, 유전적 소인과 함께 환경적 요인이 자가항체 생성의 원인으로 추정되고 있다 1형당뇨병은 소아청소년기에 주로 발병하며, 특이 자가 항체와 인슐린 분비를 측정하여 진단한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "전세계적으로 환자 수는 2021년 기준 840만여명으로 보고되었으며, 우리나라의 경 우 약 33,000명 정도로 추산되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "현재 1형당뇨병의 치료 Busan 46241, Republic of Korea any medium, provided the original work is properly c Korean College of Clinical Pharmacy 맙과 면역조절약물 Prevention: gil, Geumjeong-gu, Busan 46241, Republic of Korea daehak-ro, 63beon-gil, Geumjeong-gu, Busan 46241, Republic of Korea ed by the destruction of insulin-producing beta-cells in the pancreas.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "MHC) significantly influence the development of T1D, with disease recently, insulin therapy was the sole treatment for T1D.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "However, an anti-CD3 monoclonal antibody, as a novel immunomodulatory ncluding anti-CD antibodies and anti-cytokine autoantibodies, have his article examines the current status of drug development for the imed at delaying the onset of T1D using these agents.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "While efforts limited success, post-diagnosis interventions have shown promising ction.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Further investigation into long-term clinical outcomes related extended follow-up to assess their full potential.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "제는 유일하게 인슐린밖에 없는 실정이다. 2022년 11월, 미국식품의약국(Food and Drug Administration, FDA)에서는 1형당뇨병의 발병 지연을 위한 약물로 테플리주맙 (teplizumab)을 승인했다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Teplizumab은 항CD3 단일클론항체 로 면역체계를 조절하여 1형당뇨병의 발병 시기를 평균 2년 정 도 지연시키는 효과가 있다. 1형당뇨병의 예방과 치료에 대한 면역학적 접근은 1970년대 후반부터 제안되었으며, 사이클로스포린(cyclosporine)과 아자 ent, Pusan National University, 2 Busandaehak-ro, 63beon-gil, Geumjeong-gu, er, 2024 the terms of the Creative Commons Attribution Non-Commercial License ch permits unrestricted non-commercial use, distribution, and reproduction in cited.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "티오프린(azathioprine)을 시작으로 면역체계를 표적으로 하는 다양한 약물 개발이 지속적으로 진행되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 건선, 류 마티스 등 다른 자가면역질환들에 대한 병태생리적 발생기전에 대한 이해가 높아지면서 많은 면역학적 약물표적들이 제안되었 고, 이에 따라 이들 면역표적약물들을 1형당뇨병에 적용하기 위 한 연구도 함께 증가하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Teplizumab은 1형당뇨병을 예 방하는 최초의 면역조절제라는 점에서 큰 의미를 가지고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 고에서는 자가면역 발생에 대한 면역학적 기전과 약물표적들 을 살펴보고, 다양한 표적별로 1형당뇨병의 예방과 치료를 위한 최신 약물 개발 동향을 고찰해보고자 한다. 1형당뇨병의 발병기전과 주요 약물표적 1형당뇨병에서 자가항체의 생성 과정은 아직 명확하게 규명 되지는 않았지만, 주로 유전적 소인과 환경적 요인의 상호작용 에 의해 발생한다고 알려져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "유전적 요인으로는 인간 주조직 적합복합체(major histocompatibility complex, MHC)를 구성하 는 사람백혈구항원(human leukocyte antigen, HLA)과 밀접한 관 련이 있는 것으로 알려져 있다 40-50%의 가족성 1형당뇨병에 서 염색체 6p21의 HLA 영역이 그 원인으로 알려져 있는데, 특 히 MHC class II의 일부인 HLA-DR과 HLA-DQ의 유전형이 1형당뇨병의 발병과 강하게 연관되어 있다는 연구 결과가 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 외에도 cytotoxic T lymphocyte-associated protein 4 (CTLA, 1 interleukin 2 receptor alpha (IL-2RA), forkhead box P3 (FOXP 등의 유전형과의 관련성도 보고되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 바이러스 감 염이나 소포체(endoplasmic reticulum, ER) 스트레스, 독소 등과 같은 다양한 환경적 요인에 의해서도 자가항체가 생성될 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이렇게 유전적, 환경적 요인에 의해 베타세포가 손상되면, 베 타세포의 항원이 면역계에 노출되고, 항원제시세포(antigen presenting cell)가 항원을 처리한 다음 그 일부를 MHC를 통해 T세 포에 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 때, CD8 T세포는 직접적인 세포사멸작용 을 유도하고, CD4 T 세포는 B세포를 활성화하여 자가항체 생성 을 유도하고, IL-1 및 tumor necrosis factor-α (TNF-α)와 같은 사 이토카인을 분비함으로써 면역반응에 관여한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이로 인해 췌 장 베타세포의 손상이 누적되고 결국에는 인슐린의 분비가 불가 능해지게 된다 1형당뇨병에서 대표적으로 발견되는 자가항 체로는, islet cell antibody (ICA), insulin autoantibody (IAA), islet antibody-2 (IA-2)와 glutamic acid decarboxylase (GAD), zinc transporter 8 (ZnT에 대한 항체가 있으며, 이들은 모두 베 타세포의 구성요소를 항원으로 인식하여 생성된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이처럼 면역반응의 활성과 조절에 관여하는 여러 요소들이 1형당뇨병의 발생과 밀접한 상관관계가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서, 이러한 면역반응을 조절하는 것은 1형당뇨병의 진행을 예방하는 데 중 요한 역할을 하며 이와 관련된 다양한 약물들이 연구되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "T세포의 활성화에 관여하는 항CD3 항체인 teplizumab 과 오텔릭시주맙(otelixizumab), B7 (CD-80/8 경로를 차단하 s and drug targets of type 1 diabetes 는 아바타셉트(abatacept), B세포의 활성에 관여하는 항CD20 항체 리툭시맙(rituximab), 항CD40 항체 이스칼리맙(iscalimab) 등이 대표적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 직접적인 사이토카인 억제를 위해 IL-1 신호 전달을 차단하는 아나킨라(anakinra)와 카나키누맙(canakinumab), 항TNF-α 항체인 에타너셉트(etanercept)와 골리무맙 (golimumab), 항IL-6 항체 토실리주맙(tocilizumab), IL-8 길항 제 라다릭신(ladarixin), 그리고 항IL-12/23 항체 우스테키누맙 (ustekinumab) 등도 1형당뇨병의 예방과 치료에 잠재적인 가능 성을 기대하고 연구 중에 있다. 1형당뇨병의 진행과 예방 1형당뇨병은 자가면역에 의해 췌장의 베타세포가 파괴되어 베타세포의 기능이 서서히 감소하는 진행성 질환이다 1형당뇨 병은 자가면역의 획득 여부, 혈당대사장애 여부 및 당뇨병의 증 상 유무에 따라 크게 세 단계(stage)로 구분할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "자가면 역을 획득하여 2개 이상의 자가항체를 가지고 있으나 아직 혈당 이 정상이고 당뇨병의 증상이 없는 경우를 1기로 분류한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 후 점진적인 베타세포의 기능 감소로 인해 혈당이상이 관찰되지 만 아직 증상이 없는 경우를 2기로, 그리고 베타세포의 기능감 소로 인해 최종적으로 당뇨병의 증상이 발생하게 되면 3기로 분 류한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "결국 2개 이상의 자가항체를 가지고 있는 사람 거의 모두 1형당뇨병으로 진행하게 된다. 1형당뇨병의 예방은 1차, 2차, 3차예방으로 분류할 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "췌장의 베타세포에 대한 자가면역반응이 시작되기 전에 질병의 진행을 막는 것을 1차예방이라고 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이는 주로 유전적 소인이 나 환경적 요인을 가진 고위험군에서 자가면역 반응을 예방하는 전략이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "한편, 2차예방은 이미 자가면역 반응이 시작되어 췌장 의 베타세포에 대한 자가항체를 최소 2가지 이상 보유하고 있으 나 임상적으로 당뇨병의 증상이 발생하지 않은 단계, 즉 1형당뇨 병의 1기와 2기에서 베타세포를 보호하고 질병의 발현을 지연시 키는 것을 목표로 한다 3차예방은 임상적으로 1형당뇨병의 증 상이 발현한 후에 최대한 잔존하는 베타세포의 기능을 보존하여 내인성 인슐린 분비기능을 유지하고 외인성 인슐린의 요구량을 감소시키며, 합병증을 예방하는 것을 목적으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "현재까지 1형당뇨병의 1차, 2차 그리고 3차예방을 위한 약물 연구가 다수 수행되어 왔는데, 항원의 지속적 노출에 의한 탈감작, 면역기능 조절, 항염증 작용을 통한 베타세포의 기능 보존 등이 주된 예방 전략으로 연구되고 있다(Table 1, 2). 1차예방 1형당뇨병의 1차예방은 자가면역반응이 발생하는 것을 억제하 는 데 중점을 둔다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "카제인 또는 글루텐과 같은 식이 성분에 노출되 었을 때 자가항체 생성이 관찰됨을 근거로, 1형당뇨병 발생 위험 이 높은 영유아에게 식이 중재(dietary intervention)를 한 일부 연구 에서 통계적으로 유의미한 예방 효과를 보여주었으나,26, 2 추가 연 구에서는 동일한 효과를 관찰할 수 없었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최근에는 경구 및 비강 인슐린을 통한 항원요법에 대한 연구가 진행되고 있다. 2차예방 2차예방에서는 경구 및 비강 인슐린, 주사 인슐린, GAD 등 에 관한 항원요법 연구가 주로 이루어졌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "니코틴산아미 드(nicotinamide), 비타민D 등의 비타민요법과 히드록시클로로 퀸(hydroxychloroquine), abatacept 등의 면역요법에 대한 연구 가 수행되었으나, 이들은 대체적으로 유의미한 효과를 보여 주지는 못했다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그러나, teplizumab의 경우, 병원체나 바이러스 에 감염된 세포를 직접 공격하여 제거하는 효과기(effector) T세 포 활성화를 통한 면역조절 효과를 통해 성공적인 결과를 나타 냈다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "TrialNet teplizumab 연구에서, 1형당뇨병 관련 자가항체 가 두 가지 이상 발현된 지 6개월 이내이면서 혈당대사장애가 있 는 8~45세의 2기 환자 76명을 대상으로 teplizumab을 14일간 정맥투여한 결과, teplizumab 투여군에서 3기로의 진행이 위약 군에 비해 통계적으로 유의미하게 지연됨이 확인되었다(중간값 48.4개월 대 24,4개월; 위험비: 0.41, 95% 신뢰구간: 0.22-0.78, p=0.0. 이 연구 결과에 따라 teplizumab은 현재 2기에서 3기 로의 진행을 막기 위한 2차 예방요법으로, 8세 이상의 1형당뇨 병 고위험군에서 질환 발생을 지연시키는 최초의 약물로, 2022 년 11월 FDA로부터 승인을 받았다. 3차예방 과거 약 20년 전까지 1형당뇨병의 3차예방과 관련해서는 전 신면역억제제를 사용한 연구가 주로 이루어졌다. cyclosporine, azathioprine 등과 같은 약물에 대한 연구가 이루어졌고, 초기에 는 효과가 있다는 결과도 보고되었으나, 이어진 후속 연구 들에서는 유의미한 결과를 관찰할 수 없었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그러나 초반 에 수행된 항CD5 항체에 대한 연구는 이후 항CD계열 약물들이 1형당뇨병 발생을 예방할 가능성이 있음을 제시해 주었고, 관련 된 많은 연구가 이루어지는 발판을 마련하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "항원요법 항원요법은 자가면역 반응을 일으키는 특정 항원을 경구, 비 강, 또는 주사 등 여러 경로를 통해 체내에 반복적으로 노출시켜 탈감작을 유도함으로써, 췌장의 베타세포를 파괴하는 자가면역 반응을 억제하거나 면역을 조절하는 방법이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "법 연구로는 경구 인슐린, GAD, Diapep 277 등을 사용한 연구 들이 있으며, 대부분의 연구에서 베타세포 기능 보존에 대한 일 관성 있는 효과는 관찰되지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Teplizumab은 2차예방 목적 이외에도 1형당뇨병 발병 후 베 타세포 기능을 보존하기 위한 3차예방 목적으로도 여러 연구에 서 그 효과를 분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "소규모로 진행된 1상 및 2상 임상연구 에서는 1형당뇨병 진단을 받은 지 6주 미만인 7~30세 환자 42 명을 대상으로 teplizumab을 14일간 투여하고 1년 후에 베타세 포 기능을 나타내는 C-펩타이드 수치를 측정하여 이를 위약군 과 비교하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 약물치료군에서의 반응률이 97±9.6% 인 반면, 대조군에서의 반응률은 53±7.6%로, teplizumab 투여군 이 위약군에 비해 베타세포 기능 보존에 유의미하게 효과가 있 음이 확인되었고 2년간 베타세포의 기능 개선이 지속되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 진행된 2/3상 임상연구인 Protégé 연구에서는 일차평가지 표(인슐린 요구량 0.5 U/kg 미만이면서 당화혈색소 6.5% 미만) 를 만족하지 못하였는데, 이 기준이 다소 자의적으로 설정되었을 뿐만 아니라, 하나의 지표가 아닌 두 가지의 지표를 함께 사용하 여 그 개별 의미가 희석되었을 수 있다는 논란이 존재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그럼 에도 불구하고, 함께 수행된 C-peptide 곡선하면적(area under the curve, AUC)의 측정에서는 베타세포의 기능 보존 효과가 있 는 것으로 나타났으며, 특히 8~17세의 청소년 환자에서 명백한 효과가 관찰되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "마찬가지로 초기 발병 환자를 대상으로 한 2상 임상연구 ITN AbATE와 3상 임상연구 PROTECT에서도 C-peptide AUC 감소가 위약군에 비해 적게 나타났으며, 발 병 후 4-12개월이 지난 환자를 대상으로 한 DELAY 연구에서도 위약군에서 C-peptide가 평균 0.46 nmol/L 감소한데 반해 약물 치료군에서는 평균 0.28 nmol/L 감소하여 위약군에 비해 베타세 포의 기능이 더욱 잘 보존됨을 관찰하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Otelixizumab 또한 항CD3 단일클론항체로 1형당뇨병의 3차 예방을 위해 연구되고 있는 면역억제제이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Teplizumab이 T세 포를 부분적으로 억제하여 면역관용을 유도하는 반면, otelixizumab은 더 지속적이고 강한 억제효과를 보이는 것으로 알려 져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "DEFEND-1과 DEFEND-2 임상연구에서는 최근 발병 한 1형당뇨병 환자를 대상으로 otelixizumab의 베타세포 기능 보존 효과를 분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 연구에서는 환자들에게 3.1 mg 의 저용량 otelixizumab을 6일간 투여했으나, C-peptide 수준 유 지에 유의미한 효과를 보이지 못했다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "반면, 이전의 BDR 연구 에서는 더 높은 용량인 48 mg을 투여했을 때, 최대 4년간 베타 세포 기능을 보존하고 인슐린 요구량을 줄이는 긍정적인 결과를 보여주었으나, 심각한 사이토카인방출증후군(cytokine release syndrome, CRS) 및 엡스타인바 바이러스(Epstein-Barr virus, EBV) 재활성화 등의 이상반응이 발생하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 통해, otelixizumab의 1형당뇨병에 대한 예방 효과는 용량에 따라 달 라지며, 적절한 용량 설정이 중요하다는 결론이 도출되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또 한, 연구에 따르면 otelixizumab은 27세 미만의 젊은 환자나 발 1 병 초기 환자에서 더 나은 치료 효과를 보였으며, 베타세포 기능 이 상대적으로 잘 유지된 환자들에게서 더 긍정적인 반응이 관 찰되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 연구 결과는 otelixizumab이 1형당뇨병의 진행을 늦출 가능성이 있지만, 용량과 환자의 상태에 따라 그 효 과가 크게 달라질 수 있음을 시사하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 외에도 여러 항CD 약물의 1형당뇨병 3차예방 효과에 대한 연구가 이루어졌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이들 연구는 대부분 1형당뇨병 진단 3개월 이내인 초기 환자를 대상으로 하였으며, 약물 투여 후 C-peptide AUC 또는 그 변화량을 측정하여 베타세포 기능 보존 효과를 분 석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과 전반적으로 약물투여군에서 위약군에 비해 베타세포 기능이 더 잘 보존되었다는 결과가 나타났다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "사이토카인 억제제 인터루킨, TNF-α 등의 사이토카인에 결합하거나 사이토카인 자체를 투여하는 등, 사이토카인에 직접적으로 작용하는 약물들 의 3차예방 효과에 대한 연구도 시행되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "대부분의 연구에서 는 1형당뇨병 진단 후 약 3개월 이내인 초기 발병 환자를 대상으 로 하였으며, 나이에 따라 청소년과 성인을 분리하여 관찰한 연 구도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "일차평가변수로는 C-peptide AUC 혹은 그 변화량을 측정하여 비교하였는데, 항인터루킨 약물에 대한 연구에서는 통 계적으로 유의미한 효과가 관찰되지는 않았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "항TNF-α 약 제인 etanercept와 golimumab의 연구에서는 유의미한 효과가 관찰되었고, etanercept의 경우 C-peptide AUC가 기저치와 비교 하여 약물 치료 후 증가하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Golimumab 연구인 T1GER 연 구에서는 52주 후 C-peptide AUC가 위약군에 비해 유의한 수준 으로 보존되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "IL-2는 과도한 면역반응을 억제하고 조절하 는 역할을 하는 조절T세포(regulatory T cell, Treg)의 증식에 관 여하는 사이토카인이며, IL-2의 3차예방 효과를 분석한 DF-IL2- Child 연구 등에서는 일차평가변수로 Treg 수를 측정하였고 그 결과 용량의존적으로 Treg의 수가 증가하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "베라파밀(verapamil)은 주로 고혈압이나 협심증, 부정맥 치료 에 사용되는 칼슘통로차단제이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최근 연구에서 verapamil이 thioredoxin-interacting protein (TXNIP)의 하향조절을 통해 베 타세포의 기능을 개선하고 인슐린의 생산과 분비를 촉진하는 효과를 나타낼 뿐만 아니라, 항염증 작용이 있는 것으로 밝혀졌 다 1형당뇨병 진단 후 3개월 이내의 18~44세 환자 24명을 대 상으로 360 mg의 verapamil과 위약을 각각 1일 1회 경구투여 하고 1년 후 두 군 간의 C-peptide AUC 차이를 측정한 연구에 서, verapamil이 베타세포 기능 보존 효과가 있음이 관찰되었다 (diff=0.28, p=0.01. 또한 7~17세의 청소년을 대상으로 한 CLVer 연구에서도 위약군과 비교하여 C-peptide AUC가 통계적 으로 유의미하게 차이가 나타났다(diff=0.14, p=0.. 이와 같 은 연구결과를 토대로, verapamil의 1형당뇨병 예방 효과에 대한 연구가 계속 진행 중에 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 외에도 티로신인산화효소억제제(tyrosine kinase inhibitor, TKI)인 이마티닙(imatinib), janus kinase (JAK) 억제제인 바리 시티닙(baricitinib)에 대해 1형당뇨병 발병 100일 미만의 환자 를 대상으로 연구가 이루어졌으며, 통계적으로 유의미한 효과가 있는 것으로 확인되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Imatinib 연구에서는 100 mg을 1 일 1회 26주간 경구 투여하고 투여 시작 1년 후 C-peptide AUC 를 측정하였으며 위약군 대비 유의한 효과가 관찰되었다(0.583 대 0.489, p=0.0.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Baricitinib에 대한 연구인 BANDIT 연구 에서는 4 mg의 baricitinib을 1일 1회 48주간 경구 투여하였으 며, 투여 시작 48주 후 C-peptide AUC를 위약군과 비교하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과 통계적으로 유의한 베타세포 기능 보존 효과가 나타났 다(0.65 대 0.43, p=0.0.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "아토르바스타틴(atorvastatin)은 HMG CoA-reductase 억제 작 용기전을 가지는 스타틴 계열의 약물이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "스타틴이 항염증작용 이 있다는 선행연구 결과를 기반으로 1형당뇨병의 3차예방 효과 에 대한 연구가 진행되었으나 유의미한 효과는 없는 것으로 나 타났다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세포치료요법 세포치료요법은 세포를 직접적으로 주입함으로써 면역기능 을 조절하고 베타세포의 기능을 보존하는 전략으로, 주로 Treg 와 줄기세포를 이용한 치료가 그 예이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Treg는 면역반응을 조 절하고 자가면역반응을 억제하는 중요한 역할을 하는데, 1형당 뇨병 환자의 경우, Treg의 기능이 손상되어 베타세포가 파괴되 기 쉬운 상태가 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 Treg를 환자에게 주입하여 자가 면역 반응을 억제하는 방법이 연구되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Treg를 단독 혹은 rituximab과 병용투여 했을 때 8~16세 환자에게서 1형당뇨병의 진행을 늦추는 효과가 있었으며, 특히 병용요법이 단독요법에 비해 더 큰 효과를 나타냈다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "줄기세포요법과 관련해서는 중간엽줄기세포(mesenchymal stem cell, MSC)를 사용한 연구가 대표적인데, MSC는 면역억 제 작용이 있어, 1형당뇨병 환자에서 면역시스템의 과도한 자가 면역 반응을 완화시키는 데 효과적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최근 발병한 1형당뇨병 환자를 대상으로 자가(autologous) MSC를 투여한 연구에서 일 부 환자에서 베타세포 기능 보존이 관찰되었으며 안전성이 확인 되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "항IL-21 약물(NNC0114-00과 glucagon-like peptide 1 (GLP-1) 효능제인 리라글루타이드(liraglutide)의 단독 및 병용 요법의 효과에 대한 연구에서는 진단 20주 이내의 18~45세 환 자 308명을 네 개의 집단으로 나누어 항IL-21 및 liraglutide 병 용투여군, 항IL-21 단독투여군, liraglutide 단독투여군, 위약군으 로 무작위 배정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "연구 결과 병용투여군에서의 C-peptide 감소량이 단독투여군보다 적었으며, 위약군과 비교했을 때는 현 저한 차이를 보였다(–10% 대 –39%, p=0.00.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "DiViDInt 연 구에서는 항바이러스제인 플레코나릴(pleconaril)과 리바비린 (ribavirin) 병용요법이 1형당뇨병에 대해 유의미한 3차예방 효 과가 있는 것으로 나타났다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 외에도 anti-thymocyte globulin (ATG)과 granulocyte colony-stimulating factor (GCSF)의 병 용요법에 관한 연구가 진행되었으며, rituximab과 abatacept 의 병용요법에 관한 연구가 현재 진행 중에 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 연구 들은 단독으로는 큰 예방효과를 나타내지 못하는 약물들도 병용 하여 사용할 때 유의미한 효과를 가질 수 있다는 것을 보여주고 있어, 병용요법의 중요성과 잠재적 가능성을 시사하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "결론 및 고찰 1형당뇨병의 예방 또는 치료에 오래 전부터 고전적인 면역억 제제를 포함하여 항원요법, 면역조절제, 사이토카인 항체 등 면 역체계와 관련된 다양한 약물들이 연구되어 왔으며, 현재는 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "른 자가면역 질환에 사용되는 항CD 및 항인터루킨 약물들이 적 극적으로 연구되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "뿐만 아니라, verapamil, imatinib과 같 이 기존에 자가면역과의 관련성이 알려지지 않았던 약물들도 면 역조절과 관련된 새로운 작용기전들이 밝혀짐에 따라 1형당뇨 병의 발병 지연에 효과가 있다는 연구 성과가 나타나고 있는 만 큼, 기존 약물의 재창출(drug repurposing) 측면에서도 여러 약 물들의 당뇨병 예방 효과에 대한 평가를 시도해 볼만한 가치가 있겠다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 단독으로 효과가 미미한 약물이더라도 인슐린을 포함한 기존의 당뇨병 약물이나 다른 면역조절제와 함께 사용할 때 시너지를 일으켜 더 좋은 예후를 나타내는 연구 결과도 존재 하므로 2제 혹은 3제요법 등 새로운 병합요법도 좋은 연구 대상 이 될 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "현재 1형당뇨병의 예방과 관련해 연구되고 있는 약물들은 대 부분 인슐린 투여 시작 시점을 지연시키거나 또는 C-peptide의 혈중농도 감소 속도를 늦추는 것을 1차 연구목표로 하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이는 췌장 기능의 보존을 시사하는 대체 지표로서, 이를 통해 질 병의 진행이 억제되고 있는지를 가늠할 수 있기 때문에 의미가 있다 1형당뇨병의 발생을 조금이라도 늦추는 것은 개인적인 측 면에서 인슐린 사용으로 인한 불편감 및 심리적 스트레스를 감 소시켜 삶의 질을 향상시킬 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 사회적인 측면 에서는 인슐린 치료 및 당뇨병 관리와 관련된 의료 부담을 줄일 수 있을 것이며, 개인의 질환 관리로 인한 생산성 감소를 예방 하는 효과를 기대할 수 있다는 점에서 의미가 있을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 러나 궁극적으로는 1형당뇨병의 발병을 2년 정도 지연시킴으로 써 기대할 수 있는 최종 임상성과(예, 합병증의 발생 예방, 생존 율 향상) 및 경제적 성과에 대한 장기적인 추적연구가 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이를 통해 유효성과 경제성이 보장되는 효과적인 1형당뇨병 예방 약물요법에 대한 가이드라인을 수립할 수 있을 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 고에서 고찰한 대부분의 연구들은 유럽, 미국 등 서구사회 의 인구집단에서 평가된 것으로 국내 1형당뇨병 환자의 유전형 과 임상적 특성, 발병률 등 여러 부분에서 차이가 난다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 신약 도입 시, 국내 유병 인구집단에 적용 가능한지에 대해서 면 밀하게 검토할 필요가 있겠다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "더 나아가서는 국내 1형당뇨병의 개인별 발병 원인에 대한 유전학적인 접근과 자가항체의 유형에 기반한 개별화된 약물요법을 확립할 수 있는 연구가 이루어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "면 더 긍정적인 치료성과를 기대해볼 수 있을 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 논문은 부산대학교 기본연구지원사업(2년)에 의하여 연구 되었음.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "저자들은 본 논문의 내용과 관련하여 그 어떠한 이해상충도",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

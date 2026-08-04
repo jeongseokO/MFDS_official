@@ -1,0 +1,271 @@
+{
+  "document_id": "kk_cochrane_0014",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000095.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000095.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "시판되는 마늘 제제는 죽상 동맥 경화증과 관련된 위험 요인의 일부에 유익한 효과를 가져올 것으로 보고되고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "말초 동맥 폐쇄성 질환의 치료에 대한 마늘 (건조 및 비 분말 제제)의 효과를 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "이 업데이트를 위해 Cochrane Peripheral Vascular Diseases Group Trials Search Coordinator는 Specialized Register (2013 년 1 월 마지막 검색)와 CENTRAL (2012, Issue 12)을 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "하지 동맥 경화증 환자에서 마늘 요법의 무작위 임상시험이 포함되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "주요 결과는 근본적인 죽상 경화증 진행의 객관적인 지표 (예 : 발목 압력 측정, 런닝 머신 테스트) 및 주관적 지표 (예 : 증상 진행) 였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "2 명의 연구자 (RJ과 JK)가 독립적으로 데이터를 추출하여 임상시험의 질을 평가했다. 1 명의 저자 (RJ)는 문헌고찰에 필요한 출간된 보고에서 찾을 수 없었던 리뷰를 위한 정보를 얻기 위해 연구자에게 연락을 취했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "78 명의 대상자를 포함하는 한 개의 적격한 임상시험이 확인되었다. 40 ˜ 75 세의 남녀를 대상에 포함되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "추적 기간은 단 12주로 짧았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "12 주간의 치료 후, 무통 보행 거리는 마늘 투여군에서 161 미터에서 207 미터로, 위약군에서 172 미터에서 203 미터로 증가했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "이것은 통계적으로 유의미한 차이가 아니었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "수축기 또는 이완기 혈압, 심박수, 발목 및 상완 혈압의 변화에는 차이가 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "심각한 부작용은 관찰되지 않았으며 9 명의 마늘 복용 환자 (28 %)와 4 명의 위약 복용 환자 (12 %)는 눈에 띄는 마늘 냄새에 대해 불평했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "임상 측정이 포함되지 않았기 때문에 3 개의 임상시험이 검토에서 제외되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "1건의 단기간의 소규모 임상시험 결과 도보 거리에 마늘이 통계적으로 유의미한 영향을 미치지 않음이 확인되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "말초 동맥 폐쇄성 질환의 가장 흔한 증상은 간헐적인 파행, 운동으로 유발되고 휴식으로 완화되는 다리의 불편함이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "근본적인 원인은 죽상동맥경화증이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "말초 동맥 질환의 발병과 관련된 위험 요인에는 흡연, 높아진 콜레스테롤 및 기타 지방(지질) 수치, 고혈압 및 당뇨병이 포함된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "마늘은 고대부터 치료법으로 사용되어왔다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "주요 활성 성분은 알리신 (allicin)이라 불리는 불안정하고 냄새가 나는 유황 화합물이므로 활성 성분이 가공 과정에서 손실되고 다른 유형의 제조 과정에서 손실될 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "시판되는 마늘 제제는 혈관 질환의 일부 위험 인자에 유익한 영향을 미치는 것으로 보고되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "신선한 마늘의 경우 적어도 하루 7개 이상이 필요하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "냄새와는 별도로 마늘은 경미한 위장 장애의 부작용만 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "연구자들은 의학 문헌을 철저히 조사하였고 말초 동맥 폐쇄성 질환을 앓고있는 78명의 대상자가 무작위로 마늘이나 위약을 투여받도록 배정된 대조군 임상시험을 한 개 발견했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "마늘의 용량은 1 일 2 회 200mg 경구 표준화된 마늘 분말의 2개의 코팅된 정제였다. 40 세에서 75 세 사이의 남녀 모두 포함되었으나 16명은 치료를 따르지 않았다. 12 주간의 치료 후 마늘이나 위약을 복용하든지에 상관없이 무통 보행 거리가 비슷하게 증가했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "마찬가지로 혈압, 심박수, 그리고 족관절과 상완 압력 사이의 압력 차이도 차이가 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "마늘 투여군 (28 %)이 위약군 (12 %)보다 마늘의 강한 냄새를 호소했지만 심각한 부작용은 확인되지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "말초 동맥 폐쇄성 질환은 장기 (만성) 질환으로 증상의 개선에는 본 연구보다 더 장기간의 치료와 추적 조사가 필요하다고 생각된다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

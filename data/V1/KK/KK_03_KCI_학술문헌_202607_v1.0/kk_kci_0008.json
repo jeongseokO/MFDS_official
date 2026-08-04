@@ -1,0 +1,1045 @@
+{
+  "document_id": "kk_kci_0008",
+  "meta": {
+    "set": "KK",
+    "source_folder": "11",
+    "source_code": "kci",
+    "source_name": "국내 학술지 논문(KCI)",
+    "orig_doc_id": "A431 skin cancer cell에서 Esculetin의 MAPKs pathway를 통한 항암 효과.pdf",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 학술지 논문(KCI)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "53(4): 181∼191 (20 A431 skin cancer cell에서 Es 통한 항암 성진영· 세명대학교 화 Esculetin Suppresses the Growth and Cells via the MA Jin Young Sung an Department of Cosmetic Science, Semy Abstract−As the incidence of skin cancer increases every yea Esculetin, a natural dihydroxy coumarin, is attracting attention a on its broad pharmacological activity.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "In this study, the anticanc cinoma cell line A431.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "As a result of evaluating the apoptosis a time-concentration-dependent manner regardless of the presen esculetin reduced cyclin D1 mRNA in a time-concentration-d esculetin significantly inhibited phosphorylation of ERK, JNK, this study suggest that esculetin has the potential to be used as Keywords−Esculetin, Anti-cancer, Cell cycle, Apoptosis, M 피부암의 발병률은 최근 수십 년 동안 빠르게 증가하여 매년 2백만 건 이상 발생한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 중 비흑색종 피부암 (Non-melanoma Skin Cancer; NMSC)은 가장 흔한 유형의 암이며, UV에 노출되는 신체 부위에서 자주 발생한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "하 지만 UV 노출의 유해한 영향에 대한 대중의 인식이 높아짐 에도 불구하고 발병률은 계속 증가하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "NMSC 중 편평 세포 암종(squamous cell carcinoma; SCC)은 기저 세포 암종(basal cell carcinoma; BCC)에 비하여 전이 위험이 더 높고, 머리와 목과 같은 눈에 보이는 부위에서 상당한 이환 율을 보이며 결과적으로 미용, 기능적 손상으로 인해 수억 달러의 치료 비용을 야기할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 NMSC의 80%는 60세 이상의 고령층에서 발생함에 따라 고령 환자들의 수술 진행이 어려워지면서 예방과 치료를 위한 새로운 비수술적 치료 방안이 모색되고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "항암의 대표적인 신호 전달 경로인 MAPKs 경로 중 ERK(extracellular signal-regulated kinase)는 세포 증식, 분 *교신저자(E-mail):dragonroom@semyung.ac.kr (Tel):+82-49-649-1616 sculetin의 MAPKs pathway를 항암 효과 ·김용민* 화장품과학과 d Proliferation of A431 Skin Cancer APKs Pathway nd Yong Min Kim* yung University, Jecheon 27136, Korea ar, non-surgical treatment methods for cancer are being sought. as a therapeutic agent for certain diseases, such as cancer, based cer ability of esculetin was evaluated using the epidermoid cars ability of esculetin by MTT assay, apoptosis was observed in nce or absence of FBS. As a result of quantitative real-time PCR, dependent manner.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "In addition, as a result of western blotting, K, and p38 in a concentration-dependent manner.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The results of s an effective natural medicine for the treatment of skin cancer.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Mitogen-activated protein kinases 화, 생존 및 운동성과 같은 다양한 세포 반응에 관여한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "과활성화된 ERK 신호전달은 암의 85% 이상에서 발견되며, ERK의 지속적인 활성화는 cyclin D1 발현을 유도하여 세 포 주기 진행을 촉진하는 것으로 여러 연구에서 입증된 바 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "ERK 활성화의 유도는 UVB로도 이루어지며, 이는 UV 유발 피부암 발병에 기여한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 밖에도 ERK의 활성 화는 CDK(cyclin dependent kinases)활성 증가, CDKIs(CDK inhibitors)억제 및 G1기에서 많은 항증식 유전자들의 억제를 통해 G1/S 전환을 유도하여 세포 과증식을 야기한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "JNK(c-Jun N-terminal kinases)와 p38의 활성화는 UV 매개 피부 발암의 주요 기전이며, 이들의 비정상적인 활성화는 SCC에서 자주 관찰된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Dimethylbenz[a]anthracene 및 12-O-tetradecanoyl phorbol-13-acetate(DMBA-TPA)를 사용한 피부 발암 마우스 모델에서, JNK2 결핍은 피부암 발병에 저항성을 나타내었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이는 JNK2가 피부암 촉진제로 기능 한다는 것을 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한, UVA가 조사된 HaCaT 세 포에서 p38 inhibitor 처리는 염색질 응축, 핵 단편화, 세포 자멸체 형성 및 caspase-3 절단과 같은 전형적인 apoptosis 특징을 보였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "반면 p38 inhibitor 없이 UVA 조사만으로는 유의한 세포사멸이 발생하지 않았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이와 일치하게 태 양 UV 유도 발암 마우스 모델에서 p38 억제는 더 적은 수의 종양을 생성하는 것으로 나타났다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Cyclin D1 또 한 SCC에서 최대 80% 과발현되며, cyclin D1의 억제는 SCC 세포주에서 in vitro 및 in vivo 모두에서 SCC 성장 을 억제하여 apoptosis를 유도하는 것으로 알려졌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따 라서 JNK, p38 및 cyclin D1의 억제는 SCC를 약화시키 는 데 기여할 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Esculetin은 Fraxinus rhynchophylla hance 줄기 껍질에 다량 분포하는 6,7-dihydroxy coumarin으로, 항염, 항응고제, 항산화, 항균, 항종양 효과 등 광범위한 약리학적 활성을 지 니는 것으로 알려져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "더불어 인간 결장암, 췌장암, 전립선암에서 세포 주기 정지, 항증식 및 세포 사멸을 유 도하여 항암 효과를 드러내 천연 항암제로서의 가능성이 제 시되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "특히 esculetin은 인간 악성 흑색종 세포 G361에 서 cyclin D1, caspase-3, PARP 등의 발현을 조절하여 흑색 종 피부암 치료제로 제안되었지만, SCC에서의 항암 기전 은 밝혀진 바가 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 본 연구에서는 인간 편평 상 피암(SCC) 세포주인 A431을 사용하여 esculetin의 항암 효 과 기전을 밝혀내고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "재료 및 방법 실험재료 및 세포 배양 −A431 cell line은 한국세포주은 행(Korean cell line bank, Korea)에서 분양 받아 사용하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세포 배지는 RPMI Media 1640(Welgene, USA)에 10% fetal bovine serum(FBS, GenDepot, USA)과 1%의 penicillin/ streptomycin(GenDepot, USA)을 첨가하여 제조하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세 포는 37℃, 5% CO 조건으로 1~2 일 주기마다 신선한 배 지로 교체하여 배양하였으며, 본 연구에 사용된 esculetin은 sigma aldrich에서 구매하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Western blotting에 사용한 모든 항체는 cell signaling technology에서 구매하였으며, 3000:1 비율로 tris buffered saline with tween 20(TBST)에 희석하여 실험하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Gene name and assay ID number in real-time qPCR ana Symbol Gene n CCND1 Cyclin GAPDH Glyceraldehyde-3-phos Table II. Primer sequences in real-time qPCR analysis Gene name Forward Cyclin D1 Reverse Forward Reverse Kor. Esculetin의 피부암 세포 사멸능 평가 −Esculetin의 A431 사멸능 평가는 MTT assay로 진행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "A431을 96 well plate에 7×103 cells/well이 되도록 분주한 뒤 37℃, 5% CO2 조건에서 24 시간 동안 안정화하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "RPMI Media 1640에 10% FBS를 첨가하고 농도별 esculetin을 세포에 처리하여 24, 48 및 72 시간 동안 배양하였다 0% FBS는 아무것도 첨가하지 않은 RPMI Media 1640를 사용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 3- (4,5-dimethylthiazol-2-yl)-2,5-diphenyl-tetrazolium bromide (Bio basic, Canada)를 처리하고 3 시간 동안 반응한 후 dimethyl sulfoxide(Bio basic, Canada)로 세포를 용해시켜 spectrophotometer를 이용하여 570 nm에서 흡광도를 측정 하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Quantitative real-time PCR(qPCR)을 통한 cyclin D1 mRNA 발현 측정 −Esculetin의 A431 증식 억제능을 평가 하기 위해 qPCR을 진행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "A431을 6 well plate에 4 × 106 cells/well이 되도록 분주한 뒤 37℃, 5% CO2 조건에서 24 시간 동안 안정화하였다 24 시간 후 10% FBS 및 0% FBS에 농도별 esculetin을 세포에 처리하고 실험 조건에 따 라 배양하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 trizol reagent(Ambion, USA)를 사용하 여 RNA를 추출하고 정량한 뒤 cDNA 합성 kit(revertra ACE-A-, Toyobo, Japan)를 사용하여 RNA를 cDNA로 합성 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "합성된 cDNA와 taqman master mix(Thermo fisher, USA) 10 μL, primer 1 μL, DEPC 4 μL를 혼합하여 qPCR을 진행하였다. qPCR은 thermo fisher 사의 quantstudio 1을 이 용하였으며, 실험에 사용한 probe 및 primer sequence는 각 각 Table I과 Table II에 나타내었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Western blotting을 이용한 항암 관련 단백질 발현 측정 − 항암과 관련된 대표적인 pathway인 MAPKs, 세포 사멸 유 발 단백질 caspase-3 및 세포 주기 진행 단백질 cyclin D1의 발현량을 western blotting으로 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "A431을 6 well plate에 5×106 cells/well이 되도록 분주한 뒤 37℃, 5% CO2 조건에서 24 시간 동안 안정화하였다 24 시간 후 10% FBS 및 0% FBS에 농도별 esculetin을 세포에 처리하고 실 험 조건에 따라 배양하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "상층액을 제거하고 ripa lysis alysis name Assay ID n D1 Hs00765553_m1 sphate dehydrogenase Hs02786624_g1 Sequence 5’-GCGGAGGAGAACAAACAGAT-3’ 5’-TGAACTTCACATCTGTGGCA-3’ 5’-GAAGGTGAAGGTCGGAGTC-3’ 5’-GAAGATGGTGATGGGATTTC-3’ Vol. 4, 2022 Table III. Antibody name and assay ID number in western blotti Symbol Antib β-actin β-actin (13E Cyclin D1 Cyclin D1 (E3P5 cleaved Caspase-3 Cleaved Caspase-3 (As Caspase-3 Caspase-3 (D3 p-ERK Phospho-p44/42 MAPK (Erk1/2) (Thr ERK p44/42 MAPK (Erk1 p-JNK Phospho-SAPK/JNK (Thr18 JNK SAPK/JN p-p38 Phospho-p38 MAPK (Thr180 p38 p38 MAPK (D13 and extraction buffer(Thermo fisher, USA)를 이용하여 얻은 단백질을 BCA assay(Thermo fisher, USA)를 이용하여 정 량하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "정량한 단백질은 5X SDS-PAGE loading buffer (Biosesang, Korea)를 사용하여 전기 영동 한 후 transfer 하였 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이후 5% skim milk(BD bio, USA)로 1 시간 동안 blocking 한 후 1차 항체 첨가 후 shaker에서 over night하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "TBST를 사용하여 5 분 단위로 3~4 회 반복 washing 후 2차 항체를 첨가하고 2 시간 동안 shaking 해주고 TBST로 washing 후 단백질 발현을 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "실험에 사용한 항체들은 Table III에 나타내었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "통계 분석 −본 연구 데이터는 3 회 반복 실험하였으며 student t-test를 이용하여 비교 분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "모든 데이터는 평균 ± 표준편차로 표시하였으며, 통계적 유의수준은 *p FBS or (B) 10% of FBS using serum-free RPMI with increasing were treated with serum-free RPMI without or with 10% FBS, re < 0.05, **p < 0.01, ***p < 0.0. ing analysis body name Assay ID E Rabbit mAb 4970S P5S) XP® Rabbit mAb 55506S sp1 (5A1E) Rabbit mAb 9664S 3R6Y) Rabbit mAb 14220S r202/Tyr2 (D13.14.4E) XP® Rabbit mAb 4370S 1/2) (137F Rabbit mAb 4695S 83/Tyr1 (81E Rabbit mAb 4668S NK Antibody 9252S 0/Tyr1 (D3F XP® Rabbit mAb 4511S 3E XP® Rabbit mAb 8690S <0.05, **p<0.01, ***p<0.001로 검증하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Western blotting 시험에서 band의 intensity는 image J(Wayne rasband national institutes of health, USA)를 이용하여 분석하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "결과 및 고찰 A431에서 esculetin의 세포 사멸능을 알아보기 위해 MTT assay를 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Esculetin을 A431에 10% FBS 유무에 따라 0.2, 0.4, 0.8 및 1 mM의 농도로 24, 48 및 72 시간 동 안 처리하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과 피부암 세포의 생존율이 농도 및 시간에 따라 크게 감소하였다(Fig. Esculetin을 0% FBS 조건에서 24시간 동안 처리하였을 때 IC 이 0.88 mM로 나 타나 추후 실험을 최고 농도 0.8 mM로 진행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Cell viability was assessed for 24, 48, and 72 h in the (A) 0% g concentrations of esculetin (0.2, 0.4, 0.8 and 1 mM).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Controls espectively.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Indicates a significant difference from the control (*p was treated with serum-free RPMI to A431 cells for 1, 2, 4 and 8 (0.2, 0.4 and 0.8 mM) was treated with serum-free RPMI in A43 Controls were treated with serum-free RPMI without or with 10% control (*p<0.05, **p<0.01, ***p< 0.0.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "노란색을 띠며, 활성 세포의 미토콘드리아에 있는 탈수소효 소 효소에 의해 보라색 불용성 formazan으로 전환된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 formazan crystal은 540-570 nm에서 dimethyl sulfoxide로 용해 후 spectrophotometer로 측정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "MTT 시험법은 최 근 난소암 세포 독성 효과를 평가하는 데 쓰인 바 있다.이 어 A431에서 esculetin의 cyclin D1 mRNA 억제능을 qPCR 로 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Esculetin을 serum-free RPMI에 용해하여 1, 2, 4 및 8시간 동안 A431에 처리 후 cyclin D1 mRNA 발현 량을 확인한 결과, control 군과 비교하여 각각 47 ± 0.11, 92, 97 및 99% 억제능을 보였다(Fig. 2A). 또한, esculetin 농도에 따른 cyclin D1 mRNA 발현량을 확인하고자 RPMI 1640에 10% FBS 첨가 유무에 따라 esculetin을 0.2, 0.4 및 0.8 mM 농도로 1 시간 동안 처리하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 0% FBS 조건에서는 control 군과 비교하여 모든 농도에서 각각 67 ± 0.12, 65 ± 0.1 및 73%의 억제능을 보였으며, 10% FBS 조건에서는 0.4 및 0.8 mM 농도에서 각각 41 ± 0.11 및 41 ±0.12%의 억제능을 확인하였다(Fig. Cyclin D1 mRNA 발현 감소에 따른 cyclin D1 및 caspase-3의 protein 발현을 확인하기 위하여 western blotting을 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "RPMI 1640에 esculetin을 0.8 mM 농도로 용해한 후 A431에 1, 4, 8, 20 및 24 시간 동안 처리하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, cyclin D1 protein 발현량은 control 군과 비교하여 각각 66, 90, 97 및 98% 억 제되었으며 이는 Fig. Caspase-3의 active form인 cleaved Caspase-3는 esculetin 처리 후 24 시 간에 control 군과 비교하여 7배 증가하여 높은 활성화를 보 였다(Fig. 3). 또한, esculetin의 농도에 따른 cyclin D1 및 Kor. me and concentration dependent manner. (A) Esculetin 0.8 mM 8 hours.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Control treated only the serum-free RPMI. (B) Esculetin 31 cells for 1 hour in either 0% FBS or 10% of FBS conditions.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "% FBS, respectively.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Indicates a significant difference from the cleaved Caspase-3의 protein 발현량을 보기 위하여 western blotting을 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "RPMI 1640에 10% FBS 유무에 따라 esculetin을 0.2, 0.4 및 0.8 mM 농도로 용해한 후 A431에 1 시간 및 24 시간 동안 처리하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 0% FBS 조건 에서 cyclin D1 protein 발현량은 control 군과 비교하여 모든 농도에서 억제되었으며, 10% FBS 조건에서는 0.4 및 0.8 mM 농도에서 유의한 발현 억제를 보였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 caspase-3의 active form인 cleaved caspase-3는 0% FBS 및 10% FBS 조건에서 모두 유의하게 증가하였음을 확인하였다(Fig. 더불어 암에서 가장 잘 알려진 pathway인 MAPKs 발현 억제 효과를 측정하기 위해 western blotting을 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "RPMI 1640에 10% FBS 유무에 따라 esculetin을 0.2, 0.4 및 0.8 mM 농도로 용해한 후 A431에 15 분 동안 처리하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 결과, 0% FBS 조건에서 ERK는 control 군과 비교하여 45, 70 및 74%, JNK는 70, 76 및 77%, p38은 47, 63 및 83%의 억제 능을 보였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 10% FBS 조건에서 ERK control 군과 비교하여 27, 25 및 29%, JNK는 57, 53 및 74%, p38은 11, 29 및 26%의 억제능을 보여 0% 및 10% FBS 조건 모두에서 유의한 MAPKs 발현 감소가 나타남을 확인하였다(Fig. 포유 동물 세포는 G1기에서 S기로의 세포 주기 진행을 위해 CDK4/6의 allosteric regulators로 기능하는 3개의 cyclins D(D1, D2 및 D를 인코딩한다. cyclin D와 CDK가 결합 하면 cyclinD-CDK4/6 복합체가 형성되며, 이 과정은 정지 된 세포가 세포 주기 진입을 하기 위한 필수 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "인 간 암에서 cyclin D1은 cyclin D2 및 D3에 비하여 조절 장 애가 빈번하며, cyclin D1의 과발현은 주요 세포 체크포인트 Vol. 4, 2022 mM was treated with serum-free RPMI to A431 cells for 1, 4, 8, Analysis data using image J. Indicates a significant difference fro 우회를 통해 비정상적인 세포 조직 성장을 초래한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "SCC에서 cyclin D1 gene은 최대 50%, protein은 최대 80% 과발현된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이와 관련하여 6개의 SCC 세포주에서 antisense cyclin D1 형질 도입은 세포 증식을 유의하게 억제하였으며, cyclin D1 protein의 감소와 유사하게 각 세포주에서 세포자 멸사가 검출된 연구 결과가 보고되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "더불어 antisense cyclin D1이 처리된 종양에서도 세포자멸사가 두드러졌다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 cyclin D1의 억제는 SCC의 성장을 억제하여 세포 사멸을 유도할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세포사멸(apoptosis)은 세포 외 요",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "인과의 상호작용과 세포 내 요인 모두에 의해 유발될 수 있 nd induces apoptosis in a time dependent manner. (A) Esculetin 0.8 20 and 24 hours.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Control treated only the serum-free RPMI. (B) om the control (***p < 0.0.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Apoptosis 유도제인 caspases는 구조, 기능 및 기질 특이 성에 따라 염증성 및 세포자멸사 caspase로 세분화된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 중 세포자멸사 caspase인 initiator caspases(caspase-2, 8, 9, 1는 다양한 세포 스트레스 신호에 자극을 받는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 pro-apoptotic 과정은 미토콘드리아 막간 공간에서 cytochrome c와 같은 apoptogenic factors를 세포질 내로 방출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 후, apoptosome complex(cytochrome c/Apaf-1/caspase-9) 가 형성되어 effector caspase(caspase-3, 6, 7)의 활성화를 유발한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "활성화된 caspase-3는 caspase-activated DNAse (ICAD) inhibitor를 절단하여 caspase-activated DNAse(CAD) Esculetin (0.2, 0.4 and 0.8 mM) was treated with serum-free RPM cleaved caspase-3) in 0% FBS conditions. (B) Analysis data for 0 mM) was treated with serum-free RPMI in A431 cells for 1 hour( of FBS conditions. (D) Analysis data for 10% FBS condition using or with 10% FBS, respectively.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Indicates a significant difference f 의 활성화를 초래한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이러한 CAD의 활성화는 DNA를 절 단함으로써 염색질 응축 및 DNA 단편화를 유도한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이는 apoptosis가 진행되는 세포의 일반적인 특징이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "피부암 발병의 가장 큰 요인은 피부의 지속적인 UV 노출 Kor. nd induces apoptosis in a concentration dependent manner. (A) MI in A431 cells for 1 hour (cyclin D or 24 hour (caspase-3 and 0% FBS condition using Image J. (C) Esculetin (0.2, 0.4 and 0.8 (cyclin D or 24 hour(caspase-3 and cleaved caspase-3) in 10% g Image J. Controls were treated with serum-free RPMI without from the control (**p<0.01, ***p<0.0.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "UVA(320–400 nm)는 ROS(reactive oxygen species) 생성을 통해 양성 종양 및 악성 암을 유발할 수 있는 노화 광선이며, UVB(280–320 nm)는 비흑색종 및 흑색종 피부 암을 비롯한 다양한 피부 질환의 원인이 된다 4, 2022 MAPKs의 강력한 유도제로, 그 중 ERK는 구강, 신장, 간, 전립선 및 유방 암종 등 다양한 암에서 발견되어 암 예방에 서 주목받는 cascade이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "JNK는 UVA와 UVB 모두에 의해 활성화되며, 태양 UV를 불멸화된 정상 인간 각질세포 주(N/TERT-1)에 처리하였을 때 JNK와 하위 인자 c-Jun이 15분 만에 활성화되어 4 시간까지 지속될 수 있음이 보고되 었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한, p38은 UVA 조사된 인간 피부 섬유아세포, 마 우스 표피 세포(JB 및 여러 세포 유형에서 활성화되며, 특히 불멸화된 인간 각질세포(HaCaT)에서 UVA 조사 시 5 분 이내로 p38 활성화가 진행되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 외에도 UVB로 유 도한 피부 발암이 대조군 마우스와 비교하여 dominant negative p38α 형질 전환 마우스에서 유의하게 감소한 연구 결과가 보고된 바 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 피부암에서 ERK, JNK 및 p38 활성화의 감소는 피부암을 예방하는 효과적인 전략 이 될 수 있다. treated with serum-free RPMI in A431 cells for 15 minutes in 0% Image J. (C) Esculetin (0.2, 0.4 and 0.8 mM) was treated with se tions. (D) Analysis data for 10% FBS condition using Image J. C FBS, respectively.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Indicates a significant difference from the cont Kor. the MAPKs pathway. (A) Esculetin (0.2, 0.4 and 0.8 mM) was % FBS conditions. (B) Analysis data for 0% FBS condition using erum-free RPMI in A431 cells for 15 minutes in 10% FBS condi- Controls were treated with serum-free RPMI without or with 10% ntrol (***p < 0.0. 4, 2022 189 본 연구에서는 피부암 세포 A431에서 esculetin의 항암 효과를 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Esculetin은 A431에서 FBS 유무에 상 관없이 시간 및 농도 의존적으로 apoptosis를 유발하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한, cyclin D1의 mRNA 및 protein을 시간 및 농도 의존 적으로 억제하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Apoptosis 유도제인 caspase-3의 활성화 는 esculetin 처리 후 24 시간에 나타났다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "더불어 esculetin의 농도에 따른 cyclin D1의 감소와 cleaved caspase-3의 발현 증가, MAPKs의 유의한 감소는 esculetin이 피부암 치료를 위한 효과적인 천연 의약품으로 사용될 가능성이 있음을 시 사한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 논문은 2022학년도 세명대학교 교내학술연구비 지원에 의해 수행된 연구임.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "인용문헌 1.Park, J. H. (20 Thymoquinone induces apoptosis of human epidermoid carcinoma A431 cells through ROS-mediated suppression of STAT3. 2.Amini, S., Viera, M. H., Valins, W. and Berman, B. (20 Kor. skin cancer by inhibiting the MAPKs pathway.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Nonsurgical innovations in the treatment of nonmelanoma skin cancer.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Madan, V., Lear, J. T. and Szeimies, R. M. (20 Non-melanoma skin cancer.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Kohno, M. and Pouyssegur, J. (20 Targeting the ERK signaling pathway in cancer therapy.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Annals of Medicine 38: 200-211.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Yuan, J., Dong, X., Yap, J. and Hu, J. (20 The MAPK and AMPK signalings: interplay and implication in targeted cancer therapy.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Wang, L., Liu, T., Nishioka, M., Aguirre, R. and Okada, N. (20 Activation of ERK1/2 and cyclin D1 expression in oral tongue squamous cell carcinomas: Relationship between clinicopathological appearances and cell proliferation.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Li, J., Malakhova, M., Mottamal, M., Reddy, K., Igor, K., Andria, C., Langfald, A., Oi, N., Kim, M. O., Zhu, F., Sosa, C. P., Zhou, K., Bode, A. N. and Dong, Z. (20 Norathyriol suppresses solar UV-induced skin cancer by targeting ERKs.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "C., Lefloch, R., Pouysségur, J. and Lenormand, P. (20 ERK implication in cell cycle regulation. 1773: 1299-1310.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Zhang, J. and Bowden, G. T. (20 Activation of p38 MAP kinase and JNK pathways by UVA irradiation. 10.Hammouda, M. E., Liu, Y. and Zhang, J. (20 The JNK signaling pathway in inflammatory skin disorders and cancer.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "A. and Bowden, G. T. (20 Ultraviolet Ainduced modulation of Bcl-XL by p38 MAPK in human keratinocytes. 279: 42658-42668. 12.Liu, K., Yu, D., Cho, Y. M., Ma, W., Yao, K., Li, S., Li, J., Bowden, G. T., Dong, Z. and Dong, Z. (20 Sunlight UV-Induced skin cancer relies upon activation of the p38α signaling pathway.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "R., Nesbit, M., Litwin, S., Klein-Szanto, A. P., Cheffetz, S. and Herlyn, M. (19 Antisense Cyclin D1 induces apoptosis and tumor shrinkage in human squamous carcinomas. 14.Liang, C., Ju, W., Pei, S., Tang, Y. and Xiao, Y. (20 Pharmacological activities and synthesis of esculetin and its derivatives: a mini-review.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Molecules 22: 387.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "J. (20 Esculetin induces cell cycle arrest and apoptosis in human colon cancer LoVo cells. 16.Arora, R., Sawney, S., Saini, V., Steffi, C., Tiwari, M. and Saluja, D. (20 Esculetin induces antiproliferative and apoptotic response in pancreatic cancer cells by directly binding to KEAP1. 17.Turkekul, K., Colpan, R. D., Baykul, T., Ozdemir, M. D. and Erdogan, S. (20 Esculetin inhibits the survival of human prostate cancer cells by inducing apoptosis and arresting the cell cycle.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "K. and Chae, J. I. (20 Esculetin, a coumarin derivative, exhibits anti-proliferative and pro-apoptotic activity in G361 human malignant melanoma. 19.Yuan, C., Jiang, B., Xu, X., Wan, Y., Wang, L. and Chen, J. (20 Anti-human ovarian cancer and cytotoxicity effects of nickel nanoparticles green-synthesized by Alhagi maurorum leaf aqueous extract. 20.Qie, S. and Diehl, J. A. (20 Cyclin D1, cancer progression, and opportunities in cancer treatment. 21.Eskandari, E. and Eaves, C. J. (20 Paradoxical roles of caspase-3 in regulating cell survival, proliferation, and tumorigenesis. 221: e202201159.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

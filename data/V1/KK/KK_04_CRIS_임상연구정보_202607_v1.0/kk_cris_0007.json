@@ -1,0 +1,415 @@
+{
+  "document_id": "kk_cris_0007",
+  "meta": {
+    "set": "KK",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000007",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=939",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": "술중 지속적으로 투여된 저농도의 esmolol이 remifentanil의 요구량에 미치는 효과 검증을 위한 전향적 연구",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": "술중 지속적으로 투여된 저농도의 esmolol이 흡입마취제와 마약제제의 요구량에 미치는 효과",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": "가톨릭 대학교 서울성모병원 임상연구심의위원회",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": "이재민",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": "교수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": "가톨릭대학교서울성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": "황원정",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": "임상강사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": "가톨릭대학교서울성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": "황원정",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": "임상강사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": "가톨릭대학교서울성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": "없음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "수술 중 의식 소실, 통증 차단, 그리고 수술 자극에 의한 자율신경계의 과도한 반응을 억제하기 위해 충분한 마취 심도를 유지하면서, 술 후 마취로부터 신속한 회복을 이루어내는 두 가지 목표를 동시에 이루기는 쉽지 않다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "충분한 마취 심도를 유지하기 위해 마취제의 투여량을 늘리게 되면 술 중 심혈관계 억제 작용이 나타남은 물론, 술 후 회복이 더디고 호흡억제 등의 합병증이 흔히 나타나기 때문이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "이를 위해 BIS (bispectral index)를 수술 중에 측정하여 마취 심도를 확인하면서 마취제의 투여를 최소화하기도 하고, 균형마취법(balanced anesthesia)을 추구하여 보조약제를 투여함으로써 마취 심도는 일정하게 유지하면서 주마취제의 투여량을 줄이기도 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "이처럼 마취 심도가 적절히 유지되는 한 마취제의 투여 용량을 최소한으로 하여 마취제의 부작용을 최소화함은 물론 마취 후 신속한 회복을 도모하는 일은 마취 관리의 기본 개념이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "Beta-blocker가 마약제제나 정맥마취제를 요구량을 감소시키는 효과가 있다는 주장이 있으나, 실제 마취 관리의 측면에서 양적으로 얼마만큼의 마약제제를 sparing할 수 있는지에 대한 정보는 충분하지 않다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "그러나 이제까지 beta-blocker의 마약제제와 흡입마취제의 sparing 효과에 관한 연구는 많지 않다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "특히, skin incision 자극이나 동물실험에서의 꼬리 자극에 대한 회피반응 등의 관점에서 약제 요구량을 평가하는 것이 아니라, 실제 수술 자극이 가해지고 있는 상황에서 혈역학적 변수들의 값과 BIS 값을 기준으로 마취심도를 평가하면서 마약제제를 목표혈중농도 ng/ml 단위로 어느 정도 sparing할 수 있는지 조사하는 일은 실제 마취를 수행하는 임상적 측면에서 중요한 정보를 제공해 줄 것이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "이런 측면에서 기존의 연구들은 실제 수술이 이루어지고 있는 상황에서 마취유지를 위해 임상적으로 적용 가능한 정보를 제공하여 주지 못하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "본 연구의 목적은 복강경 수술의 일반적인 마취 방법으로 인정되고 있는 sevoflurane-O2-remifentanil에 의한 마취 관리 시, 동반 투여되는 esmolol이 마취 심도는 적절하고 일정하게 유지하면서 목표혈중농도 ng/ml 단위로 얼마만큼의 remifentanil을 sparing할 수 있는지를 조사하여 실제 마취관리 시 적용할 수 있는 정보를 제공하기 위함이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "esmolol : 술중 0.5 mg/kg 일회 정주 후 30 µg/kg/min 지속 정주",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": "대조군",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_군명",
+      "path": null,
+      "ko_txt": "실험군",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": "ASA class I or II patients undergoing laparoscopic gynaecologic surgery that lasted less than 2 h",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": "고혈압, 허혈성심질환, 부정맥 등 심혈관 질환이 있는 경우 출혈, 저혈량, 체액 손실 등으로 혈역학적 불안정을 보이는 환자 천식이나 만성폐쇄성폐질환 같은 폐질환이 있는 경우, 그 외 연구 약제에 대해 알레르기가 있는 경우, 체질량 지수 16 kg/m2미만 이거나 30 kg/m2초과인 자, 통증 질환으로 마약성 제재 복용중인 자, 연구에 참여를 거부한 자",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": "remifentanil의 평균농도",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": "수술 종료 직후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_2.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": "remifentanil의 적정농도에 대한 평균농도의 비",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_2.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": "수술 종료 직후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_3.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": "단위시간당 remifentanil 효과처농도의 상승/하강 횟수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_3.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": "수술 종료 직후",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "의식과 지남력의 회복시간",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "회복실 퇴실시까지",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "술후 통증의 정도",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "회복실 퇴실시까지",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "총 fentanyl 요구량",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "회복실 퇴실시까지",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "회복실 퇴실까지의 시간",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "회복실 퇴실시까지",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

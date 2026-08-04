@@ -1,0 +1,325 @@
+{
+  "document_id": "kk_cris_0013",
+  "meta": {
+    "set": "KK",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000013",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=921",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": "관상동맥에서 Pressure Wire를 이용한 심근의 미세혈관 기능 및 생존 심근 등을 평가하기 위한 새롭고 간편한 기법 (혈관 반응성 지수) 의 효용성에 관한 연구.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": "관상동맥에서 Pressure Wire를 이용한 심근의 미세혈관 기능 및 생존 심근 등을 평가하기 위한 새롭고 간편한 기법 (혈관 반응성 지수) 의 효용성에 관한 연구.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": "양산부산대학교병원 임상시험심사위원회",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": "김준홍",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": "부교수",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": "양산부산대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": "이상은",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": "연구간호사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": "양산부산대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": "이남경",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": "연구간호사",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": "양산부산대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": "양산부산대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": "중재시술위원회",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": "양산부산대학교병원",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "본 연구는 pressure wire를 이용한 FFR myo 의 측정 중 hyperemia 발생시 나타나는 추가적인 혈압 하강 (vasoreactivity) 의 의미를 MRI 통해 분석해보고자 하며 표준화된 분석을 위해 baseline Pd/Pa 의 값을 풍선도자로 인위적으로 각각의 특정값으로 설정한 후 각각의 값에서의 vasoreactivity 의 의미를 MRI 결과와 비교 분석하고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": "Vasoreacitivty 는 관상 동맥 내 압력 철선과 풍선 도자의 부분 폐쇄를 이용한 delta FFR 0.8 이란 값으로 정의하며 이 값을 심장 MRI 소견과 비교 분석 함으로써 이 두 변수의 상호 관계를 비교해 보고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "앞에서 기술한 대로 본 연구는 인위적으로 기저 압력비를 일정하게 유지한 후 maximal hyperemia 유발시 변화되는 압력비의 정도를 통하여 협착 원위부의 microvascular function을 및 경색심근의 정도를 측정하고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "대상 환자는 모두 30명으로 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "우선 급성 관동맥 증후군을 보인 환자들에서 성공적인 스텐트 시술을 한후 다시 스텐트 내로 풍선도자를 위치 시킨후 풍선 도자 전후의 압력비가 0.8 이 될때 까지 인위적인 부분 폐쇄를 만든다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "이 상태에서 adenosine 에 의한 hyperemia 를 발생시켜 추가적으로 발생하는 압력비의 변화 정도를 측정하고 이를 delta FFR 0.8 이라고 정의한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": "그리고 이 delta FFR 0.8 의 값을 cardiac MRI 에서 측정한 scar 의 양 및 비율의 정도와 비교하여 상관 관계를 확인하는 연구이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": "delta FFR 0.8 group",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": "①급성 관동맥 증후군 환자에서 관상 동맥에 의미있는 병변을 가지고 있고 병변의 위치는 근위부(proximal) 혹은 근위부와 중간부의 사이(prox-to-mid) 인 경우 ②참고혈관의 크기가 3mm 이상으로 3mm 혹은 3.5mm의 스텐트가 사용된 병변. ③ 타겟 혈관 외에는 심근 경색의 기왕력이 없는 경우로 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": "① 좌 주간지의 병변 ② 스텐트 시술 부위의 원위부에는 의미있는 협착 (내경의 협착이 50% 이상이 되는) 병변이 있는 경우 ③ 혈관의 크기가 2mm 이상 되는 분지가 있으면서 QCA 상 70% 이상의 의미 있는 협착이 있는 경우 ④ 좌심실 구혈률이 30% 미만인 경우 ⑤ 심한 좌심실 비대나 비후성 심근 병증이 있는 경우 ⑥ creatinine 이 2mg/dl 이상인 chronic kidney disease.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": "심장 MRI 로 측정한 평균 심근 괴사비",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": "delta FFR 값을 구한 시점에서 1주일 내",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "심장 MRI 로 측정한 괴사 영역의 크기",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "delta FFR 값을 구한 시점에서 1주일 내",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "심장 MRI 로 측정한 위험 지역의 크기",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "delta FFR 값을 구한 시점에서 1주일 내",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": "심근 효소(CK-MB, troponin I)의 상승 정도",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": "delta FFR 값을 구한 시점에서 1주일 내 주기적으로 측정한 값",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "document_id": "kk_cochrane_0012",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000079",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000079/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "경피적 전기 자극은 혈액 순환을 개선시킨다고 알려져있으며 따라서 태아 성장을 촉진하는데 사용될 수 있는지에 대한 여부가 권고되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "본 연구 목적은 태반 부전을 겪는 산모에 경피적 전기 자극 요법을 통해 태아 성장에 미치는 영향을 평가하기 위함이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Cochrane Pregnancy and Childbirth Group's Trials Register 을 검색했다(2009년 6월).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "태반 부전 및 태아 발달 장애가 의심되는 산모에 경피적 전기 자극 요법을 위약 또는 무치료와 비교한 적합한 통제 연구.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "연구의 질이 평가되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "포함된 연구는 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "태반 부전이 의심되는 산모에서 경피적 전기 자극의 사용을 평가할 만한 충분한 증거가 없다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "태반 부전이 의심되는 산모의 경우 경피적 전기 자극(TENS)을 통해 혈액 흐름의 개선 효과가 나타나는 지에 대한 근거가 없다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "산모로 부터 충분한 영양과 산소를 공급받지 못한 태아는 혈관 변화를 통해 이 상황을 보완하는데 이는 태반 부전을 야기시킨다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "도플러 초음파는 음파를 사용하여 임신 중에 자궁, 태반 및 아기 사이의 혈액 움직임을 감지한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "ENS는 피부에 놓인 전극을 통해 전기 자극을 제공하는 비 침습적 치료 요법이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "도플러 초음파 검사를 통해 태반 부전이 의심되는 산모에 경피적 전기 자극 요법이 자궁, 태반 및 아기 사이의 혈액 흐름을 개선시키는 지에 대한 근거가 없다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

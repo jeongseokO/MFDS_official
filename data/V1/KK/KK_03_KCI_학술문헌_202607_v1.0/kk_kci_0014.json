@@ -1,0 +1,703 @@
+{
+  "document_id": "kk_kci_0014",
+  "meta": {
+    "set": "KK",
+    "source_folder": "11",
+    "source_code": "kci",
+    "source_name": "국내 학술지 논문(KCI)",
+    "orig_doc_id": "Colistimethate 분무요법 시행 환자에서 투여 전후 신기능의 변화.pdf",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 학술지 논문(KCI)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "한국임상약학회지 제27권 제2호 Original Article Colistimethate 분무요법 시행 환자에서 투 안혜진·정유진·김재송·김수현·손은선* 세브란스병원 약무국 (2017년 3월 6일 접수 ·2017년 6월 15일 수정 ·2017년 6월 16일 승인) Changes in Renal Function by Nebulized C Hye Jin Ahn, Yoo Jin Jung, Jae Song Kim, Soo Hyun Kim Department of Pharmacy, Yonsei University Health System, Seoul 03722, Re (Received March 6, 2017·Revised June 15, 2017·Accepted June 16, 20 Background: Nebulized colistimethate is increasingly used, be distribution within the lungs when colistimethate is administered the changes in renal function by of nebulized colistimethate treatm reviewed the electronic medical records of adult patients above 1 days in Yonsei university health system from Nov 2014 to Aug 20 criteria (Risk, Injury, Failure, Loss and End-stage renal disease) a nebulized colistimethate.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Results: 48 patients were included o colistimethate treatment (SCr vs. SCr; 0.85±0.80 vs. 1.00±0.82 according to the standards at Yonsei university health systema.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Am and 10 patients developed AKI (20.8%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Within the AKI group, 2 p group (80%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Conclusion: There was no significant difference in non-AKI group (p>0..",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The study has a significance in that it national patients, analyzing its nephrotoxicity.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "It has confirmed t injection, and requires to establish a guideline for the use of nebu a: SCr Male 0.68-1.19 mg/dL, Female 0.49-0.91 mg/dL Colistimethate sodium은 polymyxin 계에 속하는 항생제로, colistin으로 가수분해 되어야 살균작용을 나타내는 전구약물 이며 세포막 인지질에 결합해 세포막의 osmotic integrity를 변 화시키고 세포사멸을 유발한다 1-3) Colistimethate는 정맥 투 여 시 발생하는 신독성과 신경독성 등의 유해반응으로 인해 1980년대 이후 사용이 감소되었으나 최근 다제내성 그람음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "성균인 Pseudomonas aeruginosa와 Acinetobacter baumannii 등의 감염에 효과적이며, 내성 균주가 거의 발생하지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "는 점에서 다시 주목받고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "하지만 정맥으로 투여했을 때 신기능이 저하되는 단점이 있고, polymyxin계 항생제가 뇌 *Eun Sun Son, Department of Pharmacy, Yonsei University Health Sys Korean College of Clinical Pharmacy Korean journal of clinical pharmacy (Online) URL: http://www.ekjcp.org 투여 전후 신기능의 변화 Colistimethate Treatment m and Eun Sun Son* epublic of Korea ecause there are problems such as renal dysfunction and low intravenously.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "This study was designed to compare and analyze ment for its safe administration.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Methods: This study retrospectively 19 years old, receiving only the nebulized colistimethate at least 4 015.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Acute kidney injury (AKI) was determined by using the RIFLE according to serum creatinine (SCr) levels before and after use of our study and their SCr increased significantly after nebulized 82 mg/dL, n=48, p<0.0, but the changes were in normal range mong 48 patients, 38 patients were in the non-AKI group (79.2%), patients were in the Injury group (20%) and the other 8 in the Risk n age, dosage and duration of treatment between AKI group and reviewed the safety of nebulized colistimethate only treatment to that nebulized colistimethate is a safer method than intravenous ulized colistimethate in further studies with broader patient groups. e, renal function, multidrug-resistant gram-negative bacteria 척수액, 담도계, 흉수, 관절액으로 약물 분포가 낮아 다제내성 균으로 인한 폐렴 치료 시 실패의 원인이 될 수 있다는 보고도 있다 1, 따라서 정맥 내 투여보다 유해반응이 적고, 기도 내 항생제 농도를 높일 수 있는 colistimethate의 분무요법을 시도 할 수 있다 9) 하지만 colistimethate 분무요법은 아직 식품의약 품안전처의 허가를 받지 않은 용법으로, 적응증 및 용량에 대 한 가이드가 명확하지 않다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최신 논문들에서 colistimethate 분무요법의 적응증 및 적절한 용량을 제안하고 있으나 , 권장용량의 범위가 넓고 실제 각 병원마다 사용하는 용량이 다르다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 colistimethate 분무요법의 유해반응은 기관지 연 stem, 50-1 Yonsei-ro, Seodeamun-gu, Seoul 03722, Republic of Korea 축으로 인한 급성 호흡장애가 드물게 발생할 수 있다는 점 외에는 특별히 알려진 바가 없으며, 기존 연구들은 효능 입증 에 우선순위를 둔 연구가 많기 때문에 상대적으로 유해반응에 대한 연구는 부족한 실정이다 1 따라서 colistimethate 정 맥 내 투여의 가장 큰 유해반응인 신독성에 대하여 nebulizer 로 투여할 때는 신기능에 어떤 변화가 있는지 안전성에 관한 연구가 필요하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이에 본 연구를 통하여 국내 한 상급 종합병원 환자들을 대 상으로 colistimethate 분무요법 전후의 신기능 변화를 비교 및 평가하고 안전한 colistimethate 분무요법의 사용을 돕는 기초자료로 활용하고자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "연구 방법 대상 환자 선정기준 2014년 9월 1일부터 2015년 8월 31일까지 총 1년간 세브란스 병원에서 colistimethate 분무요법을 단독으로 연속 4일 이상 받은 만 19세 이상 환자들을 대상으로 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "조사기간 중 colistimethate 분무요법을 여러 번 시행한 경우에는 가장 오래 투약한 기간을 선택하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "제외기준 만 19세 미만의 환자, 연속 4일 미만으로 colistimethate 분무 요법을 받은 환자, 정맥 내 투여와 병용한 환자, 혈액투석, 복막 투석 또는 지속적 신대체 요법을 받고 있는 환자, 전자의무기 록상 serum creatinine (이하 SCr) 수치변화를 파악할 수 없는 환자는 제외하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "단, 이전에 colistimethate를 정맥 내 투여 에서 분무요법으로 변경, 분무요법에서 정맥 내 투여로 변경, 정맥 내 투여와 병용하거나 신대체 요법을 함께 시행했던 환 자에게 분무요법만 단독으로 치료받은 기간이 연속 4일 이상 일 경우, 분무요법 단독 투여기간만 인정하여 포함하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "대상 약물 연구에 사용된 colistimethate는 콜리스주® (Colis inj ® , 완제 제조원: 삼천당제약(주), 원료제조원: Xellia pharmaceuticals ApS, Denmark)로 1vial에는 colistin 150mg을 포함한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Colistimethate는 국내 허가사항에서 정맥 내 투여 및 근육주 사가 가능하며, 정상 SCr 기준 1일 2.5-5mg/kg을 2-4회 정맥 내 주사 또는 근육 주사로 분할 투여하고 환자의 SCr 수치에 따라 용량을 조절하여 투여하도록 권장한다 1 Colistimethate 분무요법은 아직 식품의약품안전처의 허가를 받 지 않은 투여 방법으로 용량이 정해진 바 없으나, UPTODATE ® Colistimethate 분무요법 시행 환자에서 투여 전후 신기능의 변화 / 93 (Wolters Kluwer Inc.)에 따르면, 기관지 확장증이나 폐섬유증의 폐 감염에 nebulizer로 30-150mg 1일 1-3회 투여(최대: 150mg 1 일 2회) 1 , 다제내성균에 의한 ventilator-associated pneumonia (이하 VAP)에는 ventilator circuit을 통해 8시간마다 150 mg을 투 여할 것을 권장하고 있다 1 자료수집 및 분석 대상환자의 의무기록 내용을 후향적으로 수집하여 환자의 연령, 성별, 키, 체중, 감염균, 총 투여기간, 1일 평균용량, 치료 후 균의 음전 여부, colistimethate 분무요법 기간 동안의 신독 성 약제(vancomycin, amphotericin B, aminoglycoside) 2 의 병용 여부를 조사하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이들 약제에 대해서는 투여기간 이나 용량에 관계없이 colistimethate 분무요법 기간 내의 병 용 여부만 조사하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Colistimethate 분무요법 전 SCr, BUN, CrCl를 각각 SCr0, BUN0, CrCl0 로 정의하고 치료가 끝난 시점 의 수치를 SCr1, BUN1, CrCl1 으로 정의하여 비교하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Primary endpoint는 급성 신손상 발생률 평가로, 분무요법 전후의 SCr을 기반으로 ‘RIFLE (Risk, Injury, Failure, Loss and End-stage renal disease) criteria’에 의거하여 평가하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "RIFLE criteria에 따라 Risk, Injury, Failure, Loss, ESRD가 발 생한 환자군을 급성 신손상군(acute kidney injury, 이하 AKI group), 발생하지 않은 군을 급성 신손상 비발생군(이하 non- AKI group)으로 분류하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Secondary endpoint로 분무요법 전후의 blood urea nitrogen (이하 BUN)과 Cockcroft-Gault식으로 산출한 creatinine clearance(이하 CrCl)의 변화량을 평가하였으며, 추가적으로 치료 후의 균 음전률을 통해 colistimethate 분무요법의 효과 를 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 AKI군과 non-AKI군의 특성들을 비교하 여 신기능에 영향을 줄 수 있는 위험인자를 찾고자 하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "통계분석 통계 분석에 SPSS Ver. 23.0 (SPSS Inc., Chicago, IL, USA) 을 사용하였으며, colistimethate 분무요법 전후의 SCr, BUN, CrCl 변화를 비교하기 위하여 paired t-test를 수행하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "두 군의 연령, 투여기간, 투여 용량 등 연속형 변수는 독립표본 t- 검정을 사용하였고, 성별, 신독성 약제 병용 여부 등의 범주형 변수는 χ²-검정을 사용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "각 항목의 p 값이 0.05 미만인 경우를 통계적 유의성이 있다고 판정하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "윤리심의 본 연구는 피험자의 정보보호에 관한 대책 등을 포함한 연구 계 획을 연세대학교 세브란스병원 기관윤리심의위원회(Institutional Review Board, IRB)로부터 승인(IRB No.4-2016-03받았으며, 후향적 관찰연구로써 피험자 동의는 면제되었다. 2, 2017 연구 결과 대상 환자의 특성 연구기간 내 colistimethate 분무요법을 받은 254명의 환자 중 만 19세 이상 환자는 214명이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그 중 투여 기간 내 정맥 내 투여를 병용하거나 신대체요법을 받지 않고, 연속 4일 이상 단독으로 colistimethate 분무요법으로만 치료받은 환자 48명 이 본 연구에 포함되었다(Fig. 분석 대상 환자들의 평균 연령은 65.2±13.3세로 평균 체중 60.21±9.32kg였으며, 남성 36명(75.0%), 여성 12명(25.0%)이 었다 48명 중 35명(72.9%)이 내과계, 외과계, 심혈관계, 신경계 중환자실에 재실 중이었으며(72.9%) 48명 중 28명은 주진단명에 폐렴이 포함되어 있었다(58.3%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Colistimethate 분무요법 기간은 평균 14.6±9.2일이었으며 평균 투여 용량은 221.23±85.62mg/ day이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "투여 용량은 환자마다 상이하였고 투여 중 용량을 증 감한 환자들도 있었으나, 75mg을 1일 3회 투여한 환자가 총 48명 중 30명(62.5%)으로 가장 많았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Colistimethate 분무요법 전 SCr0 의 평균은 0.85±0.80mg/dL, BUN0 는 28.62±17.36 mg/dL, CrCl0 은 110.56±76.43 mL/min이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "환자의 객담 및 기관흡입 액에서 검출된 모든 균을 중복 계수했을 때, Acinetobacter baumannii 가 검출된 환자가 37명으로 가장 많았고, Staphylococcus aureus 17명, Pseudomonas aeruginosa 13명이었다(Table 1).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "치료 후 SCr의 변화와 그에 따른 급성 신손상 발생률 전체 환자의 투여 전후 평균 SCr을 비교한 결과 분무요법 후 의 SCr1 이 SCr0 보다 유의하게 증가하였으며(0.85±0.80mg/dL Characteristics (n=4 Age (years) 65.2±13.3 Weight (kg) 60.21±9.32 Gender Male(n) 36(75.0%) Female(n) 12(25.0%) ICU(intensive care unit) patients(n) 35(72.9%) Duration of treatment (days) 14.6±9.2 Dose (mg/day) 221.23±85.62 SCr0 (mg/dL) 0.85±0.80 BUN0 (mg/dL) 28.62±17.36 CrCl (C-G Eq. mL/min) 110.56±76.43 Bacterial culture (overlap count*, n) Acinetobacter baumannii 37 Staphylococcus aureus 17 Pseudomonas aeruginosa 13 *: When two strains were detected in one patient, each case was counted. 1.00±0.82mg/dL, p<0.0, SCr1 은 평균적으로 14.6±9.2 일 후에 측정되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "SCr은 성별에 따라 정상수치의 기준이 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "르므로 남녀 환자를 구분해 보았을 때에도 두 군 모두에서 투여 후 유의하게 SCr이 증가한 것을 볼 수 있었으며(Male, n=36; SCr0: 0.94±0.89 vs. SCr1: 1.10±0.92mg/dL, p=0.004; Female, n=12; SCr0: 0.57±0.32 vs. SCr1: 0.71±0.40 mg/dL, p=0.0 남 Total(n, %) Subgroup Injury(n) Risk(n)Failure, Loss, ESRD(n) AKI group 10 (20.8%) 8 2 0 non-AKI group 38 (79.2%) 녀 각각 평균 15.7±9.9일, 11.3±6.1일 후에 측정된 값이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "SCr의 변화량 기준으로 48명의 환자를 분류하였을 때 RIFLE criteria 기준 급성 신손상이 나타난 AKI군은 10명(20.8%), 나타 나지 않은 non-AKI군은 38명(79.2%)이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "세부적으로는 SCr이 SCr의 1.5배 이상 측정된 Risk군이 8명, Injury군이 2명 이었으며, colistimethate 분무요법으로 인한 비가역적 신손상 인 Failure, Loss, ESRD군은 없었다(Table 2).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "치료 후 BUN, CrCl의 변화 Colistimethate 분무요법 후 CrCl1 이 CrCl0 보다 유의하게 감 소하였으며(110.56±77.24mL/min vs. 91.26±36.77mL/ min, p<0.0, BUN도 유의한 증가량(28.62±17.55mg/dL vs. 40.15±24.26 mg/dL, p<0.0을 보였다(Table 3).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "치료 후 균의 음전률 Colistimethate의 유효 균종이 아닌 그람양성균 Staphylococcus aureus을 제외하고 분무요법 종료시점과 가장 근접한 세균검 사의 자료를 수집하였을 때, A.baumannii는 검출된 37명의 환 자 중 22명에서 음전되었고(59.5%), 치료 후에도 음전되지 않 은 환자는 12명이었으며 사망이나 전원으로 알 수 없는 환자 들이 4명이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "P.aeruginosa는 13명의 검출환자 중 4명에서 균의 음전을 보였으며(30.8%) 9명의 환자가 치료 후에도 지속 적으로 균이 동정되었다(Table 4).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "각 군의 비교 평균연령은 AKI군에서 65.3±10.6세, non-AKI군에서 64.8±14.0세로 AKI군이 더 높은 연령대를 보였으나 통계적으로 Before administration (0) adm SCr (mg/dL) Total (n=4 0.85±0.80 Male (n=3 0.94±0.89 Female (n=1 0.57±0.32 CrCl (mL/min) 110.56±77.24 9 BUN (mg/dL) 28.62±17.55 4 Colistimethate 분무요법 시행 환자에서 투여 전후 신기능의 변화 / 95 Culture bacteria A.baumanniiP.aeruginosa Detected patients (n) 37 13 Negative patients after treatment (n) 22 4 Positive patients after treatment (n) 12 9 Unknown patients (Death or transfer, n) 4 0 Bacteriological clearance rate (%) 59.5 30.8 는 유의하지 않았다(p=0.5. 체중은 AKI군이 55.90±6.66kg, non-AKI군이 61.31±9.60kg, 체표면적(body surface area, BSA) 은 AKI군이 1.59±0.13m 2 , non-AKI군이 1.64±0.22m 2 이었으 며 투여 기간은 AKI군이 11.9±4.7일, non-AKI군이 15.4±10.7 일로 체중, 체표면적, 투여 기간 역시 통계적 유의성은 보이지 않았다(각 p=0.363, p=0.976, p=0.0. 평균용량은 AKI군보다 non-AKI군이 더 높았으나 유의한 차이는 없었고(182.85±58.40 mg/day vs. 232.53±89.96 mg/day, p=0.3, 신독성 약제 (vancomycin, amphotericin B, aminoglycoside) 병용은 AKI군이 non-AKI군에 비해 더 높은 비율을 보였으나 통계적으로 유의 성을 보이지는 않았다(AKI군 vs. non-AKI군; 10명 중 2명, 20.0% vs. 38명 중 6명, 15.8%, p=0.2.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "SCr0 와 SCr1 은 각 군 간에 유의한 차이가 없었지만(AKI군 vs. non-AKI군; SCr0 0.59±0.40 mg/dL vs. 0.91±0.86mg/dL, p=0.419; SCr1 1.14±0.80mg/dL vs. 0.96±0.83mg/dL, p=0.4, SCr의 평 균 변화량은 AKI군 90.5±47.0%, non-AKI군 11.2±16.3%로 유의한 차이가 있었다(p=0.0.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "BUN0 와 BUN1 도 각 군간에 유의한 차이가 없었지만(AKI군 vs. non-AKI군; BUN0 25.98±19.80mg/dL vs. 30.19±18.45mg/dL, p=0.917; BUN1 42.87±22.99mg/dL vs. 87±25.54mg/dL, p=0.5, BUN의 평균 변화량은 AKI군 178.0±314.1%, non-AKI군 38.5±41.6% 로 유의한 차이가 있었다(p<0.0.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "CrCl는 투여 후 AKI군에 서 더 큰 폭으로 감소하였으나, 통계적으로 유의하지는 않았 다(AKI군 vs. non-AKI군; CrCl0 150.89±116.22mL/min vs. 100.07±60.70 mL/min, p=0.001; CrCl1 83.46±65.40 mL/min vs. 92.69±64.61 mL/min, p=0.652; 평균 변화량 -45.2±10.4% liezed colistimethate.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "After Mean measurement p-value ministration (1) period (days) 1.00±0.82 <0.001 14.6±9.2 1.10±0.92 0.004 15.7±9.9 0.71±0.40 0.005 11.3±6.1 91.26±36.77 <0.001 14.6±9.2 40.15±24.26 <0.001 9.1±8.6 96 / Korean J Clin Pharm, Vol. 2, 2017 AKI group (n=1 Age (years) 65.3±10.6 Body weight (kg) 55.90±6.66 BSA (m) 1.59±0.13 Duration of treatment (days) 11.9±4.7 Dose (mg/day) 182.85±58.40 Concomitant nephrotoxicity drugs 2명(20.0%) SCr0 (mg/dL) 0.59±0.40 SCr1 (mg/dL) 1.14±0.80 ΔSCr(%) 90.5±47.0 BUN0 (mg/dL) 25.98±19.80 BUN1 (mg/dL) 42.87±22.99 ΔBUN(%) 178.0±314.1 CrCl CrC0 (mL/min) 150.89±116.22 CrCl1 (mL/min 83.46±65.40 ΔCrCl (%) -45.2±10.4 Bacteriological clearance rate A.baumannii 57.1%(4/7) P.aeruginosa 25.0%(1/4) b: Body surface area : Vancomycin, Amphotericin B, Aminoglycoside vs. -8.12±13.6%, p=0.2.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "AKI군에서 A.baumannii 가 검출된 환자는 총 7명이었는데, colistimethate 분무요법 후 4명의 환자 (57.1%)에서 균이 음전되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Non-AKI군에서는 A.baumannii 가 검출된 30명의 환자 중 18명이 음전되어 60.0%의 음전율을 보였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "P.aeruginosa 는 AKI군에서 25.0% (검출된 4명 중 1명 음전), non-AKI군에서 37.5% (검출된 8명 중 3명 음전)되었으며, 두 균종에서 군간의 음전율은 유의한 차이가 없었다(A.baumannii p=0.809, P.aeruginosa p=0.401; Table 5).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "현재 다제내성 그람음성균 치료에 사용 가능한 항생제는 매 우 제한적이므로 대체약이 나오기 전까지는 colistimethate의 사용이 지속적으로 증가할 것으로 보인다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그러나 여전히 정맥 투여시의 33-60%에 이르는 신독성이 문제가 되고 있어 다제내성균에 호흡기가 감염되었을 경우 colistimethate 분무 요법을 시행하는 것이 주목받고 있으며, 분무요법의 유효성에 대한 연구들이 진행되고 있다 2005년 Berlana 등은 다제 내성 A.baumannii에 감염된 33명의 폐렴 환자에게 colistimethate 분무요법을 단독 또는 보조요법으로 사용해 모든 환자에서 nd Non-AKI group. non-AKI group (n=3 p-value 64.8±14.0 0.512 61.31±9.60 0.363 1.64±0.22 0.976 15.4±10.7 0.068 232.53±89.96 0.361 6명(15.8%) 0.251 0.91±0.86 0.419 0.96±0.83 0.438 11.2±16.3 0.002 30.19±18.45 0.917 39.87±25.54 0.519 38.5±41.6 <0.001 100.07±60.70 0.001 92.69±64.61 0.652 -8.12±13.6 0.257 60.0%(18/3 0.809 37.5%(3/8) 0.401 A.baumannii 박멸이 나타났다고 보고하였다 2 2005년 Kwa 등 도 다제내성 A.baumannii 및 P.aeruginosa 에 감염된 21명의 환 자에서 보조적인 colistimethate 분무요법을 통해 A.baumannii 85.7%, P.aeruginosa 57.1%의 microbiological response 를 확인 하였다 1 2011년 Reinout Naesens 등이 시행한 원내 폐렴의 colistimethate 치료에 분무요법 단독치료군, 정맥 내 투여 단독 치료군, 병용군으로 구분하여 비교한 연구에서는 분무요법 단 독치료군 100%, 정맥 내 투여 단독치료군 40%, 병용군 78%의 임상적 반응을 보였다 1 2013년 Tumbarello 등은 VAP 환자들 에서 colistimethate 정맥 내 투여 단독군과 분무요법 병용투 여군을 비교하여 병용투여군에서 임상적 반응률이 더 높았으 며(분무요법 병용투여군 vs. 정맥투여 단독군; 69.2% vs 54.8%, p=0. 인공호흡기 적용일수가 유의하게 짧았고(8일 vs 12일, p=0.0, 균 음전율도 더 높았으므로(63.4% vs 50%, p=0. 분무요법이 정맥 내 투여에 비해 더 효과가 있다고 발 표하였다 1 국내 다제내성균 VAP 환자의 분무요법 치료에 서도 84.6%의 높은 음전률을 보였다 2 위와 같이 여러 문헌 고찰을 통해 colistimethate 분무요법의 효과를 확인할 수 있 었으나, 신독성을 포함한 전신 독성에 대하여 평가한 연구는 많지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 colistimethate를 정맥 내 투여 시 가장 문제가 되 었던 신독성이 분무요법 단독 투여 시에도 나타나는지 RIFLE 을 기준으로 확인하고자 하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "분무요법 후 48명 중 10명(20.8%)이 급성 신손상이 발생하 였으며 중환자실에 재실 중인 35명 내에서도 거의 같은 비율 로 급성 신손상이 발생하였다(35명 중 7명, 20%). 문헌조사에 따른 정맥 내 투여로 인한 AKI 발생률(33-60%) 1보다는 적 은 수치이나, 국내 환자를 대상으로 한 문헌들이 아니며 Akajagbor 의 연구는 중환자만을 대상으로 하여 본 연구와 직 접적인 비교는 어렵다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그러나 최근 발표된 국내의 정맥 내 투 여 환자와 분무요법 환자의 비교연구에서도 정맥 내 투여에서 AKI 가 더 높은 비율(62% vs. 47%, p>0.로 발생하였으며, 정맥 내 투여군에서 Risk 단계가 15%, 분무요법은 45%인 반 면 Failure 단계는 정맥 내 투여군이 33%, 분무요법군이 10% 였다 2 이를 종합하여 볼 때 정맥 내 투여보다 분무요법의 신 독성이 적다고 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 본 연구에서 대상 환자들의 SCr 및 BUN 이 colistimethate 분무요법 후 유의하게 증가하 였으나(각각 p<0.0 해당 병원의 원내기준(BUN; 남자 8.5- 22mg/dL, 여자 7.3-20.5mg/dL; SCr 남자 0.68-1.19mg/dL, 여자 0.49-0.91mg/dL)상 정상범위 내의 변화였으며, 대상 환 자들의 대다수가 중증 질환으로 다양한 약제를 병용한다는 점 을 감안한다면 SCr 증가에 미치는 colistimethate 분무요법의 영향은 더욱 적었을 것으로 사료된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이번 연구에서 Colistimethate 분무요법 후의 균 음전율을 통 하여(A.baumannii 59.5%, P.aeruginosa 30.8%) colistimethate 분무요법 단독으로서도 치료효과가 있음을 알 수 있었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "A.baumannii의 음전률이 P.aeruginosa 보다 더 높았던(85.7% vs. 57.1%) Kwa 의 연구 결과와 유사하게 본 연구에서도 A.baumannii의 음전율이 더 높았으므로 앞으로 다제내성 그람 음성균의 균 종에 따른 적절한 용량이나 투여기간, 병용약제에 대한 기준 선정을 위해 추가적인 연구가 필요하겠다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "선행연구 및 본 연구의 결과를 통해 colistimethate 분무요법 이 다제내성 그람음성균의 감염에 효과를 나타내면서 신독성 이 적다는 것을 확인할 수 있었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그러나 secondary endpoint 로 분석한 위험인자에서는 환자의 나이가 많을수록, 투여기간 이 길수록, 용량이 많을수록 신기능이 악화될 것이라는 가설 을 세웠으나 두 군간에 통계적으로 유의한 차이가 없었으므로 신기능 악화 유발 위험인자로서 언급할 수 없었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 본 연 구에서 같은 용량을 투여하는 환자들 간의 연령이나 투여 전 신기능 등에서 공통점을 찾을 수 없었고 투여된 기간 및 용량 의 산포도가 큰 것을 미루어 볼 때, 현재 colistimehtate 분무요",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "법에 대한 명확한 치료 guideline 이 필요함을 알 수 있었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 분무요법만으로 인한 AKI 발생율을 관찰하기 위 한 목적으로 시행된 연구로써, 정맥 내 투여로 인한 신기능 변 화를 배제하기 위하여 정맥 내 투여를 병용하는 환자들을 제 Colistimethate 분무요법 시행 환자에서 투여 전후 신기능의 변화 / 97 외하였고, RIFLE을 적용하기 위해 SCr 수치에 변동을 주는 신 대체요법 적용환자를 제외하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그렇기에 환자수(n=4가 많지 않아 각 군간의 연령, 용량, 투여기간의 유의한 통계적 차 이를 찾을 수 없었다(p>0.. 또한 실제 colitimethate 분무요",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "법은 신기능 저하로 인해 정맥 내 투여를 할 수 없는 환자들에 게 대안으로 사용하거나 용량을 늘릴 수 없는 환자들에게 병 용 투여하는 경우가 많으므로, 추후 충분한 환자군을 모집하 여 정맥 내 투여군, 분무요법 단독투여군, 병용요법 군을 비교 분석하는 연구가 필요할 것으로 사료된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이 외에도 후향적 연구로서 기저질환에 따른 분류나 vancomycin, amphotericin B, aminoglycoside 외에 신독성을 유 발할 수 있는 다양한 병용약제 분석을 시행하지 못한 한계가 있 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "따라서 장기적이고 전향적인 연구를 통해 colistimethate 투 여 전부터 신기능이 저하되어 있던 환자, 고혈압, 당뇨 등 특정 기저질환을 가진 환자를 분류하여 관찰해야 하며, 비스테로이 드성 소염진통제나 항암제 등 다양한 신독성 유발 약제를 모 두 포함시킨 추가적인 연구를 진행하여 colistimethate 분무요",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "법의 안전성을 확립해야 하겠다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구에서는 국내 한 상급 종합병원 환자들을 대상으로 colistimethate 분무요법 후 급성 신손상 발생률을 후향적으로 분석하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "급성 신손상 여부는 RIFLE criteria 에 의거하였 으며, 분무요법 후 급성 신손상 발생률은 20.8%이었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 colistimethate 분무요법의 유해반응에 초점을 두 고 신장에 대한 안전성을 국내 환자를 대상으로 확인하였다는 것에 의의가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "추후 더 많은 환자를 대상으로 전향적 연구 를 진행하여 최대의 효과와 최소의 유해반응을 나타내는 용량 및 투여기간 등의 프로토콜 수립과 다양한 위험인자를 분석하 는 것이 필요하겠다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

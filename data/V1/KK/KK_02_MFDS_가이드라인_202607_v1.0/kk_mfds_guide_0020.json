@@ -1,0 +1,4636 @@
+{
+  "document_id": "kk_mfds_guide_0020",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "13 우수의약품 개발 가이드라인[민원인안내서].pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1.1 목표",
+      "path": null,
+      "ko_txt": "이 가이드라인은 우수한 신약 또는 제네릭의약품을 개발하고자 하는 국내 제약 업소에게 의약품의 초기 계획단계부터 제품의 조성, 제조과정 변수 및 제제 개발에 이 르기까지 일련의 과정들에 어떻게 접근해서 의도한 최종제품의 기능과 디자인을 얻는 지 구체적으로 제공하고자 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1.1 목표",
+      "path": null,
+      "ko_txt": "또한 급변하는 제약환경에 방향성을 가지고 능동적으로 대처하는 제약업소를 위해 개발과정의 결과물들을 어떻게 허가신청 자료에 적용하여 제시할 것인가를 ICH 가이드라인 Q8 등에 근거하여 제공하고자 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "1.2 적용 범위",
+      "path": null,
+      "ko_txt": "이 가이드라인은 의약품 개발 시 고려해야 할 전반적인 사항을 가이드로서 제 시한 것으로 의약품 신청서류에 적용되는 규제나 의무사항이 아니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "1.2 적용 범위",
+      "path": null,
+      "ko_txt": "제약업소가 의도 한 제품의 디자인과 성능구현을 위해 개발 단계별로 접근해 나가야 할 일련의 과정을 제시하고, 세계시장 진출을 목적으로 하는 제품에 대하여 국제공통기술문서(CTD) 품 질편 제3부 중 3.2.P.2(개발경위) 부분 작성 시 본 가이드라인이 도움이 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발은 선정된 후보 약물을 허가 및 시판을 위한 제품으로 변화시키는 과정이 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "현실적으로 의약품 개발을 위해서 고려되어야 할 여러 가지 사항은 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "분야 고려해야 할 측면 신물질인가? 새로운 생물학적 기전을 가지고 있는가? 연구 현재의 약물이 의약적 필요성에 미치지 못하는가? 활성 강도 및 선택성이 있는가? 높은 안전성 영역을 가지는가? 무독성 (무발암성, 무최기형성 등) 인가? 허용 가능한 부작용을 가지는가? 임상적 특성 유효성은 있는가? 적절한 작용시간을 가지는가? 원료의약품 공정 원료의약품의 합성 및 대량 생산 가능성.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"적합한 조성 및 포장\", \"적합한 제형 및 성능\", \"완제의약품\", \"안정성 및 적합한 사용 기간\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "임상시험 과정의 견고성 및 확장성 허가 품질과 관련된 자료 및 문서 제조 가능성 제조 허가 후 실사과정에서의 적합성 경쟁성 시판 사용자 필요성 충족 상품성 및 상업적 보상 후보 약물 선택 단계에서 전임상 연구를 도입하면 효율적으로 의약품 개발을 할 수 있 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "약물 선택은 주로 약물의 활성, 선택성, 작용시간 및 안전성/독성에 기초하여 이루 어지게 되는데, 이러한 모든 특성들이 유사하다면, 후보 약물들의 제제학적 특성의 차 이를 고려하여 약물을 선택할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "보다 나은 제제학적 특성, 예를 들어, 수용성, 결정성, 조해성, 안정성 등에서 보다 우수한 약물을 선택한다면, 적합한 완제의약품 조 성을 효율적으로 개발할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "완제의약품 개발 계획을 효율적으로 설계하기 위해서는 안전성, 임상시험, 제제 개발, 제조 및 허가 법규에 대한 사항들을 개발단계에서 고려한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "제품개발 계획에서 각 담 당부서에서의 관심사와 더불어 모든 부서가 동의할 수 있는 중심적이며 통합된 개발 계획이 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이러한 계획에는 수행 활동, 시간 계획, 책임 소재, 주요 사항, 재검 토 및 의사결정 시점에 대한 자세한 내용이 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "재검토 및 의사 결정 시 점은 각 진행 단계가 끝나는 시점에서 필요한 것으로, 진행사항이 개발 목적에 부합하 는지의 여부와 다음 단계로 넘어가는 것이 타당한지 여부를 결정하기 위해 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이러한 검토는 계획을 지연시키는 것이 아니라 이미 수행된 사항들을 승인하는 역할 을 해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "효율적 개발을 위해 일련의 개발 단계는 일정이 동시에 진행되어야 한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "현실적으로 처음 수립되었던 계획들은 시간이 경과함에 따라 변경이 불가피하므로 일정한 간격으로 재검토 및 수정되어야하며, 그 내용이 관계 부서와 공유되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "특정 부서의 활동에 초점이 맞추어진 하위 단계의 보다 세부적인 계획(예를 들면, 제 제 개발 계획)이 있을 수 있으나, 이러한 계획 역시 상위수준의 중심 계획에 부합되어 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "제품개발을 위한 체계적이고 구조적인 접근법을 도입하면 효율적인 개발 계획을 수립 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "제품의 개발 과정은 제품 설계, 공정 설계, 제품 최적화, 공정 최적화, 스 케일업 등 몇 개의 핵심적인 단계로나누어 질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발 과정을 간략하게 도식화한 아래의 그림에서 볼 수 있듯이 각각의 단계에서는 수행활동과 그에 따른 결 과물이 도출된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "제형은 약물을 체내로 전달하는데 중요한 역할을 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "약물 분자의 임상적 효능은 필요한 양을 적합한 속도로 적절한 부위에 적합한 시간에 전달함으로써 최적화되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "임상적 유효성을 확보하기 위해서는 프리포뮬레이션의 초기단계부터 제제연구를 거쳐 의약품 허가를 위한 허가 문서에 이르기까지 생물약제학적 자료가 요구된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "여기에서 제제의 생물약제학적(biopharmaceutical) 기능과 상호 작용하는 생물학적 과정(biological process)에 대한 이해는 필수적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품개발과정에서 양질의 생물 약제학적 자료는 완제 의약품의 임상적 효과와 내성에 대한 중요한 기능을 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "예를 들어, 장관에서 분해되면서 체내 흡수가 잘 되지 않는 약물의 경우, 생물약제학적 특성 에 따라 유효한 신약이 되느냐와 가능성만 있는 약물로 개발이 중단되느냐가 결정될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "가능성 있는 후보 약물들을 선택한 다음에는 효율적으로 제제화하는 과정이 필요하 며, 이것이 바로 프리포뮬레이션이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "프리포뮬레이션은 일반적으로 후보 약물에 대한 물리화학적 성질을 규명하는 연구로 정의된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "또한 후보 약물을 제제화하기 위한 조 건들을 밝히는데 수행되는 모든 연구 역시 프리포뮬레이션이라고 하며, 여러 조건하에 서의 예비 연구 조성들을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이러한 연구의 일반적인 목적은 선택된 원료의약 품의 물리화학적 변수, 반응속도, 물리적 성상 및 일반적으로 사용되는 첨가제들과 배 합적합성을 평가하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이러한 연구들은 제품설계과정에 영향을 줄 수 있으며, 의약품개발의 초기 단계에 수행되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "인체에 적용되는 제제가 치료목적에 따른 약효를 효과적으로 발휘하기 위해서는 안정 성이 확보되어야만 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이러한 목적을 달성하기 위해 여러 조작을 통하여 제제의 조 성 및 제법을 계획하는 것을 제제설계라고 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "원료의약품의 물리화학적 성질 또는 약효발현을 위해서는 제제에 필요한 첨가제의 종류와 성질, 제법 등을 고려해야한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "또한 동일 약물을 동량 함유하는 제제도 약물의 흡수, 대사, 분포, 배설 등의 종합적인 견지에서 볼 때 제제설계에 따라 전혀 다른 제품이 될 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "또한 제제는 제제시 험, 안정성시험, 용출시험 등에 적합해야 하며 비임상 또는 임상시험을 수행하기에 적 합한 제제이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 최적화 단계의 주요한 목적은 최종 시판을 위해 선택된 제품을 최적화하고, 규격 및 핵심 품질 변수들을 확립하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이 단계에서 주요 결과물은 다음과 같 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "- 원료의약품 및 첨가제의 등급 및 분량 - 포장 및 용기 시스템 - 원료의약품, 첨가제의 규격 - 완제 의약품의 규격 의약품 최적화 방법은 개발하고자 하는 제품의 특성에 달려 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이것은 원료의약품 의 다양한 공급처, 등급 및 사용량, 사용되는 물질 사이의 조합, 포장재의 크기 또는 포장재의 종류 등에 따른 여러 범위의 선택사항들에 대한 연구를 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "또한 추가 적으로 후보 약물이나 첨가제의 입자 크기 분포 시험 등이 포함될 수 있는데 입자 크 기는 약물 전달이나 제제 공정에 중요한 영향을 미칠 수 있기 때문이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "예를 들어 폐 흡입을 목적으로 하는 에어로솔제형과 건조 분말 제형은 2~5 마이크로미터의 평균 입 자크기가 요구되며, 난용성 약물을 주사제화하기 위해서는 더 작은 입자크기가 요구된 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "최적화의 초기 단계 제제연구에서는 첨가제 또는 포장재를 선택하게 되는데 가속시 험이나 가혹시험을 통하여 후보 약물과 배합적합한 성분들을 선정하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "최적화 의 마지막 단계에서는 일반적으로 최적의 조성을 선정하기 위해 여러 조성들의 충분한 안정성 자료를 검토하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "최적의 제품은 기술적 이점에 근거하여 선정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의 약품의 최적화 단계에서 사용되는 제조공정은 대량 생산을 고려하여 설계되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이상적으로 제조 공정은 제조공정이 제품의 작용 특성 및 임상시험 결과에 영향을 줄 수 있기 때문에 최종적인 시판 생산 규격의 제조를 최대한 반영할 수 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "완 제의약품 개발 진행도에서는 의약품 및 제조공정의 설계 및 최적화가 각각 분리된 것 으로 나타나있지만, 실제로 이 단계들은 종종 결합되어 있거나 밀접히 연관되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품을 제형화하기 위하여 구성 성분과 제조공정을 선택할 때는 그 약물의 물리화 학적 및 생화학적 성질을 충분히 고려하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발은 원료의약품과 첨가 제의 물리화학적 성질 및 제조공정을 조작하여 최종제품에서 목표로하는 품질을 확보 하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "기존에 사용되던 시행착오에 의한 접근법은 신뢰성이 낮으며 많은 시간이 요구되고, 가끔은 최적화된 것이 아닌 최소한의 요건만 갖춘 처방을 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "최근에는 제품 및 제조공정 개발에서 통계적으로 설계된 실험에 대한 요구가 커지고 있는데, 이를 통하 여 보다 신속하면서도 경제적인 개발이 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "통계적으로 설계된 실험으로부터 확보된 자료를 분석함으로써 제품의 성질에 영향을 주는 제형 및 공정 변수들의 수학적 모델과 등고선 플롯의 작성이 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "최적화를 위해서는 물질들의 물리화학적 성질을 이해하는 것 이외에도 통계적 기술이 요구된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "독립변수(원인)와 종속변수(결과)를 규명하고 원인과 결과로부터 예상되는 관계를 이해 함으로써 성공적인 결과를 도출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "최신 기술을 이용하여 단시간 내에 대량 생산 하는 것은 효율적이며 경제적인 생산 을 위한 필수요소이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이러한 스케일업 단계에서는 보다 크고 빠른 속도의 장비를 사 용하게 되며 이 때 작은 규모의 장비를 사용하여 설정된 공정 변수에 대한 조율이 필 요할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "또한 공정중 반제품이나 완제품은 설정된 제품 규격에 적합하여야 하며, 스케일업 이전 배치와 스케일업 배치는 물리적으로나 화학적으로 동등하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "스케일업 단계의 최초 과정은 배치 크기를 결정하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이 경우, 제조 가능한 최 대의 배치크기보다는 최적의 배치크기를 결정하는 것이 중요하며, 작은 배치 크기의 제조에 사용된 제조 공정과 조작 변수들을 스케일업 계획에 고려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "공정개발 에 이용된 기술 및 장비로 인해 스케일업 작업이 일부 제한될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "공정밸리데이션이란 어느 특정한 공정이 미리 설정되어 규격 및 품질 특성에 적합한 결과가 일관되게 얻어진다는 것을 검증하고 이를 문서화하는 것을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "공정밸리데 이션을 통하여 완제의약품의 의도된 특성을 확보하기 위해서는 제조 공정 중 품질관리 과정에서 나타날 수 있는 유연성을 가지는 사항과 제한사항들을 설정하여 의도되지 않 은 특성이 나타나는 것을 방지한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "공정밸리데이션은 의약품 제조공정에서의 핵심적 인 변수들을 통하여 품질이 확보된 제품을 일관되게 생산하기 위한 체계적인 작업 및 실행한 내용에 대한 문서화를 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "비록 공정밸리데이션이 의약품 개발의 마지막 단계이지만 몇몇 밸리데이션 개념들은 실험실 규모의 개발, 스케일업 단계 및 공정 최 적화 단계에도 포함되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "제조공정이 복잡할 수록 일부 장비들, 공정 및 제품에 대한 변수들은 최종 생산 배치 에 비해 작은 규모에서 최적화된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "일단 제품의 조성과 제조공정을 작은 규모에서 최 적화된 다음, 보다 큰 규모에서 공정단계를 최적화한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이 단계에서 완제의약품이 설 정된 규격의 범위에 적합한지 시험하여 필요한 경우에는 제조공정을 변경하기도 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 제조공정의 단계에 따라 몇몇 핵심적인 공정 변수들을 다양화하여 제품의 특성 을 측정하고 철저하게 평가한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "스케일업이나 공정밸리데이션은 의약품개발 후반부에 수행되지만, 이러한 단계들은 초기단계에서 결정된 의약품의 조성과 제조공정에 크게 영향을 받는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "개발의 초기 단계에서 선택된 기술과 임상시험용 배치를 제조하는데 사용된 제조방법은 제품수명 (life cycle)이 다할 때까지 유지된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "따라서 초기 단계에서의 개발 연구자들은 제조공정과 장비를 선정하는데 있어서 향 후 제품에 요구되는 사항들을 검토해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "제조 공정을 검토하는데 있어서 원료의 약품 및 첨가제의 물리화학적 특성은 사용하는 장비의 용량 및 한계와 함께 고려되어 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "모든 장비들은 임상시험용 배치를 생산하기 이전에 설치적격성, 운전적격성 및 성능적격성이 평가되어야 하며 밸리데이션된 세척방법에 따라 세척되고 시험되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "임상시험용 배치로부터 얻은 모든 서류와 시험 결과들은 추가적인 스케일업을 실시하기 이전에 반드시 재검토 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발이 완료되기까지는 수년이 소요되므로, 진행된 사항을 기록하기 위한 효 율적인 문서화 체계를 갖추어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "실험 기록에 대한 일차적인 참고 자료는 대개 실험노트이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "수행한 실험에 대한 확인, 날짜 기입, 상호 서명을 통하여 지적 재산권 에 대한 요구조건을 충족시킬 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "때때로 실험 계획은 연구에 대한 타당성을 설 명하고 수용가능 범위를 규정하는데 유용하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "연구가 종료되면, 실험 계획과 수용가능 범위를 참고하여 연구 결과를 보고할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "핵심단계의 종료 시점에서, 해당 단계 에 연관된 여러 계획들과 보고서들을 참조하여 주요한 권장사항들과 결론들을 강조한 요약보고서를 작성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이러한 방식으로 정보 및 기술 이전을 위해 필요한 개발 경위 와 타당성을 포함한 제품 개발에 대한 문서 자료를 작성할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발의 목적은 제품의 품질을 설계하고 이와 같은 제품의 성능을 일관되게 제공할 수 있는 제조 공정을 설계하는데 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발을 위한 연구 과정과 제조 경험에서 얻어진 지식과 정보는 제품 규격, 제조 관리 방법 등의 확립을 뒷받침하는 과학적인 설명을 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "선진국의 경우 ICH Q8에서 규정한 디자인 스페이스 (Design space)*를 적용하여 의약품을 개발하는 경우도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발 연구를 통해 얻은 정보는 품질 위해 관리*의 기반이 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "품질*은 제 품의 시험만으로 확보될 수 없으며 제품의 설계를 고려한 개발 과정의 정보들에 의하 여 구축되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "제품의 개발 및 출시 후 제품수명이 다할 때까지 발생되는 조성 및 제조 공정의 변경은 제품에 대한 추가적인 지식을 확보하는 기회로 간주되어야 한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "마찬가지로 예상치 못한 실험 결과를 통해 얻어진 지식도 도움이 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발 부분에서는 선정된 제형과 조성이 사용 목적에 부합하다는 것이 기술되 어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이 부분은 각 항목에 의약품 및 제조 공정의 개발 과정을 설명할 수 있는 충분한 정보를 제공해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "요약표와 그래프를 활용할 것을 권장하며 이는 명확한 이해를 돕고 심사를 용이하게 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "최소한 원료의약품, 첨가제, 용기 및 포장, 그리고 제조공정에 대하여 제품의 품질에 영향을 미치는 핵심적인 사항을 결정하고 관리 방법을 제시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "일반적으로, 주요한 조성의 특성 및 공정 변수가 있는 경 우, 이들의 변동이 의약품 품질에 어느 정도의 영향을 주는지 평가되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "이외에도 개발자는 보다 넓은 범위의 물질 특성, 가공방법 및 공정변수에 대하여 제 품의 성능에 관련된 지식을 넓힐 수 있는 의약품 개발 연구를 수행할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "개발 부분에 기술된 이러한 추가 정보는 물질 특성, 제조 공정 및 공정 관리를 보다 자세 히 설명할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "의약품 개발 연구의 설계 및 수행은 의도된 과학적 목적에 부합해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "2.1 일반사항",
+      "path": null,
+      "ko_txt": "데이터의 양이 아닌 개발 과정을 통하여 얻어진 지식의 수준이 과학적인 제출 서류의 기반이 되어야 하며 또한 규제 평가의 토대가 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "2.2 개발 보고서",
+      "path": null,
+      "ko_txt": "의약품 허가를 받기 위해 제출하는 개발보고서는 일반적으로 국제공통기술문서(CTD) 모듈 3에 포함되며 개발과정을 요약하고 실험 기초데이터(raw data)는 포함시키지 않 는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "2.2 개발 보고서",
+      "path": null,
+      "ko_txt": "제네릭의약품의 경우 그 목표가 대조약과 동등한 제품을 디자인 하는 것이므로 대조약을 비교로 한 시험약의 초기 계획단계로부터 최종 조성을 도출해 내기까지의 개 발 역사와 핵심 조성, 제조과정 변수의 확인을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "2.2 개발 보고서",
+      "path": null,
+      "ko_txt": "일반적으로 요약차트와 표들 은 개발과정의 결과를 보여주며 개발 중에 원료의약품 조성의 변화와 각각의 변화로부 터 제조자가 습득한 정보를 알 수 있게 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "2.2 개발 보고서",
+      "path": null,
+      "ko_txt": "개발보고서에 기술된 개발과정이 완제의약품에 대한 기초적인 이해와 그 약물의 디자 인이 어떻게 핵심적인 성능이나 목표에 집중하고 있는지 반영하고 있다면, 규제당국은 이 제품이 개발보고서에 의해서 뒷받침되지 않은 품질을 가진 비슷한 제품보다 더 낮 은 위험성을 가지고 있다고 생각한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "주성분 및 제품의 특성에 영향을 미칠 수 있도록 특별하게 고안된 원료의약품에 대 한 물리화학적 특성과 생물학적 특성을 파악하고 고찰해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "예를 들면, 용해도, 수분함량, 입자크기, 결정성, 생물학적 활성, 생체투과성은 검토할 필요가 있는 물리 화학적 특성 및 생물학적 특성들이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "이들 특성은 상호 연계되어 있을 수 있으며, 서 로 연관시켜 고려할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "의약품의 성능에 영향을 미치는 원료의약품의 물리화학적 특성 예 : - 용해도 : 처방과 분석방법의 선택에 영향을 줄 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "- 수분 함량 : 결정성, 입자 크기와 같은 다른 특성들과 원료의약품의 안정성에 영 향을 줄 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "- 입자 크기 : 생체이용률, 함량균일성, 현탁액 특성, 용해도, 안정성 등에 영향을 줄 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "- 결정성과 결정다형 : 용해도, 생체이용률 또는 안정성에 영향을 미친다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "원료의약품의 물리화학적 특성이 의약품 성능에 미치는 영향을 평가하기 위해 원료의 약품을 대상으로 한 연구가 필요할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "예를 들어, ICH Q6A 가이드라인 (Specification : Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products: Chemical Substances)은 원료의약품 연구가 필요한 예를 일부 제시하고 있다(예: 별첨 의사결정도 #3 및 #4). 원료의약품의 특성 이 의약품 성능에 미치는 영향을 연구하여 얻어진 지식을 적절히 활용하여, 원료의약 품 규격 설정의 타당성을 제공할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "의약품을 구성하는 첨가제와 원료의약품 간의 배합 적합성을 평가해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "2종 이상 의 원료의약품을 함유하는 제품의 경우에는, 원료의약품 간의 배합 적합성도 평가해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "프리포뮬레이션 연구를 통한 안정성 연구 결과도 배합 적합성을 평가하는데 적용 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "원료의약품과 첨가제간의 배합 적합성 적용 (예 : 내용고형제) 원료의약품과 첨가제 간에 일정 비율로 혼합한 후 가혹 조건하에서 경시변화에 따른 원 료의약품의 유연물질 함량을 측정함으로써 상호 배합 적합성을 평가할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "- 실험 1 : 부형제와 원료의약품을 50:50 비율로 혼합 - 실험 2 : 활택제와 원료의약품을 1:99 비율로 혼합 - 실험 3 : 결합제와 원료의약품을 5:95 비율로 혼합 - 실험 4 : 붕해제와 원료의약품을 5:95 비율로 혼합 폴리에틸렌 뚜껑을 가진 유리병에 보관 후 다음의 가속 조건에서 원료의약품의 유연물 질 함량 변화를 관찰한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "2.3.1. 원료의약품",
+      "path": null,
+      "ko_txt": "배합 적합성 시험결과 예시 실험 조성 가속 조건별 유연물질 함량(%) 번호 원료의약품 첨가제 종류 70℃ / 1개월 40℃,75%RH / 40℃,75%RH / 비율(%) 및 비율(%) 2개월 3개월 유연물질 A : 유연물질 A : 유연물질 A : 1 50 부형제 50 X% Y% Z% 유연물질 A : 유연물질 A : 유연물질 A : 2 99 활택제 1 X% Y% Z% 유연물질 A : 유연물질 A : 유연물질 A : 3 95 결합제 5 X% Y% Z% 유연물질 A : 유연물질 A : 유연물질 A : 4 95 붕해제 5 X% Y% Z%.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "원료의약품과 첨가제와의 배합적합성이 의약품 개발의 부분으로 평가되어야 한다는 것이 ICH 및 미국 등 여러 의약 선진국의 입장이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "그러나 경험적인 연구만으로도 충 분한 경우가 있는데 예를 들면 제네릭의약품에서 대조약과 조성이 유사하면서 두 제품 간의 품질이 동일하고, 알려진 안정성의 문제가 없다면 시간에 따른 연구결과 (historical data)는 배합적합성 연구 대신에 받아들여 질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "다만, 제네릭회사는 대조약에 사용된 원료의약품과 첨가제 사이에도 부적합성이 있을 수 있다는 사실에 주 의해야만 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "수용할 수 있는 완제의약품의 안정성은 단지 최종 제품의 시험에 의존하는 것이 아니 라 안정성에 영향을 미치는 조성 인자를 확인해야 알 수 있으며 첨가제와의 적합성 연 구에서 첨가제 혼합물에 대한 간단한 육안검사만으로는 인정되지 않는다1). 프리포뮬레이션 적용 시 실험계획법(Design of Experiment)을 이용하여 첨가제와의 적합성을 가혹조건의 안정성시험 결과로 확인할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "첨가제 선정, 첨가제 분량, 그 1) Serajuddin et al., J Pharm Sci, 88 696-704(1999) 리고 의약품 성능(예, 안정성, 생체이용률) 또는 제조 특성에 영향을 줄 수 있는 첨가제 특 성들은 각 첨가제의 해당 기능과 관련하여 고찰되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "여기에는 최종 제품 내의 존 재유무에 상관없이(예, 공정 중 사용되는 보조 물질), 의약품 제조에 사용된 모든 물질 이 포함되어야한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "첨가제들 간에 상호작용이 있다고 판단될 경우에도 적합성을 평가 해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "첨가제(예: 항산화제, 흡수촉진제, 붕해제, 방출조절제 등)는 목적한 기능을 나타내야 하 며 의약품 사용 기간 동안 해당 기능이 지속되는지 입증되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "첨가제 성능에 관한 정보는 첨가제의 선정 사유와 품질 특성에 대한 적절한 타당성을 제공할 수 있으며 또한 의약품 규격 설정의 타당성을 뒷받침할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "무균제제의 제조에 사용되는 첨가제에 대해서는 미생물 오염도(Bioburden) 및 엔도톡신 한도(endotoxin limit)를 고려하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "그렇지만 멸균 전 조제 용액의 미생물 오염도 또는 엔도톡신 한도가 공정관리기준 으로서 적절하게 관리된다면 개별 첨가제의 시험 규격에 엔도톡신 시험 설정을 생략할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "특히 첨가제 화학적 합성품일 경우에는 제조에 사용된 잔류용매량이 ICH Q3C 가이드 라인(Impurity guideline for Residual Solvents)에 따라 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "첨가제의 특 성이 제품의 성능과 관련된 경우, 규격 설정의 타당성이 제시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "예를 들면 고 형제 또는 반고형제의 경우 현탁 또는 분산의 특성을 나타내는 첨가제의 규격을 설명하 기 위하여 점도와 같은 적절한 시험 규격이 필요할 수 있다.2) 2.3.2.1. 첨가제의 규격 및 규격 설정 근거3) 1) 공정서 및 고시에 수재된 첨가제의 규격은 해당 공정서 및 고시를 그 규격으로 기재하 2) EMEA.CHMP/QWP/396951/2006. Guideline on excipients in the dossier for application for marketing authorisation of a medicinal product, 19 June 2007 3) 의약품 첨가제 평가 가이드라인, 식약청, 2007.5 고 해당 규격의 시험에 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "l 식약처장이 인정하는 공정서 및 의약품집 : 대한민국약전(KP), 미국약전(USP/NF), 일본약전(JP), 영국약전(BP), 유럽약전(EP), 독일약전(DAB), 프랑스약전(PF) l 일외원규 및 CTFAS(Cosmetic, Toiletry and Fragrance Association of Singapore)에 수재되어 있으며 그 규격이 명기되어 있는 것 l 첨가제를 외용제제에 사용하는 경우 : 일외원규 또는 CTFAs l 식품첨가물규격집에 수재된 착향제 : 식첨 l 원료의약품의 제조에서 공업규격(KS, JIS)를 사용하는 경우 : KS, JIS l 식약처장이 인정하는 타르색소를 사용할 때 : 타르색소고시 다만, 황색4호의 경우 구 체적인 색소명칭(황색4호)를 명기함 2) 공정서 등 이외의 경우 l 다음에 해당하는 규격의 경우 인정가능하며 그 규격을 별첨규격으로 작성하고 해당 규격의 자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "- 일외원규에 수재되어 있으며 그 규격이 명기되어 있는 첨가제를 외용제제에 이외 에 사용하는 경우 중 동일 품목이 동일 투여 경로로 허가가 있는 첨가제 - 식품첨가물규격집에 수재된 착향제 이외의 첨가제 - 일본의약품첨가물규격집(JPE)에 수재된 첨가제 l 규격이 인정되지 않는 경우 적절한 규격을 다음 시험을 통하여 확립하고 분석방법의 밸리데이션(의약품 등 분석법의 밸리데이션에 대한 가이드라인(식품의약품안전청 2004.11) 참조) 및 규격 설정의 타당성을 입증할 수 있는 자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "- 물리화학적 특성 - 확인시험 - 개개불순물 또는 총불순물을 포함한 순도시험 - 완제의약품 제조시 영향을 줄 수 있는 요인과 관련 있는 시험 - 필요시 함량시험 또는 한도시험 2.3.2.2. 첨가제에 따른 완제품 규격 관리 완제의약품의 품질관리 규격에서 구성 성분으로 존재하는 첨가제에 대하여 확인 및 함 량시험을 적용할 필요는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "그러나 항산화제와 보존제에 대해서는 관리기준을 설정해 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "제품의 출하 규격은 제제의 구성 성분으로 존재하는 각각의 항산화제와 보존제 에 대하여 허용기준과 한도를 가진 확인시험과 함량시험을 포함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "제품의 안정 성 규격 또한 보존제에 대하여 한도 기준을 포함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "제품의 제조 과정 중 항산화 제가 사용될 경우, 제품의 규격이 사용된 항산화제의 확인시험 및 함량시험을 포함하고 있지 않다면 이에 대한 합리적 근거가 제시되거나 출하시 뱃치의 제조기록 데이터에 의 하여 항산화제의 한도가 관리되고 있음이 제공되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "항산화제의 한도기준의 적정성은 설정된 조건과 안정성 시험 결과에 근거하여 전체 유 효기간과 제시된 사용중 기간(개봉후) 동안 제품을 보호할 수 있도록 설정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "(현재 한국의 규정에는 항산화제 시험법 설정이 의무화되어 있지 않다.) 4) 2.3.2.3. 항산화제와 보존제 첨가에 따른 안정성 완제의약품의 물리화학적 특성의 유지는 부분적으로 첨가제의 안정성과 특성에 따라 영향을 받는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "의약품 개발자는 ICH 안정성 가이드라인을 준수하여 보존제와 항산화제의 함량을 유효 기간 동안 주기적으로 정량하여 확인하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "보존제 함량은 유효기간 동안 시험을 4) EMEA.CHMP/QWP/396951/2006. Guideline on excipients in the dossier for application for marketing authorisation of a medicinal product, 19 June 2007 통하여 항미생물 보존 효과를 나타내는 수준 이상이 남아 있음을 확인하고 해당량이 규 격에 적합함을 나타내어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "고형제가 아닌 의약품으로 다용량(multidose) 용기의 제품일 경우 가상의 사용중(개봉 후) 조건하에서의 항미생물 보존제 효과가 설정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "이와 같은 시험은 제품의 사용 권장사항을 설정한 조건하에서 실시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "5) * 첨가제의 배합 목적에 따른 선정 사례 : 첩부제의 피부투과촉진제(Penetration enhancer) 선정 첩부제의 경우 피부 투과율을 높이기 위하여 피부투과촉진제(Penetration enhancer) 를 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "점착용제에 원료의약품을 용해시키고 종류별 투과촉진제를 첨가하여 첩부 제의 제법에 따라 제조한 후 시험관내 피부 투과 실험을 실시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "시험관내 피부 투과 실험은 플란츠 셀에 기니피그 피부 또는 누드마우스 피부를 놓고 그 위에 검체를 부착하였으며 용매로 pH 7.4, 0.05M 인산염 완충액을 사용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "이후 정해진 시간마다 용매를 취하여 함량을 분석하고 피부투과율을 조사하여 최적의 투과촉 진제를 선정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "2.3.2. 첨가제",
+      "path": null,
+      "ko_txt": "각각의 피부 투과촉진제에 따른 피부 투과율 시험결과 예시 제제 조성 투과촉진제 시험관내 유량 종류 ㎍/(㎠/hr) 투과촉진제 (%) 원료의약품(%) 점착용제(%) 투과촉진제 A 10 10 80 X±a 투과촉진제 B 10 10 80 Y±b 투과촉진제 C 10 10 80 Z±c 투과촉진제 D 10 10 80 W±d 5) EMEA.CHMP/QWP/396951/2006. Guideline on excipients in the dossier for application for marketing authorisation of a medicinal product, 19 June 2007 기타 첨가제별 배합 목적 및 안전성 정보 등 첨가제 관련 정보는 식약청 첨가제방 홈페 이지(http://addrug.kfda.go.kr)를 참조하여 정보를 얻을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "2.4 완제의약품",
+      "path": null,
+      "ko_txt": "완제의약품 개발에서는 개발하고자 하는 제품이 어떤 특징을 가지고 있고 이러한 특 징들을 가질 수 있도록 어떻게 디자인되었는지, 어떻게 원하는 기능에 도달하도록 개 발계획 세웠는지, 어떤 변수들이 목표에 도달하기 위해서 조정되었는지, 첨가제와 첨가 제의 등급은 어떻게 선택되었는지, 최종 조성은 어떻게 최적화 되었는지에 대하여 기 술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "제제 개발의 초기 개념 설정에서부터 최종 설계에 이르는 제제 설계의 전개 방식, 변 화과정 등을 집중해서 다룬다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "각 제조 공정에 대한 설명과 이를 위한 개발 단계의 실 험 설계 정보들을 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "실험 설계 정보는 의약품 품질을 보증하기 위해 중요한 핵심적 변수를 파악하는 데 유용할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "또한 주성분의 특성뿐만 아니라, 첨가제, 용기 및 포장 시스템, 기타 관련 투여 장치 등을 선택한 이유에 대해서도 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "좋은 조성이라는 것은 반드시 제조 가능해야 하고, 제조공정과 저장수명 동안 제품 화학적, 물리학적으로 안정해야 하며, 생체 적합해야 한다(예를 들면, 그것은 인체에서 쉽게 흡수될 수 있는 각각의 복용량에 주성분의 정확한 양을 포함해야만 한다). 게다 가, 제품의 효율성과 안전성을 보증하기 위해서는 많은 질적 기준과 특정 필요조건들 이 반드시 충족되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "이 모든 조성의 목적은 목표 완제의약품 프로파일(TPP, Target Product Profile)로 기술된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "TPP는 보통 투여경로, 제형과 크기, 특정 전달 요건, 최대·최소 용량, 그리고 약제학적 정밀성을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "TPP는 제제 개발자가 조 성에 기울이는 노력을 집중적이고, 효과적으로 유지하도록 전략을 세우게 해준다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "TPP 의 많은 부분은 시장에서 경쟁할 의약품 혹은 특정 환자들을 목적으로 하는 의약품 등 의 요소에 기초하여 결정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "예를 들면 소아용 의약품의 제형은 씹을 수 있는 정제 혹은 현탁액이 바람직할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "배치 조성 및 조성의 변화에 대해서는 다음 사항을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "배치 조성에 포함된 첨 가제를 선택한 이유 및 첨가제의 범위와 그 타당성을 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "타당성을 제시할 때는 연구개발 또는 생산 과정에서 얻은 실험결과를 근거로 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "아래는 제제 개발 과정의 예이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "표 1의 첫 번째 조성에서 주성분의 용해도는 좋았 으나, 건조 과정에서 혼탁해지는 문제가 발생하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "혼탁의 원인은 주성분(1)의 결정 화인 것으로 밝혀져, 결정화를 방지할 수 있는 표 2의 조성을 시도하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "이와 같이 발생하는 문제와 그 해결을 위한 몇 단계의 과정을 더 거쳐 표 3의 최종 조성을 개발 하게 되는데, 이와 같은 방법으로 제제 개발 과정을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "표 1. 폴리에틸렌글리콜 600 · 프로필렌글리콜 · 정제수를 기초로 하는 처방 조성 1캡슐당 mg (10 oval) 주성분(1) 주성분(2)의 염산염 프로필렌글리콜 폴리에틸렌글리콜 600 포타슘 히드록시드 43% 정제수 포비돈 표 2. 폴리에틸렌글리콜 600에 기초한 처방 조성 1캡슐당 mg (10 oval) 주성분(1) 주성분(2)의 염산염 폴리에틸렌글리콜 600 포타슘 히드록시드 43% 표 3. 주성분(1) Xmg과 주성분(2)염산염 Ymg이 함유된 연질젤라틴 캡슐의 최종 처방 조성 1캡슐당 mg (12 oval) 주성분(1) 주성분(2)의 염산염 폴리에틸렌글리콜 600 정제수 포타슘 히드록시드 43% 또한 아래 과정에 사용된 배치 조성을 제시하고, 개발 단계 별로 조성의 변화가 있으 면 명확히 설명하고 변경 근거를 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "◆ 안전성 및 유효성 임상시험용 배치 ◆ 생체 이용률(bioavailability) 또는 생물학적 동등성 시험(bioequivalence studies)에 사용된 배치 ◆ 안정성 시험용 배치(primary stability batches) ◆ 상업용 배치(commercial formulation) 임상용 및 상업용 의약품에 대한 시험관내 비교시험(예: 용출시험) 또는 생체내 비교 시험(예, 생물학적 동등성 시험) 정보를 요약 기술하고, 이 시험에 대해 상호비교(예: 원개발제품과 제네릭 제품의 유사정도 측정 결과)를 진행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "시험관 내 · 생체 내 비 교시험의 상관관계를 정립하고자 한다면, 연구과정 및 결과에 대한 상호비교자료를 제 시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "상관관계가 성공적으로 정립되면 용출시험 기준 선택에 도움이 될 수 있 고, 잠재적으로는 제품이나 제품의 제조 공정의 변화에 따른 생물학적 동등성 연구의 필요성이 감소될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "아래 예(표 4)는 원개발제품과 제네릭 제품의 시험관 내 비교시험(용출시험)의 상호비 교표이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "용출 양상을 보여주는 그래프를 함께 제시하도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "표4. 제네릭 캡슐제(배치AA) 및 정제 대조약 (배치BB)에서의 주성분(1)의 용출시험 결 과 시간(분) % 용출 (제제 12개에 대한 평균) 캡슐제(배치AA) 대조약 (배치BB) 0 0 0 제네릭의약품의 경우 대조약과의 생물학적 동등성은 TPP의 일부일 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "TPP는 약 물 방출 프로파일을 포함하는 것이 바람직하며 대조약의 제형, 약물 방출, 표시 기재사 항(용법․용량 등)을 고려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "대부분의 제네릭제품들은 대조약에 생물학적으로 동등하도록, 그리고 TPP의 특징에 부합하도록 디자인되는데, 보통 의도된 용출 혹은 약물 방출 양상, 방출 기전의 선택, 그리고 핵심 조성과 생체적합 제품을 만들어내도록 조정된 제조공정 중의 변수를 포함하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "조성은 보통 원료의약품의 한계, 즉 낮은 용해도, 낮은 투과성, 낮은 안정성 그리고 짧은 혈장 중 반감기를 극복하기 위하여 디 자인된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "생물학적으로 동등한 제품을 얻기 위하여 조성과 제조공정 변수를 조정하는데 실험계 획법(DOE)을 사용할 수 있으며, 이것은 한번에 여러 변수들을 조정하고 최적의 조성 을 찾기 위한 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "만약 DOE가 생물학적으로 동등한 제품을 얻기 위한 조성과 제 조공정중의 변수를 조정하기 위해 사용되었다면 그것은 대체조성 부분에 기술되어져야 하고, DOE가 디자인 스페이스를 개선하고, 그것의 완건성을 확립하며 적용 가능한 조 성범위의 디자인 스페이스를 확립하기 위해서 사용되었다면 조성 최적화 부분에 기술 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "연구 요약에는 각각의 조성을 기술하고 어떤 특징이 각각의 조성을 평가하기 위해 사 용되는지 명백하게 나타내야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "조성은 용해도, 생체내 이용률, 안정성 또는 개발과 정에 의존하는 다른 특징들을 대해서 평가될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "국제공통기술문서 (CTD) 제3부의 개발 보고서는 개발 과정에서 연구된 모든 조성을 포함해야 하며 조성들 중에 어떤 것이 가장 중요한 것인지를 심사자에게 알려주고, 제 조사가 제품 성능에 있어서 어떤 성분이 핵심적(critical)이고 어떤 성분이 비핵심적 (non-critical)인지에 관해 나타내야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "즉 개발 보고서는 시도된 모든 조성에서부 터 얻어진 지식을 포괄해야 하며 대안적 조성에 대한 정보는 다음과 같은 목적으로 사 조성 차이를 감지할 수 있는 용출시험 조건의 확립 ◆ 원료물질 혹은 원료의약품 특징에 대한 수용 한도의 설정 ◆ 첨가제 수준의 다양화는 제품 성능을 바꾸지 않는 다는 것을 확립 조성에 대한 디자인 스페이스는 개개의 제약업소의 개발 프로그램에 의해서 결정되고 확립될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "확립된 디자인 스페이스 내의 변경은 규제당국의 승인(prior approval)을 필요로 하지는 않을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "또한 개발보고서에는 조성 개발 프로그램의 관점에서 실패한 연구 중, 단지 시장에서 거래되는 조성에 대하여 실패한 생체연구 (bio-study) 결과(AUC, Cmax, Tmax 등)를 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "조성의 디자인은 바람직한 첨가제 기능을 보증하므로 그 기능성을 제공하는 특정 첨 가제와 등급의 선택 사유에 대하여 기재해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "첨가제가 공정서 수재 규격인 경우, 각조를 따르면 되고, 선택된 특정 규격의 첨가제와 첨가제 규격에 대한 평가 결과가 제공되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "만약 다양한 종류의 첨가제가 평가되었다면 개발보고서에 기재하여 다양한 등급의 첨가제가 적용 가능 하며 기준 한도 이내임을 증명하는 증거로 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "조성 최적화에 대한 연구는 목적으로 하는 조성 범위 내에서 비교적 작은 변동 범위 를 평가하는 것으로 조성 완건성에 대한 연구를 포함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "따라서 넓은 범위의 스페이스를 연구하고 TPP를 만족시키는 조성을 찾는 개발에서 더 일찍 수행되어 온 스크리닝 연구와는 구별되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "2.4.1 조성 개발",
+      "path": null,
+      "ko_txt": "조성 최적화는 또한 제조과정을 최적화하기 위해 서도 수행될 것이다(예: 최적의 활택제 수준 결정). 또한 의약품의 디자인 특수한 목적 의 특징(예: 의약품에 영향을 주는 정제 분할선, 과충전(overfill) 및 위조 방지 대책)이 있다면 이를 기술하고, 이를 채택한 이유와 타당성을 뒷받침하는 정보 등을 제시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "2.4.2 과다투입량 (Overages)",
+      "path": null,
+      "ko_txt": "의약품 처방 상 과다투입량은 과량투여(overdose)의 위험 때문에 일반적으로 사용하 지 않는 것이 바람직하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "2.4.2 과다투입량 (Overages)",
+      "path": null,
+      "ko_txt": "과다투입량은 주로 제조공정 중의 주성분 또는 주요첨가제 의 손실을 보충하기 위해서만 사용하여야 하며 과다투입 시에는 아래와 같이 그 사유 를 작성하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "2.4.2 과다투입량 (Overages)",
+      "path": null,
+      "ko_txt": "또한 제형의 불안정성 때문에 의약품을 과다 투입하는 것은 환 자에게 많은 양이 투여될 수 있으므로 일반적으로 허용되지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "2.4.2 과다투입량 (Overages)",
+      "path": null,
+      "ko_txt": "한편 과충전 (Overfill)은 이론상 처방 량을 정확히 투여하기 위하여 사용되며, 주사제 등 녹여 쓰 는 제형에서 용기나 주사기 등에 묻어 있는 양을 보충하기 위해 주로 쓰인다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "2.4.2 과다투입량 (Overages)",
+      "path": null,
+      "ko_txt": "* 과다투입 사유 예시 : 정제의 경우 특수한 작용기전으로 인한 의약품 양의 보정을 위해 주성분량을 5% 증량하거나, 주사제의 경우 과다투입량은 없으나 과충전을 한 경우 본 부분에서 과충전이 있었음을 서술해 준다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "2.4.2 과다투입량 (Overages)",
+      "path": null,
+      "ko_txt": "또한 과다투입량의 타당성 을 입증할 수 있는 자료로서 여러 개 배치 시험 결과 값을 표 모양으로 정리하여 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "2.4.3 물리화학적 및 생물학적인 특성",
+      "path": null,
+      "ko_txt": "완제의약품의 안전성, 성능 또는 제조와 관련된 물리화학적이고 생물학적인 특성이나 요인들에 대하여 파악하고 이를 평가하는 적절한 시험방법에 대해서 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "2.4.3 물리화학적 및 생물학적인 특성",
+      "path": null,
+      "ko_txt": "이 부 분은 원료의약품의 생리학적인 특징과 제제특성도 포함하여 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "2.4.3 물리화학적 및 생물학적인 특성",
+      "path": null,
+      "ko_txt": "처방과 관련하 여 용출과 재분산성, 입자크기, 응집, 유동학적 특성 등과 같은 변수가 제제 개발기간 동안 고려되어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "2.4.3 물리화학적 및 생물학적인 특성",
+      "path": null,
+      "ko_txt": "예를 들어 흡입제제인 경우에는 에어로졸 입자시험법 개발에 관한 연구를 첨부할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "2.4.3 물리화학적 및 생물학적인 특성",
+      "path": null,
+      "ko_txt": "주사제의 경우는 강장조정(tonicity adjustment), 유제의 구형입자크기, 입자크기와 형태, 점도 및 주사가능성 등과 같은 변수가 고려되어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "2.4.3 물리화학적 및 생물학적인 특성",
+      "path": null,
+      "ko_txt": "- 원료의약품에 결정다형이 있는 경우 완제 의약품 결정형태 변화가 제품성능에 미치 는 영향을 ICH Q6A 가이드라인의 결정도 # 4 에 따라 판단할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "2.4.3 물리화학적 및 생물학적인 특성",
+      "path": null,
+      "ko_txt": "- 결정도 # 7 또는 ICH Q 6B 가이드라인에 따라 용출시험을 실시할지 붕해시험을 실시할지 결정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "2.4.3 물리화학적 및 생물학적인 특성",
+      "path": null,
+      "ko_txt": "제형 별 완제의약품의 성능 또는 제조성능과 관련한 주요 물리화학적·생물학적인 특 징 (요인)들에 논의되는 항목들은 별첨 4.2. 제형별 고려사항에 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "판매용 생산 배치 제조공정 선정 등에 관한 사항을 설명하며, 이는 실험실적 규모, 시 생산 규모 및 밸리데이션 단계를 거쳐 이루어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "선정 공정의 적절성을 입증하 기 위해 가용 공정 옵션과 함께 핵심 조성 특성에 대해 고려했던 사항을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "예를 들어 정제 공정 시 직타공정, 건식과립 및 습식과립 공정 시 적절성을 비교 검토 하여 선정된 공정의 타당성을 설명할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "습식과립법을 적용했을 때 사용된 용매 종류별 안정성(신규유연물질 검출 유무)을 비교하여 용매 선정 사유를 설명할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "스케일업 과정 중 추가 또는 수정된 제조공정이 있을 경우 이에 대해 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "공정개발 연구는 공정 개선, 공정 검증, 지속적인 공정 입증(해당되는 경우), 공정 관 리 기준의 근거를 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "필요한 경우에는 물리화학적 특성뿐만 아니라 미생물학적 특성도 감안하여 공정개발 연구를 실시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "공정개발연구에서 확보한 지식은 의 약품 규격의 타당성을 뒷받침 하는데 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "제조공정 개발 프로그램이나 공정개선 프로그램을 통해 원하는 품질의 제품을 입증하 기 위해 모니터하거나 관리해야 할 중요한 파라미터(예 : 제립종말점)를 결정해야 한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "무균제품인 경우에는 의약품 및 일차 포장 자재의 적절한 멸균방법을 선택하고 이 방법을 선택한 타당성 있는 근거를 제시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "가능한 모든 제품은 최종 용기에 충진되어 충분히 밸리데이션된 멸균법에 따라 사후멸균되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "만약 사후멸균이 불가능할 경우, 박테리아를 여과할 수 있는 필터를 통해 여과하거나 무균공정을 고려 해야 하며 그 이유를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "주요임상시험(안전성, 유효성, 생체이용률, 생물학적동등성) 또는 안정성 시험용 배치 생산을 위한 제조공정과 상업용 생산배치의 제조공정 사이에 유의한 차이가 있다면 그 차이를 기술하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "이 경우 그 차이가 제품 성능(performance), 제조가능성 (manufacturability), 품질에 미치는 영향을 요약하고, 특히 관련 공정과 해당 배치 분 석정보를 용이하게 비교할 수 있도록 기술해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "이러한 차이 설명을 위해 통상 주요 단계별 제조 공정을 도표를 통한 비교표를 작성할 수 있으며, 변경 전 후의 다이 어그램을 통해 설명할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "또한, 관련 공정에 따른 제조번호별 리스트를 작성하 고 사용된 시험 및 배치 규모를 기재하여 용이하게 비교할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "제조소 변경이 있었을 경우 제조공정 변경 사항을 기재하고 각 공정단계, 사용기기 및 장치에 대해 밸리데이션이 되어있음을 확인해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "위의 차이 및 변경으로 인한 변경 전후의 동등성을 입증하는 시험이 필요한 경우 실시한 시험에 대해 언급한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "예 를 들어 ① 생산배치의 식별정보(예 : 배치번호) 및 용도(예 : 생물학적동등성 시험 배 치번호), ② 제조소, ③ 배치규모, ④ 중요설비의 차이(예 : 디자인, 가동원리, 크기의 차이)를 포함하여 서술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "향후, 공정 개선을 위한 유연성을 확보하기 위해 제조공정 개발을 설명할 때는 핵심 특성, 또는 공정 종말점의 모니터를 가능하게 하는 측정 시스템을 설명하는 것이 유용 하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "- 제조공정 개발 중에 확보한 공정모니터는 공정 이해를 돕는 유용한 정보가 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "모든 핵심 특성을 관리하기 위한 공정 조절능력을 제공하는 공정관리 전략도 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "- 계획된 품질의 제품을 신뢰성 있게 생산할 수 있는 공정의 능력을 평가하여 서 술할 수 있다(예 : 여러 작업조건, 다양한 규모, 또는 서로 다른 설비에서의 제 조 공정 성능). 공정의 완건성(process robustness)에 대한 이해는 위해 감소 (risk reduction)에 도움이 될 수 있고, 특히 위해 관리 도구(risk management tools)와 연계하여 향후 제조 및 공정 개선을 뒷받침 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "예) 실험 계획법* 제조공정의 합리적인 개발을 위해서는 여러 가지 실험계획법(Design of Experiment, DOE)을 활용하여 공정요인들의 상대적인 중요도와 그들 간의 상호작용을 통계적으로 평가하고 도식화하여 주요공정변수의 잠재적인 상호작용 및 공정 중의 설정값에 대한 적정범위에 대한 정보를 얻을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "2.5. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "예) 과립배치크기: 실 생산 배치의 1/3크기. 각가의 과립 배치는 건조, 분쇄, 활택 공 정을 위해 3등분 되어있다(각각 실 생산 배치의 1/9 크기). 공정변수: 1. 과립 혼합 시간: 3, 6, 9 분.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "5. 타정시 압축력: 15KN, 20KN, 25KN",
+      "path": null,
+      "ko_txt": "실험디자인은 분할 구획 디자인으로써 공정변수 1은 전체 구획에 관련된 변수이고, 공 정변수 2, 3, 4는 하위 구획에 관련된 변수들, 공정변수 5는 하위-하위 구획 변수로써 각 하위배치에 대해 3가지 타정 압력을 적용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "5. 타정시 압축력: 15KN, 20KN, 25KN",
+      "path": null,
+      "ko_txt": "결과:.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "7. 정제 함량균일성(%, n=10일 때 평균 및 표준편차)",
+      "path": null,
+      "ko_txt": "각 배치의 실험을 통해 수집된 정보를 통계분석하여 적절한 공정변수 값을 설정하여 야 한다.6) 예) 주성분의 입자경에 대한 검토 압축성.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "7. 정제 함량균일성(%, n=10일 때 평균 및 표준편차)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"입자크기\", \"캡핑이 일어나지\", \"배치명\", \"최대\", \"(>50%)\", \"않는 최대 압축력 관찰\", \"경도\", \"(KN)\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "7. 정제 함량균일성(%, n=10일 때 평균 및 표준편차)",
+      "path": null,
+      "ko_txt": "배치A 100 20KN 250N . 끈적임, 박 . 층화, 캡핑 . 등 입자크기 평균의 60～70 70～80 80～90 90～100 100～110 110～120 범위 캡핑이 일어나지 않는 가장 높은 압 축력의 평균(KN) 평균 경도(N) * 제조공정 흐름도 공정 밸리데이션(GMP 자료 참조) (1) 예측적(Prospective) 밸리데이션 6) Pharmaceutical experimental design, MARCEL DEKKER 신제품 또는 제품 특성에 영향을 줄 수 있는 제조공정의 개선.변경에 앞서 만들어질 제품에 대해 미리 실시되는 밸리데이션으로서 다음의 중요 요소를 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "7. 정제 함량균일성(%, n=10일 때 평균 및 표준편차)",
+      "path": null,
+      "ko_txt": "-설비기계와 공정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "2. 공정의 성능 적격성평가",
+      "path": null,
+      "ko_txt": "-제품 규격 -적절한 재밸리데이션에 의한 보증 시스템 (2) 동시적(Ongoing) 밸리데이션 제품을 실제로 생산하면서 일어날 수 있는 여러가지 변동 요인들이 허용 범위내에 있 는지를 공정 관리 등으로 확인 하는 것으로 다음의 경우들이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "2. 공정의 성능 적격성평가",
+      "path": null,
+      "ko_txt": "-가동개시 때의 조사로는 파악되지 않는 변화 포인트 : 무균실의 균상의 변화, 상수의 계절에 따른 수질 변화 -사용 기간이 불분명한 변화 포인트 : HEPA 필터, HPLC의 칼럼의 성능 -공정의 돌발사고 시기의 포인트 : 수질시험, 공기의 품질시험, 배지충전시험 (3) 재밸리데이션 밸리데이션을 다시 실시하는 것으로서 다음의 경우에 필요하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "2. 공정의 성능 적격성평가",
+      "path": null,
+      "ko_txt": "-성분, 작업방법, 배치크기를 변경 -공정에 영향을 미칠만한 제조설비의 변경 -새로운 설비의 설치 -기계, 설비의 대폭적인 개조 -시험 검사방법의 변경 -중간공정이나 최종제품의 시험결과에 이상이 인정되었을 경우 재밸리데이션의 내용은 변경의 정도에 따라 달라진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "2. 공정의 성능 적격성평가",
+      "path": null,
+      "ko_txt": "극단적일 경우 처음부터 완전한 밸리데이션 프로그램을 작성 하여 재밸리데이션을 행하여만 하나, 통상적으로 부분적 인 공정의 밸리데이션으로도 충분하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "2. 공정의 성능 적격성평가",
+      "path": null,
+      "ko_txt": "(4) 회고적(Retrospective) 밸리데이션 이미 시판되고 있는 제품에 대하여 수집된 생산, 시험, 관리 등의 데이터에 따라 실시 되는 밸리데이션으로 착수 시 유의 검토해야 하 중요사항은 아래와 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "2. 공정의 성능 적격성평가",
+      "path": null,
+      "ko_txt": "-공정중의 모든 중요 단계의 목록 작성 -계측을 필요로 하는 공정 변수의 선택 -최종 제품 시험의 모든 시험 항목의 특성 -통계적 평가에 의한 모든 데이터의 조사.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "상업용 제품의 용기 및 포장 시스템과 해당 시스템을 선택한 이유를 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "대량 의약품용 보관 및 운송 용기를 포함하여, 보존 및 운송을 위한 용기 및 포장 시스템 의 적절성과 완제의약품의 목적 용도를 고려하여 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "용기 및 포장 시스템에 대한 자료의 양과 형태는 완제의약품의 제형 형태나 투여 경로에 따라서 달리 입증해 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "예를 들면, 경구용 산제의 용기 및 포장 시스템에 대한 자료보다는 주사제의 경우가 더 상세해야 하며, 액상 형태의 제제가 가루형태나 고체의 경우보다 더 많은 자료가 제공되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "1차 용기 (완제의약품과 직접 닿는 포장 자재) 선택의 타당성을 제시하고, 용기 마개 의 완전성 (Integrity, 용기 및 밀봉이 완전한 상태임을 증명하기 위해 실시한 연구 및 고무전 사용 시 이에 대한 상호 작용)에 대한 내용을 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "제품과 용기 또는 라벨 사이의 상호 작용 가능성도 고려한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "예를 들어 재질의 선택, 습도 및 빛으로부 터의 보호, 구성 재질과 제품 사이의 적합성 (용기 흡착 및 유출 포함), 구성 재질의 안전성을 고려하여 1차 포장 자재를 선정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "관련성이 있으면 2차 포장 자재의 타 당성도 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "투약 장치를 사용한다면 (예: 드로퍼 피펫, 펜 주사 장치, 건조 파우더 흡입기 등), 가능한 제품 사용 상황을 모의 시험한 테스트 조건에서 정확한 투여량이 재현성있게.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"전달된다는\", \"것을\", \"증명해야\", \"한다.\", \"인토우-체인지\", \"카트리지\", \"(Intow-change\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "Cartridges) 및 투-챔버 카트리지(Two-chamber Cartridges)의 경우에는 설명서 상 의 사용법에 따라 동결건조물의 재용해와 카트리지 내의 현탁액의 균일한 재현탁이 올바르게 행해지는 지에 대한 자료를 기술해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "무균제제에 대하여 용기 및 포장 시스템은 완제의약품이 최적의 멸균을 수용할 수 있도록 선택하고 이에 대한 자료를 입증해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "2.6. 용기 및 포장 시스템 (Container Closure System)",
+      "path": null,
+      "ko_txt": "안정성 시험을 통해 해당 용기 및 포장 시스템이 외부 환경에 대해 권장되는 유료기간 동안 적절한 무균 상태를 유지하 는 정보를 입증해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "필요한 경우 의약품의 미생물학적 특성을 이 부분에서 설명할 수 있는데(CTD 3.2.P.2.5), 일반적으로 제조에 앞서 의약품 제조용 원료를 시험하지 않았거나 밸리데이션 실험을 통 해 제조 공정이 미생물 오염이나 증식 위험을 가지고 있다면, 의약품에 대해 미생물 한도 시험을 실시하는 것이 바람직하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "이 때 다음과 같은 사항을 포함해야 하며 ICH Q6A 가 이드라인의 의사결정도 #8을 시험 여부 및 시험기준, 방법 등의 결정에 활용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "- 비무균 의약품인 경우 미생물의 한도 시험을 실시하거나 실시하지 않은 타당한 이유 - 항미생물 보존제를 함유한 제품의 보존제 시스템의 선택 이유와 효과 또는 내재적으 로 항미생물 특성을 갖는 제품인 경우에 항미생물 효과 - 무균 제품의 경우 미생물 오염 방지와 관련한 용기 마개 시스템의 보전성 또한 주성분의 특성, 제조 방법, 의약품의 사용 목적에 근거하여 미생물 시험 유형과 허용 기준을 설정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "예를 들어 주성분을 무균적으로 제조할 때는 무균 시험이 적절하며, 주 사제를 만들기 위한 주성분인 경우에는 엔도톡신 시험을 적용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "또한 과학적 타 당성이 있는 경우 내용 액제로 재용해(reconstitution)하여 사용할 분말, 내용 고형제에 대 해서는 미생물 한도 시험을 생략할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "보존제 함량의 화학적 시험이 일반적으로 의약품 규격에 포함되어 있더라도, 항미생물 보 존제의 효과는 개발 단계에서 증명되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "항미생물 보존제의 효력 시험을 통해 항미 생물 보존제의 최저 지정 농도 (the lowest specified concentration)가 미생물 억제에 효 과적임을 증명해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "또한 사용하는 보존제 농도의 타당성을 안전성과 유효성 측면에 서 증명해야 하고, 제품의 예상 유효기간 동안 유효한 최저 농도로 보존제를 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "연관성이 있는 경우 개발단계에서 환자의 사용 상황을 최대한 고려한 모의 시험 조건으로 미생물 챌린지 시험을 실시하고 이와 관련된 정보를 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "2.7. 미생물학적 특성",
+      "path": null,
+      "ko_txt": "주성분 및 첨가제에 대해서 는 ICH Q6A 가이드라인의 의사 결정도 #6를 추가적으로 참고할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "완제의약품을 용제에 녹이거나 희석시켜 사용하는 경우 희석액과의 적합성 (예: 침 전, 안정성 등)에 관한 정보를 제시하여, 라벨 표시 정보의 적절성을 뒷받침한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "해 당 정보는 권장 보존 온도와 최저·최고 농도에서의 권장 사용 기한을 포괄하는 정보 여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "제제 개발 도중 예상되는 최종 제형에 대한 주성분과 첨가제 간의 적합성 정보를 확보해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "희석액에 재용해하여 사용하는 완제의약품의 경우, 재용해한 다음 실제 사용하는 온 도조건에서 물리화학적으로 안정하다는 증거로서 적절한 기간(예: 2주 ~ 4주 또는 라 벨의 지시사항 기간 혹은 권장되는 사용기간) 동안의 안정성 결과를 보여주어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "이러한 경우 최저·최고 농도에서 희석액과 주성분간의 안정성 시험을 통해 적합성에 대한 정보를 제시할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "필요하다면 재용해 후 사용기한을 라벨에 명시하여 품 질의 저하가 발생한 제품이 사용되지 않도록 해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "예비 안정성 시험 결과자료 도 유용하다면 추가적인 데이터로 제공될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "의약품을 녹여서 사용하는 용제에 녹이거나 희석시켜 사용하는 의약품의 경우 희석액 과 조제를 위한 용기 및 포장 시스템, 장치 등과의 상호적합성에 관한 정보를 표시기 재사항 및 사용설명서에 표시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "이 정보에는 권장 보관온도와 적정 농도에 서의 권장 사용기간을 표시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": "2.8. 적합성 (Compatability)",
+      "path": null,
+      "ko_txt": "마찬가지로 투약 이전의 제품 희석 또는 혼 합 (예: 대용량 수액용기에 제품 투입) 부분도 기술할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": "3. 용어 정의",
+      "path": null,
+      "ko_txt": "실험 설계 (Formal Experimental Design) : 공정에 영향을 주는 인자와 그 공정 결과물 간의 관계를 결정하기 위해 체계적으로 구 성된 방법. 또한 “실험 계획법(Design of Experiments)\" 으로 알려져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": "3. 용어 정의",
+      "path": null,
+      "ko_txt": "제품수명 (Lifecycle) : 초기 개발부터 발매를 거쳐 제품 판매를 중단할 때까지의 한 제품 생애의 모든 단계. 공정분석기술 (PAT, Process Analytical Technology) : 최종 제품의 품질보증에 적합하도록 공정관리와 원료 물질 및 공정 중 반제품에 대하 여 핵심 품질 요소 및 성능 특성을 적시(즉, 가공 중에)에 평가하여 제조 및 품질관리를 수행하는 설계, 분석 및 관리 체계. 품질 (Quality) : 원료의약품 및 완제의약품이 목적 용도에 적합함을 나타내는 특성. 이 용어는 확인, 함 량(역가), 순도와 같은 특성을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": "3. 용어 정의",
+      "path": null,
+      "ko_txt": "품질 위해 관리 (Quality Risk Management) : 완제의약품의 제품수명 전체에 걸쳐 품질에 대한 위해 요소를 진단하고 통제 및 커뮤 니케이션(위해 및 위해 관리에 관한 정보를 의사 결정자와 기타 이해관계자가 상호 공유 하는 것)과 검토 등을 행하는 체계적인 관리 방법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": "4.1. 표 -의사결정도",
+      "path": null,
+      "ko_txt": "의사결정도 #8: 비무균 의약품의 미생물학적 특성 의사결정도 #6: 약효 성분 및 첨가물의 미생물학적 품질 특성 의사결정도 #3 : 원료의약품의 입자분포도에 대한 허용기준 설정 의사결정도 #4 : 원료의약품과 완제의약품의 결정다형에 대한 허용기준 설정 원료의약품 “파트 1” “파트 2”.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": "1. 신약 중 원료의약품",
+      "path": null,
+      "ko_txt": "1) 물리화학적 특징 용액의 PH, 녹는점, 굴절률 같은 것으로 새로운 원료의약품의 물리적 특징 과 용도에 의해 결정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": "1. 신약 중 원료의약품",
+      "path": null,
+      "ko_txt": "2) 입자크기 고형제 또는 현탁제의 완제의약품 제조에 사용할 원료의약품인 경우, 입자크 기는 용출률, 생체이용률 및 안정성에 영향을 미칠 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": "1. 신약 중 원료의약품",
+      "path": null,
+      "ko_txt": "따라서 이런 경 우 입자크기 분포에 따른 완제의 용출률 등을 시험하는 것이 좋다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": "1. 신약 중 원료의약품",
+      "path": null,
+      "ko_txt": "3) 결정다형성(polymorphism) 원료의약품은 물리적 특징이 서로 다른 결정형태로 존재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": "1. 신약 중 원료의약품",
+      "path": null,
+      "ko_txt": "이러한 결정다 형성 또는 무정형의 특징이 완제의약품 제조성능, 생체이용률, 용출률 또는 안정성에 영향을 주는 지에 대한 시험결과를 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": "1. 신약 중 원료의약품",
+      "path": null,
+      "ko_txt": "만약 밝혀진 차이가 존재하는 경우에는 적절한 결정형태를 규정해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": "1. 신약 중 원료의약품",
+      "path": null,
+      "ko_txt": "물리화학적인 특정 기 법으로는 녹는점, 고체상 IR, X-선 회절분석법, 열분석법 (DSC, TGA, DTA), 라만분광법, 고체상 NMR 이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "1) pH 생체이용률에 대한 잠재적인 pH별 효과를 주성분과 부형제들에 대하여 고 려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "또한 pH에 대한 물리적 연관성도 제시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "pH에 대 한 의존도가 관찰되면 잠재적인 장기 효과를 안정성기간 동안 조사하여 제 시한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "pH를 좁은 범위에서 조절해야 한다면 투여 경로와 투여용량을 고려 하여 완충용액을 이용하는 것도 적용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "2) 함량균일성 - 특별히 1/2 분할 정의 경우는 분할된 반 정제에 대하여 함량균일성을 언급하고, 발포제인 경우 액체와의 조화성, 완제의 함량 균일성, 용출 및 붕해 정도, 생체내-시험관내 생체이용률에 대한 연구가 수행되어져야 한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "- 주성분과 첨가제간의 다른 물리적 특성은 적용코자 하는 부위에 대한 불균형적인 분배와 변형을 초래할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "그러므로 연구 개발은 벌크 상태 또는 단위 고형제제 상태의 동질성(Homogeneity)과 성능에 대하여 제시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "내용고형제의 동질성은 혼합공정에서 주성분의 고른 분산을 확인하거나 완제의 함량균일성에 대한 분석 결과를 제시하여 설 명할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "3) 용출시험 내용고형제의 성능 시험은 제형으로부터 적용 부위에 대한 약물의 전달 지 표로 고려될 수 있으며 이것은 제형과 투여 경로에 따라 영향을 받는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "고 형제의 성능 모니터링은 일반적으로 붕해시험 또는 적절한 용출액 조건(pH 별)하에서의 주성분의 용출시험 결과로 설명할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "용출시험에서 수용성 용출액에서 방출되는 주성분의 양은 제품의 생체내의 동태를 반영하도록 의도되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "실제적으로 생체상의 약물동태는 비 생 체상의 실험과 생체상의 상관관계를 어렵게 만드는 많은 인자들에 의해 영 향을 받는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "그럼에도 불구하고 용출시험은 개발단계의 모든 고형제들의 용출 특성에 대한 유용한 데이터들을 제공하며 용출시험과 생체내 동태간 의 관련성에 대한 결론을 만들 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "고전적 내용고형제와 방출제어 내용고형제의 시험에 사용되는 용출 기구들 은 약전을 준수해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "적용된 용출시험 장치가 이에 적합하지 않을 경 우, 약전을 대체하는 방법의 사용에 대한 타당성이 제시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "a) 고전적인 방출 제형 용출시험은 본 시험이 완제품의 규격내에 일상적으로 포함되어야 하는지 를 결정키 위해 개발과정과 안정성 시험 시 수행되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "b) 방출 제어 제형 배치의 재현성을 관리키 위해 적용될 용출 시험 조건과 방출 속도의 선택 에 대한 타당성이 제시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "이것은 제품의 방출과 흡수 프로파일 을 설정키 위해 수행되는 생체 내 연구를 설명해야 하며 가능하다면 비 생체시험에서 설정된 규격의 유의성을 확인키 위해 비 생체시험의 방출 속도와 생체 내 결과의 상관관계가 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "이와 같은 상관관계 는 좁은 치료 영역을 가진 주성분을 포함한 의약품에 대해 특별히 중요할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "4) 붕해시험 생리적인 범위 (pH 1.2-6.8, 용량·용해성 부피 250 mL 미만)에서 상당히 잘 녹는 원료의약품을 함유하는 신속하게 용출되는 제품인 경우에는 용출 시험 대신 붕해시험으로 대체할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "또한 용출과의 관계가 설정되고 붕해가 용출보다 더 변별력이 있는 경우에 붕해시험을 선택할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "또 한 붕해시험은 경구용 내용고형제의 코팅전 나정 또는 기타의 최종 코팅전 의 제형에 대하여 중간 공정검사로 실시될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "sentence",
+      "section": "2. 내용고형제",
+      "path": null,
+      "ko_txt": "용출시험 또는 붕해시 험의 선정과 관련하여 조제 및 제조공정의 견고성을 뒷받침하는 개발 정보 를 제공할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "sentence",
+      "section": "3. 캡슐제",
+      "path": null,
+      "ko_txt": "캡슐제의 경우 조제액의 투명성과 점성이 제조성능에 중요한 인자이므로 이에 대해 언급할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "sentence",
+      "section": "3. 캡슐제",
+      "path": null,
+      "ko_txt": "예) 주성분 2를 계면활성제PEG 600과 정제수에 녹인 액과 주성분 1을 계 면활성제 PEG 600과 포타슘 히드록시드 용액에 녹인 액과 혼합 시 탁도와 높은 점성이 없는 투명한 용액을 얻었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "1) 항미생물제 보존제 함유수준 결정, 효과와 안정성 결과와 연관해서 기술한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "적절한 보조제의 수준을 결정하는데 있어서는 저장조건, 재용해, 사용전 희석, 포장을 여는 빈 도수와 같은 요소들이 고려되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "보존기능의 유효성에 대한 실험이 실시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "시험은 적절한 음성대조와 양성대조를 사용해야 하며 적절 하게 유효성이 검증 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "또한 적절한 항세균 그리고 항진균 효과를 설명하기 위해 적합한 미생물이 선택되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "2) 항산화제 함유의 필요성, 효과를 언급한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "항산화제는 제품의 제조 과정 중 또는 사 용기간 중에 분해되어질 수 있으므로 항산화제의 수준에 대한 타당성이 제 시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "그리고 적절한 실험적 데이터를 이용하여 제품의 제안된 유 효기간 동안 항산화제가 충분한 활성이 유지된다는 것을 설명한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "3) 의도적 이용에 대한 적합성(예: 정맥주사액에 대한 첨가제 들) 투여전 희석 또는 재 용해에 대한 지시사항을 제시해야 하며 권장되는 또는 제시되는 사용기간에 대하여 추천되는 희석제와 투여 기구에 대한 물리적, 화학적 조화성에 대한 설명이 데이터에 제시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "투여전 제품을 다 른 특이적 제품과 혼합하는 것은 “제품특성요약서(SmPC, Summary of Product Characteristics)에 제시되어야 하며, 권장되는 사용기간과 보관온도 에 대하여 최대의 농도에 대한 전체적인 조화성 데이터가 제공되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "4) 재분산성 보존 중에 침전이 생기는 내용 현탁액인 경우에 재분산성에 대해 시험하고 이에 대한 허용기준이 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "흔들어 주는 것이 적절한 방법일 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "5) 유동학적특징 상대적으로 점액성인 액체 또는 현탁액인 경우 유동학적 특징(점도, 비중)에 대한 시험을 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "필요한 경우 시험법 및 허용기준을 명기한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "6) 재용해시간 재용해시켜 투약하는 건조파우더 제품의 재용해시간에 대해 시험하고 이에 대한 기준을 정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "희석액의 선정이유를 제시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "sentence",
+      "section": "4. 내용액제 또는 반고형제 의약품",
+      "path": null,
+      "ko_txt": "제품개발 과정에서 얻은 데이터를 통해 규격에서 이 항목을 빼거나 약식시험의 타당성을 증명할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "sentence",
+      "section": "5. 경피흡수 패취제",
+      "path": null,
+      "ko_txt": "피부용 패취제는 한 가지 또는 그 이상의 주성분을 포함한 다양한 크기의 유연 한 의약품 제형으로 정상적인 피부를 통하여 주성분을 체내 순환계로 전달하는 목적의 제형이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "sentence",
+      "section": "5. 경피흡수 패취제",
+      "path": null,
+      "ko_txt": "이와 같은 시스템은 일정한 흡수 속도를 가진 접촉된 피부를 통하여 주성분을 전달토록 설계 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "sentence",
+      "section": "5. 경피흡수 패취제",
+      "path": null,
+      "ko_txt": "피부전달계를 통하여 투과되는 유효성 분들의 상관성 논의 즉, 물리화학적화인 특징, 역가, 생체적합성, 임상학적인 특 징들에 대한 논의가 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "sentence",
+      "section": "5. 경피흡수 패취제",
+      "path": null,
+      "ko_txt": "특별히 주성분과의 비조화성에 대한 가능성을 배 제키 위해 매트릭스층과 점착 물질에 대하여 초점을 맞추어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "sentence",
+      "section": "5. 경피흡수 패취제",
+      "path": null,
+      "ko_txt": "패취제에서 주성분의 방출 특성은 적합하게 설계된 확산셀, 적절하고 타당한 장애막 (membrane barrier), 예를 들면 유럽 약전 \"Dissolution test for transdermal patches (2.9.4)\"에 명시된 기구를 사용하여 설정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "sentence",
+      "section": "5. 경피흡수 패취제",
+      "path": null,
+      "ko_txt": "투과율 특성은 출 하시점 또는 유효기간의 종료시점에서 제품의 규격에 정의될 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "sentence",
+      "section": "6. 흡입 또는 폐 전달 제품",
+      "path": null,
+      "ko_txt": "가압 분사 용량, 건조분말, 분사된 제품의 형태, 코에 대한 분무기, 시험 항목 등에 대하여 언급한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "sentence",
+      "section": "6. 흡입 또는 폐 전달 제품",
+      "path": null,
+      "ko_txt": "자세한 가이드라인 제시가 필요한 경우도 있다 최소 충전 용량, 분출물 특징, 투여 용량 균일성, 전달기구 포함·불포함 시 미세 입자질량, 단일 투여 용량, 분사 단계 마다의 입자 분포, 작동장치의 위치, Droplet 크기 분포, 흔드는게 필요한지, 세척 요구사항, 저온에서의 형태, 온도 순환 후의 형태 (저-고-저), 조화성, 방부력, 가습 효과, 물리적 특징, 강건성, 기구개발 등의 측면에 대하여 의도된 기능과 연관하여 논의한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "sentence",
+      "section": "7. 파우더형 흡입제 (Dry powder for inhalation)",
+      "path": null,
+      "ko_txt": "이 제형은 1회 처방 제제 또는 수회 처방 제제이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "sentence",
+      "section": "7. 파우더형 흡입제 (Dry powder for inhalation)",
+      "path": null,
+      "ko_txt": "입자의 특성 즉, 크기, 모 양, 주름과 전하 등의 성질은 주성분과 첨가제의 혼합에 대한 유동성과 함께 제 시될 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "sentence",
+      "section": "7. 파우더형 흡입제 (Dry powder for inhalation)",
+      "path": null,
+      "ko_txt": "투여되는 약물량은 공기의 유속에 의존적일 수 있으므로 이 것은 생체적인 그리고 비생체적 조사가 수행되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "sentence",
+      "section": "7. 파우더형 흡입제 (Dry powder for inhalation)",
+      "path": null,
+      "ko_txt": "생체내 연구에 대한 적합한 성능을 나타낸 배치들과 함께 비생체적 실험의 결과들에서 나타난 상관 관계를 조사하는 시도가 행해져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "sentence",
+      "section": "7. 파우더형 흡입제 (Dry powder for inhalation)",
+      "path": null,
+      "ko_txt": "주입관에 존재하는 약물에 대해서도 또 한 제시될 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "sentence",
+      "section": "7. 파우더형 흡입제 (Dry powder for inhalation)",
+      "path": null,
+      "ko_txt": "그 밖의 조사가 필요한 변수로는 약물/첨가제 혼합물의 수분 함량이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "sentence",
+      "section": "4.3 제조공정개발 기재사항의 목차 예시",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"[고형 경구제]\", \"1. 완제의약품의 조성\", \"1.1 원료의약품\", \"1.2 첨가제\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "sentence",
+      "section": "1.2.1 적합성 시험 (Compatibility studies)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"1.2.2 첨가제 선정 사유\", \"2. 완제의약품\", \"2.1 제형 개발\", \"2.2 과다투입량\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "sentence",
+      "section": "2.3 물리화학적 특성과 생물학적 특성",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"2.3.1 균질성\", \"2.3.2 실시된 시험\", \"3. 제조 공정 개발\", \"3.1 직타 공법\", \"3.2 건식 과립\", \"3.3 습식 과립\", \"3.4 Scale-up\", \"4. 용기 및 포장 시스템\", \"5. 미생물학적 특성\", \"6. 적합성\", \"▶ 표\", \"용해도\", \"첨가제\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "sentence",
+      "section": "2.3 물리화학적 특성과 생물학적 특성",
+      "path": null,
+      "ko_txt": "최종 시판용과 임상용 조성 차이 임상시험에 사용된 조성 유사성 평가를 위해 사용된 배치 (최종시판용/임상시험용) 비교용출 자료 (최종시판용/임상시험용).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "sentence",
+      "section": "2.3 물리화학적 특성과 생물학적 특성",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"[패취제]\", \"1. 완제의약품의 조성\", \"1.1 원료의약품\", \"1.2 첨가제\", \"2. 완제의약품\", \"2.1 제형 개발\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "sentence",
+      "section": "2.1.4 접착력 강화를 위한 공정",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"2.2 과다투입량\", \"2.3 실시된 시험\", \"2.3.1 탈착 강도\", \"2.3.2 부탁 강도\", \"2.3.3 용출\", \"3. 제조 공정 개발\", \"4. 용기 및 포장 시스템\", \"4.1 용기 흡착\", \"5. 미생물학적 특성\", \"6. 적합성\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "sentence",
+      "section": "2.1.4 접착력 강화를 위한 공정",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"▶ Tables\", \"시험된 매트릭스 조성\", \"산소 유입시 분해 산물\", \"항산화제 첨가시 분해 산물\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "sentence",
+      "section": "2.1.4 접착력 강화를 위한 공정",
+      "path": null,
+      "ko_txt": "부착 향상을 위해 제조된 조성 임상시험에 사용된 조성별 패취의 부착력 비교 시험용 및 최종 시판용 패취의 조성 비교.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "sentence",
+      "section": "2.1.4 접착력 강화를 위한 공정",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"[동결건조 주사제]\", \"1. 완제의약품의 조성\", \"1.1 원료의약품\", \"1.2 첨가제\", \"2. 완제의약품\", \"2.1 제형 개발\", \"2.2 과다투입량\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "sentence",
+      "section": "3. 제조 공정 개발",
+      "path": null,
+      "ko_txt": "3.1 Oxygen 관리방법.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "sentence",
+      "section": "3.4 동결건조 cycle 개발",
+      "path": null,
+      "ko_txt": "3.5 Full scale manufacturing experience.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "sentence",
+      "section": "3.4 동결건조 cycle 개발",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"3.7 결론\", \"4. 용기 및 포장 시스템\", \"5. 미생물학적 특성\", \"6. 적합성\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "sentence",
+      "section": "3.4 동결건조 cycle 개발",
+      "path": null,
+      "ko_txt": "7. Cross reference table of clincal trial lots used in clinical studies.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "sentence",
+      "section": "3.4 동결건조 cycle 개발",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"[서방출 펠렛]\", \"1. 제조공정\", \"2. 상업적 제조공정\", \"2.1 Homogeneity\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "sentence",
+      "section": "3.4 동결건조 cycle 개발",
+      "path": null,
+      "ko_txt": "2.2 Classification of pellets 2.3 Blending 2.4 Product temperature 2.5 Drying endpoint 2.6 Manufacturing hold times 2.7 Manufacturing in process control.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "sentence",
+      "section": "3.4 동결건조 cycle 개발",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"2.8 Dissolution\", \"3.안정성 연구\", \"[캡슐제]\", \"1. Overview\", \"2. Blending\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "sentence",
+      "section": "3.4 동결건조 cycle 개발",
+      "path": null,
+      "ko_txt": "3. Encapsulation [필름코팅정제] 1. Introduction 2. Manufacturing process 3. Testing methods and Equipment 4. Investigatgion on critical aspects of the process 4.1 Granualtion, milling 4.2 Blending 4.3 Compression 4.4 Filim coating 5. Conditions for proposed commercial process 6. Conclusion : 이러한 연구의 결과 이 약은 필름코팅정제로 제조하는 제조공정이 파 이럿 스케일 수준에서 제안된 공정중 관리방법을 이용해서 채택되었으며 상업용 제 조공정에서는 파이럿 스케일과 뱃치 사이즈 크기변경으로 인한 장비의 변경이외에 는 동일한 제조공정이 채택되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "2.3.P.2 의약품 개발 이 개발보고서는 언제부터 시작되어져야 하는가? 완전한 개발보고서는 모듈 3에 포함되어야만 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그것은 이 RLD에 대한 ANDA 를 위한 초기 계획단계로부터 개발이 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그것은 최종 조성을 야기한 개발역사가 기술되어져야 하며, 이 물질에 대한 핵심 조성과 제조과정 변수의 확인 을 포함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "자세한 것은 ICH Q8을 참조할 것. 모듈3 개발보고서는 개발과정을 요약해야 하며, raw data는 포함시키지 않고 요약 차트와 표들을 이용하여 개발과정의 결과를 보여주어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "읽는 사람으로 하여 금 개발 중에 조성이 어떻게 변화하였으며, 각각의 변화로부터 제조업소는 무엇을 배운 것인지 알 수 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "QOS내의 개발보고서의 요약은 분량이 어떻게 되어야 하나? 개발보고서의 QOS는 OGD에 의해 제공된 질문들에 의해 guide되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "개발 역사는 얼마나 거슬러 가야 하나? 이 RLD에 대한 ANDA의 초기 계획단계까지. 개발단계에서 사용된 용출 방법이 FDA에서 추천하는 용출방법과 다른 경우에는? 모든 적절한 용출방법이 개발과정에서는 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "개발 롯트는 생산된 non-GMP일 수 있는가? 예 법적 권고사항이나 조언이 조성이나 제조 특허에 관련된 개발을 하는 선택에 대한 motivations를 공유하지 않는 것을 권고한다면 제조업소는 어떻게 해야 하는가? 타당성의 입증이 개발보고서에서 제공되지 않았다면 심사자는 전화로 회사에게 설 명에 대해서 요청할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "왜 OGD는 제품 개발(Product Development)에 대한 것을 묻는가? 제네릭 제조업소의 목표는 RLD와 동등한 제품을 디자인하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "FDA가 디자 인의 질을 생각하는 방향으로 가면서, 시험의 질에서는 멀어지고 있기 때문에 심사 자들은 가능성있는 제네릭 제품의 디자인을 평가하는 것으로 기대되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "일단 제품의 디자인이 납득이 되면, 그 다음에 제조업소가 지속적으로 의도한 대로 기능 하는 제품을 만드는 것을 확증하기 위한 기준과 다른 필요조건들을 정립하는 것이 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "제품 개발보고서에 대한 질문은 심사자가 제품의 디자인에 대한 유용한 정보를 발 견하도록 이끌기 위한 의도를 가진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "또한 제조업소가 그들이 무엇을, 왜 했는지 설명하도록 이끌어준다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "개발과정이 완제의약품에 대한 기초적인 이해와 그 약물의 디자인이 어떻게critical 성능 goals의 성취에 집중하고 있는지 반영하고 있다면, OGD는 이 제품이 개발보 고서에 의해서 뒷받침되지 않은 질을 가진 비슷한 제품보다 더 낮은 위험성을 가 지고 있다고 생각한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "의약품 개발 연구는 critical product 성능 특성에 관련된 허용기준을 정립하는 것을 도와줄 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "OGD는 제조업소의 개발과정에 있어서 결함을 찾을 수 있는가? 아니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "제조업소는 그들이 적합하다고 결정한 모든 개발 연구를 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "심사자들은 제조업소의 연구와 개발프로그램의 평가를 기준으로 한 결함을 기록하 지는 않을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "심사자들은 신청자의 결론에 대해서 의견을 제시할 수는 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그리고 제공된 의약품 개발 정보에 대한 심사자의 평가는 신청서의 위험성에 영향 을 끼칠 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "2.3.P.2.1 완제의약품의 성분 2.3.P.2.1.1 원료의약품 원료의약품의 어떤 성질이나 물리화학적 특성이 완제의약품의 개발과 제조, 성능에 영향을 줄 것인가? OGD가 알고 싶어하는 것은 무엇인가? 원료의약품의 안정성, 제조과정, 혹은 biopharmaceutics에 영향을 미치는 성질을 포 함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "원료의약품의 성질에 대한 지식은 조성과 제조과정에 대한 결정에 이 르게 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "원료의약품의 물질 자체의 안정성은 완제의약품의 디자인과 성능, 제조과정에 영향 을 미칠 수 있으므로, 완제의약품의 고유의 안정성(가혹시험에서 발견되거나, 혹은 가능성 있는 분해경로에 대한 지식 등) 특성들이 여기에서 논의되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "결론을 뒷받침하기 위해 수행된 연구는 반드시 요약되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그 예로 원료의약 품의 입자크기의 작용으로서의 용해를 들 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이 연구는 허용 한계치와 기준 을 정립하거나 혹은 원료의약품 기준에서 시험법을 제거할 수 있는 기초를 제공해 줄 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "2.3.P.2.1.2 첨가제 어떤 증거가 첨가제와 원료의약품 사이의 적합성을 지지하는가? 회사가 역사적인 경험과 안정성 데이터를 가지고 있을 때 첨가물의 적합성연구가 필요한가? OGD는 원료의약품과 첨가제와의 적합성이 의약품 개발의 부분으로 평가되어야 한 다는 ICH Q8의 권고에 동의한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그러나 어떤 경우에는, 경험적인 것으로도 충분 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "ANDA가 RLD에 있어서 Q1, Q2와 동일할 때, 알려진 안정성의 문제없 이 historical data는 적합성 연구 대신에 받아들여 질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 391,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그러나 ANDA 제조 업소는 RLD에서 사용되는 원료의약품과 첨가제 사이의 부적합성이 있을 수 있다 는 사실에 주의해야만 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 392,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "적합한 완제의약품 안전성이 첨가제-약물 적합성의 증거로서 받아들여질 수 있는 가? 수용할 수 있는 완제의약품의 안정성은 ANDA승인을 위해 목표이며, 필요하지만, 이 질문은 그 목표에 어떻게 도달할 수 있는지 묻는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 393,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "최종의약품 시험은 목표가 테스트된 샘플에 도달하는 것을 확실히 해준다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 394,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "디자인에 의한 품질은 기계학적인 것, 그리고 안정성에 영향을 끼치는 조성 factor를 확인하도록 요구한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 395,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "단지 최종 제품의 testing에 의존하는 것은 Quality by design이 아니며, 더 큰 위험으로 생각 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 396,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "OGD는 어떤 종류의 적합성 연구를 추천하는가? 혼합물에 대한 간단한 시각적 조사는 인정되지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 397,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "Binary 적합성 studiy에 관 한 예로서 Serajuddin et al., J Pharm Sci, 88 696-704(1999)를 참고할 것. 가속화 된 안정성 시험에 대해서 임상시험 조성의 준비는 안정성의 감소와 상관된 상호작 용을 확인하기 위해서 DOE에서 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 398,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "2.3.P.2.2 완제의약품 완제의약품 개발은 어떻게 OGD 질문들로 나누어져야 하는가? 질문들 사이에 겹치는 부분이 있어 보인다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 399,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "OGD가 무엇을 찾고 있는지에 대한 높은 수준의 개관(overview) 이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 400,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "개개의 질문들에는 더 자세한 사항이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 401,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "� 완제의약품은 어떤 특징을 가지고 있어야 하는가? 답: 목표가 무엇인가? � 이 특징들을 가지도록 완료의약품은 어떻게 디자인되었는가? 답: 어떻게 거기에 도달하도록 계획 세웠었는가? 어떤 변수들이 목표에 도달 하기 위해서 조정되었는가? � 첨가제와 첨가제의 등급은 어떻게 선택되었는가? � 최종 조성은 어떻게 최적화 되었는가? 답: 의약품 개발 동안에 어떤 연구가 수행되었는가? 그것들로부터 배운 것은 무엇인가? 완제의약품은 어떤 특징을 가지고 있어야 하는가? 이 질문에서 특징에 의해서 OGD가 의미하는 것은 무엇인가? 이 질문에 대한 답은 제조업소가 생산하도록 노력하고 있는 Target Product Profile(TPP)에서 기술되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 402,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "Target Product Profile(TPP)는 무엇인가? R.C. Hwang과 D.L.Kowalski의 Design of experiments for 조성 development, Pharmaceutical Technology(Dec 2005)에 의하면, \"좋은 조성은 반드시 제조 가능해야 하고, 제조공정과 저장수명 동안 제품 화학적, 물리학적으로 안정해야 하며, 생체 적합해야 한다(예를 들면, 그것은 인체에서 쉽게 흡수될 수 있는 각각의 복용량에 API의 정확한 양을 포함해야만 한다). 게다가, 많 은 질적 기준과 특정 필요조건들이 반드시 제품의 효율성과 안전성을 보증하기 위 해서 충족되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 403,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이 모든 조성의 목적은 target Product Profile(TPP)로 기술될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 404,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "TTP를 확 립하는 것은 중요하기 때문에, 그래서 조성 efforts는 효과적이고 집중되어 있을 것 이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 405,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "TPP는 보통 투여경로, 제형과 크기, 특정 전달 요건, 최대/최소 용량, 그리고 약제학적 elegance(appearance)를 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 406,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "TPP는 조성 과학자가 전략을 세우고, 조성 effort를 집중적이고, 효과적으로 유지하도록 이끌어준다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 407,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "TPP의 많은 면들은 시장에서 경쟁할 의약품 혹은 특정 환자들을 목적으로 하는 의약품 같은 요소에 기초를 두고 결정된다(예를 들면 소아용 조성은 씹을 수 있는 정제 혹은 현탁액으 로 요구될 것이다).\" 모든 ANDA제품에 대해서, RLD와의 생물학적 동등성은 TPP의 일부일 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 408,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "TPP는 아마도 바람직한 약물 방출 프로파일을 포함하고 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 409,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "RLD의 모든 특징(용출, 불순물, lot 대 lot의 변수)은 이 질문의 아래에서 논의되어 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 410,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "TPP는 RLD 제형, 약물 방출 기전, 그리고 labeling(dosage와 복용량, how supplied)를 고려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 411,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이런 특징을 가지기위하여 제품은 어떻게 디자인되는가? 제조업소는 이 질문에 어떻게 답해야 하는가? 대부분의 ANDA products에서 이 질문은 어떻게 ANDA 제조업소가 RLD에 생물 학적으로 동등하도록, 그리고 TPP의 다른 면들에 부합하도록 그들의 생산품을 디 자인하는가를 말해줄 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 412,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그것은 보통 의도된 용출 혹은 약물 방출 양상, 방출 기전의 선택, 그리고 critical 조성과 생체적합 제품을 만들어내도록 조정된 제조공 정 중의 변수를 포함하고 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 413,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "조성은 보통 원료의약품의 한계, 즉 낮은 용 해도, 낮은 용해, 낮은 투과성, 낮은 안정성 그리고 짧은 혈장 중 반감기를 극복하 기 위하여 디자인된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 414,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "만약 DOE가 어떤 변수가 중요한지 확인하는데 사용된다면, 그것은 이 질문 안에서 기술되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 415,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "만약 DOE가 생물학적으로 동등한 제품을 얻기 위해서 조성과 제 조공정중의 변수를 조정하기 위해 사용되었다면, 그것은 조성 alternatives 질문 아 래에 기술되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 416,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "DOE가 디자인 스페이스를 개선하고, 그것의 완건성을 확립 하고, 적용 가능한 조성 주변의 디자인 스페이스를 확립하기 위해서 사용되었다면, 조성 최적화 질문아래 논의 되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 417,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이 기전에 대하여 필요한 세부사항의 수준을 설명하시오 용출 양상에 있어서 제조업소는 제품이 어떻게 바람직한 프로파일을 이루어내는지 기술해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 418,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "예를 들면, 그것은 장용성 코팅이나 서방출 매트릭스를 이용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 419,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "대안의 조성 혹은 메커니즘이 조사되었는가? 이 질문 아래는 어떤 연구가 논의되어야 하는가? 생물학적으로 동등한 제품을 얻기 위하여 조성과 제조공정 변수를 조정하는데 사 용된 연구는 여기에 나타내져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 420,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이것들은 한번에 여러 변수들을 조정하고 최 적의 조성을 찾기 위해서 DOE를 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 421,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이 연구들은 또한 trail and error과정의 결과일 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 422,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "연구 요약은 각각의 조성을 기술하고, 어떤 특징이 각각의 조성을 평가하기 위해 사용되는지 명백하게 나타내야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 423,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "조성은 용해, 생체내 bioavailability, 안정성 혹은 개발과정에 의존하는 다른 특징들을 대해서 평가될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 424,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "Alternative 조성을 FDA에 기술하는 것의 가치는 무엇인가? OGD는 제품의 성능을 바꾸는 조성에 대한 변화에 관심을 가지고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 425,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "개발보고서 는 시도된 모든 조성에서부터 얻어진 지식을 커버해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 426,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "대안적 조성에 대한 정보는 다음과 같은 목적으로 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 427,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "� 후 승인 조성 변화를 평가 � 조성 차이를 감지할 수 있는 용출 시험 조건의 확립 � 원료물질 혹은 원료의약품 특징에 대한 수용 한계치의 설정 � 첨가제 수준의 다양화는 제품 성능을 바꾸지 않는 다는 것을 확립 어떤 대안적인 조성이 기술되어야 하는가? 모듈 3의 개발보고서는 개발 과정에서 조사된 모든 포물레이션을 포함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 428,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "QOS의 요약은 이 조성들 중에 어떤 것이 가장 중요한 것인지를 심사자에게 알려 주어야 하고, 제조업소가 제품 성능에 있어서 어떤 성분이 critical하고 어떤 성분이 non-critical한지에 관해 배운 것을 나타내야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 429,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "ANDA 제조업소가 IVIVC를 개발하기 위한 것이라면 그 개발에 사용된 조성은 여 기에서 기술되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 430,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "조성에 대한 디자인 스페이스가 있는가, 그리고 승인 후 변경에서 디자인 스페이스 의 이득이 있는가? 조성에 대한 디자인 스페이스는 확립될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 431,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이것은 개개의 제조업소의 개발 프로그램에 의해서 결정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 432,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이것은 디자인 스페이스를 확립하기 위한 ANDA 필 요조건이 아니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 433,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "확립된 디자인 스페이스내의 변경은 선 승인(prior approval)을 요구하지는 않을 것 이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 434,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "디자인 스페이스의 다른 장점은 대체 조성에 대한 정보를 제공하는 장점들에 대한 대답에서 커버된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 435,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "단지 하나의 biostudy가 실패하고 조성이 결과적으로 변경되면, 실패한 연구에 대 해 완결된 보고서가 제출되어야 하는가? 조성 개발 프로그램의 관점에서 실패한 연구의 요약된 결과(AUC, Cmax, Tmax)만 이 개개의 연구에 사용된 조성s(그리고 적용 가능한 용해 데이터)를 따른 개발보고 서에 포함되어 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 436,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "완성된 biostudy는 단지 시장에서 거래되는 조성에 대한 실패한 biostudies에서만 제출되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 437,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "실패한 실험의 보고가 신청자에게 손해를 줄 것인가? 실패한 실험이 신청자에게 손해를 끼치지는 않으며, 그들은 심사자들이 critical 조 성 특징을 확인하는 것을 도와줄 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 438,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "첨가제와 첨가제의 등급은 어떻게 선택되었는가? 첨가제의 선택은 조성의 디자인과 어떻게 다른가? 질문 간에 겹치는 부분이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 439,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "조성의 디자인은 바람직한 첨가제 기능을 확실히 할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 440,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이 질문에서, 그 기능성을 제공하는 특정 첨가제와 등급의 선택이 기술 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 441,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "첨가제의 등급이 매우 중요한 것으로 알려져 있다는 것을 나타내는 것은 중 요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 442,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "첨가제의 다른 등급을 characterize하는 것이 어느 정도까지 필요한가? Exhibit 배치는 상업용 배치에서 사용되는 것과 같은 등급의 첨가제를 사용해서 생 산되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 443,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "첨가제가 USP/NF수재 목록인 경우, 그것은 각조의 조항을 따라야만 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 444,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "타당화 는 선택된 특정 등급의 첨가제와 첨가제 등급의 criticality의 평가에 대해 제공되어 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 445,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "만약 다양한 종류의 첨가제가 평가된다면, 정보는 PD 보고서에 나타난 것 이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 446,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "다양한 등급에 대한 정보는 적용 가능한 기준 한도를 타당화하기 위 한, 혹은 가능하게 지지 증거로서 사용되어야 할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 447,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "어떻게 최종 조성이 최적화 되었는가? 조성 최적화에 의해서 OGD가 의미하는 것은 무엇인가? 최적화에 대한 연구는 목적으로 하는 조성 주변의 비교적 작은 변수를 평가하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 448,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그것은 또한 조성 완건성에 대한 연구를 포함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 449,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그래서 그것은 넓 은 범위의 space를 연구하고, TPP를 만족시키는 조성을 찾는 개발에서 더 일찍 수 행되어 온 screeing 연구와는 구별되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 450,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "ANDA 제조업소가 조성 최적화를 수행함으로써 얻을 수 있는 이득은 무엇인가? 조성 최적화는 조성의 완건성을 확립할 것이며, 조성 조성에 대한 디자인 스페이스 를 뒷받침해줄 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 451,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "조성 최적화는 아마도 또한 제조과정을 최적화하기 위해서 수행될 것이다(예를 들면, 최적의 lubricant level의 결정) 2.3.P.2.3 제조과정 개발 왜 과정 개발에 대해서 OGD가 질문을 하는가? OGD 심사자는 제조과정에 대해서 주로 두 가지 질문에 대해서 평가하려고 노력하 고 있다: � 제조업소가 exhibit batch를 생산 규모로 스케일-업 (규모확대)을 하고도 여 전히 exhibit batch와 변함없이 동등하게 생산할 것인가? � 제조업소는 시간이 지나도 변함없이 제품을 생산할 수 있을 것인가? 제조과정 개발보고서는 제조업소가 심사자에게 그들이 과정을 규모확대 할 수 있 으며, 변함없이 계속 수행할 수 있음을 확신시킬 수 있는 과정 이해(process understanding)를 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 452,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "중요공정 변수와 주요 공정 단계를 확인하는데 실패하 는 것은 제조공정이 잘 이해되어 있지 않음을 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 453,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "확인되지 않은 주요 공정 혹은 공정 변수는 제대로 관리되지 않은 제조공정과 고려된 보다 높은 위험도를 의미 할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 454,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "공정 개발 정보가 이 질문들 사이에 어떻게 나누어져 들어가야 하는가? 질문에 대한 높은 수준의 견해는 다음과 같다: � 왜 3.2.P.3에 기술되어 있는 제조 과정이 이 완제 의약품에 대해서 선택 되었는가? - Process choice를 원료의약품의 특성과 연관 지을 것 � 제조 공정 단계(단위 공정)들이 완제의약품의 질에 어떻게 관련되는가? - Process를 product에 연결시키고, 주요 공정 단계를 identify 할 것 � 어떻게 주요 공정 변수가 확인되고, 관리되고, 혹은 조절되는가? - 주요 변수와 이것을 위해 사용된 개발과정 연구를 요약 � 이 과정에서 무엇이 단위공정에 대한 scale-up experience인가? - Scale up plan과 그것을 뒷받침하는 제조공정 개발 연구를 요약할 것 더 자세한 사항은 개별적인 질문 아래서 논의된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 455,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "2.3.P.3에서 기술된 제조과정이 왜 이 완료 의약품에 대해서 선택되었는가? 제조업 소는 어느 정도의 세부사항을 제공해야 하는가? 제조업소는 제조 과정의 선택을 처음에 기술해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 456,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "예를 들어 고형 경구제제에 대해서 제조업소는 직접 타정법과 습식 과립화 혹은 다른 접근 사이에 한 선택을 설명해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 457,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "제조업소는 원료의약품의 질과 완제의약품의 바람직한 성질, 그리고 과정의 complexity와 완건성을 포함하면서 고려되는 요소들을 나타내야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 458,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "일단 하나의 과정 train이 선택되면, 제조업소는 대체가 가능한 특정 단계에 집중해 야 하고(예를 들어 high shear 과립과 vs. fluid bed 과립화 간 선택의 타당성), 각 각의 선택에 대한 동기를 설명해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 459,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "OGD는 왜 이것에 대해 알고자 하는가? 이것은 제조업소가 제조공정을 개발하는데 사용한 공정과정 이해를 나타내는 하나 의 기회이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 460,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "만약 공정과정을 이해하고 있다면 제조 과정은 더욱 잘 조절된, 그리 고 considered 된 lower risk일 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 461,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "대체 단위 공정에 대해서 조사하는 것이 필요한가? 대체 단위 공정을 평가하기 위해서는 개발 연구가 요구되지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 462,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그러나 그러한 연구가 개발과정 선택을 지지하기 위하여 수행되었다면 그것은 심사자가 그들을 기술하는 것을 도와줄 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 463,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "제조업소가 현재 보유하고 있는 장비를 사용할 필요가 selection process의 일부라 는 것을 나타내는 것이 가능한가? 예 어떻게 제조 공정들(단위 공정들)이 완제의약품의 질에 관련되었는가? OGD는 제품의 질과 제조 steps를 연결한 것을 알기 위해서 어떤 종류의 정보를 원하는가? 이 질문에 대한 답은 제조업소는 파일럿 스케일 연구 혹은 선행 지식을 통해서 제 조과정 중에 주요 공정을 나타내고, 단위공정과 목적한 제품 프로파일 사이에 연결 을 확립해야 한다는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 464,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "제조업소는 어떤 단위공정이 완제의약품 특성들에 중 요한 것인지 알아야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 465,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "단위 공정과 질적 특성들 사이의 matrix형식으로 이 정 보를 나타내는 것이 유용할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 466,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "일단 하나의 공정이 중요한 것으로 확인이 되 면 제조업소는 반드시 그들의 제조 공정을 이 단계가 유지된다는 것을 확실히 하 도록 디자인 해야 하며, 만약 그 단계가 실패할 경우에 감지할 수 있는 적절한 시 험법을 가지고 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 467,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "구분 원료물질 Drug Layering CR coating Encapsulation 순도 중요 분석법/함량균일성 중요 중요 용출 프로파일 중요 중요 안정성 주요공정 변수가 어떻게 확인되고, 감시되고, and/or 조절되는가? 주요 공정 변수는 무엇인가? 주요공정 변수(CPP)는 측정 가능한 제조공정 과정의 input(투입원료 특성 혹은 작 동 변수)혹은 output(제조공정 조건 혹은 생산 물질 특성)이며 이것은 바람직한 제 품의 질과 제조공정의 일관성을 이루기 위해서 조절되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 468,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "원료의 특성처럼 규모에 independent한 CPP는 가장 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 469,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "왜냐하면 그들은 직 접 scale-up에 사용될 수 있기 때문이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 470,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "예를 들면 수분함유량 같은 원료 특징 CPP는 exhibit batch 제조과정과 commercial scale process에서 동일한 target value를 가지고 있어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 471,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "공기 flow 량 같은 작동 변수 CPP는 제조공정 scale 변경 시 변할 것으로 생각된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 472,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "주요공정 변수는 어떻게 확인되어야 하는가? 이전 경험 혹은 지식은 핵심 공정 변수를 확인할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 473,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "핵심 공정 변수는 가능성 있는 주요 공정 변수를 나타낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 474,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "예를 들면, 혼합과정에서 섞는 속도는 명백하게 핵심 공정 변수로 확인 될 수 있다 왜냐하면 만약 혼합 속도가 0이라면 공정 단계 는 성공할 수 없기 때문이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 475,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그러나 이것이 혼합 속도가 항상 주요 변수라는 것을 의미하지는 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 476,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "만약 개발 연구가 혼합속도의 현실적인(realistic) 변경에 의해 서 영향을 받지 않았음을 나타낸다면, 그것은 중요하다고 말할 수 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 477,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "개발 연구 없이도 제조업소는 그것이 중요하기 때문에 고정된 수치로 억제(?)하고 있을 필요 가 있는 핵심 변수들을 많이 가지고 있을 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 478,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "핵심적이거나 아니거나 핵심 변수의 분류는 유연성있는 제조공정에 중요한 단계이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 479,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "위험도평가 도구는 더 심화된 연구가 핵심 변수가 중요한지 아닌지에 대해 결정하 도록 핵심 변수에 우선 순위를 매길 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 480,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "주요 공정 변수는 작동 변수에 대한 과학적인 조사와 작동 제어된 변수에 의해서 확인되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 481,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "공정 개발보고서에서의 초점은 이 지식들을 만들어내는 추가적인 연구에 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 482,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이 연구들은 파일럿 혹은 랩 스케일에서 수행될 수 있으며 cGMP아 래서 수행될 필요는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 483,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "주요 공정 변수의 민감성이 확립되면 이것은 적절한 조 절 전략을 디자인하는데 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 484,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "얼마나 많은 데이터가 필요한가? 미래의 공정 개선을 위한 유연성을 확보하기 위해서는, 제조공정 개발을 설명할 때 핵심 특성과 공정 end-point에 대한 모니터를 가능하게 하는 모든 측정 시스템을 기술하는 것이 유용하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 485,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "제조공정개발 중에 확보한 공정 감독에 관한 데이터는 공 정 이해도를 높이는데 유용한 정보를 제공할 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 486,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "모든 핵심 특성들의 관리를 위한 공정 조정 능력을 제공하는 공정 관리 전략도 기재되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 487,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이들은 위험 도 조절 전략을 위한 수단을 제공한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 488,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이전의 경험은 어떻게 사용될 수 있는가? 문서화된 예에 의해서 뒷받침될 때, 이전의 경험은 핵심 변수를 중요하지 않은 것 으로 분류하는데 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 489,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "예를 들면, 비슷한 조성을 사용하여 다양한 제품 을 만드는 동일한 혼합기를 사용하는 ANDA 제조업소는 그 정보를 핵심 공정 변 수인 혼합 속도가 중요하지 않다는 주장을 뒷받침하기 위해서 이 정보를 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 490,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이전 경험은 공정 모델을 개발하는데도 사용될 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 491,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그래서 현재 제품 에 대한 주요 공정 변수를 확립하기 위해 필요한 실험의 횟수를 줄일 수 있을 것 이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 492,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이전 경험은 제안된 디자인 스페이스에 대한 기초로서 이용될 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 493,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그 러나 하나의 디자인 스페이스는 현재 제품에 대한 일부 데이터에 의해서 지지될 필요가 있을지도 모른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 494,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "디자인 스페이스를 확립하는 것이 필요한가? 아니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 495,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "디자인 스페이스는 규제의 유연성에 대한 명확한 경로를 제공하지만 필수 적인 것은 아니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 496,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "제조업소는 승인 후에 디자인 스페이스를 확립하는 것을 선택할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 497,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이 공정에서 단위 operations와 scale-up은 무엇인가? 어떤 종류의 경험이 포함되어야 하는가? 중요한 경험은 modeling과 dimensional 분석에 대한 경험뿐 아니라, 동일 단위 공 정을 사용한 다른 제품, 참고 문헌/vendor scale-up factors, 이 제품에 대한 랩 스 케일에서 exhibit scale로의 이동, exhibit batch 생산에 관한 경험이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 498,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "그 결과는 scale 의존적인 operation 변수의 확인과 상업적 스케일의 제조를 보증하 는 process monitoring(규제 기준을 초과하여)을 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 499,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "이 질문에 대한 대답에서, 제조업소는 scale-up plan이 어떻게 개발되는지 기술해 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 500,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "어떻게 이전 경험이 사용될 수 있는가? 단위 공정에 대한 이전의 경험은 scale-up 계획을 지지할 수 있는 제조공정 개발보 고서를 포함해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 501,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "제조업소는 언제 이미 승인 받은 ANDA에 대한 참고자료가 적합하고, 어떤 것이 참고에 적합한가에 대해서 어떻게 결정해야 하는가? 제조업소 관련이 있다면 더 최근의 ANDA에대해서 언급하는 것을 고려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 502,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "가장 관련 깊은 ANDA는 동일한 단위 공정이 scale up된 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 503,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "다른 중요한 기 준은 장비와 scale 변경의 유사성과 약물의 물리적 특성, 제형의 유사성, 그리고 첨 가제의 유사성이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 504,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "2.3.P.2.4 용기 마개 시스템 어떤 특정 용기 마개 특징이 품질의 질을 보증하는데 필요한가? 어떤 용기 마개 정보가 여기에 제공되어야 하며, sectionP. 7에는 무엇이 있어야 하는가? 2.3.P.2.4에서는 확인, 적합성(보호, 적절성, 그리고 성능), 안전성을 포함한 요구되는 특징이 무엇인지 확인하기 위해서 수행된 연구에 대해 논의해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 505,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "우리는 '산 업체를 위한 가이드라인-용기마개시스템 for Packing Human Drugs and Biologics'의 정보를 추천한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 506,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "경구 고형 제제의 경우, 용기 마개 개발 연구는 일반 적으로 확인된 안정성 주제에 의해서 야기된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 507,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "약물 전달 기구(비강 스프레이, MDI/DPI)이 필요한 완제 의약품의 경우, 기구를 디자인하기 위해 수행된 의약품 개발 연구는 이 section에서 기재되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 508,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "예를 들어, 2.3.P.2.4에는 다음 사항들을 논할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 509,
+      "type": "sentence",
+      "section": "4.4. 제네릭의약품국(OGD, FDA(미국))의 고려사항",
+      "path": null,
+      "ko_txt": "� 특별한 저장을 요구하는 완제의약품에 대한 안정성 concern. - Light resistant - 수분 protection - 불활성의 대기 � 제안된 시스템의 적합성 - 제형 적합성(예 추출물, leachables, dye from labeing) - C/C 시스템의 성능(예 dropper consistency, delivery device의 calibration) 2.3.P.7은 제시된 시스템이 이 특징들을 가지고 있음을 보여주는 데이터의 body에 적용 가능한 품질 관리 시험 결과를 참조사항으로 달아야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 510,
+      "type": "sentence",
+      "section": "1. 제제학, 약제학총서1, 약제학분과회, 도서출판 한림원",
+      "path": null,
+      "ko_txt": "2. Generic Drug Product Development - Solid Oral Dosage Forms, Shargel and Kanfer, Marcel Dekker. 3. Pharmaceutical Preformulation and Formulation, Mark Gibson, HISHealth Group. 4. R.C. Hwang & D.L.Kowalski, Design of experiments for formulation development, Pharmaceutical Technology (Dec 2005) ※ 참고자료: GUIDELINE ON GENERAL PRINCIPLES OF PROCESS VALIDATION MAY, (1987) ※ 공정 중 sampling에 관한 참고규정 ISO 2859-1:1999 Sampling procedures for inspection by attributes, part 1: Sampling schemes indexed by acceptance quality limit (AQL) for lot-by-lot inspection.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 511,
+      "type": "sentence",
+      "section": "1. 제제학, 약제학총서1, 약제학분과회, 도서출판 한림원",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"제·개정 이력\", \"연번\", \"제·개정번호\", \"승인일자\", \"주요내용\", \"B1-2011-2-033\", \"2008.12.\", \"제정\", \"B1-2015-2-O\", \"2015.12.\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 512,
+      "type": "sentence",
+      "section": "1. 제제학, 약제학총서1, 약제학분과회, 도서출판 한림원",
+      "path": null,
+      "ko_txt": "법적효력 문구 통일, 양식표준화, 연락처 현행화 “우수의약품 개발 가이드라인” [민원인 안내서] 발 행 일 2015년 12월 발 행 인 손 여 원 편 집 위 원 장 이 선 희 편 집 위 원 (의약품심사부 의약품규격과) 김은정, 양성준, 이경신, 김선미, 윤나영, 강나루, 유지혜, 김지예, 서재욱, 지정은, 정혜선 도움주신 분 식품의약품안전처 의약품정책과, 식품의약품안전평가원 의약품심사조정과, 순환계약품과, 종양약품과, 소화계약품과, 약효동등성과 발 행 처 식품의약품안전평가원 의약품심사부 의약품규격과.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

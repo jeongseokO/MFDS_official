@@ -1,0 +1,307 @@
+{
+  "document_id": "kk_cochrane_0011",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000066.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000066.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "임신선 (임신 중 생기는 튼살)은 여성의 50% ˜ 90%에서 발생한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "붉거나 보라빛의 선 또는 줄무늬 형태로 나타나며 천천이 옅어져 피부에 엷은 선을 남긴다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "주로 여성의 배, 가슴 및 허벅지에 생긴다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "튼살의 정확한 원인은 파악되지 않았고 튼살 예방을 위한 효과적인 방법 또한 확인되지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "이는 여성의 삶의 질에 영향을 미치는 심각한 불안의 원인이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "임신 튼살 예방을 위한 국소 제제의 효과를 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Cochrane Pregnancy and Childbirth Group's Trials Register 검색했으며, 검색된 보고서의 참조 목록을 확인했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "임신 튼살에 국소 제제(활성화제 사용) 대 다른 국소 제제(활성화제 사용) 및 위약(즉, 활성화제 무사용) 또는 무치료의 효과를 비교한 무작위 통제 시험과 준 무작위 통제 시험을 포함했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "3명의 리뷰 저자가 독립적으로 연구의 적합성과 질을 평가하고 데이터를 추출했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "데이터의 정확도를 확인했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "주요 결과는 임신 튼살의 유뮤였고 부차적 결과는 튼살의 정도였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "800명의 여성을 대상으로 한 6건의 연구를 포함시켰다. 6건의 임상 시험 중 연구 3건의 무작위 연속 사건, 참가자 및 직원의 맹검화, 결과의 맹검화, 결과 데이터의 완전성 및 선택적 보고에 대해 비뚤림 '위험이 낮음'으로 판단했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "임신 튼살에 대해 활성화제를 포함한 국소 용제를 받은 여성과 위약 또는 무치료를 받은 여성을 비효했을 때 통계적으로 유의미한 효과의 평균 차는 보이지 않았다 (평균 위험비 (RR) 0.74; 95% 신뢰구간 (CI) 0.53 ˜ 1.03; 5건의 연구, 474명의 여성 참여자; 무작위 효과 모델, Tau² = 0.09, I² = 65%) (분석 1.1).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "연구 결과는 비뚤림 위험이 높다고 판단된 무작위 연속 사건, 배당 은닉 및 결과에 대한 데이터 결여(20%이상)을 제외한 민감도 분석 시 확인된 주요 효과와 일관된다(평균 RR 0.81; 95% CI 0.60 ˜ 1.10; 4건의 연구, 424명의 여성 참여자; 무작위 효과 모델, Tau² = 0.05, I² = 57%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "튼살의 심각성 정도에는 유의미한 평균 차가 없었다(표준화 평균 차이 (SMD) ‐0.31; 95% CI ‐1.06 ˜ 0.44; 2건의 연구, 255명의 여성 참여자; Tau² = 0.26, I² = 87%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "활성화제를 함유한 국소 용제를 받은 여성군과 다른 국소 용제(활성화제 포함)를 받은 여성군에서 임신 튼살 예방 효과에 대해 통계적으로 유의미한 차이를 보이지 않았다(평균 RR 0.51; 95% CI 0.16 ˜ 1.60; 2건의 연구, 305명의 여성 참여자; Tau² = 0.53, I² = 74%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "튼살 심각성 정도에 통계적으로 유의미한 차이가 없었다(평균차 (MD) ‐0.20; 95% CI ‐0.53 ˜ 0.13; 1건의 연구, 206명의 여성 참여자; 이질성 관계없음).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "임신 튼살 예방을 위해 국소 용제를 사용하는 것을 권고하는 높은 질의 근거를 찾지 못했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "임신 튼살 예방에 대한 국소 용제 효과를 평가하려면 대규모 표본을 대상으로 한 높은 질의 엄격한 방법론적 무작위 연구가 분명히 필요하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "또한, 임신 튼살 예방을 위해 임산부가 일반적으로 사용하는 제제에 대한 연구가 시행되어야 하며 이는 방법론적으로 엄격하고 충분한 수준의 무작위 시험으로 이루어져야 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "일반적으로 임신 기간 동안, 특히 임신 후기에 튼살이 발생한다. 50% ˜ 90%의 여성이 튼살을 경험한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "튼살은 붉은 선이나 줄무늬 형태로 나타나며 출산 후 천천히 옅어져 피부에 엷은 선을 남긴다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "대부분 여성의 배, 가슴 및 허벅지에 나타난다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "튼살은 완전히 사라지지 않고, 따라서 이를 예방하는 여러 방안이 많은 여성으로부터 각광받는다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 고찰은 국소 용제, 로션 및 활성화제를 포함한 연고를 위약 또는 무치료와 비교하고 활성화제를 사용한 국소 제제 대 다른 국소 제제를 비교한 무작위 통제 연구 및 준 무작위 통제 연구를 확인했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 고찰은 800명의 여성을 대상으로 한 6건의 연구를 포함시켰다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "임신 튼살 예방을 위해 국소 용제를 튼살 부위에 사용하는 것이 효과가 없음을 확인했다. 3건의 연구만이 (461명의 여성 참여자) 튼살의 정도에 대해 평가했으나 유의마한 차이를 설명하지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "사용된 국소제제에는 Alphastria, Trofolastin, Verum, 올리브 오일 및 코코아 버터가 포함되며, 모두 비타민 E를 함유하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "Alphastria와 Verum은 히알루론산도 함유하고 있다. 6건의 연구 중 연구 3건의 비뚤림 위험도가 낮다고 평가했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "모든 연구가 소규모였다: 100명 이하의 여성을 대상으로 한 4 ˜ 6건의 시험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "연구에서 국소 제제를 사용한 시기도 달랐다: 임신 초기 ˜ 임신 첫 20주 기간으로 다양했다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

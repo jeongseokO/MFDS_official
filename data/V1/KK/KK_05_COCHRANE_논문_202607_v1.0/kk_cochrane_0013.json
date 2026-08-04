@@ -1,0 +1,253 @@
+{
+  "document_id": "kk_cochrane_0013",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000091.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000091.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "피브리노겐 저하제는 혈장 중의 피브리노겐을 감소시키고 혈액 점도를 떨어뜨리고 혈류를 증가시킨다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "이 때문에 혈관을 폐쇄하고 있는 혈병을 제거하는 허혈성 뇌졸중 후의 뇌 이환 부위에 혈류를 재정립하는데 도움이 된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "출혈 위험의 가능성은 혈전 용해제보다 낮다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "본 검토는 1997년에 처음 발표된 코크란 연구의 개정본이며 최근의 개정본은 2003년이었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "급성 허혈성 뇌졸중 환자의 피브리노겐 저하제의 효과를 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Cochrane Stroke Group Trials Register(2011년 7월)Cochrane Central Register of Controlled Trials(CENTRAL)(코크란 라이브러리 2011년 제7호), Chinese Stroke Trials Register(2011년 9월)MEDLINE(1950˜2011년 7월), EMBASE(1980˜2011년 7월)및 Web of Science Conference Proceedings(1990˜2011년 7월)를 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "이어 6건의 중국의 데이터베이스, 4건의 진행 중인 시험 등록(2011년 7월)및 관련성 있는 참고 문헌 리스트도 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "과거의 본 검토에서는 학술지를 수기 검사 했고, 중국과 일본의 제약회사와 관련된 연구자들에게 연락을 취했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "뇌졸중 발병 14일 이내에 개시한 피브리노겐 저하제를 랜덤화하고, 컨트롤 메뉴와 비교하고 있는 무작위 시험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "2명의 연구자가 따로 시험을 선택하고 시험의 질을 평가하는 데이터를 추출했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "불일치한 점은 논의를 통해 해결했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "5,701의 환자를 대상으로 한 8건의 시험을 시행했다. 6건의 시험에서 안크로드를, 2건의 시험에서 defibrase를 검사했다(환자는 3시간 이내˜48시간 이내로 치료받았다).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "할당량 은폐는 7번 시험에서 적당했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "피브리노겐 저하제는 추적 관찰 기간 중 사망하거나 장애가 있는 환자의 비율을 줄였다(위험비(RR)0.95, 95% 신뢰구간(CI) 0.90˜0.99, 2P=0.02).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "예정된 투여 기간 또는 추적 기간 중 총 사망의 통계학적 유의 차는 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "치료군에서 대조군보다 뇌졸중 재발이 적었다(위험비(RR) 0.67, 95% 신뢰구간(CI) 0.49˜0.92,2P=0.01).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "그러나, 증상이있는 두개 내 출혈은 대조군에 비해 치료군에서 약 2배 정도 많았다.(위험비(RR) 2.42, 95% 신뢰구간(CI) 1.65˜3.56,2P<0.00001).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "현재의 증거는 유망한 것이지만, 급성 허혈성 뇌졸중의 치료에 섬유소원 저하제를 일상적으로 사용하는 것을 지지할 만큼 충분히 견고한 증거가 아니다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "가치의 여부를 확실하게 판단하려면 추가 시험이 필요하며, 어떤 범주의 환자에게 가장 유익할지 결정해야 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "피브리노겐 저하제는 각광받지만 급성 허혈성 뇌졸중에는 입증되지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "대부분의 뇌졸중은 뇌의 동맥을 막는 혈병 때문에 발생한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "피브리노겐 저하제는 혈액응고를 제거하여 뇌에 혈액 공급을 회복시켜 뇌졸중으로부터 회복 할 수 있는 기회를 향상시킨다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "피브리노겐 저하제는 또한 혈액의 두께 (또는 점도)를 감소시키며, 이는 또한 뇌의 혈류를 개선하는데 도움이된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "그러나, 이 저하제는 뇌에 심각한 출혈을 일으키는 원인이 될 수 있다. 5701명의 환자를 대상으로 한 8건의 임상 시험을 포함하는 개정된 검토의 근거는 현재 급성 허혈성 뇌졸중의 치료를 위해 피브리노겐 저하제의 보편적인 사용을 뒷받침 할 만한 충분한 근거가 없다는 것을 나타낸다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "가치의 여부를 확실하게 판단하려면 추가 시험이 필요하며, 어떤 범주의 환자가 가장 유익할지 결정해야 한다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

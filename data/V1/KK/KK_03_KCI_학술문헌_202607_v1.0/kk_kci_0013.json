@@ -1,0 +1,1063 @@
+{
+  "document_id": "kk_kci_0013",
+  "meta": {
+    "set": "KK",
+    "source_folder": "11",
+    "source_code": "kci",
+    "source_name": "국내 학술지 논문(KCI)",
+    "orig_doc_id": "CYP3A4 기질과 억제제 약물의 병용 고령환자에서 부정맥 부작용 연관성.pdf",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 학술지 논문(KCI)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "한국임상약학회지 제33권 제4호 Original Article CYP3A4 기질과 억제제 약물의 병용 고령환 김태우1 · 장준혁1,3 · 추은정2 · 박래웅3,4 · 이숙향1,2* 1아주대학교 약학대학, 2아주대학교 대학원 바이오헬스규제과학과, 3아주대학교 대학원 의생명과학과, 4아주대학교 의과대학 의료정보학과 Association of Arrhythmia in the Elderly Pa CYP3A4 Substrates and Inhibitors with the Tae Woo Kim1, Junhyuk Chang1,3, Eunjung Choo2, Rae W 1Department of Clinical Pharmacy, College of Pharmacy, Ajou University, Su 2Department of Biohealth Regulatory Science, College of Pharmacy, Ajou Un 3Department of Biomedical Sciences, Ajou University Graduate School of M 4Department of Biomedical Informatics, Ajou University School of Medicine Background: Arrhythmia due to QT prolongation is one of the mo study aimed to examine the incidence of arrhythmia in Korean (CYP3A substrates and inhibitors.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Methods: Patients using CY patient dataset (the Korean Health Insurance Review and Assess patients with a medication possession ratio over 80%, medication more.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The patient’s basic information is age, gender, health insuran with high-incidence arrhythmia were presented.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Results: In pa incidences of arrhythmia, and 351 incidences in those with comb failure and myocardial infarction had a significant association wit the drug pairs [substrates-inhibitors] with significant adjusted od confidence interval [CI], 1.66-3..",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Among patients with 30 day amiodarone] (aOR, 2.87; 95% CI, 1.97-4..",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Conclusions: In e interactions of CYP3A4 substrates and inhibitors.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The comorbidit 우리나라는 고령화 사회로 진입하여 2022년말 기준 전체 인 구 대비 65세 이상 노인 인구의 비율은 18%이며, 고령인구의 비율은 지속적으로 증가되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "노인의 복합적인 만성질 환의 특성으로 다제약제(polypharmacy)의 사용이 증가되고 License (http://creativecommons.org/licenses/b and reproduction in any medium, provided the Korean College of Clinical Pharmacy 환자에서 부정맥 부작용 연관성 atients on Combination Therapy of Korean Claims Data Woong Park3,4, and Sukhyang Lee1,2* uwon 16499, Republic of Korea niversity Graduate School, Suwon 16499, Republic of Korea Medicine, Suwon 16499, Republic of Korea e, Suwon 16499, Republic of Korea ost serious adverse events with drug interactions in the elderly.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "This n elderly patients who administered both cytochrome P450 3A4 YP3A4 substrate and inhibitor were selected from the 2017 elderly sment Service - Aged Population Sample).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Selection criteria were n duration of at least 7 days, and a follow-up period of 3 months or nce type, and comorbidities.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The top 50 drug pairs and comorbidity atients with drug combinations for over 7 days, there were 981 binations for over 30 days.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "The comorbidities of congestive heart th incidence of arrhythmia.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Among patients with 7 days or longer, dds ratio (aOR) were [propranolol-cimetidine] (aOR, 2.25; 95% ys or longer, the drug pairs with significant aOR were [tramadolelderly patients, the incidence of arrhythmia was high with drug ty of congestive heart failure was the risk factor. prolongation 있으며, 노인들의 건강에 다제약제가 미치는 영향에 대해 많 은 연구가 발표되고 있다 2023년 발표한 건강보험심사평 가원의 노인의 부적절한 다약제 사용 관리 기준 마련 연구(연 구책임자 윤상헌 부연구위원)에서 부적절한 다약제 기준은 65 ersity, Suwon 16499, Republic of Korea ac.kr r, 2023 nder the terms of the Creative Commons Attribution Non-Commercial by-nc/4. which permits unrestricted non-commercial use, distribution, e original work is properly cited.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "CYP3A4 세 이상 노인이면서 1) 10개 이상의 의약품을 90일 이상 복용 중인 환자이면서, 2) 복용 약물 중 1개라도 연구에서 도출한 노 인에게 잠재적으로 부적절한 14개 카테고리의약물이 포함돼 있거나 3) 병용 금기 또는 중복 처방에 해당하는 약제가 처방 된 경우로 설정하여 부적절 다약제 사용환자는 24만 5477명 으로 전체 다약제 약물사용 환자의 16.0%에 해당되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "약제 사용의 문제점으로 환자의 복약순응도저하, 약물상호작 용, 약물부작용의 발생, 의료비 증가가 보고되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "국내외 의 다제약제(1일 5-6개 이상) 처방 처방 비율을 조사한 연구에 서는 우리나라의 65세 이상 노인의 다제약제 처방 비율이 44.1~86.4%로 보고되었고, 3개월 이상 의사의 진단을 받은 만 성질병이 3개 이상인 노인의 비율은 27.8%으로 조사되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "노인들의 복합적인 만성질환은 다제약제 사용의 증가와 관련 이 있으며, 다제약제의 사용은 낙상, 골절 및 사망과의 연관성 으로 이어진다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "심장혈관질환은 노인의 주된 사망 위험 질병 중 하나이며, 이뇨제, 항고혈압제, 지질저하제, 혈당강하제, 항혈소판제, 항 응고제 등 다제약제의 사용이 높아 약물상호작용에 의한 심장 부정맥에 대한 주의도 요구된다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "건강보험심사평가원에서 2016년부터 2020년까지 부정맥 질환 진료의 경향을 분석한 결과, 2020년의 환자수는 2016년 대비 22.1%가 증가하였고, 2016년 대비 80세 이상의 환자에서 는 61.9%, 70대 환자에서 29.3%, 60대 환자에서 28.7% 증가 한 것으로 나타났다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "부정맥을 유발시키는 원인약물은 다양하며, 단일 약물에 의 한 부작용으로 QT 간격이 연장되는 경우, 다약제 복용을 통한 약물-약물 상호작용(Drug-Drug Interaction; DDI)으로 인하여 QT 간격 연장의 위험이 증가되는 경우가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "QT 간격을 연장하는 약물은 fluoxetine, chlorpromazine, clozapine, olanzapine, risperidone, quetiapine 등 정신과 질환 약물, albuterol, terbutaline과 같은 기관지 확장제, amiodarone, ivabradine, quinidine과 같은 항부정맥제도 포함된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "약물상호작용은 약물쌍에 대하여 많은 연구가 진행되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Tamoxifenserotonin reuptake inhibitor 병용이 QT 간격의 연장에 미치는 영향, 3차 병원의 정신병동(psychiatry wards)에서 사용하는 약물로 인한 DDI로 인해 발생하는 QT 간격 연장, citalopram 과 QT 연장 가능 약물과의 병용으로 인해 발생하는 부작용 등 특정상황에서의 약물의 사용 효과에 대한 연구가 많았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 2016년 수행된 연구에서는 개별 약물의 특정 상황에 대 한 연구에서 나아가 DDI의 약동학적 효과 및 약력학적 효과 를 평가하여 약물 안전성에 대한 평가 필요성을 주장하고 있 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "이와 관련하여 DDI로 인한 QT 간격 연장을 평가하기 위 한 알고리즘의 개발, 컴퓨터 프로그램을 이용하여(In Silico) QT 간격 연장 혹은 부정맥 발생 예측 모델 개발 등의 4 연구가 이뤄지고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "한편 현재 국내에서는 QT 연장을 일으키는 약물들 간의 병용과 Torsades de pointes (TdP)의 위 험에 관한 연관성에 대한 연구는 부족하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 다약제 복용을 하는 65세 이상의 고령환자 중 부 정맥을 유발하며, CYP3A4의 substrate와 inhibitor로 작용하는 약제를 함께 복용하는 환자에서 부정맥 발생을 비교하고, 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "빈도로 사용되는 약물쌍에 의한 부작용 발생 현황을 연구하고 자 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "연구 방법 1. 자료원 및 연구대상 본 연구는 2017년 건강보험심사평가원 고령환자데이터셋 (Health Insurance Review & Assessment Service-Adult Patient Sample, HIRA-APS)을 이용하여 추출한 고령환자에 대해 후향적 코호트 연구로 수행되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Indiana university의 Flockhart Table에 게시된 CYP3A4 substrate와 inhibitor list 중 2017년 한 해 동안 국내에서 사용된 약물을 선정하였고, 이 를 각각 병용 처방받은 환자군을 선정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "병용 7일 미만, 단일 약물처방, 복약순응도 80% 미만인 환자를 제외하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "복약순응도는(총투약일수)/처방기간(처방 종료일자−처방 시작 일자)×100%로 정의하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "최소 3개월 이상의 추적관찰을 위해 2017.10.01 이후 약물 을 병용요법으로 투여한 사람은 제외하였고, 병용일을 7일 이 상과 30일 이상인 환자군에서 민감도 분석을 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "각 환자 군에서 병용시작일 후 7일부터 병용종료일 후 3개월까지 부정 맥(I47.0, I49.0, I48.0, T462, Y5으로 진단받은 경우 부정 맥 발생으로 정의하였다. 2. 평가변수 병용 7일 이상인 환자군, 병용 30일 이상인 환자군에서 연령 군, 성별, 건강보험 적용 방식 및 공존질환[울혈성 심부전(I110, I130, I132, I, 만성폐질환(J40, J, 뇌혈관질환(I60- 6, 당뇨병(E, 심근경색(I21, I22, I2, 말초혈관질환 (I70-79, K558-9, Z9, 암(C, 전이암(C, 치매 (F00-09, G, 간질환(K70-K77 Z9, 마비(G041, G114, G, 소화성 궤양 질환(K, 신장질환(N17-19, Z49, Z, 류마티스 질환(M]의 차이를 각각 로지스틱 회귀 분석(Logistic regression analysis)을 이용하여 오즈비(Odds ratio, OR)와 95% confidence interval (CI)을 구하여 Crude OR, Adjusted OR (aOR)을 분석하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "병용약물 쌍 중 많이 사용한 50개의 약물쌍을 병용 7일 이상 인 환자군, 병용 30일 이상인 환자군에서 각각 Crude OR, aOR 와 95% CI를 구하였다. 3. 통계분석 통계분석은 SAS 9.4 (SAS Institute Inc., USA)를 이용하였 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "범주형 변수는 Chi-square test를 통해 환자군과 대조군 간 의 차이를 분석하고, p-value<0.05인 경우 통계적으로 유의한 차이가 있는 것으로 평가하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 아주대학교 기관윤리위원회 승인을 받아 진행하 였다(IRB No. 202012-HB-EX-0.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "연구 결과 건강보험심사평가원의 2017년 HIRA-APS의 686,913명 중 CYP3A4 substrate나 inhibitor를 처방받은 환자는 629,430명 이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "단독처방을 받은 환자 384,355명을 제외한 CYP3A4 substrate와 inhibitor를 각각 병용처방을 받은 환자는 245,075 명이었으며, 7일 미만 병용은 환자 90,389명을 제외한 7일 이상 up strategy of study population CYP3A4 병용 환자는 154,686명이었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "복약순응도 80% 미만 116,427 명, 2017년 10월 1일 이후에 약물을 병용한 환자 11,629명이 제 외되었으며, 1월부터 9월까지 병용처방 받은 환자 26,630명이 추적관찰 대상 환자로 선정되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "병용 7일 이상인 환자군 24,240 명, 30일 이상인 환자군 3,444명이 선정되었다(Fig. 1. 병용 7일 이상 사용군 병용 7일 이상인 전체 환자군 특성으로 부정맥 발생군 (n=9에서 75세 이상(n=5이 가장 많았고, 남성(n=4보 다 여성(n=5이 더 많았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "연령 및 보험종류에 따른 유의한 차이가 있었으나, 성별에 따라서는 유의한 차이를 보이지 않 았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "공존질환은 부정맥 발생군에서 만성폐질환(n=5이 Arrhythmias (n=981 Age group (years), n (%) 65-69 213 (21.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Gender, n (%) Male 427 (43.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Female 554 (56.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Type of health coverage, n (%) Health insurance 827 (84.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Medical Aid 154 (15.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Comorbidities, n (%) CHF 479 (48.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Cancer 130 (13.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Cancer Metastasis 18 (1.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Dementia 266 (27.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Mild Liver Disease 353 (35.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Moderate or Severe Liver Disease 21 (2.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Renal Disease 113 (11.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Rheumatologic Disease 69 (7.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "CHF: congestive heart failure; COPD: chronic obstructive pulmonary myocardial infarction; PVD: peripheral vascular disease; PUD: peptic u 4 55.96%로 가장 많았고, 울혈성 심부전(p<0.00, 만성폐질환 (p=0.00, 뇌혈관질환(p<0.00, 당뇨(p=0.01, 심근경 색(p<0.00, 말초혈관질환(p<0.00, 치매(p=0.04, 간 질환(p<0.00, 소화성 궤양 질환(p=0.0, 신장질환(p< 0.00에서 부정맥과의 관계가 통계적으로 유의하였다 (Table 1-1). 병용 7일 이상인 환자군에서 많이 사용된 상위 50 약물쌍 중 diazepam-cimetidine 병용군에서 다변수로 aOR은 1.388 (95% CI, 1.086-1.7로 부정맥 비발생군에 비해 발생 군에서 1.388배 더 많이 사용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Clopidogrel-cimetidine 병용군에서 aOR은 1.378 (95% CI, 1.079-1.7로 부정맥 비 발생군에 비해 발생군에서 1.378배 더 많이 사용되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Alprazolam-ciprofloxacin 병용군에서 aOR은 1.401 (95% CI, on ≥7 days) 1) Non-arrhythmias (n=23,2 p-value 6,289 (27. 0.001* 5,860 (25. 0.745 13,014 (55. 0.038* 3,114 (13. 3,914 (16. <0.001* 11,683 (50. <0.001* 6,588 (28. <0.001* 11,002 (47. 0.012* 996 (4. <0.000* 6,930 (29. <0.001* 3,063 (13. 0.493 5,662 (24. 0.050 7,223 (31. 0.001* 183 (0. <0.001* 916 (3. 0.390 9,693 (41. 0.048* 1,588 (6. <0.001* 1,522 (6. 0.544 y disease; CVD: cerebrovascular disease; DM: diabetes mellitus; MI: ulcer disease; *p<0.05 Arrhythmias (n=351 Age group (years), n (%) 65-69 77 (21.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Gender, n (%) Male 172 (4 Female 179 (5 Type of health coverage, n (%) Health insurance 296 (84.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Medical Aid 55 (15.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Comorbidities, n (%) CHF 199 (56.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Cancer Metastasis 6 (1.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Dementia 90 (25.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Mild Liver Disease 113 (32.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Moderate or Severe Liver Disease 8 (2.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Renal Disease 51 (14.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Rheumatologic Disease 22 (6.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Propranolol-cimetidine 병용군에서는 aOR 2.245 (95% CI, 1.661-3.0로 부정맥 발생군에서 2.245배 더 많이 사용 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Diltiazem-cimetidine 병용군에서 aOR은 1.985 (95% CI, 1.415-2.7로 부정맥 발생군에서 1.985배 더 많이 사용 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Esomeprazole-cimetidine 병용군에서 aOR은 1.527 (95% CI, 1.045-2.2로 부정맥 발생군에서 1.527배 더 많이 사용되었다(Table 2-1).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "공존질환에서 울혈성 심부전 환자에서 aOR은 4.482 (95% CI, 3.901-5.1로 부정맥 비발생군에 비해 발생군에서 4.482 배 더 많았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "뇌혈관질환 환자의 aOR은 1.178 (95% CI, on ≥30 days) 1) Non-arrhythmias (n=3,0 p-value 711 (22. 0.416 1,648 (53. 618 (19. <0.001* 1,503 (48. 0.073 1,486 (48. 0.176 150 (4. <0.001* 953 (30. 0.643 1,211 (39. 0.564 237 (7. <0.001* 235 (7. 0.369 y disease; CVD: cerebrovascular disease; DM: diabetes mellitus; MI: ulcer disease; *p<0.05 1.018-1.3로 부정맥 발생군에서 1.178배 더 많았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "간질환 자 aOR은 2.164 (95% CI, 1.348-3.4로 부정맥 발생군에서 2.164배 더 많았다(Table 3-1). 2. 병용 30일 이상 사용군 병용 30일 이상인 환자군의 특성으로 부정맥 발생군(n=3 에서 75세 이상(n=1이 가장 많았고, 남성(n=1보다 여성 (n=1이 조금 더 많았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "연령군, 보험의 종류 및 성별에 따 라 유의한 차이를 보이지 않았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "공존질환은 부정맥 발생군 에서 울혈성 심부전(n=1이 56.70%로 가장 많았고, 울혈성 심부전(p<0.00, 심근경색(p<0.00, 간질환(p=0.0, 신 CYP3A Drug pairs [substrates-inhibitors] Crude OR Propranolol-Cimetidine 2.472 Diltiazem-Cimetidine 2.187 Esomeprazole-Cimetidine 1.744 Tramadol-Itraconazole 1.301 Zolpidem tartrate-Clarithromycin 1.445 Alprazolam-Ciprofloxacin 1.773 Diazepam-Cimetidine 1.468 Clopidogrel-Cimetidine 1.568 Clopidogrel-Fluconazole 1.412 Quetiapine-Ciprofloxacin 1.610 Alprazolam-Clarithromycin 1.428 Lansoprazole-Ciprofloxacin 1.505 Diazepam-Fluconazole 1.378 Clopidogrel-Clarithromycin 1.332 Cilostazol-Ciprofloxacin 1.320 Tramadol-Ciprofloxacin 1.330 Zolpidem tartrate-Ciprofloxacin 1.516 Zolpidem tartrate-Fluconazole 1.270 Tramadol-Fluconazole 1.085 Clopidogrel-Ciprofloxacin 1.442 Escitalopram-Ciprofloxacin 1.573 Lidocaine-Cimetidine 1.293 Atorvastatin-Clarithromycin 1.00 Alprazolam-Fluconazole 1.319 Escitalopram-Cimetidine 1.399 Alprazolam-Cimetidine 1.457 Atorvastatin-Cimetidine 1.095 Lansoprazole-Cimetidine 1.271 Codeine-Ciprofloxacin 1.208 Diazepam-Clarithromycin 1.194 Dexamethasone-Cimetidine 1.202 Codeine-Cimetidine 1.084 Quetiapine-Cimetidine 1.262 Atorvastatin-Fluconazole 0.947 Lidocaine-Ciprofloxacin 1.329 Lansoprazole-Clarithromycin 0.934 Zolpidem tartrate-Cimetidine 1.220 Tramadol-Clarithromycin 0.980 Trazodone-Cimetidine 1.162 A4 tion ≥7 days) 95% CI Adjusted OR 95% CI 1.871-3.265* 2.245 1.661-3.035* 1.579-3.028* 1.985 1.415-2.785* 1.212-2.511* 1.527 1.045-2.232* 0.851-1.988 1.476 0.960-2.268 1.000-2.088* 1.425 0.925-2.194 1.374-2.289* 1.401 1.021-1.922* 1.197-1.800* 1.388 1.086-1.772* 1.266-1.941* 1.378 1.079-1.760* 0.997-1.998 1.378 0.918-2.067 1.181-2.194* 1.339 0.936-1.916 1.022-1.995* 1.324 0.888-1.975 1.101-2.057* 1.293 0.909-1.840 0.948-2.002 1.292 0.824-2.028 0.961-1.845 1.275 0.877-1.853 0.871-1.999 1.250 0.799-1.955 1.096-1.613* 1.203 0.924-1.566 1.132-2.030* 1.197 0.847-1.692 0.845-1.909 1.193 0.735-1.936 0.837-1.407 1.173 0.815-1.686 1.118-1.859* 1.170 0.872-1.569 1.068-2.317* 1.145 0.739-1.774 0.956-1.749 1.130 0.801-1.594 0.767-1.304 1.089 0.794-1.493 0.903-1.928 1.079 0.677-1.720 1.006-1.947* 1.074 0.740-1.560 1.174-1.808* 1.062 0.810-1.393 0.907-1.321 1.043 0.842-1.294 0.945-1.710 1.039 0.744-1.452 0.983-1.485 1.035 0.798-1.342 0.836-1.704 1.019 0.673-1.544 0.828-1.745 1.018 0.686-1.511 0.913-1.286 1.017 0.827-1.251 0.904-1.762 1.012 0.697-1.471 0.699-1.284 1.007 0.702-1.446 0.877-2.014 0.972 0.608-1.553 0.655-1.333 0.959 0.648-1.420 0.948-1.570 0.940 0.695-1.272 0.759-1.267 0.936 0.669-1.310 0.790-1.707 0.895 0.591-1.353 Drug pairs [substrates-inhibitors] Crude OR Atorvastatin-Ciprofloxacin 1.077 Simvastatin-Cimetidine 0.927 Cilostazol-Cimetidine 0.991 Codeine-Clarithromycin 0.891 Finasteride-Ciprofloxacin 0.891 Amitriptyline-Cimetidine 1.005 Diazepam-Ciprofloxacin 1.254 Finasteride-Cimetidine 0.839 Tramadol-Cimetidine 1.043 Amitriptyline-Ciprofloxacin 1.041 Codeine-Fluconazole 0.793 OR: odds ratio; CI: confidence interval; *p<0.05.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Adjusted ORs were Drug pairs [substrates-inhibitors] Crude OR Tramadol-Amiodarone 13.454 Atorvastatin-Amiodarone 11.079 Lansoprazole-Amiodarone 11.847 Codeine-Amiodarone 12.095 Clopidogrel-Amiodarone 11.728 Alprazolam-Amiodarone 10.278 Diltiazem-Cimetidine 1.294 Propranolol-Cimetidine 0.793 Buspirone-Cimetidine 0.850 Omeprazole-Cimetidine 0.753 Dexamethasone-Cimetidine 0.640 Esomeprazole-Cimetidine 0.858 Zolpidem tartrate-Amiodarone 8.189 Finasteride-Cimetidine 0.595 Finasteride-Ciprofloxacin 0.698 Quetiapine-Ciprofloxacin 1.082 Diazepam-Cimetidine 0.609 Diltiazem-Amiodarone 6.822 Codeine-Clarithromycin 1.056 Lidocaine-Cimetidine 0.706 Alprazolam-Ciprofloxacin 1.109 Atorvastatin-Cimetidine 0.589 Escitalopram-Cimetidine 0.513 Clopidogrel-Ciprofloxacin 1.008 Diazepam-Ciprofloxacin 0.735 95% CI Adjusted OR 95% CI 0.851-1.362 0.888 0.674-1.170 0.569-1.511 0.882 0.536-1.452 0.680-1.447 0.879 0.589-1.313 0.713-1.113 0.873 0.650-1.173 0.585-1.358 0.873 0.553-1.377 0.718-1.407 0.865 0.599-1.248 0.930-1.691 0.864 0.610-1.225 0.572-1.231 0.846 0.560-1.278 0.881-1.236 0.816 0.658-1.011 0.669-1.618 0.803 0.494-1.305 0.587-1.070 0.602 0.408-0.887* derived after adjustment for other drug pair. tion ≥30 days) 95% CI Adjusted OR 95% CI 10.103-17.918* 2.869 1.965-4.190* 8.361-14.681* 2.756 1.912-3.974* 8.149-17.223* 2.755 1.712-4.434* 9.088-16.096* 2.422 1.646-3.565* 8.800-15.630* 2.127 1.444-3.133* 7.095-14.890* 2.009 1.256-3.213* 0.743-2.254 1.911 0.986-3.701 0.494-1.273 1.749 1.010-3.031* 0.424-1.702 1.687 0.768-3.702 0.362-1.566 1.652 0.739-3.691 0.343-1.195 1.537 0.747-3.165 0.443-1.661 1.453 0.666-3.170 5.519-12.149* 1.429 0.860-2.376 0.348-1.017 1.349 0.731-2.491 0.350-1.389 1.283 0.591-2.784 0.572-2.048 1.261 0.509-3.124 0.434-0.856* 1.218 0.800-1.854 4.552-10.226* 1.207 0.732-1.992 0.638-1.746 1.195 0.529-2.699 0.431-1.158 1.16 0.641-2.101 0.640-1.922 1.106 0.477-2.565 0.437-0.795* 1.093 0.752-1.589 0.296-0.892* 1.060 0.565-1.990 0.618-1.645 1.026 0.500-2.107 0.381-1.417 1.011 0.438-2.335 CYP3A4 Drug pairs [substrates-inhibitors] Crude OR Tramadol-Ciprofloxacin 0.743 Lansoprazole-Ciprofloxacin 1.256 Clopidogrel-Cimetidine 0.619 Zolpidem tartrate-Cimetidine 0.44 Alprazolam-Fluconazole 0.493 Tramadol-Fluconazole 0.442 Amitriptyline-Cimetidine 0.404 Atorvastatin-Clarithromycin 1.292 Atorvastatin-Fluconazole 0.541 Tramadol-Clarithromycin 0.887 Lansoprazole-Cimetidine 0.560 Tramadol-Itraconazole 0.501 Trazodone-Cimetidine 0.409 Alprazolam-Cimetidine 0.436 Domperidone-Cimetidine 0.352 Cilostazol-Cimetidine 0.361 Tramadol-Cimetidine 0.36 Atorvastatin-Ciprofloxacin 0.697 Codeine-Ciprofloxacin 0.708 Clopidogrel-Fluconazole 0.589 Codeine-Cimetidine 0.372 Codeine-Fluconazole 0.405 Zolpidem tartrate-Ciprofloxacin 0.718 Quetiapine-Cimetidine 0.314 Simvastatin-Cimetidine 0.214 *p<0.05.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Adjusted ORs were derived after adjustment for other drug pa 장질환(p<0.00이 공존질환 여부가 부정맥 발생군에서 통 계적으로 유의하였다(Table 1-2).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "병용 기간이 30일 이상인 환자군에서 많이 사용된 상위 50 약물쌍 중 유의하게 많거나 적게 사용된 약물쌍을 Table 2-2에 표시하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Atorvastatin-amiodarone 병용군에서 aOR 2.756 (95% CI, 1.912-3.9로 부정맥 발생군에서 더 많이 사용되 었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Codeine-amiodarone 병용군에서 aOR 2.422 (95% CI, 1.646-3.5로 부정맥 발생군에서 더 많이 사용되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Tramadol-amiodarone 병용 투여군에서 aOR 2.869 (95% CI, 1.965-4.1로 부정맥 발생군에서 많이 사용되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Clopidogrel-Amiodarone 병용군에서 aOR 2.127 (95% CI, 1.444-3.1로 부정맥 발생군에서 2.127배 사용되었다. 95% CI Adjusted OR 95% CI 0.496-1.113 0.944 0.489-1.821 0.709-2.226 0.912 0.385-2.164 0.424-0.904* 0.899 0.568-1.423 0.282-0.687* 0.894 0.518-1.544 0.215-1.133 0.871 0.286-2.654 0.255-0.766* 0.853 0.375-1.938 0.233-0.699* 0.848 0.464-1.551 0.696-2.395 0.834 0.331-2.102 0.282-1.036 0.831 0.350-1.976 0.484-1.625 0.825 0.325-2.092 0.333-0.942* 0.758 0.404-1.423 0.202-1.244 0.756 0.283-2.021 0.215-0.781* 0.746 0.352-1.579 0.296-0.641* 0.743 0.453-1.220 0.129-0.963* 0.712 0.249-2.037 0.168-0.775* 0.702 0.315-1.561 0.273-0.474* 0.669 0.458-0.975* 0.419-1.158 0.667 0.328-1.356 0.447-1.122 0.650 0.315-1.341 0.271-1.279 0.611 0.206-1.812 0.273-0.508* 0.598 0.399-0.896* 0.213-0.772* 0.589 0.228-1.520 0.360-1.431 0.556 0.207-1.495 0.165-0.598* 0.503 0.241-1.053 0.068-0.676* 0.496 0.154-1.598 air. Alprazolam-amiodarone 병용군에서 aOR 2.009 (95% CI, 1.256-3.2로 부정맥 발생군에서 2배 더 많이 사용되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Lansoprazole-amiodarone 병용군에서 aOR은 2.755 (95% CI, 1.712-4.4로 부정맥 발생군에서 2.755배 더 많이 사용되었 다(Table 2-2).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "공존질환으로 울혈성 심부전의 aOR 5.196 (95% CI, 4,066- 6.6로 부정맥 비발생군에 비해 발생군에서 5.196배 더 많았 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "심근경색은 aOR 1.621 (95% CI, 1.101-2.3로 부정맥 발 생군에서 1.621배 더 많았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "간질환은 aOR 3.426 (95% CI, 1.410-8.3로 부정맥 발생군에서 3.426배 더 많았다(Table 3-2).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Independent Variable Crude OR Age group (years) 65-69 1.000 70-74 1.350 ≥75 1.329 Gender Male 1.000 Female 1.021 Type of health coverage Health insurance 1.000 Medical Aid 1.205 Comorbidities (yes vs. no) CHF 4.716 COPD 1.259 CVD 1.349 DM 1.177 MI 2.067 PVD 1.319 Cancer 1.007 Cancer, metastasis 0.847 Dementia 1.156 Mild liver disease 1.248 Moderate/severe liver disease 2.759 Plegia 1.145 PUD 1.138 Renal Disease 1.777 Rheumatologic Disease 1.081 CHF: congestive heart failure; COPD: chronic obstructive pulmonary myocardial infarction; PVD: peripheral vascular disease; PUD: peptic ul age, sex, type of health coverage, comorbidities 본 연구는 65세 이상의 고령환자에서 CYP3A4 대사효소의 기질과 억제제로 작용하는 약물의 병용 환자들을 대상으로, 7 일 이상 병용 환자군과 30일 이상 병용 환자군에서 다빈도 사 용 약물 상위 50쌍과 환자의 특성과 공존질환에 따른 부정맥 발생 위험도를 분석하였다 7일 이상 병용한 환자군의 약물쌍 diazepam-cimetidine, clopidogrel-cimetidine, alprazolamciprofloxacin, propranolol-cimetidine, diltiazem-cimetidine, esomeprazole-cimetidine이 부정맥 비발생군에 비해 부정맥 발생군에서 통계적으로 유의하게 더 많이 복용함을 확인할 수 ination ≥7 days) 95% CI Adjusted OR 95% CI reference 1.000 reference 1.124-1.622* 1.216 1.009-1.466* 1.128-1.564* 1.019 0.856-1.211 reference 1.000 reference 0.898-1.162 1.053 0.919-1.205 reference 1.000 reference 1.010-1.437* 0.993 0.827-1.193 4.142-5.370* 4.482 3.901-5.148* 1.107-1.432* 1.015 0.888-1.161 1.179-1.543* 1.178 1.018-1.364* 1.036-1.338* 0.922 0.805-1.056 1.636-2.610* 1.225 0.960-1.563 1.154-1.507* 1.172 1.021-1.346 0.834-1.216 0.949 0.771-1.168 0.527-1.362 0.806 0.483-1.345 1.001-1.335* 0.951 0.812-1.114 1.092-1.426* 1.066 0.926-1.226 1.748-4.353* 2.164 1.348-3.474* 0.841-1.561 0.865 0.624-1.200 1.001-1.294* 1.035 0.906-1.181 1.451-2.175* 1.183 0.956-1.465 0.841-1.388 1.046 0.810-1.351 disease; CVD: cerebrovascular disease; DM: diabetes mellitus; MI: lcer disease; *p<0.05.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Adjusted ORs were derived after adjustment for 있었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "병용 약물 쌍 상위 50건 중 CYP3A4 억제제로서 cimetidine의 병용 건수가 20건이며 그 중 5건에서 유의한 결 과를 확인할 수 있었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Cimetidine의 단독사용과 QT 간격의 연장과의 관련성은 case report로 보고된 바 있으나, 직접적 인 연관성에 관한 추가적인 연구의 보고되지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "병용 7일 이상 환자군에서는 공존질환으로 부정맥 발생군 에서 울혈성 심부전, 뇌혈관질환, 간질환 유병률이 통계적으 로 유의하게 높았다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "울혈성 심부전은 부정맥 발생의 주요 위 험요인이며, 뇌혈관질환 환자의 부정맥 발생에 관한 사 례가 보고된 바 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "뇌졸중환자에서 부정맥 발생과 특징 에 대한 연구가 보고되고 있고, 자율신경계의 불균형으로 CYP3A4 Independent Variable Crude OR Age group (years) 65-69 1.000 70-74 1.171 ≥75 1.013 Gender Male 1.000 Female 0.913 Type of health coverage Health insurance 1.000 Medical Aid 0.987 Comorbidities CHF 5.243 COPD 1.220 CVD 1.235 DM 1.165 MI 2.740 PVD 1.242 Cancer 1.145 Cancer, metastasis 0.798 Dementia 0.778 Mild liver disease 1.081 Moderate/severe liver disease 3.414 Plegia 1.123 PUD 1.068 Renal disease 2.049 Rheumatologic disease 0.813 CHF: congestive heart failure; COPD: chronic obstructive pulmonary myocardial infarction; PVD: peripheral vascular disease; PUD: peptic u age, sex, type of health coverage, comorbidities 인하여 심근이 손상되어 발생하는 것으로 알려져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "말 기 간질환 환자에서 부정맥 발생에 관한 연구가 진행되어 End-stage liver disease 환자의 약 11.6%에서 부정맥이 발견 되어 중증의 간질환과 부정맥 사이의 상관성이 밝혀졌고.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "간문맥 고혈압과 QT 연장과의 상관관계에 대한 연구로 두 질 환 간의 연관성을 시사하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "만성폐쇄성폐질환 환자에서의 기관지 확장제(β-agonistic bronchodilators)의 사용이 부정맥의 위험성을 증가시킨다는 연구결과가 존재하며, 산화적 스트레스, 저산소화(low oxygenation), 폐고혈압, 베타-효능적 기관지 확장제의 사용이 원인으로 추정된 바 있다. 4 bination ≥30 days) 95% CI Adjusted OR 95% CI reference 1.000 reference 0.852-1.610 1.038 0.742-1.454 0.765-1.341 0.796 0.585-1.083 reference 1.000 reference 0.732-1.138 1.014 0.798-1.288 reference 1.000 reference 0.729-1.337 0.879 0.636-1.216 4.171-6.591* 5.196 4.066-6.640* 0.978-1.522 0.986 0.777-1.251 0.980-1.556 1.110 0.857-1.438 0.934-1.453 0.973 0.765-1.238 1.914-3.922* 1.621 1.101-2.387* 0.985-1.565 1.118 0.873-1.430 0.829-1.581 1.183 0.819-1.708 0.343-1.854 0.623 0.246-1.576 0.605-1.000 0.730 0.551-0.965 0.853-1.369 0.863 0.667-1.116 1.501-7.766* 3.426 1.410-8.326* 0.687-1.834 0.991 0.578-1.698 0.853-1.338 0.955 0.751-1.215 1.480-2.836* 1.338 0.936-1.913 0.518-1.278 0.896 0.559-1.437 y disease; CVD: cerebrovascular disease; DM: diabetes mellitus; MI: ulcer disease; *p<0.05.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Adjusted ORs were derived after adjustment for 병용 30일 환자군에서 약물쌍 atorvastatin-amiodarone, codeine-amiodarone, tramadol-amiodarone, clopidogrelamiodarone, propranolol-cimetidine, alprazolam-amiodarone, lansoprazole-amiodarone이 부정맥 비발생군에 비해 부정맥 발생군에서 더 많이 병용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Amiodarone을 포함한 약물 쌍이 부정맥 발생군에서 2배 이상의 차이를 보였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "Amiodarone은 Vaughan-Williams 분류 3급(K ion channel blocker)에 속하는 항부정맥제로 사용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "그러나 CYP3A4 억제제로 작용하여 병용한 CYP3A4 기질에 영향을 주어 부정 맥을 악화시킬 수 있다고 추정된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "병용 30일 이상 환자군에 서도 부정맥 비발생군에 비해 부정맥 발생군에서 울혈성 심부 전, 심근경색, 간질환을 더 많이 공존질환으로 확인되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "심 근기능이상의 정도와 부정맥의 발생 증가와 연관이 있음이 밝 혀졌고, 특히 급성심근경색 환자의 90%에서 부정맥이 발생 이 발생하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 노인환자에서 부정맥 발생에 유의한 영향을 미칠 수 있는 cimetidine, amiodarone을 CYP3A4 기질로 작용하는 부정맥 유발 약물과 함께 복용 중이거나, 울혈성 심부전, 간질 환을 기저질환으로 가지고 있는 고령환자를 부정맥 발생 고위 험군으로 확인하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "부정맥의 발생 위험성을 낮추기 위해 부정맥을 발생할 위험이 있는 CYP3A4 기질, 억제제의 병용 을 피하고, 환자의 기저질환을 고려하여 치료의 지속적인 모 니터링 및 약물요법을 선택하도록 고려해야 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구의 한계점으로 Indiana university의 Flockhart Table 에 게시된 부정맥 유발 위험약물 중 CYP3A4 기질과 억제제 로 작용하는 약물 쌍을 기준으로 환자군을 선별하여 추가 약 물에 대한 상호작용이 누락되었을 수 있으며, 부정맥에 영향 을 줄 수 있는 흡연의 유무, 체중, 카페인 섭취, 운동의 유무와 같은 생활습관 요소는 데이터베이스에서 확인할 수 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "부정맥에 영향을 줄 수 있는 CYP3A4 기질, 억제제를 추가적 으로 선별하고, 결과에 영향을 줄 수 있는 교란변수를 고려하 여 가능한 데이터베이스로 심층분석할 수 있을 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "건강 보험심사평가원에서 제공하는 고령환자데이터셋 표본자료 에서 사망여부를 알 수 없었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "또한 환자군의 기저 특성과 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "약제 복용의 복합적인 영향을 명확히 하기 위해 기저질환 기 준의 환자군 매칭 혹은 변수를 같이 고려한 분석이 추가적으 로 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구의 한계점에도 불구하고 CYP3A4 기질, 억제제로 작용하는 약물을 병용하는 고령환자군에서 약제에 따른 부정맥 발생 위험과 공존질환에 따른 부정맥 발생 위험 을 파악하여 고령환자의 다약제 복용에 관한 약물관리의 필요",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "성을 인식할 수 있는 연구로 의의가 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "고령환자는 만성질환으로 다약제 약물을 병용하는 경우가 많으며, CYP3A4 기질과 억제제의 병용 경우도 많다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "병용약 물로 cimetidine 이 포함된 약물을 7일 이상 또는 amiodarone 을 30일 이상 사용하는 환자에서 부정맥 발생 부작용 연관성 이 높았으며, 기저질환으로 심부전 또는 심근경색 환자에서 영향이 컸다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "본 연구는 2021년 식품의약품안전처의 연구과제(21153 MFDS6로 수행하였습니다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "본문",
+      "path": null,
+      "ko_txt": "저자들은 본 논문의 내용과 관련하여 그 어떠한 이해상충도",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

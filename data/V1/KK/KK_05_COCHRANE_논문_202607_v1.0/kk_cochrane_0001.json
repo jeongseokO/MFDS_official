@@ -1,0 +1,82 @@
+{
+  "document_id": "kk_cochrane_0001",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000008.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000008.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "침 치료는 전통 중의학에 기원을 두고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "대부분의 침 치료는 침 바늘을 정해진 경혈에 삽입하여 자극함으로써 이루어진다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이 리뷰는 천식 환자의 침 치료 효과에 대해 무작위 대조 임상시험에 기반한 근거가 있는지 평가하고자 하였다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이 리뷰에 포함된 임상시험은 품질이 다양하였으며 일치된 결과를 보여주지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "향후 연구는 침 치료의 긍정적인 효과 중 비‐특이적인 요소가 있는지 밝히는 데 집중해야 하며, 플라세보 (거짓 치료) 뿐만 아니라 '치료를 하지 않은 것'과도 비교하여 평가할 필요가 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "현재 근거는 천식의 침 치료에 대한 어떤 권고를 내리기에도 불충분한 수준이다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

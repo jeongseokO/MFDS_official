@@ -1,0 +1,1882 @@
+{
+  "document_id": "kk_mfds_guide_0018",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "10. 줄기세포치료제 품질, 비임상 및 임상 평가 가이드라인(2018).pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "6. 참고문헌 22",
+      "path": null,
+      "ko_txt": "줄기세포치료제 품질, 비임상 및 임상 평가 가이드라인.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1.1. 도입",
+      "path": null,
+      "ko_txt": "본 가이드라인의 발간 목적은 줄기세포치료제의 품질, 비임상, 임상시험자 료와 관련된 특이적인 고려사항을 제시하는데 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "1.1. 도입",
+      "path": null,
+      "ko_txt": "적용대상은「생물학적제제 등의 품목허가 심사 규정」(식품의약품안전처 고 시) 제2조제14호에 따른 “세포치료제” 로서, ‘줄기세포를 이용한 세포치료제’이.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "다. 여기서 ‘줄기세포를 이용한 세포치료제’라 함은 완제품의 주성분이 줄기세포",
+      "path": null,
+      "ko_txt": "인 경우나 줄기세포로부터 분화된 세포인 경우를 포함하여 투여시점에서의 분화 상태와 관계없이 모든 형태의 줄기세포에 적용될 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "다. 여기서 ‘줄기세포를 이용한 세포치료제’라 함은 완제품의 주성분이 줄기세포",
+      "path": null,
+      "ko_txt": "또한 제2조제15호에 따른 줄기세포를 이용한 유전자치료제나 줄기세포 또는 줄기세포에서 분화된 세 포와 지지체 등과 결합된 복합품목의 경우에도 본 가이드라인이 적용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "다. 여기서 ‘줄기세포를 이용한 세포치료제’라 함은 완제품의 주성분이 줄기세포",
+      "path": null,
+      "ko_txt": "한편, 동 규정 제2조제14호에 따라 의료기관 내에서 의사가 자가 또는 동종줄기 세포를 당해 수술이나 처치 과정에서 안전성에 문제가 없는 최소한의 조작(생물 학적 특성이 유지되는 범위 내에서의 단순분리, 세척, 냉동, 해동 등)만을 하는 경 우는 본 가이드라인에 적용되지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "다. 여기서 ‘줄기세포를 이용한 세포치료제’라 함은 완제품의 주성분이 줄기세포",
+      "path": null,
+      "ko_txt": "동 가이드라인에서 기술하는 품질, 비임상, 임상시험자료는 품목허가 신청이 나 임상시험계획승인 신청 시 제출되는 자료이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "다. 여기서 ‘줄기세포를 이용한 세포치료제’라 함은 완제품의 주성분이 줄기세포",
+      "path": null,
+      "ko_txt": "품목허가 시 제출자료는「약사법」제31조, 제35조, 제42조 및「의약품 등의 안 전에 관한 규칙」제4조, 제8조부터 제12조에 따라 세포치료제 및 유전자치료제 의 제조판매(수입)품목허가 및 변경허가를 위한 심사에 관한 세부사항은 「생물 학적제제 등의 품목허가 심사 규정」(식품의약품안전처 고시)에서 정하고 있.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "다. 동 고시 6조에서는 품목(변경)허가 시 제출되는 심사자료의 종류를 정하고",
+      "path": null,
+      "ko_txt": "있는데, 세포치료제에 대해서는 “[별표 2] 세포치료제의 제출자료”에서, 유전 자치료제에 대해서는 “[별표 3] 유전자치료제의 제출자료”에서 그 세부사항 을 정하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "다. 동 고시 6조에서는 품목(변경)허가 시 제출되는 심사자료의 종류를 정하고",
+      "path": null,
+      "ko_txt": "또한 임상시험계획승인 시 제출되는 자료는「약사법」제34조제7항 및 「의 약품 등의 안전에 관한 규칙」제24조에 따라 세포치료제 및 유전자치료제의 임상시험계획승인에 필요한 자료의 작성요령, 범위, 요건 등에 대한 세부사항 은 「의약품 임상시험 계획 승인에 관한 규정」(식품의약품안전처 고시)에서 정하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "다. 동 고시 6조에서는 품목(변경)허가 시 제출되는 심사자료의 종류를 정하고",
+      "path": null,
+      "ko_txt": "동 고시 제4조에서는 임상시험계획 (변경)승인 신청시 안전성·유 효성과 관련하여 제출하는 자료의 범위를 정하고 있는데, [별표 1]에 따라 세 포치료제 및 유전자치료제의 특성에 따라 제출자료의 범위를 판단하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "1.2. 배경",
+      "path": null,
+      "ko_txt": "줄기세포는 자기복제 및 분화의 특성이 있으며, 생체 내 환경에 따른 특성변화, 투여 외 장소로 이동 등의 특수성으로 이러한 사항을 고려한 줄기세포치료제에 특화된 품질, 비임상, 임상 고려사항이 필요하다는 측면에서 이 가이드라인 을 제시하게 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "1.2. 배경",
+      "path": null,
+      "ko_txt": "줄기세포치료제의 재생치료에 대한 기대가 높아짐에 따라, 척수강, 피하, 근육내 등 다양한 투여경로로의 적용이 늘어나고, 줄기세포치료제 기원이 자가에서 동종, 이종을 넘어 iPS(유도만능 줄기세포)로 까지 다양화 되어가 고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "1.2. 배경",
+      "path": null,
+      "ko_txt": "이러한 줄기세포치료제는 세포종류별, 제조과정 등에 따라 그 위 험성의 수준이 다를 수 있으며, 임상경험에 있어서도 차이가 있어 모든 종 류의 줄기세포치료제를 동일한 기준으로 평가하는 것은 어렵다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "1.2. 배경",
+      "path": null,
+      "ko_txt": "줄기세포 특수성을 고려한 품질, 비임상, 임상 고려사항을 주 내용으로 하는 “Reflection paper on stem cell-based products”가 2011년 유럽 의약품청(EMA, European Medicineds Agency)에서 발간되었으며 이를 기반으로 그간 변화된 규제환경과 기술진보 사항 등을 반영하여 동 가이드라인을 발간하게 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "1.2. 배경",
+      "path": null,
+      "ko_txt": "줄기세포치료제 임상시험승인이나 품목허가를 위한 제출자료 준비 시 또는 개 발단계에서 동 가이드라인을 참고할 수 있으며, 여기에서 상세하게 기술되지 않 는 부분은 “임상시험용 생물의약품 품질평가 가이드라인(2013)”, “ 세포치료제 품질관리 시험항목 설정 가이드라인(2014)”, “줄기세포치료제 종양원성 평가 가 이드라인(2014)”, “줄기세포치료제 체내분포 평가 가이드라인(2014)”, “동종줄 기세포치료제 면역독성 평가 가이드라인(2014)”를 참고할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "2.1. 줄기세포의 정의와 특성",
+      "path": null,
+      "ko_txt": "줄기세포는 딸세포를 생성시킬 수 있는 자가재생능과 다양한 계열의 세포로 분 화할 수 있는 다분화능을 가진 세포로 정의된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "2.1. 줄기세포의 정의와 특성",
+      "path": null,
+      "ko_txt": "줄기세포는 미분화 줄기세포로 서 계속 증식할 수 있는 능력이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "2.1. 줄기세포의 정의와 특성",
+      "path": null,
+      "ko_txt": "본 가이드라인의 목적에 따라, 다음과 같은.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "2.1. 줄기세포의 정의와 특성",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"줄기세포들이 포함된다.\", \"ㆍ성체줄기세포\", \"- 조혈줄기세포\", \"- 중간엽줄기세포\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "2.1. 줄기세포의 정의와 특성",
+      "path": null,
+      "ko_txt": "- 신경, 장, 피부, 폐, 근육 등의 정상적 조직 재생 및 교체에 관여하는 좀 더 제 한된 분화능을 가진 조직 특이적 전구세포 ㆍ분화된 성체세포를 재프로그램하여 배아줄기세포의 줄기세포성과 분화능을 재획득할 수 있도록 유도한 유도만능줄기세포, 그 중간단계의 세포 ㆍ배반포유래 배아줄기세포.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "중간엽줄기세포는 일차적으로 골수기질, 지방조직으로부터 유래한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "또한 중간엽줄기세포는 망막, 간, 위점막, 건, 연골, 태반, 제대혈, 혈액 등의 수많은 다 른 조직에서도 분리될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "중간엽줄기세포는 플라스틱 표면에의 부착능, 특 이적 표면항체 발현, 다능1) 분화능과 같은 특성들에 의해 정의된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "중간엽줄기 세포는 분화될 계통이 정해진 세포(lineage-committed cells)로서 중간엽 계통, 주로 지방세포, 연골세포, 골세포로 분화된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "중간엽줄기세포는 적절한 시험관 내 배양 조건에서 건세포, 신경세포, 신경교세포, 골격근세포 등으로 분화가 가 능하다는 것이 알려져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "조직 특이적 줄기세포는 제한된 분화능을 가지고 있으며 정상적으로는 해당 조직에 특이적인 한 종류의 세포 또는 몇 종류의 세포로만 분화한다(예, 건세포, 근육세포, 신경교세포). 조혈줄기세포는 조직 특이적 줄기세포의 한 특정 부류이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "조혈줄기세포는 골수와 가슴샘에 존재하는 모든 조혈계통의 세포 즉, 골수성 세포와 림프구성 세 포로 분화할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "출산 시 태반과 제대혈에는 성인 골수에서 얻을 수 있는 수 준의 조혈줄기세포가 존재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "성인에서 조혈줄기세포는 적골수(red bone marrow)에 존재하며, 말초혈액에도 순환하는 조혈줄기세포가 낮은 빈도로 존재 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "간, 비장, 근육 등 다른 조직에서도 낮은 빈도로 존재하지만, 이들의 기원과 정상적 조혈작용과의 관련성에 대해서는 잘 알려져 있지 않다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "조혈줄기세포는 고용량 화학요법 또는 성장인자 투여로 혈액 쪽으로 이동된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "1) 다능의(multipotent): 한 가지 이상의 세포 종류가 될 수 있는 능력이 있으나 분화될 계통이 정해져 있음 만능의(pluripotent): 3개 배엽으로부터 유래된 세포 등 신체의 거의 모든 다양한 세포로 분화할 수 있는 능력이 있음 전능의(totipotent): 신체의 모든 종류의 세포와 태반과 같은 배외조직(extraembryonic tissue)을 구성할 수 있는 모 든 세포종류로 될 수 있는 능력이 있음 유도만능줄기세포는 인위적으로 만들어진 줄기세포이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "이 세포는 피부의 섬유아세포와 같은 성체의 체세포로부터 재프로그래밍함으로써 만들어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "유 도만능줄기세포는 자가재생능과 만능분화능, 기형종형성능 등 배아줄기세포의 특징 중 많은 부분을 공유한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "다른 성체세포를 이용하여 유도만능줄기세포를 생성시키는 경우도 점점 증가하고 있으며, 생성된 줄기세포의 분화능은 원료 세 포의 종류와 연령에 따라 달라지는 것으로 보인다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "이 세포는 세포 특이적 조절 경로의 변화와 유전자 발현 및 후생학적 조절에 대하여 과학적으로 밝혀진 바가 적다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "이러한 특성으로 인하여 조직 키메라증이나 세포의 기능부전 등이 발생할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "배아줄기세포는 확립된 세포주로서 시험관내 배양을 통해 유지될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "인 간 배아줄기세포는 만능분화능 세포로서 신체내에 존재하는 거의 모든 종류의 세포로 분화가 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "인간 배아줄기세포는 만능분화능과 관련된 표지 유전 자들은 물론 일군의 고유한 세포표지자들로 특징지워질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "배아줄기세포 는 허용되는 숙주에 이식될 경우 내배엽, 중배엽, 외배엽 3배엽에서 유래한 다양 한 형태의 세포로 구성된 기형종(teratoma)을 형성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "2.2. 줄기세포 종류에 따른 특성",
+      "path": null,
+      "ko_txt": "배아줄기세포는 배양 배 지에 외부 인자를 추가하거나, 유전적 변형을 통해 시험관내에서 분화될 수 있.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "3.1. 일반적 고려사항",
+      "path": null,
+      "ko_txt": "줄기세포기반제제는 단일 복제 세포군 또는 여러 종류의 세포로 구성될 수 있 으며, 다양한 분화능을 가진 세포들과 여러 분화 단계에 있는 세포들이 복잡하게 혼합된 상태로 구성될 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "3.1. 일반적 고려사항",
+      "path": null,
+      "ko_txt": "줄기세포의 생체내 분화능과 작용기전은 시험 관내 배양의 처리방법, 배양 조건과 배양 기간에 따라 달라질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "3.1. 일반적 고려사항",
+      "path": null,
+      "ko_txt": "배지조성 (예, 성장인자 또는 혈청 사용), 분리방법, 배양 세포 포화정도(cell confluence) 등 의 요인들은 세포 조성과 생물학적 활성에 영향을 미칠 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "3.1. 일반적 고려사항",
+      "path": null,
+      "ko_txt": "줄기세포기반제 제는 이와 같은 분화유연성과 제품별 특수성을 가지고 있기 때문에, 명확히 정의 되고 특성이 잘 규명된 줄기세포를 이용하여 비임상연구와 임상연구를 실시하 는 것이 필수적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "3.1. 일반적 고려사항",
+      "path": null,
+      "ko_txt": "임상치료용 줄기세포기반제제는 최종 제품의 품질을 일관 되고, 재현성 있게 보장하기에 충분한 수준으로 품질관리가 이루어질 수 있도록 확고히 구축된 제조과정을 통해 생산되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "3.1. 일반적 고려사항",
+      "path": null,
+      "ko_txt": "인간 배아줄기세포와 유도만능줄기세포는 종양발생 위험이 있기 때문에 반드 시 환자에게 투여하기 전에 계통 특이적으로 분화된다는 것을 확인해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "3.2. 원료물질",
+      "path": null,
+      "ko_txt": "생산과정에서 사용된 원료(raw material)를 포함하여 세포주 확립 및 세포은 행에 관한 이력은 면밀하게 문서화할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "3.2. 원료물질",
+      "path": null,
+      "ko_txt": "오염의 위험을 최소화하기 위 해, 세포은행, 원료물질 확인 과정 및 제조 초기 단계에서 세포와 원료물질의 바 이러스 및 전염성 해면상뇌증에 대한 안전성은 반드시 언급되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "3.2. 원료물질",
+      "path": null,
+      "ko_txt": "줄기세포를 분리하기 위한 원료물질(starting material)의 기원과 채취과정은 최종 세포군의 수득률과 동질성/순도와 관련하여 필수적인 부분으로 간주된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "3.2. 원료물질",
+      "path": null,
+      "ko_txt": "따라서 분리조건을 표준화하고 세포군, 이질성, 수득률을 조절하기 위해서는 적 절한 표지자를 선택하는 것이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "3.3. 제조공정",
+      "path": null,
+      "ko_txt": "제조과정은 원료에 따라 종종 다음과 같은 단계를 포함한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "3.3. 제조공정",
+      "path": null,
+      "ko_txt": "․ 명확히 정의되고 특성이 잘 규명된 세포부유액을 생산하기 위해, 다양한 단계 에서 조직이나 세포를 채취하고 처리하는 과정 ․ 마지막 단계까지 분화된 세포의 재프로그래밍(iPS) ․ 분화되지 않은 세포의 성장을 위한 조건하에서의 증식 ․ 시험관내 세포분화 ․ 의도적인 생물학적 활성을 가지는 세포군의 선별(예, 미분화 상태의 만능분화 능 세포 제거, 면역선택) 생체 외에서 줄기세포를 증식 및 분화시키는 과정은 상당한 수준의 조작으로 간주된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "3.3. 제조공정",
+      "path": null,
+      "ko_txt": "증식된 줄기세포는 종종 분화된 상태로 투여된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "3.3. 제조공정",
+      "path": null,
+      "ko_txt": "그러나, 다분화능이 있는 줄기세포의 경우 증식 후 특정 계통으로의 분화가 결정되기는 하였지만 아 직은 미분화상태이면서 증식가능한 세포의 형태로 투여될 수 있다는 것이 알려 져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "3.3. 제조공정",
+      "path": null,
+      "ko_txt": "이 경우에는 종양발생 가능성이 있어 개발 중 추가적인 안전성 시험이 요구될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "3.3. 제조공정",
+      "path": null,
+      "ko_txt": "세포의 형질전환과 종양 형성의 위험을 최소화하기 위해 적절한 시험평가가 반드시 수행되어져야 하며, 특히 배아줄기세포와 유도만능줄기세포 의 경우에 더욱 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "3.3. 제조공정",
+      "path": null,
+      "ko_txt": "해당 분화 공정이 의도한 용도에 부합되는지를 확인하기 위해 중요한 제조단 계에서는 관련성 있는 표지자를 이용하여 품질관리를 실시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "3.3. 제조공정",
+      "path": null,
+      "ko_txt": "또한 제 품 특성에 따른 위험 요소가 있는 제조과정을 고려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "3.4. 제조공정 검증",
+      "path": null,
+      "ko_txt": "제품 공정을 개발·검증하는 과정 동안, 제품의 안전성을 보장하기 위해 핵심적 인 생산 단계에서 유전적 불안정성, 종양원성, 의도된 세포군과 의도되지 않은 세포군의 분포양상 등 세포의 표현형 등의 시험관 평가(in vitro)가 수행되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "3.4. 제조공정 검증",
+      "path": null,
+      "ko_txt": "기존 세포군 중 특정 세포에 영향을 미칠 수 있는 성장인자와 시약을 사용 하는 경우는 특별한 주의를 기울여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "3.5.1. 확인",
+      "path": null,
+      "ko_txt": "줄기세포의 확인은 자기복제능(증식능)과 특이적 표지자의 발현으로 정의된 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "3.5.1. 확인",
+      "path": null,
+      "ko_txt": "여러 세포군의 혼합체(예, 골수, 지방조직, 제대혈)가 종종 원료물질이 되기 도 하며, 원료물질의 채취 및 제조 과정은 최종 세포군에 현저한 영향을 미칠 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "3.5.1. 확인",
+      "path": null,
+      "ko_txt": "따라서 의도한 세포군의 확인/치료효과를 내기 위한 최종 세포군의 불균 일성 양상은 면밀하게 정의되고 특성규명이 이루어져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "3.5.1. 확인",
+      "path": null,
+      "ko_txt": "세포의 종류, 만능분화능, 분화계통, 최종 분화를 나타내는 여러 종류의 세포 표지자 그리고/또는 기능성을 확인하기 위한 시험법 등이 세포의 확인에 이용 될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "3.5.1. 확인",
+      "path": null,
+      "ko_txt": "그러므로 세포확인을 위한 표지자 또는 표지자 조합은 의도된 세포 에 특이적이어야 하며 치료의 생물학적 또는 분자학적 기전에 대한 이해를 기초 로 해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "3.5.1. 확인",
+      "path": null,
+      "ko_txt": "세포의 확인에 이용되는 표지자 조합을 이용하여 세포의 종류와 다양한 분화상태를 구분할 수 있다면 가장 이상적일 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "3.5.1. 확인",
+      "path": null,
+      "ko_txt": "단백질 표지자 발현 과의 상관성이 검증되어 있다면 mRNA 기반 표지자도 이용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "3.5.2. 순도",
+      "path": null,
+      "ko_txt": "세포 유래 의약품의 순도관리는 제조과정 중 유입가능성이 있는 비세포성 불순 물, 최종 제품의 전반적 기능에 필요하지 않는 세포잔해 또는 세포와 같이 바람 직하지 못한 특성을 최소화하는 것과 관련되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "3.5.2. 순도",
+      "path": null,
+      "ko_txt": "따라서, 활성 성분을 극대 화하고 치료적 활성에 기여하지 않거나 치료 활성/안전성에 부정적 영향을 주는 부분은 최소화하는 것을 목표로 해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "3.5.2. 순도",
+      "path": null,
+      "ko_txt": "적절한 순도 기준은 제품 개발과정의 일부분이기도 한 특성규명 연구를 통해 확립될 것을 기대한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "3.5.2. 순도",
+      "path": null,
+      "ko_txt": "순도라는 개념은 반드시 동질성을 의미하는 것은 아니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "3.5.2. 순도",
+      "path": null,
+      "ko_txt": "예를 들어 줄기세포는 선택적 표면 표지 자가 확립되어 있지 않은 경우 세포 분리 및 농축이 쉽지 않을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "3.5.2. 순도",
+      "path": null,
+      "ko_txt": "그러나 적 어도 제품의 품질에 일관성이 있다는 것은 입증해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "3.5.2. 순도",
+      "path": null,
+      "ko_txt": "이를 위해서는 원료의 선택과 준비, 적절한 공정 관리, 출하 검사법의 개발 및 선택 등의 통합적 전략이 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "3.5.3. 역가",
+      "path": null,
+      "ko_txt": "줄기세포치료제의 역가 시험법은 의약품의 과학적 근거와 의도한 용도에 맞는 세포의 분화상태 등에 근거하여 개발되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "3.5.3. 역가",
+      "path": null,
+      "ko_txt": "역가 시험법은 제품에 따라 다 양하며 기능검사와 표지자에 근거한 검사가 모두 해당될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "3.5.3. 역가",
+      "path": null,
+      "ko_txt": "이상적인 역가 시험법은 최소한 준정량적 검사이면서 의도된 치료 효과와의 관련성을 보여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "3.5.3. 역가",
+      "path": null,
+      "ko_txt": "기능적, 표현형적 가소성이 있는 혼합 세포군이 치료적으로 요구되는 경 우, 역가시험법은 각기 다른 세포군의 표현형적 양상에 대한 자료가 보강되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "3.5.3. 역가",
+      "path": null,
+      "ko_txt": "작용 및 치료효과를 나타내는 생물학적 또는 세포 기전을 이해하는 것은 신뢰성 있는 역가 시험법을 개발하기 위한 기초가 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "3.5.3. 역가",
+      "path": null,
+      "ko_txt": "생물학적 활성/ 역가 시험법의 예: ․ 생물학적으로 관련성이 있는 물질의 발현(예, 재조합 단백질, 지단백 및 당단 백, 성장인자, 효소, 싸이토카인) ․ 세포/세포외기질/구조의 형성 ․ 세포 상호작용(예, 면역 활성/억제) ․ 분화/자기복제능 / 이동의 측정 동물을 이용한 기능학적 평가법은 줄기세포치료제의 생물학적 활성에 있어서 폭넓은 시각을 제공할 수 있으며, 제품개발 단계에서 품질평가 및 비임상 연구 모두에 사용되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "3.5.3. 역가",
+      "path": null,
+      "ko_txt": "이와 같은 시험법들은 검사에 소요되는 시간적 제한이 있을 수 있으므로, 항상 출하 검사가 적합하지 않을 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "3.5.3. 역가",
+      "path": null,
+      "ko_txt": "따라서 줄기세포 치료제의 역가를 확인하기 위해서는 몇 가지 다른 형태의 검사방법을 조합하는 것이 필요할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "3.5.4. 유전적 안정성",
+      "path": null,
+      "ko_txt": "모든 세포는 세포분열을 거듭할수록 DNA 복제기능의 불완전성으로 인해 유 전적 안정성에 문제가 발생하게 될 가능성이 높아진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "3.5.4. 유전적 안정성",
+      "path": null,
+      "ko_txt": "줄기세포의 경우에도 세 포의 성장주기에 걸쳐 유전체에 변이가 발생하는 경향이 증가하며, 이로 인하여 발생된 유전자 변이의 축적은 종양발생의 가능성을 예측할 수 있는 주요 요인으 로 알려져 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "3.5.4. 유전적 안정성",
+      "path": null,
+      "ko_txt": "줄기세포를 치료제로 개발하기 위해서는 여러 계대의 증식 등을 포함하는 체 외조작이라는 과정을 거치게 되며, 체외조작 과정의 여러 환경이 줄기세포의 유 전적 안정성을 감소시키는 요인으로 작용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "3.5.4. 유전적 안정성",
+      "path": null,
+      "ko_txt": "따라서 줄기세포치료제 개 발을 위해서는 유전정보가 손상을 입지 않고 얼마나 안정적으로 유지되는지 확 인하는 것이 품질관리에 있어서 매우 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "3.5.4. 유전적 안정성",
+      "path": null,
+      "ko_txt": "줄기세포치료제의 유전적 안정성을 확인하기 위해서는 아래에 소개된 전통적 인 세포유전학적 분석법 또는 최신 유전체기반 분석법을 모두 이용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "3.5.4. 유전적 안정성",
+      "path": null,
+      "ko_txt": "세포유전학적 분석법과 유전체 기반 분석법 모두 장단점을 가지고 있어, 각 분석 법의 한계를 보완할 수 있는 적절한 시험법의 조합을 통해 줄기세포치료제의 유 전적 안정성을 확인할 것을 권장한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "가. 세포유전학적 분석법",
+      "path": null,
+      "ko_txt": "가장 보편적인 시험법으로 세포를 배양하여 분열중기의 세포에서 염색체의 수 적, 형태학적 이상을 관찰하는 핵형분석(karyotyping)이 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "가. 세포유전학적 분석법",
+      "path": null,
+      "ko_txt": "핵형분석은 현미 경으로 관찰 가능한 약 5MB 이상의 염기서열의 변이가 있어야 검출이 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "가. 세포유전학적 분석법",
+      "path": null,
+      "ko_txt": "핵형분석법의 개선된 형태인 다색상 형광제자리분석법(multicolor Florescence in situ hybridization)은 형광색소의 조합을 적용하여 모든 염색체를 번호에 따 라 서로 다른 색으로 구분할 수 있도록 하는 방법으로 미세한 염색체 전위나 삽 입, 표지 염색체를 비교적 쉽게 찾을 수 있으나, 동일 유전자 내의 이상(예:역위 등)은 찾아내기 어려운 단점도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "가. 세포유전학적 분석법",
+      "path": null,
+      "ko_txt": "주해상도는 약 2MB 정도로 전통적 핵형분 석법보다는 높은 편이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "가. 세포유전학적 분석법",
+      "path": null,
+      "ko_txt": "이러한 방법들은 해상도가 낮은 방법으로 줄기세포치료제의 유전적 안정성을 확인하기 위하여 단독으로 사용하기 보다는 높은 해상도를 지닌 마이크로어레 이기반 비교유전체부합법(CGH array) 등 유전체기반 분석법과 상호보완적으로 사용하는 것이 바람직하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "마이크로어레이 기반 비교유전체부합법(Comparative Genomic Hybridization array, CGH 어레이)은 분석하고자 하는 검체와 정상 참고검체에서 추출한 DNA 를 서로 다른 형광물질로 표지하여 수천 내지 수백만 개의 탐색자에 경쟁적으로 반응시킨 후 부합된 형광 강도의 비율을 이용하여 유전자의 양적 변화(copy number variation, CNV)를 검출하는 방식이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "300kb에서 1Mb 정도의 미세한 염기서열 이상도 검출할 수 있는 높은 해상도를 가진 분석법(400kb이상의 해상 도를 사용할 것을 권장)이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "CGH 어레이는 해상도는 높으나 민감도가 낮다는 한계가 있으므로 유전적 안정성을 확인하기 위해서는 핵형분석 등과 상호보완 적으로 사용하는 것이 바람직하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "최근 차세대 염기서열 분석법이 대중화됨에 따라, 이를 이용한 유전적 안정성 분석도 가능하게 되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "전체엑솜염기서열분석(Whole exome sequencing, WES)은 단백질 합성 정보를 가진 엑손에 대한 염기서열을 분석하는 방법으로 전체 유전체의 약 1%(약 3Mb)가 엑손에 해당한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "전체엑솜염기서열분석은 전 장유전체염기서열분석법(Whole genome sequencing, WGS)에 비하여 경제적인 방법으로 암 및 질병 관련 유전자 발굴에 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "전장유전체염기서열분 석법은 전체 유전체의 염기서열을 분석하여 세포의 돌연변이 및 복제수 변이를 분석하는 방법으로 엑손 뿐만 아니라 인트론도 분석 가능하고 추가적으로 말단 부위 완전성(telomere integrity)과 미토콘드리아 유전자 분석도 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "그러 나, 줄기세포치료제의 유전적 안정성 확인을 위해서는 일반적으로 염기서열 분 석에 사용되는 30X 분석 심도(read depth)는 민감도가 충분하지 않으며 이보다 높은 민감도가 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "유전자 패널검사를 이용한 분석의 경우 1000X 이상의 분석심도를 확보할 수 있으며, 분석한 염기서열 데이터를 표준염기서열에 맵핑하고 기준을 정하여 신 뢰할 수 있는 염기서열 변이 정보를 추출함으로써 단일염기서열변이나 짧은 삽 입/결실을 확인할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "나. 유전체기반 분석법",
+      "path": null,
+      "ko_txt": "특히, 암유전자 및 암억제유전자에서 관찰된 변이가 암유발성을 의미하는 아미노산의 변화 및 단백질 구조에 영향을 미치는 지를 판 단하여 변이의 영향력을 판단하는 방법으로, 패널에 포함되어야 하는 유전자의 타당성이 설명되어야 하며, 패널에는 종양관련유전자를 분석대상에 포함하는 것이 필수적이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "4. 비임상 고려사항",
+      "path": null,
+      "ko_txt": "줄기세포치료제의 비임상 평가는 분화된 세포만 포함하는 다른 세포유래 의약 품의 비임상 평가에 비해 좀 더 광범위하게 실시될 필요가 있을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "4. 비임상 고려사항",
+      "path": null,
+      "ko_txt": "개념의 증명, 생체내 분포, 면역 거부반응과 안전성과 같은 여러가지 측면에서 적절히 평가하기 위해 타당한 경우 적절한 동물종 1종에 대해서 실시할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "4. 비임상 고려사항",
+      "path": null,
+      "ko_txt": "시험관 내 모델(in vitro models)은 어떤 특별한 측면을 다루기 위한 목적으로 부가 시험 으로서 이용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "4. 비임상 고려사항",
+      "path": null,
+      "ko_txt": "비임상 평가는 임상평가에서 예상되는 충분한 독성정보를 확보하여야 하며, 임 상시험에 필요한 안전한 용량 및 용법을 확보했는지를 입증하는 평가과정이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "질환모델처럼 치료적 적응증을 반영하는 동물 모델이 존재한다면 이상적이겠 지만 실제로 그와 같은 동물모델을 활용할 수 있는 경우는 제한적일 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "동 물모델 및 동물 종을 선택할 때에는 과학적 타당성을 근거로 해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "상황에 따라 소동물 모델은 외과적 세포 이식 후 장기간에 걸친 조직의 재생과 복구, 안 전성을 평가하는 목적으로는 유용하지 않을 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "이런 경우에는 대동물 모 델이 선호될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "동물의 크기, 생리학적 측면 및 면역체계 등이 연구하고자 하는 임상적 효과(예, 조직재생)와 상관성이 있는 경우에는 대동물 모델이 필요 할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "평가하고자 하는 특이적인 안전성 측면이 무엇인지에 따라 가장 상관성이 높 은 동물모델을 선택해야한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "가능한 경우에는 인간세포로 만들어진 세포유래 의약품을 개념 증명연구 및 안전성 연구에 사용해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "이와 같은 연구에는 면역저하동물 그리고/또는 면역억제 동물(유전적으로 면역저하 그리고/또는 면역억제제 투여함으로써 면역억제 유도)이 종종 필요한 경우도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "4.1. 동물모델",
+      "path": null,
+      "ko_txt": "그러나 이 식된 세포의 지속성이나 기능 등의 측면에서 이식된 세포의 생체내 활동을 예측 하기 위한 목적으로는 인간세포를 이용한 방법이 최적의 방법이라고는 할 수 없.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "다. 동종 동물모델은 개념 증명에 있어서 가장 상관성이 높은 시스템으로 활용될",
+      "path": null,
+      "ko_txt": "수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "다. 동종 동물모델은 개념 증명에 있어서 가장 상관성이 높은 시스템으로 활용될",
+      "path": null,
+      "ko_txt": "그러나, 동물줄기세포와 인간줄기세포가 서로 어느 정도로 유사한가 하는 문제 또는 분화과정에 관련된 인자가 불확실한 측면이 있어 이러한 모델을 이용하는 데에는 한계가 있을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "다. 동종 동물모델은 개념 증명에 있어서 가장 상관성이 높은 시스템으로 활용될",
+      "path": null,
+      "ko_txt": "따라서 동종 모델을 이용하여 얻은 결과 는 신중하게 해석해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "다. 동종 동물모델은 개념 증명에 있어서 가장 상관성이 높은 시스템으로 활용될",
+      "path": null,
+      "ko_txt": "만일 동종모델만을 이용하여 연구한 경우에는, 인간 과 동물 줄기세포간의 차이가 있을 가능성이 납득 가능해야 하고, 결과를 해석할 때 이러한 부분이 고려되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "다. 동종 동물모델은 개념 증명에 있어서 가장 상관성이 높은 시스템으로 활용될",
+      "path": null,
+      "ko_txt": "인간 줄기세포치료제와 관련된 일부 안전성 문제들은 반드시 다루어져야 한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "다. 줄기세포 치료제가 기형종 및 종양을 형성할 가능성을 평가하는 데에는 유전",
+      "path": null,
+      "ko_txt": "적으로 면역저하된 동물모델이나 인간화 동물모델(예, 인간화 면역체계를 가진 동물)이 선호된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "다. 줄기세포 치료제가 기형종 및 종양을 형성할 가능성을 평가하는 데에는 유전",
+      "path": null,
+      "ko_txt": "면역활성이 있는 동물모델에서는 숙주의 면역체계가 투여된 줄기세포치료제를 거부/파괴하여 체내 생착이 실패함에 따라 종양원성 연구에 서 위음성 결과가 초래될 수도 있지만, 면역억제제의 투여는 면역억제제가 가진 본연의 특성 때문에 종양 형성에 영향을 미칠 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "다. 줄기세포 치료제가 기형종 및 종양을 형성할 가능성을 평가하는 데에는 유전",
+      "path": null,
+      "ko_txt": "세포의 지속성과 기능을 고려하여 장기적 효과를 평가하기에 적절한 동물모델 과 연구기간을 선택해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "다. 줄기세포 치료제가 기형종 및 종양을 형성할 가능성을 평가하는 데에는 유전",
+      "path": null,
+      "ko_txt": "비임상시험 항목에 따라 줄기세포치료제 종양원성 평가 가이드라인(2014.9), 줄기세포치료제 체내분포 평가 가이드라인(2014.9), 동종줄기세포치료제 면역 독성 평가 가이드라인(2014.9) 등을 참조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "현재 방법상의 한계 때문에 인간을 대상으로 한 연구로부터 생체내 분포에 관한 충분한 정보를 얻기는 어렵다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "따라서 줄기세포의 생체내 분포에 관한 비임상 연구 는 매우 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "생체내 분포 연구는 줄기세포의 운명이 다단계과정을 거친다는 것을 고려하여 설계해야 한다(특히, 이동, 미세환경, 생착, 분화, 지속성). 표지 유전 자 도입 또는 세포 표지 등 줄기세포를 추적하기 위한 적절한 방법이 적용되어야 하며 가능한 정량적인 분석법을 선택해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "줄기세포의 분화와 기능은 미세환경에 의해 좌우되며 영향을 받는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "또한 생 체내 분포는 투여경로나 이식부위에 따라 크게 달라진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "많은 종류의 줄기세포 들은 귀소성 경향을 가지고 있어 원래 유래한 조직으로 이동하거나 골수유래 중 간엽 세포의 경우 손상부위로 이동하는 것처럼 멀리 떨어진 장소로 이동하기도 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "중간엽줄기세포는 전이성 부위에 위치하는 것이 발견되기도 하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "이소조직(ectopic tissue)이 형성될 잠재적 위험도는 생체내 분포는 물론 줄기세 포치료제의 분화 가능성과도 관련되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "대체로 세포를 전신투여하는 경우 먼 거리까지 분포할 수 있기 때문에 이와 같은 위험성이 증가하게 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "또한, 생 체내에서 이동한 세포에 의해 이소조직이 형성될 위험성 외에도 국소적으로 발 생하는 비생리적 반응이나 독성효과도 발생할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "4.2. 생체내 분포와 미세환경(niche)",
+      "path": null,
+      "ko_txt": "이소조직이 형성된 경우 에는, 그 형태와 빈도, 해부학적 부위와 기원 등이 고려되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "종양형성의 위험성은 세포의 기원, 조작의 정도, 투여경로 및 투여부위에 따라 다양하게 나타날 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "분화상태, 만능분화능, 분화계통 결정도, 배양조건 등 은 관련 위험성을 확인하는 데에 있어서 중요한 의미를 가지고 있는 요인들이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "내재되어 있는 종양형성 위험성에 있어서 만능분화능 줄기세포(iPSC와 hESC) 와 체세포성 줄기세포(MSC, HSC) 간에는 명백한 차이가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "기형종 형성은 만능분화능 줄기세포가 가진 고유한 특성으로, 해부학적으로 민감한 부위(예, 중 추신경계)에서 생성될 경우 안전성이 우려된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "미분화 상태의 만능분화능 줄기 세포는 악성 기형암종을 유발할 가능성도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "품질평가 부분에서도 언급되었지만, 인간 배아줄기세포 및 유도 만능줄기세포 에서 유래된 경우는 물론 상당한 수준의 체외 조작을 거친 줄기세포치료제의 경 우 최초 임상연구를 실시하기 전에 종양원성과 유전적 안정성을 평가해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "종양원성 연구 수행을 위해 가장 적절하고 민감한 모델을 선택하기 위해서는 생 물학적 특성과 체외 조작 조건, 세포의 지속성, 투여경로, 줄기세포치료제의 의 도된 용도 등을 고려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "종양원성의 평가는 만성 질환/독성연구에서 함 께 실시할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "4.3. 종양원성",
+      "path": null,
+      "ko_txt": "잔여 만능분화능 세포가 환자에게 투여되는 경우 비임상 수 준에서 얻어진 자료들을 통합하는 한편, 종양발생의 위험을 최소화하고 암발생 을 피하기 위한 임상적인 전략이 제시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "4.4. 생체내 분화",
+      "path": null,
+      "ko_txt": "요구되는 작용기전을 체내에서 구현하기 위해서는 생체내 분화과정과 기능이 신중하게 연구되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "4.4. 생체내 분화",
+      "path": null,
+      "ko_txt": "줄기세포는 의도된 부위에서 기대한 방향으로 분화 하지 않을 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "4.4. 생체내 분화",
+      "path": null,
+      "ko_txt": "예를 들어 심장이나 혈관계통으로 분화되기를 기대했던 중 간엽줄기세포가 심장에서 석회화를 유도하는 것으로 발견된 예도 있었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "4.5. 면역거부와 지속성",
+      "path": null,
+      "ko_txt": "배아줄기세포와 조혈줄기세포 이식에서는 공여자와 수혜자간의 조직적합항원 (HLA)의 일치 여부를 면밀히 확인할 필요가 있지만, 중간엽줄기세포는 일반적 으로 면역 관용을 가지고 있는 것으로 간주되고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "4.5. 면역거부와 지속성",
+      "path": null,
+      "ko_txt": "동종 중간엽줄기세포는 면 역활성이 있는 설치류 모델에서 면역원성을 가지고 있어 말초혈액으로부터 신 속하게 제거되는 것으로 알려져 있음에도 불구하고, 소수이지만 중간엽줄기세 포는 수주에서 수개월까지 잔존하는 것으로 연구결과가 발표된 바 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "4.5. 면역거부와 지속성",
+      "path": null,
+      "ko_txt": "따라서, 중간엽줄기세포의 지속성을 평가하는 연구를 실시하는 것이 권장되며, 줄기세 포 제거의 위험성 평가를 위해 투여된 세포 제제에 대한 염증/면역반응의 가능 성은 반드시 평가되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "4.5. 면역거부와 지속성",
+      "path": null,
+      "ko_txt": "줄기세포치료제에 대하여 발생할 수 있는 면역반 응의 가능성을 반드시 측정하고 기술해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "4.5. 면역거부와 지속성",
+      "path": null,
+      "ko_txt": "예를 들어 중간엽줄기세포를 통 해 일시적으로 면역이 억제되는 동안과 같이 제한된 기간 동안의 지속성을 의도 한 경우에는 면역거부반응이 용인될 수도 있겠지만, 다른 경우에 있어서는 면역 거부반응으로 인해 의도된 장기적 효과를 얻지 못할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "4.5. 면역거부와 지속성",
+      "path": null,
+      "ko_txt": "활성화된 면역세 포가 포함되어 있을 가능성이 있는 혼합 줄기세포치료제를 특수한 부위에 혹은 면역 관용부위에 투여하는 경우 투여 결과는 신중하게 평가해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "5. 임상 고려사항",
+      "path": null,
+      "ko_txt": "일반적으로 임상 개발 계획은 의약품 임상시험 실시에 필요한 일반 원칙을 따 라야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "5. 임상 고려사항",
+      "path": null,
+      "ko_txt": "사람에게 투여하기 전에 적절한 동물모델에서 줄기세포치료제의 안전성과 치 료원리를 입증할 수 있는 비임상적 근거들이 요구된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "5. 임상 고려사항",
+      "path": null,
+      "ko_txt": "이런 비임상적 근거는 체 외에서 줄기세포에 많은 조작이 가해졌거나, 전신적으로 투여되는 경우에 특히 더욱 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "5. 임상 고려사항",
+      "path": null,
+      "ko_txt": "적합한 동물 모델을 찾기가 어려운 경우처럼 비임상 연구를 통하 여 충분한 작용원리 및 안전성을 입증할 수 없을 때에는, 실제 임상연구에서 유 효성과 안전성 각각에 대한 결과변수들을 더 추가함으로써 그 증거들을 확보해 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "5. 임상 고려사항",
+      "path": null,
+      "ko_txt": "또한, 최초로 인체를 대상으로 하는 임상연구들의 경우에는 임상시험용 의약품을 처음으로 사람에게 투여하는 임상시험에서 발생할 수 있는 위험성들 의 확인 및 경감 전략에 관한 원칙을 고려해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "5. 임상 고려사항",
+      "path": null,
+      "ko_txt": "이러한 의약품들에는 특이적 안전성과 장기 유효성이라는 두 가지의 특이적 임상 관련 문제들이 문제가 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "5.1. 약력학(Pharmacodynamics)",
+      "path": null,
+      "ko_txt": "임상시험은 임상연구가 진행되는 동안 확인된 작용기전을 입증할 수 있는 근 거를 제시할 수 있어야 함은 물론, 안전성과 유효성을 입증할 수 있도록 설계되 어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "5.1. 약력학(Pharmacodynamics)",
+      "path": null,
+      "ko_txt": "이러한 작용기전은 줄기세포군, 세포로 부터 분비되는 물질들, 숙주 조직에서의 생착과 같은 요인들에 따라 달라질 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "5.1. 약력학(Pharmacodynamics)",
+      "path": null,
+      "ko_txt": "줄기세포는 체내에 투여되는 시점에서 다양한 분화단계로 존재할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "5.1. 약력학(Pharmacodynamics)",
+      "path": null,
+      "ko_txt": "선 택된 생물학적 표지자들은 줄기세포치료제가 체내에 투여된 후 생체내 모니터 링을 용이하게 하는 것은 물론, 환자에게 투여하는 시점에서의 줄기세포 분화 상 태 확인을 가능케 하는 것이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "5.1. 약력학(Pharmacodynamics)",
+      "path": null,
+      "ko_txt": "유효성과 안전성을 추적 관찰하는 방법으로 세포치료제의 경우에는 약리학적, 면역학적, 그리고/또는 대사학적인 효과와 관련되어 있으며, 다른 한편으로는 조직공학제품의 경우 재생, 복구, 그리고/또는 대체 효과와 밀접하게 관련되어 있음을 유념해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "5.1. 약력학(Pharmacodynamics)",
+      "path": null,
+      "ko_txt": "적합하게 상응하는 동물모델이나 다른 적절한 전임상 모델이 없는 경우에는, 염증, 허혈처럼 변형된 미세환경이 줄기세포치료제에 미치는 영향을 평가하기 위한 추가적인 임상적 평가변수를 설정할 필요도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "알려져 있는 것처럼 인간을 대상으로 생체 분포 연구를 수행하는 것은 적절한 기 술의 부재로 어려운 실정이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "그러나 치료제가 가지고 있는 위험성 양상, 투여 방법과 투여 부위에 따라 생체분포 연구는 중요할 수 있으므로, 생체분포연구가 실시되지 못한 경우에는 정당한 이유가 제시되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "임상의뢰자는 임상연 구 중 투여된 세포를 추적할 수 있도록, 인간을 대상으로 생체내 분포 연구를 위 한 새로운 비침습적인 방법을 개발하고 검증할 것이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "가능성이 있는 표 지자와 추적자들은 평가를 거쳐 사용의 정당성이 확인되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "투여된 줄기세포가 의도한 부위 외의 다른 부위에 존재하는지 여부를 확인해 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "투여방법, 투여 용량/세포 수에 따른 영향은 비임상연구에서 다루어져 야 하고, 임상연구 기간 동안에 확실히 검증되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "줄기세포치료제는 생체 내 효과를 나타내기 위해 필요한 세포군을 정확히 규정하기 위해서, 임상적 결과 가 나타나기까지의 시간, 그리고 관련성이 있는 경우 생착되기까지의 시간 등을 평가하는 것이 중요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "줄기세포치료제의 특성 중 하나는 자가증식능을 가지고 있어 시간의 경과에 따라 세포 수가 증가할 수도 있다는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "5.2. 약동학(Pharmacokinetics)",
+      "path": null,
+      "ko_txt": "따라서, 유해성을 가진 증식가능한 세포가 극소수 포함되는 경우와 같은 매우 경미한 수준의 오염도 임상적으로는 중요성을 가질 수 있기 때문에, 면역 억제 동물모델이나 구조적으로 면역 결핍된 동물을 이용한 비임상 연구, 그리고/또는 적절한 임상적 추적관찰을 통해 다루 어질 필요가 있을 수도 있다는 이론적 우려가 제기되어오고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "5.3. 용량결정시험",
+      "path": null,
+      "ko_txt": "치료에 사용되는 줄기세포 또는 줄기세포 유래 세포들의 유효 투여 범위는 용 량 결정 연구를 통해 정하거나, 용량 결정근거에 대한 타당성이 입증되어야 한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "다. 안전하고 효과적인 치료 용량이 반드시 확인되어야하고, 가능한 경우에는 최",
+      "path": null,
+      "ko_txt": "소 유효성 용량도 결정되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "다. 안전하고 효과적인 치료 용량이 반드시 확인되어야하고, 가능한 경우에는 최",
+      "path": null,
+      "ko_txt": "중추신경계, 심근 등과 같은 취약한 부위에 투여되는 경우 통상적인 투여용량 결정시험을 실시하는 것은 실현 가능성이 낮으므로, 안전성에 관한 비임상 연구 결과들을 근거로 타당성이 입증된다면, 치료 효과를 나타낼 수 있는 용량으로 초 기 사람대상 임상시험을 진행하는 것이 적절할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "5.4. 임상적 유효성",
+      "path": null,
+      "ko_txt": "일반적으로, 유효성 연구를 위한 임상시험들은 목표로 하는 적응증과 관련하여 활용가능한 가이드라인을 따라야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "5.4. 임상적 유효성",
+      "path": null,
+      "ko_txt": "또한 제품의 약력학 효과와 관련하여 임 상적으로 의미있는 평가변수들이 사용되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "5.4. 임상적 유효성",
+      "path": null,
+      "ko_txt": "재생의학 분야에서는 조직의 재생, 복구, 대체와 관련된 연구를 위해서, 적절한 구조적, 형태학적 평가변수들이 추가적으로 필요할 수도 있는 것으로 받아들여 지고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "5.4. 임상적 유효성",
+      "path": null,
+      "ko_txt": "만약 핵심적인 임상 연구들이 동일한 적응증의 다른 의약품 임상 연구들과 확 연히 다르다면, 시판허가 신청의 관점에서 줄기세포치료제의 개발 계획을 최적 화하기 위해 임상신청자(applicant)는 식약처와 함께 임상연구 설계 및 평가변수 들에 대해 논의하는 것이 권장된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "5.4. 임상적 유효성",
+      "path": null,
+      "ko_txt": "시판 후 장기 안전성과 유효성의 추적관찰 평가의 필요성과 기간은 비임상 및 임 상평가 결과를 토대로 정해져야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "일반적으로 안전성 요건과 관련하여서는 다른 의약품들과 동일한 기준이 적용 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "줄기세포치료제의 경우에는, 다음과 같은 고유한 위험 인자들을 고려하여 야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "인간 배아줄기세포가 가진 기형종(teratoma)형성능은 중대한 안전성 문제이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "중추신경계, 관절, 또는 심근내 심장전도계통 등 해부학적으로 민감한 위치에 기 형종이 형성될 경우 특히 심각한 위험을 초래할 수 있기 때문이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "마찬가지로 목표했던 장소를 벗어나 다른 조직에서 생착될 수 있는 위험성에 대해서도 다루 어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "종양 형성이 관찰될 경우 이것이 투여된 세포치료제 때문인지 아니면 내인적 요인으로 인해 종양이 생긴 것인지 조사되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "(예, 유전학적 분석) 또 다른 안전성 문제는 원하는 특성을 지닌 세포군으로 분화를 유도하거나 최 종제품으로부터 원치않는 세포를 제거할 목적으로 아무리 효과적인 공정을 이 용한다 하더라도, 유도만능줄기세포/인간배아줄기세포 등이 가지고 있는 세포 들의 자가증식능으로 인하여 어떤 종류의 줄기세포치료제에도 충분한 분화유연 성을 가진 일부 세포가 잔존할 수 있다는 점이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "환자 체내에 순환하는 줄기 세포의 수는 생리학적인 수준보다 훨씬 더 많을 수 있으며, 이와 같은 세포들이 신체내 분포로 비정상적 상태가 초래되므로 과잉의 순환줄기세포는 안전성에 대한 우려를 내포하고 있을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "정맥내 주입하는 경우 투여시기는, 전임상 생체분포연구에서 얻어진 결과를 근거로 정해져야 하 고, 목표 조직/기관이 아닌 곳에서 세포치료제가 존재하는 것을 최소화할 수 있 도록 최적화되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "줄기세포치료제가 단일한 종류의 비임상 동물모델만을 이용하여 개발되고 균 일한 조건에서만 모든 세포, 분자간의 상호작용이 기능을 발휘하는 것으로 확인 된 경우에는 주의가 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "사람을 대상으로 한 연구가 처음으로 실시되는 단 계에서는, 이론적인 고려사항들을 근거로 하여 안전성을 확인하고, 최종 제품에 함유되어 있을 가능성이 있는 오염물질로 인해 발생할 수 있는 독성을 조기에 발 견하기 위해, 특정한 안전성 평가변수들이 요구될 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "안전성 추적조사는 유효성 추적조사와 함께 실시될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "5.5. 임상적 안전성",
+      "path": null,
+      "ko_txt": "임상적 안전성과 유효성은 몇 년이 경과한 후에나 명백하게 드러날 수 있기 때문에, 적절한 대리 평가변수들의 검증이 필요할 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "5.6. 약물감시(Pharmacovigilance)",
+      "path": null,
+      "ko_txt": "효능 부족을 포함하여 특이적인 안전성 문제들은 장기간의 추적 관찰조사를 통 해 평가해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "5.6. 약물감시(Pharmacovigilance)",
+      "path": null,
+      "ko_txt": "추적관찰기간은 의도된 치료효과에 따라 정해져야 하며, 장기 간 안전성과 줄기세포 투여 시 생길 수 있는 고유한 위험성들을 평가할 수 있는 위해성관리계획(Risk Management Plan) 등 특이적인 감시계획이 포함되어야 한.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "다. 장기간 효능이 요구되는 조직 공학 제품들은 연장된 기간 동안의 시판 후 추",
+      "path": null,
+      "ko_txt": "적관찰조사가 요구될 수도 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "6. 참고문헌",
+      "path": null,
+      "ko_txt": "1. 첨단바이오의약품 심사평가 기반 연구(식품의약품안전평가원, 2012∼2014 연구사업) 2. EMA, Guidance: Reflection paper on stem cell-based products (2011).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "6. 동종줄기세포치료제 면역독성 평가 가이드라인(식품의약품안전처, 2014)",
+      "path": null,
+      "ko_txt": "7. 차세대 줄기세포 기반제제 평가 연구(식품의약품안전평가원, 2014∼2017 연구사업) 줄기세포치료제 품질, 비임상 및 임상 평가 가이드라인.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "6. 동종줄기세포치료제 면역독성 평가 가이드라인(식품의약품안전처, 2014)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"raw_lines\": [\"(민원인 안내서)\", \"발 행 일 2018월 12월\", \"발 행 인\", \"최영주\", \"발행위원\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "6. 동종줄기세포치료제 면역독성 평가 가이드라인(식품의약품안전처, 2014)",
+      "path": null,
+      "ko_txt": "(제정) 신원 최미라 김지현 최경숙 김태균 김성민 한의리 진미령 최민정 박송희 이정은 김동윤 장미희 서수경 류승렬 이보연 (개정) 정호상 최경숙 이정은 안치영 박기대 김호 발 행 처 식품의약품안전처 식품의약품안전평가원 바이오생약심사부 세포유전자치료제과.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

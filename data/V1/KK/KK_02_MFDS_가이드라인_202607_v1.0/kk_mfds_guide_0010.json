@@ -1,0 +1,4564 @@
+{
+  "document_id": "kk_mfds_guide_0010",
+  "meta": {
+    "set": "KK",
+    "source_folder": "7",
+    "source_code": "mfds_guide",
+    "source_name": "식약처 지침",
+    "orig_doc_id": "(안내서-0292-02) 한약(생약)제제 제조방법 기재요령(민원인안내서) 최종.pdf",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "안내지침",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Ⅰ. 서론",
+      "path": null,
+      "ko_txt": "의약품의 제조방법은 의약품 제조판매품목허가증(신고증), 수입품목허가증 (신고증)에 기재하여 허가 또는 신고의 대상으로 검토 ․ 관리하는 항목 중 하나 입니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Ⅰ. 서론",
+      "path": null,
+      "ko_txt": "｢한약(생약)제제 품목허가․심사에 관한 규정(식품의약품안전처고시)｣ 제14조(제조방법)에 따르면 제조하는 의약품의 특성에 따라 현대과학기술 수준에서 물리화학적, 생물학적, 생명공학적, 약제학적으로 합리적이고 타당해야 하며, ｢의약품의 품목허가․신고․심사규정(식품의약품안전처고시)｣ [별표8의3] 에 따라 자세히 기재하도록 규정하고 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Ⅰ. 서론",
+      "path": null,
+      "ko_txt": "한약(생약)제제는 원생약을 추출하고, 그 추출물을 원료로 하여 완제의약품을 제조하고 있어 좀 더 구체적인 제조방법을 기재하여 제출하여야 하므로 ｢생약 (한약)제제 제조공정표준화 및 동시분석법 개발｣ 용역연구에서 제안된 한약재 제조공정(안)을 반영하여 “생약(한약)제제의 제조방법 상세기재 요령”을 2009년에 발간한 바 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Ⅰ. 서론",
+      "path": null,
+      "ko_txt": "이 후 ｢한약(생약)제제 품목허가․신고에 관한 규정(식품의약품안전처고시)｣ 및 ｢의약품의 품목허가․신고․심사 규정(식품의약품안전처고시)｣의 개정 사항을 반영하여 본 민원인안내서를 개정하고자 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Ⅰ. 서론",
+      "path": null,
+      "ko_txt": "한약(생약)제제 허가심사 서류 중 제조방법 작성 시 도움이 되기를 기대합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "1. 근거 규정에 기재된 “제조방법” 작성 원칙 및 요건",
+      "path": null,
+      "ko_txt": "제14조(제조방법) ① 제조방법은 그 품목의 특성에 따라 현대과학기술 수준에서 물리화학적, 생물학적, 생명공학적, 약제학적으로 합리적이고 타당하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "1. 근거 규정에 기재된 “제조방법” 작성 원칙 및 요건",
+      "path": null,
+      "ko_txt": "② 완제의약품의 경우에는 「의약품의 품목허가ㆍ신고ㆍ심사 규정」(식품의약품안전처 고시) 별표 8의3 의약품 제제의 제조방법 기재요령에 따라 자세히 기재하여야 하고 제1호부터 제4호까지 및 제6호의 규정에 적합하여야 하며, 제5호에 따라 근거자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "라. 사용목적과 용매의 명칭, 규격, 단위제형당 사용량 등을 기재하여야 한다.",
+      "path": null,
+      "ko_txt": "2. 생약을 추출·분획하여 천연물의약품 등을 제조하는 경우에는 다음 각 목에 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "가. 원생약을 사용하는 경우",
+      "path": null,
+      "ko_txt": "1) 제조공정 전과정 2) 공정단계별 공정검사 항목 및 방법 3) 규격(학명, 과명 및 약용부위), 전처리(수치법, 수득률 등), 분말도 또는 절도 4) 추출용매의 종류 및 그 분량(추출·분획시) 5) 추출조건(온도, 시간, 횟수 등)(추출·분획시) 6) 분획 또는 여과조건(추출·분획시) 7) 농축방법(동결건조·건조·연조등)(추출 ·분획시) 8) 각 공정단계별 및 최종 수득률(추출·분획시) 9) 지표성분 함량의 조절 또는 다른 목적으로 추출물을 조절하기 위하여 부형제 등을 사용할 경우에는 종류, 규격 및 분량.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "1) 가목 1)부터 9)까지의 사항 2) 추출·분획물의 제조원 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "<삭 제> 라. 포제한 경우 「대한민국약전외한약(생약)규격집」(식품의약품안전처 고시) 포제법에 따라 구체적인 제조 공정을 상세하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "3. 「의약품 등의 제조업 및 수입자의 시설기준령」(대통령령) 제4조에 따라 다른 의약품의 제조업자등의 시설 및 기구를 이용하여 전부 또는 일부공정을 위탁하여 제조 또는 시험하는 경우에는 단위공정별 수탁자명, 소재지 등을 명확하게 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "4. 최종제품이 동물유래성분을 함유하거나 제조과정중 동물유래성분을 사용하는 경우에는 기원동물 및 사용부위를 기재하여야 하며, 반추동물유래성분의 경우는 전염성해면상뇌증(TSE)감염을 방지하기 위한 원료선택(반추동물의 원산국, 반추동물의 연령등) 또는 처리방법 등을 다음 각 호의 어느 하나와 같이 추가로 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "가. [기원동물의 명칭]의 [사용부위]에서 유래된 [동물유래성분]을 함유 또는 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "나. 전염성해면상뇌증 감염을 방지하기 위하여 [반추동물의 원산국]산 [반추동물의 연령]의 건강한 [반추동물의 명칭]에서 [사용부위]를 채취하여 [처리공정] 처리한 [동물유래성분명]을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "5. 제제의 특성상 필요한 경우에는 제제설계 항을 설정하여 제형선택 이유, 원료약품 및 그 분량의 설정이유 등에 관한 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "가. 특수한 제제가공법을 설정한 경우에는 제형의 선택, 의약품 첨가제의 선택 및 혼합비의 결정 등 원료약품 및 그 분량 설정근거에 대한 자료를 제출하고, 필요에 따라 생물약제학적 평가결과자료 및 제제 설계의 타당성에 대한 자료도 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "나. 용출조절제제 등과 같이 특별한 제제기능을 갖는 경우에는 제제설계과정의 제제평가결과 등을 포함하여 서방성제제의 설계 및 평가에 관한 검토결과를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "6. 동물유래성분을 원료로 사용한 주성분이 완제품에 포함된 의약품(주사제)을 제조하는 경우 다음 각 목에 적합 하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "사. 각 공정단계별 수득률(추출·분획시)",
+      "path": null,
+      "ko_txt": "아. 최종 물질의 함량 조절 또는 다른 목적으로 추출물을 조절하기 위하여 부형제 등을 사용할 경우에는 그 종류, 규격 및 분량.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "③ 원료의약품의 경우에는 제조공정도와 제조방법을 제1호와 제2호 및 제2항제2호에 따라 작성하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "허가대상 품목의 경우 제2항제2호에 따른 근거자료를, 동물유래성분을 함유한 원료의약품의 경우에는 제조공정도 및 제조방법을 제1호부터 제2호까지에 따라 작성하여 기재하며, 제3호에서 정하는 바에 따라 근거자료를 첨부 하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "1. 제조공정도는 제조방법에 기재된 모든 물질과 반응조건이 포함되도록 흐름도를 작성하고 수득률을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "2. 제조방법은 각 공정단계별로 사용되는 모든 물질 및 사용량과 반응조건(시간, 온도, pH 등)을 순서대로 작성하고, 각 공정단계별 수득률과 총 수득률을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "3. 동물유래성분을 함유한 원료의약품인 경우에는 다음의 자료를 함께 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "가. 3로트 이상의 제조기록서 및 제조일지.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "④ 완제의약품을 소분하는 경우에는 제1항 및 제2항을 준용하며, 원료의약품을 소분하는 경우에는 제3항을 준용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "⑤ 제조공정에 따라 각 원료약품의 투입순서를 명시할 필요가 있는 경우에는 이를 명시하여야 하며, 최종제품의 규격이 동일한 범위내에서 2가지 이상의 방법으로 제조하고자 하는 경우에는 <제1법>, <제2법> 등으로 병기 할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "⑥ 수입품목의 경우에는 제1항부터 제5항까지를 준용하여 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "⑦ 필요에 따라 최종제품을 방사선조사하여 멸균하는 경우에는 그 조건(방사선량, 시간 등)을 명기하되, 방사선을 조사한 제품과 조사하지 아니한 제품에 대한 분해산물 생성유무비교 등 안정성시험자료(3개 로트)를 첨부 하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "⑧ 한약재의 경우에는 원료의약품의 경우를 따르되, 세척, 포제 등 가공, 건조 및 절단 공정을 별표 9의 한약재 제조방법 기재요령에 따라 자세히 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "위에서 보듯 이 ｢한약(생약)제제 등의 품목허가 ․ 신고에 관한 규정｣제14조 (제조방법)는 ①~⑧항에서 한약(생약)제제의 제조방법 전반적인 사항에 관하여 기술하고 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "특히 ②항2호에서는 한약(생약)제제의 제조방법의 기재원칙 및 요건에 대하여 규정하고 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "｢한약(생약)제제 등의 품목허가 ․ 신고에 관한 규정｣제14조(제조방법) ②항2호에 대하여 실례를 들어 자세히 알아보도록 하겠습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "2. 생약을 추출·분획하여 천연물의약품 등을 제조하는 경우에는 다음 각 목에",
+      "path": null,
+      "ko_txt": "적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "가. 원생약을 사용하는 경우",
+      "path": null,
+      "ko_txt": "1) 제조공정 전과정 2) 공정단계별 공정검사 항목 및 방법 3) 규격(학명, 과명 및 약용부위), 전처리(수치법, 수득률 등), 분말도 또는 절도 4) 추출용매의 종류 및 그 분량(추출·분획시) 5) 추출조건(온도, 시간, 횟수 등)(추출·분획시) 6) 분획 또는 여과조건(추출·분획시) 7) 농축방법(동결건조·건조·연조등)(추출 ·분획시) 8) 각 공정단계별 및 최종 수득률(추출·분획시) 9) 지표성분 함량의 조절 또는 다른 목적으로 추출물을 조절하기 위하여 부형제 등을 사용할 경우에는 종류, 규격 및 분량.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "1) 가목 1)부터 9)까지의 사항 2) 추출·분획물의 제조원 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "<삭 제>.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "라. 포제한 경우 ｢대한민국약전외한약(생약)규격집｣(식품의약품안전처 고시)",
+      "path": null,
+      "ko_txt": "포제법에 따라 구체적인 제조공정을 상세하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "2.1. 제조공정 전과정",
+      "path": null,
+      "ko_txt": "｢의약품의 품목허가․신고․심사규정｣(식품의약품안전처고시 제2017-77호, 2017.09.29.) 별표 8의3에는 기본적으로 아래 [표 1]과 같은 서식으로 작성하거나, 이들 항목을 포함한 제조공정도나 다른 기술방식도 사용할 수 있게 되어 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "2.1. 제조공정 전과정",
+      "path": null,
+      "ko_txt": "[표 1] 제조공정 전과정 (정제의 경우) 이 때 주성분이 추출․분획물인 경우는 완제의약품의 제조공정 전 과정 이외에도 [그림 1]과 같이 원료인 추출․분획물의 제법을 별도로 기재해야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "2.1. 제조공정 전과정",
+      "path": null,
+      "ko_txt": "또한 예시한 표준제조공정도 [그림 2]와 [그림 3]을 참조하여 상호 보완적으로 기재할 수 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "2.1. 제조공정 전과정",
+      "path": null,
+      "ko_txt": "[그림 1] 추출․분획물 제조공정 기술방법 예시 추출․분획물(건조/연조) 제조공정 기재항목.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "1. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "학명(과명은 한글과 라틴명을 병기), 약용부위, 전처리법(수치방법, 절도 또는 분말도), 사용량.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "2. 추출방법",
+      "path": null,
+      "ko_txt": "추출용매의 종류, 용매량, 온도, 시간, 추출장치(또는 방법), 회수율.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "3. 분획 또는 여과방법",
+      "path": null,
+      "ko_txt": "분획 시 용매종류, 용매량, 방법 여과 시 여과방식(여과포, 메시망, 필터, 원심분리 등).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "4. 멸균 등 제조공정",
+      "path": null,
+      "ko_txt": "멸균, 균질화, 일정 분자량을 가진 물질을 분리하기 위한 한외여과 등 제조공정이 필요할 경우 온도, 시간, 장치(또는 방법) 등을 자세히 기술.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "5. 농축 또는 건조방법",
+      "path": null,
+      "ko_txt": "농축 시 농축온도, 시간, 감압도 등과 연조엑스의 수분함량, 수득률 등을 자세히 기술 건조 시 분모건조, 동결건조, 기타 방식(또는 장치)과 수분함량, 수득률 등을 자세히 기술 [그림 2] 표준제조공정도 예시 [그림 3] 연 ․ 건조엑스 표준제조공정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "2.2. 공정단계별 공정검사 항목 및 방법",
+      "path": null,
+      "ko_txt": "위의 제조공정 전체 단계에서 완제의약품의 품질관리를 위하여 필요시 공정 검사 항목 및 방법을 설정하게 되는데, 이는 이전 공정이 충실하게 이루어 졌는지 확인하는 방법으로서 여러 가지 물리적, 이화학적 검사방법이 있을 수 있으며, 적절한 공정검사 항목 및 그 검사 방법을 기술합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "1) 원생약의 규격(학명, 과명 및 약용부위) 원생약의 규격은 아래 <예1>에서와 같이 기원 동 ․ 식물의 학명(속명_종명_ 명명자), 과명(Family name), 약용부위(잎, 뿌리, 뿌리줄기, 수피 등) 등을 빠짐 없이 정확히 기재합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "<예1> 이 약은 Hedera helix L. (오가과 Araliaceae)의 건조한 잎으로서. (속명) (종명) (과명) (약용부위) 2) 원생약의 전처리방법(수치법, 수득률 등) 원생약을 전처리(수치, 포제 또는 법제)한 경우 ｢대한민국약전외한약(생약)규격집｣ (식품의약품안전처고시 제2017-85호, 2017.11.03.) 포제법 또는 전처리 방법에 따라 제조공정을 상세히 기재하고 그 수득률을 기재합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "각 한약재의 안전성과 효능을 확보하기 위하여 포제하기 때문에 각 한약재의 성상, 조성, 작용 등에 대하여 충분히 이해하고 청결한 환경에서 조작해야 하며, 이물에 의한 오염을 피하는 등 면밀한 주의를 기울여야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "또한 포제 등에 사용하는 물은 ｢대한 민국약전｣에 수재된 ｢상수｣또는 ｢정제수｣의 기준규격에 적합한 것이어야 하며, 원생약의 특성을 고려하여 선택하여야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "또한 수득률(Yield)이란 원료 물질로부터 어떠한 물리․화학적 과정을 거쳐 목적물질을 얻는 경우에 실제로 얻은 양의 이론량에 대한 비율을 통칭하는 것으로 일반적으로 수율(收率)이라고 하기도 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "｢대한민국약전외한약(생약)규격집｣에 규정된 포제법은 아래 [표 2]와 같습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "｢대한민국약전외한약(생약)규격집｣에 기술되어 있지 않은 포제방법은 기존 한약서에 따르되 기존 한약서에도 별도로 기술되어 있지 아니한 경우에는 학계에서 널리 인정한 ｢포제학｣참고문헌을 기초로 작성합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "[표 2] ｢대한민국약전외한약(생약)규격집｣에 규정된 포제법 1. 정선(淨選) : 한약재를 절제(切制), 포자(炮炙) 또는 조제(調劑), 제제(製劑)하기 전에 규정된 약용부위 이외의 이물 등을 제거하는 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "2. 절제(切制) : 한약재를 썰 때 부드럽게 하기 위하여 침포(浸泡)하여야 하는 것을 제외하고는 물에 잠 깐 담그어 눅눅하게 하여 썰어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "규정된 침포의 약재는 크기, 조세(粗細), 연경(軟硬) 등으로 나누어 응용하며, 곰팡이가 생기지 않도록 건조하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "크기에 따라 편(片), 단(段), 괴(塊), 사 (絲) 등으로 나누며 이들의 크기와 두께는 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "절편(切片) : 박편(薄片)은 1 ∼ 2 mm, 후편(厚片)은 2 ∼ 4 mm 절단(切段) : 길이 10 ∼ 15 mm 길이의 소단(小段) 절괴(切塊) : 약 1 cm 의 방괴(方塊) 절사(切絲) : 껍질류는 너비 2 ∼ 3 mm, 잎류는 너비 5 ∼ 10 mm 3. 포자(炮炙) : 따로 규정이 있는 것을 제외하고는 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "1) 초(炒) : 한약재를 볶는 것으로 온도와 시간 및 볶는 정도에 주의하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "볶을 때는 화력을 고르게 하고 쉴새없이 저어 열을 고르게 받게 하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "(1) 청초(淸炒) : 문화(文火 : 불꽃이 약한 불) 또는 무화(武火: 불꽃이 강한 불)로 규정된 정도가 될 때까지 한약재를 볶는 방법이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "초황(炒黃) : 한약재를 용기에 넣고 문화로 규정된 정도가 될 때까지 볶는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "초초(炒焦) : 한약재를 용기에 넣고 무화로 바깥면이 갈색이 되도록 볶고, 절단면의 색이 짙게 변하 게 하거나 규정된 정도까지 볶는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "볶을 때 쉽게 타는 한약재는 맑은 물을 약간 품어서 다시 볶으 면서 말리거나 햇볕에 건조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "초탄(炒炭) : 한약재를 용기에 넣고 무화로서 겉면이 검게 탄 색 또는 속이 탄 황색이 될 때까지 규 정된 정도까지 볶아서 맑은 물을 품어 적시어낸 다음 말린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "(2) 보료초(輔料炒) : 고체 보조재료를 용기에 넣고 가열하여 일정한 정도로 되면 한약재를 넣고 함 께 볶은 다음 보조재료를 걸러 버리는 방법이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "부초(麩炒) : 밀기울 껍질을 가지고 미리 뜨겁게 데운 용기에 넣고 연기가 날 때까지 가열하여 한약 재를 넣고 빠르게 저어 바깥면이 황색이 되거나 또는 짙은 색으로 변할 때까지 볶아서 꺼내어 밀 기울을 버리고 식힌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "다른 규정이 있는 이외에는 100 kg의 약재에 밀기울 5 ∼ 10 kg을 쓴다 2) 자(炙) : 한약재를 일정량의 액체 보조재료와 함께 볶아 보조재료가 약물조직 내에 스며들게 하는 방법이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "주자(酒炙) : 따로 규정이 없는 한 일반적으로 발효주의 위의 맑은 액(이하 ‘술’이라고 한다)을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "한약재에 술을 넣어 섞어 용기속에서 문화로 규정된 정도로 볶아서 식힌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "따로 규정이 없는 한 한약재 100 kg에 대하여 술 10 ∼ 15 kg을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "초자(醋炙) : 따로 규정이 없는 한 일반적으로 양조식초를 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "한약재에 식초를 넣고 고르게 섞어 규정된 정도까지 볶아서 식힌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "따로 규정이 없는 한 100 kg의 한약재에 10 ∼ 15 kg의 식 초를 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "염자(鹽炙) : 먼저 식염을 적당한 양의 물에 용해한 다음 여과하여 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "약재에 소금물을 고르 게 섞거나 또는 고르게 품어 용기에 넣고 문화로 규정된 정도가 될 때까지 볶아서 식힌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "따로 규정이 없는 한 100 kg의 한약재에 소금 2 kg을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "강자(薑炙) ; 먼저 생강을 찧어서 적당량의 물을 넣고 눌러 짜서 즙액을 취하여 강즙(薑汁)을 만든 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "또는 생강을 절구에 찧어서 2 번에 걸쳐 끓여 즙액을 만든다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "한약재에 생강즙을 섞어 용기에 담아 문화로 생강즙이 다 흡수되거나 규정된 정도에 이를 때까지 볶아서 실온에서 말린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "따로 규정이 없는 한 100 kg의 한약재에 생강 10 kg을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "밀자(蜜炙) : 먼저 꿀을 적당량의 더운물에 희석한 다음 여기에 한약재를 담갔다가, 문화로 규정된 정도가 될 때까지 볶아서 건조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "따로 규정이 없는 한 100 kg의 한약재에 꿀 25 ∼ 30 kg을 사 용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "3) 자(煮) : 한약재 각 품목의 포제규정에 따라 액체보조재료를 첨가하여 보조재료가 완전히 흡수되거 나 한약재를 절단하였을 때 속에 흰색이 없을 때까지 삶아서 건조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "독성이 있는 한약재는 삶 은 다음 따로 규정이 없는 한 일반적으로 남은 즙액은 버려야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "4) 돈(炖) : 한약재 각 품목의 포제규정에 따라 액체 보조재료를 적당한 용기안에 밀폐하고 수욕에서 가열하든가 수증기로 쪄서 보조재료가 완전히 흡수될 때까지 가열하여 말린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "5) 증(蒸) : 한약재 각 품목의 포제 규정에 따라 보조재료를 넣고 섞어서 (또는 보조재료를 넣지 않음) 적당한 용기에 담아 가열하여 찌거나, 규정된 정도가 될 때까지 쪄서 말린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "주증(酒蒸) 한약재에 술을 넣어 고르게 섞고 상술한 증법(蒸法)에 따라 포제한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "따로 규정이 없는 한 한약재 100 kg에 술 20 ∼ 30 kg을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "6) 탕(燙) : 깨끗한 모래, 합분(蛤粉), 활석(滑石) 등의 보조재료를 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "모래(합분, 활석)를 용기에 담아 가열하여 뜨겁게 하고 한약재를 넣고 계속하여 저어가면서 규정된 정도까지 되었을 때 꺼내 어 체로 모래(합분, 활석)를 쳐내어 식힌다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "7) 단(煅) : 불에 붉게 달구는 정도를 주의하여야 하고 부드럽고 쉽게 부서지게 하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "한약재를 먼저 작은 덩어리로 만들고 연기가 나지 않는 화로(火爐) 또는 적당한 용기속에서 붉게 되고자 할 때 꺼내어 식히거나 붉게 달군 즉시 규정된 액체 보조재료에 담그고 꺼내어 건조시킨 다음 부수거 나 약연으로 가루로 한다(煅淬). 8) 수비(水飛) : 광물류의 한약재를 적당량의 물과 같이 갈고 여기에 물을 넣고 교반하여, 혼탁액을 기울여 따라내고 가라앉는 부분을 다시 위의 방법으로 여러 번 반복하여 현탁액을 모아서 밑에 가 라앉은 것을 취하여 건조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "9) 천(燀) : 한약재를 끓는 물속에 넣어 잠깐 저은 다음 꺼낸다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "일부 종자류 한약재는 종피가 벌어져 벗길 수 있을 정도가 되면 꺼내어 찬물에 담근 다음 종피를 제거하고 말린다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "10) 외(煨) : 한약재를 물에 적신 면이나 종이로 싸서, 또는 기름종이로 균일하게 층층이 나누어놓고 가열처리하거나 약재를 밀기울껍질(麩皮) 속에 묻고 문화로 규정된 정도가 될 때까지 볶는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "2.3. 원생약의 규격 및 전처리방법",
+      "path": null,
+      "ko_txt": "따로 규정이 없는 한 한약재 100 kg에 밀기울껍질 50 kg을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "한약(생약)제제는 제조업체마다 추출, 여과, 농축 및 건조 등의 조건이 제조 설비 등에 따라 상당한 차이가 있기 때문에 동일한 처방과 원생약을 가지고 제조하더라도 제조업체별로 품질이 상이할 수 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "한약(생약)제제의 일정한 품질 및 약효를 갖는 제품을 공급하기 위해서는 제조공정에서 생약의 절도, 추출방식(압력, 비압력) 추출용매의 양, 추출온도, 추출시간, 여과방법, 농축조건, 건조조건, 수득률 및 부형제 등에 대하여 보다 구체적이고 명확하게 기술하여 제조공정관리가 되어야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "1) 분말도 또는 절도 ｢대한민국약전｣ 통칙 21조에 규정된 의약품의 “절도”및“분말도”는 아래 [표 3]과 같습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "[표 3] 의약품의 절도 및 분말도.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"체의 번호\", \"체를 통과한 것의 명칭\"], \"행\": [[\"4 호(4750 μm)\", \"조절 (粗切)\"], [\"6.5 호(2800 μm)\", \"중절 (中切)\"], [\"8.6 호(2000 μm)\", \"세절 (細切)\"], [\"18 호(850 μm)\", \"조말 (粗末)\"], [\"50 호(300 μm)\", \"중말 (中末)\"], [\"100 호(150 μm)\", \"세말 (細末)\"], [\"200 호(75 μm)\", \"미세말 (微細末)\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "한약(생약)제제의 제조에 사용되는 원생약의 절도는 ｢대한민국약전외한약(생약) 규격집｣ 및 ｢의약품의 품목허가․신고․심사규정｣에는 조절로 되어 있는데 이는 제조업체에서는 적용하기가 어려울 수도 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "몇몇 제조업소에서는 절단된 생약을 그대로 사용하여 추출하고 있으므로 공정 밸리데이션 자료에 의거하여 각 제조업체의 품목에 적합하게 조절(혹은 절단) 또는 조말 등으로 절도를 기재 하는 것이 좋습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "예를 들면 금은화, 박하 등 엽류 생약이나 얇게 절편으로 가공된 복령 등 생약은 조절로 할 필요가 없고 추출효율이 떨어지는 인삼 등은 조말로 하는 것이 더 좋을 수 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "2) 추출용매의 종류 및 그 분량(추출 ․ 분획시) 원생약은 추출방법, 추출용매, 추출시간 등에 따라 유효성분의 이행률이 서로 다르기 때문에 최적의 추출조건을 확립하기 위해 추출방법, 추출용매 및 추출 시간을 연구하여 설정합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "일반적으로 사용하는 추출용매의 특성은 아래 [표 4]와 같고, 그 분량은 [그림 3] 연․건조엑스 표준제조공정도를 참조할 때 원료량의 8~12배량을 사용하며 필요시 미리 용매에 적신 다음 추출합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "일반적으로 배당체, 사포닌, 당, 무기염, 산류, 탄닌, 점액질, 전분 등을 침출할 때에는 물 또는 수분 함량이 많은 수성 에탄올을 사용하게 되는데 물이 다른 유기 용매에 비해 수득률이 높은 반면, 탄닌, 고무질 같은 고분자 화합물을 추출할 때 침출액이 착색되기 쉽고 부패하기 쉬운 단점도 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "수지, 정유, 유지, 알칼로이드 등을 침출할 때에는 에탄올이나 고농도의 수성 에탄올을 사용하게 되는데 에탄올은 생약 중의 효소를 불활성시킴과 동시에 미생물의 발육을 저지 시키는 효과도 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "참고로 ｢한약(생약)제제 등의 품목허가 ․ 신고에 관한 규정｣ 제8조제2호가목 7)나)에는 ‘용매는 정제수(｢대한민국약전｣또는 공정서), 에탄올(｢대한민국약전｣ 또는 공정서), 주정의 사용을 원칙으로 하며, 그 이외의 용매를 사용하는 경우에는 안전성․유효성에 관한 자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "다만, 최종제품에 유기용매가 잔류하지 않는 경우에는 안전성․유효성에 관한 자료 대신 용매 잔류에 대한 자가 시험성적서 및 3회 시험을 실시할 수 있는 양의 검체를 제출하여야 한다.’ 라고 규정되어 있는데 최종제품에 유기용매가 거의 잔류하지 않는 경우 자가 시험 결과를 근거로 하여 ｢대한민국약전｣ 일반정보 ‘의약품 잔류용매 기준 가이드라인’에 적합함을 증명하면 됩니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "[표 4] 추출용매 비교 1) 물(H2O) 흔히 사용되는 용매 중의 하나이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "물은 용매로서 경제적이고 쉽게 얻을 수 있으며, 극성이 커서 용해범위가 넓다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "생약에서 알칼로이드 염류(鹽類), 배당체, 고미질, 유기산염, 탄닌, 단백질, 당, 수지, 색소, 다당류(과당, 점액질, 전분 등) 및 효소와 소량의 정유성분 등을 모두 물로 침출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "단점이라면 침출 범위가 넓어 유효성분의 선택성이 저하되고 다량의 무효성분을 침출하게 되어 여과가 곤란한 경우가 많으며, 쉽게 변질이 일어난다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "또 일부 유효성분은 가수분해를 일으키거나 일부 화학변화를 촉진한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "2) 에탄올(EtOH) 중간 정도의 극성용매로서 용해능력이 극성과 비극성 사이에 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "수용성의 일부성분, 즉 알칼로이드 및 염류, 배당체 등을 용해하며, 또 비극성용매가 용해하는 일부성분(수지, 정유, 락톤, 방향성화합물, 탄화수소화합물)과 소량의 지방 등도 용해할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "에탄올은 물과 임의 비율로 혼합할 수 있으며, 각종 원생약의 화학성분은 에탄올의 농도변화에 따라 용해도가 변화되므로 서로 다른 농도로 유효성분을 선택적으로 침출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "에탄올의 농도가 높을수록 정유성분, 유리 알칼로이드, 수지 등의 용해도가 더욱 크다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "3) 70%에탄올(70%EtOH) 일반적으로 정유성분을 추출 시 80% 이상의 에탄올을 사용하고, 알칼로이드 및 배당체는 50~70%의 에탄올을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "4) 디에틸에테르(Et2O) 석유 에테르에 난용성인 알칼로이드, 배당체, 수지, 식물색소, 탄닌 등이 추출된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "3) 추출조건(온도, 시간, 횟수 등)(추출 ․ 분획시) 원생약은 추출시간에 따라 추출되는 양이 증가하지만 어느 정도의 평형이 이루어진 이후에는 추출시간을 늘리는 것이 의미가 없어지게 됩니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "오히려 장시간의 추출은 약효성분 이외의 불순물이 용해되고, 유효성분이 가수분해 되는 등 예상치 못한 결과가 발생하므로 처방별로 적절한 시간을 선택해야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "[그림 3] 연․건조엑스 표준제조공정도를 참조할 때 물을 이용하여 추출 시 일반적으로 온도 95~100℃에서 2~4시간 동안 1~2회 추출하게 됩니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "추출 조건을 결정하는 최종지표는 정량 가능한 원생약의 지표성분을 이용합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "최근에는 공정서의 기준규격이 지속적으로 개정되고, 각종 연구정보가 쌓여 가고 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "이러한 정보를 참고로 한약(생약)제제의 함량시험은 ｢대한민국 약전｣ 및 ｢대한민국약전외한약(생약)규격집｣에 설정되어 있는 지표물질 외에도 문헌자료 및 분리한 물질에 대한 동정 등을 통하여 지표물질을 자사기준으로 설정할 수 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "- 감초 : 글리시리진산 2.5% 이상 및 리퀴리티게닌 0.7% 이상 - 당귀 : 노다케닌 및 총데쿠르신[데쿠르신 및 데쿠르시놀안겔레이트]의 합 6.0% 이상 - 작약 : 알비플로린 및 패오니플로린의 합 2.3% 이상 - 인삼 : 진세노시드 Rg1 0.10% 이상 및 진세노시드 Rb1 0.20% 이상 - 황금 : 바이칼린, 바이칼레인 및 우고닌의 합 10.0% 이상 4) 분획 또는 여과조건(추출 ․ 분획시) [그림 3] 연․건조엑스 표준제조공정도를 참조할 때 정제수를 이용하여 추출 시 일반적으로 여과망(100-200 mesh), 필터(10-100 ㎛), 원심분리(6,000-12,000 rpm)의 방법 중 2종 이상을 혼합하는 방법을 채택하면 됩니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "분획의 경우 용매종류, 용매량, 분획방법 등을 자세히 기술하고, 일정 분자량을 가진 물질을 분리하기 위한 한외여과 등 방식을 사용할 경우 그 공정과 사용 방법 등도 자세히 기술하여야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "5) 농축방법(건조 ․ 연조 등)(추출 ․ 분획시) 일반적으로 농축은 85℃이하에서 가능하면 감압으로 행하지만, 추출용매에 함유된 성분의 안정성을 고려하여 될 수 있는 대로 저온에서 하는 것이 바람직 하며, 농축 효율을 생각할 때 50~60℃가 적합하다고 할 수 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "또한 농축 시 거품이 생기기 쉬울 때에는 실리콘 소포제의 첨가가 유효합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "보통 연조엑스의 농축은 물엿과 비슷한 조도로 농축하며 건조엑스는 농축물의 따뜻할 때에 적당한 평판위에 늘려 펴서 진공 건조기를 이용하거나 또는 50℃ 이하의 저온에서 건조하여 분말로 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "이 때 분무건조기나 동결건조장치를 사용하여 건조하면 효율이 좋습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "연조엑스나 건조엑스 모두 수분함량과 수득률을 정확하게 측정하여 기재하여야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "특히 연조엑스의 경우 물엿과 같은 조도를 맞추기 위해서는 일정 조건에서 점도계 등을 사용하여 객관적으로 측정해야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "6) 각 공정단계별 및 최종 수득률(추출․분획시) 수득률(Yield)이란 원료물질로부터 어떠한 물리․화학적 과정을 거쳐 목적물질을 얻는 경우에 실제로 얻은 양의 이론량에 대한 비율을 통칭하는 것으로 일반 적으로 수율(收率)이라고 하기도 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "이를 각 공정단계별 및 최종 수득률을 계산하여 기재합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "7) 부형제 등을 사용할 경우(종류, 규격 및 분량) 추출․분획물은 일반적으로 부형제등의 첨가제를 가하여 제제의 안정성, 균질성을 유지하여 품질과 경제성을 높이고자 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "｢대한민국약전｣ 통칙에 따르면 “제제를 만들 경우에는 따로 규정이 없는 한 그 보존 중 성상 및 품질의 기준을 확보하고 그 유용성을 높이기 위하여 부형제, 안정제, 보존제, 완충제 등 적당한 첨가제를 넣을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "다만 그 물질은 제제의 투여량에 무해하며, 그 제제의 치료효과를 변하게 하거나 시험에 지장을 주지 않는다.”라고 정의하고 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "일반적으로 1) 안정성, 생체이용률 등 향상, 2) 보존 또는 사용 중 제제의 품질 유지, 3) 의약품의 물리적인 성상을 조절하여 약물경제성 증진을 그 목적으로 하는데 이러한 첨가제를 사용할 경우에는 그 선택사유 및 분량, 완제의약품의 성능(performance)에 영향을 미칠 수 있는 특성 등을 각각의 기능 (배합목적)에 연관하여 기재합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "의약품의 제형별로 사용할 수 있는 첨가제의 종류는 ｢의약품의 품목허가․ 신고․심사 규정｣ [별표 7]에 정의되어 있습니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "Hedera helix L.(오가과 Araliaceae)의 건조한 잎(Ivy leaf, EP) 590 kg을 절단하여 조절 2) 추출용매의 종류 및 온도, 시간, 추출조건, 수득률 등 ① 분량(소요량), 추출용매의 종류, 온도, 시간, 추출조건, 여과방법 및 농축방법 “아이비엽(EP)”기원식물 중 Hedera helix L.(오가과 Araliaceae)의 건조한 잎 (Ivy leaf, EP) 590 kg을 절단하여 조절로 한 다음 30% 에탄올 약 7,100 L를 사용하여 20~30℃에서 4~6시간 퍼콜레이션법에 의해 추출한 후 55℃, 150 mbar 조건에서 진공박판감압을 통하여 141℃에서 3초간 열을 이용한 오염제거공정 및 30~50℃조건에서 균질화 작업을 거친 추출물을 45~60℃조건에서 분무건조기를 사용하여 건조시켜 얻는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "② 수득률 이 약 1 g은 생약 5~7.5 g에 해당한다.(수득률 : 13.3~20.0%) ③ 제조소 : ㉠ ○○제약(주) / 충청북도 청주시 흥덕구 오송생명 2로 187 ㉡ ㈜△△ / 충청북도 청주시 흥덕구 오송생명 1로 15.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"제조공정도\", \"열\": [\"공정 번호\", \"공정 명칭\", \"원료․시약․용매 등\", \"비고\"], \"행\": [[\"④\", \"주성분 아이비엽(EP)\", \"원료칭량\", \"\"], [\"\", \"추출용매 에탄올(KP)\", \"\", \"\"], [\"\", \"주성분 아이비엽(EP)\", \"약 6시간 퍼콜레이션법\", \"\"], [\"\", \"추출\", \"온도 : 20~30℃\", \"추출용매 : 30%에탄올\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "55℃, 150 mbar 조건에서.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "분획․여과 공정 3의 추출액 진공박판감압 오염제거 공정 4의 여과액 141℃, 3초 균질화 공정 5의 여과액 온도 : 30~50℃ 건조 공정 6의 추출액 온도 : 45~60℃.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "수득률 : 13.3~20.0% 포장 공정 7의 연조엑스 직접용기․포장의 재질 : 병포장(HDPE, LDPE) 상기 원료약품 및 분량으로 ｢대한민국약전｣ 제제총칙 중 정제항의 제법에 준하여 제조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "1정 제조 시 에탄올(KP) 약 500 밀리그램을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"공정\", \"열\": [\"공정 명칭\", \"원료․시약․용매 등\", \"비고\", \"번호\", \"주성분 제조원\"], \"행\": [[\"OO제약(주)\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "주성분 아이비엽30%에탄올건조엑스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "제조소 : 충청북도 청 (5~7.5→1)(별규) 주시 흥덕구 오송읍 오 부형제 옥수수전분 송생명 2로 187 부형제 메틸셀룰로오스 [DMF 등록번호: ××× 부형제 경질무수규산 원료칭량 ××-××-××].",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "붕해제 히드록시프로필메틸셀룰로오스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "(주)△△ 활택제 스테아린산칼슘 제조소: 충청북도 청주 활택제 산화마그네슘 시 흥덕구 오송읍 오송 코팅제 폴리비닐알코올 생명 1로 15.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "에탄올(KP), 정제수(KP) [DMF 등록번호: ××× ××-××-××] 주성분 아이비엽30%에탄올건조엑스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "(5~7.5→1)(별규) 혼합 부형제 옥수수전분 에탄올(KP) 부형제 메틸셀룰로오스 혼합 부형제 경질무수규산.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "붕해제 히드록시프로필메틸셀룰로오스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "공정 2의 혼합물 연합 공정 3의 혼합물 건조 공정 4의 반제품 정립 공정 5의 반제품 공정 6의 과립 활택 활택제 스테아린산칼슘 활택제 산화마그네슘 타정 공정 7의 혼합물 코팅제 폴리비닐알코올 코팅액의 조제 에탄올, 정제수 공정 8의 나정 코팅 공정 9의 코팅액 직접용기․포장의 재질 - 병포장(병: 유리, 포장 공정10의 반제품 캡: 금속(주석판)) - PTP(알루미늄호일, 경질폴리염화비닐).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "3) 완제의약품의 제조방법 작성 시 참고사항 <참고사항> 1. 한약(생약)제제 원료의약품 등록대상 성분 확대에 따라 주성분으로 등록 대상 원료의약품을 사용할 경우 비고란에 주성분 제조원으로서 제조업자 명칭 및 소재지(DMF 공고번호 포함)를 기재하여야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "2. 최종제품에 동물유래성분 함유하거나 제조 과정 중 동물유래성분 사용 시 ｢한약(생약) 제제 등의 품목허가․신고에 관한 규정｣ 제14조제2항제4호에 따라 제조방법 작성 시 기원 동물 및 사용부위 등이 기재해야 하며, 반추동물유래 성분의 경우는 전염성해면상뇌증 (TSE) 감염을 방지하기 위한 원료선택 또는 처리방법 등을 기재해야 합니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "1) 유당수화물 : 건강한 소의 우유에서 유래한 유당수화물을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "2) 스테아르산마그네슘(동물유래성분일 경우) : 전염성해면상뇌증 감염을 방지하기 위하여 [반추동물의 원산국]산 [반추동물의 연령]의 건강한 [반추동물의 명칭]에서 [사용부위]를 채취하여 [처리공정] 처리한 [동물유래성분명]을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "3) 젤라틴 : 스테아르산마그네슘에 준하여 기재하되 처리공정에 알칼리처리가 되어 있는지를 확인한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "예) 전염성해면상뇌증 감염을 방지하기 위하여 미국산 3년 이하의 건강한 소에서 가죽의 안쪽부위를 채취하여 “원료-알칼리처리-세척-추출-여과-정제-농축-살균-건조-분쇄- 혼합”의 공정을 통해 제조된 젤라틴을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "※ 동물유래성분을 원료로 사용한 주성분이 완제품에 포함된 의약품을 제조하는 경우는 ｢한약(생약)제제 등의 품목허가․신고에 관한 규정｣ 제14조제2항제6호에 대한 내용 및 ｢동물유래 의약품 바이러스 안전성 가이드라인｣을 참고하여 작성한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "2.4. 추출, 여과, 농축, 건조 등 제조공정 및 수득률 등 관리",
+      "path": null,
+      "ko_txt": "3. 한약(생약)추출물을 사용하는 경우 원생약의 규격 및 완제의약품 제조방법 하단에 추출물의 제조방법이 포함되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "1) “아이비엽30%에탄올건조엑스(5~7.5→1)” 제조방법 이 약은 아이비엽(EP) 기원식물 중 Hedera helix L.(오가과 Araliaceae)의 건조한 잎 (Ivy leaf, EP) 590 kg을 절단하여 조절로 한 다음 30% 에탄올 약 7,100 L를 사용하여 20~30℃에서 4~6시간 퍼콜레이션법에 의해 추출한 후 55℃, 150 mbar 조건에서 진공 박판감압을 통하여 141℃에서 3초간 열을 이용한 오염제거공정 및 30~50℃ 조건에서 균질화 작업을 거친 추출물을 45~60℃ 조건에서 분무건조기를 사용하여 건조시켜 얻는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "이 약 1 g은 원생약 5~7.5 g에 해당한다.(수득률 : 13.3~20.0%).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"제조공정도\", \"열\": [\"공정 번호\", \"공정 명칭\", \"원료․시약․용매 등\", \"비고\"], \"행\": [[\"주성분 아이비엽(EP)\", \"원료칭량\", \"추출용매 에탄올(KP)\", \"조말\"], [\"공정 1의 주성분\", \"\", \"\", \"공정 1의 원료\"], [\"약 6시간\", \"퍼콜레이션법\", \"추출\", \"추출용매 : 30%에탄올\"], [\"온도 : 20~30℃\", \"\", \"\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "55℃, 150 mbar 조건에서.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "분획․여과 공정 3의 추출액 진공박판감압 오염제거 공정 4의 여과액 141℃, 3초 균질화 공정 5의 여과액 온도 : 30~50℃ 건조 공정 6의 추출액 온도 : 45~60℃.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "수득률 : 13.3~20.0% 포장 공정 7의 건조엑스 직접용기․포장의 재질 : 병포장(HDPE, LDPE) 2) “황련33.3%에탄올건조엑스(2.8~3.3→1)” 제조방법 이 약은 황련 Coptis japonica Makino(미나리아재비과 Ranunculaceae)(KP) 300 kg을 절단하여 희석시킨 에탄올(1→3)(에탄올: KP, 정제수: KP) 약 3000 L를 사용하여 잘 섞어 적시고 용기를 밀폐하여 25℃에서 약 4∼6 시간 방치한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "이것을 추출기에 넣고 희석시킨 에탄올(1→3)을 넣고 밀폐하여 1차 추출하고 15℃에서 약 3∼5 시간 방치한 다음 추출액을 유출시켜 1차 추출액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "다시 추출기에 희석시킨 에탄올(1→3)을 넣고 밀폐하여 2차 추출하고 15℃에서 약 3∼5 시간 방치한 다음 추출액을 유출시켜 2차 추출액으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "1차와 2차 추출액을 혼합하여 50℃ 이하에서 여과 후 감압농축하여 연조엑스를 얻고, 이를 분무 건조한 건조엑스 약 100 kg을 얻는다.(수득률: 약 33%) [제조공정도] 공정 공정 명칭 원료․시약․용매 등 비고 번호 주성분 황련(KP) 1 원료칭량 추출용매 에탄올(KP) 추출용매 정제수(KP) 2 분쇄 주성분 황련 절단 1∼2 ㎝ 공정2의 황련 온도 50∼60℃이하 3 팽윤 추출용매 희석된 에탄올(1→3) 시간 4∼6 시간 (에탄올: KP, 정제수: KP) 공정3의 황련 온도 90℃이하 4 1차추출 추출용매 희석된 에탄올(1→3) 스팀압 0∼0.1kg/㎠ 이하 (에탄올: KP, 정제수: KP) 시간 2∼3 시간 온도 15℃이하 5 방치 공정4의 추출액 시간 3∼5 시간 공정3의 황련 온도 90℃이하 6 2차추출 추출용매 희석된 에탄올(1→3) 스팀압 0∼0.1kg/㎠ 이하 (에탄올: KP, 정제수: KP) 시간 2∼3 시간.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "온도 15℃이하 방치 공정6의 추출액 시간 3∼5 시간 혼합 공정5의 추출액 공정7의 추출액 시간 1.5 시간 재질 카트리지필터 여과 공정8의 농축액 규격 φ1 ㎛ 온도 50℃이하 감압농축 공정9의 혼합액 감압 500±30 mmHg 분무건조 공정10의 농축액 수득률 : 약 33% 직접용기․포장의 재질 포장 공정11의 반제품 1차포장 : 비닐(PE재질) 2차포장 : 지통(종이압착 재질, 두께 6 mm).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "3) “감초50%에탄올건조엑스(7~8→1)·덱스트린혼합물” 제조방법 이 약은 감초 Glycyrrhiza glabra Linné(콩과 Leguminosae)의 뿌리(KP) 1,000 kg을 달아 50%에탄올(KP) 3,000 L를 넣어 밀폐하여 90 ℃에서 2∼3 시간 동안 추출하고 여과한 후, 여과한 액을 50∼60 ℃에서 약 170∼200 L까지 감압농축하고 덱스트린 (KP) 약 75 kg을 넣어 잘 혼합한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "이를 동결건조 한 다음 10호 체를 이용하여 입자를 고르게 하여 약 200∼218 kg을 얻는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "(감초 50%에탄올 건조엑스로서 수득률 : 12.1∼14.7 %).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"제조공정도\", \"열\": [\"공정\", \"공정명칭\", \"원료․시약․용매 등\", \"비고\"], \"행\": [[\"번호\", \"주성분 감초(별규)\", \"원료칭량\", \"추출용매 50%에탄올(KP)\"], [\"온도\", \"90 ℃\", \"\", \"\"], [\"공정 1의 원료\", \"추출\", \"\", \"\"], [\"시간\", \"2∼3시간\", \"\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "추출용매 3배량(w/w) 50%에탄올 스팀압 0∼0.1kg/㎠ 이하.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "공정2의 추출액 재질 카트리지필터 여과 활택제 탤크(KP) 규격 φ1 ㎛ 활택제 경질무수규산(KP) 온도 50∼60℃이하 감압농축 공정3의 여과액 감압 500±30 mmHg 공정4의 농축액 혼합 부형제 덱스트린(KP) 동결 건조 공정5의 혼합액 체과 공정6의 건조물 10 호 체.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "3.1. 추출물의 작성사례",
+      "path": null,
+      "ko_txt": "수득률 : 12.1∼14.7 % 포장 공정7의 반제품 직접용기․포장의 재질 알루미늄봉투(Al-Foil/PE).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "1) 정제의 경우 “감초50%에탄올건조엑스 정” 제조방법 이 약은 ｢대한민국약전｣ 제제총칙 중 정제항의 제법에 준하여 제조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "코팅액 제조 시 1정 당 정제수(KP) 100밀리그램을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"제조공정도\", \"열\": [\"공정\", \"공정 명칭\", \"원료․시약․용매 등\", \"비고\", \"번호\", \"주성분 제조원\"], \"행\": [], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "주성분 감초50%에탄올건조엑스 상호: OO제약(주) (7~8→1)·덱스트린혼합물(별규) 주소: 충청북도 청주시 흥덕 원료칭량 부형제 유당수화물(KP) 구 오송읍 오송생명 2로 187 활택제 탤크(KP) [DMF 등록번호: ×××××- 활택제 경질무수규산(KP) ××-××] 주성분 감초50%에탄올건조엑스 혼합 (7~8→1)·덱스트린혼합물(별규).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "부형제 유당수화물(KP) 공정2의 반제품 활택 활택제 탤크(KP) 활택제 경질무수규산(KP) 타정 공정3의 반제품 공정4의 반제품 코팅 용매 정제수(KP) 직접용기․포장의 재질 포장 공정5의 반제품 (병: PP 또는 HDPE, 블리스터: PVC-Al).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "1. 유당수화물 : 건강한 소의 우유에서 유래한 유당수화물을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "위의 생약을 정선하여 ｢대한민국약전｣ 통칙 중 절도 및 분말도에 따라 조절로 한 다음 원료약품의 분량대로 생약을 달아 추출기에 넣고 5∼10 배량의 정제수(KP)를 넣어 80∼90℃에서 2∼3 시간 추출한 다음 여과한 액을 60℃ 이하에서 감압농축하여 건조엑스 0.6 kg(수득률 약 60.0%)을 제조하고 여기에 부형제를 넣어 ｢대한민국약전｣ 제제총칙 중 산제 항의 제법에 따라 제조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"제조공정도\", \"열\": [\"공정 번호\", \"공정 명칭\", \"원료․시약․용매 등\", \"비고\"], \"행\": [[\"주성분 토근(KP)\", \"추출용매 정제수(KP)\", \"원료칭량\", \"부형제 옥수수전분(KP)\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "활택제 스테아르산마그네슘(KP) 온도 80∼90℃ 추출 주성분 토근(KP) 스팀압 0∼0.1kg/㎠ 이하.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "추출용매 정제수(KP) 시간 2∼3 시간 온도 60℃이하 감압농축 공정2의 추출액 감압 500±30 mmHg 건조 공정3의 농축액 공정4의 반제품 부형제 옥수수전분(KP) 연합.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "활택제 스테아르산마그네슘(KP).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "용매 정제수(KP) 제립 공정5의 반제품 건조 공정6의 반제품 정립 공정7의 반제품 직접용기·포장의재질:.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "병포장(LDPE, HDPE, PET, 등)은 다양한 용도로 사용되며, 특히 식품 및 음료 포장에 널리 활용됩니다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "포장 공정8의 반제품 PE, PS) 포포장(Al-Foil).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "1. 스테아르산마그네슘 : 전염성해면상뇌증 감염을 방지하기 위하여 뉴질랜드산 2~7년생의 건강한 소에서 우지를 채취하여 “원료-알칼리처리-세척-여과-정제-농축-살균-건조-분쇄-혼합”공정을 통해 처리한 스테아르산을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "3) 복합엑스산제의 경우 제조방법 원료약품 중 생약을 정선하여 ｢대한민국약전｣ 통칙 중 절도 및 분말도에 따라 조절한 다음 원료약품 분량대로 각 생약을 달아 추출기에 넣고 8∼10 배량의 정 제수(KP)를 넣어 80∼90℃에서 3∼4 시간 추출한 다음 여과한 액을 60℃ 이하에서 감압 농축하여 건조엑스(수득률 약 20.0%)을 제조하고 여기에 부형제를 연합한 후, ｢대한 민국약전｣ 제제총칙 중 산제 항의 제법에 따라 제조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"제조공정도\", \"열\": [\"공정\", \"공정 명칭\", \"원료․시약․용매 등\", \"비고\"], \"행\": [[\"번호\"], [\"주성분 백출(KP)\"], [\"주성분 복령(KP)\"], [\"주성분 감초(KP)\"], [\"원료칭량\"], [\"추출용매 정제수(KP)\"], [\"부형제 유당수화물(KP)\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "활택제 스테아르산마그네슘(KP).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "주성분 백출(KP) 온도 80∼90℃ 주성분 복령(KP) 추출.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "스팀압 0∼0.1kg/㎠ 이하.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "주성분 감초(KP) 시간 3∼4시간 추출용매 정제수(KP) 온도 60℃이하 감압농축 공정2의 추출액 감압 500±30 mmHg 건조 공정3의 농축액 공정4의 반제품 연합 부형제 유당수화물(KP) 용매 정제수(KP) 제립 공정5의 반제품 건조 공정6의 반제품 정립 공정7의 반제품 공정8의 반제품 혼합.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "3.2. 완제의약품의 작성사례",
+      "path": null,
+      "ko_txt": "활택제 스테아르산마그네슘(KP) 직접용기·포장의재질: 포장 공정8의 반제품 PVC, Al-foil 또는 HDPE 1. 유당수화물 : 건강한 소의 우유에서 유래한 유당수화물을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "2. 스테아르산마그네슘 : 식물유래성분",
+      "path": null,
+      "ko_txt": "4) 액제의 경우 “아이비엽30%에탄올건조엑스 시럽” 제조방법 ｢대한민국약전｣ 제제총칙 중 시럽제항에 따라 제조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "2. 스테아르산마그네슘 : 식물유래성분",
+      "path": null,
+      "ko_txt": "내용물의 조제 시 용제 로 정제수(KP) 적량을 사용하여 제조한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "2. 스테아르산마그네슘 : 식물유래성분",
+      "path": null,
+      "ko_txt": "원료칭량, 1차용해, 2차용해, 냉각, 1차 혼합, 2차 혼합, 충전, 밀봉 공정은 충북 청주시 흥덕구 오송생명3로 195 소재 ㈜□□ 신약에 위탁제조하고, 포장 공정은 충북 청주시 흥덕구 오송읍 오송생명1로 15 소재 XX제약(주)에서 행한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "2. 스테아르산마그네슘 : 식물유래성분",
+      "path": null,
+      "ko_txt": "[제조공정도] 공정 공정 명칭 원료․시약․용매 등 비고 번호 주성분 아이비엽30%에탄올건조엑스 주성분 제조원 (5∼7.5→1)(생규) 상호: (주)△△ 1 원료칭량 감미제 D-소르비톨액(KP) 주소: 충청북도 청주시 보존제 소르빈산칼륨(EP) 흥덕구 오송읍 오송생명 2로.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "2. 스테아르산마그네슘 : 식물유래성분",
+      "path": null,
+      "ko_txt": "용제 정제수(KP) 187 보존제 소르빈산칼륨(EP) 2 1차 용해 용제 정제수(KP) 공정2의 반제품 3 2차 용해 감미제 D-소르비톨액(KP) 4 냉각 공정3의 반제품 공정4의 반제품.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "2. 스테아르산마그네슘 : 식물유래성분",
+      "path": null,
+      "ko_txt": "주성분 아이비엽30%에탄올건조엑스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "2. 스테아르산마그네슘 : 식물유래성분",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"공정\", \"용제\", \"반제품\"], \"행\": [[\"1차 혼합\", \"정제수(KP)\", \"5의 반제품\"], [\"2차 혼합\", \"정제수(KP)\", \"6의 반제품\"], [\"충전\", \"정제수(KP)\", \"7의 반제품\"], [\"밀봉\", \"정제수(KP)\", \"8의 반제품\"]], \"각주\": [], \"raw_lines\": [\"5 1차 혼합\", \"(5∼7.5→1)(생규)\", \"용제 정제수(KP)\", \"공정5의 반제품\", \"6 2차 혼합\", \"용제 정제수(KP)\", \"7 충전 공정6의 반제품\", \"8 밀봉 공정7의 반제품\"], \"keep_ratio\": 0.933}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "Ⅲ. 관련규정",
+      "path": null,
+      "ko_txt": "1. ｢한약(생약)제제등의 품목허가․신고에 관한 규정｣ (식품의약품안전처고시 제2016-112호, 2016.10.10.) - 제8조(심사자료의 요건) - 제14조(제조방법) 2. ｢의약품의 품목허가 ․ 신고 ․ 심사규정｣ (식품의약품안전처고시 제2017-77호, 2017.09.29.) - 제14조(제조방법) - 별표 7 “제형별 의약품 첨가제(제12조제5항제2호 관련)” - 별표 8의3 “의약품제제의 제조방법 기재요령(제14조제2항 관련)” 3. ｢대한민국약전｣ 일반정보 “의약품 잔류용매 기준 가이드라인” 1. ｢한약(생약)제제등의 품목허가․신고에 관한 규정｣ (식품의약품안전처고시 제2016-112호, 2016.10.10.) 제14조(제조방법) ① 제조방법은 그 품목의 특성에 따라 현대과학기술 수준에서 물리화학적, 생물학적, 생명공학적, 약 제학적으로 합리적이고 타당하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "Ⅲ. 관련규정",
+      "path": null,
+      "ko_txt": "② 완제의약품의 경우에는 「의약품의 품목허가ㆍ신고ㆍ심사 규정」(식품의약품안전처 고시) 별표 8 의3 의약품제제의 제조방법 기재요령에 따라 자세히 기재하여야 하고 제1호부터 제4호까지 및 제6 호의 규정에 적합하여야 하며, 제5호에 따라 근거자료를 제출하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "라. 사용목적과 용매의 명칭, 규격, 단위제형당 사용량 등을 기재하여야 한다.",
+      "path": null,
+      "ko_txt": "2. 생약을 추출·분획하여 천연물의약품 등을 제조하는 경우에는 다음 각 목에 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "가. 원생약을 사용하는 경우",
+      "path": null,
+      "ko_txt": "1) 제조공정 전과정 2) 공정단계별 공정검사 항목 및 방법 3) 규격(학명, 과명 및 약용부위), 전처리(수치법, 수득률 등), 분말도 또는 절도 4) 추출용매의 종류 및 그 분량(추출·분획시) 5) 추출조건(온도, 시간, 횟수 등)(추출·분획시) 6) 분획 또는 여과조건(추출·분획시) 7) 농축방법(동결건조·건조·연조등)(추출 ·분획시) 8) 각 공정단계별 및 최종 수득률(추출·분획시) 9) 지표성분 함량의 조절 또는 다른 목적으로 추출물을 조절하기 위하여 부형제 등을 사용할 경우 에는 종류, 규격 및 분량.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "1) 가목 1)부터 9)까지의 사항 2) 추출·분획물의 제조원 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "<삭 제> 라. 포제한 경우 「대한민국약전외한약(생약)규격집」(식품의약품안전처 고시) 포제법에 따라 구체적 인 제조공정을 상세하게 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "3. 「의약품 등의 제조업 및 수입자의 시설기준령」(대통령령) 제4조에 따라 다른 의약품의 제조업 자등의 시설 및 기구를 이용하여 전부 또는 일부공정을 위탁하여 제조 또는 시험하는 경우에는 단 위공정별 수탁자명, 소재지 등을 명확하게 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "4. 최종제품이 동물유래성분을 함유하거나 제조과정중 동물유래성분을 사용하는 경우에는 기원동물 및 사용부위를 기재하여야 하며, 반추동물유래성분의 경우는 전염성해면상뇌증(TSE)감염을 방지하 기 위한 원료선택(반추동물의 원산국, 반추동물의 연령등) 또는 처리방법 등을 다음 각 호의 어느 하나와 같이 추가로 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "가. [기원동물의 명칭]의 [사용부위]에서 유래된 [동물유래성분]을 함유 또는 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "나. 전염성해면상뇌증 감염을 방지하기 위하여 [반추동물의 원산국]산 [반추동물의 연령]의 건강한 [반추동물의 명칭]에서 [사용부위]를 채취하여 [처리공정] 처리한 [동물유래성분명]을 사용한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "5. 제제의 특성상 필요한 경우에는 제제설계 항을 설정하여 제형선택 이유, 원료약품 및 그 분량의 설정 이유 등에 관한 자료를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "가. 특수한 제제가공법을 설정한 경우에는 제형의 선택, 의약품 첨가제의 선택 및 혼합비의 결정 등 원료약품 및 그 분량 설정근거에 대한 자료를 제출하고, 필요에 따라 생물약제학적 평가결과자 료 및 제제 설계의 타당성에 대한 자료도 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "나. 용출조절제제 등과 같이 특별한 제제기능을 갖는 경우에는 제제설계과정의 제제평가결과 등을 포함하여 서방성제제의 설계 및 평가에 관한 검토결과를 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "나. 제조된 추출·분획물을 사용하는 경우",
+      "path": null,
+      "ko_txt": "6. 동물유래성분을 원료로 사용한 주성분이 완제품에 포함된 의약품(주사제)을 제조하는 경우 다음 각 목에 적합하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "사. 각 공정단계별 수득률(추출·분획시)",
+      "path": null,
+      "ko_txt": "아. 최종 물질의 함량 조절 또는 다른 목적으로 추출물을 조절하기 위하여 부형제 등을 사용할 경우 에는 그 종류, 규격 및 분량.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "③ 원료의약품의 경우에는 제조공정도와 제조방법을 제1호와 제2호 및 제2항제2호에 따라 작성하여 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "허가대상 품목의 경우 제2항제2호에 따른 근거자료를, 동물유래성분을 함유한 원료의약품 의 경우에는 제조공정도 및 제조방법을 제1호부터 제2호까지에 따라 작성하여 기재하며, 제3호에서 정하는 바에 따라 근거자료를 첨부하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "1. 제조공정도는 제조방법에 기재된 모든 물질과 반응조건이 포함되도록 흐름도를 작성하고 수득률을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "2. 제조방법은 각 공정단계별로 사용되는 모든 물질 및 사용량과 반응조건(시간, 온도, pH 등)을 순 서대로 작성하고, 각 공정단계별 수득률과 총 수득률을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "3. 동물유래성분을 함유한 원료의약품인 경우에는 다음의 자료를 함께 제출한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "자. 최종 추출·분획물의 제조원",
+      "path": null,
+      "ko_txt": "가. 3로트 이상의 제조기록서 및 제조일지.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "④ 완제의약품을 소분하는 경우에는 제1항 및 제2항을 준용하며, 원료의약품을 소분하는 경우에는 제 3항을 준용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "⑤ 제조공정에 따라 각 원료약품의 투입순서를 명시할 필요가 있는 경우에는 이를 명시하여야 하며, 최종제품의 규격이 동일한 범위내에서 2가지 이상의 방법으로 제조하고자 하는 경우에는 <제1법>, <제2법> 등으로 병기할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "⑥ 수입품목의 경우에는 제1항부터 제5항까지를 준용하여 기재하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "⑦ 필요에 따라 최종제품을 방사선조사하여 멸균하는 경우에는 그 조건(방사선량, 시간 등)을 명기하 되, 방사선을 조사한 제품과 조사하지 아니한 제품에 대한 분해산물 생성유무비교 등 안정성시험자 료(3개 로트)를 첨부하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "⑧ 한약재의 경우에는 원료의약품의 경우를 따르되, 세척, 포제 등 가공, 건조 및 절단 공정을 별표 9의 한약재 제조방법 기재요령에 따라 자세히 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "다. 바이러스 불활화 공정에 관한 자료",
+      "path": null,
+      "ko_txt": "2. ｢의약품의 품목허가 ․ 신고 ․ 심사규정｣ (식품의약품안전처고시 제2017-77호, 2017.09.29.) - 별표 7. 제형별 의약품 첨가제 목 차.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "1. 정제, 산제, 과립제, 캡슐제, 환제, 트로키제의 첨가제",
+      "path": null,
+      "ko_txt": "2. 액제, 시럽제, 현탁제, 유제, 엑스제, 리모나아데제, 유동엑스제, 틴크제, 엘릭서제, 침제, 전제, 방 향수제, 주정제, 주제의 첨가제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "8. 감미제(교미제)",
+      "path": null,
+      "ko_txt": "9. 색소 : 「의약품등의 타르색소 지정과 기준 및 시험방법」(식품의약품안전처 고시)에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "1. 정제, 산제, 과립제, 캡슐제, 환제, 트로키제의 첨가제",
+      "path": null,
+      "ko_txt": "가. 부형제 옥수수전분 미결정셀룰로오스 감자전분 덱스트린 밀전분 알긴산나트륨 유 당 메칠셀룰로오스 백 당 카르복시메칠셀룰로오스나트륨 포도당 카올린 과 당 요 소 디-만니톨 콜로이드성실리카겔 침강탄산칼슘 히드록시프로필스타치 합성규산알루미늄 히드록시프로필메칠셀룰로오스 인산일수소칼슘.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "1. 정제, 산제, 과립제, 캡슐제, 환제, 트로키제의 첨가제",
+      "path": null,
+      "ko_txt": "1928, 2208, 2906, 2910.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "1. 정제, 산제, 과립제, 캡슐제, 환제, 트로키제의 첨가제",
+      "path": null,
+      "ko_txt": "황산칼슘 프로필렌글리콜 염화나트륨 카제인 탄산수소나트륨 젖산칼슘 정제 라놀린 프리모젤 나. 결합제 젤라틴(10～20%) 포도당(25～50%) 아라비아고무(10～20%) 정제수 에탄올(50%) 카제인나트륨 한천가루 글리세린(농글리세린) 초산프탈산셀룰로오스 스테아린산 카르복시메칠셀룰로오스 카르복시메칠셀룰로오스나트륨 카르복시메칠셀룰로오스칼슘 메칠셀룰로오스나트륨 메칠셀룰로오스 정제쉘락 미결정셀룰로오스 전분호(5～10%) 덱스트린 히드록시프로필셀룰로오스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "1. 정제, 산제, 과립제, 캡슐제, 환제, 트로키제의 첨가제",
+      "path": null,
+      "ko_txt": "히드록시셀룰로오스 히드록시프로필메칠셀룰로오스 히드록시프로필스타치 폴리비닐알코올 히드록시메칠셀룰로오스 폴리비닐피롤리돈.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "다. 붕해제",
+      "path": null,
+      "ko_txt": "히드록시프로필메칠셀룰로오스 옥수수전분 한천가루 메칠셀룰로오스 벤토나이트 히드록시프로필스타치 카르복시메칠셀룰로오스나트륨 알긴산나트륨 카르복시메칠셀룰로오스칼슘 구연산칼슘 라우릴황산나트륨 무수규산 1-히드록시프로필셀룰로오스 덱스트란 이온교환수지 초산폴리비닐 포름알데히드처리 카제인 및 젤라틴 알긴산 아밀로오스 구아르고무(Guar gum).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "다. 붕해제",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"중조\", \"인산칼슘\", \"아라비아고무\", \"펙틴\", \"에칠셀룰로오스\"], \"행\": [[\"폴리비닐피롤리돈\"], [\"겔화전분\"], [\"아밀로펙틴\"], [\"폴리인산나트륨\"], [\"백 당\"]], \"각주\": [], \"raw_lines\": [\"중조 폴리비닐피롤리돈\", \"인산칼슘 겔화전분\", \"아라비아고무 아밀로펙틴\", \"펙틴 폴리인산나트륨\", \"에칠셀룰로오스 백 당\"], \"keep_ratio\": 1.0}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "다. 붕해제",
+      "path": null,
+      "ko_txt": "규산마그네슘알루미늄 디-소르비톨액 경질무수규산.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "스테아린산칼슘 스테아린산마그네슘 수소화식물유(Hydrogenated vegetable.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "스테아린산 oil) 탈크 석송자 카올린 바셀린 스테아린산나트륨 카카오脂.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "살리실산나트륨 살리실산마그네슘 폴리에칠렌글리콜 4000,6000 유동파라핀 수소첨가대두유(Lubri wax) 스테아린산알루미늄 스테아린산아연 라우릴황산나트륨 산화마그네슘 마크로골(Macrogol) 합성규산알루미늄 무수규산 고급지방산 고급알코올 실리콘유 파라핀유 폴리에칠렌글리콜지방산에테르 전분.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "염화나트륨 초산나트륨 올레인산나트륨 dl-로이신 경질무수규산 마. 제피제 (1) 결합제 백당 젤라틴 아라비아고무 메칠셀룰로오스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "결정셀룰로오스 카르복시메칠셀룰로오스나트륨 물엿 폴리비닐피롤리돈 폴리비닐알코올 히드록시에칠셀룰로오스 알긴산나트륨 (2) 살포제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "탈크 침강탄산칼슘 스테아린산마그네슘 황산칼슘 전분류 분말당 미립자성무수규산 인산칼슘 (3) 붕해촉진제 메칠셀룰로오스 라우릴황산나트륨 결정셀룰로오스 카르복시메칠스타치나트륨 비-검(Vee-gum) 폴리에칠렌글리콜 6000 서당 스테아린산에스텔 (4) 시광제 카르나우바납 밀납 (5) 차광제 산화아연 산화티탄 (6) 장용성기제 초산프탈산셀룰로오스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "프탈산히드록시프로필메칠셀룰로오스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "유드라짓 엘 및 에스 쉘락 프탈산폴리비닐알코올 스티렌과 말레인산의 중합체 케라틴(Keratin) 살롤(Salol) 바. 필름코팅기제 젤라틴 메칠셀룰로오스 히드록시프로필셀룰로오스 히드록시프로필메칠셀룰로오스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "폴리에칠렌글리콜 1000～6000.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "쉘락 에칠셀룰로오스 메칠히드록시에칠셀룰로오스 히드록시에칠셀룰로오스 카르복시메칠셀룰로오스나트륨 폴리비닐알코올 폴리비닐피롤리돈.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "라. 활택제",
+      "path": null,
+      "ko_txt": "비닐필롤리돈과 초산비닐의 중합체 제인 (Zein) 유드라짓 유드라짓 엘 및 에스 폴리비닐아세틸디메칠아미노아세테이트(AEA) 알파-메칠-5-비닐피리딘-메칠아크릴레이트-메칠아크릴릭-애시드 코폴리머 (MPM).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "사. 장용성필름코팅기제",
+      "path": null,
+      "ko_txt": "초산프탈산세룰로오스 프탈산히드록시프로필메칠셀룰로오스 스티렌과 말레인산의 중합체.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "아. 연질캡슐기제",
+      "path": null,
+      "ko_txt": "젤라틴에 글리세린이나 소르비톨을 넣은 것.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "비스왁스(Bees wax) 파라핀왁스(Paraffin wax) 동물성 스테아린산염(Animal stearates) 왁스혼합물(1 part Hydrogenated bean oil, 1 part yellow wax, 4 parts vegetable shortening) 염화부틸, 톨루엔, 테트라클로로에칠렌, 벤젠 등의 휘발성 유기용매에 용해된 모노스테아린산알루미늄 폴리에칠렌글리콜 4000, 6000.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "솔리드글리콜에스테르류 솔리드논이오닉스 아세틸화한 모노글리세라이드류 차. 환의제 석송자(Lycopodium) 탈 크 전분 카올린.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "약용탄 리퀴리티아(Liquilitia).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "계피가루 금 박 은 박 카. 트로키제의 습윤제 디-소르비톨 디-소르비톨액 글리세린 유동파라핀 프로필렌글리콜.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "2. 액제, 시럽제, 현탁제, 유제, 엑스제, 리모나아데제, 유동액스제, 틴크제, 엘릭실제, 침제, 전 제, 방향수제, 주정제, 주제의 첨가제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "가. 액 제 (1) 용제 : 물 (2) 용해보조제 묽은 염산 묽은 황산 구연산나트륨 모노스테아린산슈크로스류.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "폴리옥시에칠렌소르비톨지방산에스텔류(트윈에스텔).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "폴리옥시에칠렌모노알킬에텔류 라놀린에텔류 라놀린에스텔류 (3) 안정제 < 산성화제 > 초 산 염 산 < 알칼리화제 > 암모니아수 탄산암모늄 수산화칼륨 수산화나트륨 프롤아민 < 점도조절제 > 폴리비닐피롤리돈 에칠셀룰로오스 카르복시메칠셀룰로오스나트륨 나. 시럽제 (1) 첨가제 백당의 용액 다른 당류 혹은 감미제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "필요에 따라 방향제, 착색제, 보존제, 안정제, 현탁화제, 유화제, 점조제를 넣.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "(2) 감미제 단미시럽 꿀 용성삭카린 덱스트로스 삭카린칼슘 삭카린나트륨 소르비톨 압축설탕 제과용설탕 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "유 제 (1) 용제 : 정제수.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "(2) 필요에 따라 유화제, 보존제, 안정제, 방향제를 넣음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "유화제 아카시아 트라가칸타 메칠셀룰로오스 카르복시메칠셀룰로오스 라. 현탁제 (1) 용제 : 정제수 (2) 현탁화제 아카시아 트라가칸타 메칠셀룰로오스 카르복시메칠셀룰로오스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": "자. 연질캡슐의 현탁화제",
+      "path": null,
+      "ko_txt": "카르복시메칠셀룰로오스나트륨 미결정셀룰로오스 알긴산나트륨 히드록시프로필메칠셀룰로오스 1828, 2906, 2910 (3) 필요에 따라 계면활성제, 보존제, 안정제, 착색제, 방향제를 넣음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": "마. 리모나아데제",
+      "path": null,
+      "ko_txt": "(1) 첨가제 정제수 단미시럽 염산, 구연산, 주석산, 인산, 젖산(택 1).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": "바. 엑스제",
+      "path": null,
+      "ko_txt": "(1) 침출제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": "바. 엑스제",
+      "path": null,
+      "ko_txt": "물 묽은 에탄올 에탄올 에 텔 (2) 기준화제 < 연조엑스 > 전분, 유당, 포도당 < 건조엑스 > 감초조엑스 사. 유동엑스제 (1) 침출제 정제수 에탄올 묽은 혹은 진한 에탄올 아. 틴크제 (1) 침출제 에탄올 묽은 에탄올 에탄올+정제수 자. 엘릭실제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": "바. 엑스제",
+      "path": null,
+      "ko_txt": "(1) 용 제 에탄올 에탄올+정제수 (2) 그외 방향제, 감미제(백당 또는 다른 당류)가 첨가되어야 함",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": "바. 엑스제",
+      "path": null,
+      "ko_txt": "(3) 필요에 따라 용해보조제, 착색제, 보존제를 넣을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": "차. 침제 및 전제",
+      "path": null,
+      "ko_txt": "물로 추출하여 필요에 따라 보존제 넣음",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": "카. 방향수제",
+      "path": null,
+      "ko_txt": "(1) 용제 : 정제수 (2) 용해보조제 트윈 20 등의 계면활성제(식첨의 양 규정대로).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": "타. 주정제",
+      "path": null,
+      "ko_txt": "(1) 용제 에탄올 에탄올 + 정제수 (2) 필요에 따라 착색제, 방향제를 넣을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": "파. 주 제",
+      "path": null,
+      "ko_txt": "(1) 용제 술(백포도주, 과실주) 다만, 적포도주와 같이 탄닌을 함유한 술은 안된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "주사용 증류수 0.9%염화나트륨주사액 링겔주사액 덱스트로스주사액 덱스트로스+염화나트륨주사액 피이지(PEG) 락테이티드 링겔주사액 에탄올 프로필렌글리콜.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "비휘발성유-참기름, 면실유, 낙화생유, 콩기름, 옥수수기름 올레인산에칠, 미리스트산 이소프로필, 안식향산벤젠.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "나. 용해보조제 안식향산나트륨 살리실산나트륨 초산나트륨 요 소 우레탄 모노에칠아세트아마이드 부타졸리딘 프로필렌글리콜 트윈류 니정틴산아미드 헥사민 디메칠아세트아마이드 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "완충제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "약산 및 그 염(초산과 초산나트륨) 약염기 및 그 염(암모니아 및 초산암모니움).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "유기화합물 단백질 알부민 펩 톤 검 류 라. 등장화제 : 염화나트륨 마. 안정제 중아황산나트륨(NaHSO3) 이산화탄소가스.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "메타중아황산나트륨(Na2 S2 O3).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "아황산나트륨(Na2 SO3) 질소가스(N2) 에칠렌디아민테트라초산 바. 황산화제 소디움비설파이드 0.1%.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "소디움포름알데히드 설폭실레이트.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "치오우레아 에칠렌디아민테트라초산디나트륨 아세톤소디움비설파이트 사. 무통화제 벤질알코올 클로로부탄올 염산프로카인 포도당 글루콘산칼슘 아. 현탁화제 시엠시나트륨 알긴산나트륨 트윈 80 모노스테아린산알루미늄 4. 안과용제의 첨가제 가. 점안액.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "sentence",
+      "section": "가. 용 제",
+      "path": null,
+      "ko_txt": "(1) 수용성제 : 멸균정제수 (2) 비수성용제 : 주사용 비수성용제 (3)안정제, 용해보조제, 현탁화제, 유화제, 완충제, 점조제, 보존제(주사제와 동일) (4) 쓸 때 녹여 쓰는 분말의 경우 부형제를 넣을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "sentence",
+      "section": "나. 안연고제",
+      "path": null,
+      "ko_txt": "(1) 기 제 바셀린 유동파라핀 정제 라놀린 (2) 필요에 따라 보존제, 안정제를 넣을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "가. 좌 제 (1) 기 제 카카오지 라놀린.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "위텝솔(Witepsol H12, H15, W35, S55, E75, E85) 폴리에칠렌글리콜(1000, 1450, 4000, 6000) 글리세로젤라틴 메칠셀룰로오스 카르복시메칠셀룰로오스 스테아린산과 올레인산의 혼합물.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "수바날(Subanal) 면실유 낙화생유 야자유.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "카카오버터+콜레스테롤, 레시틴, 라네트왁스, 모노스테아린산글리세롤, 트윈 또 는 스판 임하우젠(Imhausen) 모놀렌(모노스테아린산프로필렌글리콜) 글리세린 아뎁스솔리두스(Adeps solidus) 부티룸 태고-G(Buytyrum Tego-G) 세베스파마 16 (Cebes Pharma 16).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "헥사라이드베이스 95 코토마(Cotomar) 히드록코테 SP S-70-XXA.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "S-70-XX75(S-70-XX95) 히드록코테 25(Hydrokote) 히드록코테 711 이드로포스탈 (Idropostal) 마사에스트라리움(Massa estrarium) A, AS, B, C, D, E, I, T.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "마사-MF 마수폴, 마수폴-15 네오수포스탈-엔 파라마운드-B.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "수포시로 OSI, OSIX, A, B, C, D, H, L 좌제기제 IV 타입 AB, B, A, BC, BBG, E, BGF, C, D, 299 수포스탈 N, Es 웨코비 W, R, S, M ,Fs 테제스터 트리글리세라이드 기제 TG-95, MA, 57 (2) 기제의 연화 및 경화제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "경납 목납 경화유 라놀린 바셀린 식물유 나. 연고제 (1) 기 제 유동파라핀 광물유 식물유 바셀린(친수성 페트롤라툼).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "페트롤라툼(Petrolatum).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "소프트파라핀 돈지 황납, 백납 라놀린 콜드크림 알칼리비누 아민비누 알킬알릴설포닉산 바니싱크림 알코올설페이트에스텔 친수연고 폴리에칠렌글리콜 벤토나이트 규산알루미늄 모노스테아린산글리세린 올레인산 올리브유 스타치글리세라이드 세틸알코올.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "스테아린산 폴리소르베이트 (2) 보존제 < 산화방지제 >.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "아밀갈레이트(Amylgallate).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "부티레이티드톨루엔 부티레이티드아니솔 노르히드로구아이야레틱산 부틸히드로퀴논 구아이야콜 부틸-파라-히드록시 안식향산 디히드록시페놀 토코페롤 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "크림제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "유제 및 연고제의 제법과 동일.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "바니싱크림 기제 스테아린산 스테아릴알코올 세틸알코올 모노스테아린산글리세린 팔미트산이소프로필 라놀린.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "모노스테아린산소르비탄 글리세린소르비톨 용액 수산화칼륨 라우릴황산나트륨 폴리소르베이트 60 메칠피리디움 클로라이드 스테아릴콜아이노포르밀 세틸에스텔왁스류 정제수 광물류 백 납 (2) 콜드크림 < 기제 > 세틸에스텔왁스류 백 납 광물류 정제수 라. 파스타제 (1) 기 제 지방 지방유 바셀린 파라핀 글리세린 정제수 납 마. 경고제 (1) 기제 지방 지방유 지방산염 납 수 지 플라스틱 정제라놀린 고 무 바. 카타플라스마제 (1) 글리세린 정제수.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "(2) 필요에 따라 보존제, 방향제를 넣을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "사. 리니멘트제 (1) 첨가제 정제수 에탄올 지방유 글리세린 비 누.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "sentence",
+      "section": "5. 좌제, 연고제 등의 첨가제",
+      "path": null,
+      "ko_txt": "계면활성제, 현탁화제, 방향제, 착색제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "sentence",
+      "section": "아. 로오숀제",
+      "path": null,
+      "ko_txt": "(1) 유화제 및 현탁화제.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "sentence",
+      "section": "아. 로오숀제",
+      "path": null,
+      "ko_txt": "알긴산나트륨 폴리옥시에칠렌글리콜 펙틴 트라가칸타 메칠셀룰로오스 카르복시메칠셀룰로오스 벤토나이트 비-검.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "sentence",
+      "section": "아. 로오숀제",
+      "path": null,
+      "ko_txt": "미르지 폴리에칠렌글리콜 400.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "sentence",
+      "section": "아. 로오숀제",
+      "path": null,
+      "ko_txt": "모노스테아린산염 아카시아 칵스포폴 히드록시에칠스타치 히드록시에칠셀룰로오스 한천 아카시아검 알긴산 젤라틴.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "sentence",
+      "section": "아. 로오숀제",
+      "path": null,
+      "ko_txt": "(2) 필요에 따라 방부제, 방향제를 넣을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "살리실산메칠(外) 너트메그유(Nutmeg oil).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "오렌지플라워 오일 오렌지플라워 워터 오렌지유 가당오렌지껍질틴크 복합오렌지 주정 페파민트 페파민트유 페파민트 주정.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "파인니들유(pine needle oil) (外).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "장미유 농장미수(外) 스피아민트 스피아민트유 치몰(치과구강용) 톨루발삼틴크 바닐린 바닐라 바닐라틴크.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "펜넬오일(Fennel oil) 감 초.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "순수감초엑스 액체포도당 벤즈알데히드 아네톨 카라웨이유 카라웨이(Caraway).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "카르다몸유(Cardamom oil).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "아몬드유 카르다몸 종자 카르다몸 틴크 복합카르다몸 체리쥬스 계피유 클로바유 코코아.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "코리안더유(Coriander oil) 에리오딕티온유동엑스 에리오딕티온(Eriodictyon) 초산에칠 에칠바닐린 유카립투스(Eucaryptus) 라벤다유 레몬유 멘 톨.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "생 강 8. 감미제(교미제) 덱스트로스 삭카린 삭카린칼슘 삭카린나트륨 소르비톨 백 당 압축설탕 제과용설탕 물 엿 꿀 유 당 만니톨 과 당 포도당.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "sentence",
+      "section": "7. 방향제",
+      "path": null,
+      "ko_txt": "- 별표 8의3. 의약품제제의 제조방법 기재요령.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "sentence",
+      "section": "1. 작성서식 및 항목별 기재요령",
+      "path": null,
+      "ko_txt": "아래의 서식으로 작성하거나, 아래 서식의 항목을 포함한 제조공정도나 다른 기술방식을 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "sentence",
+      "section": "1. 작성서식 및 항목별 기재요령",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"공정 번호\", \"공정 명칭\", \"원료․시약․용매 등1)\", \"비고\"], \"행\": [[\"12)\", \"원료칭량\", \"주성분 제조원3)\", \"ː\"], [\"ː\", \"포장4)\", \"직접 용기․포장의 재질\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "sentence",
+      "section": "1. 작성서식 및 항목별 기재요령",
+      "path": null,
+      "ko_txt": "1) 각 공정별로 투입․사용되는 원료, 시약, 용매 등의 명칭을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "sentence",
+      "section": "1. 작성서식 및 항목별 기재요령",
+      "path": null,
+      "ko_txt": "2) 공정 1의「공정명칭」은 “원료칭량”으로,「원료․시약․용매 등」란에는 전체 공정에 투입․사용되는 원 료, 시약, 용매 등의 명칭을 모두 기재하고,「비고」란에는 주성분 제조원을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "sentence",
+      "section": "1. 작성서식 및 항목별 기재요령",
+      "path": null,
+      "ko_txt": "3) 「주성분의 제조원」은 주성분 원료 제조업자의 명칭 및 소재지를 기재하며, 전부 또는 일부 공정을 위탁하여 제조하는 경우는 단위공정별 수탁제조업소의 명칭 및 소재지를 모두 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "sentence",
+      "section": "1. 작성서식 및 항목별 기재요령",
+      "path": null,
+      "ko_txt": "품목 허가 권자(계약제조원)와 실제 제조자(위탁제조원)가 다른 경우는 이를 구분하여 기재하며, 제제의 주성 분이 반제품 형태인 경우(예 : 아스피린 제피과립)는 당해 주성분 원료의 제조업자 뿐만 아니라 효 능․효과를 직․간접적으로 발현한다고 기대되는 물질(예 : 아스피린)의 제조업자의 명칭 및 소재지도 함께 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "sentence",
+      "section": "1. 작성서식 및 항목별 기재요령",
+      "path": null,
+      "ko_txt": "다만, 「의약품 등의 안전에 관한 규칙」 제4조제1항제5호에 따라 의약품동등성 입 증이 필요한 의약품에 대하여 주성분 원료 제조소를 1개 이상 기재하고자 하는 경우는 「의약품동 등성시험기준」(식품의약품안전처 고시)에 의한 의약품동등성시험 자료를 제출하여 서로 다른 제조 소의 주성분 원료를 사용한 두 제제간의 동등성을 입증하여야 한다.(원료약품의 성분중 원생약의 경 우에는 그 생약원료의 제조업자 명칭 및 소재지는 생략할 수 있다) 4) 마지막 공정의「공정명칭」은 “포장”으로 기재하고,「비고」란에는 직접 용기․포장의 재질을 기재한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "sentence",
+      "section": "2. 작성 예시(정제의 경우)",
+      "path": null,
+      "ko_txt": "아래의 서식으로 작성하거나, 아래 서식의 항목을 포함한 제조공정도나 다른 기술방식을 사용할 수.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "sentence",
+      "section": "2. 작성 예시(정제의 경우)",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"\", \"열\": [\"공정 번호\", \"공정 명칭\", \"원료․시약․용매 등\", \"비고\"], \"행\": [[\"주성분\", \"○○\", \"\"], [\"결합제\", \"○○\", \"\"], [\"부형제\", \"○○\", \"\"], [\"활택제\", \"○○\", \"\"], [\"붕해제\", \"○○\", \"\"], [\"제피제\", \"○○\", \"\"], [\"착색제\", \"○○\", \"\"], [\"유기용매\", \"○○\", \"\"], [\"정제수\", \"\", \"\"], [\"원료칭량\", \"\", \"\"], [\"주성분 제조원\", \"\", \"\"], [\"결합액의 조제\", \"\", \"\"], [\"주성분\", \"○○\", \"\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "sentence",
+      "section": "2. 작성 예시(정제의 경우)",
+      "path": null,
+      "ko_txt": "결합제 ○○ 유기용매 ○○ 정제수 부형제 ○○ 활택제 ○○ 붕해제 ○○ 혼합 제립 공정2의 결합액 공정3의 혼합물 건조 공정4의 반제품 정립 공정5의 반제품 활택 공정6의 과립 활택제 ○○ 타정 공정7의 반제품 제피제 ○○ 착색제 ○○ 유기용매 ○○ 필름코팅액의 조제 필름코팅 공정8의 나정 공정9의 필름코팅액 포장 공정10의 반제품 직접용기․포장의 재질.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "sentence",
+      "section": "2. 작성 예시(정제의 경우)",
+      "path": null,
+      "ko_txt": "3. ｢대한민국약전｣ 일반정보 “의약품 잔류용매 기준 가이드라인”.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "이 가이드라인은 환자의 안전을 위하여 의약품 중 잔류용매의 허용가능한 양을 권고하는 것을 목적 으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "이 가이드라인에서는 독성이 적은 용매사용을 권장하고 일부 잔류용매에 대하여는 독성학 적으로 허용기준을 정한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "의약품 중 ‘잔류용매’라 함은 원료의약품(의약품의 주성분(유효성분), drug substances), 첨가제(주성 분이외의 성분, excipients)의 제조공정 또는 제제(유효성분을 함유한 정제, 캅셀제, 좌제 등 실제로 투여되는 최종제품)의 제조공정에서 사용되거나 생성되는 휘발성 유기 화학물질을 말한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "실제 생산 공정에서 이용되는 기술로는 이들 용매를 완전히 제거할 수 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "적절한 용매선택은 원료의약품의 합성에서 수득률을 향상시키거나, 결정형, 순도, 용해도 등 물성을 결정하며, 때로 합성과정에서 결 정적인 요소로 작용하기도 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "이 가이드라인은 첨가제로서 의도적으로 사용되는 용매 및 용매화물 (solvates)은 대상으로 하지 않으나, 이 경우에도 제제 중의 용매의 함량을 평가하여 타당성을 제시하 여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "모든 잔류용매는 치료적 유익성이 전혀 없기 때문에 제품규격, 우수 의약품 제조 및 품질관리기준 (GMP) 또는 그 밖의 품질기준에 적합한 수준으로 제거되어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "제제 중에서는 안전성 자료에 의 하여 인정되는 수준 이상의 잔류용매를 함유하여서는 안된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "사용을 금지해야할 용매(분류 1, 표 1) 는 위험성-유익성 평가로 타당성이 명확하게 인정되는 경우를 제외하고는 원료의약품, 첨가제 또는 제제의 제조 시 사용을 피해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "상대적으로 중대한 독성이 적은 용매(분류 2 , 표 2)는 잠재적인 이상반응으로부터 환자를 보호하기 위하여 그 잔류량을 규제하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "이상적으로는 낮은 독성을 가진 용매(분류 3 표 3)를 사용하도록 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "이 가이드라인에 포함되는 용매의 목록은 부록 1에 게재 되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "이 목록은 모든 용매를 망라한 것이 아니므로, 이외의 용매도 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "이러한 용매는 목록에 추가될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "분류 1과 2의 권장값 또는 용매의 분류는 새로운 안전성 자료에 의하여 변경될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "sentence",
+      "section": "1. 개 요",
+      "path": null,
+      "ko_txt": "새로운 용매를 포함한 의약품 허가를 신청하는 경우에는 이 가이드라인, ICH Q3A(Impurities in New Drug Substances) 혹은 Q3B(Impurities in New Drug Products) 또는 이 3개의 가이드라인 모 두를 바탕으로 그 용매의 안전성을 보증할 수 있는 자료를 첨부할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "이 가이드라인의 적용 대상은 원료의약품, 첨가제 및 제제 중 잔류용매이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "따라서 제조 또는 정제 공정 후에도 용매가 존재하는 경우 잔류용매시험을 실시해야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "시험은 원료의약품, 첨가제 또는 제제의 제조 또는 정제공정에서 사용되거나 생성된 용매에 대해서만 실시하면 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "의약품 제조업자 는 제제에 대한 시험을 실시하거나 제제의 제조 시 사용한 각각의 성분 중 잔류용매 함량을 합산하여 제제 중의 함량을 계산하는 적산적 방법을 활용하여도 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "만약 계산결과가 이 가이드라인의 권장 값 이하이면 제제의 잔류용매 시험은 필요하지 아니하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "계산된 값이 권장 값보다 높은 경우에는 그 용매의 함량이 제제화 공정에서 잔류허용량 이하로 낮추어졌는지 여부를 확인하기 위하여 제제를 시 험할 필요가 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "그리고 제조공정 중에 용매가 사용된 경우, 그 제제에 대한 시험을 실시하여야 한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "이 가이드라인은 임상시험단계에서 사용되는 새로운 원료의약품, 새로운 첨가제 또는 새로운 제제에 대하여는 적용하지 아니한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "이 가이드라인은 모든 제형 및 투여경로의 의약품에 적용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "단기간(30일 이하) 투여 또는 국소적 용 품목의 경우에는 각각의 사례별로 타당성이 인정될 경우 보다 높은 잔류량이 허용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "sentence",
+      "section": "2. 잔류용매에 관한 가이드라인의 적용 범위",
+      "path": null,
+      "ko_txt": "잔류용매에 관한 추가적인 정보는 부록 2에 게재되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "sentence",
+      "section": "3.1 위험성 평가에 따른 잔류용매의 분류",
+      "path": null,
+      "ko_txt": "1일섭취내량(TDI, Tolerable Daily Intake)이라는 용어는 국제화학물질안전성프로그램 (IPCS, International Program on Chemical Safety)에서 독성이 있는 화학물질에 대한 노출한계를 규정하기 위하여 사용하는 용어이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "sentence",
+      "section": "3.1 위험성 평가에 따른 잔류용매의 분류",
+      "path": null,
+      "ko_txt": "1일섭취허용량(ADI, Acceptable Daily Intake)이라는 용어는 세계보건기구 (WHO)와 그 외 국제적인 보건당국 및 관련단체 등에서 사용하는 용어이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "sentence",
+      "section": "3.1 위험성 평가에 따른 잔류용매의 분류",
+      "path": null,
+      "ko_txt": "이 가이드라인에서는 같 은 물질의 1일섭취허용량(ADI)의 값으로 WHO 등이 정한 것과 다른 값을 나타내어 혼동을 주는 것을 피하기 위해 1일노출허용량(PDE, Permitted Daily Exposure)이라는 새로운 용어를 의약품유래 잔류용 매의 허용섭취량으로 정의하여 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "sentence",
+      "section": "3.1 위험성 평가에 따른 잔류용매의 분류",
+      "path": null,
+      "ko_txt": "이 가이드라인에서는 잔류용매를 인체에 미칠 수 있는 위험도로서 평가하여 아래와 같이 세 가지로 분류하였으며 일반명과 구조식을 부록1에 게재하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "sentence",
+      "section": "3.1 위험성 평가에 따른 잔류용매의 분류",
+      "path": null,
+      "ko_txt": "분류 1 : 사용을 금지해야 할 용매 인체에 발암원성으로 알려져 있거나 강력하게 발암원성물질로 의심되며 환경에 유해한 용매 분류 2 : 잔류량을 규제해야 할 용매 유전독성은 나타내지 않으나 동물시험에서 발암성이 나타난 용매, 신경독성과 최기형성 등 발암성 이외의 비가역적인 독성을 나타낸 용매 및 기타 심각하지만 가역적인 독성이 의심 되는 용매 분류 3 : 저독성 용매 사람에 대한 저독성이라고 생각되는 용매; 건강상의 이유로는 노출 제한농도를 설정할 필요 는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "sentence",
+      "section": "3.1 위험성 평가에 따른 잔류용매의 분류",
+      "path": null,
+      "ko_txt": "분류 3의 용매는 50mg/일 이상의 1일노출 허용량(PDE)값을 갖는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "sentence",
+      "section": "3.2 노출한계 설정방법",
+      "path": null,
+      "ko_txt": "잔류용매의 1일 노출한계 설정하는 방법은 부록 3에 게재되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "sentence",
+      "section": "3.2 노출한계 설정방법",
+      "path": null,
+      "ko_txt": "노출한계를 정하는데 사용되는 독성자료는 pharmeuropa, Vol. 9, No. 1, Supplement, April 1997에 공표되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "분류 2 용매에 대해 제한농도를 설정하는 경우에는 다음 2가지 방법이 모두 가능하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "방법 1 : 표 2의 ppm으로 표시된 제한농도를 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "이 값은 1일 투여량을 10g으로 가정하여 아래의 식 (1)을 사용하여 계산된 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "식 (1) : ×일노출허용량PDE.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "여기서 1일노출허용량(PDE)은 ㎎/일로, 투여량은 g/일로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "이 제한농도는 모든 원료의약품, 첨가제 또는 제제에 적용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 391,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "따라서, 이 방법은 1일 투여량이 불 분명하거나 일정하지 않은 경우에 적용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 392,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "만일 모든 원료의약품이나 첨가제가 이 방법 1에서 주어 진 제한농도를 충족한다면, 이 성분들은 어떠한 비율로도 사용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 393,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "1일 투여량이 10g 이하인 경우에는 계산할 필요가 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 394,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "1일 투여량이 10g을 넘는 제제의 경우에는 방법 2를 적용하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 395,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "방법 2 : 제제 중 각 성분이 모두 방법 1에 표시된 제한농도에 적합할 필요는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 396,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "표2의 mg/일로 표시된 1일노출허용량(PDE)과 실제 1일최대투여량을 가지고 위의 식(1)을 사용하여 제제 중에 잔류가 허용되는 용매 함량을 계산할수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 397,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "만약 제제중의 각성분의 잔류용매량이 계산된 최소값까지 감소한 것을 입증할 수 있다면 그 제한농 도는 허용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 398,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "그 제한농도는 분석의 정밀성, 제조상의 능력, 제조공정에서 발생할 수 있는 편 차를 고려하여 현실적이어야 하며, 의약품 제조에 관한 현행수준을 반영한 것이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 399,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "방법 2를 적용하기 위해서는, 제제 중 각 성분에 존재하는 잔류용매의 총량이, 1일 섭취하는 용매량 의 합계가 1일노출허용량(PDE) 이하이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 400,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "다음은 제제 중의 아세토니트릴 잔류량을 구하기 위해 방법 1 및 방법 2를 적용한 예이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 401,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "아세토니 트릴의 1일노출허용량(PDE)은 4.1mg/일 (방법 1에서의 제한농도는410ppm)이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 402,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "이 제제의 1일 최대투여량은 5.0g이며, 2 종류의 첨가제를 함유하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 403,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "이 제제의 조성 및 계산 에 의해 구한 아세토니트릴 함량의 추정값(실제로 얻을 수 있는 값 중 최대값에 상당한다)는 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 404,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "성 분 분량 아세토니트릴함량 1일 노출량 원료의약품 0.3g 800ppm 0.24mg 첨가제 1 0.9g 400ppm 0.36mg 첨가제 2 3.8g 800ppm 3.04mg 제제 5.0g 728ppm 3.64mg 첨가제 1은 방법 1의 제한농도를 만족하지만 원료의약품, 첨가제 2 및 제제는 방법 1의 제한농도를 만족하지 못한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 405,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "그러나, 이 제제는 방법 2의 1일노출허용량(PDE) 4.1㎎을 만족한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 406,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "따라서 이 경 우에는 이 가이드라인의 권장사항에 적합하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 407,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "다음은 아세토니트릴을 잔류용매로 사용한 다른 예이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 408,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "이 제제도 1일 최대투여량이 5g이고 2 종류 의 첨가제를 함유하고 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 409,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "이 제제의 조성 및 계산된 아세토니트릴의 함량의 추정값(실제로 얻을 수 있는 값 중 최대값에 해당한다)는 다음의 표와 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 410,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "성분 분량 아세토니트릴함량 1일 노출량 원료의약품 0.3g 800ppm 0.24mg 첨가제 1 0.9g 2,000ppm 1.80mg 첨가제 2 3.8g 800ppm 3.04mg 제제 5.0g 1,016ppm 5.08mg 이 제제에서 각 성분 중 잔류용매의 합계는 방법 1의 제한농도 및 방법 2의 1일노출허용량 (PDE)을 모두 만족하지 못한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 411,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "의약품제조업자는 제제화 공정에서 아세토니트릴의 양을 감소시킬 수 있는지 시험해야 하며, 만약 아세토니트릴의 양이 제제화 공정에서 권장값 이하로 감소되지 않은 경우에는 제제 중 아세토니트릴의 양을 감소시킬 수 있는 공정으로 바꾸어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 412,
+      "type": "sentence",
+      "section": "3.3 분류 2 용매의 한계 설정방법",
+      "path": null,
+      "ko_txt": "그럼에도 불구하고 이 가이 드라인의 권장값을 만족시킬 수 없는 경우, 제조업자는 가이드라인에 권고된 수준으로 잔류용매의 양 을 줄이기 위한 노력에 대한 요약자료, 권장값 이상임에도 용매사용의 필요성을 나타내는 위험성-유 익성 평가 자료를 제출할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 413,
+      "type": "sentence",
+      "section": "3.4 분석방법",
+      "path": null,
+      "ko_txt": "잔류용매 분석법으로는 기체크로마토그래프법 등 크로마토그래프법이 일반적으로 이용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 414,
+      "type": "sentence",
+      "section": "3.4 분석방법",
+      "path": null,
+      "ko_txt": "잔류용 매의 양을 결정할 수 있는 표준화된 방법으로 가급적 약전 등 공정서에 수재된 방법을 사용하여야 한 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 415,
+      "type": "sentence",
+      "section": "3.4 분석방법",
+      "path": null,
+      "ko_txt": "다만, 특별한 경우 제조업자는 밸리데이션 된 다른 가장 적절한 방법을 자유롭게 선택할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 416,
+      "type": "sentence",
+      "section": "3.4 분석방법",
+      "path": null,
+      "ko_txt": "만약 분류3의 용매만 존재하는 경우라면 건조감량 등의 비특이적 방법을 사용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 417,
+      "type": "sentence",
+      "section": "3.4 분석방법",
+      "path": null,
+      "ko_txt": "잔류용매 분석법의 밸리데이션은 의약품등 시험방법의 밸리데이션에 대한 가이드라인에 따른다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 418,
+      "type": "sentence",
+      "section": "3.5 잔류용매의 보고 수준",
+      "path": null,
+      "ko_txt": "의약품제조업자는 이 가이드라인에서 제시한 기준을 만족하기 위하여 첨가제나 원료의약품 중의 잔 류용매 함량에 대한 정보가 필요하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 419,
+      "type": "sentence",
+      "section": "3.5 잔류용매의 보고 수준",
+      "path": null,
+      "ko_txt": "다음은 첨가제나 원료의약품의 공급자가 의약품 제조업자에게 제공할 수 있는 정보의 예시이며, 공급자는 다음의 사항 중 적절한 것을 선택할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 420,
+      "type": "sentence",
+      "section": "3.5 잔류용매의 보고 수준",
+      "path": null,
+      "ko_txt": "· 분류 3 용매만 존재한다고 생각되는 경우, 건조 감량이 0.5% 이하일 것 · 분류 2 용매(X,Y 등)만 존재한다고 생각되는 경우, 모든 용매가 방법 1의 제한농도 이하일 것.(이 경우 공급자는 X,Y등으로 나타내는 분류 2의 용매명칭을 표시할 필요가 있다.) · 분류 2 용매(X,Y 등)와 분류 3 용매가 존재한다고 생각되는 경우, 분류 2 용매의 잔류량은 방법 1 의 제한농도 이하이고 분류 3 용매의 잔류량은 0.5% 이하일 것. 만약 분류 1 용매가 존재한다고 생각되는 경우에는 이들 용매를 확인하고 정량하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 421,
+      "type": "sentence",
+      "section": "3.5 잔류용매의 보고 수준",
+      "path": null,
+      "ko_txt": "‘존재한다고 생각된다.’는 것은 제조의 최종공정에서 사용된 용매 및 이전의 공정에서 사용되었지만 밸리데이션된 공정에 의해 언제나 제거가 가능하다고 할 수는 없는 용매이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 422,
+      "type": "sentence",
+      "section": "3.5 잔류용매의 보고 수준",
+      "path": null,
+      "ko_txt": "만약 분류2와 분류3의 용매잔류량이 각각 방법 1의 제한농도 또는 0.5%보다 크면 이를 확인하고 정 량하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 423,
+      "type": "sentence",
+      "section": "4.1 사용을 금지해야할 용매",
+      "path": null,
+      "ko_txt": "분류 1의 용매는 심각한 독성 및 환경 유해성으로 인해 원료의약품, 첨가제 및 제제의 제조공정에서 사용하여서는 아니 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 424,
+      "type": "sentence",
+      "section": "4.1 사용을 금지해야할 용매",
+      "path": null,
+      "ko_txt": "만약 이 용매의 사용이 현저한 치료효과를 가진 제제를 제조하기 위하여 불 가피하다면, 용매의 사용수준을 따로 정하지 않은 경우에는 표 1의 제한농도 이하이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 425,
+      "type": "sentence",
+      "section": "4.1 사용을 금지해야할 용매",
+      "path": null,
+      "ko_txt": "트리 클로로에탄(1,1,1-Trichloroethane)은 환경에 유해한 물질이기 때문에 표 1에 포함된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 426,
+      "type": "sentence",
+      "section": "4.1 사용을 금지해야할 용매",
+      "path": null,
+      "ko_txt": "표 1에 나타 낸 제한농도 1,500ppm은 안전성 자료 검토에 기초한 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 427,
+      "type": "sentence",
+      "section": "4.1 사용을 금지해야할 용매",
+      "path": null,
+      "ko_txt": "표 1. 분류 1의 용매(의약품제조에서 사용을 금지해야 할 용매).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 428,
+      "type": "sentence",
+      "section": "4.1 사용을 금지해야할 용매",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"용 매\", \"열\": [\"제한농도(ppm)\", \"비고\"], \"행\": [[\"벤젠\", \"발암성\"], [\"사염화탄소\", \"독성 및 환경유해성\"], [\"1,2-디클로로에탄\", \"독성\"], [\"1,1-디클로로에텐\", \"독성\"], [\"1,1,1-트리클로로에탄\", \"1,500\"], [\"\", \"환경유해성\"]], \"각주\": []}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 429,
+      "type": "sentence",
+      "section": "4.2. 잔류량을 규제해야 할 용매",
+      "path": null,
+      "ko_txt": "표 2의 용매는 그 고유의 독성 때문에 의약품 중 잔류를 규제하는 용매이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 430,
+      "type": "sentence",
+      "section": "4.2. 잔류량을 규제해야 할 용매",
+      "path": null,
+      "ko_txt": "1일 노출허용량(PDE)은 0.1 mg/일 단위까지, 제한농도는 10 ppm 단위까지 표시하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 431,
+      "type": "sentence",
+      "section": "4.2. 잔류량을 규제해야 할 용매",
+      "path": null,
+      "ko_txt": "표에서 정해진 값은 측정할 때에 필 요한 분석의 정밀성을 반영하는 것은 아니며, 정밀성은 시험방법을 밸리데이션할 때 결정하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 432,
+      "type": "sentence",
+      "section": "4.2. 잔류량을 규제해야 할 용매",
+      "path": null,
+      "ko_txt": "표 2. 의약품 중 분류 2 용매.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 433,
+      "type": "sentence",
+      "section": "4.2. 잔류량을 규제해야 할 용매",
+      "path": null,
+      "ko_txt": "{\"표\": {\"제목\": \"용 매\", \"열\": [\"물질\", \"1일노출허용량 (ppm)\", \"제한농도 (mg/일)\"], \"행\": [[\"아세토니트릴\", \"4.1\", \"\"], [\"클로로벤젠\", \"3.6\", \"\"], [\"클로로포름\", \"0.6\", \"\"], [\"크멘\", \"0.7\", \"\"], [\"시클로헥산\", \"38.8\", \"3,880\"], [\"1,2-디클로로에텐\", \"18.7\", \"1,870\"], [\"디클로로메탄\", \"6.0\", \"\"], [\"1,2-디메톡시에탄\", \"1.0\", \"\"], [\"N,N-디메틸아세트아미드\", \"10.9\", \"1,090\"], [\"N,N-디메틸포름아미드\", \"8.8\", \"\"], [\"1,4-디옥산\", \"3.8\", \"\"], [\"2-에톡시에탄올\", \"1.6\", \"\"], [\"에틸렌글리콜\", \"6.2\", \"\"], [\"포름아미드\", \"2.2\", \"\"], [\"헥산\", \"2.9\", \"\"], [\"메탄올\", \"30.0\", \"3,000\"], [\"2-메톡시에탄올\", \"0.5\", \"\"], [\"메틸부틸케톤\", \"0.5\", \"\"], [\"메틸시클로헥산\", \"11.8\", \"1,180\"], [\"메틸이소부틸케톤\", \"N-메틸피롤리돈\", \"5.3\"], [\"니트로메탄\", \"0.5\", \"\"], [\"피리딘\", \"2.0\", \"\"], [\"설폴란\", \"1.6\", \"\"], [\"테트라히드로푸란\", \"7.2\", \"\"], [\"테트랄린\", \"1.0\", \"\"], [\"톨루엔\", \"8.9\", \"\"], [\"1,1,2-트리클로로에텐\", \"0.8\", \"\"], [\"자일렌주1)\", \"21.7\", \"2,170\"]], \"각주\": [\"(PDE)(mg/일)\"]}}",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 434,
+      "type": "sentence",
+      "section": "4.2. 잔류량을 규제해야 할 용매",
+      "path": null,
+      "ko_txt": "주1) 일반적으로 17% 에틸벤젠을 함유하는 60% m-자일렌, 14% p-자일렌, 9% o-자일렌.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 435,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "분류 3의 용매(표 3)는 독성이 적고 인체에 미치는 위험 정도가 낮은 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 436,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "분류 3은 의약품 중 일반적으로 인정되는 범위 내에서 인체에 유해하다고 알려진 용매는 포함되지 않는다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 437,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "그러나, 분류 3의 용매 중 많은 용매는 장기간의 독성이나 발암성에 대한 연구자료가 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 438,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "현재까지 입수된 자료 에 의하면 분류 3의 용매는 급성 독성 또는 단기독성에서 저독성이며, 유전독성에서 음성을 나타내었 다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 439,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "잔류 용매의 양이 1일 50㎎ 이하 (방법 1에서 5,000ppm이나 0.5%에 해당량)인 경우 타당성을 입증하는 자료 없이도 인정될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 440,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "이보다 높은 잔류량에 대하여도 제조업자의 제조능력이나 우 수 의약품 제조 및 품질관리기준(GMP)과 관련하여 현실적인 것으로 인정되는 경우 허용될 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 441,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "표 3. 분류 3의 용매 (우수 의약품 제조 및 품질관리기준 또는 그 밖의 품질기준에 따라 규제되어야 하 는 용매).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 442,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "아세트산 헵탄 아세톤 아세트산이소부틸 아니솔 아세트산이소프로필 1-부탄올 아세트산메틸 2-부탄올 3-메틸-1-부탄올 아세트산n-부틸 메틸에틸케톤 t-부틸메틸에테르 트리에틸아민 디메틸설폭시드 2-메틸-1-프로판올 에탄올 펜탄 아세트산에틸 1-펜탄올 디에틸에테르(에테르) 1-프로판올 포름산에틸 2-프로판올 포름산 아세트산프로필.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 443,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "또한, 원료의약품 제조시 마지막 제조공정 이전에 사용된 분류2 또는 분류3의 용매의 경우는 최종 원료에서 용매가 잔류하지 않음을 입증하는 자료를 제출할 경우, 원료의약품에 잔류용매 기준을 설정 하지 않을 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 444,
+      "type": "sentence",
+      "section": "4.3 저독성 용매",
+      "path": null,
+      "ko_txt": "(제출자료 예) 불검출임을 확인할 수 있는 실생산 3 배치 시험 분석 자료 및 정량한계에 대한 자료. 분류2의 용매의 경우에는 중간체 규격 관리 또는 최종 원료 중 일정 배치 생산규모별 관리에 대한 자 료 포함).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 445,
+      "type": "sentence",
+      "section": "4.4 충분한 독성학적 자료가 없는 용매",
+      "path": null,
+      "ko_txt": "다음의 용매(표 4)는 첨가제나 원료의약품 또는 제제의 제조업자가 관심을 가질 만한 용매이나, 1일 노출허용량(PDE) 산출에 필요한 충분한 독성학적 자료가 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 446,
+      "type": "sentence",
+      "section": "4.4 충분한 독성학적 자료가 없는 용매",
+      "path": null,
+      "ko_txt": "따라서 제조업자는 의약품중 이 용매 의 잔류수준에 대한 타당한 자료를 제시하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 447,
+      "type": "sentence",
+      "section": "4.4 충분한 독성학적 자료가 없는 용매",
+      "path": null,
+      "ko_txt": "표 4. 충분한 독성학적 자료가 없는 용매.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 448,
+      "type": "sentence",
+      "section": "4.4 충분한 독성학적 자료가 없는 용매",
+      "path": null,
+      "ko_txt": "1,1-디에톡시프로판 메틸이소프필케톤 1,1-디메톡시메탄 메틸테트라히드로푸란 2,2-디메톡시프로판 석유에테르 이소옥탄 트리클로로아세트산 이소프로필에테르 트리플루오로아세트산 5. 용어의 정의.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 449,
+      "type": "sentence",
+      "section": "4.4 충분한 독성학적 자료가 없는 용매",
+      "path": null,
+      "ko_txt": "1. 유전독성이 있는 발암물질(genotoxic carcinogens) : 유전자나 염색체에 영향을 주는 발암성 물질 2. 최소작용량(lowest-observed effect level, LOEL) : 사람이나 동물에게 노출시 어떤 작용의 발현빈도 나 정도를 생물학적으로 유의하게 증가시키는 최소 용량 3. 변형계수(modifying factor) : 독성학자의 전문적인 판단에 의해 정해지고 실제 자료를 사람의 안전 성에 외삽하기 위한 계수 4. 신경독성(neurotoxicity) : 신경계에 유해한 작용을 일으킬 수 있는 물질의 성질 5. 최대무작용량(no-observed-effect level, NOEL) : 사람이나 동물에 노출시 어떤 작용의 발현 빈도나 정도를 생물학적으로 유의하게 증가시키지 않는 최대 용량 6. 1일노출허용량(permitted daily exposure, PDE) : 의약품에서 하루에 섭취가 허용되는 잔류용매의 최대량 7. 가역적 독성(reversible toxicity) : 어떤 물질에 노출되면 나타나고 노출이 끝나면 사라지는 유해작용 8. 사람에 있어서 발암성이 강하게 의심되는 물질 (strongly suspected human carcinogen) : 사람에 있어서 역학적으로 발암성의 증거는 없지만 유전독성 자료가 양성이고 설치류에 있어 명백한 발암성 이 있는 물질 9. 태자독성(teratogenicity) : 임신 중 그 물질을 투여하는 경우 태아에 형태학적 이상을 일으키는 성질 부록 1. 가이드라인에 포함된 용매의 목록 용매명 별 명 분류 아세트산 Ethanoic acid 분류 3 아세톤 2-Propanone ; Propan-2-one 분류 3 아세토니트릴 분류 2 아니솔 Methoxybenzene 분류 3 벤젠 Benzol 분류 1 1-부탄올 n-Butyl alcohol ; Butan-1-ol 분류 3 2-부탄올 sec-Butyl alcohol ; Butan-2-ol 분류 3 아세트산n-부틸 Acetic acid butyl ester 분류 3 t-부틸메틸에테르 2-Methoxy-2-methyl-propane 분류 3 사염화탄소 Tetrachloromethane 분류 1 클로로벤젠 분류 2 클로로포름 Trichloromethane 분류 2 크멘 Isopropylbenzene ; (1-Methyl)ethylbenzene 분류 2 시클로헥산 Hexamethylene 분류 2 sym-Dichloroethane ; Ethylene dichloride; 1,2-디클로로에탄 분류 1 Ethylene chloride 1,1-디클로로에텐 1, 1-Dichloroethylene ; Vinylidene chloride 분류 1 1,2-디클로로에텐 1, 2-Dichloroethylene ; Acetylenedichloride 분류 2 디클로로메탄 Methylene chloride 분류 2 Ethyleneglycol dimethyl ether ; Monoglyme ; 1,2 -디메톡시에탄 분류 2 Dimethyl Cellosolve N, N-디메틸아세트아미드 DMA 분류 2 N, N-디메틸포름아미드 DMF 분류 2 디메틸설폭시드 Methylsulfinylmethane ; Methyl sulfoxide ; DMSO 분류 3 1,4-디옥산 p-Dioxane ; [1.4] Dioxane 분류 2 에탄올 Ethyl alcohol 분류 3 2-에톡시에탄올 Cellosolve 분류 2 아세트산에틸 Acetic acid ethyl ester 분류 3 에틸렌글리콜 1,2-Dihydroxyethane ; 1.2-Ethanediol 분류 2 디에틸에테르 Diethyl ether ; Ethoxyethane; 1.1'-Oxybisethane 분류 3 포름산에틸 Formic acid ethyl ester 분류 3 포름아미드 Methanamide 분류 2 포름산 분류 3 헵탄 n-Heptane 분류 3 용매명 별 명 분류 헥산 n-Hexane 분류 2 아세트산이소부틸 Acetic acid isobutyl ester 분류 3 아세트산이소프로필 Acetic acid isopropyl ester 분류 3 메탄올 Methyl alcohol 분류 2 2-메톡시에탄올 Methyl Cellosolve 분류 2 아세트산메틸 Acetic acid methyl ester 분류 3 Isoamyl alcohol ; Isopentyl alcohol ; 3-메틸-1-부탄올 분류 3 3-Methylbutan-1-ol 메틸부틸케톤 2-Hexanone ; Hexan-2-one 분류 2 메틸시클로헥산 Cyclohexylmethane 분류 2 메틸에틸케톤 2-Butanone ; MEK ; Butan-2-one 분류 3 4-Methylpentan-2-one ; 4-Methyl-2-pentanone ; 메틸이소부틸케톤 분류 3 MIBK 2-메틸-1-프로판올 Isobutyl alcohol ; 2-Methylpropan-1-ol 분류 3 1-Methylpyrrolidin-2-one ; N-메틸피롤리돈 분류 2 1-Methyl-2-pyrrolidinone 니트로메탄 분류 2 펜탄 n-Pentane 분류 3 1-펜탄올 Amyl alcohol ; Pentan-1-ol ; Pentyl alcohol 분류 3 1-프로판올 Propan-1-ol ; Propyl alcohol 분류 3 2-프로판올 Propan-2-ol ; Isopropyl alcohol 분류 3 아세트산프로필 Acetic acid propyl ester 분류 3 피리딘 분류 2 설폴란 Tetrahydrothiophene 1.1-dioxide 분류 2 테트라히드로푸란 Tetramethylene oxide ; Oxacyclopentane 분류 2 테트랄린 1,2,3,4-Tetrahydro-naphthalene 분류 2 톨루엔 Methylbenzene 분류 2 1, 1, 1- 트리클로로에탄 Methylchloroform 분류 1 1, 1, 2- 트리클로로에텐 Trichloroethene 분류 2 자일렌주) Dimethybenzene ; Xylol 분류 2 주) 일반적으로 17% 에틸벤젠을 함유하는 60% m-자일렌, 14% p-자일렌, 9% o-자일렌 부록 2. 부가적인 배경.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 450,
+      "type": "sentence",
+      "section": "2.1 휘발성 유기 용매의 환경 규제",
+      "path": null,
+      "ko_txt": "의약품의 제조에 사용되는 일부 잔류용매는 환경보건기준 (EHC, Environmental Health Criteria)의 모노 그래프와 통합위해정보시스템(IRIS, Integrated Risk Information System)에 독성 화학물질로 수재되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 451,
+      "type": "sentence",
+      "section": "2.1 휘발성 유기 용매의 환경 규제",
+      "path": null,
+      "ko_txt": "국제 화학물질 안전성 프로그램 (IPCS, International Programme on Chemical Safety)과 미국 환 경청(US EPA) 및 미국 식약청(US FDA) 같은 기구의 활동 목적 중에는 허용 노출수준을 결정하는 것이 포함되어 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 452,
+      "type": "sentence",
+      "section": "2.1 휘발성 유기 용매의 환경 규제",
+      "path": null,
+      "ko_txt": "최종목표는 화학물질이 장기간 환경에 노출되었을 때 유발될 수 있는 유해한 효과로부터 사람의 건강과 환경을 보호하는 데에 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 453,
+      "type": "sentence",
+      "section": "2.1 휘발성 유기 용매의 환경 규제",
+      "path": null,
+      "ko_txt": "최대안전노출한계(maximum safe exposure limits)를 설정할 때는 일반적으로 장기독성시험자료를 바탕으로 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 454,
+      "type": "sentence",
+      "section": "2.1 휘발성 유기 용매의 환경 규제",
+      "path": null,
+      "ko_txt": "장기독성시험자료를 활용할 수 없는 경우에는 짧은 기간의 독성시험자료에 보다 큰 안전계수(safety factor)를 이용하는 등 변경을 하여 이용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 455,
+      "type": "sentence",
+      "section": "2.1 휘발성 유기 용매의 환경 규제",
+      "path": null,
+      "ko_txt": "이러한 환경규제에 관한 문서에 기재되어 있는 접근 법은 일상적인 환경(예 : 대기, 식품, 음용수 기타 매체 등)에서 일반인의 장기간 또는 일생에 걸친 노출 을 주로 고려한 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 456,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "이 가이드라인의 노출한계(exposure limit)는 EHC와 IRIS의 모노그래프에서 서술된 방법론과 독성 자료 에 의하여 설정된 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 457,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "그러나, 노출한계 설정시 의약품의 합성이나 제제화 공정에서 사용되는 잔류 용매의 특수성에 대한 다음과 같은 몇가지 특수한 전제를 고려해야한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 458,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "1) 일반인이 아닌 환자가 질병의 치료 또는 감염․질병예방 목적으로 의약품을 사용한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 459,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "2) 환자가 대부분의 의약품에 일생동안 노출되는 것은 아니지만, 사람의 건강에 대한 위해성을 줄이기 위해 일생동안 노출된다는 가설을 적용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 460,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "3) 잔류용매는 의약품 제조시 피할 수 없는 요소이고 때로는 제제의 일부분이 된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 461,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "4) 잔류용매는 예외적인 상황을 제외하고는 권고된 수준을 초과해서는 아니된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 462,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "5) 잔류용매의 허용수준 결정시 사용되는 독성학적 시험자료는 경제협력개발기구(OECD), 미국환경청 (US EPA), 미국 식약청(US FDA) Red Book에 기재되어 있는 것과 같은 적절한 프로토콜에 기초하여 시험한 것이어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 463,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "부록 3. 노출한계 설정 방법 분류 1 발암성 용매의 위해성 평가 방법으로는 Gaylor - Kodell 방법(Gaylor, D. W. and Kodell, R. L. : 독성 물질의 저용량 평가에 대한 Linear Interpolation algorithm J Environ. Pathology, 4, 305, 1980) 이 적절하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 464,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "신뢰할 수 있는 발암성 자료가 있는 경우에만, 노출한계 설정을 위해 수학적 모델을 이용 한 외삽(extrapolation)을 적용하여야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 465,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "분류1용매의 노출한계는 최대무작용량(NOEL)에 큰 안전계수 (예 : 10,000 ~100,000)를 사용하여 결정할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 466,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "이 용매의 검출과 정량은 필요시 최신분석기술에.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 467,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "따라 시험한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 468,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "이 가이드라인에서 분류 용매의 허용노출 수준은 미국약전.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 469,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "포럼(Pharmacopeial Forum, Nov-Dec1989)에서 제시한 ‘의약품 중 노출한계 설정 절차’와 인체에 대한 화학물질의 위해성 평가를 위 해 IPCS (Environmental Health Criteria170, WHO, 1994)에서 채택한 방법에 따라 1일 노출 허용량 (PDE)을 계산하여 설정되었다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 470,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "이 방법은 미국환경청(US EPA)(IRIS), 미국식약청(US FDA)(Red Book) 및 다른 기관에 의해 사용되는 것과 유사하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 471,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "1일 노출 허용량(PDE)의 산출근거에 대한 이해를 돕기 위하여 1일 노출 허용량(PDE) 계산법을 이 가이드라인에 기술하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 472,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "이 가이드라인 중 표 2(의약품 중 분류 2용매)의 1일 노출 허용량(PDE)을 그대로 사용하는 경우에는 이 방법으로 다시 계산할 필요는 없다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 473,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "1일 노출 허용량(PDE)은 다음과 같이 가장 적절한 동물시험에서 얻은 최대무작용량(NOEL) 또는 최소작 일노출허용량PDE  F× F× F× F× F NOEL × 사람의체중WeightAdjustment (1) 용량(LOEL)으로부터 얻어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 474,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "1일 노출 허용량(PDE)은 NOEL로부터 계산하는 것이 바람직하며, 만약 NOEL이 없는 경우 LOEL을 사 용할 수 있다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 475,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "이 가이드라인 상에 제시된 변형계수(modified factor)는 동물시험 상의 수치를 사람에게 외삽하기 위한 것으로서, 환경보건기준(EHC, Environmental Health Criteria 170, WHO, Geneva, 1994) 의 “불확실성 계수(uncertainty factor)”와 미국약전포럼의 “변형계수(modifying factor)” 또는 “안전계수 (safety factor)”와 같은 종류이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 476,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "100% “전신노출”에 대한 가정은 투여경로와 관계없이 모든 계산에서 사용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 477,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "변형계수는 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 478,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "F1은 종간에 외삽을 하기 위한 계수이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 479,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "랫트에서 사람으로 외삽하는 경우 F1 = 5 마우스에서 사람으로 외삽하는 경우 F1 = 12 개에서 사람으로 외삽하는 경우 F1 = 2 토끼에서 사람으로 외삽하는 경우 F1 = 2.5 원숭이에서 사람으로 외삽하는 경우 F1 = 3 그 외의 동물에서 사람으로 외삽하는 경우 F1 = 10 F1은 시험에 사용된 동물과 사람의 비표면적(체표면적 : 체중의 비)을 고려하여 설정하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 480,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "체표면적 (S)는 다음과 같이 계산된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 481,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "S = kM0.67 (2) M은 체중이며 상수 k는 10이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 482,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "체중은 다음의 표 1에서 주어진 수치를 적용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 483,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "F2는 개인간의 편차를 고려한 계수로 일반적으로 모든 유기용매는 계수 10이 주어진다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 484,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "이 가이드라인 에서도 일괄하여 10을 이용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 485,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "F3는 독성시험의 기간이 짧은 경우 적용하는 변수이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 486,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "적어도 수명의 절반(설치류 또는 토끼:1년, 고양이, 개 및 원숭이 : 7년)의 시험인 경우 F3=1 시험기간이 전체 기관형성 기간을 포함하는 생식독성시험인 경우 F3=1 시험기간이 설치류 6개월 또는 비설치류 3.5년 시험인 경우 F3=2 시험기간이 설치류 3개월 또는 비설치류 2년 시험인 경우 F3=5 시험기간이 보다 단기간인 경우 F3=10 모든 예에서 시험기간이 위의 기준시간 사이에 있을 경우에는 높은 쪽의 계수를 이용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 487,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "예를 들 어 설치류의 시험기간이 9개월인 경우에는 계수2를 이용하였다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 488,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "F4는 중대한 독성, 예를 들어 유전독성을 동반하지 않는 발암성, 신경독성 또는 최기형성의 경우에 적 용하는 계수이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 489,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "생식독성시험에서는 다음의 계수가 이용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 490,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "모체독성을 동반하는 태자독성에는 F4=1 모체독성을 동반하지 않는 태자독성에는 F4=5 모체독성을 동반하는 최기형성에는 F4=5 모체독성을 동반하지 않는 최기형성에는 F4=10 F5는 NOEL이 확립되어 있지 않은 경우에 적용하는 변수이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 491,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "LOEL만 이용가능한 경우에는 독성의 심 각한 정도에 따라 계수는 최대 10까지의 계수가 이용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 492,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "사람의 체중(weight adjustment)은 임의로 성인 남녀의 체중을 50kg이라 가정한 것이다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 493,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "이렇게 상대 적으로 낮은 체중을 사용하면 이와 같은 유형의 계산식에서 자주 이용되는 표준체중(60kg, 또는 70kg)에 비하여 안전계수를 추가적으로 제공해 준다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 494,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "체중이 50 kg미만인 성인 환자도 있으므로 이 환자에 대해 서는 1일노출허용량(PDE) 결정시 사용된 안전계수 중에 모두 포함되어 있다고 간주된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 495,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "소아용으로 제 조된 의약품 중에 용매가 잔류하고 있는 경우에는 보다 낮은 체중으로 조정하는 것이 적절하다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 496,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "(1)식의 적용 예로서, pharmeuropa, Vol. 9, No.1-supplement, April 1997, page S24에 기재되어있는 마우스를 이용한 아세토니트릴의 독성시험을 예로 들면 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 497,
+      "type": "sentence",
+      "section": "2.2 의약품 중 잔류용매",
+      "path": null,
+      "ko_txt": "NOEL은 50.7mg/kg/일로 산출되었.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 498,
+      "type": "sentence",
+      "section": "다. 이 시험에서 아세토니트릴의 1일노출허용량(PDE)은 다음과 같이 계산된다.",
+      "path": null,
+      "ko_txt": "1일노출허용량(PDE) = × × × ×  mgkgday × kg =4.22mg/일 이 예에서 마우스에서 사람으로 외삽이므로 F1=12 사람간의 개체차로서 F2=10 시험기간이 13주간이므로 F3=5 중대한 독성이 나타나지 않았기 때문에 F4=1 NOEL이 산출되었으므로 F5=1 표 1. 이 가이드라인에서 계산에 사용된 값.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 499,
+      "type": "sentence",
+      "section": "다. 이 시험에서 아세토니트릴의 1일노출허용량(PDE)은 다음과 같이 계산된다.",
+      "path": null,
+      "ko_txt": "랫트의 체중 425 g 임신한 랫트의 체중 330 g 마우스의 체중 28 g 임신한 마우스의 체중 30 g 기니픽의 체중 500 g 붉은털 원숭이의 체중 2.5kg 토끼의 체중(임신, 비임신) 4kg 비글견의 체중 11.5kg 랫트의 호흡량 290L/일 마우스의 호흡량 43 L/일 토끼 호흡량 1,440 L/일 기니픽의 호흡량 430 L/일 사람의 호흡량 28,800 L/일 개의 호흡량 9,000 L/일 원숭이의 호흡량 1,150 L/일 마우스의 물 섭취량 5mL/일 랫트의 물 섭취량 30mL/일 랫트의 사료 섭취량 30g/일.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 500,
+      "type": "sentence",
+      "section": "다. 이 시험에서 아세토니트릴의 1일노출허용량(PDE)은 다음과 같이 계산된다.",
+      "path": null,
+      "ko_txt": "흡입독성시험에서 사용된 기체 농도를 ppm 단위에서 mg/L 또는 mg/m3의 단위로 변환하기 위해서는 이상기체방정식, PV = nRT이 사용된다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 501,
+      "type": "sentence",
+      "section": "다. 이 시험에서 아세토니트릴의 1일노출허용량(PDE)은 다음과 같이 계산된다.",
+      "path": null,
+      "ko_txt": "Pharmeuropa, Vol. 9, No. 1, Supplement, April 1997, page S9에 기재된 사염화탄소(carbon tetrachloride, 분자량:153.84)의 흡입에 의한 랫트의 생식독성시험을 예 로 들면 다음과 같다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 502,
+      "type": "sentence",
+      "section": "다. 이 시험에서 아세토니트릴의 1일노출허용량(PDE)은 다음과 같이 계산된다.",
+      "path": null,
+      "ko_txt": "P  × LatmKmol × K × atm × mgmol.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 503,
+      "type": "sentence",
+      "section": "다. 이 시험에서 아세토니트릴의 1일노출허용량(PDE)은 다음과 같이 계산된다.",
+      "path": null,
+      "ko_txt": "mg mgL 1,000 L = 1 m3 의 관계를 이용하여 mg/m3 으로 변환한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 504,
+      "type": "sentence",
+      "section": "다. 이 시험에서 아세토니트릴의 1일노출허용량(PDE)은 다음과 같이 계산된다.",
+      "path": null,
+      "ko_txt": "한약(생약)제제 제조방법 기재요령 (민원인 안내서) 박주영, 김지연, 문현주, 홍정미, 김민경, 이태웅, 황인선, 이규하, 김난영, 류상화, 김민영, 정다현, 주혜진, 최선아, 최보영 발 행 처 식품의약품안전평가원 바이오생약심사부 생약제제과.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

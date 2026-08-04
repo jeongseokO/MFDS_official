@@ -1,0 +1,217 @@
+{
+  "document_id": "kk_cochrane_0020",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000180.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000180.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "엄마의 단시간의 운동에 의한 태아의 생리적 반응 (특히 심장 박동수의 증가)는 종종 기록되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "많은 임신부는 임신 중에 유산소 운동을 하고싶어 하지만 태아에 안좋은 영향을 끼칠까봐 두려워 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "건강한 임산부에 규칙적인 유산소 운동(적어도 주 2˜3 회), 운동 강도의 강화 및 감소, 시간, 빈도수등을 권고했을때 분만 및 임신 결과에 대한 영향을 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "Cochrane Pregnancy and Childbirth Group 's Trials Register(2009년 8월 31일), MEDLINE(1966년 부터 2009년 8월까지), EMBASE(1980년부터 2009년 8월 까지), Conference Papers Index(처음부터 2009년 8월까지)를 검색하고 해당 분야의 연구자와 연락하고 검색한 논문의 참고 문헌 목록을 참고했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "건강한 인산부를 대상으로 처방된 운동 프로그램의 대조 실험.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "2명의 리뷰어가 각자 연구의 질을 평가하고 데이터를 추출했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "더 많은 정보를 얻기 위해 연구 저자들에게 연락을 취했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "1014명의 여성을 포함한 14건의 연구를 대상으로 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "이들 연구는 규모가 작았고 방법론적 질이 낮았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "기초 체력에 대해 보고한 9건의 연구중 6건은 상당한 향상을 보고했지만, 통계의 불일치성과 측량방식의 차이가 결과의 정량적 통합을 하는것을 제한했다. 11건의 연구가 임신 결과에 대해 보고했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "운동에 의해 조산 위험이 증가(위험 대비 1.82,95 % 신뢰 구간(CI) 0.35˜9.57)했지만, 평균 임신 기간(평균 차이 + 0.10,95 % CI ‐0.11˜ + 0.30 주 )에 영향을 미치지 않는다는 결과와 일치하지 않았고 태아 발육에 대한 결과들 또한 일치하지 않았다. 1건의 소규모 연구는 신체적으로 건강한 여성이 임신초기에 운동시간을 늘리고 임신 후반기에 접어드면서 운동시간을 줄인 결과 태반과 아기의 크기가 더 컸다고 보고했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "임신중 규칙적인 유산소 운동은 기초 체력을 보강 (혹은 유지)하는것으로 보인다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "사용 가능한 데이터는 엄마와 아기에게 중요한 효과나 위험이 있다는 것을 결론 내리기에 불충분하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "임신중 유산소 운동에 대한 효과와 부작용을 제대로 평가하고 권고하기 위해서는 더 크고 더 나은 실험 및 연구들이 필요하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "임신 중 정기적인 유산소 운동은 체력을 향상시키는 것으로 보이나 그에 대한 근거는 산모나 아기에게 야기되는 중요한 위험이나 이점을 추론하기에는 불충분하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "유산소 운동은 호흡과 혈액 순환을 자극하는 신체 활동이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "임산부 1014명을 대상으로 한 14건의 시험을 검토 한 결과, 운동량이 많은 운동을 하는 임산부는 일주일에 2˜3회 이상 운동을 함으로써 체력 개선(또는 유지)을 하고 있음을 알게 되었으며, 이들의 임신 기간은 평소 일반적인 활동만을 하는 산모들과 같았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "산모와 아기에게 다른 영향을 미치는 것에 대한 근거가 매우 적다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "검토 된 임상시험은 수영, 정적 사이클링 및 일반 플로어 운동 프로그램과 같은 비 접촉운동을 포함했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "대부분의 임상시험은 소규모였으며 방법론적 질이 부족했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "임신 중 유산소 운동에 대한 효과와 부작용을 제대로 평가하고 권고하기 위해서는 더 크고 더 나은 실험 및 연구들이 필요하다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

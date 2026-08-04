@@ -1,0 +1,289 @@
+{
+  "document_id": "kk_cochrane_0017",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000147",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000147/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "치매는 노화에 따른 Alzheimer's disease (AD)와/또는 뇌혈관계 질환으로 인해 가장 많이 나타나는 증상이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "칼슘은 뇌 기능 조절에 중요한 역할을 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "칼슘 이온은 세포막을 자극하여 세포 내 분자 반응이 나타나게 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "노화에 따른 칼슘 항상성(calcium homoeostasis)의 변화로 피질 기능에 영향을 미칠 가능성이 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "니모디핀은 혈액과 뇌의 벽을 쉽게 통과하는 이소프로필 칼슘 통로 차단제(isopropyl calcium channel blocker)이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "니모디핀의 주요 기능은 세포막에 열려 있는 칼슘 통로의 수를 줄여서, 칼슘 이온이 세포 내로 유입되는 것을 차단하는 일이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "AD와 혈관계 치매 및 불특정 치매 환자들에 대한 니모디핀의 유용성에 대해서는 아직도 논란이 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "치매에 대한 효과가 확실하지는 않지만, 현재 일부 유럽 국가들에서는 인지 장애와 치매에 니모디핀을 많이 처방하고 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "미 확인 질환(unclassified disease)과 AD, 뇌혈관계 질환 및 AD와 뇌혈관계 질환의 혼합형인 주요 하위 질환(subtypes)인 치매 소견(the manifestations of dementia)에 대한 니모디핀의 임상적 효능을 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "우리는 니모디핀이라는 용어를 사용하여 ALOIS ‐ 2010년 3월 26일자 the Cochrane Dementia and Cognitive Improvement Group's Specialized Register를 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "2005년 8월 검색에서 2건의 연구를 확인했으나 제외했다. 2008년 1월의 검색에서는 참고할만한 연구 6건을 확인하여, 연구들의 데이터 해석이 어렵고 본 개정 본 (Pantoni 2005)에 포함되어 있지 않았지만 1건의 연구 만이 메타 분석 포함 기준에 맞았다. 2010년 3월의 최종 검색에서는 본 연구에 포함시킬 새로운 연구를 확인하지 못 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "미 확인 질환 또는 AD, 뇌혈관계 질환 또는 AD와 뇌혈관계 질환이 공동 원인인 치매 환자에게 니모디핀을 1일 이상 투여하여 이를 위약과 비교한 교란 요인이 없는 모든 이중 맹검, 무작위 시험을 선정했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "연구자들이 독립적으로 데이터를 추출하고, 승산비(odds ratio, OR) (95% 신뢰 구간(confidence interval, CI) 또는 평균 차이(average difference) (95% CI)를 측정했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "치료 목적(intention‐to‐treat)과 치료(on‐treatment) 결과 두 가지 모두를 추출했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "니모디핀 90mg/일 및 180mg/일 두 가지 용량을 12주, 24주 및 52주에 걸쳐 투약한 2가지 치료 방법을 테스트한 15건의 시험이 포함되었다. 1건의 시험에는 AD 환자 1명 만이 포함되어 있었고, 10건의 시험에는 뇌혈관계 치매(cerebrovascular dementia, CVD) 환자 만을, 3건의 시험에는 AD, CVD 및 혼합형 환자들이 포함되어 있었다. 9건의 시험으로부터 입수 한 결과 데이터에서는 인지적 기능, 일상 생활 행동, 전체적인 임상적 상태, 안전 및 내성을 다루고 있었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "환자가 받은 진단에 관계없이 모든 시험에서 나온 데이터를 통합하여, 본 연구에서는 SCAG 측정치 (WMD ‐7.59, 95% CI ‐9.87 to ‐5.31, P<0.00001), clinical global impression (WMD ‐0.87, 95% CI ‐1.07 to ‐0.67, P<0.00001) 및 인지적 기능 (SMD 0.61, 95% CI 0.42 ‐ 0.81, P<0.00001)에 대해서는 위약보다 니모디핀 (12주 시점에서 90mg/일)과 관련된 편익이 있었으나, 일상 생활 행동을 평가한 측정치에서는 그렇지 않았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "AD에 관한 시험과 VD에 관한 시험을 별개로 통합하면, 12주 시점에서 니모디핀을 90mg/일 용량으로 투입하면 비슷한 유의한 결과를 확인할 수 있었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "시험들에서의 중도 탈락율이 낮았고, 치료 그룹 및 위약 그룹에게 비슷한 비율로 영향을 미쳤다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "니모디핀의 부작용은 위약과 관련된 부작용과 비슷하게 낮은 가운데 내성이 좋다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "뇌혈관계 부작용, 혈액 문제로 인한 부작용, 니모디핀보다는 위약과 관련된 부작용이 약간 많았으나, 자율 부작용(adverse autonomic events)은 위약 그룹보다는 니모디핀 그룹에서 약간 많았다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "니모디핀은 미 확인 질환, AD, 뇌혈관계 질환 또는 AD와 뇌혈관계 질환의 혼합이 원인인 치매 환자 치료에 편익을 줄 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "니모디핀은 부작용이 적으며 내성이 강한 것 같다. 500명 이상의 환자가 참가했지만, 일부 시험에서는 데이터를 입수할 수 없었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "모든 시험에 참가한 각 환자의 데이터를 메타 분석해야 한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "치매는 만성 질환이며, 검토한 시험에서 제시된 니모디핀의 단기적 편익이 장기적인 항 치매제로 니모디핀을 사용하는 방법을 정당화하지는 않는다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "새로운 연구들은 장기적인 결과에 초점을 맞추어야 한다",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "칼슘 통로 차단제인 니모디핀의 효과는 치매, 특히 노인에게 가장 흔히 나타나는 치매 형태인 AD와 다발경색 치매(multi‐infarct dementia) 치료를 위한 무작위 대조 시험에서 테스트 되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "니모디핀을 사용하는 이유는 칼슘 이온이 신경세포에 유입되는 것을 차단하고, 혈관 확장을 통해 혈액이 뇌로 흘러가는 것을 개선하기 때문이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "본 연구에서는 주로 인지적 기능과 전반적 인상(global impression)을 측정하여 니모디핀의 퇴행성, 다발경색 치매와 혼합형 치매 환자에 대한 단기적 편익을 일부 확인했으나, 일상 생활 행동에 미치는 편익은 확인하지 못 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "니모디핀의 부작용은 위약과 관련된 부작용과 비슷하게 낮은 가운데 내성이 좋다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}

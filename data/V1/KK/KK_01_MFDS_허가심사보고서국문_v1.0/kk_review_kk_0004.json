@@ -1,0 +1,3192 @@
+{
+  "document_id": "kk_review_kk_0004",
+  "meta": {
+    "set": "KK",
+    "source_folder": "6",
+    "source_code": "review_kk",
+    "source_name": "의약품허가심사보고서(KK)",
+    "orig_doc_id": "(붙임) 정보공개_대한적십자사동부혈액원_대한적십자사서울동부혈액원세척혈소판(세척혈소판)_품목허가_20180300865",
+    "category_l1": "규제·지침",
+    "category_l2": "허가·심사",
+    "category_l3": "허가심사보고서",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": 235
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": null,
+      "path": "접수.접수일자",
+      "ko_txt": "2018.12.20.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": null,
+      "path": "접수.신청구분",
+      "ko_txt": "자료제출의약품(■최초,□변경)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 2
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": null,
+      "path": "접수.신청인(회사명)",
+      "ko_txt": "대한적십자사동부혈액원",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.제품명",
+      "ko_txt": "대한적십자사서울동부혈액원세척혈소판(세척혈소판)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.주성분명(원료의약품등록번호)",
+      "ko_txt": "세척혈소판",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 5
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.제조수입품목",
+      "ko_txt": "제조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 6
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.제형함량.제형",
+      "ko_txt": "연노란색의 액이 무색투명한 혈액백에 든 주사제",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": "제품.제형함량.함량",
+      "ko_txt": "100밀리리터 중 세척혈소판 100밀리리터",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 8
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.효능효과",
+      "ko_txt": "붙임",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.효능효과",
+      "ko_txt": "1.참조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.용법용량",
+      "ko_txt": "1. 수혈세트를 사용하여 정맥으로 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.용법용량",
+      "ko_txt": "2. 사용량은 임상소견과 원인에 따라 결정된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": "신청사항.용법용량",
+      "ko_txt": "3. 세척 혈소판은 대개 재료로 사용된 백혈구여과제거성분채혈혈소판의 2/3이상에 해당하는 혈소판(2.0×1011개 이상)이 들어 있고, 부유액 200∼250mL정도가 포함된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.허가일자",
+      "ko_txt": "2020.03.05.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 11
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.효능효과",
+      "ko_txt": "혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.효능효과",
+      "ko_txt": "특히 초과민반응(anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방(예, IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우)하고자 할 때, 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는 환자에서 고칼륨혈증을 피해야 할 때 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.용법용량",
+      "ko_txt": "1. 수혈세트를 사용하여 정맥으로 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 13
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.용법용량",
+      "ko_txt": "2. 사용량은 임상소견과 원인에 따라 결정된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 13
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.용법용량",
+      "ko_txt": "3. 세척 혈소판은 대개 재료로 사용된 백혈구여과제거성분채혈혈소판의 2/3이상에 해당하는 혈소판(2.0×1011개 이상)이 들어 있고, 부유액 200∼250mL정도가 포함된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 13
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.사용상의 주의사항",
+      "ko_txt": "1. 혈액형을 확인하고, 변색 및 용혈, 용기 파손 등의 이상 유무를 확인한 후 수혈해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 14
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.사용상의 주의사항",
+      "ko_txt": "2. 세척 후에는 세균 오염의 가능성 때문에 제조 후 4 시간 내에 사용해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 14
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.사용상의 주의사항",
+      "ko_txt": "3. 수혈 시에는 용혈수혈반응(hemolytic transfusion reactions)의 위험이 따르며 감염, 바이러스 감염증 같은 혈액 매개 감염과 알레르기성 또는 발열성 수혈 부작용 등이 초래될 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 14
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.사용상의 주의사항",
+      "ko_txt": "또한, 너무 급히 주입하면 순환혈액량 과부하와 증가된 혈액량에 의한 다른 합병증이 유발될 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 14
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.저장방법 및 사용기간",
+      "ko_txt": "밀봉용기, 20~24 ℃ 보관(보관 시 교반 필요), 제조 후 4 시간",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 15
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.허가조건",
+      "ko_txt": "1. 국내 헌혈 혈액만을 사용하여 제조할 것",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 16
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": null,
+      "path": "최종허가사항.허가조건",
+      "ko_txt": "2. 상기 허가조건을 정당한 사유없이 이행하지 않을 경우 동 허가를 취소할 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 16
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.허가부서",
+      "ko_txt": "융복합혁신제품지원단",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 17
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.허가담당자",
+      "ko_txt": "최선림,남경탁,오정원",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 18
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.심사부서",
+      "ko_txt": "생물제제과",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 19
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.심사담당자",
+      "ko_txt": "이유림,임재현,백선영",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 20
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.GMP 평가부서",
+      "ko_txt": "허가총괄팀",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 21
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": null,
+      "path": "부서.GMP 담당자",
+      "ko_txt": "해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 22
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.안전성유효성심사결과",
+      "ko_txt": "붙임",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.안전성유효성심사결과",
+      "ko_txt": "1. 참조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.효능효과",
+      "ko_txt": "혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 2
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.효능효과",
+      "ko_txt": "특히 초과민반응(anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방(예, IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우)하고자 할 때, 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는 환자에서 고칼륨혈증을 피해야 할 때 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 2
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.효능효과",
+      "ko_txt": "수혈 후 두드러기, 알레르기 반응, 아나필락시스 반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이 있는 환자에게 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 2
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.용법용량",
+      "ko_txt": "수혈세트를 사용하여 정맥으로 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.용법용량",
+      "ko_txt": "사용량은 임상소견과 원인에 따라 결정된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.용법용량",
+      "ko_txt": "세척 혈소판은 대개 재료로 사용된 백혈구여과제거성분채혈혈소판의 2/3이상에 해당하는 혈소판(2.0×10^11개 이상)이 들어 있고, 부유액 200∼250mL정도가 포함된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.사용상주의사항",
+      "ko_txt": "혈액형을 확인하고, 변색 및 용혈, 용기 파손 등의 이상 유무를 확인한 후 수혈해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.사용상주의사항",
+      "ko_txt": "세척 후에는 세균 오염의 가능성 때문에 제조 후 4시간 내에 사용해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.사용상주의사항",
+      "ko_txt": "수혈 시에는 용혈수혈반응(hemolytic transfusion reactions)의 위험이 따르며 감염, 바이러스 감염증 같은 혈액 매개 감염과 알레르기성 또는 발열성 수혈 부작용 등이 초래될 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.사용상주의사항",
+      "ko_txt": "또한, 너무 급히 주입하면 순환혈액량 과부하와 증가된 혈액량에 의한 다른 합병증이 유발될 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.최종허가사항.저장방법 및 사용기간",
+      "ko_txt": "밀봉용기, 20~24 ℃ 보관(보관 시 교반 필요), 제조 후 4 시간",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 5
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.원료의약품등록(DMF)사항",
+      "ko_txt": "세척혈소판",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 6
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.허가조건",
+      "ko_txt": "국내 헌혈 혈액만을 사용하여 제조할 것. 상기 허가조건을 정당한 사유없이 이행하지 않을 경우 동 허가를 취소할 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.개량신약지정여부",
+      "ko_txt": "해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 8
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.중앙약사심의위원회자문결과",
+      "ko_txt": "해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": null,
+      "path": "허가심사개요.사전검토",
+      "ko_txt": "해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[0]",
+      "ko_txt": "의약품 품목 허가보고서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 1
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[1]",
+      "ko_txt": "*의약품제조및품질관리실시상황평가에필요한자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 2
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[2]",
+      "ko_txt": "1.2최종 허가사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[2]",
+      "ko_txt": "○효능·효과",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 3
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[3]",
+      "ko_txt": "1. 혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[3]",
+      "ko_txt": "특히 초과민반응(anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방(예, IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우)하고자 할 때, 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는 환자에서 고칼륨혈증을 피해야 할 때 사용한다",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[3]",
+      "ko_txt": "2. 수혈 후 두드러기, 알레르기 반응, 아나필락시스 반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이 있는 환자에게 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 4
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[4]",
+      "ko_txt": "○용법·용량",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 5
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[5]",
+      "ko_txt": "1. 수혈세트를 사용하여 정맥으로 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 6
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[5]",
+      "ko_txt": "2. 사용량은 임상소견과 원인에 따라 결정된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 6
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[5]",
+      "ko_txt": "3. 세척 혈소판은 대개 재료로 사용된 백혈구여과제거성분채혈혈소판의 2/3이상에 해당하는 혈소판(2.0×1011개 이상)이 들어 있고, 부유액 200∼250mL정도가 포함된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 6
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[6]",
+      "ko_txt": "○사용상의 주의사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 7
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[7]",
+      "ko_txt": "1. 혈액형을 확인하고, 변색 및 용혈, 용기 파손 등의 이상 유무를 확인한 후 수혈해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 8
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[8]",
+      "ko_txt": "2. 세척 후에는 세균 오염의 가능성 때문에 제조 후 4 시간 내에 사용해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 9
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[9]",
+      "ko_txt": "3. 수혈 시에는 용혈수혈반응(hemolytic transfusion reactions)의 위험이 따르며 감염, 바이러스 감염증 같은 혈액 매개 감염과 알레르기성 또는 발열성 수혈 부작용 등이 초래될 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 10
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[10]",
+      "ko_txt": "또한, 너무 급히 주입하면 순환혈액량 과부하와 증가된 혈액량에 의한 다른 합병증이 유발될 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 11
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[11]",
+      "ko_txt": "○저장방법 및 사용기간밀봉용기, 20~24 ℃ 보관(보관 시 교반 필요), 제조 후 4 시간",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 12
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[12]",
+      "ko_txt": "1.3허가조건",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 13
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[13]",
+      "ko_txt": "1. 국내 헌혈 혈액만을 사용하여 제조할 것",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 14
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[13]",
+      "ko_txt": "2. 상기 허가조건을 정당한 사유없이 이행하지 않을 경우 동 허가를 취소할 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 14
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[14]",
+      "ko_txt": "1.4개량생물의약품 지정 여부(해당하는 경우)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 15
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[14]",
+      "ko_txt": "○해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 15
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[15]",
+      "ko_txt": "1.5중앙약사심의위원회 자문 결과(해당하는 경우)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 16
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[15]",
+      "ko_txt": "○해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 16
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[16]",
+      "ko_txt": "1.6사전검토(해당하는 경우)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 17
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[16]",
+      "ko_txt": "○해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 17
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[17]",
+      "ko_txt": "1.7검토이력",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 18
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[18]",
+      "ko_txt": "【제출자료목록】",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 19
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[19]",
+      "ko_txt": "○ 관련규정 : 「생물학적제제 등의 품목허가·심사규정」(식약처 고시)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 20
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[20]",
+      "ko_txt": "[별표1] II. 자료제출의약품,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 21
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[20]",
+      "ko_txt": "9. 혈액제제자 료 번 호 주1)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 21
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[21]",
+      "ko_txt": "1. 기원 또는 발견 및 개발경위에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 22
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "2. 구조결정, 물리화학적 성질에 관한 자료(품질에 관한 자료) 가. 원료의약품에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(1) 구조 또는 구성성분등에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(2) 물리화학적·생물학적 성질에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(3) 제조방법에 관한 자료(제조 중에 사용되는 물질에 대한 자료 포함)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(4) 기준 및 시험방법",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(5) 기준 및 시험방법에 관한 근거자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(6) 시험성적에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(7) 표준품의 규격, 관리방법 및 설정근거에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(8) 용기 및 포장에 관한 자료나. 완제의약품에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(1) 원료약품 및 그 분량에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(2) 제조방법에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(3) 기준 및 시험방법",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(4) 기준 및 시험방법에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(5) 시험성적에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(6) 표준품의 규격, 관리방법 및 설정근거에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[22]",
+      "ko_txt": "(7) 용기 및 포장에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 23
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[23]",
+      "ko_txt": "3. 안정성에 관한 자료가. 원료의약품에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 24
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[23]",
+      "ko_txt": "(1) 장기보존시험나. 완제의약품에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 24
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[23]",
+      "ko_txt": "(1) 장기보존시험",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 24
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[24]",
+      "ko_txt": "7. 국내외에서의 사용 및 허가 현황 등에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 25
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[25]",
+      "ko_txt": "8. 기타 당해 의약품의 특성 등에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 26
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[26]",
+      "ko_txt": "•「생물학적제제 등의 품목허가·심사 규정」에 따른 자료제출범위 및 요건에 만족하는 자료가 제출되었으며그 자료를 검토하였을 때 타당함",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 27
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[27]",
+      "ko_txt": "1. 기원 또는 발견 및 개발경위에 관한 자료 1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 28
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[27]",
+      "ko_txt": "1. 제품정보",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 28
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[27]",
+      "ko_txt": "•제품명 : 대한적십자사 서울동부혈액원 세척혈소판(세척혈소판)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 28
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[27]",
+      "ko_txt": "•약리작용에 따른 분류(Pharmacological class): 634 혈액제제류",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 28
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[27]",
+      "ko_txt": "•약리작용 기전: 혈소판 결핍 환자에게 수혈 보충요법, 특히 혈장단백을 생리식염수로 세척하여 제거함으로써",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 28
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[28]",
+      "ko_txt": "과민반응 등 혈장단백에 의한 수혈부작용이 있는 환자에게 사용",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 29
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[28]",
+      "ko_txt": "•기타 약물의 간단한 설명: 백혈구여과제거성분채혈혈소판을 생리식염수 등으로 수 회 세척하여 제조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 29
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[28]",
+      "ko_txt": "•당해 의약품의 간단한 특장점(효능효과) -혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 29
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[28]",
+      "ko_txt": "특히 초과민반응 (anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방(예, IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우)하고자 할 때, 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는환자에서 고칼륨혈증을 피해야 할 때 사용 -수혈 후 두드러기, 알레르기 반응, 아나필락시스 반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 29
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[29]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 30
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[29]",
+      "ko_txt": "2. 기원 및 개발경위",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 30
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[29]",
+      "ko_txt": "•세척혈소판을 혈액원에서 제조하여 적시에 공급하면 그동안 제조에 어려움을 겪었던 의료기관에서 보다 편리하게 세척혈소판을 사용할 수 있어 아나필락시반응과 같은 수혈부작용의 기왕력이 있는 환자의 치료에 크게도움을 줄 수 있을 것으로 사료됨",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 30
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[29]",
+      "ko_txt": "•신청 제품은 기허가 제품인 ‘대한적십자사 서울동부혈액원 백혈구여과제거성분채혈혈소판’을 혈액제제 제조용 원심분리기 등을 이용하여 멸균생리식염수로 2회 세척한 후 재부유시켜 제조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 30
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[30]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 31
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[30]",
+      "ko_txt": "3. 신청 적응증 개요 및 치료법",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 31
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[30]",
+      "ko_txt": "•혈소판제제는 선천적 또는 후천적 원인에 의해 발생하는 혈소판 감소증이나 혈소판 기능 장애를 가진 환자에게 혈소판을 보충하는 요법을 통해 이러한 환자의 출혈을 예방하거나 치료하는데 사용됨",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 31
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[30]",
+      "ko_txt": "•세척혈소판은 수혈 후 두드러기, 알레르기반응, 아나필락시반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이 있는 환자에게 사용하는 혈액제제로 혈액관리법에서 지정한 혈액관련의약품*임 *혈액관리법 시행규칙 제4조 및 [별표 2] 혈액관련의약품",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 31
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[31]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 32
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[31]",
+      "ko_txt": "4. 신청품목과 관련된 중요한 안전성 쟁점",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 32
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[31]",
+      "ko_txt": "•본 품목은 기 허가품목인 백혈구여과제거성분채혈혈소판을 생리식염수로 세척 시 보존제가 제거되었고, 상온보관으로 냉장 또는 냉동 보관하는 다른 혈액제제에 비해 보관 중 균의 증식이 발생할 수 있는 가능성 등 안전성에 영향을 미칠 수 있음.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 32
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[32]",
+      "ko_txt": "•보존기간은 제조 후 4시간으로 짧으며, 「혈액관리법 시행규칙」[별표 2의2] 혈액제제의 보존기준에 명시되어",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 33
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[33]",
+      "ko_txt": "1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 34
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[33]",
+      "ko_txt": "5. 신청품목의 허가신청 전 민원이력에 관한 사항",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 34
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[33]",
+      "ko_txt": "•해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 34
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[34]",
+      "ko_txt": "2. 구조결정·물리화학적 성질 및 생물학적 성질에 관한 자료(품질에 관한 자료)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 35
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[35]",
+      "ko_txt": "2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 36
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[35]",
+      "ko_txt": "1. 원료의약품(Drug substance)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 36
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[36]",
+      "ko_txt": "2.1.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 37
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[36]",
+      "ko_txt": "1. 일반정보",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 37
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[36]",
+      "ko_txt": "•명칭 : 세척혈소판(Platelets, Pheresis, Leukocyte-depleted and Washed)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 37
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[36]",
+      "ko_txt": "•일반명 : 세척혈소판(Platelets, Pheresis, Leukocyte-depleted and Washed)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 37
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[37]",
+      "ko_txt": "2.1.2 원료의약품 시험항목 <완제의약품의 기준 및 시험방법에 따름> □pH □단백질 □무균 □발열성물질 □엔도톡신 □역가 □확인 □기타",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 38
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[38]",
+      "ko_txt": "2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 39
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[38]",
+      "ko_txt": "2. 완제의약품(Drug product)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 39
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[39]",
+      "ko_txt": "2.2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 40
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[39]",
+      "ko_txt": "1. 첨가제의 종류",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 40
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[39]",
+      "ko_txt": "•해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 40
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[40]",
+      "ko_txt": "2.2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 41
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[40]",
+      "ko_txt": "2. 완제의약품 시험항목",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 41
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[41]",
+      "ko_txt": "2.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 42
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[41]",
+      "ko_txt": "3. 품질에 관한 자료에 대한 심사자 의견",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 42
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[41]",
+      "ko_txt": "•원료약품 및 그 분량, 성상, 제조방법, 기준 및 시험방법 등 품질에 관한 자료의 적절성을 검토한 결과, 타당함",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 42
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[42]",
+      "ko_txt": "3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 43
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[42]",
+      "ko_txt": "1. 원료의약품의 안정성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 43
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[43]",
+      "ko_txt": "3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 44
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[43]",
+      "ko_txt": "2. 완제의약품의 안정성",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 44
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[43]",
+      "ko_txt": "•혈액관리법 시행규칙 [별표2의2] 혈액제제의 보존기준에 따라 설정 * 세척혈소판 보존기준: 20~24℃ 제조 후 4시간",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 44
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[43]",
+      "ko_txt": "•안정성시험에 사용된 배치는 신청품목과 원료약품 및 그 분량이 동일한 실 생산 제품을 사용",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 44
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[44]",
+      "ko_txt": "3.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 45
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[44]",
+      "ko_txt": "3. 안정성에 대한 심사자의견",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 45
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[45]",
+      "ko_txt": "•혈액관리법에 따른 보존기준 설정은 타당하며, 제조 후 4시간까지 각 시험항목이 모두 기준에 적합함을 확인함",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 46
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[46]",
+      "ko_txt": "•시간에 따른 혈소판 수의 변화는 관찰되지 않음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 47
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[47]",
+      "ko_txt": "4. 독성에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 48
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[48]",
+      "ko_txt": "5. 약리작용에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 49
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[49]",
+      "ko_txt": "6. 임상시험성적에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 50
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[50]",
+      "ko_txt": "•「생물학적제제 등의 품목허가·심사 규정」[별표 1] II. 자료제출의약품,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 51
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[50]",
+      "ko_txt": "1) 신규품목,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 51
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[50]",
+      "ko_txt": "9. 혈액제제에 따라 혈액제제의 경우 국내 사용례가 있을 경우 국내 사용현황 등으로 갈음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 51
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[51]",
+      "ko_txt": "•동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출(국내·외 임상연구 논문 각 1편)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 52
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[52]",
+      "ko_txt": "-수혈 후 아나필락시스를 보인 환자의 세척혈소판 수혈 경험 1례(대한수혈학회지, 2015) Prevention allergic transfusion reactions platelets blood cells through plasma reduction(Transfusion Practice, 2011)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 53
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[53]",
+      "ko_txt": "7. 외국의 사용현황에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 54
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[54]",
+      "ko_txt": "•캐나다의 혈액성분제제 품목허가 시스템 및 일본 세척혈소판 품목허가 과정 제출",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 55
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[55]",
+      "ko_txt": "8. 국내유사제품과의 비교검토 및 당해 의약품등의 특성에 관한 자료",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 56
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[56]",
+      "ko_txt": "•국내 허가품목인 유사제품(대한적십자사남부혈액원세척혈소판)과 신청사항 비교",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 57
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[57]",
+      "ko_txt": "< 붙임 1> 허가 · 심사 개요 ( 「 의약품등의 안전에 관한 규칙 」 제 4 조제 1 항 관련 )",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 58
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[58]",
+      "ko_txt": "1.1 안전성 · 유효성 심사결과",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 59
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[59]",
+      "ko_txt": ": 붙임 2 참조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 60
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[60]",
+      "ko_txt": "혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사 용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 61
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[60]",
+      "ko_txt": "특히 초과민반응(anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방 (예, IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우)하 고자 할 때, 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는 환자에서 고칼륨혈증을 피해야 할 때 사용한다",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 61
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[61]",
+      "ko_txt": "수혈 후 두드러기, 알레르기 반응, 아나필락시스 반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이 있는 환자에게 사용한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 62
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[62]",
+      "ko_txt": "수혈세트를 사용하여 정맥으로 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 63
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[63]",
+      "ko_txt": "사용량은 임상소견과 원인에 따라 결정된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 64
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[64]",
+      "ko_txt": "세척 혈소판은 대개 재료로 사용된 백혈구여과제거성분채혈혈소판의 2/3이상에 해 당하는 혈소판(2.0×10 11 개 이상)이 들어 있고, 부유액 200∼250mL정도가 포함된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 65
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[65]",
+      "ko_txt": "혈액형을 확인하고, 변색 및 용혈, 용기 파손 등의 이상 유무를 확인한 후 수혈해 야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 66
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[66]",
+      "ko_txt": "세척 후에는 세균 오염의 가능성 때문에 제조 후 4시간 내에 사용해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 67
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[67]",
+      "ko_txt": "수혈 시에는 용혈수혈반응(hemolytic transfusion reactions)의 위험이 따르며 감염, 바이러스 감염증 같은 혈액 매개 감염과 알레르기성 또는 발열성 수혈 부작용 등 이 초래될 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 68
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[67]",
+      "ko_txt": "또한, 너무 급히 주입하면 순환혈액량 과부하와 증가된 혈액량 에 의한 다른 합병증이 유발될 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 68
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[68]",
+      "ko_txt": "밀봉용기, 20~24 ℃ 보관(보관 시 교반 필요), 제조 후 4 시간국내 헌혈 혈액만을 사용하여 제조할 것상기 허가조건을 정당한 사유없이 이행하지 않을 경우 동 허가를 취소할 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 69
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[69]",
+      "ko_txt": "< 붙임 2> 안전성 · 유효성 심사결과자 료 번 호 주1)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 70
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[70]",
+      "ko_txt": "○ 제출자료 목록",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 71
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[71]",
+      "ko_txt": "[ 심사자 종합의견 ]",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 72
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[72]",
+      "ko_txt": "「 생물학적제제 등의 품목허가 · 심사 규정 」 에 따른 자료제출범위 및 요건에 만족하는 자료가 제출되었으며 그 자료를 검토하였을 때 타당함약리작용 기전 : 혈소판 결핍 환자에게 수혈 보충요법 , 특히 혈장단백을 생리식염수로 세척하여 제거함으로써 과민반응 등 혈장단백에 의한 수혈부작용이 있는 환자에게 사용",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 73
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[73]",
+      "ko_txt": "-혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사용한다 . 특히 초과민반응 (anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방 ( 예 , IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우 ) 하고자 할 때 , 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는 환자에서 고칼륨혈증을 피해야 할 때 사용",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 74
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[74]",
+      "ko_txt": "-수혈 후 두드러기 , 알레르기 반응 , 아나필락시스 반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이 있는 환자에게 사용세척혈소판을 혈액원에서 제조하여 적시에 공급하면 그동안 제조에 어려움을 겪었던 의료기관에서 보다 편리 하게 세척혈소판을 사용할 수 있어 아나필락시반응과 같은 수혈부작용의 기왕력이 있는 환자의 치료에 크게 도움을 줄 수 있을 것으로 사료됨신청 제품은 기허가 제품인 대한적십자사 서울동부혈액원 백혈구여과제거성분채혈혈소판 을 혈액제제 제조용",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 75
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[75]",
+      "ko_txt": "' ' 원심분리기 등을 이용하여 멸균생리식염수로 2 회 세척한 후 재부유시켜 제조혈소판제제는 선천적 또는 후천적 원인에 의해 발생하는 혈소판 감소증이나 혈소판 기능 장애를 가진 환자 에게 혈소판을 보충하는 요법을 통해 이러한 환자의 출혈을 예방하거나 치료하는데 사용됨본 품목은 기 허가품목인 백혈구여과제거성분채혈혈소판을 생리식염수로 세척 시 보존제가 제거되었고 , 상온 보관으로 냉장 또는 냉동 보관하는 다른 혈액제제에 비해 보관 중 균의 증식이 발생할 수 있는 가능성 등 안전성에 영향을 미칠 수 있음 .",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 76
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[76]",
+      "ko_txt": "보존기간은 제조 후 시간으로 짧으며 혈액관리법 시행규칙 별표 의 혈액제제의 보존기준에 명시되어",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 77
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[77]",
+      "ko_txt": "4 , 「 」 [ 2 2] 있음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 78
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[78]",
+      "ko_txt": "<완제의약품의 기준 및 시험방법에 따름>",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 79
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[79]",
+      "ko_txt": "□pH □단백질 □무균 □발열성물질 □엔도톡신 □역가 □확인 □기타최종원액<해당사항 없음>",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 80
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[80]",
+      "ko_txt": "□pH □단백질 □무균 □발열성물질 □보존제(사용 보존제명) □엔도톡신 □역가 □확인 □기타(각 제제별 설정된 시험항목을 기재하고 표시)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 81
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[81]",
+      "ko_txt": "□pH ■성상 □단백질 ■무균 □발열성물질 □보존제 □엔도톡신 □역가 □이상독성부정 □함습도 □확인",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 82
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[82]",
+      "ko_txt": "□주사제 관련 시험(□불용성미립자 □불용성이물 □실용량 □제제균일성) ■기타(외관시험, 용량시험, 혈소판수시험, 잔여단백시험)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 83
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[83]",
+      "ko_txt": "「 생물학적제제 등의 품목허가 · 심사 규정 」 [ 별표 1] II. 자료제출의약품 ,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 84
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[83]",
+      "ko_txt": "1) 신규품목 ,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 84
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[83]",
+      "ko_txt": "9. 혈액제제에 따라 혈액제제의 경우 국내 사용례가 있을 경우 국내 사용현황 등으로 갈음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 84
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[84]",
+      "ko_txt": "-Prevention of allergic transfusion reactions to platelets and red blood cells through plasma reduction(Transfusion Practice, 2011)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 85
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[85]",
+      "ko_txt": "접수일자 2018.12.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 86
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[85]",
+      "ko_txt": "20. 접수번호 20180300865",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 86
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[86]",
+      "ko_txt": "신청구분 자료제출의약품(■최초, □변경) 신청인(회사명) 대한적십자사동부혈액원제품명 대한적십자사서울동부혈액원세척혈소판(세척혈소판) 주성분명 (원료의약품등록번호) 제조/수입품목 제조제형 : 연노란색의 액이 무색투명한 혈액백에 든 주사제제형/함량 함량 : 100 밀리리터 중 세척혈소판 100 밀리리터",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 87
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[87]",
+      "ko_txt": "허가일자 2020.03.05.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 88
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[88]",
+      "ko_txt": "효능·효과 붙임",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 89
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[88]",
+      "ko_txt": "1. 참조용법·용량 붙임",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 89
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[88]",
+      "ko_txt": "1. 참조허가조건 붙임",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 89
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[88]",
+      "ko_txt": "1. 참조국외허가현황 해당사항 없음융복합혁신제품지원단",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 89
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[89]",
+      "ko_txt": "허가부서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 90
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[90]",
+      "ko_txt": "허가총괄팀 허가담당자 최선림, 남경탁, 오정원심사부서 생물제제과 심사담당자 이유림, 임재현, 백선영",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 91
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[91]",
+      "ko_txt": "GMP*",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 92
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[92]",
+      "ko_txt": "해당사항 없음 GMP 담당자해당사항 없음",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 93
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[93]",
+      "ko_txt": "평가부서",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 94
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[94]",
+      "ko_txt": "1.1 안전성·유효성 심사결과: 붙임2 참조",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 95
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[95]",
+      "ko_txt": "1. 혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 96
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[96]",
+      "ko_txt": "2. 수혈 후 두드러기, 알레르기 반응, 아나필락시스 반응 등과 같이 혈장단백에 의한",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 97
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[97]",
+      "ko_txt": "1. 수혈세트를 사용하여 정맥으로 투여한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 98
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[98]",
+      "ko_txt": "2. 사용량은 임상소견과 원인에 따라 결정된다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 99
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[99]",
+      "ko_txt": "3. 세척 혈소판은 대개 재료로 사용된 백혈구여과제거성분채혈혈소판의 2/3이상에 해",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 100
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[100]",
+      "ko_txt": "1. 혈액형을 확인하고, 변색 및 용혈, 용기 파손 등의 이상 유무를 확인한 후 수혈해",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 101
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[101]",
+      "ko_txt": "2. 세척 후에는 세균 오염의 가능성 때문에 제조 후 4 시간 내에 사용해야 한다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 102
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[102]",
+      "ko_txt": "3. 수혈 시에는 용혈수혈반응(hemolytic transfusion reactions)의 위험이 따르며 감염,",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 103
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[103]",
+      "ko_txt": "1. 국내 헌혈 혈액만을 사용하여 제조할 것",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 104
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[104]",
+      "ko_txt": "2. 상기 허가조건을 정당한 사유없이 이행하지 않을 경우 동 허가를 취소할 수 있다.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 105
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[105]",
+      "ko_txt": "6. 가. : 국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 106
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[106]",
+      "ko_txt": "면제사유",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 107
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[107]",
+      "ko_txt": "논문 제출함) 시험종류시험조건용기형태/재질결과장기보존시험20~24℃, 교반혈액백(밀봉용기)/",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 108
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": null,
+      "path": "붙임.본문[107]",
+      "ko_txt": "폴리비닐클로라이드(PVC) 등제조 후 1/2/3/4시간에 각 3단위에 대해 기시법전 항목 시험 실시하였을 때 기준에 적합",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 108
+    },
+    {
+      "seg_id": 229,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[0]",
+      "ko_txt": "[열] 접수일자 | 신청구분 | 신청인(회사명) | 제품명 | 주성분명 | (원료의약품등록번호) | 제조/수입품목 | 제형/함량 | 허가일자 | 효능·효과 | 최종 | 용법·용량 | 허가 | 사용상의 | 사항 | 주의사항 | 저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP*\n평가부서\n[행0] 2018.12.20. | 자료제출의약품(■최초,□변경) | 대한적십자사동부혈액원 | 대한적십자사서울동부혈액원세척혈소판(세척혈소판) | 세척혈소판 | 제조 | 제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제 | 함량 :100밀리리터 중 세척혈소판 100밀리리터 | 2020.03.05. | 붙임 1.참조 | 해당사항 없음 | \n[행1] 최종 | 용법·용량 | 자료제출의약품(■최초,□변경) | 대한적십자사동부혈액원 | 대한적십자사서울동부혈액원세척혈소판(세척혈소판) | 세척혈소판 | 제조 | 제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제 | 함량 :100밀리리터 중 세척혈소판 100밀리리터 | 2020.03.05. | 붙임 1.참조 | 해당사항 없음\n[행2] 허가 | 사용상의 | 자료제출의약품(■최초,□변경) | 대한적십자사동부혈액원 | 대한적십자사서울동부혈액원세척혈소판(세척혈소판) | 세척혈소판 | 제조 | 제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제 | 함량 :100밀리리터 중 세척혈소판 100밀리리터 | 2020.03.05. | 붙임 1.참조 | 해당사항 없음\n[행3] 사항 | 주의사항 | 자료제출의약품(■최초,□변경) | 대한적십자사동부혈액원 | 대한적십자사서울동부혈액원세척혈소판(세척혈소판) | 세척혈소판 | 제조 | 제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제 | 함량 :100밀리리터 중 세척혈소판 100밀리리터 | 2020.03.05. | 붙임 1.참조 | 해당사항 없음\n[행4] 저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP* | 자료제출의약품(■최초,□변경) | 대한적십자사동부혈액원 | 대한적십자사서울동부혈액원세척혈소판(세척혈소판) | 세척혈소판 | 제조 | 제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제 | 함량 :100밀리리터 중 세척혈소판 100밀리리터 | 2020.03.05. | 붙임 1.참조 | 해당사항 없음 | \n[행5] 저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP* | 융복합혁신제품지원단 | 허가담당자 | 최선림,남경탁,오정원 |  |  |  |  |  |  |  | \n[행6] 저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP* | 허가총괄팀 | 허가담당자 | 최선림,남경탁,오정원 |  |  |  |  |  |  |  | \n[행7] 저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP* | 생물제제과 | 심사담당자 | 이유림,임재현,백선영 |  |  |  |  |  |  |  | \n[행8] 저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP* | 해당사항 없음 | GMP담당자 | 해당사항 없음 |  |  |  |  |  |  |  | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 109,
+      "table": {
+        "title": null,
+        "columns": [
+          "접수일자",
+          "신청구분",
+          "신청인(회사명)",
+          "제품명",
+          "주성분명",
+          "(원료의약품등록번호)",
+          "제조/수입품목",
+          "제형/함량",
+          "허가일자",
+          "효능·효과",
+          "최종",
+          "용법·용량",
+          "허가",
+          "사용상의",
+          "사항",
+          "주의사항",
+          "저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP*\n평가부서"
+        ],
+        "rows": [
+          [
+            "2018.12.20.",
+            "자료제출의약품(■최초,□변경)",
+            "대한적십자사동부혈액원",
+            "대한적십자사서울동부혈액원세척혈소판(세척혈소판)",
+            "세척혈소판",
+            "제조",
+            "제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제",
+            "함량 :100밀리리터 중 세척혈소판 100밀리리터",
+            "2020.03.05.",
+            "붙임 1.참조",
+            "해당사항 없음",
+            ""
+          ],
+          [
+            "최종",
+            "용법·용량",
+            "자료제출의약품(■최초,□변경)",
+            "대한적십자사동부혈액원",
+            "대한적십자사서울동부혈액원세척혈소판(세척혈소판)",
+            "세척혈소판",
+            "제조",
+            "제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제",
+            "함량 :100밀리리터 중 세척혈소판 100밀리리터",
+            "2020.03.05.",
+            "붙임 1.참조",
+            "해당사항 없음"
+          ],
+          [
+            "허가",
+            "사용상의",
+            "자료제출의약품(■최초,□변경)",
+            "대한적십자사동부혈액원",
+            "대한적십자사서울동부혈액원세척혈소판(세척혈소판)",
+            "세척혈소판",
+            "제조",
+            "제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제",
+            "함량 :100밀리리터 중 세척혈소판 100밀리리터",
+            "2020.03.05.",
+            "붙임 1.참조",
+            "해당사항 없음"
+          ],
+          [
+            "사항",
+            "주의사항",
+            "자료제출의약품(■최초,□변경)",
+            "대한적십자사동부혈액원",
+            "대한적십자사서울동부혈액원세척혈소판(세척혈소판)",
+            "세척혈소판",
+            "제조",
+            "제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제",
+            "함량 :100밀리리터 중 세척혈소판 100밀리리터",
+            "2020.03.05.",
+            "붙임 1.참조",
+            "해당사항 없음"
+          ],
+          [
+            "저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP*",
+            "자료제출의약품(■최초,□변경)",
+            "대한적십자사동부혈액원",
+            "대한적십자사서울동부혈액원세척혈소판(세척혈소판)",
+            "세척혈소판",
+            "제조",
+            "제형 :연노란색의 액이 무색투명한 혈액백에 든 주사제",
+            "함량 :100밀리리터 중 세척혈소판 100밀리리터",
+            "2020.03.05.",
+            "붙임 1.참조",
+            "해당사항 없음",
+            ""
+          ],
+          [
+            "저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP*",
+            "융복합혁신제품지원단",
+            "허가담당자",
+            "최선림,남경탁,오정원",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP*",
+            "허가총괄팀",
+            "허가담당자",
+            "최선림,남경탁,오정원",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP*",
+            "생물제제과",
+            "심사담당자",
+            "이유림,임재현,백선영",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "저장방법및사용기간허가조건국외허가현황허가부서심사부서 GMP*",
+            "해당사항 없음",
+            "GMP담당자",
+            "해당사항 없음",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 230,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[1]",
+      "ko_txt": "[열] 구    분 | 품목허가 | 안전성·유효성기준및시험방법관련 자료 | 제조및품질관리기준 관련 자료 | 시험법 관련 자료 | RMP 관련 자료 | 기타\n[행0] 신청일자 | ‘18.12.20. | ‘18.12.20.\n[행1] 1차 보완요청일자 | ‘19.04.10. | ‘19.04.08.\n[행2] 1차 보완접수일자 | ‘19.12.27. | ‘19.12.27.\n[행3] 2차 보완요청일자 | ‘20.02.06. | ‘20.02.04.\n[행4] 2차 보완접수일자 | ‘20.02.14. | ‘20.02.14.\n[행5] 최종처리일자 | ‘20.03.05. | ‘20.02.27.",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 200,
+      "table": {
+        "title": null,
+        "columns": [
+          "구    분",
+          "품목허가",
+          "안전성·유효성기준및시험방법관련 자료",
+          "제조및품질관리기준 관련 자료",
+          "시험법 관련 자료",
+          "RMP 관련 자료",
+          "기타"
+        ],
+        "rows": [
+          [
+            "신청일자",
+            "‘18.12.20.",
+            "‘18.12.20."
+          ],
+          [
+            "1차 보완요청일자",
+            "‘19.04.10.",
+            "‘19.04.08."
+          ],
+          [
+            "1차 보완접수일자",
+            "‘19.12.27.",
+            "‘19.12.27."
+          ],
+          [
+            "2차 보완요청일자",
+            "‘20.02.06.",
+            "‘20.02.04."
+          ],
+          [
+            "2차 보완접수일자",
+            "‘20.02.14.",
+            "‘20.02.14."
+          ],
+          [
+            "최종처리일자",
+            "‘20.03.05.",
+            "‘20.02.27."
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 231,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[2]",
+      "ko_txt": "[열] 제출자료구분제출자료제출여부면제사유 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 4 | 4 | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 5 | 5 | 6 | 6 | 6 | 6 | 6 | 6 | 6\n[행0] 제출자료구분제출자료제출여부면제사유 | 1 | 가 | 가 | 가 | 가 | 가 | 가 | 가 | 나 | 나 | 나 | 나 | 나 | 나 | 나 | 가 | 가 | 가 | 가 | 나 | 나 | 나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 7 | 8 | 8\n[행1] 제출자료구분제출자료제출여부면제사유 | 1 | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3) | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 가나다라마바가나다라가나 | 7 | 8 | 8\n[행2] 제출자료구분제출자료제출여부면제사유 | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | × | × | ○ | × | × | × | × | × | × | × | × | × | × | × | × | △ | × | ○ | ○ | ○\n[행3] 제출자료구분제출자료제출여부면제사유 | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | × | × | ○ | × | × | × | × | × | × | × | × | × | × | × | × | × | × | ○ | ○ | ○\n[행4] 제출자료구분제출자료제출여부면제사유 | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함) | 6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 225,
+      "table": {
+        "title": null,
+        "columns": [
+          "제출자료구분제출자료제출여부면제사유",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6"
+        ],
+        "rows": [
+          [
+            "제출자료구분제출자료제출여부면제사유",
+            "1",
+            "가",
+            "가",
+            "가",
+            "가",
+            "가",
+            "가",
+            "가",
+            "나",
+            "나",
+            "나",
+            "나",
+            "나",
+            "나",
+            "나",
+            "가",
+            "가",
+            "가",
+            "가",
+            "나",
+            "나",
+            "나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "7",
+            "8",
+            "8"
+          ],
+          [
+            "제출자료구분제출자료제출여부면제사유",
+            "1",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "1)2)3)4)5)6)7)8)1)2)3)4)5)6)7)1)2)3)1)2)3)",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "가나다라마바가나다라가나",
+            "7",
+            "8",
+            "8"
+          ],
+          [
+            "제출자료구분제출자료제출여부면제사유",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "×",
+            "×",
+            "○",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "△",
+            "×",
+            "○",
+            "○",
+            "○"
+          ],
+          [
+            "제출자료구분제출자료제출여부면제사유",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "○",
+            "×",
+            "×",
+            "○",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "×",
+            "○",
+            "○",
+            "○"
+          ],
+          [
+            "제출자료구분제출자료제출여부면제사유",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)",
+            "6.가.:국내 사용례가 있을 경우 국내 사용현황 등으로 갈음(동일 제조방법으로 제조 후 사용한 임상사례 관련 논문 제출함)"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 232,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[3]",
+      "ko_txt": "[열] 최종원액<해당사항 없음>\n □pH   □단백질  □무균  □발열성물질  □보존제(사용 보존제명)  □엔도톡신    □역가  □확인 □기타(각 제제별 설정된 시험항목을 기재하고 표시)\n[행0] 완제의약품\n□pH ■성상□단백질■무균 □발열성물질 □보존제\n□엔도톡신 □역가 □이상독성부정 □함습도 □확인\n□주사제 관련 시험(□불용성미립자 □불용성이물 □실용량 □제제균일성)■기타(외관시험, 용량시험, 혈소판수시험, 잔여단백시험)",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 453,
+      "table": {
+        "title": null,
+        "columns": [
+          "최종원액<해당사항 없음>\n □pH   □단백질  □무균  □발열성물질  □보존제(사용 보존제명)  □엔도톡신    □역가  □확인 □기타(각 제제별 설정된 시험항목을 기재하고 표시)"
+        ],
+        "rows": [
+          [
+            "완제의약품\n□pH ■성상□단백질■무균 □발열성물질 □보존제\n□엔도톡신 □역가 □이상독성부정 □함습도 □확인\n□주사제 관련 시험(□불용성미립자 □불용성이물 □실용량 □제제균일성)■기타(외관시험, 용량시험, 혈소판수시험, 잔여단백시험)"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 233,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[4]",
+      "ko_txt": "[열] 시험종류 | 시험조건 | 용기형태/재질 | 결과\n[행0] 장기보존시험 | 20~24℃,교반 | 혈액백(밀봉용기)/폴리비닐클로라이드(PVC)등 | 제조 후 1/2/3/4시간에 각 3단위에 대해 기시법 전 항목 시험 실시하였을 때 기준에 적합",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 455,
+      "table": {
+        "title": null,
+        "columns": [
+          "시험종류",
+          "시험조건",
+          "용기형태/재질",
+          "결과"
+        ],
+        "rows": [
+          [
+            "장기보존시험",
+            "20~24℃,교반",
+            "혈액백(밀봉용기)/폴리비닐클로라이드(PVC)등",
+            "제조 후 1/2/3/4시간에 각 3단위에 대해 기시법 전 항목 시험 실시하였을 때 기준에 적합"
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 234,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[5]",
+      "ko_txt": "[열] 접수일자 | 접수번호 | 20180300865\n[행0] 신청구분 | 자료제출의약품 ( ■ 최초 , □ 변경 ) | \n[행1] 신 청 인 (회사명) | 대한적십자사동부혈액원 | \n[행2] 제 품 명 | 대한적십자사서울동부혈액원세척혈소판 ( 세척혈소판 ) | \n[행3] 주성분명 (원료의약품등록 번호) | 세척혈소판 | \n[행4] 제조/수입 품목 | 제조 | \n[행5] 제형/함량 | 제형 : 연노란색의 액이 무색투명한 혈액백에 든 주사제 함량 : 100 밀리리터 중 세척혈소판 100 밀리리터 | \n[행6] 최종 허가 사항 | 허가일자 | 2020.03.05.\n[행7] 최종 허가 사항 | 효능·효과 | 붙임 1. 참조\n[행8] 최종 허가 사항 | 용법·용량 | 붙임 1. 참조\n[행9] 최종 허가 사항 | 사용상의 주의사항 | 붙임 1. 참조\n[행10] 최종 허가 사항 | 저장방법 및 사용기간 | 밀봉용기 , 20~24 ℃ 보관 ( 보관 시 교반 필요 ), 제조 후 4 시간\n[행11] 최종 허가 사항 | 허가조건 | 붙임 1. 참조\n[행12] 국외 허가현황 | 해당사항 없음 | \n[행13] 허가부서 | 융복합혁신제품지원단 허가총괄팀 | 최선림 , 남경탁 , 오정원\n[행14] 심사부서 | 생물제제과 | 이유림 , 임재현 , 백선영\n[행15] GMP* 평가부서 | 해당사항 없음 | ",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 463,
+      "table": {
+        "title": null,
+        "columns": [
+          "접수일자",
+          "접수번호",
+          "20180300865"
+        ],
+        "rows": [
+          [
+            "신청구분",
+            "자료제출의약품 ( ■ 최초 , □ 변경 )",
+            ""
+          ],
+          [
+            "신 청 인 (회사명)",
+            "대한적십자사동부혈액원",
+            ""
+          ],
+          [
+            "제 품 명",
+            "대한적십자사서울동부혈액원세척혈소판 ( 세척혈소판 )",
+            ""
+          ],
+          [
+            "주성분명 (원료의약품등록 번호)",
+            "세척혈소판",
+            ""
+          ],
+          [
+            "제조/수입 품목",
+            "제조",
+            ""
+          ],
+          [
+            "제형/함량",
+            "제형 : 연노란색의 액이 무색투명한 혈액백에 든 주사제 함량 : 100 밀리리터 중 세척혈소판 100 밀리리터",
+            ""
+          ],
+          [
+            "최종 허가 사항",
+            "허가일자",
+            "2020.03.05."
+          ],
+          [
+            "최종 허가 사항",
+            "효능·효과",
+            "붙임 1. 참조"
+          ],
+          [
+            "최종 허가 사항",
+            "용법·용량",
+            "붙임 1. 참조"
+          ],
+          [
+            "최종 허가 사항",
+            "사용상의 주의사항",
+            "붙임 1. 참조"
+          ],
+          [
+            "최종 허가 사항",
+            "저장방법 및 사용기간",
+            "밀봉용기 , 20~24 ℃ 보관 ( 보관 시 교반 필요 ), 제조 후 4 시간"
+          ],
+          [
+            "최종 허가 사항",
+            "허가조건",
+            "붙임 1. 참조"
+          ],
+          [
+            "국외 허가현황",
+            "해당사항 없음",
+            ""
+          ],
+          [
+            "허가부서",
+            "융복합혁신제품지원단 허가총괄팀",
+            "최선림 , 남경탁 , 오정원"
+          ],
+          [
+            "심사부서",
+            "생물제제과",
+            "이유림 , 임재현 , 백선영"
+          ],
+          [
+            "GMP* 평가부서",
+            "해당사항 없음",
+            ""
+          ]
+        ],
+        "notes": []
+      }
+    },
+    {
+      "seg_id": 235,
+      "type": "table",
+      "section": null,
+      "path": "붙임.표[6]",
+      "ko_txt": "[제목] 시험법\n[열] 구 분 | 품목허가관련 자료 | 기타기준 관련 자료\n[행0] 신청일자 | ‘18.12.20. | ‘18.12.20.\n[행1] 1차 보완요청일자 | ‘19.04.10. | ‘19.04.08.\n[행2] 1차 보완접수일자 | ‘19.12.27. | ‘19.12.27.\n[행3] 2차 보완요청일자 | ‘20.02.06. | ‘20.02.04.\n[행4] 2차 보완접수일자 | ‘20.02.14. | ‘20.02.14.\n[행5] 최종처리일자 | ‘20.03.05. | ‘20.02.27.\n[행6] 제출자료구분 | 23 | 45\n[행7]  | 6 | 7\n[행8]  | 8 | \n[행9] 가 |  | \n[행10] 나 |  | \n[행11] 가 |  | \n[행12] 나 |  | \n[행13] 가나다라마바가나다라가나 |  | \n[행14] 1) 2) 3) 4) 5) 6) 7) 8) |  | \n[행15] 제출자료 | ○ | ○\n[행16]  | ○ | ○\n[행17]  | ○ | ○\n[행18]  | ○ | ○\n[행19]  | ○ | ○\n[행20]  | ○ | ○\n[행21]  | ○ | ○\n[행22] ○○ | ○ | ○\n[행23]  | ○ | ○\n[행24]  | ○ | ○\n[행25]  | ○ | ○\n[행26]  | ○ | ○\n[행27]  | ○ | ○\n[행28]  | ○ | ○\n[행29]  | ○ | ○\n[행30]  | ○ | ○\n[행31]  | × | ×\n[행32]  | ○ | ○\n[행33]  | × | ×\n[행34]  | × | ×\n[행35]  | × | ×\n[행36]  | × | ×\n[행37]  | × | ×\n[행38]  | × | ×\n[행39]  | × | ×\n[행40]  | × | ×\n[행41]  | × | ×\n[행42]  | × | ×\n[행43]  | × | ×\n[행44]  | × | ×\n[행45]  | × | ×\n[행46]  | ○ | ○\n[행47]  | ○ | ○",
+      "en_txt": null,
+      "align_score": null,
+      "orig_seg_id": 506,
+      "table": {
+        "title": "시험법",
+        "columns": [
+          "구 분",
+          "품목허가관련 자료",
+          "기타기준 관련 자료"
+        ],
+        "rows": [
+          [
+            "신청일자",
+            "‘18.12.20.",
+            "‘18.12.20."
+          ],
+          [
+            "1차 보완요청일자",
+            "‘19.04.10.",
+            "‘19.04.08."
+          ],
+          [
+            "1차 보완접수일자",
+            "‘19.12.27.",
+            "‘19.12.27."
+          ],
+          [
+            "2차 보완요청일자",
+            "‘20.02.06.",
+            "‘20.02.04."
+          ],
+          [
+            "2차 보완접수일자",
+            "‘20.02.14.",
+            "‘20.02.14."
+          ],
+          [
+            "최종처리일자",
+            "‘20.03.05.",
+            "‘20.02.27."
+          ],
+          [
+            "제출자료구분",
+            "23",
+            "45"
+          ],
+          [
+            "",
+            "6",
+            "7"
+          ],
+          [
+            "",
+            "8",
+            ""
+          ],
+          [
+            "가",
+            "",
+            ""
+          ],
+          [
+            "나",
+            "",
+            ""
+          ],
+          [
+            "가",
+            "",
+            ""
+          ],
+          [
+            "나",
+            "",
+            ""
+          ],
+          [
+            "가나다라마바가나다라가나",
+            "",
+            ""
+          ],
+          [
+            "1) 2) 3) 4) 5) 6) 7) 8)",
+            "",
+            ""
+          ],
+          [
+            "제출자료",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "○○",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "×",
+            "×"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ],
+          [
+            "",
+            "○",
+            "○"
+          ]
+        ],
+        "notes": []
+      }
+    }
+  ]
+}

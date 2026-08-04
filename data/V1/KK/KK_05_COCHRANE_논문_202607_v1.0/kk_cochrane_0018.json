@@ -1,0 +1,415 @@
+{
+  "document_id": "kk_cochrane_0018",
+  "meta": {
+    "set": "KK",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000160.PUB4",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000160.pub4/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "경동맥 패치 혈관 성형술은 경동맥 내막 절제술(CEA)을 받는 사람들에서 경동맥의 급성 폐색 또는 장기 재협착 및 후속 허혈성 뇌졸중의 위험을 줄일 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": "이것은 원래 1995년에 출판되고 2008년에 업데이트된 Cochrane Review의 업데이트이다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "CEA를 받는 사람들에서 1차 봉합과 비교하여 정맥 패치 또는 합성 패치를 사용한 일상적 또는 선택적 경동맥 패치 혈관 성형술의 안전성과 효능을 평가한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": "경동맥 패치 혈관 성형술이 수술 전후 합병증의 상당한 증가 없이 심각한 동맥 재협착의 낮은 비율을 초래하여 재발성 뇌졸중 및 뇌졸중 관련 사망을 감소시킨다는 기본 가설을 평가하고자 했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": "2021년 9월에 Cochrane Stroke Group 시험 레지스터, CENTRAL, MEDLINE, Embase, 기타 2개의 데이터베이스 및 2개의 시험 레지스트리를 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "선정 기준",
+      "path": null,
+      "ko_txt": "CEA를 받는 사람들의 경동맥 패치 혈관 성형술과 1차 폐쇄를 비교한 무작위 대조 시험 및 준 무작위 시험을 포함했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "2명의 리뷰 작성자가 독립적으로 적격성과 비뚤림 위험을 평가하고 데이터를 추출하고 GRADE 접근법을 사용하여 근거의 확실성을 결정했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "자료 수집 및 분석",
+      "path": null,
+      "ko_txt": "관심 결과에는 수술 전후(수술 후 30일 이내) 또는 장기 추적 관찰 중 뇌졸중, 사망, 수술과 관련된 심각한 합병증, 동맥 재협착 또는 폐색이 포함되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "2,304건의 CEA 수술을 받은 2,100명의 참가자가 포함된 11건의 시험을 포함했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "시험의 질은 일반적으로 나빴다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "추적 관찰은 퇴원에서 5년까지 다양했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "일차 봉합과 비교하여 경동맥 패치 혈관 성형술은 수술 전후 뇌졸중 위험 감소에 거의 또는 전혀 차이가 없을 수 있다(교차비(OR) 0.57, 95% 신뢰 구간(CI) 0.31~1.03; P = 0.063; 8건의 연구, 1,769명의 참가자, 매우 낮은 확실성 근거), 그러나 장기간 추적 관찰 동안 뇌졸중의 위험을 낮출 수 있다(OR 0.49, 95% CI 0.27~0.90; P = 0.022; 7건의 연구, 1332명의 참가자; 매우 낮은‐ 확실한 근거).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "포함된 연구에서 경동맥 패치 혈관 성형술은 수술 전후 기간(OR 0.31, 95% CI 0.15~0.63; P = 0.001; 7건의 연구, 1201명의 참가자; 매우 낮은 확실성 근거) 동안 동측 뇌졸중의 위험을 낮추었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "장기 추적(OR 0.32, 95% CI 0.16~0.63, P = 0.001, 연구 6개, 참가자 1141명, 근거의 확실성이 매우 낮음).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "중재는 장기간 추적 관찰 동안 뇌졸중 또는 사망 위험 감소와 관련이 있었다(OR 0.59, 95% CI 0.42~0.84; P = 0.003; 6개의 연구, 1019명의 참가자; 매우 낮은 확실성 근거).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "또한 경동맥 패치 혈관성형술은 수술주기의 동맥폐색 위험(OR 0.18, 95% CI 0.08~0.41, P < 0.0001, 7개 연구, 1435명의 참가자, 저확실성 근거)을 감소시킬 수 있으며 장기 추적(OR 0.24, 95% CI 0.17~0.34; P <.001, 171, 1719명의 참가자, 낮은 근거)을 감소시킬 수 있음을 시사한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "연구에 따르면 출혈, 감염, 뇌신경 마비 및 가성동맥류 형성을 포함한 동맥 합병증이 패치 또는 일차 폐쇄와 함께 매우 적은 것으로 기록되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": "패치 혈관 성형술의 사용과 수술 전후 또는 장기 뇌졸중 관련 사망 또는 모든 원인 사망률의 위험 사이에 상관 관계가 없음을 발견했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "일차 폐쇄에 비해 경동맥 패치 혈관 성형술은 수술 중 동맥 폐쇄 및 수술 동맥의 장기간 재협착의 위험을 줄일 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "수술 전후 및 장기간 동안 동측 뇌졸중의 위험을 감소시키고 1차 폐쇄와 비교할 때 장기적으로 모든 뇌졸중의 위험을 감소시키는 것으로 보인다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": "그러나 포함된 시험의 질이 제한되어 근거가 불확실하다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "주요 메시지 현재 2,100명을 대상으로 한 11건의 시험에서 경동맥 내막 절제술 후 특별한 절차(패치 혈관 성형술)를 사용함으로써 얻을 수 있는 이점이 있음을 시사한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "경동맥내막절제술이란?",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "뇌졸중의 약 20%는 경동맥(뇌에 혈액을 공급하는 주요 동맥)의 협착으로 인해 발생한다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "좁아진 경동맥은 경동맥을 절개하여 플라크라고 불리는 지방 물질을 제거하는 경동맥 내막 절제술이라는 외과적 절차로 치료할 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이것은 동맥을 넓혀 뇌졸중의 위험을 줄인다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "그러나 수술 자체가 뇌졸중을 일으킬 가능성은 적다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "일차 폐쇄는 무엇이며 패치 혈관 성형술은 무엇인가?",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "동맥에서 플라크 제거 후, 외과의사는 단순히 구멍의 두 가장자리를 함께 가져와서 봉합할 수 있고(1차 폐쇄) 또는 구멍의 가장자리를 패치 가장자리로 봉합하여 동맥을 더 넓힐 수 있다(패치 혈관 형성술).",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이 패치는 합성 재료로 만들거나 환자 자신의 정맥 조각일 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "무엇을 알아보고 싶었는가?",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "경동맥 내막 절제술 후 혈관 성형술을 받은 사람들이 일차 봉합술을 받은 사람들에 비해 수술 후 장단기적으로 뇌졸중이나 사망할 확률이 더 낮거나 수술 시간에 더 많은 합병증을 겪지 않고 동맥이 다시 좁아질 가능성이 더 낮은지 확인하고 싶었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "무엇을 했는가?",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "경동맥 내막 절제술을 받은 사람들의 패치 혈관 성형술과 1차 봉합을 비교한 연구를 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "연구 방법 및 연구 규모 등의 요인을 바탕으로 결과를 비교 및 요약하고 근거에 대한 신뢰도를 평가했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "무엇을 찾았는가? 2,304건의 경동맥 내막 절제술을 받은 2,100명의 참가자와 관련된 11건의 연구를 발견했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "연구는 전 세계에서 수행되었다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "주요 결과 패치 혈관 성형술은 일차 봉합에 비해 수술 후 장단기적으로 뇌졸중의 위험을 낮췄다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "패치 혈관 성형술은 동맥이 막힐 위험과 장기적으로 환자가 뇌졸중을 일으키거나 사망할 위험을 줄일 수 있다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "근거의 한계 일부 연구에서는 최대 5년 동안 참가자를 모니터링한 반면, 다른 연구에서는 퇴원한 후 참가자 모니터링을 중단했다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이것은 근거에 대해 불확실하게 만든다.",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "이 근거는 얼마나 최신인가?",
+      "en_txt": null,
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": "근거는 2021년 9월까지 검색했다.",
+      "en_txt": null,
+      "align_score": null
+    }
+  ]
+}
