@@ -1,0 +1,478 @@
+{
+  "document_id": "ee_mfds_provided_0003",
+  "meta": {
+    "set": "EE",
+    "source_folder": "16",
+    "source_code": "mfds_provided",
+    "source_name": "식약처 제공 번역본",
+    "orig_doc_id": "5. IPRP QWGG Guidance for Q Assessors DS (ver. 1.1, 20180920)",
+    "category_l1": "규제·지침",
+    "category_l2": "허가·심사",
+    "category_l3": "식약처 제공 번역본",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "ko",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": 50
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "section",
+      "section": "GENERAL",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "GENERAL",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "section",
+      "section": "Purpose",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The purpose of this document is to provide guidance and assistance to new and existing Quality Assessors in the assessment of the technical information contained in Quality Module (Module 3) of Active Substance Master Files (ASMFs)/Drug Master Files (DMFs) and in marketing authorisation applications (MAAs) and to facilitate the preparation of Quality Assessment Reports (QARs). This Guidance for Quality Assessors was initially drafted by the ACSS Consortium - Generic Medicines Working Group which is an international initiative involving the regulatory authorities of Australia, Canada, Singapore and Switzerland to advance collaboration and work sharing initiatives taking place in review and regulation of generic medicines. The Guidance for Assessors has since been developed and finalized as an initiative under the broader IGDRP, now IPRP (which includes the four regulatory authorities of the ACSS Consortium).",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "section",
+      "section": "Scope",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The guidance document applies to new MAAs as well as ASMFs/DMFs. This guidance document only reflects information on the assessment of chemical entities; it does not include guidance for the assessment of biologicals / biotech products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "section",
+      "section": "Background Information",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This Guidance for Quality Assessors was initially drafted by the ACSS Consortium - Generic Medicines Working Group, which is an international initiative involving the regulatory authorities of Australia, Canada, Singapore and Switzerland to advance collaboration and work sharing initiatives taking place in review and regulation of generic medicines. The Guidance for Assessors has since been developed and finalized as an initiative under the broader IGDRP, now IPRP (which includes the four regulatory authorities of the ACSS Consortium). This Guidance for Quality Assessors follows the format and terminology recommended in ICH’s CTD-Q guideline. This guidance is structured to provide recommendations on the preparation of the Quality Assessment Report (QAR), as indicated by “Information to be stated in the QAR”, followed by further guidance to assist Quality Assessors in the assessment of the technical information, as indicated by “Points to be considered during assessment”. It should be noted that this document outlines the recommended components of an evaluation of the Quality Module (Module 3) of the ASMF/DMF or application (as applicable). It is acknowledged that there may be additional components to be considered by each regulatory agency during the assessment of the Quality Module beyond this document, depending on each regulatory agencies’ legislative/regulatory/policy requirements and review practices.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The QAR should be clear, concise and sufficiently detailed to allow for secondary assessment and finalisation of the recommendations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The QAR should include summaries of the critical assessments by the assessor of the data provided in the ASMF/DMF or application (as applicable), scientific discussions reflecting the assessor’s views on the information and salient findings. This should include justification for the assessor’s recommendations and conclusions (e.g., both positive and negative) and identification of any noted deficiencies in the ASMF/DMF or application that need to be addressed by the ASMF/DMF Holder or applicant. The QAR will document the considerations and findings reached during the assessment to allow for evidence-based decisions on the acceptability of the proposed drug substance and drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The text in the ASMF/DMF QAR template in blue font is instructional and is intended to be modified or deleted (as appropriate).",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information generated by the ASMF/DMF Holder or applicant (e.g., copied from the dossier) should be clearly distinguishable from assessor’s comments and conclusions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The QAR should include discussions on the Quality-related information that needs to be accurately reflected in the product labelling (e.g., Product Monograph, Product Information, Package Insert, container labels).",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cross-references may be used to clearly indicate the origin of certain information used in the QAR, such as the specific parts of the dossier (e.g., overview, summary, study reports), references to the literature and guidelines or other sources.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of tables is encouraged; examples are given in the QAR template and are to be used as appropriate. Tables copied from the Quality Overall Summary (QOS) as provided by the ASMF/DMF Holder or applicant may be inserted in lieu of that given in the QAR template provided that the inserted table contains the same information recommended in the template.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Selected information from an ASMF/DMF or application (e.g., diagrams, flowcharts) may be inserted into the QAR provided that the image is clearly legible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prompts within the QAR template may be removed when deemed appropriate by the assessor (e.g., not applicable for the ASMF/DMF or application under review).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When available, ICH terminology and the terminology in the IPRP QWGG ASMF/DMF Lexicon of Quality Terms should be used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acronyms should be spelled out the first time they are used in the QAR (and in the deficiency comments to the ASMF/DMF Holder or applicant), unless they are well-established industrial terms (e.g., HPLC, IR). The acronym should be then be subsequently used in the QAR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If an application refers to an ASMF/DMF for the drug substance information, then the assessment and discussion of the Restricted Part of the ASMF/DMF is to be documented in the Restricted Part section of the QAR for the ASMF/DMF.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If an application does not refer to an ASMF/DMF for drug substance information, assessment and discussion should be documented in the respective CTD sections.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The deficiencies identified during the assessment of the ASMF/DMF or application (as applicable) should be collated in the section “List of Questions”. The deficiency comments should be:",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "section",
+      "section": "ADMINISTRATIVE INFORMATION AND QUALITY ASSESSOR’S INTRODUCTION",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ADMINISTRATIVE INFORMATION AND QUALITY ASSESSOR’S INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "section",
+      "section": "DRUG SUBSTANCE",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DRUG SUBSTANCE",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "section",
+      "section": "General Information",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "General Information",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "section",
+      "section": "Nomenclature",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nomenclature",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "section",
+      "section": "Structure",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Structure",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "section",
+      "section": "General Properties",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "General Properties",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "section",
+      "section": "Manufacture",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Manufacture",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "section",
+      "section": "Manufacturer(s)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Manufacturer(s)",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "section",
+      "section": "Description of Manufacturing Process and Process Controls",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Description of Manufacturing Process and Process Controls",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "section",
+      "section": "Control of Materials",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Control of Materials",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "section",
+      "section": "Controls of Critical Steps and Intermediates",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Controls of Critical Steps and Intermediates",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "section",
+      "section": "Process Validation and/or Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Process Validation and/or Evaluation",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "section",
+      "section": "Manufacturing Process Development",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Manufacturing Process Development",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "section",
+      "section": "Characterisation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Characterisation",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "section",
+      "section": "Elucidation of Structure and other Characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Elucidation of Structure and other Characteristics",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "section",
+      "section": "Impurities",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Impurities",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "section",
+      "section": "Control of the Drug Substance",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Control of the Drug Substance",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "section",
+      "section": "Specification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Specification",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "section",
+      "section": "Analytical Procedures",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Analytical Procedures",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "section",
+      "section": "Validation of Analytical Procedures",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Validation of Analytical Procedures",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "section",
+      "section": "Batch Analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Batch Analyses",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "section",
+      "section": "Justification of Specification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Justification of Specification",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "section",
+      "section": "Reference Standards or Materials",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Reference Standards or Materials",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "section",
+      "section": "Container Closure System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Container Closure System",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "section",
+      "section": "Stability",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Stability",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "section",
+      "section": "Stability Summary and Conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Stability Summary and Conclusions",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "section",
+      "section": "Post-approval Stability Protocol and Stability Commitment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Post-approval Stability Protocol and Stability Commitment",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "section",
+      "section": "Stability Data",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Stability Data",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "worded in a manner intended to be directed to the ASMF/DMF Holder or applicant (as applicable);",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "clear, concise and sufficient detail describing the noted deficiency;",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "risk-based, science-based questions and supported by existing guidelines and regulatory requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "section",
+      "section": "LIST OF ABBREVIATIONS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "API Active Pharmaceutical Ingredient ASMF Active Substance Master File BCS Biopharmaceutics Classification System BP British Pharmacopoeia CEP Certificate of Suitability to the Monographs of the European Pharmacopoeia CCS Container Closure System CFU Colony Forming Unit CTD-Q Common Technical Document-Quality (also referred to as M4Q) d10, d50, d90 Representation of the midpoint and the range for particle size distribution DMF Drug Master File EMA European Medicines Agency ICH International Council on Harmonisation IGDRP International Generic Drug Regulators Programme LOD Limit of Detection LOQ Limit of Quantification MA Market Authorisation MAA Marketing Authorisation Application NCE New Chemical Entity NLT Not Less Than NMT Not More Than PAR Proven Acceptable Range Ph. Eur. European Pharmacopoeia PSD Particle Size Distribution QAR Quality Assessment Report Q&A Questions & Answers document QbD Quality by Design SSTs System Suitability Tests USP United States Pharmacopeia",
+      "align_score": null
+    }
+  ]
+}

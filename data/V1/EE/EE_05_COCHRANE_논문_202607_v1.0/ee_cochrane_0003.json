@@ -1,0 +1,325 @@
+{
+  "document_id": "ee_cochrane_0003",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000012.PUB4",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000012.pub4/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Alternative institutional settings have been established for the care of pregnant women who prefer little or no medical intervention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The settings may offer care throughout pregnancy and birth, or only during labour; they may be part of hospitals or freestanding entities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Specially designed labour rooms include bedroom‐like rooms, ambient rooms, and Snoezelen rooms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Primary: to assess the effects of care in an alternative institutional birth environment compared to care in a conventional setting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Secondary: to determine if the effects of birth settings are influenced by staffing, architectural features, organizational models or geographical location.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 March 2012).",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All randomized or quasi‐randomized controlled trials which compared the effects of an alternative institutional birth setting to a conventional setting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We used the standard methods of the Cochrane Collaboration Pregnancy and Childbirth Group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors evaluated methodological quality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We performed double data extraction and presented results using risk ratios (RR) and 95% confidence intervals (CI).",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ten trials involving 11,795 women met the inclusion criteria.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found no trials of freestanding birth centres or Snoezelen rooms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Allocation to an alternative setting increased the likelihood of: no intrapartum analgesia/anesthesia (six trials, n = 8953; RR 1.18, 95% CI 1.05 to 1.33); spontaneous vaginal birth (eight trials; n = 11,202; RR 1.03, 95% CI 1.01 to 1.05); breastfeeding at six to eight weeks (one trial, n = 1147; RR 1.04, 95% CI 1.02 to 1.06); and very positive views of care (two trials, n = 1207; RR 1.96, 95% CI 1.78 to 2.15).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Allocation to an alternative setting decreased the likelihood of epidural analgesia (eight trials, n = 10.931; RR 0.80, 95% CI 0.74 to 0.87); oxytocin augmentation of labour (eight trials, n = 11,131; RR 0.77, 95% CI 0.67 to 0.88); instrumental vaginal birth (eight trials, n = 11,202; RR 0.89, 95% CI 0.79 to 0.99), and episiotomy (eight trials, n = 11,055; RR 0.83, 95% CI 0.77 to 0.90).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no apparent effect on other adverse maternal or neonatal outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Care by the same or separate staff had no apparent effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No conclusions could be drawn regarding the effects of continuity of caregiver or architectural characteristics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In several of the trials included in this review, the design features of the alternative setting were confounded by important differences in the organizational models for care (separate staff for the alternative setting, offering more continuity of caregiver), and thus it is difficult to draw inferences about the independent effects of the physical birth environment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hospital birth centres are associated with lower rates of medical interventions during labour and birth and higher levels of satisfaction, without increasing risk to mothers or babies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In high‐ and moderate‐income countries, labour wards have become the settings for childbirth for the majority of childbearing women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Routine medical interventions have also increased steadily over time, leading to many questions about benefits, safety, and risk for healthy childbearing women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The design of conventional hospital labour rooms is similar to the design of other hospital sick rooms, i.e. the hospital bed is a central feature of the room, and medical equipment is in plain view.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In an effort to support normal labour and birth for healthy childbearing women, a variety of institutional maternity care settings have been constructed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Some are 'home‐like' bedrooms within hospital labour wards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Others are 'home‐like' birthing units adjacent to the labour wards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Others are freestanding birth centres.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "More recently, 'ambient' and Snoezelen rooms have been constructed within labour wards; these rooms are not home‐like but contain a variety of sensory stimuli and furnishings designed to promote feelings of calmness, control, and freedom of movement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The primary aim of this review is to evaluate the effects, on labour and birth outcomes, of care in an alternative institutional birth setting compared with care in a conventional hospital labour ward.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included ten trials involving 11,795 women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found no trials of freestanding birth centres.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When compared to conventional institutional settings, alternative settings were associated with reduced likelihood of medical interventions, increased likelihood of spontaneous vaginal birth, increased maternal satisfaction, and greater likelihood of continued breastfeeding at one to two months postpartum, with no apparent risks to mother or baby.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Unfortunately, in several trials, the design features of the alternative setting were confounded by differences in the organizational models of care (including separate staff and more continuity of caregiver in the alternative setting), and thus it is not possible to draw conclusions about the independent effects of the design of the birth environment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We conclude that women and policy makers should be informed about the benefits of institutional settings which focus on supporting normal labour and birth.",
+      "align_score": null
+    }
+  ]
+}

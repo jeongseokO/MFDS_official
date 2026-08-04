@@ -1,0 +1,307 @@
+{
+  "document_id": "ee_cochrane_0014",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000095.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000095.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Commercially available preparations of garlic have been reported to have beneficial effects on some of the risk factors associated with atherosclerosis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess the effects of garlic (both dried and non‐powdered preparations) for the treatment of peripheral arterial occlusive disease.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched January 2013) and CENTRAL (2012, Issue 12).",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomised trials of garlic therapy in patients with lower limb atherosclerosis were included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The main outcomes were objective measures of progression of underlying atherosclerosis (e.g. ankle pressure measurements, treadmill testing) and subjective measures (e.g. symptom progression).",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors (RJ and JK) independently extracted data and assessed trial quality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One author (RJ) contacted investigators to obtain information needed for the review that could not be found in published reports.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One eligible trial with 78 participants was found.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Both men and women (aged 40 to 75) were included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The follow‐up period was short, 12 weeks only.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After twelve weeks of treatment, pain‐free walking distance increased from 161 to 207 metres in the group receiving garlic and from 172 to 203 metres in the placebo group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This was not a statistically significant difference.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no difference in change of systolic or diastolic blood pressure, heart rate, ankle and brachial pressures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No severe side effects were observed and nine patients taking garlic (28%) and four patients taking placebo (12%) complained of a noticeable garlic smell.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three trials were excluded from the review because they did not include any clinical measurements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One small trial of short duration found no statistically significant effect of garlic on walking distance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The most common symptom of peripheral arterial occlusive disease is intermittent claudication, discomfort in the legs that is triggered by exercise and relieved with rest.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The underlying cause is atherosclerosis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Risk factors associated with the development of peripheral arterial disease include cigarette smoking, raised blood cholesterol and other fats (lipids), high blood pressure and diabetes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Garlic has been used as a medicinal therapy since ancient times.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The main active ingredient is an unstable odorous sulphurous compound called allicin so that active ingredients may be lost in processing, and with different types of preparation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Commercially available preparations of garlic are reported to have beneficial effects on some of the risk factors for vascular disease.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With fresh garlic, at least seven cloves of garlic per day are needed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Apart from the odour, garlic has only minor gastrointestinal side effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The review authors made a thorough search of the medical literature and found one controlled trial in which 78 participants with peripheral arterial occlusive disease were randomised to receive garlic or a placebo medication.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dose of garlic was two coated tablets of 200 mg oral standardised garlic powder twice daily.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Both men and women, aged 40 to 75 years, were included although sixteen did not keep to their treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After twelve weeks of treatment, pain‐free walking distance increased similarly whether receiving garlic or placebo.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Similarly there was no difference in the changes in blood pressure, heart rate and pressure differences between the ankle and brachial pressures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No severe side effects were observed although more people taking garlic (28%) than placebo (12%) complained of a noticeable garlic smell.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Peripheral arterial occlusive disease is a long‐term (chronic) condition and any improvements in symptoms would require longer‐term treatment and follow up than in this study.",
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "document_id": "ee_cochrane_0002",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000009.PUB4",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000009.pub4/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acupuncture and related techniques are promoted as a treatment for smoking cessation in the belief that they may reduce nicotine withdrawal symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The objectives of this review are to determine the effectiveness of acupuncture and the related interventions of acupressure, laser therapy and electrostimulation in smoking cessation, in comparison with no intervention, sham treatment, or other interventions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Tobacco Addiction Group Specialized Register (which includes trials of smoking cessation interventions identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and PsycINFO) and AMED in October 2013.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We also searched four Chinese databases in September 2013: Sino‐Med, China National Knowledge Infrastructure, Wanfang Data and VIP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomized trials comparing a form of acupuncture, acupressure, laser therapy or electrostimulation with either no intervention, sham treatment or another intervention for smoking cessation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We extracted data in duplicate on the type of smokers recruited, the nature of the intervention and control procedures, the outcome measures, method of randomization, and completeness of follow‐up.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We assessed abstinence from smoking at the earliest time‐point (before six weeks) and at the last measurement point between six months and one year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We used the most rigorous definition of abstinence for each trial, and biochemically validated rates if available.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Those lost to follow‐up were counted as continuing smokers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Where appropriate, we performed meta‐analysis pooling risk ratios using a fixed‐effect model.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 38 studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Based on three studies, acupuncture was not shown to be more effective than a waiting list control for long‐term abstinence, with wide confidence intervals and evidence of heterogeneity (n = 393, risk ratio [RR] 1.79, 95% confidence interval [CI] 0.98 to 3.28, I² = 57%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Compared with sham acupuncture, the RR for the short‐term effect of acupuncture was 1.22 (95% CI 1.08 to 1.38), and for the long‐term effect was 1.10 (95% CI 0.86 to 1.40).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The studies were not judged to be free from bias, and there was evidence of funnel plot asymmetry with larger studies showing smaller effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The heterogeneity between studies was not explained by the technique used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acupuncture was less effective than nicotine replacement therapy (NRT).",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no evidence that acupuncture is superior to psychological interventions in the short‐ or long‐term.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is limited evidence that acupressure is superior to sham acupressure for short‐term outcomes (3 trials, n = 325, RR 2.54, 95% CI 1.27 to 5.08), but no trials reported long‐term effects, The pooled estimate for studies testing an intervention that included continuous auricular stimulation suggested a short‐term benefit compared to sham stimulation (14 trials, n = 1155, RR 1.69, 95% CI 1.32 to 2.16); subgroup analysis showed an effect for continuous acupressure (7 studies, n = 496, RR 2.73, 95% CI 1.78 to 4.18) but not acupuncture with indwelling needles (6 studies, n = 659, RR 1.24, 95% CI 0.91 to 1.69).",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At longer follow‐up the CIs did not exclude no effect (5 trials, n = 570, RR 1.47, 95% CI 0.79 to 2.74).",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The evidence from two trials using laser stimulation was inconsistent and could not be combined.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The combined evidence on electrostimulation suggests it is not superior to sham electrostimulation (short‐term abstinence: 6 trials, n = 634, RR 1.13, 95% CI 0.87 to 1.46; long‐term abstinence: 2 trials, n = 405, RR 0.87, 95% CI 0.61 to 1.23).",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although pooled estimates suggest possible short‐term effects there is no consistent, bias‐free evidence that acupuncture, acupressure, or laser therapy have a sustained benefit on smoking cessation for six months or more.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, lack of evidence and methodological problems mean that no firm conclusions can be drawn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Electrostimulation is not effective for smoking cessation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Well‐designed research into acupuncture, acupressure and laser stimulation is justified since these are popular interventions and safe when correctly applied, though these interventions alone are likely to be less effective than evidence‐based interventions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We reviewed the evidence that acupuncture, acupressure, laser therapy or electrical stimulation help people who are trying to stop smoking.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acupuncture is a traditional Chinese therapy, generally using fine needles inserted through the skin at specific points in the body.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Needles may be stimulated by hand or using an electric current (electroacupuncture).",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Related therapies, in which points are stimulated without the use of needles, include acupressure, laser therapy and electrical stimulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Needles and acupressure may be used just during treatment sessions, or continuous stimulation may be provided by using indwelling needles or beads or seeds taped to to acupressure points.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The aim of these therapies is to reduce the withdrawal symptoms that people experience when they try to quit smoking.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The review looked at trials comparing active treatments with sham treatments or other control conditions including advice alone, or an effective treatment such as nicotine replacement therapy (NRT) or counselling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sham treatment involves inserting needles or applying pressure to other points of the body not believed to have an active effect, or using dummy needles that do not go through the skin, or inactive laser or electrical stimulation devices.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Using this type of control means that the patients should not know whether they are receiving active treatment or not.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess whether there was a sustained benefit in helping people to stop smoking we looked at the proportion of people who were abstinent at least six months after quit date.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We also looked at short term outcomes, up to six weeks after quit date.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Evidence of benefit after six months is regarded as necessary to show that a treatment could help people stop smoking permanently.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study characteristics",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 38 randomised studies published up to October 2013.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Trials tested a variety of different interventions and controls.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The specific points used, the number of sessions and whether there was continuous stimulation varied.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three studies (393 people) compared acupuncture to a waiting list control.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nineteen studies (1,588 people) compared active acupuncture to sham acupuncture, but only 11 of these studies included long‐term follow‐up of six months or more.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three studies (253 people) compared acupressure to sham acupressure but none had long‐term follow‐up.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two trials used laser stimulation and six (634 people) used electrostimulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The overall quality of the evidence was moderate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three studies comparing acupuncture to a waiting list control and reporting long‐term abstinence did not show clear evidence of benefit.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For acupuncture compared with sham acupuncture, there was weak evidence of a small short‐term benefit but not of any long‐term benefit.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acupuncture was less effective than nicotine replacement therapy (NRT) and not shown to be better than counselling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was limited evidence that acupressure is superior to sham acupressure in the short term but no evidence about long‐term effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In an analysis of the subgroup of trials where the treatment included continuous stimulation, those trials which used continuous acupressure to points on the ear had the largest short‐term effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The evidence from two trials using laser stimulation was inconsistent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The seven trials of electrostimulation do not suggest evidence of benefit compared to sham electrostimulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The review did not find consistent evidence that active acupuncture or related techniques increased the number of people who could successfully quit smoking.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, some techniques may be better than doing nothing, at least in the short term, and there is not enough evidence to dismiss the possibility that they might have an effect greater than placebo.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They are likely to be less effective than current evidence‐based interventions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They are safe when correctly applied.",
+      "align_score": null
+    }
+  ]
+}

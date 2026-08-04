@@ -1,0 +1,1162 @@
+{
+  "document_id": "ee_ctg_0004",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00000136",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Studies of the Ocular Complications of AIDS (SOCA)--Foscarnet-Ganciclovir CMV Retinitis Trial (FGCRT)",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00000136",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Studies of the Ocular Complications of AIDS (SOCA)--Foscarnet-Ganciclovir CMV Retinitis Trial (FGCRT)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "HIV Infections",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[1]",
+      "ko_txt": null,
+      "en_txt": "Cytomegalovirus Retinitis",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[1]",
+      "ko_txt": null,
+      "en_txt": "Drug: Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "NEI-35",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "U10EY008057 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Parallel Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "Single (Outcomes Assessor)",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Curtis Meinert, PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "The Johns Hopkins University",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "410-955-8198",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "cmeinert@jhsph.edu",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "234 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-09-23",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-09-23",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-09-24",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2015-06-22",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2015-09-22",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2015-10-22",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2015-09-22",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2015-10-22",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2015-07",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "The induction dose for foscarnet is 60 mg/kg every 8 hours. Full dose maintenance therapy for foscarnet is 90 mg/kg/day\n\nFoscarnet: 60 mg/kg every 8 hours, 90 mg/kg/day\n\nGanciclovir: 5 mg/kg every 12 hours, 5 mg/kg every 24 hours",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "The induction dose for ganciclovir is 5 mg/kg every 12 hours. Full dose maintenance therapy for ganciclovir is 5 mg/kg every 24 hours, 7 days a week.\n\nFoscarnet: 60 mg/kg every 8 hours, 90 mg/kg/day\n\nGanciclovir: 5 mg/kg every 12 hours, 5 mg/kg every 24 hours",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "The induction dose for foscarnet is 60 mg/kg every 8 hours. Full dose maintenance therapy for foscarnet is 90 mg/kg/day\n\nFoscarnet: 60 mg/kg every 8 hours, 90 mg/kg/day\n\nGanciclovir: 5 mg/kg every 12 hours, 5 mg/kg every 24 hours",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "The induction dose for ganciclovir is 5 mg/kg every 12 hours. Full dose maintenance therapy for ganciclovir is 5 mg/kg every 24 hours, 7 days a week.\n\nFoscarnet: 60 mg/kg every 8 hours, 90 mg/kg/day\n\nGanciclovir: 5 mg/kg every 12 hours, 5 mg/kg every 24 hours",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "234",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "234",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Total",
+      "ko_txt": null,
+      "en_txt": "234",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "234",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "9",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "20",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "98",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "116",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "214",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "234",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Total",
+      "ko_txt": null,
+      "en_txt": "234",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Mortality",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "All patients enrolled will be followed until a common study closing date, which was chosen to provide a minimum of 1 year of follow-up for all patients enrolled in the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "The induction dose for foscarnet is 60 mg/kg every 8 hours. Full dose maintenance therapy for foscarnet is 90 mg/kg/day\n\nFoscarnet: 60 mg/kg every 8 hours, 90 mg/kg/day\n\nGanciclovir: 5 mg/kg every 12 hours, 5 mg/kg every 24 hours",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "The induction dose for ganciclovir is 5 mg/kg every 12 hours. Full dose maintenance therapy for ganciclovir is 5 mg/kg every 24 hours, 7 days a week.\n\nFoscarnet: 60 mg/kg every 8 hours, 90 mg/kg/day\n\nGanciclovir: 5 mg/kg every 12 hours, 5 mg/kg every 24 hours",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Number | Unit of Measure: participants.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Number | Unit of Measure: participants.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Time Frame",
+      "ko_txt": null,
+      "en_txt": "1 year, 7 months",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Foscarnet",
+      "ko_txt": null,
+      "en_txt": "The induction dose for foscarnet is 60 mg/kg every 8 hours. Full dose maintenance therapy for foscarnet is 90 mg/kg/day\n\nFoscarnet: 60 mg/kg every 8 hours, 90 mg/kg/day\n\nGanciclovir: 5 mg/kg every 12 hours, 5 mg/kg every 24 hours",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "The induction dose for ganciclovir is 5 mg/kg every 12 hours. Full dose maintenance therapy for ganciclovir is 5 mg/kg every 24 hours, 7 days a week.\n\nFoscarnet: 60 mg/kg every 8 hours, 90 mg/kg/day\n\nGanciclovir: 5 mg/kg every 12 hours, 5 mg/kg every 24 hours",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Foscarnet.Affected",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Foscarnet.at Risk",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Ganciclovir.Affected",
+      "ko_txt": null,
+      "en_txt": "73",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Ganciclovir.at Risk",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Opportunistic Infection.Foscarnet.# Events",
+      "ko_txt": null,
+      "en_txt": "153",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Opportunistic Infection.Foscarnet.Affected",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Opportunistic Infection.Foscarnet.at Risk",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Opportunistic Infection.Ganciclovir.# Events",
+      "ko_txt": null,
+      "en_txt": "180",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Opportunistic Infection.Ganciclovir.Affected",
+      "ko_txt": null,
+      "en_txt": "73",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Opportunistic Infection.Ganciclovir.at Risk",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Foscarnet.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Foscarnet.at Risk",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Ganciclovir.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Ganciclovir.at Risk",
+      "ko_txt": null,
+      "en_txt": "127",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "Johns Hopkins Bloomberg School of Public Health",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[0]",
+      "ko_txt": null,
+      "en_txt": "National Eye Institute (NEI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[1]",
+      "ko_txt": null,
+      "en_txt": "Johns Hopkins University",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[2]",
+      "ko_txt": null,
+      "en_txt": "University of Wisconsin, Madison",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[3]",
+      "ko_txt": null,
+      "en_txt": "Baylor College of Medicine",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[4]",
+      "ko_txt": null,
+      "en_txt": "Louisiana State University Health Sciences Center in New Orleans",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[5]",
+      "ko_txt": null,
+      "en_txt": "New York Presbyterian Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[6]",
+      "ko_txt": null,
+      "en_txt": "Icahn School of Medicine at Mount Sinai",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[7]",
+      "ko_txt": null,
+      "en_txt": "NYU Langone Health",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[8]",
+      "ko_txt": null,
+      "en_txt": "Northwestern University",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[9]",
+      "ko_txt": null,
+      "en_txt": "University of California, Los Angeles",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[10]",
+      "ko_txt": null,
+      "en_txt": "University of California, San Diego",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[11]",
+      "ko_txt": null,
+      "en_txt": "University of California, San Francisco",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[12]",
+      "ko_txt": null,
+      "en_txt": "University of Miami",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[13]",
+      "ko_txt": null,
+      "en_txt": "University of Massachusetts, Worcester",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[14]",
+      "ko_txt": null,
+      "en_txt": "Memorial Sloan Kettering Cancer Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Curtis Meinert, PhD,  Johns Hopkins University",
+      "align_score": null
+    }
+  ]
+}

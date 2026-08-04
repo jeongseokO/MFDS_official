@@ -1,0 +1,271 @@
+{
+  "document_id": "ee_cochrane_0009",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000048",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000048/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Growing ex‐preterm infants who undergo general anaesthesia for surgery at about term‐equivalent age may have episodes of apnoea, cyanosis and bradycardia during the early postoperative period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A breathing stimulant such as caffeine given at the time of operation might prevent these episodes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To determine the effect of the prophylactic use of caffeine to prevent episodes of apnoea, cyanosis and bradycardia during the postoperative period in ex‐preterm infants who undergo general anaesthesia for surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The standard strategy of the Neonatal Review Group was used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This included searches of the The Cochrane Library, Oxford Database of Perinatal Trials, MEDLINE, EMBASE, CINAHL and abstracts of the Society for Pediatric Research.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seach updated in January 2011.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All trials utilising random or quasi‐random patient allocation, in which treatment was compared with placebo or no treatment were included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used to select trials, evaluate trial quality and to extract data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each review author extracted data separately, and then compared and resolved any differences.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Meta‐analysis used relative risk and risk difference.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three eligible trials were found.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In each trial apnoea/bradycardia occurred in fewer infants treated with caffeine.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The typical estimate for relative risk is 0.09 (95% CI 0.02 to 0.34).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The typical estimate for absolute risk difference is ‐0.58 (95% CI ‐0.74 to ‐0.43) indicating that fewer than two infants have to be treated with caffeine to expect to prevent one with postoperative apnoea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In two trials (Welborn 1989; LeBard 1989), continuous recordings of oxygen saturation detected hypoxaemic episodes (< 90%) in fewer treatment than control infants [typical RR 0.13 (95% CI 0.03 to 0.63)].",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No infant in any trial required intubation and mechanical ventilation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No adverse effects were reported.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Implications for practice.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After general anaesthesia, caffeine can be used to prevent postoperative apnoea/bradycardia and episodes of oxygen desaturation in growing preterm infants if this is deemed clinically necessary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In view of the small numbers of infants studied in these trials and uncertainty concerning the clinical significance of the episodes, caution is warranted in applying these results to routine clinical practice.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Implications for research.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is a need to determine which infants might benefit most by this treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Studies confined to those most at risk of apnoea (prior history, younger postmenstrual age) and those that might require mechanical ventilation or chronic lung disease would be of value.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Caffeine may be able to prevent postoperative apnoea and bradycardia in preterm babies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Growing babies who were born too early (preterm) and who undergo general anaesthetic for surgery may have complications, including episodes of apnoea (pauses in breathing), cyanosis (from lack of oxygen in the blood), and bradycardia (slow heartbeat).",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Caffeine, a methylxanthine drug, is thought to stimulate breathing, and so possibly prevent apnoea and subsequent problems.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The review found some evidence that caffeine given at the time of surgery reduces apnoea, bradycardia, and cyanosis after anaesthetic, but the importance of this is unclear.",
+      "align_score": null
+    }
+  ]
+}

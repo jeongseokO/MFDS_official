@@ -1,0 +1,334 @@
+{
+  "document_id": "ee_cochrane_0011",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000066.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000066.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Striae gravidarum (stretch marks developing during pregnancy) occur in 50% to 90% of women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They appear as red or purple lines or streaks that fade slowly to leave pale lines or marks on the skin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The abdomen, breasts and thighs are commonly affected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The exact cause of stretch marks is unclear and no preparation has yet been shown to be effective in preventing the development of stretch marks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They are a source of significant anxiety for women, impacting on their quality of life.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess the effects of topical preparations on the prevention of stretch marks in pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 October 2011) and reference lists of retrieved reports.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included randomised controlled trials and quasi‐randomised controlled trials comparing topical preparations (with active ingredients) with other topical preparations (with active ingredients), with a placebo (that is, preparations without active ingredients) or with no treatment for the prevention of stretch marks in pregnant women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three review authors independently assessed trial eligibility and trial quality, and extracted data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Data were checked for accuracy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The primary outcome was the presence of stretch marks and the secondary outcome was the severity of stretch marks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included six trials involving 800 women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Of the six trials, we judged the risk of bias for three as 'low risk' for random sequence generation, blinding of participants and personnel, blinding of outcome assessment, completeness of outcome data and selective reporting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no statistically significant average difference in the development of stretch marks in women who received topical preparations with active ingredients compared to women who received a placebo or no treatment (average risk ratio (RR) 0.74; 95% confidence interval (CI) 0.53 to 1.03; five trials, 474 women; random‐effects model, Tau² = 0.09, I² = 65%) (Analysis 1.1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results were consistent with the main effects when we performed a sensitivity analysis excluding studies judged to be at high risk of bias for random sequence generation, allocation concealment or more than 20% missing data for a given outcome (average RR 0.81; 95% CI 0.60 to 1.10; four trials, 424 women; random‐effects model, Tau² = 0.05, I² = 57%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The was no statistically significant average mean difference in the severity of stretch marks (standardised mean difference (SMD) ‐0.31; 95% CI ‐1.06 to 0.44; two trials, 255 women; Tau² = 0.26, I² = 87%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no statistically significant difference in the development of stretch marks in women who received topical preparations with active ingredients compared to women who received other topical preparations with active ingredients (average RR 0.51; 95% CI 0.16 to 1.60; two trials, 305 women; Tau² = 0.53, I² = 74%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no statistically significant difference in the severity of stretch marks (mean difference (MD) ‐0.20; 95% CI ‐0.53 to 0.13; one trial, 206 women; heterogeneity not applicable).",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found no high‐quality evidence to support the use of any of the topical preparations in the prevention of stretch marks during pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is a clear need for robust, methodologically rigorous randomised trials involving larger sample sizes to evaluate the effects of topical preparations on the development of stretch marks in pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, it is important that preparations commonly used by women to prevent and treat stretch marks are evaluated within the context of robust, methodologically rigorous and adequately powered randomised trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Stretch marks commonly develop during pregnancy, particularly in the third trimester.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They affect 50% to 90% of women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They appear as red lines or streaks that fade slowly after the pregnancy to leave pale lines on the skin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The abdomen, breasts and thighs are most often affected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They do not disappear entirely, therefore any treatment which prevents them would be welcomed by many women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this review, we identified randomised controlled trials and quasi‐randomised controlled trials that compared topical creams, lotions and ointments containing active ingredients with placebo or no treatment, and topical preparations with active ingredients versus other topical preparations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included six trials (involving 800 women) in this review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found that the application of a skin preparation to the areas affected by stretch marks during pregnancy did not prevent the development of stretch marks in the women during pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Only three trials (involving 461 women) looked at the severity of the stretch marks and did not show a clear difference.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The preparations used included Alphastria, Trofolastin, Verum, olive oil and cocoa butter, which all contain vitamin E; Alphastria and Verum also have hyaluronic acid.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Of the six trials, we judged three to be at low risk of bias.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All trials were relatively small, with four of the six trials each including less than 100 women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The trials were also different in terms of when the women first started to use the topical applications, ranging from the first trimester to the first 20 weeks.",
+      "align_score": null
+    }
+  ]
+}

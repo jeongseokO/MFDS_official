@@ -1,0 +1,2080 @@
+{
+  "document_id": "ee_ctg_0017",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00001277",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Studies of Elevated Parathyroid Activity",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00001277",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Studies of Elevated Parathyroid Activity",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "Hyperparathyroidism",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[1]",
+      "ko_txt": null,
+      "en_txt": "Hypercalcemia",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[2]",
+      "ko_txt": null,
+      "en_txt": "Parathyroid Neoplasm",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[3]",
+      "ko_txt": null,
+      "en_txt": "Multiple Endocrine Neoplasia",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[4]",
+      "ko_txt": null,
+      "en_txt": "MEN1",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: 68Ga-Dotatate",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[1]",
+      "ko_txt": null,
+      "en_txt": "Drug: 18F-DOPA",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "910085",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "91-DK-0085 ( Other Identifier ) (OTHER: NIH Clinical Center)",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Non-Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Parallel Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "None (Open Label)",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Diagnostic",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Dr. Smita Jha",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "NIDDK",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "301-827-1930",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "smita.jha@nih.gov",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "1553 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-11-04",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2022-04-06",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2022-05-12",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2022-06-07",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Actual",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2022-05-12",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2022-06-07",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Actual",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2022-02-07",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Primary Hyperparathyroidism - Incomplete Data",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Primary Hyperparathyroidism",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "DOTATATE and F-DOPA",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "Patients with confirmed or suspected primary hyperparathyroidism or complications who are missing age and other baseline data because of changes in data management system",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "Patients with confirmed or suspected primary hyperparathyroidism or complications",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "Patients scanned using imaging agents 68GALLIUM-DOTATATE and 18F-DOPA\n\n68Ga-Dotatate: 68Ga-Dotatate PET/CT will be administered prior to a PET/CT scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors.\n\n18F-DOPA: 18F-DOPA PET/CT will be administered prior to a whole-body scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "16",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Adverse Event.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Adverse Event.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Adverse Event.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].The tracer F-DOPA did not meet Quality Control Standards.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].The tracer F-DOPA did not meet Quality Control Standards.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].The tracer F-DOPA did not meet Quality Control Standards.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Primary Hyperparathyroidism - Incomplete Data",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Primary Hyperparathyroidism",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "DOTATATE and F-DOPA",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[3]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "Patients with confirmed or suspected primary hyperparathyroidism or complications who are missing age and other baseline data because of changes in data management system",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "Patients with confirmed or suspected primary hyperparathyroidism or complications",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "Patients scanned using imaging agents 68GALLIUM-DOTATATE and 18F-DOPA\n\n68Ga-Dotatate: 68Ga-Dotatate PET/CT will be administered prior to a PET/CT scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors.\n\n18F-DOPA: 18F-DOPA PET/CT will be administered prior to a whole-body scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "1553",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Baseline Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "Age is not available for 634 participants in the primary hyperparathyroidism arm because the necessary records are not in the current computer system",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1553",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Median (Inter-Quartile Range) | Unit of measure: Years.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "48 (36 to 60)",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Median (Inter-Quartile Range) | Unit of measure: Years.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "54 (38 to 64)",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Median (Inter-Quartile Range) | Unit of measure: Years.Total",
+      "ko_txt": null,
+      "en_txt": "48 (36 to 60)",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1553",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "409",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "582",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "997",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "225",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "318",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "556",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1553",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Total",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Total",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Total",
+      "ko_txt": null,
+      "en_txt": "1538",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1553",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Total",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "25",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Total",
+      "ko_txt": null,
+      "en_txt": "25",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Total",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "100",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Total",
+      "ko_txt": null,
+      "en_txt": "101",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "719",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "16",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Total",
+      "ko_txt": null,
+      "en_txt": "735",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Total",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "38",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Total",
+      "ko_txt": null,
+      "en_txt": "674",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1553",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Total",
+      "ko_txt": null,
+      "en_txt": "1553",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Type of Hyperparathyroidism",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "The purpose of this study is to understand the causes of primary hyperparathyroidism, to evaluate and improve methods for diagnosis and treatment, and to provide insight into the mechanisms of normal parathyroid function. Hereditary causes of primary hyperparathyroidism will be characterized. Patients were categorized as follows:\n\n1. MEN1: Diagnosed by demonstration of a germline variant in MEN1 gene or one of the following: a) two of three primary MEN1 manifestations b) one primary MEN1 manifestation with a family member with MEN1.\n2. Other familial: Non-MEN1 patients who had a positive family history of hyperparathyroidism suspicious for underlying germline predisposition syndrome.\n3. Sporadic: Patients who did not have a positive family history of hyperparathyroidism.\n4. Unknown: No data to help categorize the patients in any of the above categories.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "First year",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Primary Hyperparathyroidism - Incomplete Data",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Primary Hyperparathyroidism",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "DOTATATE and F-DOPA",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "Patients with confirmed or suspected primary hyperparathyroidism or complications who are missing age and other baseline data because of changes in data management system",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "Patients with confirmed or suspected primary hyperparathyroidism or complications",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "Patients scanned using imaging agents 68GALLIUM-DOTATATE and 18F-DOPA\n\n68Ga-Dotatate: 68Ga-Dotatate PET/CT will be administered prior to a PET/CT scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors.\n\n18F-DOPA: 18F-DOPA PET/CT will be administered prior to a whole-body scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].MEN1.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "90",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].MEN1.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "276",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].MEN1.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Other familial.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "61",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Other familial.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "116",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Other familial.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Sporadic.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "456",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Sporadic.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "419",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Sporadic.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Unknown - insufficient information.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Unknown - insufficient information.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Unknown - insufficient information.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Title",
+      "ko_txt": null,
+      "en_txt": "Organs With Identified Lesions",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Description",
+      "ko_txt": null,
+      "en_txt": "For each organ, agreement between 68Ga-DOTATATE and 18F-DOPA",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Days 1-6",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "Imaging was only conducted in the \"DOTATATE and F-DOPA\" Arm/Group and therefore results are only reported for this arm",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "DOTATATE and F-DOPA",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "Patients who received both DOTATATE and F-DOPA scans",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "16",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].No lesions by Dotatate or F-DOPA.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Lesions by F-DOPA only.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Lesions by Dotatate only.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Lesions by Both.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Title",
+      "ko_txt": null,
+      "en_txt": "Number of Lesions Identified",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Description",
+      "ko_txt": null,
+      "en_txt": "The total number of lesions identified by each imaging modality",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Days 1-6",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "Imaging was only conducted in the \"DOTATATE and F-DOPA\" Arm/Group and therefore results are only reported for this arm. This outcome is only reported for the 16 patients who had both scans",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "DOTATATE and F-DOPA",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "Patients who received both DOTATATE and F-DOPA scans",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "134",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Type of Units Analyzed",
+      "ko_txt": null,
+      "en_txt": "Lesions",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].No lesions by Dotatate or F-DOPA.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "44",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Lesions by F-DOPA only.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Lesions by Dotatate only.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "67",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Lesions by Both.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Time Frame",
+      "ko_txt": null,
+      "en_txt": "3 months",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Primary Hyperparathyroidism - Incomplete Data",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Primary Hyperparathyroidism",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "DOTATATE and F-DOPA",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Primary Hyperparathyroidism - Incomplete Data",
+      "ko_txt": null,
+      "en_txt": "Patients with confirmed or suspected primary hyperparathyroidism or complications who are missing age and other baseline data because of changes in data management system",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Primary Hyperparathyroidism",
+      "ko_txt": null,
+      "en_txt": "Patients with confirmed or suspected primary hyperparathyroidism or complications",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.DOTATATE and F-DOPA",
+      "ko_txt": null,
+      "en_txt": "Patients scanned using imaging agents 68GALLIUM-DOTATATE and 18F-DOPA\n\n68Ga-Dotatate: 68Ga-Dotatate PET/CT will be administered prior to a PET/CT scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors.\n\n18F-DOPA: 18F-DOPA PET/CT will be administered prior to a whole-body scan to detect known and occult primary and metastatic bronchial, gastrointestinal and pancreatic neuroendocrine tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Primary Hyperparathyroidism - Incomplete Data.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Primary Hyperparathyroidism - Incomplete Data.at Risk",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Primary Hyperparathyroidism.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Primary Hyperparathyroidism.at Risk",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.DOTATATE and F-DOPA.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.DOTATATE and F-DOPA.at Risk",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Primary Hyperparathyroidism - Incomplete Data.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Primary Hyperparathyroidism - Incomplete Data.at Risk",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Primary Hyperparathyroidism.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Primary Hyperparathyroidism.at Risk",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.DOTATATE and F-DOPA.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.DOTATATE and F-DOPA.at Risk",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Primary Hyperparathyroidism - Incomplete Data.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Primary Hyperparathyroidism - Incomplete Data.at Risk",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Primary Hyperparathyroidism.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Primary Hyperparathyroidism.at Risk",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.DOTATATE and F-DOPA.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.DOTATATE and F-DOPA.at Risk",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.Primary Hyperparathyroidism - Incomplete Data.at Risk",
+      "ko_txt": null,
+      "en_txt": "634",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.Primary Hyperparathyroidism.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.Primary Hyperparathyroidism.at Risk",
+      "ko_txt": null,
+      "en_txt": "900",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.DOTATATE and F-DOPA.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.DOTATATE and F-DOPA.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.DOTATATE and F-DOPA.at Risk",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Smita Jha, M.D.,  National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "align_score": null
+    }
+  ]
+}

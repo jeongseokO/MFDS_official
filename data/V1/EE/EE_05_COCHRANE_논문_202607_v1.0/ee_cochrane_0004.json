@@ -1,0 +1,559 @@
+{
+  "document_id": "ee_cochrane_0004",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000023.PUB5",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000023.pub5/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sore throat is a common reason for people to present for medical care and to be prescribed antibiotics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Overuse of antibiotics in primary medicine is a concern, hence it is important to establish their efficacy in treating sore throat and preventing secondary complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess the effects of antibiotics for reducing symptoms of sore throat for child and adult patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched CENTRAL 2021, Issue 2, MEDLINE (January 1966 to April week 1, 2021), Embase (January 1990 to April 2021), and two trial registries (searched 6 April 2021).",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomised controlled trials (RCTs) or quasi‐RCTs of antibiotics versus control assessing typical sore throat symptoms or complications amongst children and adults seeking medical care for sore throat symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We used standard methodological procedures as recommended by Cochrane.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors independently screened studies for inclusion and extracted data, resolving any differences in opinion by discussion.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We contacted the trial authors from three studies for additional information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We used GRADE to assess the certainty of the evidence for the efficacy of antibiotics on our primary outcomes (sore throat at day three and one week) and secondary outcomes (fever and headache symptoms and incidence of acute rheumatic fever, acute glomerulonephritis, acute otitis media, acute sinusitis, and quinsy).",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 29 trials with 15,337 cases of sore throat.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The majority of included studies were conducted in the 1950s, during which time the rates of serious complications (especially acute rheumatic fever) were much higher than today.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although clinical antibiotic trials for sore throat and respiratory symptoms are still being conducted, it is unusual for them to include placebo or 'no treatment' control arms, which is a requirement for inclusion in the review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The age of participants ranged from younger than one year to older than 50 years, but most participants across all studies were adults.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although all studies recruited patients presenting with symptoms of sore throat, few of them distinguished between bacterial and viral aetiology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bias may have been introduced through non‐clarity in treatment allocation procedures and lack of blinding in some studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Harms from antibiotics were poorly or inconsistently reported, and were thus not quantified for this review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Throat soreness and headache at day three were reduced by using antibiotics, although 82% of participants in the placebo or no treatment group were symptom‐free by one week.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The reduction in sore throat symptoms at day three (risk ratio (RR) 0.70, 95% confidence interval (CI) 0.60 to 0.80; 16 studies, 3730 participants; moderate‐certainty evidence) was greater than at one week in absolute numbers (RR 0.50, 95% CI 0.34 to 0.75; 14 studies, 3083 participants; moderate‐certainty evidence) due to many cases in both treatment groups having resolved by this time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The number needed to treat for an additional beneficial outcome (NNTB) to prevent one sore throat at day three was less than six; at week one it was 18.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Compared with placebo or no treatment, antibiotics did not significantly reduce fever at day three (RR 0.75, 95% CI 0.53 to 1.07; 8 studies, 1443 participants; high‐certainty evidence), but did reduce headache at day three (RR 0.49, 95% CI 0.34 to 0.70; 4 studies, 1020 participants; high‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Suppurative complications",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Whilst the prevalence of suppurative complications was low, antibiotics reduced the incidence of acute otitis media within 14 days (Peto odds ratio (OR) 0.21, 95% CI 0.11 to 0.40; 10 studies, 3646 participants; high‐certainty evidence) and quinsy within two months (Peto OR 0.16, 95% CI 0.07 to 0.35; 8 studies, 2433 participants; high‐certainty evidence) compared to those receiving placebo or no treatment, but not acute sinusitis within 14 days (Peto OR 0.46, 95% CI 0.10 to 2.05; 8 studies, 2387 participants; high‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Non‐suppurative complications",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were too few cases of acute glomerulonephritis to determine whether there was a protective effect of antibiotics compared with placebo against this complication (Peto OR 0.07, 95% CI 0.00 to 1.32; 10 studies, 5147 participants; low‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antibiotics reduced acute rheumatic fever within two months when compared to the control group (Peto OR 0.36, 95% CI 0.26 to 0.50; 18 studies, 12,249 participants; moderate‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It should be noted that the overall prevalence of acute rheumatic fever was very low, particularly in the later studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antibiotics probably reduce the number of people experiencing sore throat, and reduce the likelihood of headache, and some sore throat complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As the effect on symptoms can be small, clinicians must judge on an individual basis whether it is clinically justifiable to use antibiotics to produce this effect, and whether the underlying cause of the sore throat is likely to be of bacterial origin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, the balance between modest symptom reduction and the potential hazards of antimicrobial resistance must be recognised.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Few trials have attempted to measure symptom severity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If antibiotics reduce the severity as well as the duration of symptoms, their benefit will have been underestimated in this meta‐analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, more trials are needed in low‐income countries, in socio‐economically deprived sections of high‐income countries, as well as in children.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Are antibiotics effective in treating the symptoms and reducing the potential complications associated with sore throats?",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sore throats are infections caused by bacteria or viruses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pain or discomfort is the most distinguishing feature.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, fever and headache are also common accompanying symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "People usually recover quickly (after three or four days), although some develop complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A serious but rare complication is rheumatic fever, which affects the heart and joints.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Other complications include acute infection of the sinuses, middle ear, tonsils, and kidney.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antibiotics reduce infections caused by bacteria, but not those caused by viruses, and they can cause diarrhoea, rash, and other adverse effects.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, communities build resistance to them.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The evidence is current to April 2021.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study characteristics",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 2021 update includes 29 trials with 15,337 cases of sore throat.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All of the included studies were randomised controlled trials (a type of study where participants are randomly assigned to one of two or more treatment groups) that sought to determine if antibiotics helped reduce symptoms of sore throat, fever, or headache or the occurrence of more serious complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The included studies were conducted in both children and adults seeking medical care for their symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study funding sources",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many of the early studies were funded by the United States Armed Forces and recruited young, adult male military personnel.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Later studies were mostly supported by governmental research grants, with a small number funded by private pharmaceutical companies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found that antibiotics reduced the number of people still experiencing headache on the third day of illness.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antibiotics probably reduced the number of people with sore throat after three days and one week, as well as rheumatic fever within two months in communities where this complication is common.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Our confidence in the evidence for antibiotic use varied from low to high for other types of complications associated with sore throat.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Certainty of evidence",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Overall, the certainty of the evidence from the included studies was low to high.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, there were very few recent trials included in the review, hence it is unclear if changes in bacterial resistance in the community may have affected the effectiveness of antibiotics.",
+      "align_score": null
+    }
+  ]
+}

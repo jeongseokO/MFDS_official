@@ -1,0 +1,1207 @@
+{
+  "document_id": "ee_ctg_0001",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00000125",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Ocular Hypertension Treatment Study (OHTS)",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00000125",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Ocular Hypertension Treatment Study (OHTS)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "Ocular Hypertension",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[1]",
+      "ko_txt": null,
+      "en_txt": "Glaucoma",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Topical ocular hypotensive eye drops.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "NEI-24",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "5U10EY009307-16 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[2]",
+      "ko_txt": null,
+      "en_txt": "5U10EY009341-14 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Parallel Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "None (Open Label)",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Prevention",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Michael Kass MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "Washington University School of Medicine",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "314-362-5713",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "kass@vision.wustl.edu",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "1636 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-09-23",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-09-23",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-09-24",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2015-03-06",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2015-03-06",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2015-03-19",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2020-05-20",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2020-06-02",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Actual",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2020-05",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Observation",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Observation",
+      "ko_txt": null,
+      "en_txt": "Close Observation",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Treatment",
+      "ko_txt": null,
+      "en_txt": "Topical ocular hypotensive eye drops.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Observation",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Treatment",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed OHTS Phase I, June 2002.Observation",
+      "ko_txt": null,
+      "en_txt": "706",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed OHTS Phase I, June 2002.Treatment",
+      "ko_txt": null,
+      "en_txt": "702",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Observation",
+      "ko_txt": null,
+      "en_txt": "580",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Treatment",
+      "ko_txt": null,
+      "en_txt": "579",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Observation",
+      "ko_txt": null,
+      "en_txt": "239",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Treatment",
+      "ko_txt": null,
+      "en_txt": "238",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Observation",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Observation",
+      "ko_txt": null,
+      "en_txt": "Observation only",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Treatment",
+      "ko_txt": null,
+      "en_txt": "Topical Antiglaucoma Agents: Topical Antiglaucoma Agents",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Observation",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Treatment",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "1636",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Baseline Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "1636 ocular hypertensive patients were randomized to either close observation or ocular hypertensive medication.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Observation",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Treatment",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1636",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.Observation",
+      "ko_txt": null,
+      "en_txt": "55.6 (9.7)",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.Treatment",
+      "ko_txt": null,
+      "en_txt": "55.2 (9.5)",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.Total",
+      "ko_txt": null,
+      "en_txt": "55.4 (9.6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Observation",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Treatment",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1636",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Observation",
+      "ko_txt": null,
+      "en_txt": "346",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Treatment",
+      "ko_txt": null,
+      "en_txt": "359",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "705",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Observation",
+      "ko_txt": null,
+      "en_txt": "473",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Treatment",
+      "ko_txt": null,
+      "en_txt": "458",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "931",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Observation",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Treatment",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1636",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Native American.Observation",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Native American.Treatment",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Native American.Total",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Asian.Observation",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Asian.Treatment",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Asian.Total",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.African American.Observation",
+      "ko_txt": null,
+      "en_txt": "205",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.African American.Treatment",
+      "ko_txt": null,
+      "en_txt": "203",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.African American.Total",
+      "ko_txt": null,
+      "en_txt": "408",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Hispanic.Observation",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Hispanic.Treatment",
+      "ko_txt": null,
+      "en_txt": "24",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Hispanic.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Observation",
+      "ko_txt": null,
+      "en_txt": "560",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Treatment",
+      "ko_txt": null,
+      "en_txt": "577",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Total",
+      "ko_txt": null,
+      "en_txt": "1137",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Other.Observation",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Other.Treatment",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Other.Total",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Incidence of Primary Open-Angle Glaucoma in Hypotensive Patients",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "Comparison of the cumulative proportion of participants who develop primary open-angle glaucoma in the observation and medication groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "5 yrs (OHTS I, June 2002) and 13.0 yrs (completion of both phases of OHTS, March 2009)",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "1636 ocular hypertensive participants were randomized to either close observation or treatment with topical hypotensive eyedrops from February 1994 through June 2002. In June 2002 the observation participants were offered treatment with topical hypotensive eyedrops.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Observation",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Observation",
+      "ko_txt": null,
+      "en_txt": "Observation only from February 1994 through June 2002.Observation participants were offered topical antiglaucoma agents after June 2002 through study close out March 2009.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Treatment",
+      "ko_txt": null,
+      "en_txt": "Topical ocular hypotensive eye drops from February 1994 through March 2009.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Observation",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Treatment",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Incidence of glaucoma at 5 yr (OHTS I, June 2002).Observation",
+      "ko_txt": null,
+      "en_txt": "9.5",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Incidence of glaucoma at 5 yr (OHTS I, June 2002).Treatment",
+      "ko_txt": null,
+      "en_txt": "4.4",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Incidence of glaucoma 13 yr (OHTS II, March 2009).Observation",
+      "ko_txt": null,
+      "en_txt": "20.0",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Incidence of glaucoma 13 yr (OHTS II, March 2009).Treatment",
+      "ko_txt": null,
+      "en_txt": "14.1",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Time Frame",
+      "ko_txt": null,
+      "en_txt": "Adverse events collected during OHTS I, from February 1994 to June 2002.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Adverse Event Reporting Description",
+      "ko_txt": null,
+      "en_txt": "Specific ocular adverse events are unknown because adverse events were only collected with regard to organ system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Observation",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Observation",
+      "ko_txt": null,
+      "en_txt": "Observation only from February 1994 to June 2002 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Treatment",
+      "ko_txt": null,
+      "en_txt": "Topical Antiglaucoma Agents: Topical Antiglaucoma Agents from February 1994 to June 2002.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Observation.Affected",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Observation.at Risk",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Treatment.Affected",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Treatment.at Risk",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Ocular Serious Adverse Events (OHTS I, June 2002).Observation.Affected",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Ocular Serious Adverse Events (OHTS I, June 2002).Observation.at Risk",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Ocular Serious Adverse Events (OHTS I, June 2002).Treatment.Affected",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Ocular Serious Adverse Events (OHTS I, June 2002).Treatment.at Risk",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Observation.Affected",
+      "ko_txt": null,
+      "en_txt": "481",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Observation.at Risk",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Treatment.Affected",
+      "ko_txt": null,
+      "en_txt": "570",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Treatment.at Risk",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ocular Adverse Event (Not Serious).Observation.Affected",
+      "ko_txt": null,
+      "en_txt": "481",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ocular Adverse Event (Not Serious).Observation.at Risk",
+      "ko_txt": null,
+      "en_txt": "819",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ocular Adverse Event (Not Serious).Treatment.Affected",
+      "ko_txt": null,
+      "en_txt": "570",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ocular Adverse Event (Not Serious).Treatment.at Risk",
+      "ko_txt": null,
+      "en_txt": "817",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "Washington University School of Medicine",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[0]",
+      "ko_txt": null,
+      "en_txt": "National Eye Institute (NEI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Study Chair: Michael A Kass, MD,  Washington University Department of Ophthalmology and Visual Sciences",
+      "align_score": null
+    }
+  ]
+}

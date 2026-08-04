@@ -1,0 +1,1630 @@
+{
+  "document_id": "ee_ctg_0002",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00000134",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Studies of the Ocular Complications of AIDS (SOCA)--Cytomegalovirus Retinitis Retreatment Trial (CRRT)",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00000134",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Studies of the Ocular Complications of AIDS (SOCA)--Cytomegalovirus Retinitis Retreatment Trial (CRRT)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "HIV Infections",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[1]",
+      "ko_txt": null,
+      "en_txt": "Acquired Immunodeficiency Syndrome",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[2]",
+      "ko_txt": null,
+      "en_txt": "Cytomegalovirus Retinitis",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[1]",
+      "ko_txt": null,
+      "en_txt": "Drug: Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "NEI-33",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "U10EY008057 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[2]",
+      "ko_txt": null,
+      "en_txt": "U01AI027668 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Factorial Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "Double (Participant, Investigator)",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Curtis Meinert, PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "Johns Hopkins University",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "410-955-8198",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "cmeinert@jhsph.edu",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "279 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-09-23",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-09-23",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-09-24",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2015-06-15",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2015-08-11",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2015-09-14",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2015-08-11",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2015-09-14",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2015-08",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Recruitment Details",
+      "ko_txt": null,
+      "en_txt": "December 1992",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Intravenous Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Intravenous Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Combination Therapy",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "intravenous foscarnet reinduction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day\n\nFoscarnet: intravenous foscarnet induction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "intravenous ganciclovir reinduction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day\n\nGanciclovir: intravenous ganciclovir induction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "combination therapy, wherein patients continued their previous therapy and were reinduced with the second drug and then placed on maintenance therapy with foscarnet at 90 mg/kg/day and ganciclovir at 5 mg/kg/day.\n\nGanciclovir: intravenous ganciclovir induction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day\n\nFoscarnet: intravenous foscarnet induction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "96",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "96",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Intravenous Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Intravenous Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Combination Therapy",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[3]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "intravenous foscarnet reinduction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day\n\nFoscarnet: intravenous foscarnet induction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "intravenous ganciclovir reinduction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day\n\nGanciclovir: intravenous ganciclovir induction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "combination therapy, wherein patients continued their previous therapy and were reinduced with the second drug and then placed on maintenance therapy with foscarnet at 90 mg/kg/day and ganciclovir at 5 mg/kg/day.\n\nGanciclovir: intravenous ganciclovir induction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day\n\nFoscarnet: intravenous foscarnet induction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "96",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "279",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "96",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "279",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "96",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Total",
+      "ko_txt": null,
+      "en_txt": "279",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "96",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "279",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "23",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "82",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "88",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "86",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "256",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "96",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "279",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "89",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "96",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Total",
+      "ko_txt": null,
+      "en_txt": "279",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Morbidity",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "To determine the best therapeutic regimen, using currently approved drugs, for treatment of relapsed cytomegalovirus (CMV) retinitis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Patients will be seen at baseline, monthly for six months, and then every three months until death or termination of the trial",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Intravenous Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Intravenous Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Combination Therapy",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "intravenous foscarnet reinduction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day\n\nFoscarnet: intravenous foscarnet induction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "intravenous ganciclovir reinduction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day\n\nGanciclovir: intravenous ganciclovir induction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "combination therapy, wherein patients continued their previous therapy and were reinduced with the second drug and then placed on maintenance therapy with foscarnet at 90 mg/kg/day and ganciclovir at 5 mg/kg/day.\n\nGanciclovir: intravenous ganciclovir induction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day\n\nFoscarnet: intravenous foscarnet induction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "88",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Number | Unit of Measure: participants.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "88",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Number | Unit of Measure: participants.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Number | Unit of Measure: participants.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Time Frame",
+      "ko_txt": null,
+      "en_txt": "1 year, 4 months",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Intravenous Foscarnet",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Intravenous Ganciclovir",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Combination Therapy",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Intravenous Foscarnet",
+      "ko_txt": null,
+      "en_txt": "intravenous foscarnet reinduction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day\n\nFoscarnet: intravenous foscarnet induction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Intravenous Ganciclovir",
+      "ko_txt": null,
+      "en_txt": "intravenous ganciclovir reinduction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day\n\nGanciclovir: intravenous ganciclovir induction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Combination Therapy",
+      "ko_txt": null,
+      "en_txt": "combination therapy, wherein patients continued their previous therapy and were reinduced with the second drug and then placed on maintenance therapy with foscarnet at 90 mg/kg/day and ganciclovir at 5 mg/kg/day.\n\nGanciclovir: intravenous ganciclovir induction at 5 mg/kg twice daily for 2 weeks followed by maintenance at 10 mg/kg/day\n\nFoscarnet: intravenous foscarnet induction at 90 mg/kg twice daily for 2 weeks, followed by maintenance therapy at 120 mg/kg/day",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Intravenous Foscarnet.Affected",
+      "ko_txt": null,
+      "en_txt": "32",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Intravenous Foscarnet.at Risk",
+      "ko_txt": null,
+      "en_txt": "88",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Intravenous Ganciclovir.Affected",
+      "ko_txt": null,
+      "en_txt": "41",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Intravenous Ganciclovir.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Combination Therapy.Affected",
+      "ko_txt": null,
+      "en_txt": "51",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Combination Therapy.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Intravenous Foscarnet.# Events",
+      "ko_txt": null,
+      "en_txt": "86",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Intravenous Foscarnet.Affected",
+      "ko_txt": null,
+      "en_txt": "32",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Intravenous Foscarnet.at Risk",
+      "ko_txt": null,
+      "en_txt": "88",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Intravenous Ganciclovir.# Events",
+      "ko_txt": null,
+      "en_txt": "95",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Intravenous Ganciclovir.Affected",
+      "ko_txt": null,
+      "en_txt": "41",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Intravenous Ganciclovir.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Combination Therapy.# Events",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Combination Therapy.Affected",
+      "ko_txt": null,
+      "en_txt": "51",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Neutropenia.Combination Therapy.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Intravenous Foscarnet.# Events",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Intravenous Foscarnet.Affected",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Intravenous Foscarnet.at Risk",
+      "ko_txt": null,
+      "en_txt": "88",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Intravenous Ganciclovir.# Events",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Intravenous Ganciclovir.Affected",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Intravenous Ganciclovir.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Combination Therapy.# Events",
+      "ko_txt": null,
+      "en_txt": "40",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Combination Therapy.Affected",
+      "ko_txt": null,
+      "en_txt": "15",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Blood and lymphatic system disorders.Thrombocytopenia.Combination Therapy.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Intravenous Foscarnet.Affected",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Intravenous Foscarnet.at Risk",
+      "ko_txt": null,
+      "en_txt": "88",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Intravenous Ganciclovir.Affected",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Intravenous Ganciclovir.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Combination Therapy.Affected",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Combination Therapy.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Intravenous Foscarnet.# Events",
+      "ko_txt": null,
+      "en_txt": "9",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Intravenous Foscarnet.Affected",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Intravenous Foscarnet.at Risk",
+      "ko_txt": null,
+      "en_txt": "88",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Intravenous Ganciclovir.# Events",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Intravenous Ganciclovir.Affected",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Intravenous Ganciclovir.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Combination Therapy.# Events",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Combination Therapy.Affected",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hospitalizations.Combination Therapy.at Risk",
+      "ko_txt": null,
+      "en_txt": "93",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "Johns Hopkins Bloomberg School of Public Health",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[0]",
+      "ko_txt": null,
+      "en_txt": "National Eye Institute (NEI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[1]",
+      "ko_txt": null,
+      "en_txt": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[2]",
+      "ko_txt": null,
+      "en_txt": "Johns Hopkins University",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[3]",
+      "ko_txt": null,
+      "en_txt": "University of Wisconsin, Madison",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[4]",
+      "ko_txt": null,
+      "en_txt": "Baylor College of Medicine",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[5]",
+      "ko_txt": null,
+      "en_txt": "Tulane University School of Medicine",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[6]",
+      "ko_txt": null,
+      "en_txt": "Icahn School of Medicine at Mount Sinai",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[7]",
+      "ko_txt": null,
+      "en_txt": "New York Presbyterian Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[8]",
+      "ko_txt": null,
+      "en_txt": "New York University",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[9]",
+      "ko_txt": null,
+      "en_txt": "Northwestern University",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[10]",
+      "ko_txt": null,
+      "en_txt": "University of California, Los Angeles",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[11]",
+      "ko_txt": null,
+      "en_txt": "University of California, San Francisco",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[12]",
+      "ko_txt": null,
+      "en_txt": "University of California, San Diego",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[13]",
+      "ko_txt": null,
+      "en_txt": "University of Miami",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[14]",
+      "ko_txt": null,
+      "en_txt": "University of North Carolina, Chapel Hill",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[15]",
+      "ko_txt": null,
+      "en_txt": "Memorial Sloan Kettering Cancer Center",
+      "align_score": null
+    }
+  ]
+}

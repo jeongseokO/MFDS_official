@@ -1,0 +1,226 @@
+{
+  "document_id": "ee_cochrane_0020",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000180.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000180.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Physiological responses of the fetus (especially increase in heart rate) to single, brief bouts of maternal exercise have been documented frequently.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many pregnant women wish to engage in aerobic exercise during pregnancy, but are concerned about possible adverse effects on the outcome of pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess the effects of advising healthy pregnant women to engage in regular aerobic exercise (at least two to three times per week), or to increase or reduce the intensity, duration, or frequency of such exercise, on physical fitness, the course of labour and delivery, and the outcome of pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 August 2009), MEDLINE (1966 to August 2009), EMBASE (1980 to August 2009), Conference Papers Index (earliest to August 2009), contacted researchers in the field and searched reference lists of retrieved articles.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acceptably controlled trials of prescribed exercise programs in healthy pregnant women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Both review authors independently assessed trial quality and extracted data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We contacted study authors for additional information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 14 trials involving 1014 women.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The trials were small and not of high methodologic quality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Of the nine trials reporting on physical fitness, six reported significant improvement in physical fitness in the exercise group, although inconsistencies in summary statistics and measures used to assess fitness prevented quantitative pooling of results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Eleven trials reported on pregnancy outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A pooled increased risk of preterm birth (risk ratio 1.82, 95% confidence interval (CI) 0.35 to 9.57) with exercise, albeit statistically non‐significant, does not cohere with the absence of effect on mean gestational age (mean difference +0.10, 95% CI ‐0.11 to +0.30 weeks), while the results bearing on growth of the fetus are inconsistent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One small trial reported that physically fit women who increased the duration of exercise bouts in early pregnancy and then reduced that duration in later pregnancy gave birth to larger infants with larger placentas.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Regular aerobic exercise during pregnancy appears to improve (or maintain) physical fitness.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Available data are insufficient to infer important risks or benefits for the mother or infant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Larger and better trials are needed before confident recommendations can be made about the benefits and risk of aerobic exercise in pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Regular aerobic exercise during pregnancy appears to improve physical fitness, but the evidence is insufficient to infer important risks or benefits for the mother or baby.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Aerobic exercise is physical activity that stimulates a person's breathing and blood circulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The review of 14 trials, involving 1014 pregnant women, found that pregnant women who engage in vigorous exercise at least two to three times per week improve (or maintain) their physical fitness, and there is some evidence that these women have pregnancies of the same duration as those who maintain their usual activities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is too little evidence from trials to show whether there are other effects on the woman and her baby.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The trials reviewed included non‐contact exercise such as swimming, static cycling and general floor exercise programs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most of the trials were small and of insufficient methodologic quality, and larger, better trials are needed before confident recommendations can be made about the benefits and risks of aerobic exercise in pregnancy.",
+      "align_score": null
+    }
+  ]
+}

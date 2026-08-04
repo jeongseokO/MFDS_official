@@ -1,0 +1,1045 @@
+{
+  "document_id": "ee_ctg_0007",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00000371",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Trial of D-Cycloserine in Schizophrenia",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00000371",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Trial of D-Cycloserine in Schizophrenia",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "Schizophrenia",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: D-cycloserine",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[1]",
+      "ko_txt": null,
+      "en_txt": "Drug: Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "R01MH054245-01A2",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Parallel Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "Double (Participant, Investigator)",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Dr. Donald Goff",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "Freedom Clinic Trail, Massachusetts General Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "617-921-7899",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "goff@psych.mgh.harvard.edu",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "60 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-11-02",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-11-02",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2014-08-11",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2014-09-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2014-09-10",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2014-09-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2014-09-10",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2014-09",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Recruitment Details",
+      "ko_txt": null,
+      "en_txt": "Subjects were adult outpatients recruited from three urban community health centers and two Veteran's Affairs medical centers in the greater Boston area. All eligible participants at these sites were invited to participate by their clinicians.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Pre-assignment Details",
+      "ko_txt": null,
+      "en_txt": "Sixty subjects met eligibility criteria and provided informed consent, but just 55 completed baseline assessments and were randomized to d-cycloserine or placebo.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "D-Cycloserine",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "Patients were given 50 mg of D-Cycloserine daily in addition to their treatment as usual with conventional neuroleptics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Patients were given 50 mg of placebo daily in addition to their treatment as usual with conventional neuroleptics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Placebo",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Placebo",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Placebo",
+      "ko_txt": null,
+      "en_txt": "16",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "D-Cycloserine",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "Patients were given 50 mg of D-Cycloserine daily in addition to their treatment as usual with conventional neuroleptics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Patients were given 50 mg of placebo daily in addition to their treatment as usual with conventional neuroleptics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Placebo",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "55",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "55",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: Years.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "45.9 (7.4)",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: Years.Placebo",
+      "ko_txt": null,
+      "en_txt": "47.0 (8.6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: Years.Total",
+      "ko_txt": null,
+      "en_txt": "46.5 (8.0)",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "55",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Placebo",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Total",
+      "ko_txt": null,
+      "en_txt": "55",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "55",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Placebo",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "24",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Placebo",
+      "ko_txt": null,
+      "en_txt": "20",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "44",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "55",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Placebo",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Total",
+      "ko_txt": null,
+      "en_txt": "55",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Scale for the Assessment of Negative Symptoms (SANS)",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "The slope of SANS total score from baseline to week 8 in the treatment and placebo groups on the scale for the assessment of negative symptoms (SANS) total score. Total SANS scores range from 0-100. The SANS is comprised of 5 subscores: Affective Flattening or Blunting (score range 0-35), Alogia (score range 0-20), Avolition-Apathy (score range 0-15), Anhedonia-Asociality (score range 0-20), and Attention (0-10). For each scale, the higher the score the more prominent the negative symptoms were. The slopes were obtained by plotting the group SANS total score mean for treatment vs. placebo on Baseline, Week 4, and Week 8 and performing a random slopes model.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Baseline, Week 4, Week 8",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "D-Cycloserine",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "Patients were given 50 mg of D-Cycloserine daily in addition to their treatment as usual with conventional neuroleptics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Patients were given 50 mg of placebo daily in addition to their treatment as usual with conventional neuroleptics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Error) | Unit of Measure: units on a scale/weeks.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "-.46 (.29)",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Error) | Unit of Measure: units on a scale/weeks.Placebo",
+      "ko_txt": null,
+      "en_txt": "-.41 (.31)",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Adverse Event Reporting Description",
+      "ko_txt": null,
+      "en_txt": "The only information known for this study regarding occurrence of Adverse Events is that 2 and 6 participants dropped out of the D-Cycloserine and Placebo Arms/Groups, respectively (reported in the publication associated with this clinical trials profile). However, specific adverse event data are lost and cannot be retrieved",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "D-Cycloserine",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.D-Cycloserine",
+      "ko_txt": null,
+      "en_txt": "Patients were given 50 mg of D-Cycloserine daily in addition to their treatment as usual with conventional neuroleptics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Patients were given 50 mg of placebo daily in addition to their treatment as usual with conventional neuroleptics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.D-Cycloserine.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.D-Cycloserine.at Risk",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.D-Cycloserine.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.D-Cycloserine.at Risk",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Limitations and Caveats",
+      "ko_txt": null,
+      "en_txt": "A biased sample may have been produced by restricting the analysis to patients with prominent negative symptoms receiving conventional agents (less compliant with study medication). Additionally, Adverse Event data was lost for the study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "Massachusetts General Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Donald Goff, MD,  ",
+      "align_score": null
+    }
+  ]
+}

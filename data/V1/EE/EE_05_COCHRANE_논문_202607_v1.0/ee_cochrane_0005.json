@@ -1,0 +1,505 @@
+{
+  "document_id": "ee_cochrane_0005",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000024.PUB5",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000024.pub5/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Stroke is the third leading cause of early death worldwide.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most ischaemic strokes are caused by a blood clot blocking an artery in the brain.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patient outcomes might be improved if they are offered anticoagulants that reduce their risk of developing new blood clots and do not increase the risk of bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is an update of a Cochrane Review first published in 1995, with updates in 2004, 2008, and 2015.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess the effectiveness and safety of early anticoagulation (within the first 14 days of onset) for people with acute presumed or confirmed ischaemic stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Our hypotheses were that, compared with a policy of avoiding their use, early anticoagulation would be associated with:",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• reduced risk of death or dependence in activities of daily living a few months after stroke onset;",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• reduced risk of early recurrent ischaemic stroke;",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• increased risk of symptomatic intracranial and extracranial haemorrhage; and",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• reduced risk of deep vein thrombosis and pulmonary embolism.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Stroke Group Trials Register (August 2021); the Cochrane Database of Systematic Reviews (CDSR); the Cochrane Central Register of Controlled Trials (CENTRAL; 2021, Issue 7), in the Cochrane Library (searched 5 August 2021); MEDLINE (2014 to 5 August 2021); and Embase (2014 to 5 August 2021).",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, we searched ongoing trials registries and reference lists of relevant papers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For previous versions of this review, we searched the register of the Antithrombotic Trialists' (ATT) Collaboration, consulted MedStrategy (1995), and contacted relevant drug companies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomised trials comparing early anticoagulant therapy (started within two weeks of stroke onset) with control in people with acute presumed or confirmed ischaemic stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors independently selected trials for inclusion, assessed trial quality, and extracted data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We assessed the overall certainty of the evidence for each outcome using RoB1 and GRADE methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 28 trials involving 24,025 participants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Quality of the trials varied considerably.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We considered some studies to be at unclear or high risk of selection, performance, detection, attrition, or reporting bias.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Anticoagulants tested were standard unfractionated heparin, low‐molecular‐weight heparins, heparinoids, oral anticoagulants, and thrombin inhibitors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Over 90% of the evidence is related to effects of anticoagulant therapy initiated within the first 48 hours of onset.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No evidence suggests that early anticoagulation reduced the odds of death or dependence at the end of follow‐up (odds ratio (OR) 0.98, 95% confidence interval (CI) 0.92 to 1.03; 12 RCTs, 22,428 participants; high‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Similarly, we found no evidence suggesting that anticoagulant therapy started within the first 14 days of stroke onset reduced the odds of death from all causes (OR 0.99, 95% CI 0.90 to 1.09; 22 RCTs, 22,602 participants; low‐certainty evidence) during the treatment period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although early anticoagulant therapy was associated with fewer recurrent ischaemic strokes (OR 0.75, 95% CI 0.65 to 0.88; 12 RCTs, 21,665 participants; moderate‐certainty evidence), it was also associated with an increase in symptomatic intracranial haemorrhage (OR 2.47; 95% CI 1.90 to 3.21; 20 RCTs, 23,221 participants; moderate‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Similarly, early anticoagulation reduced the frequency of symptomatic pulmonary emboli (OR 0.60, 95% CI 0.44 to 0.81; 14 RCTs, 22,544 participants; high‐certainty evidence), but this benefit was offset by an increase in extracranial haemorrhage (OR 2.99, 95% CI 2.24 to 3.99; 18 RCTs, 22,255 participants; moderate‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since the last version of this review, four new relevant studies have been published, and conclusions remain consistent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "People who have early anticoagulant therapy after acute ischaemic stroke do not demonstrate any net short‐ or long‐term benefit.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment with anticoagulants reduced recurrent stroke, deep vein thrombosis, and pulmonary embolism but increased bleeding risk.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Data do not support the routine use of any of the currently available anticoagulants for acute ischaemic stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Review question We wanted to know whether people treated with anticoagulants (blood‐thinning drugs) soon after having a stroke got better or not, and whether they had problems with bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Background Millions of people around the world have a stroke every year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most strokes take place when a blood clot blocks a blood vessel leading to the brain.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When the blood supply to the brain is restricted or blocked, brain cells begin to die.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This can lead to brain injury, which can be permanent, causing disability and possibly death.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Damage from a stroke can cause arm or leg weakness, or difficulties with language or vision.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Strokes are sometimes fatal but more often leave survivors unable to do the things they used to do.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Because strokes are common and cause such damage, researchers are looking at ways to get rid of the blood clot soon after the stroke happens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One way to do this is to use blood‐thinning drugs called anticoagulants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If patients respond well to anticoagulants, they might be able to avoid the bad effects of a stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The main problem with anticoagulants is that if they cause bleeding, the patient can have very serious outcomes from this.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Search date The evidence is current to August 2021.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study characteristics To find the best answer, we looked for studies in which investigators compared any anticoagulant to another medicine, to a dummy medicine that does not contain any active ingredients (placebo), or to normal care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To make the comparison fair, all patients in these studies must have had the same random chance (like the flip of a coin) to receive the anticoagulant, the other treatment, or normal care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included in this updated review 28 studies involving 24,025 people with stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two studies enrolled participants within 12 hours of stroke onset, four within 24 hours, and 10 within 48 hours.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key results People treated with anticoagulants did not have less long‐term disability, and they experienced more bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Anticoagulant‐treated patients had a lesser chance of developing blood clots in their legs and in their lungs following their stroke, but these benefits were offset by an increased number of bleeds.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Certainty of the evidence We used standard methods to assess the certainty of the evidence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We rated our confidence in the evidence based on factors such as study methods, numbers of participants included in the studies, and consistency of findings across studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Low‐certainty evidence means we are uncertain about the results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the same way, high‐certainty evidence means we are very certain about the results of this review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusion This review did not provide any evidence to suggest that early use of anticoagulants is beneficial overall for people with stroke caused by blood clots.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "More research is needed to find out if there are ways to select people with stroke who will benefit most from anticoagulants without suffering the bleeding complications.",
+      "align_score": null
+    }
+  ]
+}

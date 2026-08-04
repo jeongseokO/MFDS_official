@@ -1,0 +1,316 @@
+{
+  "document_id": "ee_cochrane_0008",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000039.PUB3",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000039.pub3/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is unclear whether blood pressure should be altered actively during the acute phase of stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is an update of a Cochrane review first published in 1997, and previously updated in 2001 and 2008.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess the clinical effectiveness of altering blood pressure in people with acute stroke, and the effect of different vasoactive drugs on blood pressure in acute stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Stroke Group Trials Register (last searched in February 2014), the Cochrane Database of Systematic reviews (CDSR) and the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 2), MEDLINE (Ovid) (1966 to May 2014), EMBASE (Ovid) (1974 to May 2014), Science Citation Index (ISI, Web of Science, 1981 to May 2014) and the Stroke Trials Registry (searched May 2014).",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomised controlled trials of interventions that aimed to alter blood pressure compared with control in participants within one week of acute ischaemic or haemorrhagic stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors independently applied the inclusion criteria, assessed trial quality and extracted data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The review authors cross‐checked data and resolved discrepancies by discussion to reach consensus.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We obtained published and unpublished data where available.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 26 trials involving 17,011 participants (8497 participants were assigned active therapy and 8514 participants received placebo/control).",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Not all trials contributed to each outcome.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most data came from trials that had a wide time window for recruitment; four trials gave treatment within six hours and one trial within eight hours.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The trials tested alpha‐2 adrenergic agonists (A2AA), angiotensin converting enzyme inhibitors (ACEI), angiotensin receptor antagonists (ARA), calcium channel blockers (CCBs), nitric oxide (NO) donors, thiazide‐like diuretics, and target‐driven blood pressure lowering.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One trial tested phenylephrine.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At 24 hours after randomisation oral ACEIs reduced systolic blood pressure (SBP, mean difference (MD) ‐8 mmHg, 95% confidence interval (CI) ‐17 to 1) and diastolic blood pressure (DBP, MD ‐3 mmHg, 95% CI ‐9 to 2), sublingual ACEIs reduced SBP (MD ‐12.00 mm Hg, 95% CI ‐26 to 2) and DBP (MD ‐2, 95%CI ‐10 to 6), oral ARA reduced SBP (MD ‐1 mm Hg, 95% CI ‐3 to 2) and DBP (MD ‐1 mm Hg, 95% CI ‐3 to 1), oral beta blockers reduced SBP (MD ‐14 mm Hg; 95% CI ‐27 to ‐1) and DBP (MD ‐1 mm Hg, 95% CI ‐9 to 7), intravenous (iv) beta blockers reduced SBP (MD ‐5 mm Hg, 95% CI ‐18 to 8) and DBP (‐5 mm Hg, 95% CI ‐13 to 3), oral CCBs reduced SBP (MD ‐13 mmHg, 95% CI ‐43 to 17) and DBP (MD ‐6 mmHg, 95% CI ‐14 to 2), iv CCBs reduced SBP (MD ‐32 mmHg, 95% CI ‐65 to 1) and DBP (MD ‐13, 95% CI ‐31 to 6), NO donors reduced SBP (MD ‐12 mmHg, 95% CI ‐19 to ‐5) and DBP (MD ‐3, 95% CI ‐4 to ‐2) while phenylephrine, non‐significantly increased SBP (MD 21 mmHg, 95% CI ‐13 to 55) and DBP (MD 1 mmHg, 95% CI ‐15 to 16).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Blood pressure lowering did not reduce death or dependency either by drug class (OR 0.98, 95% CI 0.92 to 1.05), stroke type (OR 0.98, 95% CI 0.92 to 1.05) or time to treatment (OR 0.98, 95% CI 0.92 to 1.05).",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment within six hours of stroke appeared effective in reducing death or dependency (OR 0.86, 95% CI 0.76 to 0.99) but not death (OR 0.70, 95% CI 0.38 to 1.26) at the end of the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although death or dependency did not differ between people who continued pre‐stroke antihypertensive treatment versus those who stopped it temporarily (worse outcome with continuing treatment, OR 1.06, 95% CI 0.91 to 1.24), disability scores at the end of the trial were worse in participants randomised to continue treatment (Barthel Index, MD ‐3.2, 95% CI ‐5.8, ‐0.6).",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is insufficient evidence that lowering blood pressure during the acute phase of stroke improves functional outcome.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is reasonable to withhold blood pressure‐lowering drugs until patients are medically and neurologically stable, and have suitable oral or enteral access, after which drugs can than be reintroduced.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In people with acute stroke, CCBs, ACEI, ARA, beta blockers and NO donors each lower blood pressure while phenylephrine probably increases blood pressure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Further trials are needed to identify which people are most likely to benefit from early treatment, in particular whether treatment started very early is beneficial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Background: In people who have just had a stroke (a sudden brain attack due to either blockage or rupture of an artery in the brain), very high and very low blood pressures may be harmful.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, drugs that raise low blood pressure or lower high blood pressure might be beneficial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Up to 50% of people admitted with acute stroke are taking blood pressure tablets on hospital admission and it is not clear whether these medications should be continued or discontinued in the acute situation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This review looked at those trials that deliberately altered blood pressure or compared continuing or stopping blood pressure‐lowering tablets taken before stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study characteristics: This review is up‐to‐date to May 2014.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 26 trials involving 17,011 participants: 24 trials assessed lowering blood pressure, one trial tested raising blood pressure, and two trials assessed what to do with drugs taken before stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All studies took place in hospitals that were used to treating people with stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Not all trials contributed information to all outcomes, and we have used data that were available in publications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key results: There is insufficient evidence to say that lowering blood pressure saves lives or reduces disability in people with acute stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Immediately restarting blood pressure‐lowering drugs taken before the stroke may increase disability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusion: More research is needed to identify those people who are most likely to benefit from altering blood pressure in acute stroke, the time window in which the treatment is likely to be of benefit, what types of stroke are likely to respond favourably, and the environment in which such treatment may be best given in routine practice.",
+      "align_score": null
+    }
+  ]
+}

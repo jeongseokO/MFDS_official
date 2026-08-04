@@ -1,0 +1,361 @@
+{
+  "document_id": "ee_cochrane_0007",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000029.PUB4",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000029.pub4/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In people with acute ischaemic stroke, platelets become activated and can cause blood clots to form and block an artery in the brain, resulting in damage to part of the brain.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Such damage gives rise to the symptoms of stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antiplatelet therapy might reduce the volume of brain damaged by ischaemia and also reduce the risk of early recurrent ischaemic stroke, thereby reducing the risk of early death and improving long‐term outcomes in survivors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, antiplatelet therapy might also increase the risk of fatal or disabling intracranial haemorrhage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess the efficacy and safety of immediate oral antiplatelet therapy (i.e. started as soon as possible and no later than two weeks after stroke onset) in people with acute presumed ischaemic stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Stroke Group Trials Register, CENTRAL, MEDLINE Ovid, Embase Ovid, and two trials registers, and performed forward reference/cited reference searching in August 2020.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomised controlled trials (RCTs) comparing oral antiplatelet therapy (started within 14 days of the stroke) with control in people with definite or presumed ischaemic stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors independently applied the inclusion criteria and assessed trial quality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the included trials, they extracted and cross‐checked the data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They assessed risk of bias of each study using the Risk of Bias 1 (RoB1) tool and overall certainty of the evidence for each outcome using the GRADE approach.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 11 studies involving 42,226 participants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three new trials have been added since the last update (743 participants).",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As per the previous version of this review, two trials testing aspirin 160 mg to 300 mg once daily, started within 48 hours of onset, contributed 96% of the data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The risk of bias was low.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The maximum follow‐up was six months.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With treatment, there was a decrease in death or dependency at the end of follow‐up (odds ratio (OR) 0.95, 95% confidence interval (CI) 0.91 to 0.99; 7 RCTs, 42,034 participants; moderate‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For every 1000 people treated with aspirin, 13 people would avoid death or dependency (number needed to treat for an additional beneficial outcome 79).",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antiplatelet therapy with aspirin 160 mg to 300 mg daily, given orally (or by nasogastric tube or per rectum in people who cannot swallow) and started within 48 hours of onset of presumed ischaemic stroke, significantly decreased death and dependency, and reduced the risk of early recurrent ischaemic stroke without a major risk of early haemorrhagic complications; long‐term outcomes were improved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We wanted to compare the safety and effectiveness of oral antiplatelet therapy versus placebo or no treatment in people with acute ischaemic stroke to see if oral antiplatelet medicines reduced the number of deaths and improved the long‐term outcomes in survivors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most strokes are caused by a sudden blockage of an artery in the brain that is usually due to a blood clot (called an ischaemic stroke).",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Immediate treatment with antiplatelet medicines such as aspirin may prevent new clots from forming and hence improve recovery after stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, antiplatelet medicines may also cause bleeding in the brain, which could offset any benefits.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study characteristics",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We identified 11 studies, up to August 2020, for inclusion in the review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These studies included 42,226 participants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three new trials have been added since the last update.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As per the previous version of this review, two studies contributed 96% of the data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most participants in the review were elderly, with a significant proportion over 70 years of age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Males and females were almost equally represented in the trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There appeared to be some variation in stroke severity among the included trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The scheduled duration of treatment varied from five days to three months and the scheduled follow‐up period varied from 10 days to six months.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Aspirin, at a dose of 160 mg to 300 mg daily, started within 48 hours of the onset of stroke symptoms, saved lives and reduced the risk of further stroke occurring in the first two weeks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If treatment was started more than 48 hours after onset but within 14 days, the limited evidence from this review and other external data suggest that aspirin is of benefit even starting at this late stage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antiplatelet therapy with aspirin 160 mg to 300 mg daily, given orally (or by a tube through the nose and into the stomach or by the rectum in people who cannot swallow) and started within 48 hours of onset of presumed ischaemic stroke, reduced the risk of early recurrent ischaemic stroke without a major risk of early haemorrhagic complications; long‐term outcomes were improved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Almost all the evidence in this review came from trials of aspirin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Quality of the evidence",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The quality of the evidence contributing to these results was generally good.",
+      "align_score": null
+    }
+  ]
+}

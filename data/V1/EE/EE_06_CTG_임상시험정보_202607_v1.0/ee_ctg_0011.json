@@ -1,0 +1,2872 @@
+{
+  "document_id": "ee_ctg_0011",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00000575",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Childhood Asthma Management Program (CAMP) Phases I (Trial), II (CAMPCS), III (CAMPCS/2), and IV (CAMPCS/3)",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00000575",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Childhood Asthma Management Program (CAMP) Phases I (Trial), II (CAMPCS), III (CAMPCS/2), and IV (CAMPCS/3)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "Asthma",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[1]",
+      "ko_txt": null,
+      "en_txt": "Lung Diseases",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[1]",
+      "ko_txt": null,
+      "en_txt": "Drug: Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[2]",
+      "ko_txt": null,
+      "en_txt": "Drug: Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "213",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "5U01HL075417 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Parallel Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "Triple (Participant, Care Provider, Investigator)",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Alice Sternberg",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "Johns Hopkins Bloomberg School of Public Health, Dept of Epidemiology",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "410-955-3752",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "asternbe@jhsph.edu",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "1041 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-10-27",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-10-27",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-10-28",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2013-10-16",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2014-02-20",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2014-04-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2014-02-20",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2014-04-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2014-02",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Recruitment Details",
+      "ko_txt": null,
+      "en_txt": "Between December 1993 and September 1995, 1041 children from 5 through 12 years of age with mild to moderate asthma at eight clinical centers (two HMOs associated with academic or research institutions and six located in specialty practices within academic or research institutions) were enrolled.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Pre-assignment Details",
+      "ko_txt": null,
+      "en_txt": "Patients were required to stop all asthma medications except as needed albuterol (prednisone could be used for asthma exacerbations) at the close of the second screening visit. Also at this time, patients began keeping a daily diary of asthma signs and symptoms, medications, school absences, and physician contacts.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[3]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "1041",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1041",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Total",
+      "ko_txt": null,
+      "en_txt": "1041",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1041",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "9.0 (2.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "8.8 (2.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "9.0 (2.2)",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.Total",
+      "ko_txt": null,
+      "en_txt": "8.9 (2.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1041",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "130",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "184",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "420",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "181",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "206",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "234",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "621",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "1041",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "274",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "274",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "368",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Total",
+      "ko_txt": null,
+      "en_txt": "916",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Canada.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "37",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Canada.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "38",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Canada.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "50",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Canada.Total",
+      "ko_txt": null,
+      "en_txt": "125",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Pulmonary Function as Measured by Normalized FEV1 Over a 4-6 Year Period",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "Change in FEV1 % of predicted, post-bronchodilator use, from baseline to the end of treatment (4-6 years after randomization). Percent predicted determined from three separate published sets of reference equations for white, black, and Hispanic children - see NEJM 343: 1054-1062, 2000 for more details and references.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "At the end of treatment, 4-6 years from baseline assessment",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "306",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "307",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "411",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: percentage of predicted value.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "0.6 (9.6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: percentage of predicted value.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "-0.5 (9.6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: percentage of predicted value.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "-0.1 (9.6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Title",
+      "ko_txt": null,
+      "en_txt": "Bronchial Responsiveness to Serial Methacholine Concentrations Inhaled Into the Lungs",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Description",
+      "ko_txt": null,
+      "en_txt": "Bronchial responsiveness to serial concentrations of inhaled methacholine solution (mg/ml) as measured by serial ratios of follow-up to baseline FEV1 (forced volume of air expired from the lungs in one second). A dose-response curve is calculated from the serial ratios in relation to the serial concentrations to determine PC20, the concentration associated with a 20% drop from baseline in FEV1; this PC20 is the outcome measure with units mg/ml of methacholine.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4-6 years from baseline",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "304",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "305",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "409",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Geometric Mean (Standard Deviation) | Unit of Measure: mg/ml of methacholine.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "3.0 (3.3)",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Geometric Mean (Standard Deviation) | Unit of Measure: mg/ml of methacholine.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "1.8 (3.3)",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Geometric Mean (Standard Deviation) | Unit of Measure: mg/ml of methacholine.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "1.9 (3.3)",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Title",
+      "ko_txt": null,
+      "en_txt": "Change From Baseline in the Rate of Asthma Free Days",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Description",
+      "ko_txt": null,
+      "en_txt": "Change from baseline proportion of days without asthma symptoms or other asthma related events to proportion of days during the 4-6 years of follow-up. Asthma free days were determined from daily asthma diaries kept from baseline to the end of treatment, 4-6 years later.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4-6 years from baseline",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Mean (Standard Deviation) | Unit of Measure: days per month.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "11.3 (10.2)",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Mean (Standard Deviation) | Unit of Measure: days per month.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "9.3 (10.2)",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Mean (Standard Deviation) | Unit of Measure: days per month.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "9.3 (10.2)",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Title",
+      "ko_txt": null,
+      "en_txt": "Need for Urgent Care for Asthma",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Description",
+      "ko_txt": null,
+      "en_txt": "Counts during the period of treatment (4-6 years) of visits to emergency rooms or equivalent urgent care settings for asthma treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4-6 years from baseline",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Overall Number of Participants Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Overall Number of Participants Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Overall Number of Participants Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Number | Unit of Measure: rate per 100 person years.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Number | Unit of Measure: rate per 100 person years.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "16",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Number | Unit of Measure: rate per 100 person years.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Title",
+      "ko_txt": null,
+      "en_txt": "Mortality",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Description",
+      "ko_txt": null,
+      "en_txt": "Counts of deaths from asthma.",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4-6 years from baseline",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Overall Number of Participants Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Overall Number of Participants Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Overall Number of Participants Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Number | Unit of Measure: participants.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Number | Unit of Measure: participants.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Number | Unit of Measure: participants.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Title",
+      "ko_txt": null,
+      "en_txt": "Change in Height From Baseline to End of Treatment, 4-6 Years Later",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Description",
+      "ko_txt": null,
+      "en_txt": "Change in standing height from baseline to end of treatment. Standing height is measured three times without shoes using a calibrated Harpenden stadiometer; the average of the three repeated heights to the nearest 0.1 cm is the height measure at either baseline or end of treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4-6 years from baseline",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Overall Number of Participants Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Overall Number of Participants Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Overall Number of Participants Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Mean (Standard Deviation) | Unit of Measure: cm.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "22.7 (5.4)",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Mean (Standard Deviation) | Unit of Measure: cm.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "23.7 (5.4)",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Mean (Standard Deviation) | Unit of Measure: cm.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "23.8 (5.4)",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Title",
+      "ko_txt": null,
+      "en_txt": "Standardized Depression Scale -- Children's Depression Inventory",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Description",
+      "ko_txt": null,
+      "en_txt": "Change in total score on the Children's Depression Inventory from baseline to the end of treatment, 4-6 years later. The total score ranges from 0-54 with higher scores indicating greater levels of depression.",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4-6 years from baseline",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Overall Number of Participants Analyzed.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Overall Number of Participants Analyzed.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Overall Number of Participants Analyzed.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Mean (Standard Deviation) | Unit of Measure: units on a scale.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "-3.2 (5.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Mean (Standard Deviation) | Unit of Measure: units on a scale.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "-1.8 (5.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Mean (Standard Deviation) | Unit of Measure: units on a scale.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "-2.2 (5.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "1 Budesonide",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "2 Nedocromil",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "3 Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.1 Budesonide",
+      "ko_txt": null,
+      "en_txt": "Budesonide (Pulmicort), two 100 microgram puffs bid + two microgram puffs albuterol (Ventolin) prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.2 Nedocromil",
+      "ko_txt": null,
+      "en_txt": "Nedocromil (Tilade), four 2 mg puffs bid + two 90 microgram puffs albuterol prn",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.3 Placebo",
+      "ko_txt": null,
+      "en_txt": "Two 100 microgram puffs budesonide placebo bid + two 90 microgram puffs albuterol prn or four 2 mg puffs nedocromil placebo bid + two 90 microgram puffs albuterol prn.",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.1 Budesonide.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.2 Nedocromil.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.3 Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Asthma exacerbation.3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).1 Budesonide.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).2 Nedocromil.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).3 Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Psychiatric disorders.Psychiatric (hallucinations).3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.1 Budesonide.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.2 Nedocromil.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.3 Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal stone.3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.1 Budesonide.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.2 Nedocromil.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.3 Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Dizziness.3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).1 Budesonide.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).2 Nedocromil.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).3 Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Musculoskeletal and connective tissue disorders.Musculoskeletal (low bone mineral density, back pain).3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).1 Budesonide.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).2 Nedocromil.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).3 Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Phsychiatric (behavior).3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).1 Budesonide.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).1 Budesonide.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).1 Budesonide.at Risk",
+      "ko_txt": null,
+      "en_txt": "311",
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).2 Nedocromil.# Events",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).2 Nedocromil.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).2 Nedocromil.at Risk",
+      "ko_txt": null,
+      "en_txt": "312",
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).3 Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).3 Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Respiratory (cough, wheeze, chest tightness, croup).3 Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "418",
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "Johns Hopkins Bloomberg School of Public Health",
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[0]",
+      "ko_txt": null,
+      "en_txt": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[1]",
+      "ko_txt": null,
+      "en_txt": "CAMP Steering Committee",
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: N. F. Adkinson, MD,  Johns Hopkins University",
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[1]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Anne Fuhlbrigge, MD, MS,  Brigham and Women's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[2]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: H. W. Kelly, PharmD,  University of New Mexico",
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[3]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Padmaja Subbarao, MD, MSc,  The Hospital for Sick Children",
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[4]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Paul Williams, MD,  Asthma, Inc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[5]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Robert Strunk, MD,  Washington University School of Medicine",
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[6]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Stanley Szefler, MD,  National Jewish Health",
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[7]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: James Tonascia, PhD,  Johns Hopkins University",
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[8]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Robert Zeiger, MD, PhD,  University of California, San Diego",
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "document_id": "ee_cochrane_0018",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000160.PUB4",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000160.pub4/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Carotid patch angioplasty may reduce the risk of acute occlusion or long‐term restenosis of the carotid artery and subsequent ischaemic stroke in people undergoing carotid endarterectomy (CEA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is an update of a Cochrane Review originally published in 1995 and updated in 2008.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess the safety and efficacy of routine or selective carotid patch angioplasty with either a venous patch or a synthetic patch compared with primary closure in people undergoing CEA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We wished to test the primary hypothesis that carotid patch angioplasty results in a lower rate of severe arterial restenosis and therefore fewer recurrent strokes and stroke‐related deaths, without a considerable increase in perioperative complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Stroke Group trials register, CENTRAL, MEDLINE, Embase, two other databases, and two trial registries in September 2021.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomised controlled trials and quasi‐randomised trials comparing carotid patch angioplasty with primary closure in people undergoing CEA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors independently assessed eligibility and risk of bias; extracted data; and determined the certainty of evidence using the GRADE approach.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Outcomes of interest included stroke, death, significant complications related to surgery, and artery restenosis or occlusion during the perioperative period (within 30 days of the operation) or during long‐term follow‐up.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included 11 trials involving 2100 participants undergoing 2304 CEA operations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The quality of trials was generally poor.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Follow‐up varied from hospital discharge to five years.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Compared with primary closure, carotid patch angioplasty may make little or no difference to reduction in risk of any stroke during the perioperative period (odds ratio (OR) 0.57, 95% confidence interval (CI) 0.31 to 1.03; P = 0.063; 8 studies, 1769 participants; very low‐certainty evidence), but may lower the risk of any stroke during long‐term follow‐up (OR 0.49, 95% CI 0.27 to 0.90; P = 0.022; 7 studies, 1332 participants; very low‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the included studies, carotid patch angioplasty resulted in a lower risk of ipsilateral stroke during the perioperative period (OR 0.31, 95% CI 0.15 to 0.63; P = 0.001; 7 studies, 1201 participants; very low‐certainty evidence), and during long‐term follow‐up (OR 0.32, 95% CI 0.16 to 0.63; P = 0.001; 6 studies, 1141 participants; very low‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The intervention was associated with a reduction in the risk of any stroke or death during long‐term follow‐up (OR 0.59, 95% CI 0.42 to 0.84; P = 0.003; 6 studies, 1019 participants; very low‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, the included studies suggest that carotid patch angioplasty may reduce the risk of perioperative arterial occlusion (OR 0.18, 95% CI 0.08 to 0.41; P < 0.0001; 7 studies, 1435 participants; low‐certainty evidence), and may reduce the risk of restenosis during long‐term follow‐up (OR 0.24, 95% CI 0.17 to 0.34; P < 0.00001; 8 studies, 1719 participants; low‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The studies recorded very few arterial complications, including haemorrhage, infection, cranial nerve palsies and pseudo‐aneurysm formation, with either patch or primary closure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found no correlation between the use of patch angioplasty and the risk of either perioperative or long‐term stroke‐related death or all‐cause death rates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Compared with primary closure, carotid patch angioplasty may reduce the risk of perioperative arterial occlusion and long‐term restenosis of the operated artery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It would appear to reduce the risk of ipsilateral stroke during the perioperative and long‐term period and reduce the risk of any stroke in the long‐term when compared with primary closure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, the evidence is uncertain due to the limited quality of included trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key messages Eleven trials involving 2100 people now suggest a possible benefit from using a special procedure (patch angioplasty) following carotid endarterectomy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is carotid endarterectomy?",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "About 20% of strokes result from narrowing of the carotid artery (the main artery supplying blood to the brain).",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A narrowed carotid artery can be treated with a surgical procedure called carotid endarterectomy, which involves cutting the artery open and removing fatty substances called plaques.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This widens the artery and so reduces the risk of stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, there is a small possibility that the operation itself can cause a stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is primary closure, and what is patch angioplasty?",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After removing the plaques from the artery, the surgeon can simply bring the two edges of the hole together and sew it closed (primary closure), or can close the hole with a patch, sewing the edges of the hole to the edges of the patch to widen the artery further (patch angioplasty).",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This patch can be made of synthetic material or can be a piece of the patient's own vein.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What did we want to find out?",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We wanted to find out if people who have people patch angioplasty after carotid endarterectomy – compared with those who have primary closure – have less chance of having a stroke or dying in the short or long term after the operation, or have less chance of their artery narrowing again, without suffering many more complications around the time of the operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What did we do?",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched for studies that compared patch angioplasty and primary closure in people who had carotid endarterectomy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We compared and summarised the results, and rated our confidence in the evidence, based on factors such as study methods and study size.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What did we find?",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found 11 studies involving 2100 participants undergoing 2304 carotid endarterectomy operations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The studies were conducted all around the world.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Main results Patch angioplasty lowered the risk of stroke in the short and long term after surgery compared with primary closure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patch angioplasty may reduce the risk of the artery becoming blocked and the risk of the patient having a stroke or dying in the long term.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Main limitations of the evidence Some studies monitored participants for up to five years, while others stopped monitoring participants after they left hospital.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This makes us uncertain about the evidence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How up to date is this evidence?",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The evidence is current to September 2021.",
+      "align_score": null
+    }
+  ]
+}

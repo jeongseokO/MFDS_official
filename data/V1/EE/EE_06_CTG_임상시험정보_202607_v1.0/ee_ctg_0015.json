@@ -1,0 +1,3340 @@
+{
+  "document_id": "ee_ctg_0015",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00001259",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "A Treatment Study for Premenstrual Syndrome (PMS)",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00001259",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "A Treatment Study for Premenstrual Syndrome (PMS)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "Premenstrual Syndrome",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[1]",
+      "ko_txt": null,
+      "en_txt": "Menstruation Disturbances",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Leuprolide",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[1]",
+      "ko_txt": null,
+      "en_txt": "Drug: Estradiol Patches",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[2]",
+      "ko_txt": null,
+      "en_txt": "Drug: Progesterone",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[3]",
+      "ko_txt": null,
+      "en_txt": "Drug: Placebo patch",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[4]",
+      "ko_txt": null,
+      "en_txt": "Drug: Placebo injection",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[5]",
+      "ko_txt": null,
+      "en_txt": "Drug: Placebo suppository",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "900088",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "90-M-0088",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Non-Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Crossover Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "Triple (Participant, Investigator, Outcomes Assessor)",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Schmidt, Peter",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "National Institute of Mental Health",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "+1 301 496 6120",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "peterschmidt@mail.nih.gov",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "60 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-11-04",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2022-09-27",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2023-02-28",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2023-03-02",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Actual",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2023-02-28",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2023-03-02",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Actual",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2021-01-04",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Recruitment Details",
+      "ko_txt": null,
+      "en_txt": "One participant signed consent but withdrew prior to study start",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Pre-assignment Details",
+      "ko_txt": null,
+      "en_txt": "8 of 46 participants who completed Study 2, Phase 1 did not proceed to Study 2, Phase 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Study 1, Phase 1, Assignment 1 - Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[3]",
+      "ko_txt": null,
+      "en_txt": "Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[4]",
+      "ko_txt": null,
+      "en_txt": "Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[5]",
+      "ko_txt": null,
+      "en_txt": "Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[6]",
+      "ko_txt": null,
+      "en_txt": "Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "As part of double Blind randomized trial, participants in Assignment 1 were randomized to 8 weeks of placebo (P) injections (1 injection per month). These participants then continued on to Study 2 after completion of 8 weeks of placebo injections.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "As part of double Blind randomized trial, participants in Assignment 2 were randomized to 8 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Those who exhibited a remission of symptoms after 8 weeks continued on to receive one more month of GnRH agonist treatment (12 weeks total) and then entered Study 1, Phase 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Additionally, 4 weeks of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 5 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day). Followed by 1-2 weeks (weeks 6-7) washout period. Then crossover to 5 weeks (week 8-12) of Progesterone suppositories (200mg vaginally twice/day) and placebo patches.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Additionally, 5 weeks of Progesterone suppositories (200mg vaginally twice/day) and placebo patches. Followed by 1-2 weeks (weeks 6-7) washout period. Then crossover to 4 weeks (weeks 8-11) of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 12 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day)",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Additionally, 4 weeks of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 5 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day). Followed by 1-2 weeks (weeks 6-7) washout period. Then crossover to 5 weeks (week 8-12) of Progesterone suppositories (200mg vaginally twice/day) and placebo patches.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Additionally, 5 weeks of Progesterone suppositories (200mg vaginally twice/day) and placebo patches. Followed by 1-2 weeks (weeks 6-7) washout period. Then crossover to 4 weeks (weeks 8-11) of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 12 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day)",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Study 1",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 1.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 1.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 1.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 1.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 1.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 1.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 1.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2 - Crossover Arm.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2 - Crossover Arm.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2 - Crossover Arm.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2 - Crossover Arm.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2 - Crossover Arm.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2 - Crossover Arm.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Started Phase 2 - Crossover Arm.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2 - Crossover Arm.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2 - Crossover Arm.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2 - Crossover Arm.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2 - Crossover Arm.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2 - Crossover Arm.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2 - Crossover Arm.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Completed Phase 2 - Crossover Arm.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Period Title",
+      "ko_txt": null,
+      "en_txt": "Study 2",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].STARTED.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].STARTED.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].STARTED.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].STARTED.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].STARTED.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].STARTED.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].STARTED.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 1.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 1.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 1.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 1.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 1.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "46",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 1.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 1.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "21",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "17",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "21",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "17",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2 - Crossover Arm.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2 - Crossover Arm.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2 - Crossover Arm.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2 - Crossover Arm.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2 - Crossover Arm.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2 - Crossover Arm.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "21",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Started Phase 2 - Crossover Arm.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "17",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2 - Crossover Arm.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2 - Crossover Arm.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2 - Crossover Arm.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2 - Crossover Arm.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2 - Crossover Arm.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2 - Crossover Arm.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "21",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Completed Phase 2 - Crossover Arm.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "17",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].COMPLETED.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].COMPLETED.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].COMPLETED.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].COMPLETED.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].COMPLETED.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "46",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].COMPLETED.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].COMPLETED.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].NOT COMPLETED.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].NOT COMPLETED.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].NOT COMPLETED.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].NOT COMPLETED.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].NOT COMPLETED.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].NOT COMPLETED.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].NOT COMPLETED.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Adverse Event.Study 1, Phase 1, Assignment 1 - Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Adverse Event.Study 1, Phase 1, Assignment 2 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Adverse Event.Study 1, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Adverse Event.Study 1, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Adverse Event.Study 2, Phase 1 - GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Adverse Event.Study 2, Phase 2, Arm 1 - Estradiol, Then Progesterone",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[1].Adverse Event.Study 2, Phase 2, Arm 2 - Progesterone, Then Estradiol",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "GnRH Agonist Injections (Lupron-L Only)",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "8 weeks of placebo (P) injections (one injection per month)",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly before randomization to estradiol or progesterone arm in the crossover phase of the study",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Baseline Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "All participants either received placebo or GnRH agonist injections (Lupron-L only) prior to randomization to any arm in either study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Total",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "47",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Total",
+      "ko_txt": null,
+      "en_txt": "57",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Total",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "15",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Total",
+      "ko_txt": null,
+      "en_txt": "15",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "29",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Total",
+      "ko_txt": null,
+      "en_txt": "39",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Placebo",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Total",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Mean Beck Depression Inventory Score",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "The Beck Depression Inventory (BDI) is a 21-item, self-report rating inventory that measures the severity of symptoms accompanying depression. Each item has a minimum score of 0 and a maximum score of 3, with higher numbers consistent with more severe symptoms. The score of each item is summed to amount the overall BDI score, with a minimum score of 0 and a maximum score of 63. Higher BDI scores are consistent with more severe depression. Score of 16 or greater is consistent with clinical depression.\n\nEach participant completed the BDI every 2 weeks during each of the study phases throughout the 6-month study. Outcome measures reported consist of the average of two BDI scores from each phase of the study: the last 4 weeks of the GnRH agonist alone; weeks 6 and 8 of placebo alone; during the 4-week long estradiol phase (weeks 2 and 4 of estradiol) and the 4-week long progesterone phase (weeks 2 and 4 of progesterone).",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Placebo: Weeks 6 and 8 of Placebo; Lupron only: Weeks 6 and 8 or 10 and 12; Estradiol or progesterone: Weeks 2 and 4",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "Analyses included comparison of participants mean BDI scores during each phase of the study",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "GnRH Agonist Injections (Lupron-L Only)",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Estradiol",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[3]",
+      "ko_txt": null,
+      "en_txt": "Progesterone",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "8 weeks of placebo (P) injections (one injection per month)",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly before randomization to estradiol or progesterone arm in the crossover phase of the study",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Estradiol",
+      "ko_txt": null,
+      "en_txt": "4 weeks of transdermal Estradiol (100mcg/day by skin patch)",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Progesterone",
+      "ko_txt": null,
+      "en_txt": "5 weeks of Progesterone suppositories (200mg vaginally twice/day)",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Estradiol",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Progesterone",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: score on a scale.Placebo",
+      "ko_txt": null,
+      "en_txt": "2.6 (2.6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: score on a scale.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "3.0 (3.8)",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: score on a scale.Estradiol",
+      "ko_txt": null,
+      "en_txt": "5.3 (5.3)",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: score on a scale.Progesterone",
+      "ko_txt": null,
+      "en_txt": "3.6 (5.7)",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Time Frame",
+      "ko_txt": null,
+      "en_txt": "6 months",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "GnRH Agonist Injections (Lupron-L Only)",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Estradiol",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[3]",
+      "ko_txt": null,
+      "en_txt": "Progesterone",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "8 weeks of placebo (P) injections (one injection per month)",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.GnRH Agonist Injections (Lupron-L Only)",
+      "ko_txt": null,
+      "en_txt": "Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly before randomization to estradiol or progesterone arm in the crossover phase of the study",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Estradiol",
+      "ko_txt": null,
+      "en_txt": "4 weeks of transdermal Estradiol (100mcg/day by skin patch)",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Progesterone",
+      "ko_txt": null,
+      "en_txt": "5 weeks of Progesterone suppositories (200mg vaginally twice/day)",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.All-Cause Mortality.Total.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.GnRH Agonist Injections (Lupron-L Only).# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Estradiol.# Events",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Progesterone.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Pain.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.GnRH Agonist Injections (Lupron-L Only).# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Estradiol.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Progesterone.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Paraesthesia.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.GnRH Agonist Injections (Lupron-L Only).# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Estradiol.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Progesterone.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Metabolism and nutrition disorders.Fluid retention.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.GnRH Agonist Injections (Lupron-L Only).# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Estradiol.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Progesterone.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Gastritis.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.GnRH Agonist Injections (Lupron-L Only).# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Estradiol.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Progesterone.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Mood disorder due to a general medical condition.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Placebo.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.GnRH Agonist Injections (Lupron-L Only).# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.GnRH Agonist Injections (Lupron-L Only).Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.GnRH Agonist Injections (Lupron-L Only).at Risk",
+      "ko_txt": null,
+      "en_txt": "58",
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Estradiol.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Estradiol.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Estradiol.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Progesterone.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Progesterone.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Endocrine disorders.Genital atrophy.Progesterone.at Risk",
+      "ko_txt": null,
+      "en_txt": "48",
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "National Institute of Mental Health (NIMH)",
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Peter J Schmidt, M.D.,  National Institute of Mental Health (NIMH)",
+      "align_score": null
+    }
+  ]
+}

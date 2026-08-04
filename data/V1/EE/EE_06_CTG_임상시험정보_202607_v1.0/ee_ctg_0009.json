@@ -1,0 +1,1513 @@
+{
+  "document_id": "ee_ctg_0009",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00000392",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Phase II Study of the Efficacy of Peptide T in HIV-Positive Individuals With Cognitive Impairment.",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00000392",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Phase II Study of the Efficacy of Peptide T in HIV-Positive Individuals With Cognitive Impairment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "HIV Infections",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[1]",
+      "ko_txt": null,
+      "en_txt": "Cognition Disorders",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Peptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[1]",
+      "ko_txt": null,
+      "en_txt": "Drug: Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "N01 MH00013",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Parallel Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "Double (Participant, Care Provider)",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Benedetto Vitiello, MD - Supervisory Medical Officer",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "NIMH",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "301-443-3357",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "bvitiell@mail.nih.gov",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "215 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "2000-01-17",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2000-01-17",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "2000-01-18",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2015-07-17",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2015-07-29",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2015-08-04",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2017-02-27",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2017-02-28",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Actual",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2013-10",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Pre-assignment Details",
+      "ko_txt": null,
+      "en_txt": "Of 457 persons screened for cognitive impairment, 205 men and 10 women were randomized (106 to peptide T and 109 to placebo).",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Peptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Peptide T",
+      "ko_txt": null,
+      "en_txt": "Peptide T given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPeptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Placebo given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPlacebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Peptide T",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Placebo",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Peptide T",
+      "ko_txt": null,
+      "en_txt": "66",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Placebo",
+      "ko_txt": null,
+      "en_txt": "77",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Peptide T",
+      "ko_txt": null,
+      "en_txt": "40",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Placebo",
+      "ko_txt": null,
+      "en_txt": "32",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Peptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Peptide T",
+      "ko_txt": null,
+      "en_txt": "Peptide T given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPeptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Placebo given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPlacebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Peptide T",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Placebo",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "215",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Customized.Number Analyzed.Peptide T",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Customized.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Customized.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "215",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Customized.18-39 years.Peptide T",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Customized.18-39 years.Placebo",
+      "ko_txt": null,
+      "en_txt": "62",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Customized.18-39 years.Total",
+      "ko_txt": null,
+      "en_txt": "122",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Peptide T",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "215",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Peptide T",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Placebo",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Peptide T",
+      "ko_txt": null,
+      "en_txt": "101",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Placebo",
+      "ko_txt": null,
+      "en_txt": "104",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "205",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Peptide T",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "215",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Peptide T",
+      "ko_txt": null,
+      "en_txt": "83",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Placebo",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Total",
+      "ko_txt": null,
+      "en_txt": "177",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Hispanic.Peptide T",
+      "ko_txt": null,
+      "en_txt": "16",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Hispanic.Placebo",
+      "ko_txt": null,
+      "en_txt": "9",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Hispanic.Total",
+      "ko_txt": null,
+      "en_txt": "25",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Black.Peptide T",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Black.Placebo",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Black.Total",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Peptide T",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "215",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Peptide T",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Placebo",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Total",
+      "ko_txt": null,
+      "en_txt": "215",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Change in Global Neurocognitive Performance z Score From Baseline",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "Higher values for change in z-score represent an improvement in Neurocognitive Performance (NP)",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Baseline and 6 months",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Peptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Peptide T",
+      "ko_txt": null,
+      "en_txt": "Peptide T given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPeptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Placebo given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPlacebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Peptide T",
+      "ko_txt": null,
+      "en_txt": "66",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "77",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Error) | Unit of Measure: z score.Peptide T",
+      "ko_txt": null,
+      "en_txt": "0.24 (0.05)",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Error) | Unit of Measure: z score.Placebo",
+      "ko_txt": null,
+      "en_txt": "0.16 (0.03)",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Comparison Group(s)[0]",
+      "ko_txt": null,
+      "en_txt": "OG000",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Comparison Group(s)[1]",
+      "ko_txt": null,
+      "en_txt": "OG001",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Non-Inferiority Type",
+      "ko_txt": null,
+      "en_txt": "Superiority or Other",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].P-Value",
+      "ko_txt": null,
+      "en_txt": "0.18",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Statistical Method",
+      "ko_txt": null,
+      "en_txt": "ANOVA",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].CI Number of Sides",
+      "ko_txt": null,
+      "en_txt": "TWO_SIDED",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Title",
+      "ko_txt": null,
+      "en_txt": "Change in Neurocognitive Performance Domain z Scores From Baseline",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Description",
+      "ko_txt": null,
+      "en_txt": "Higher values for change in z-score represent an improvement in Neurocognitive Performance (NP)",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Baseline and 6 months",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Peptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.Peptide T",
+      "ko_txt": null,
+      "en_txt": "Peptide T given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPeptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Placebo given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPlacebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.Peptide T",
+      "ko_txt": null,
+      "en_txt": "66",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.Placebo",
+      "ko_txt": null,
+      "en_txt": "77",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Verbal fluency.Peptide T",
+      "ko_txt": null,
+      "en_txt": "0.14 (0.09)",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Verbal fluency.Placebo",
+      "ko_txt": null,
+      "en_txt": "0.15 (0.08)",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Visuospatial ability.Peptide T",
+      "ko_txt": null,
+      "en_txt": "0.17 (0.06)",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Visuospatial ability.Placebo",
+      "ko_txt": null,
+      "en_txt": "0.25 (0.06)",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Abstract thinking.Peptide T",
+      "ko_txt": null,
+      "en_txt": "0.34 (0.07)",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Abstract thinking.Placebo",
+      "ko_txt": null,
+      "en_txt": "0.23 (0.04)",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Speed of information processing.Peptide T",
+      "ko_txt": null,
+      "en_txt": "0.23 (0.07)",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Speed of information processing.Placebo",
+      "ko_txt": null,
+      "en_txt": "0.14 (0.05)",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Working memory.Peptide T",
+      "ko_txt": null,
+      "en_txt": "0.23 (0.09)",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Working memory.Placebo",
+      "ko_txt": null,
+      "en_txt": "0.08 (0.07)",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Learning and retention.Peptide T",
+      "ko_txt": null,
+      "en_txt": "0.19 (0.07)",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Learning and retention.Placebo",
+      "ko_txt": null,
+      "en_txt": "0.11 (0.06)",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Motor performance.Peptide T",
+      "ko_txt": null,
+      "en_txt": "0.19 (0.06)",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Motor performance.Placebo",
+      "ko_txt": null,
+      "en_txt": "0.18 (0.06)",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Adverse Event Reporting Description",
+      "ko_txt": null,
+      "en_txt": "Only data for the events that were statistically significant between the two treatment groups could be retrieved because adverse event data are lost.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Peptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Peptide T",
+      "ko_txt": null,
+      "en_txt": "Peptide T given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPeptide T",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Placebo",
+      "ko_txt": null,
+      "en_txt": "Placebo given intranasally at a dosage of 2mg 3 times a day for 6 months\n\nPlacebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Peptide T.Affected",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Peptide T.at Risk",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Death.Peptide T.Affected",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Death.Peptide T.at Risk",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Death.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Death.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Peptide T.Affected",
+      "ko_txt": null,
+      "en_txt": "75",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Peptide T.at Risk",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "57",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Depression or Irritability.Peptide T.Affected",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Depression or Irritability.Peptide T.at Risk",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Depression or Irritability.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Psychiatric disorders.Depression or Irritability.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Skin and subcutaneous tissue disorders.Rash.Peptide T.Affected",
+      "ko_txt": null,
+      "en_txt": "34",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Skin and subcutaneous tissue disorders.Rash.Peptide T.at Risk",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Skin and subcutaneous tissue disorders.Rash.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "42",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Skin and subcutaneous tissue disorders.Rash.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Nasal Congestion.Peptide T.Affected",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Nasal Congestion.Peptide T.at Risk",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Nasal Congestion.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Respiratory, thoracic and mediastinal disorders.Nasal Congestion.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Renal and urinary disorders.Proteinuria.Peptide T.Affected",
+      "ko_txt": null,
+      "en_txt": "18",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Renal and urinary disorders.Proteinuria.Peptide T.at Risk",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Renal and urinary disorders.Proteinuria.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "9",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Renal and urinary disorders.Proteinuria.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Blood and lymphatic system disorders.Eosinophilia.Peptide T.Affected",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Blood and lymphatic system disorders.Eosinophilia.Peptide T.at Risk",
+      "ko_txt": null,
+      "en_txt": "106",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Blood and lymphatic system disorders.Eosinophilia.Placebo.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Blood and lymphatic system disorders.Eosinophilia.Placebo.at Risk",
+      "ko_txt": null,
+      "en_txt": "109",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "National Institute of Mental Health (NIMH)",
+      "align_score": null
+    }
+  ]
+}

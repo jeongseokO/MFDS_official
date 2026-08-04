@@ -1,0 +1,1990 @@
+{
+  "document_id": "ee_ctg_0014",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00001213",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Cysteamine Eye Drops to Treat Corneal Crystals in Cystinosis",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00001213",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Cysteamine Eye Drops to Treat Corneal Crystals in Cystinosis",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "Cystinosis",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Cysteamine",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "860062",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "86-EI-0062",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "N/A",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Single Group Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "None (Open Label)",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Rachel J. Bishop, MD, Principal Investigator, National Eye Institute",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "National Institutes of Health",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "301-402-3771",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "bishopra@nei.nih.gov",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "328 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-11-04",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2014-06-20",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2014-06-20",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2014-07-22",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2014-06-20",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2014-07-22",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2014-06",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Cysteamine Topical Solution",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "Cysteamine topical solution administered hourly while awake in both eyes\n\nCysteamine",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "310",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "18",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "18",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Cysteamine Topical Solution",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "Cysteamine topical solution administered hourly while awake in both eyes\n\nCysteamine",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "13.1 (10.04)",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Number Analyzed.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Female.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "153",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Male.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "173",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Number of Participants With Serious and Non-Serious Adverse Events",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "Since efficacy of ophthalmic cysteamine was established and a New Drug Application (NDA) filed, the post-hoc primary outcome measure is the evaluation of safety information. There was no specified time frame for this outcome measure, as safety data was being collected until the drug became available for commercial purchase in May 2013.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Any Time Point up to 27 Years",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Cysteamine Topical Solution",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "Cysteamine topical solution administered hourly while awake in both eyes\n\nCysteamine",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Number | Unit of Measure: participants.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "257",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Title",
+      "ko_txt": null,
+      "en_txt": "Number of Eyes With a Corneal Cystine Crystal Score (CCCS) Response",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Description",
+      "ko_txt": null,
+      "en_txt": "Response is defined as a decrease from baseline of at least 1 in Corneal Cystine Crystal Score (CCCS) at any time on study when baseline CCCS is greater than or equal to 1, or CCCS does not increase at least 1 at any time on study when baseline CCCS is less than 1.\n\nThe CCCS is based on a library of slit-lamp photographs of corneas with increasing crystal densities (0-3). Slit-lamp photos were to be taken to assess the extent of the corneal crystal accumulation. To minimize bias when assessing the extent of corneal crystal accumulation, photos were centrally graded at the National Eye Institute (NEI) where each photo was graded independently by masked graders. If more than one CCCS was recorded in a given study year, the highest (worst) CCCS value was used for that year.\n\nThe results were obtained from a combined analyses of the NIH cysteamine studies evaluating various cysteamine ophthalmic solution formulations from 1986 through 2005.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Time Frame",
+      "ko_txt": null,
+      "en_txt": "Any Time Point Up to 19 Years",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "One hundred sixty-one (161) participants were analyzed in the pre-specified intent-to-treat population \\[defined as patients who received study medication (between 1986 and 2005), and had a baseline and a post-baseline CCCS value\\]. After 2005, all participants enrolled received open-label treatment and only safety data was obtained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Cysteamine Topical Solution",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "Cysteamine topical solution administered hourly while awake in both eyes\n\nCysteamine",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "321",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Type of Units Analyzed",
+      "ko_txt": null,
+      "en_txt": "eyes",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Number | Unit of Measure: eyes.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "98",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Time Frame",
+      "ko_txt": null,
+      "en_txt": "Adverse events (AEs) were collected throughout the study. No specified time period is noted, as participants were followed until the drug became available commercially.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Adverse Event Reporting Description",
+      "ko_txt": null,
+      "en_txt": "Cystinosis patients typically have multiple medical problems, including kidney failure. The AEs reported do not reflect these systemic problems, focusing instead on ocular AEs (e.g., renal failure is noted in only 2 of 328 patients, though the majority have been managed for kidney disease and/or failure and have received a kidney transplant).",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Cysteamine Topical Solution",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Cysteamine Topical Solution",
+      "ko_txt": null,
+      "en_txt": "Cysteamine topical solution administered hourly while awake in both eyes\n\nCysteamine",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Optic disc disorder.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Optic disc disorder.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Optic disc disorder.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Blindness.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Blindness.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Blindness.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal failure.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal failure.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Renal failure.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Benign intracranial hypertension.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Benign intracranial hypertension.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Benign intracranial hypertension.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Infections and infestations.Gastrointestinal infection.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Infections and infestations.Gastrointestinal infection.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Infections and infestations.Gastrointestinal infection.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Intestinal obstruction.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Intestinal obstruction.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Intestinal obstruction.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "257",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Photophobia.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "239",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Photophobia.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "239",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Photophobia.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctival hyperaemia.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "69",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctival hyperaemia.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "69",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctival hyperaemia.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye pain.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "66",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye pain.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "66",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye pain.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ocular hyperaemia.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "52",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ocular hyperaemia.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "52",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ocular hyperaemia.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye irritation.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye irritation.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "49",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye irritation.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Lacrimation increased.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "23",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Lacrimation increased.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "23",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Lacrimation increased.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Optic disc disorder.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Optic disc disorder.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Optic disc disorder.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Vision blurred.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "20",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Vision blurred.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "20",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Vision blurred.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Keratitis.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Keratitis.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Keratitis.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Dry eye.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Dry eye.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Dry eye.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye pruritis.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye pruritis.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye pruritis.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctivitis.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctivitis.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctivitis.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid oedema.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid oedema.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid oedema.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Retinal disorder.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Retinal disorder.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Retinal disorder.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Blindness.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "9",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Blindness.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "9",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Blindness.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Corneal epithelium disorder.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Corneal epithelium disorder.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Corneal epithelium disorder.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Blepharitis.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Blepharitis.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Blepharitis.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Erythema of eyelid.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Erythema of eyelid.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Erythema of eyelid.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye swelling.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye swelling.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye swelling.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctival oedema.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctival oedema.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Conjunctival oedema.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye oedema.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye oedema.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eye oedema.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid cyst.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid cyst.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid cyst.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid irritation.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid irritation.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Eyelid irritation.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ulcerative keratitis.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ulcerative keratitis.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Ulcerative keratitis.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Drug ineffective.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Drug ineffective.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Eye disorders.Drug ineffective.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Headache.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Headache.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "94",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Headache.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Visual field defect.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Visual field defect.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Visual field defect.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Benign intracranial hypertension.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Benign intracranial hypertension.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Nervous system disorders.Benign intracranial hypertension.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site irritation.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "33",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site irritation.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "33",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site irritation.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site pain.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site pain.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site pain.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Adverse drug reaction.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Adverse drug reaction.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "7",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Adverse drug reaction.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site erythema.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site erythema.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site erythema.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Swelling.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Swelling.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Swelling.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site lacrimation.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site lacrimation.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site lacrimation.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site reaction.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site reaction.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.General disorders.Instillation site reaction.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Eye infection.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Eye infection.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Eye infection.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Conjunctivitis ineffective.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Conjunctivitis ineffective.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Conjunctivitis ineffective.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hordeolum.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hordeolum.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Infections and infestations.Hordeolum.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Vomiting.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Vomiting.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Vomiting.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Gastrointestinal disorders.Abdominal pain.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Immune system disorders.Drug hypersensitivity.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Immune system disorders.Drug hypersensitivity.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Immune system disorders.Drug hypersensitivity.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Investigations.Visual evoked potentials abnormal.Cysteamine Topical Solution.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Investigations.Visual evoked potentials abnormal.Cysteamine Topical Solution.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Investigations.Visual evoked potentials abnormal.Cysteamine Topical Solution.at Risk",
+      "ko_txt": null,
+      "en_txt": "328",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "table",
+      "section": null,
+      "path": "Limitations and Caveats",
+      "ko_txt": null,
+      "en_txt": "Due to the progressive nature of the drug's development, this protocol reflects the culmination of cysteamine studies performed at NIH. The combined analyses of the data is presented and not the data or analyses of one individual protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "National Eye Institute (NEI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Rachel J Bishop, M.D.,  National Eye Institute (NEI)",
+      "align_score": null
+    }
+  ]
+}

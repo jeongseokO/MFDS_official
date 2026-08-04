@@ -1,0 +1,4924 @@
+{
+  "document_id": "ee_ctg_0012",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00000620",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Action to Control Cardiovascular Risk in Diabetes (ACCORD)",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00000620",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Action to Control Cardiovascular Risk in Diabetes (ACCORD)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "Atherosclerosis",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[1]",
+      "ko_txt": null,
+      "en_txt": "Cardiovascular Diseases",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[2]",
+      "ko_txt": null,
+      "en_txt": "Hypercholesterolemia",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[3]",
+      "ko_txt": null,
+      "en_txt": "Hypertension",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[4]",
+      "ko_txt": null,
+      "en_txt": "Diabetes Mellitus, Type 2",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[5]",
+      "ko_txt": null,
+      "en_txt": "Diabetes Mellitus",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[6]",
+      "ko_txt": null,
+      "en_txt": "Coronary Disease",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Anti-hyperglycemic Agents",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[1]",
+      "ko_txt": null,
+      "en_txt": "Drug: Anti-hypertensive Agents",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[2]",
+      "ko_txt": null,
+      "en_txt": "Drug: Blinded fenofibrate or placebo plus simvastatin",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "123",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "N01HC95178 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[2]",
+      "ko_txt": null,
+      "en_txt": "N01HC95179 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[3]",
+      "ko_txt": null,
+      "en_txt": "N01HC95180 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[4]",
+      "ko_txt": null,
+      "en_txt": "N01HC95181 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[5]",
+      "ko_txt": null,
+      "en_txt": "N01HC95182 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[6]",
+      "ko_txt": null,
+      "en_txt": "N01HC95183 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[7]",
+      "ko_txt": null,
+      "en_txt": "N01HC95184 ( NIH )",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[8]",
+      "ko_txt": null,
+      "en_txt": "IAA#Y1HC9035 ( OTHER_GRANT ) (OTHER: U.S. Centers for Disease Control)",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[9]",
+      "ko_txt": null,
+      "en_txt": "IAA#Y1HC1010 ( OTHER_GRANT ) (OTHER: U.S. Centers for Disease Control)",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "Randomized",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Factorial Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "None (Open Label)",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Prevention",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Tim Craven / Senior Biostatistician",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "Wake Forest School of Medicine",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "336-716-6109",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "tcraven@wakehealth.edu",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "10251 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-10-27",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-10-27",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-10-28",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2014-09-05",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2014-09-05",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2014-09-15",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2016-11-21",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2016-11-22",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2014-11",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Recruitment Details",
+      "ko_txt": null,
+      "en_txt": "All participants had established type 2 diabetes and were recruited from 77 clinical centers in the United States (64 sites) and Canada (13 sites). Recruitment occurred in two phases, from January to June 2001 and from February 2003 to October 2005.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Pre-assignment Details",
+      "ko_txt": null,
+      "en_txt": "Eligible participants provided evidence of ability to routinely monitor capillary blood sugars from written records or electronic downloads from a self-monitoring blood glucose device (SMBG), or (in cases where such records could not be provided) underwent a 2 to 4-week pre-randomization run-in period to evaluate compliance with SMBG monitoring.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[3]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[4]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[5]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[6]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[7]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial - Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels \\<6.0%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.\n\nBP Trial - Open label administration of anti-hypertensive agents to reduce and maintain systolic blood pressure (SBP) level to \\<120 mmHg. Anti-hypertensive agents include multiple anti-hypertensive medications as needed to reach Blood Pressure Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial - Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels \\<6.0%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.\n\nBP Trial - Open label administration of multiple anti-hypertensive agents to maintain SBP level \\<140 mm Hg. Anti-hypertensive agents include multiple anti-hypertensive medications as needed to reach Blood Pressure Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial - Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels \\<6.0%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.\n\nLipid Trial - Double blind administration of 160 mg/day of fenofibrate in participants with estimated glomerular filtration rate (eGFR) ≥50 mL/min/1.73m\\^2 or 54 mg/day in patients with eGFR \\<50 mL/min/1.73m\\^2 in combination with open label simvastatin. Blinded fenofibrate or placebo plus simvastatin includes double blind administration of 160 mg/day of fenofibrate in participants with estimated glomerular filtration rate (eGFR) ≥50 mL/min/1.73m\\^2 or 54 mg/day in patients with eGFR \\<50 mL/min/1.73m\\^2 or matching placebo in combination with open label simvastatin 20 - 40 mg/day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial - Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels \\<6.0%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.\n\nDouble blind administration of placebo matching either 160 mg/day in participants with eGFR ≥50 mL/min/1.73m2 or 54 mg/day in participants with eGFR \\<50 mL/min/1.73m\\^2 in combination with open label simvastatin. Blinded fenofibrate or placebo plus simvastatin includes double blind administration of 160 mg/day of fenofibrate in participants with estimated glomerular filtration rate (eGFR) ≥50 mL/min/1.73m\\^2 or 54 mg/day in patients with eGFR \\<50 mL/min/1.73m\\^2 or matching placebo in combination with open label simvastatin 20 - 40 mg/day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial - Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels of 7.0 to 7.9%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.\n\nBP Trial - Open label administration of anti-hypertensive agents to reduce and maintain systolic blood pressure (SBP) level to \\<120 mmHg. Anti-hypertensive agents include multiple anti-hypertensive medications as needed to reach Blood Pressure Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial - Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels of 7.0 to 7.9%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.\n\nBP Trial - Open label administration of multiple anti-hypertensive agents to maintain SBP level \\<140 mm Hg. Anti-hypertensive agents include multiple anti-hypertensive medications as needed to reach Blood Pressure Trial arm-specific goals (intensive control \\<120 mm Hg; standard control \\<140 mm Hg).",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial - Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels of 7.0 to 7.9%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.\n\nLipid Trial - Double blind administration of 160 mg/day of fenofibrate in participants with estimated glomerular filtration rate (eGFR) ≥50 mL/min/1.73m\\^2 or 54 mg/day in patients with eGFR \\<50 mL/min/1.73m\\^2 in combination with open label simvastatin. Blinded fenofibrate or placebo plus simvastatin includes double blind administration of 160 mg/day of fenofibrate in participants with estimated glomerular filtration rate (eGFR) ≥50 mL/min/1.73m\\^2 or 54 mg/day in patients with eGFR \\<50 mL/min/1.73m\\^2 or matching placebo in combination with open label simvastatin 20 - 40 mg/day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial - Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels of 7.0 to 7.9%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.\n\nDouble blind administration of placebo matching either 160 mg/day in participants with eGFR ≥50 mL/min/1.73m2 or 54 mg/day in participants with eGFR \\<50 mL/min/1.73m\\^2 in combination with open label simvastatin. Blinded fenofibrate or placebo plus simvastatin includes double blind administration of 160 mg/day of fenofibrate in participants with estimated glomerular filtration rate (eGFR) ≥50 mL/min/1.73m\\^2 or 54 mg/day in patients with eGFR \\<50 mL/min/1.73m\\^2 or matching placebo in combination with open label simvastatin 20 - 40 mg/day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "1178",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "1193",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "1374",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "1383",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "1184",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "1178",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "1391",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "1370",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "1016",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "1057",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "1204",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "1205",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "1049",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "1026",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "1242",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "1224",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "162",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "136",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "170",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "178",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "135",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "152",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "149",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "146",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "86",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "67",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "112",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "126",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "64",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "77",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "91",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "95",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Lost to Follow-up.Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Lost to Follow-up.Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Lost to Follow-up.Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Lost to Follow-up.Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Lost to Follow-up.Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "15",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Lost to Follow-up.Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "15",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Lost to Follow-up.Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Lost to Follow-up.Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "40",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "27",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "30",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "32",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "32",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "21",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].missed closeout visit.Glycemia Trial: Intensive Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].missed closeout visit.Glycemia Trial: Intensive Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].missed closeout visit.Glycemia Trial: Intensive Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "16",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].missed closeout visit.Glycemia Trial: Intensive Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].missed closeout visit.Glycemia Trial: Standard Control/BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "26",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].missed closeout visit.Glycemia Trial: Standard Control/BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "28",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].missed closeout visit.Glycemia Trial: Standard Control/Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].missed closeout visit.Glycemia Trial: Standard Control/Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "16",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Intensive Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Standard Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels \\<6.0%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels of 7.0 to 7.9%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "62.2 (6.8)",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "62.2 (6.8)",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Continuous.Mean (Standard Deviation) | Unit of measure: years.Total",
+      "ko_txt": null,
+      "en_txt": "62.2 (6.8)",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Female.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "1983",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Female.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "1969",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Female.Total",
+      "ko_txt": null,
+      "en_txt": "3952",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Male.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "3145",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Male.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "3154",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Gender.Male.Total",
+      "ko_txt": null,
+      "en_txt": "6299",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "358",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "379",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Total",
+      "ko_txt": null,
+      "en_txt": "737",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "4770",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "4744",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Total",
+      "ko_txt": null,
+      "en_txt": "9514",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Nonwhite.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "1828",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Nonwhite.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "1819",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.Nonwhite.Total",
+      "ko_txt": null,
+      "en_txt": "3647",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "3300",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "3304",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race/Ethnicity, Customized.White.Total",
+      "ko_txt": null,
+      "en_txt": "6604",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "4376",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "4367",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.United States.Total",
+      "ko_txt": null,
+      "en_txt": "8743",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Canada.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "752",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Canada.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "756",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Region of Enrollment.Canada.Total",
+      "ko_txt": null,
+      "en_txt": "1508",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.History of CVD event.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "1827",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.History of CVD event.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "1782",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.History of CVD event.Total",
+      "ko_txt": null,
+      "en_txt": "3609",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.No history of CVD event.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "3301",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.No history of CVD event.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "3341",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Previous cardiovascular disease (CVD) event.No history of CVD event.Total",
+      "ko_txt": null,
+      "en_txt": "6642",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Glycated hemoglobin.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Glycated hemoglobin.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Glycated hemoglobin.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Glycated hemoglobin.Mean (Standard Deviation) | Unit of measure: percent.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "8.3 (1.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Glycated hemoglobin.Mean (Standard Deviation) | Unit of measure: percent.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "8.3 (1.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Glycated hemoglobin.Mean (Standard Deviation) | Unit of measure: percent.Total",
+      "ko_txt": null,
+      "en_txt": "8.3 (1.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Systolic.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "136.2 (17.0)",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Systolic.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "136.5 (17.2)",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Systolic.Total",
+      "ko_txt": null,
+      "en_txt": "136.4 (17.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Diastolic.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "74.8 (10.6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Diastolic.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "75.0 (10.7)",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Blood pressure.Diastolic.Total",
+      "ko_txt": null,
+      "en_txt": "74.9 (10.7)",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.LDL.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "104.9 (34.0)",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.LDL.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "104.9 (33.8)",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.LDL.Total",
+      "ko_txt": null,
+      "en_txt": "104.9 (33.9)",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.HDL.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "41.8 (11.8)",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.HDL.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "41.9 (11.5)",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Cholesterol.HDL.Total",
+      "ko_txt": null,
+      "en_txt": "41.9 (11.6)",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Triglycerides.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Triglycerides.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Triglycerides.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Triglycerides.Median (Inter-Quartile Range) | Unit of measure: mg/dL.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "156 (105 to 230)",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Triglycerides.Median (Inter-Quartile Range) | Unit of measure: mg/dL.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "154 (108 to 226)",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Triglycerides.Median (Inter-Quartile Range) | Unit of measure: mg/dL.Total",
+      "ko_txt": null,
+      "en_txt": "155 (106 to 228)",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Diabetes duration.Number Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Diabetes duration.Number Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Diabetes duration.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "10251",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Diabetes duration.Median (Inter-Quartile Range) | Unit of measure: years.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "10 (5 to 15)",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Diabetes duration.Median (Inter-Quartile Range) | Unit of measure: years.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "10 (5 to 15)",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Diabetes duration.Median (Inter-Quartile Range) | Unit of measure: years.Total",
+      "ko_txt": null,
+      "en_txt": "10 (5 to 15)",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "First Occurrence of a Major Cardiovascular Event (MCE); Specifically Nonfatal Heart Attack, Nonfatal Stroke, or Cardiovascular Death (Measured Throughout the Study) in the Glycemia Trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "Time to first occurrence of nonfatal myocardial infarction, nonfatal stroke, or cardiovascular death. This was the primary outcome measure in all three trials: Glycemia (all participants), Blood Pressure (subgroup of participants not in Lipid Trial), and Lipid (subgroup of participants not in Blood Pressure Trial).\n\nIn the Glycemia Trial, a finding of higher mortality in the intensive arm group led to an early discontinuation of therapy after a mean of 3.5 years of follow-up. Intensive arm participants were transitioned to standard arm strategy over a period of 0.2 year and followed for an additional 1.2 years to the planned end of the Glycemia Trial while participating in one of the other sub-trials (BP or Lipid) to their planned completion.",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4.9 years",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "The population analyzed included all participants randomized and was performed by intention to treat with right-censoring of participants who did not complete follow-up prior to occurrence of MCE.",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Intensive Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Standard Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels \\<6.0%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels of 7.0 to 7.9%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Number | Unit of Measure: participants.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "503",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Number | Unit of Measure: participants.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "543",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Comparison Group(s)[0]",
+      "ko_txt": null,
+      "en_txt": "OG000",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Comparison Group(s)[1]",
+      "ko_txt": null,
+      "en_txt": "OG001",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Non-Inferiority Type",
+      "ko_txt": null,
+      "en_txt": "Superiority or Other",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].P-Value",
+      "ko_txt": null,
+      "en_txt": "0.12",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].P-Value Comment",
+      "ko_txt": null,
+      "en_txt": "P-value presented is not adjusted for multiple comparisons. A priori significance level was 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Statistical Method",
+      "ko_txt": null,
+      "en_txt": "Regression, Cox",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Parameter Type",
+      "ko_txt": null,
+      "en_txt": "Hazard Ratio (HR)",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Parameter Value",
+      "ko_txt": null,
+      "en_txt": "0.91",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].CI Number of Sides",
+      "ko_txt": null,
+      "en_txt": "TWO_SIDED",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].CI Percent Value",
+      "ko_txt": null,
+      "en_txt": "95",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].CI Lower Limit",
+      "ko_txt": null,
+      "en_txt": "0.81",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].CI Upper Limit",
+      "ko_txt": null,
+      "en_txt": "1.03",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Statistical Analyses[0].Group Description",
+      "ko_txt": null,
+      "en_txt": "Adjustment performed for the following pre-specified factors: sub-trial assignment (Blood Pressure Trial or Lipid Trial), assignment to intensive BP group in BP Trial, assignment to fenofibrate group in Lipid Trial, the seven clinical center networks, and presence of clinical cardiovascular disease at baseline.",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Title",
+      "ko_txt": null,
+      "en_txt": "Death From Any Cause in the Glycemia Trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Description",
+      "ko_txt": null,
+      "en_txt": "Time to death from any cause. Secondary measure for Glycemia Trial.\n\nA finding of higher mortality in the intensive-therapy group led to an early discontinuation of therapy after a mean of 3.5 years of follow-up. Intensive arm participants were transitioned to standard arm strategy over a period of 0.2 year and followed for an additional 1.2 years to the planned end of the Glycemia Trial while participating in one of the other sub-trials (BP or Lipid).",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4.9 years",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "The population analyzed included all participants randomized and was performed by intention to treat with right-censoring of participants who did not complete follow-up prior to death.",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Intensive Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Standard Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels \\<6.0%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels of 7.0 to 7.9%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Number | Unit of Measure: participants.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "391",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Number | Unit of Measure: participants.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "327",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].Comparison Group(s)[0]",
+      "ko_txt": null,
+      "en_txt": "OG000",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].Comparison Group(s)[1]",
+      "ko_txt": null,
+      "en_txt": "OG001",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].Non-Inferiority Type",
+      "ko_txt": null,
+      "en_txt": "Superiority or Other",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].P-Value",
+      "ko_txt": null,
+      "en_txt": "0.02",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].P-Value Comment",
+      "ko_txt": null,
+      "en_txt": "P-value presented is not adjusted for multiple comparisons. A priori significance level was 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].Statistical Method",
+      "ko_txt": null,
+      "en_txt": "Regression, Cox",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].Parameter Type",
+      "ko_txt": null,
+      "en_txt": "Hazard Ratio (HR)",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].Parameter Value",
+      "ko_txt": null,
+      "en_txt": "1.19",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].CI Number of Sides",
+      "ko_txt": null,
+      "en_txt": "TWO_SIDED",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].CI Percent Value",
+      "ko_txt": null,
+      "en_txt": "95",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].CI Lower Limit",
+      "ko_txt": null,
+      "en_txt": "1.03",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].CI Upper Limit",
+      "ko_txt": null,
+      "en_txt": "1.38",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Statistical Analyses[0].Group Description",
+      "ko_txt": null,
+      "en_txt": "Adjustment performed for the following pre-specified factors: sub-trial assignment (Blood Pressure Trial or Lipid Trial), assignment to intensive BP group in BP Trial, assignment to fenofibrate group in Lipid Trial, the seven clinical center networks, and presence of clinical cardiovascular disease at baseline.",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Title",
+      "ko_txt": null,
+      "en_txt": "First Occurrence of Major Cardiovascular Event (MCE) in the Blood Pressure Trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Description",
+      "ko_txt": null,
+      "en_txt": "Time to first occurrence of nonfatal myocardial infarction, nonfatal stroke, or cardiovascular death. Primary outcome for Blood Pressure Trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4.7 years",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "The population analyzed included all participants randomized and was performed by intention to treat with right-censoring of participants who did not complete follow-up prior to occurrence of MCE.",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "BP Trial: Intensive Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "BP Trial: Standard Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of anti-hypertensive agents to reduce and maintain systolic blood pressure (SBP) level to \\<120 mmHg. Anti-hypertensive agents include multiple anti-hypertensive agents as needed to reach Blood Pressure Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of multiple anti-hypertensive agents to maintain SBP level \\<140 mm Hg. Anti-hypertensive agents multiple anti-hypertensive agents as needed to reach Blood Pressure Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "2363",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "2371",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Number | Unit of Measure: participants.BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "208",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Number | Unit of Measure: participants.BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "237",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].Comparison Group(s)[0]",
+      "ko_txt": null,
+      "en_txt": "OG000",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].Comparison Group(s)[1]",
+      "ko_txt": null,
+      "en_txt": "OG001",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].Non-Inferiority Type",
+      "ko_txt": null,
+      "en_txt": "Superiority or Other",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].P-Value",
+      "ko_txt": null,
+      "en_txt": "0.20",
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].P-Value Comment",
+      "ko_txt": null,
+      "en_txt": "P-value is adjusted for interim monitoring. A priori significance level was 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].Statistical Method",
+      "ko_txt": null,
+      "en_txt": "Regression, Cox",
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].Method Comment",
+      "ko_txt": null,
+      "en_txt": "Adjustment for the seven clinical center networks and presence of clinical cardiovascular disease at baseline as pre-specified in the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].Parameter Type",
+      "ko_txt": null,
+      "en_txt": "Hazard Ratio (HR)",
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].Parameter Value",
+      "ko_txt": null,
+      "en_txt": "0.88",
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].CI Number of Sides",
+      "ko_txt": null,
+      "en_txt": "TWO_SIDED",
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].CI Percent Value",
+      "ko_txt": null,
+      "en_txt": "95",
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].CI Lower Limit",
+      "ko_txt": null,
+      "en_txt": "0.73",
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].CI Upper Limit",
+      "ko_txt": null,
+      "en_txt": "1.06",
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Statistical Analyses[0].Group Description",
+      "ko_txt": null,
+      "en_txt": "Recruitment for the Blood PressureTrial was designed to enroll 4200 participant to have 94% power to detect a 20% reduction in the rate of MCE for patients in the intensive-therapy group as compared with the standard-therapy group, assuming a two-sided alpha level of 0.05, a primary-outcome rate of 4% per year in the standard-therapy group, and a planned average follow-up of approximately 5.6 years.",
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Title",
+      "ko_txt": null,
+      "en_txt": "Stroke in the Blood Pressure Trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Description",
+      "ko_txt": null,
+      "en_txt": "Time to first occurrence of nonfatal or fatal stroke among participants in the BP Trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4.7 years",
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "The population analyzed included all participants randomized and was performed by intention to treat with right-censoring of participants who did not complete follow-up prior to occurrence of stroke.",
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "BP Trial: Intensive Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "BP Trial: Standard Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Description.BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of anti-hypertensive agents to reduce and maintain systolic blood pressure (SBP) level to \\<120 mmHg. Anti-hypertensive agents include multiple anti-hypertensive medications as needed to reach Blood Pressure Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Description.BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of multiple anti-hypertensive agents to maintain SBP level to \\<140 mm Hg. Anti-hypertensive agents include multiple anti-hypertensive medications as needed to reach Blood Pressure Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Overall Number of Participants Analyzed.BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "2363",
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Overall Number of Participants Analyzed.BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "2371",
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Number | Unit of Measure: participants.BP Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "36",
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Number | Unit of Measure: participants.BP Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "62",
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].Comparison Group(s)[0]",
+      "ko_txt": null,
+      "en_txt": "OG000",
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].Comparison Group(s)[1]",
+      "ko_txt": null,
+      "en_txt": "OG001",
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].Non-Inferiority Type",
+      "ko_txt": null,
+      "en_txt": "Superiority or Other",
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].P-Value",
+      "ko_txt": null,
+      "en_txt": "0.01",
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].P-Value Comment",
+      "ko_txt": null,
+      "en_txt": "P-value presented is not adjusted for multiple comparisons. A priori significance level was 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].Statistical Method",
+      "ko_txt": null,
+      "en_txt": "Regression, Cox",
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].Method Comment",
+      "ko_txt": null,
+      "en_txt": "Adjustment for the seven clinical center networks and presence of clinical cardiovascular disease at baseline as pre-specified in the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].Parameter Type",
+      "ko_txt": null,
+      "en_txt": "Hazard Ratio (HR)",
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].Parameter Value",
+      "ko_txt": null,
+      "en_txt": "0.59",
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].CI Number of Sides",
+      "ko_txt": null,
+      "en_txt": "TWO_SIDED",
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].CI Percent Value",
+      "ko_txt": null,
+      "en_txt": "95",
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].CI Lower Limit",
+      "ko_txt": null,
+      "en_txt": "0.39",
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Statistical Analyses[0].CI Upper Limit",
+      "ko_txt": null,
+      "en_txt": "0.89",
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Title",
+      "ko_txt": null,
+      "en_txt": "First Occurrence of Major Cardiovascular Event (MCE) in the Lipid Trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Description",
+      "ko_txt": null,
+      "en_txt": "Time to first occurrence of nonfatal myocardial infarction, nonfatal stroke, or cardiovascular death in Lipid Trial participants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4.7 years",
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "The population analyzed included all participants randomized and was performed by intention to treat with right-censoring of participants who did not complete follow-up prior to occurrence of MCE.",
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Lipid Trial: Fenofibrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Lipid Trial: Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Description.Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "Double blind administration of 160 mg/day of fenofibrate in participants with estimated glomerular filtration rate (eGFR) ≥50 mL/min/1.73m\\^2 or 54 mg/day in patients with eGFR \\<50 mL/min/1.73m\\^2, in combination with open label simvastatin 20 - 40 mg/day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Description.Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "Double blind administration of placebo matching either 160 mg/day in participants with eGFR ≥50 mL/min/1.73m\\^2 or 54 mg/day in participants with eGFR \\<50 mL/min/1.73m\\^2, in combination with open label simvastatin 20 - 40 mg/day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Overall Number of Participants Analyzed.Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "2765",
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Overall Number of Participants Analyzed.Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "2753",
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Number | Unit of Measure: participants.Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "291",
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Number | Unit of Measure: participants.Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "310",
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].Comparison Group(s)[0]",
+      "ko_txt": null,
+      "en_txt": "OG000",
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].Comparison Group(s)[1]",
+      "ko_txt": null,
+      "en_txt": "OG001",
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].Non-Inferiority Type",
+      "ko_txt": null,
+      "en_txt": "Superiority or Other",
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].P-Value",
+      "ko_txt": null,
+      "en_txt": "0.32",
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].P-Value Comment",
+      "ko_txt": null,
+      "en_txt": "P-value is adjusted for interim monitoring. A priori significance level was 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].Statistical Method",
+      "ko_txt": null,
+      "en_txt": "Regression, Cox",
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].Method Comment",
+      "ko_txt": null,
+      "en_txt": "Adjustment for the seven clinical center networks and presence of clinical cardiovascular disease at baseline as pre-specified in the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].Parameter Type",
+      "ko_txt": null,
+      "en_txt": "Hazard Ratio (HR)",
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].Parameter Value",
+      "ko_txt": null,
+      "en_txt": "0.92",
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].CI Number of Sides",
+      "ko_txt": null,
+      "en_txt": "TWO_SIDED",
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].CI Percent Value",
+      "ko_txt": null,
+      "en_txt": "95",
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].CI Lower Limit",
+      "ko_txt": null,
+      "en_txt": "0.79",
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].CI Upper Limit",
+      "ko_txt": null,
+      "en_txt": "1.08",
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Statistical Analyses[0].Group Description",
+      "ko_txt": null,
+      "en_txt": "Recruitment for the Glycemia Trial was designed to enroll 5800 participant to have 87% power to detect a 20% reduction in the rate of MCE for patients in the fenofibrate group as compared with the placebo group, assuming a two-sided alpha level of 0.05, a primary-outcome rate of 2.4% per year in the placebo group, and a planned average follow-up of approximately 5.6 years.",
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Title",
+      "ko_txt": null,
+      "en_txt": "First Occurrence of MCE or Revascularization or Hospitalization for Congestive Heart Failure (CHF) in Lipid Trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Description",
+      "ko_txt": null,
+      "en_txt": "Time to first occurrence of nonfatal myocardial infarction, nonfatal stroke, cardiovascular death, revascularization procedure or hospitalization for CHF in Lipid Trial participants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Time Frame",
+      "ko_txt": null,
+      "en_txt": "4.7 years",
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Analysis Population Description",
+      "ko_txt": null,
+      "en_txt": "The population analyzed included all participants randomized and was performed by intention to treat with right-censoring of participants who did not complete follow-up prior occurrence of event.",
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Lipid Trial: Fenofibrate",
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Lipid Trial: Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Description.Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "Double blind administration of 160 mg/day of fenofibrate in participants with estimated glomerular filtration rate (eGFR) ≥50 mL/min/1.73m\\^2 or 54 mg/day in patients with eGFR \\<50 mL/min/1.73m\\^2, in combination with open label simvastatin 20 - 40 mg/day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Description.Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "Double blind administration of placebo matching either 160 mg/day in participants with eGFR ≥50 mL/min/1.73m\\^2 or 54 mg/day in participants with eGFR \\<50 mL/min/1.73m\\^2, in combination with open label simvastatin 20 - 40 mg/day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Overall Number of Participants Analyzed.Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "2765",
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Overall Number of Participants Analyzed.Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "2753",
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Number | Unit of Measure: participants.Lipid Trial: Fenofibrate",
+      "ko_txt": null,
+      "en_txt": "641",
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Number | Unit of Measure: participants.Lipid Trial: Placebo",
+      "ko_txt": null,
+      "en_txt": "667",
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].Comparison Group(s)[0]",
+      "ko_txt": null,
+      "en_txt": "OG000",
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].Comparison Group(s)[1]",
+      "ko_txt": null,
+      "en_txt": "OG001",
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].Non-Inferiority Type",
+      "ko_txt": null,
+      "en_txt": "Superiority or Other",
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].P-Value",
+      "ko_txt": null,
+      "en_txt": "0.30",
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].P-Value Comment",
+      "ko_txt": null,
+      "en_txt": "P-value presented is not adjusted for multiple comparisons. A priori significance level was 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].Statistical Method",
+      "ko_txt": null,
+      "en_txt": "Regression, Cox",
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].Method Comment",
+      "ko_txt": null,
+      "en_txt": "Adjustment for the seven clinical center networks and presence of clinical cardiovascular disease at baseline as pre-specified in the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].Parameter Type",
+      "ko_txt": null,
+      "en_txt": "Hazard Ratio (HR)",
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].Parameter Value",
+      "ko_txt": null,
+      "en_txt": "0.94",
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].CI Number of Sides",
+      "ko_txt": null,
+      "en_txt": "TWO_SIDED",
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].CI Percent Value",
+      "ko_txt": null,
+      "en_txt": "95",
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].CI Lower Limit",
+      "ko_txt": null,
+      "en_txt": "0.85",
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Statistical Analyses[0].CI Upper Limit",
+      "ko_txt": null,
+      "en_txt": "1.05",
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Time Frame",
+      "ko_txt": null,
+      "en_txt": "Includes Serious Adverse Events (SAEs) reported after randomization and throughout the planned observation period, mean follow-up was 4.9 years. Data on other (non-serious) adverse events were not collected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Adverse Event Reporting Description",
+      "ko_txt": null,
+      "en_txt": "SAEs were defined as any adverse experience that was significantly life threatening and/or resulted in death, permanent disability, hospitalization or prolongation of hospitalization, myositis/myopathy, or hepatitis and were considered by the investigators to be possibly, probably, or definitely related to study treatments.",
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Intensive Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Glycemia Trial: Standard Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Glycemia Trial: Intensive Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels \\<6.0%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Glycemia Trial: Standard Control",
+      "ko_txt": null,
+      "en_txt": "Open label administration of oral anti-hyperglycemic agents and/or insulin in combination with dietary/lifestyle advice as needed to achieve glycated hemoglobin (HbA1c) levels of 7.0 to 7.9%. Anti-hyperglycemic agents include multiple drugs including insulins and oral anti-hyperglycemic agents as needed to reach Glycemia Trial arm-specific goals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "137",
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "107",
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Congestive heart failure.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "34",
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Congestive heart failure.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Congestive heart failure.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "12",
+      "align_score": null
+    },
+    {
+      "seg_id": 391,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Congestive heart failure.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 392,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Bradycardia, tachycardia, atrial fibrillation.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "13",
+      "align_score": null
+    },
+    {
+      "seg_id": 393,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Bradycardia, tachycardia, atrial fibrillation.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 394,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Bradycardia, tachycardia, atrial fibrillation.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 395,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Bradycardia, tachycardia, atrial fibrillation.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 396,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Angina/chest pain.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 397,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Angina/chest pain.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 398,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Angina/chest pain.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 399,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Angina/chest pain.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 400,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Myocardial infarction.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 401,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Myocardial infarction.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 402,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Myocardial infarction.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 403,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Cardiac disorders.Myocardial infarction.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 404,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Dizziness, hypotension, syncope.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 405,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Dizziness, hypotension, syncope.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 406,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Dizziness, hypotension, syncope.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "17",
+      "align_score": null
+    },
+    {
+      "seg_id": 407,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Dizziness, hypotension, syncope.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 408,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Edema.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 409,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Edema.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 410,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Edema.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 411,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Edema.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 412,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Cerebrovacular accident.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 413,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Cerebrovacular accident.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 414,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Cerebrovacular accident.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 415,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Vascular disorders.Cerebrovacular accident.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 416,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Cholecystitis.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 417,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Cholecystitis.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 418,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Cholecystitis.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 419,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Cholecystitis.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 420,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Hepatitis/liver failure.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 421,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Hepatitis/liver failure.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 422,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Hepatitis/liver failure.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 423,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Hepatitis/liver failure.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 424,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Elevated creatinine, hyponatremia.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 425,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Elevated creatinine, hyponatremia.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 426,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Elevated creatinine, hyponatremia.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 427,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Elevated creatinine, hyponatremia.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 428,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Gastrointestinal bleeding.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 429,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Gastrointestinal bleeding.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 430,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Gastrointestinal bleeding.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 431,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Gastrointestinal disorders.Gastrointestinal bleeding.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 432,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Pancreatitis.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 433,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Pancreatitis.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 434,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Pancreatitis.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 435,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Pancreatitis.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 436,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Ketoacidosis.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 437,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Ketoacidosis.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 438,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Ketoacidosis.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 439,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Ketoacidosis.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 440,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Hypoglycemia (fatal).Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 441,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Hypoglycemia (fatal).Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 442,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Hypoglycemia (fatal).Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 443,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Endocrine disorders.Hypoglycemia (fatal).Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 444,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Acute or chronic renal failure.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 445,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Acute or chronic renal failure.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 446,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Acute or chronic renal failure.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 447,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Renal and urinary disorders.Acute or chronic renal failure.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 448,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Angioedema.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "9",
+      "align_score": null
+    },
+    {
+      "seg_id": 449,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Angioedema.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 450,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Angioedema.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 451,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Angioedema.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 452,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Thrombocytopenia.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 453,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Thrombocytopenia.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 454,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Thrombocytopenia.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 455,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Thrombocytopenia.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 456,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Blood dyscrasia.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 457,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Blood dyscrasia.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 458,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Blood dyscrasia.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 459,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Blood dyscrasia.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 460,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Felodipine toxicity.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 461,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Felodipine toxicity.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 462,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Felodipine toxicity.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 463,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Immune system disorders.Felodipine toxicity.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 464,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Myositis.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 465,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Myositis.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 466,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Myositis.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 467,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Myositis.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 468,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Rhabdomyolisis.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 469,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Rhabdomyolisis.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 470,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Rhabdomyolisis.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 471,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Rhabdomyolisis.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 472,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Fractures.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 473,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Fractures.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 474,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Fractures.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 475,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Fractures.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 476,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Weakness.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 477,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Weakness.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 478,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Weakness.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 479,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Musculoskeletal and connective tissue disorders.Weakness.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 480,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Macular edema.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 481,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Macular edema.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 482,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Macular edema.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 483,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Macular edema.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 484,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Blurred vision.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 485,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Blurred vision.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 486,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Blurred vision.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 487,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Eye disorders.Blurred vision.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 488,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Shortness of breath.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 489,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Shortness of breath.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 490,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Shortness of breath.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 491,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Respiratory, thoracic and mediastinal disorders.Shortness of breath.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 492,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Injury, poisoning and procedural complications.Motor vehicle accident (fatal).Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 493,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Injury, poisoning and procedural complications.Motor vehicle accident (fatal).Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 494,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Injury, poisoning and procedural complications.Motor vehicle accident (fatal).Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 495,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Injury, poisoning and procedural complications.Motor vehicle accident (fatal).Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 496,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyperkalemia.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "6",
+      "align_score": null
+    },
+    {
+      "seg_id": 497,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyperkalemia.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 498,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyperkalemia.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "5",
+      "align_score": null
+    },
+    {
+      "seg_id": 499,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyperkalemia.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 500,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyponatremia.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 501,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyponatremia.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 502,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyponatremia.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 503,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyponatremia.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 504,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Severe fluid retention.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 505,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Severe fluid retention.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 506,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Severe fluid retention.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 507,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Severe fluid retention.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 508,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Dehydration.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 509,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Dehydration.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 510,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Dehydration.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 511,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Dehydration.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 512,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Vertigo.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 513,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Vertigo.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 514,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Vertigo.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 515,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Vertigo.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 516,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Anemia.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 517,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Anemia.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 518,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Anemia.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 519,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Anemia.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 520,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hypomagnesemia.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 521,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hypomagnesemia.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 522,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hypomagnesemia.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 523,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hypomagnesemia.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 524,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyperosmolar nonketotic coma.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 525,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyperosmolar nonketotic coma.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 526,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyperosmolar nonketotic coma.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 527,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Hyperosmolar nonketotic coma.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 528,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Toxic metabolic enecphalopathy.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 529,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Toxic metabolic enecphalopathy.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5128",
+      "align_score": null
+    },
+    {
+      "seg_id": 530,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Toxic metabolic enecphalopathy.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 531,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.General disorders.Toxic metabolic enecphalopathy.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "5123",
+      "align_score": null
+    },
+    {
+      "seg_id": 532,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 533,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Glycemia Trial: Intensive Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 534,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Glycemia Trial: Intensive Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 535,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Glycemia Trial: Standard Control.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 536,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Glycemia Trial: Standard Control.at Risk",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 537,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 538,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[0]",
+      "ko_txt": null,
+      "en_txt": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "align_score": null
+    },
+    {
+      "seg_id": 539,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[1]",
+      "ko_txt": null,
+      "en_txt": "National Institute on Aging (NIA)",
+      "align_score": null
+    },
+    {
+      "seg_id": 540,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[2]",
+      "ko_txt": null,
+      "en_txt": "National Eye Institute (NEI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 541,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Collaborators[3]",
+      "ko_txt": null,
+      "en_txt": "Centers for Disease Control and Prevention",
+      "align_score": null
+    },
+    {
+      "seg_id": 542,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Study Director: Denise Simons-Morton, MD, PhD,  National Heart, Lung, and Blood Institute (NHLBI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 543,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[1]",
+      "ko_txt": null,
+      "en_txt": "Study Chair: William Friedewald, MD,  Columbia University",
+      "align_score": null
+    },
+    {
+      "seg_id": 544,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[2]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Robert Byington, PhD,  Wake Forest University, Winston-Salem, NC",
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "document_id": "ee_cochrane_0016",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000143.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000143.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Preterm infants who are extubated following a period of invasive ventilation via an endotracheal tube are at risk of developing respiratory failure, leading to reintubation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This may be due to apnoea, respiratory acidosis, or hypoxia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Historically, preterm infants were extubated to head box oxygen or low‐flow nasal cannulae.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Support with non‐invasive pressure might help improve rates of successful extubation in preterm infants by stabilising the upper airway, improving lung function, and reducing apnoea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is an update of a review first published in 1997 and last updated in 2003.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To determine whether nasal continuous positive airway pressure (NCPAP), applied immediately after extubation of preterm infants, reduces the incidence of extubation failure and the need for additional ventilatory support, without clinically important adverse events.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched CENTRAL, MEDLINE, Embase, and trial registries on 22 September 2023 using a revised strategy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched conference abstracts and the reference lists of included studies and relevant systematic reviews.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Eligible trials employed random or quasi‐random allocation of preterm infants undergoing extubation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Eligible comparisons were NCPAP (delivered by any device and interface) versus head box oxygen, extubation to room air, or any other form of low‐pressure supplemental oxygen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We grouped the comparators under the term no continuous positive airway pressure (no CPAP).",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors independently assessed the risk of bias and extracted data from the included studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Where studies were sufficiently similar, we performed a meta‐analysis, calculating risk ratios (RRs) with their 95% confidence intervals (CIs) for dichotomous data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the primary outcomes that showed an effect, we calculated the number needed to treat for an additional beneficial outcome (NNTB).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We used the GRADE approach to assess the certainty of the evidence for clinically important outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included nine trials (with 726 infants) in the quantitative synthesis of this updated review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Eight studies were conducted in high‐income countries between 1982 and 2005.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One study was conducted in Chile, which was classified as upper‐middle income at the time of the study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All studies used head box oxygen in the control arm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Risk of bias was generally low.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, due to the inherent nature of the intervention, no studies incorporated blinding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Consequently, the neonatal intensive care unit staff were aware of the assigned group for each infant, and we judged all studies at high risk of performance bias.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, we assessed blinding of the outcome assessor (detection bias) as low risk for seven studies because they used objective criteria to define both primary outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NCPAP compared with no CPAP may reduce the risk of extubation failure (RR 0.62, 95% CI 0.51 to 0.76; risk difference (RD) −0.17, 95% −0.23 to −0.10; NNTB 6, 95% CI 4 to 10; I2 = 55%; 9 studies, 726 infants; low‐certainty evidence) and endotracheal reintubation (RR 0.79, 95% 0.64 to 0.98; RD −0.07, 95% CI −0.14 to −0.01; NNTB 15, 95% CI 8 to 100; I2 = 65%; 9 studies; 726 infants; very low‐certainty evidence), though the evidence for endotracheal reintubation is very uncertain.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NCPAP compared with no CPAP may have little or no effect on bronchopulmonary dysplasia, but the evidence is very uncertain (RR 0.89, 95% CI 0.47 to 1.68; RD −0.03, 95% CI −0.22 to 0.15; 1 study, 92 infants; very low‐certainty evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No study reported neurodevelopmental outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NCPAP may be more effective than no CPAP in preventing extubation failure in preterm infants if applied immediately after extubation from invasive mechanical ventilation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We are uncertain whether it can reduce the risk of reintubation or bronchopulmonary dysplasia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We have no information on long‐term neurodevelopmental outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although there is only low‐certainty evidence for the effectiveness of NCPAP immediately after extubation in preterm infants, we consider there is no need for further research on this intervention, which has become standard practice.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Nasal continuous positive airway pressure (delivering a steady flow of air to the lungs through the nose) may reduce breathing problems encountered after a preterm baby is removed from a breathing machine. • We don't know whether nasal continuous positive airway pressure reduces the risk of going back on the breathing machine or reduces the risk of lung damage that breathing machines can cause. • We think there is no need for further studies on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is nasal continuous positive airway pressure?",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Continuous positive airway pressure (CPAP) is a form of breathing support, often referred to as a type of noninvasive ventilation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Babies on CPAP breathe by themselves, but the steady flow of pressurised air helps keep their airways and lungs open and makes breathing easier.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CPAP is usually delivered through a nose piece (nasal CPAP).",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Oxygen is usually delivered along with the positive pressure according to the baby's needs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How might nasal CPAP help preterm infants?",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Babies who have lung disease might need breathing assistance delivered with a ventilator.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A tube is inserted into their windpipe and the ventilator regularly expands the lungs, taking over most of the breathing work for the baby.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, while ventilators may save lives, they may also harm the baby's lungs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is therefore important to remove the tube and take the baby off the breathing machine (extubate them) as soon as possible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, due to the lack of maturity of preterm babies' lungs and breathing control mechanisms, they often have difficulty breathing by themselves.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They then need to have the tube reinserted into their lungs and be placed back on the ventilator.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Using nasal CPAP immediately after extubation might reduce these risks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What did we want to find out?",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We wanted to compare nasal CPAP with no CPAP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the past, oxygen was given via a head box, a clear plastic hood that surrounds the baby's head and provides warmed, humidified oxygen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Other methods of delivering a low‐pressure flow of oxygen are also available, such as a thin tube placed into the baby's nose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We wanted to know whether babies extubated to nasal CPAP experience fewer breathing difficulties after extubation, and have a lower risk of needing the tube put back in (reintubation).",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We also wanted to know whether nasal CPAP reduces the risk of lung damage and helps babies' brains develop normally over two years or longer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched for studies involving preterm infants who were considered ready for extubation and were given either nasal CPAP or no CPAP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We synthesised the findings from the studies and assessed our confidence in the evidence using established criteria.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found nine studies that included 726 babies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Eight were from high‐income countries (the USA, the UK, Greece, Japan, and Australia), and one was from Chile (classified as upper‐middle income when the study took place).",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seven studies were conducted before the year 2000.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All studies compared nasal CPAP with head box oxygen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Babies who are given nasal CPAP after extubation may be less likely to have breathing difficulties and need reintubation than babies given head box oxygen; however, the results for reintubation are very uncertain.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We don't know whether nasal CPAP reduces lung damage caused by ventilators, and no studies described brain development from two years of age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What are the limitations of the evidence?",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Our confidence in the evidence is low.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First, some studies used methods likely to introduce errors in their results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The people doing the study were aware of whether the baby was receiving NCPAP or not, and this could have influenced how they treated the baby.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Second, the results across the different studies were somewhat inconsistent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Finally, because the results were imprecise, we can't tell whether the benefit is large or small.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How up‐to‐date is this evidence?",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This review updates our previous review (2003).",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The evidence is current to September 2023.",
+      "align_score": null
+    }
+  ]
+}

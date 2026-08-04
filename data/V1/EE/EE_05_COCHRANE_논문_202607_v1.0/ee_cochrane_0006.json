@@ -1,0 +1,226 @@
+{
+  "document_id": "ee_cochrane_0006",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000026.PUB2",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000026.pub2/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Systemic fungal infection is considered to be an important cause of morbidity and mortality in cancer patients, particularly those with neutropenia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antifungal drugs are often given prophylactically, or empirically to patients with persistent fever.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To assess whether commonly used antifungal drugs decrease mortality in cancer patients with neutropenia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched PubMed from 1966 to 7 July 2014 and the reference lists of identified articles.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomised clinical trials of amphotericin B, fluconazole, ketoconazole, miconazole, itraconazole or voriconazole compared with placebo or no treatment in cancer patients with neutropenia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The two review authors independently assessed trial eligibility and risk of bias, and abstracted data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thirty‐two trials involving 4287 patients were included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prophylactic or empirical treatment with amphotericin B significantly decreased total mortality (relative risk (RR) 0.69, 95% confidence interval (CI) 0.50 to 0.96), whereas the estimated RRs for fluconazole, ketoconazole, miconazole, and itraconazole were close to 1.00.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No eligible trials were found with voriconazole.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Amphotericin B and fluconazole decreased mortality ascribed to fungal infection (RR 0.45, 95% CI 0.26 to 0.76 and RR 0.42, 95% CI 0.24 to 0.73, respectively).",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The incidence of invasive fungal infection decreased significantly with administration of amphotericin B (RR 0.41, 95% CI 0.24 to 0.73), fluconazole (RR 0.39, 95% CI 0.27 to 0.57) and itraconazole (RR 0.53, 95% CI 0.29 to 0.97), but not with ketoconazole or miconazole.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Effect estimates were similar for those 13 trials that had adequate allocation concealment and were blinded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The reporting of harms was far too variable from trial to trial to allow a meaningful overview.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the 2011 and 2014 updates no additional trials were identified for inclusion.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Intravenous amphotericin B was the only antifungal agent that reduced total mortality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It should therefore be preferred when prophylactic or empirical antifungal therapy is introduced in cancer patients with neutropenia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cancer patients receiving chemotherapy or a bone marrow transplant are at risk of fungal infections.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These can be life‐threatening, especially when they spread throughout the body.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Those patients with low white cell counts (neutropenia) are particularly at risk.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antifungal drugs are often given as a routine preventive measure, or when people who are at risk have a fever.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The review found that intravenous amphotericin B could reduce the number of deaths.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three of the drugs, amphotericin B, fluconazole and itraconazole, reduced fungal infections.",
+      "align_score": null
+    }
+  ]
+}

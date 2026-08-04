@@ -1,0 +1,343 @@
+{
+  "document_id": "ee_cochrane_0019",
+  "meta": {
+    "set": "EE",
+    "source_folder": "13",
+    "source_code": "cochrane",
+    "source_name": "Cochrane Review",
+    "orig_doc_id": "CD000179.PUB3",
+    "category_l1": "학술문헌",
+    "category_l2": "체계적 문헌고찰",
+    "category_l3": "Cochrane Review",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "Cochrane",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000179.pub3/full/ko",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vitamin B6 plays vital roles in numerous metabolic processes in the human body, such as nervous system development and functioning.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It has been associated with some benefits in non‐randomised studies, such as higher Apgar scores, higher birthweights, and reduced incidence of pre‐eclampsia and preterm birth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recent studies also suggest a protection against certain congenital malformations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "objectives",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To evaluate the clinical effects of vitamin B6 supplementation during pregnancy and/or labour.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "search_methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We searched the Cochrane Pregnancy and Childbirth Group Trials Register (31 March 2015) and reference lists of retrieved studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "selection_criteria",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included randomised controlled trials comparing vitamin B6 administration in pregnancy and/or labour with: placebos, no supplementations, or supplements not containing vitamin B6.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "data_collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For this update, we assessed methodological quality of the included trials using risk of bias and the GRADE approach.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Four trials (1646 women) were included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The method of randomisation was unclear in all four trials and allocation concealment was reported in only one trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two trials used blinding of participants and outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vitamin B6 as oral capsules or lozenges resulted in decreased risk of dental decay in pregnant women (capsules: risk ratio (RR) 0.84; 95% confidence interval (CI) 0.71 to 0.98; one trial, n = 371, low quality of evidence ; lozenges: RR 0.68; 95% CI 0.56 to 0.83; one trial, n = 342, low quality of evidence ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A small trial showed reduced mean birthweights with vitamin B6 supplementation (mean difference ‐0.23 kg; 95% CI ‐0.42 to ‐0.04; n = 33; one trial).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We did not find any statistically significant differences in the risk of eclampsia (capsules: n = 1242; three trials; lozenges: n = 944; one trial), pre‐eclampsia (capsules n = 1197; two trials, low quality of evidence ; lozenges: n = 944; one trial, low‐quality evidence ) or low Apgar scores at one minute (oral pyridoxine: n = 45; one trial), between supplemented and non‐supplemented groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No differences were found in Apgar scores at five minutes, or breastmilk production between controls and women receiving oral (n = 24; one trial) or intramuscular (n = 24; one trial) loading doses of pyridoxine at labour.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Overall, the risk of bias was judged as unclear.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The quality of the evidence using GRADE was low for both pre‐eclampsia and dental decay.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "main_results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The other primary outcomes, preterm birth before 37 weeks and low birthweight, were not reported in the included trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were few trials, reporting few clinical outcomes and mostly with unclear trial methodology and inadequate follow‐up.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is not enough evidence to detect clinical benefits of vitamin B6 supplementation in pregnancy and/or labour other than one trial suggesting protection against dental decay.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "authors_conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Future trials assessing this and other outcomes such as orofacial clefts, cardiovascular malformations, neurological development, preterm birth, pre‐eclampsia and adverse events are required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This review could not provide evidence from randomised controlled trials that routine supplementation with vitamin B6 during pregnancy is of any benefit, other than one trial suggesting protection against dental decay.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It may cause harm if too much is taken, as amounts well above the recommended daily allowance are associated with numbness and difficulty in walking.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vitamin B6 is a water‐soluble vitamin which plays vital roles in numerous metabolic processes in the human body and helps with the development of the nervous system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vitamin B6 is contained in many foods including meat, poultry, fish, vegetables, and bananas.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is thought that B6 may play a role in the prevention of pre‐eclampsia, where the mother’s blood pressure is high with large amounts of protein in the urine or other organ dysfunction, and in babies being born too early (preterm birth).",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vitamin B6 may be helpful for reducing nausea in pregnancy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This review of four trials (involving 1646 pregnant women) assessed routine B6 supplementation during pregnancy with the aim of reducing the chances of pre‐eclampsia and preterm birth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vitamin B6 as oral capsules or lozenges resulted in a decreased risk of dental decay in pregnant women in one trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Lozenges had a greater effect, suggesting a local or topical effect of pyridoxine within the oral cavity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We did not find any clear differences in the risk of eclampsia or pre‐eclampsia (three trials and two trials, respectively, low quality evidence).",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The studies did not have enough data to be able to make any other useful assessments.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The included trials were conducted between 1960 and 1983 and did not include important newborn outcomes that have only recently been associated with vitamin B6, such as decreases in cardiovascular malformations and orofacial clefts.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The trials began at different times during pregnancy, most had high rates of loss to follow‐up, and adverse effects of vitamin B6 (pyridoxine) use were not assessed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "plain_language_summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Further research assessing outcomes such as orofacial clefts, cardiovascular malformations, neurological development, preterm birth, pre‐eclampsia and adverse events would be helpful.",
+      "align_score": null
+    }
+  ]
+}

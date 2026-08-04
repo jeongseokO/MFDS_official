@@ -1,0 +1,2620 @@
+{
+  "document_id": "ee_ctg_0016",
+  "meta": {
+    "set": "EE",
+    "source_folder": "14",
+    "source_code": "ctg",
+    "source_name": "국외 임상연구(CTG)",
+    "orig_doc_id": "NCT00001262",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국외 임상연구(CTG)",
+    "title_ko": "Copper Histidine Therapy for Menkes Diseases",
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "table",
+      "section": null,
+      "path": "nct_id",
+      "ko_txt": null,
+      "en_txt": "NCT00001262",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "table",
+      "section": null,
+      "path": "title",
+      "ko_txt": null,
+      "en_txt": "Copper Histidine Therapy for Menkes Diseases",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "table",
+      "section": null,
+      "path": "overall_status",
+      "ko_txt": null,
+      "en_txt": "Completed",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Conditions[0]",
+      "ko_txt": null,
+      "en_txt": "Kinky Hair Syndrome",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Intervention/Treatment[0]",
+      "ko_txt": null,
+      "en_txt": "Drug: Copper Histidine",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[0]",
+      "ko_txt": null,
+      "en_txt": "900149",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Other Study ID Numbers[1]",
+      "ko_txt": null,
+      "en_txt": "90-CH-0149",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Allocation",
+      "ko_txt": null,
+      "en_txt": "N/A",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Interventional Model",
+      "ko_txt": null,
+      "en_txt": "Single Group Assignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Masking",
+      "ko_txt": null,
+      "en_txt": "None (Open Label)",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Design.Primary Purpose",
+      "ko_txt": null,
+      "en_txt": "Treatment",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Name/Title",
+      "ko_txt": null,
+      "en_txt": "Kaler, Stephen G",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Organization",
+      "ko_txt": null,
+      "en_txt": "National Institute of Child Health and Human Development",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Phone",
+      "ko_txt": null,
+      "en_txt": "+1 301 451 6034",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Results Point of Contact.Email",
+      "ko_txt": null,
+      "en_txt": "kalers@mail.nih.gov",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Enrollment",
+      "ko_txt": null,
+      "en_txt": "60 (Actual)",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "table",
+      "section": null,
+      "path": "Results Overview.Study Type",
+      "ko_txt": null,
+      "en_txt": "Interventional",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "1999-11-03",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted",
+      "ko_txt": null,
+      "en_txt": "1999-11-04",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Registration Dates.First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted",
+      "ko_txt": null,
+      "en_txt": "2014-08-05",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2015-09-29",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted",
+      "ko_txt": null,
+      "en_txt": "2015-10-30",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Results Reporting Dates.Results First Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Submitted that Met QC Criteria",
+      "ko_txt": null,
+      "en_txt": "2015-09-29",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted",
+      "ko_txt": null,
+      "en_txt": "2015-10-30",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Update Posted Type",
+      "ko_txt": null,
+      "en_txt": "Estimated",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "table",
+      "section": null,
+      "path": "Study Record Dates.Study Record Updates.Last Verified",
+      "ko_txt": null,
+      "en_txt": "2015-09",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Period Title",
+      "ko_txt": null,
+      "en_txt": "Overall Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].STARTED.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Early",
+      "ko_txt": null,
+      "en_txt": "25",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Late",
+      "ko_txt": null,
+      "en_txt": "8",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].COMPLETED.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Early",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Late",
+      "ko_txt": null,
+      "en_txt": "14",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].NOT COMPLETED.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Early",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Late",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Death.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Early",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Late",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "table",
+      "section": null,
+      "path": "Participant Flow.Periods[0].Withdrawal by Subject.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Title[3]",
+      "ko_txt": null,
+      "en_txt": "Total",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Arm/Group Description.Total",
+      "ko_txt": null,
+      "en_txt": "Total of all reporting groups",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Overall Number of Baseline Participants.Total",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.<=18 years.Total",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Early",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Late",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.Between 18 and 65 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Early",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Late",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Age, Categorical.>=65 years.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Early",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Late",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Female.Total",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Early",
+      "ko_txt": null,
+      "en_txt": "34",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Sex: Female, Male.Male.Total",
+      "ko_txt": null,
+      "en_txt": "59",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Early",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Late",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Hispanic or Latino.Total",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Early",
+      "ko_txt": null,
+      "en_txt": "30",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Late",
+      "ko_txt": null,
+      "en_txt": "21",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Not Hispanic or Latino.Total",
+      "ko_txt": null,
+      "en_txt": "54",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Early",
+      "ko_txt": null,
+      "en_txt": "2",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Late",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Ethnicity (NIH/OMB).Unknown or Not Reported.Total",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Number Analyzed.Total",
+      "ko_txt": null,
+      "en_txt": "60",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Early",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Late",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).American Indian or Alaska Native.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Early",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Late",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Asian.Total",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Early",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Late",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Native Hawaiian or Other Pacific Islander.Total",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Early",
+      "ko_txt": null,
+      "en_txt": "9",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Late",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Black or African American.Total",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Early",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Late",
+      "ko_txt": null,
+      "en_txt": "19",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).White.Total",
+      "ko_txt": null,
+      "en_txt": "44",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Early",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Late",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).More than one race.Total",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Early",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Late",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Mild",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "table",
+      "section": null,
+      "path": "Baseline Characteristics.Race (NIH/OMB).Unknown or Not Reported.Total",
+      "ko_txt": null,
+      "en_txt": "4",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Title",
+      "ko_txt": null,
+      "en_txt": "Gross Motor Development at 36 Mos of Age or at Death (Mos)",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Description",
+      "ko_txt": null,
+      "en_txt": "This was measured based on the Denver Developmental Screening Test (DDST) I or II for age-appropriate gross motor development in apparently normal healthy subjects at specific ages (in months). The DDST employs a grid to assess expected developmental milestones in relation to chronologic age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Time Frame",
+      "ko_txt": null,
+      "en_txt": "36 months or death",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Overall Number of Participants Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: Other - months.Early",
+      "ko_txt": null,
+      "en_txt": "13.743 (12.200)",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: Other - months.Late",
+      "ko_txt": null,
+      "en_txt": "2.455 (2.154)",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[0].Mean (Standard Deviation) | Unit of Measure: Other - months.Mild",
+      "ko_txt": null,
+      "en_txt": "15.667 (9.815)",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Title",
+      "ko_txt": null,
+      "en_txt": "Fine Motor Adaptive Development at 36 Mos of Age or at Death (Mos)",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Description",
+      "ko_txt": null,
+      "en_txt": "This was measured based on the Denver Developmental Screening Test (DDST) I or II for age-appropriate fine motor development in apparently normal healthy subjects at specific ages (in months). The DDST employs a grid to assess expected developmental milestones in relation to chronologic age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Time Frame",
+      "ko_txt": null,
+      "en_txt": "36 months or death",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Overall Number of Participants Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Mean (Standard Deviation) | Unit of Measure: Other - Months.Early",
+      "ko_txt": null,
+      "en_txt": "16.200 (12.762)",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Mean (Standard Deviation) | Unit of Measure: Other - Months.Late",
+      "ko_txt": null,
+      "en_txt": "2.409 (1.652)",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[1].Mean (Standard Deviation) | Unit of Measure: Other - Months.Mild",
+      "ko_txt": null,
+      "en_txt": "17.667 (13.204)",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Title",
+      "ko_txt": null,
+      "en_txt": "Personal-Social Development at 36 Mos of Age or at Death (Mos)",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Description",
+      "ko_txt": null,
+      "en_txt": "This was measured based on the Denver Developmental Screening Test (DDST) I or II for age-appropriate personal-social development in apparently normal healthy subjects at specific ages (in months). The DDST employs a grid to assess expected developmental milestones in relation to chronologic age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Time Frame",
+      "ko_txt": null,
+      "en_txt": "36 months or death",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Overall Number of Participants Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Mean (Standard Deviation) | Unit of Measure: Other - Months.Early",
+      "ko_txt": null,
+      "en_txt": "17.657 (13.482)",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Mean (Standard Deviation) | Unit of Measure: Other - Months.Late",
+      "ko_txt": null,
+      "en_txt": "3.364 (3.499)",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[2].Mean (Standard Deviation) | Unit of Measure: Other - Months.Mild",
+      "ko_txt": null,
+      "en_txt": "17.667 (15.308)",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Type",
+      "ko_txt": null,
+      "en_txt": "Primary",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Title",
+      "ko_txt": null,
+      "en_txt": "Language Development at 36 Mos of Age or at Death (Mos)",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Description",
+      "ko_txt": null,
+      "en_txt": "This was measured based on the Denver Developmental Screening Test (DDST) I or II for age-appropriate language development in apparently normal healthy subjects at specific ages (in months). The DDST employs a grid to assess expected developmental milestones in relation to chronologic age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Time Frame",
+      "ko_txt": null,
+      "en_txt": "36 months or death",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Overall Number of Participants Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Overall Number of Participants Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Overall Number of Participants Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Mean (Standard Deviation) | Unit of Measure: Other - Months.Early",
+      "ko_txt": null,
+      "en_txt": "15.800 (12.034)",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Mean (Standard Deviation) | Unit of Measure: Other - Months.Late",
+      "ko_txt": null,
+      "en_txt": "3.227 (2.943)",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[3].Mean (Standard Deviation) | Unit of Measure: Other - Months.Mild",
+      "ko_txt": null,
+      "en_txt": "21.000 (9.539)",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Title",
+      "ko_txt": null,
+      "en_txt": "Somatic Growth Percentiles at 3 Years of Age (or at Age of Death) - Weight Percentile",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Time Frame",
+      "ko_txt": null,
+      "en_txt": "36 months or death",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Overall Number of Participants Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Overall Number of Participants Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Overall Number of Participants Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Early",
+      "ko_txt": null,
+      "en_txt": "12.086 (19.589)",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Late",
+      "ko_txt": null,
+      "en_txt": "11.273 (17.097)",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[4].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Mild",
+      "ko_txt": null,
+      "en_txt": "5.000 (8.660)",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Title",
+      "ko_txt": null,
+      "en_txt": "Somatic Growth Percentiles at 3 Years of Age (or at Age of Death) - Length Percentile",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Time Frame",
+      "ko_txt": null,
+      "en_txt": "36 months or death",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Overall Number of Participants Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Overall Number of Participants Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Overall Number of Participants Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Early",
+      "ko_txt": null,
+      "en_txt": "8.286 (13.501)",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Late",
+      "ko_txt": null,
+      "en_txt": "15.455 (23.192)",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[5].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Mild",
+      "ko_txt": null,
+      "en_txt": "28.333 (40.723)",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Type",
+      "ko_txt": null,
+      "en_txt": "Secondary",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Title",
+      "ko_txt": null,
+      "en_txt": "Somatic Growth Percentiles at 3 Years of Age (or at Age of Death) - Head Circumference Percentile",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Time Frame",
+      "ko_txt": null,
+      "en_txt": "36 months or death",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Overall Number of Participants Analyzed.Early",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Overall Number of Participants Analyzed.Late",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Overall Number of Participants Analyzed.Mild",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Early",
+      "ko_txt": null,
+      "en_txt": "33.286 (27.060)",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Late",
+      "ko_txt": null,
+      "en_txt": "11.136 (14.551)",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "table",
+      "section": null,
+      "path": "Outcome Measures[6].Mean (Standard Deviation) | Unit of Measure: Other - Percentile.Mild",
+      "ko_txt": null,
+      "en_txt": "18.333 (27.538)",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Time Frame",
+      "ko_txt": null,
+      "en_txt": "36 months or death",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[0]",
+      "ko_txt": null,
+      "en_txt": "Early",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[1]",
+      "ko_txt": null,
+      "en_txt": "Late",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Title[2]",
+      "ko_txt": null,
+      "en_txt": "Mild",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Early",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning within 1 month of age",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Late",
+      "ko_txt": null,
+      "en_txt": "Classic Menkes disease: Copper histidine treatment beginning after 1 month of age and after onset of symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Arm/Group Description.Mild",
+      "ko_txt": null,
+      "en_txt": "Milder variants of Menkes disease: Copper histidine treatment beginning late (L) and after onset of (milder) symptoms",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Early.Affected",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Early.at Risk",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Late.Affected",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Late.at Risk",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Mild.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Total.Mild.at Risk",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Early.# Events",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Early.Affected",
+      "ko_txt": null,
+      "en_txt": "10",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Early.at Risk",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Late.# Events",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Late.Affected",
+      "ko_txt": null,
+      "en_txt": "11",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Late.at Risk",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Mild.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Mild.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Death.Mild.at Risk",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Early.# Events",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Early.Affected",
+      "ko_txt": null,
+      "en_txt": "1",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Early.at Risk",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Late.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Late.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Late.at Risk",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Mild.# Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Mild.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Serious Adverse Events.Nervous system disorders.Dehydration.Mild.at Risk",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Frequency Threshold for Reporting Other Adverse Events",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Early.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Early.at Risk",
+      "ko_txt": null,
+      "en_txt": "35",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Late.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Late.at Risk",
+      "ko_txt": null,
+      "en_txt": "22",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Mild.Affected",
+      "ko_txt": null,
+      "en_txt": "0",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "table",
+      "section": null,
+      "path": "Adverse Events.Other (Not Including Serious) Adverse Events.Total.Mild.at Risk",
+      "ko_txt": null,
+      "en_txt": "3",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Sponsor",
+      "ko_txt": null,
+      "en_txt": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "table",
+      "section": null,
+      "path": "Collaborators and Investigators.Investigators[0]",
+      "ko_txt": null,
+      "en_txt": "Principal Investigator: Stephen G Kaler, M.D.,  Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+      "align_score": null
+    }
+  ]
+}
