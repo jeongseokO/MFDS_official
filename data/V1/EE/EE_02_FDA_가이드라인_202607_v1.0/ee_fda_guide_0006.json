@@ -1,0 +1,757 @@
+{
+  "document_id": "ee_fda_guide_0006",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "CVM GFI #252 Small Entity Compliance Guide Antimicrobial Animal Drug Sales and Distribution Reporting June 2018__bc40b2ec4e",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "#252",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Antimicrobial Animal Drug Sales and Distribution Reporting",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Small Entity Compliance Guide",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit comments on this guidance at any time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room 1061, it electronic comments on the guidance at All written comments should be identified with the Docket No.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For further information regarding this document, contact",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Policy and Regulations Staff (HFV-6), Center for Veterinary Medicine, Food and Drug Administration, 7500 Standish th or",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance represents the current thinking of the Food and Drug Administration (FDA or we) on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not establish any rights for any person and is not binding on FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To discuss an alternative approach, contact the FDA staff responsible for this guidance as listed on the title page.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Introduction",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance is intended to help small businesses understand and comply with our reporting regulations for antimicrobial animal drug sales and distribution information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We have prepared this Small Entity Compliance Guide in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act (Public Law 104-121, as amended by Public Law 110-28).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In general, FDA’s guidance documents do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe our current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word should in FDA guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. Background",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sponsors of approved or conditionally approved applications for new animal drugs containing an antimicrobial active ingredient are required by section 512 of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 360b), as amended by section 105 of Animal Drug User Fee Amendments of 2008 (ADUFA 105) (Title I of Pub. L. 110–316), to submit to us an annual report on the amount of each such ingredient in the drug that is sold or distributed for use in food-producing animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We are also required by ADUFA 105 to publish annual summary reports of the data we receive from animal drug sponsors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In accordance with the law, sponsors of the affected antimicrobial new animal drug products began submitting their sales and distribution data to us on an annual basis, and we have published summaries of such data for each calendar year beginning with 2009.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Federal Register of May 11, 2016 (81 FR 29129), we published a final rule entitled “Antimicrobial Animal Drug Sales and Distribution Reporting” that amended our existing records and reports regulation in part 514 (21 CFR part 514) to incorporate the sales and distribution data reporting requirements specific to antimicrobial new animal drugs that were added to the FD&C Act by ADUFA 105.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The rule also added an additional reporting provision intended to improve our understanding of antimicrobial animal drug sales intended for use in specific food-producing animal species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In accordance with the new rule, the sponsor of each approved or conditionally approved new animal drug product that contains an antimicrobial active ingredient must submit an annual report to us on the amount of each such ingredient in the drug product that is sold or distributed for use in food-producing animals, including information on any distributor-labeled product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The final rule, which is codified at 21 CFR 514.80 and 514.87, became effective July 11, 2016.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This Small Entity Compliance Guide is intended to help small businesses understand and comply with our amended reporting regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. Questions and Answers",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: Do the reporting requirements for antimicrobial active ingredients in drug product that is sold or distributed for use in food-producing animals apply to small entities?",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes, a small entity that is a sponsor of an approved or conditionally approved new animal drug product containing an antimicrobial active ingredient that is sold or distributed for use in food-producing animals is required to submit to us annual sales and distribution data reports for each such product as required by section 512 of the FD&C Act and our regulations at 21 CFR 514.80 and 514.87.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: Who is a sponsor?",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A sponsor is an applicant named in a new animal drug application approved under section 512 of the FD&C Act, or conditionally approved under section 571 of the FD&C Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A sponsor is typically an animal drug manufacturer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: I am a sponsor of an approved or conditionally approved new animal drug product containing an antimicrobial active ingredient that is sold or distributed for use in food-producing animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How do I comply with the reporting requirements?",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You must submit an annual report to FDA on Form FDA 3744, “Antimicrobial Animal Drug Distribution Report.” This report must identify the approved or conditionally approved application and must include the following information for each new animal drug product:",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(1)A listing of each antimicrobial active ingredient contained in the product;",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(2)A description of each product sold or distributed by unit, including the container size, strength, and dosage form of such product units, including an estimate of the percentage of each product that was sold or distributed domestically in the reporting year for use in any of the following animal species categories, but only for such species that appear on the approved label: Cattle, swine, chickens, turkeys.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The total of the species-specific percentages reported for each product must account for 100 percent of its sales and distribution; therefore, a fifth category of “other species/unknown” must also be reported;",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(3) For each such product, a listing of the target animal species, indications, and production classes that are specified on the approved label;",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(4) For each such product, the number of units sold or distributed in the United States (i.e., domestic sales) for each month of the reporting year; and (5) For each such product, the number of units sold or distributed outside the United States (i.e., quantities exported) for each month of the reporting year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: How do I estimate the species-specific product sales as a percentage of total sales?",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Is there a standard methodology for developing species-specific sales estimates?",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No, we did not provide in the final rule a standard methodology for developing species-specific sales estimates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We believe that animal drug sponsors currently have access to information obtained in the ordinary course of their business (for example, through proprietary marketing analyses) that can be used to formulate the methodology to estimate the percentage of annual product sales that are sold or distributed domestically for use in any of the four major food-producing species that appear on the approved product label.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, sponsors have different business models that determine the manner in which they gather sales data; thus, specific methodologies to accurately estimate species-specific sales will likely differ among sponsors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Our regulation at 21 CFR 514.87(c) requires that firms provide species-specific sales estimates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We expect these estimates to be based on the methodology that provides the sponsor’s most accurate estimate of these sales.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: If I submit annual sales and distribution reports for antimicrobial new animal drug products under 21 CFR 514.87, do I have the option not to report distribution data under 21 CFR 514.80(b)(4)(i)(A) for the approved applications that include these same products?",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes, if you submit annual sales and distribution reports for antimicrobial new animal drug products under 21 CFR 514.87, you have the option not to report distribution data under 21 CFR 514.80(b)(4)(i)(A) for the approved applications that include these same products, but only provided each of the following conditions are met:",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(1)You must have submitted complete periodic drug experience reports under 21 CFR 514.80 for such applications for at least 2 full years after the date of the initial approval of the application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(2) You must ensure that the beginning of the reporting period for the annual periodic drug experience reports for such applications is January 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For applications that currently have a reporting period that begins on a date other than January 1, you must request a change in reporting submission date such that the reporting period begins on January 1 and ends on December 31, as described in 21 CFR 514.80(b)(4).",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(3) If you change the reporting submission date, you must also submit a special drug experience report, as described in 21 CFR 514.80(b)(5)(i), that addresses any gaps in distribution data caused by the change in date of submission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(4) If you choose not to report under 21 CFR 514.80(b)(4)(i)(A), you must ensure that full sales and distribution data for each product approved under such applications are alternatively reported under 21 CFR 514.87, including products that are labeled for use only in nonfood-producing animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: What period of time does the report cover and when is it due?",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The annual report submitted to FDA under 21 CFR 514.87 must cover the period of the preceding calendar year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You must submit it to FDA not later than March 31 of each year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: Will my sales and distribution data be treated as confidential commercial information?",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes, sales and distribution data and information reported under 21 CFR 514.87 will be considered to fall within the exemption for confidential commercial information established in 21 CFR 20.61 and will not be publicly disclosed, except that summary reports of such information aggregated in such a way that does not reveal information that is not available for public disclosure under 21 CFR 514.87 will be prepared by FDA and made available to the public as provided in 21 CFR 514.87(f).",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: If I have questions about how to comply with this rule, who should I contact at FDA?",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For questions about reporting requirements for approved or conditionally approved new animal drug products, you should contact:",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Division of Surveillance (HFV-210) Office of Surveillance and Compliance Center for Veterinary Medicine U.S. Food and Drug Administration MPN IV Bldg., Room 2613 7519 Standish Place Rockville, MD 20855-2773 Telephone: (240) 402-7082",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "#252 Antimicrobial Animal Drug Sales and Distribution Reporting Guidance for Industry Small Entity Compliance Guide",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room 1061, Rockville, MD 20852.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit electronic comments on the guidance at https://www.regulations.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All written comments should be identified with the Docket No. FDA-2012-N-0447.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For further information regarding this document, contact AskCVM@fda.hhs.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Policy and Regulations Staff (HFV-6), Center for Veterinary Medicine, Food and Drug Administration, 7500 Standish Place, Rockville, MD 20855, and may be viewed on the Internet at either https://www.fda.gov/AnimalVeterinary/default.htm or https://www.regulations.gov/.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. Introduction This guidance is intended to help small businesses understand and comply with our reporting regulations for antimicrobial animal drug sales and distribution information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. Background Sponsors of approved or conditionally approved applications for new animal drugs containing an antimicrobial active ingredient are required by section 512 of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 360b), as amended by section 105 of Animal Drug User Fee Amendments of 2008 (ADUFA 105) (Title I of Pub. L. 110–316), to submit to us an annual report on the amount of each such ingredient in the drug that is sold or distributed for use in food-producing animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. Questions and Answers Question: Do the reporting requirements for antimicrobial active ingredients in drug product that is sold or distributed for use in food-producing animals apply to small entities?",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: Yes, a small entity that is a sponsor of an approved or conditionally approved new animal drug product containing an antimicrobial active ingredient that is sold or distributed for use in food-producing animals is required to submit to us annual sales and distribution data reports for each such product as required by section 512 of the FD&C Act and our regulations at 21 CFR 514.80 and 514.87.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: A sponsor is an applicant named in a new animal drug application approved under section 512 of the FD&C Act, or conditionally approved under section 571 of the FD&C Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: You must submit an annual report to FDA on Form FDA 3744, “Antimicrobial Animal Drug Distribution Report.” This report must identify the approved or conditionally approved application and must include the following information for each new animal drug product:",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(5) For each such product, the number of units sold or distributed outside the United States (i.e., quantities exported) for each month of the reporting year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: No, we did not provide in the final rule a standard methodology for developing species-specific sales estimates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: Yes, if you submit annual sales and distribution reports for antimicrobial new animal drug products under 21 CFR 514.87, you have the option not to report distribution data under 21 CFR 514.80(b)(4)(i)(A) for the approved applications that include these same products, but only provided each of the following conditions are met: (1) You must have submitted complete periodic drug experience reports under 21 CFR 514.80 for such applications for at least 2 full years after the date of the initial approval of the application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: The annual report submitted to FDA under 21 CFR 514.87 must cover the period of the preceding calendar year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: Yes, sales and distribution data and information reported under 21 CFR 514.87 will be considered to fall within the exemption for confidential commercial information established in 21 CFR 20.61 and will not be publicly disclosed, except that summary reports of such information aggregated in such a way that does not reveal information that is not available for public disclosure under 21 CFR 514.87 will be prepared by FDA and made available to the public as provided in 21 CFR 514.87(f).",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: For questions about reporting requirements for approved or conditionally approved new animal drug products, you should contact:",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Division of Surveillance (HFV-210) Office of Surveillance and Compliance Center for Veterinary Medicine U.S. Food and Drug Administration MPN IV Bldg., Room 2613 7519 Standish Place Rockville, MD 20855-2773 Telephone: (240) 402-7082 FAX: (240) 276-9993 CVMSurveillance@fda.hhs.gov.",
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "document_id": "ee_cris_0019",
+  "meta": {
+    "set": "EE",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000020",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=1005",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prospective study to validate the efficacy of cilostazol on variant angina",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Multi-center, open-labed, prospective study of cilostazol (Pletaal) Effect on uncontrolled Variant angina",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IRB of Pusan National University Yangsan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "June-hong Kim",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pusan National University Yangsan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sung-gook Song",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pusan National University Yangsan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sung-gook Song",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pusan National University Yangsan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "GangNeung Asan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Inje University Haeundae Paik Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pusan National University Yangsan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korea Otsuka Pharmaceuticals",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pusan National University Yangsan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cilostazol has some good effects for vasospasm such as nitric oxide mediated vasodilation, improvement of endothelial dysfunction and inhibition of platelet aggregation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study try to validate the applicability of cilostazol treatment for the variant(vasospastic) angina.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The effect of cilostazol add-on (50-100mg PO BID for 1 week) in vasospastic angina patients who presented with suboptimal control of chest pain in spite of conventional medical treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "cilostazol group",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients who present with chest pain in PNUYH,Gangneung ASAN H.,Haeundae Paik H.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "① signing on consent form ② age : 20~80 years old ③ diagnosis of variant angina as following the criteria ⅰ.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Resting anginal chest pain ⅱ.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Documented coronary vasospasm : anyone of A~C A.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CAG ( Reversible vasospasm ) : a or b a.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Provocation Test (Use of intravenous Ergonovine) : positive b.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vasodilator Response Test ( Use of intracoronary Nitroglycerin) : reversibility of baseline vasospasm ( Resolved vasospasm of ≥50%) B.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Echocardiogram a.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Provocation Test (Use of intravenous Ergonovine) : positive C.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Routine ECG or 24h ECG Holter monitoring a.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Transient ST-T wave ⅲ.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Exclusion of significant coronary arterial stenosis: anyone of A~D A.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CAG : No Culprit lesion (< 50% luminal narrowing ) B.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CT-Coronary Angio : No significant lesion (<50% stenosis ) C.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "TMT : Negative D.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "thalium SPECT : Normal uptake",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "① less than 20 year old or more than 80 years old ② mixed angina which has more than 50% of coronary artery stenosis ③ contraindication of pletaal use ④ chronic renal failure ( serum Cre > 2 mg/dL) ⑤ ejection fraction < 40% ⑥ vasospasm on left main ⑦ pregnant woman",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "chest pain scale",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "the first week after cilostazol medication",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "all adverse effect",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "the first week after cilostazol medication",
+      "align_score": null
+    }
+  ]
+}

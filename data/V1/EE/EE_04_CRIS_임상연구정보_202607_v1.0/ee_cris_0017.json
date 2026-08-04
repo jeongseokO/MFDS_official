@@ -1,0 +1,298 @@
+{
+  "document_id": "ee_cris_0017",
+  "meta": {
+    "set": "EE",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000018",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=986",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Effect of short message service(SMS) as a reminder for breast self exam in breast cancer",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Effect of short message service(SMS) as a reminder for breast self exam in breast cancer patients",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Bundang Hospital Institutional Review Board",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sung-Won Kim",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD,PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Bundang Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Il yong Chung",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Bundang Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Il yong Chung",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Bundang Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Bundang Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korea Breast Cancer Foundation",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Bundang Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A variety of studies have been performed to investigate the ways to increase the rate of breast self-examination in patients with breast cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Reminders including telephone, mail or visit improved the rate of breast self-examination in those studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recently, short message service(SMS) was reported to improve the control of blood sugar level in DM patients and weight in obese patients but there is no randomized controlled study about the role of SMS in increasing the rate of breast self-examination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The aim of this study is to examine whether SMS improve the rate of breast self-examination in patienst with breast cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "short message service (SMS) : once per month (the first day of the month), reminder of breast self-examination",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "no intervention",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SMS(short message service)",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "short message service (SMS) : once per month (the first day of the month), reminder of breast self-examination",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Breast cancer patients who undergo surgery due to breast cancer from 1 August 2010",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) distant metastasis or recurred breast cancer 2) patients who have no capability of using cellphone or do not have cellphone.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "the rate of breast self-examination",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 and 6 months after surgery",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Number of times of breast self-examination",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 and 6 months after surgery",
+      "align_score": null
+    }
+  ]
+}

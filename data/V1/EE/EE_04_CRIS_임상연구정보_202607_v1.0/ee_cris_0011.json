@@ -1,0 +1,505 @@
+{
+  "document_id": "ee_cris_0011",
+  "meta": {
+    "set": "EE",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000011",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=1360",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A multi-center, randomized controlled trial to investigate the efficacy of cap-assisted chromoendoscopy as a screening test for colorectal polyp, and the impact on 3-year polyp recurrence rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Efficacy of Cap-assisted Chromoendoscopy as a Screening Test for Colorectal Neoplasm Using Web-based Research Network (CapACE)“",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Wonju Christian Hospital-IRB",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hyun Soo Kim",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD, PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yonsei University, Wonju Severance Christian Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seong-Eun Kim",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD, PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ewha Womans University",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seong-Eun Kim",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD, PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ewha Womans University",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ewha Womans University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Soon Chun Hyang University Hospital Seoul",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Incheon St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_4.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yonsei University, Wonju Severance Christian Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_5.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kangbuk Samsung Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_6.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hanyang University Guri Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_7.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dankook Univeristy Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_8.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korea University Anam Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_9.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "National Cancer Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_10.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yonsei University Health System, Severance Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_11.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_12.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kosin University Gospel Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_13.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hallym University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_14.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ajou University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_15.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Konyang University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ministry of Health & Welfare",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "KASID",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Various endoscopic tools have been tried to reduce polyp missing rate which has been reported to be 20-25%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Transparent cap-assisted colonoscopy has been suggested to improve visualization of the lesion that are difficult to access, such as tangentially located lesions and those located within a limited luminal space.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chromoendoscopy with indigocarmine spraying was reported to increases the detection rates of polyp, especially in right colon and rectum.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, there also have been mixed results regarding polyp detection rates of the endoscopic methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, there is no data regarding the impact of the screening tools on longterm recurrence rate of colorectal polyp.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The investigators plan to conduct a multi-center, randomized controlled trial to investigate the efficacy of cap-assisted chromoendoscopy as a screening test for colorectal polyp, and the impact on 3-year polyp recurrence rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study will be performed using web-based research network, e-VELOS in Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "transparent cap is applied at the tip of colonoscope, and 10-15cc of 0.15% indigocarmine was sprayed at each segment of colon under colonoscopy",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "cap assisted chromocolonoscopy",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "intervention group: a transparent cap is applied at the tip of colonoscope, and 10-15cc of 0.15% indigocarmine was sprayed at each segment of colon under colonoscopy control group: convetional colonoscopy",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "asymptomatic colonoscopic examinees",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Familial history of hereditary colorectal cancer •History of colorectal neoplasm •Patients had received colonoscopy examination before •Familial or past history of FAP(familiar adenomatous polyposis) •Prior colonic resection •Familial history of inflammatory bowel disease(IBD) •Inflammatory bowel disease",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Detection rate of colorectal neoplasia",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "in 7 days after procedure",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3-year recurrence rate of colorectal neoplasia",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 years after procedure",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Risk of colorectal adenoma according to the presence of hyperplastic polyp in distal rectum and 3 year recurrence rate",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 years after procedure",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Detection and 3-year recurrence rate of hyperplastic polyp and serrated adenoma in asymptomatic people.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 years after procedure",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The association of gallbladder disease of stone or tumor and colorectal polyp",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 years after procedure",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_5.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Detection rate of colorectal polyp according to Quality indices of colonoscopy",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_5.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "7 days after procedure",
+      "align_score": null
+    }
+  ]
+}

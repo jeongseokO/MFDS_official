@@ -1,0 +1,424 @@
+{
+  "document_id": "ee_cris_0001",
+  "meta": {
+    "set": "EE",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000001",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=911",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The identification of risk factors for cardiovascular disease in koreans and development of prospective trials to validate the efficacy of risk modification for the prevention of cardiovascular disease",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomized, multicenter, open-labeled, two-arm parallel group trial of pitavastatin 2 mg OD for reducing the risk of major cardiovascular events in patients with clustering cardiovascular risk factors",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "AMC IRB",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ki-hoon Han",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "University of Ulsan",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Eun-jung Kim",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CRC",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Eun-young Kim",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CRC",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yonsei University Health System, Severance Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Bucheon St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ajou University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_4.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul Metropolitan Government Seoul National University Boramae Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_5.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul Metropolitan Government Seoul National University Boramae Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_6.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Soon Chun Hyang University Hospital Bucheon",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_7.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Bundang Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_8.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_9.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, St. Vincent's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_10.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korea University Ansan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_11.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Koera University Guro Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_12.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hallym University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_13.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sejong General Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_14.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chung-Ang Univerisity Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_15.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korea Centers for Disease Control and Prevention",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korea Centers for Disease Control and Prevention",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "6. 연구책임기관_2.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "- The prevalence of cardiovascular disease is increasing very rapidly and the prevalence of diabetes and metabolic syndrome, as risk for the cardiovascular disease, are increasing, too.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, it has never been proved whether statins show the benefit on the prevention of cardiovascular disease to the Korean population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The purpose of current study is to prove if long-term trial of statin may exert the preventive effect on the Korean subjects with diabetes and other multiple risk factors including metabolic syndrome, whose serum total cholesterol levels are 220 mg/dl or less.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Administration of pitavastatin 2 mg one tablet, once a day in the morning or non-medication - Follow-up for 60 months after LPI",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "TREATMENT ARM",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pitavastatin 2mg QD PO",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NON TREATMENT ARM",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Observation",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1. Acquisition of consent form 2. Total cholesterol level of less than 220mg/dl Should have at least one of categories listed in the item 3. or 4. 3. Clearly diagnosed as diabetes and should have at least two of those listed as follows; - Age ; male 45YO or more, female 55YO or more - Current smoker - Diagnosed as hypertension - Low HDL cholesterol levels <40 mg/dl - Abdominal obesity (male; 90 cm or more, female; 85 cm or more of waist circumferences) 4. Non-diabetics, but calculated 10-year-risk for cardiovascular disease (offered by NCEP-III guideline) equals or more than 20 % and diagnosed as metabolic syndrome.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1. Age of 80 YO or more 2. History of uncontrolled endocrinologic diseases; such as hypothyroidism, hypopituitarism, or others. 3. Pregnancy 4. Azotemia 5. HIV positive 6. Abnormal serum levels of liver (AST, ALT) and muscle (CK) enzymes 7. History of neoplasm 8. History of overt cardiovascular disease 9. Hear failure 10. Triglyceride levels > 400mg/dl 11. Total cholesterol levels < 150mg/dl 12. HbA1C levels > 11.0%",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Myocardial infarction, stroke, Cardiovascular death, Hospitalization due to unstable angina, TIA, the development of atherosclerotic",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The first occurrence of any of clinical events listed",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Primary outcome + The development of atherosclerotic narrowing or myocardial ischemia, Death of any cause",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The first occurrence of any of clinical events listed",
+      "align_score": null
+    }
+  ]
+}

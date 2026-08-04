@@ -1,0 +1,1162 @@
+{
+  "document_id": "ee_fda_guide_0003",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "CVM GFI #200 SECG for Designation of New Animal Drugs for Minor Uses or Minor Species July 2014__532410cdce",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "#200",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "GUIDANCE FOR INDUSTRY",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SMALL ENTITIES COMPLIANCE GUIDE",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Designation of New Animal Drugs for Minor Uses or Minor Species (This guidance replaces the version dated September 1, 2010.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance updates contact information, adds a reference to the first question on page 8, and also reflects minor formatting changes.)",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit comments on this guidance at any time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room .",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit electronic comments on the guidance at All comments should be identified with Docket No. FDA-2010-D-",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For further information regarding this document, contact Office of Minor Use and Minor Species Animal Drug Development (HFV-50)eterinary Medicine, Food a00 Standish Place, Rockville, MD 20855, 240-402-0568; email:",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Communications Staff (HFV-12), Center for Veterinary Medicine, Food and Drug Administration, 7519 Standish Place,",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Contains Non-Binding Recommendations",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry Small Entities Compliance Guide",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance represents the Food and Drug Administration’s (FDA’s) current thinking on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not create or confer any rights for or on any person and does not operate to bind FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you want to discuss an alternative approach, contact the FDA staff responsible for implementing this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you cannot identify the appropriate FDA staff, call the appropriate number listed on the title page of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. Background",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On July 26, 2007 (72 FR 41010), FDA published a final rule in the Federal Register, entitled “Designation of New Animal Drugs for Minor Uses or Minor Species.” This final rule, which implemented section 573 of the Minor Use and Minor Species Animal Health Act of 2004 (MUMS act), established new regulatory procedures that provided incentives intended to make more drugs legally available to veterinarians and animal owners for the treatment of minor animal species and uncommon diseases in major animal species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These regulations described the procedures for designating a new animal drug as a minor use or minor species drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Such designation establishes eligibility for the incentives provided by the MUMS act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA has prepared this Small Entities Compliance Guide in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996 (Public Law 104-121).",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This document is intended to provide guidance on the requirements of Title 21, Code of Federal Regulations, new Part 516, subpart B.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word should in Agency guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. Purpose",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is Designation?",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Designation refers to the status that certain new animal drugs can achieve under the provisions of section 573 of the Federal Food, Drug, and Cosmetic Act (FFDCA or the act), which was added to the act by the Minor Use and Minor Species Animal Health Act of 2004.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The purpose of designation is to determine eligibility for incentives for the approval or conditional approval of Minor Use and Minor Species (MUMS) new animal drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In order to be eligible for designation a new animal drug product must be intended for a minor use in a major species or for use in a minor species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In other words, it must be a MUMS drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The major species of animals are horses, dogs, cats, cattle, pigs, turkeys, and chickens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All other animal species (except humans) are minor species (21 CFR 516.3).",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. Questions and Answers",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How does designation help get more drugs approved for minor use or minor species?",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Designated drugs are eligible for incentives for the development of MUMS drugs for which sponsors might not otherwise pursue approval due to the drugs' limited market potential.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MUMS designated drugs may obtain exclusive marketing rights for a period of seven (7) years after approval or conditional approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The exclusive marketing rights associated with designation prevent the Food and Drug Administration’s (FDA) Center for Veterinary Medicine (CVM) from approving or conditionally approving, during those seven years, the same drug in the same dosage form for the same intended use as a designated product (21 CFR 516.31).",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Designation also provides eligibility to apply for Federal grants to assist in defraying the costs of qualified safety and effectiveness testing associated with the development of a new animal drug for a minor use or minor species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Designation does not change the safety or effectiveness standards for approval or conditional approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Are all animal drugs intended for minor use in major species or for use in minor species eligible for designation?",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No. Under the act, a new animal drug may not be designated if it contains the same drug in the same dosage form for the same intended use as a new animal drug that is already approved, conditionally approved, or designated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each of these conditions of “sameness” is described in detail in Title 21 of the Code of Federal Regulations (CFR) Section 516.3(b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A drug that FDA has found to be functionally superior is not considered the same as a drug that is already approved or conditionally approved even if it is otherwise the same drug in the same dosage form for the same intended use (21 CFR 516.25(a)(3) and 516.3(b)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does a MUMS drug have to be designated in order to be eligible for conditional approval?",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No. While only MUMS drugs are eligible for conditional approval, a MUMS drug does not have to be designated in order to be conditionally approved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can foreign firms get drugs designated in the U.S.?",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes, but foreign firms must have a permanent-resident U.S. agent in accordance with 21 CFR 516.22.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How can I determine whether an intended use is a minor use?",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the MUMS provisions of the act, Congress defined a minor use as “the intended use of a drug in a major species for an indication that occurs infrequently and in only a small number of animals, or in limited geographic areas and in only a small number of animals annually” (FFDCA § 201(pp)) (21 USC 321(pp)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See 21 CFR 516.3(b) for definitions of the terms “limited geographic area” and “infrequently.”",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The agency defined a “small number” for each major species by regulation (see 43 FR 43050 amending 21 CFR 516.3(b)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Those numbers are: 50,000 horses, 70,000 dogs, 120,000 cats, 310,000 cattle, 1,450,000 pigs, 14,000,000 turkeys, and 72,000,000 chickens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To demonstrate that an intended use for a drug is a minor use the sponsor must provide supporting information to FDA (21 CFR 516.21).",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2)",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A sponsor must provide an estimate of the total number of animals annually to which the drug could be given to treat, prevent, or control the intended disease or condition.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sponsors must include in the estimate animals that would be treated as part of a herd or flock treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sponsors must also submit a list of sources used to support the estimate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This annual animal estimate may be reduced if treatment is only medically justified for a subset of animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To take advantage of this reduction a sponsor must demonstrate that treatment is only medically justified for that subset and submit a list of sources used to support the proposed reduction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How does the designation process work?",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A MUMS drug sponsor seeking to gain the incentives associated with designation needs to submit two signed and dated copies of the following information to the Office of Minor Use and Minor Species Animal Drug Development (OMUMS) (21 CFR 516.20):",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) 4) a request for designation that is specific (only one drug in one dosage form for a specified intended use); the name and address of the sponsor, the name of the contact person or U.S. agent, the generic name and trade name (if any) of the drug, and the name and address of the source of the drug (i.e. the active pharmaceutical ingredient); a description of the proposed intended use; a description of the drug and dosage form;",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5) 6) 7) 8) 9) a discussion of the scientific rationale for the intended use of the drug, including reference to all studies and data (positive, negative, or otherwise) available regarding the intended use of the drug; a specific description of the product development plan for the drug, its dosage form, and its intended use; if intended for a minor use in a major species, documentation to demonstrate that the intended use is a minor use (See above, “How can I determine whether an intended use is a minor use?”); a statement that the sponsor submitting the request is the real party in interest of the development, production, and sale of the drug; a statement that the sponsor acknowledges that FDA will make certain information regarding the designation publicly available (for information that will be made publicly available, see 21 CFR 516.28).",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA will refuse to grant a request for MUMS drug designation if (21 CFR 516.25):",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) 4) the drug is not intended for use in a minor species or FDA determines that there is insufficient evidence to demonstrate that the drug is intended for a minor use in a major species; the drug is the same drug in the same dosage form for the same intended use as one that already has a MUMS drug designation; the drug is the same drug in the same dosage form for the same intended use as one that is already approved or conditionally approved; the sponsor has failed to provide a)a credible scientific rationale in support of the intended use;",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "b)information regarding the product development plan for the drug, its dosage form and its intended use sufficient to establish that adherence to the plan can lead to successful drug development in a timely manner;",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "c)any other information required by 21 CFR 516.20 (listed above).",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A sponsor will only receive market exclusivity rights when its designated drug is approved or conditionally approved for the same intended use and dosage form as previously designated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A sponsor can, however, request an amendment to the designated intended use prior to approval or conditional approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The request will be granted if FDA determines that 1) the initial designation request was made in good faith, 2) the amendment is a response to unexpected research findings, FDA recommendations, or other unforeseen developments and 3) for minor use drugs, the change in intended use does not change the minor use status of the drug (21 CFR 516.26).",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under what conditions will OMUMS terminate a designation?",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Once granted, the designation of a MUMS drug will be terminated (21 CFR 516.29):",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) upon notification of FDA by a sponsor of the decision to discontinue active pursuit of approval or conditional approval; upon notification of FDA by a sponsor of its decision to discontinue manufacture of an approved or conditionally approved drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sponsor must notify FDA at least one year before it intends to discontinue manufacturing; upon the expiration of the 7 years of exclusive marketing rights;",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA may terminate designation for a drug (21 CFR 516.29):",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) 4) 5) 6) 7) if FDA determines that the sponsor is not actively pursuing approval or conditional approval with due diligence (e.g., failure to provide annual progress reports); if FDA determines that a sponsor is unable to provide sufficient quantities of an approved or conditionally approved drug to meet the needs for which it is designated (as specified in section 573 of the act and 21 CFR 516.36); if FDA finds that the request for designation contained an untrue statement of material fact; if FDA finds that the request for designation omitted material information; if FDA finds that the drug, in fact, was not eligible for designation at the time of submission of the request (note that when a drug has been designated for a minor use, the designation will not be terminated because the number of animals to which the drug could be administered subsequently increases--see 21 CFR 516.29(h)); if the same drug in the same dosage form for the same intended use is approved or conditionally approved for another sponsor before the MUMS-designated drug is approved or conditionally approved; if FDA withdraws the approval or conditional approval of the application for the drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For an approved or conditionally approved drug, termination of MUMS drug designation terminates the sponsor’s exclusive marketing rights but does not withdraw the approval or conditional approval of the application for the drug (21 CFR 516.29(g)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When a designation is terminated, FDA will notify the sponsor in writing and give public notice of the termination (21 CFR 516.29(i)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When does the period of exclusive marketing rights take effect?",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The period of exclusive marketing rights for designated MUMS drugs begins on the date of approval or conditional approval as stated in the FDA approval letter and, generally, continues for seven years (21 CFR 516.31(a)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The agency will send the sponsor, or the permanent-resident U.S. agent, written notice of the initiation of exclusive marketing rights and also make this information publicly available (21 CFR 516.34).",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As noted above, designation of an unapproved drug may be terminated if the same drug in the same dosage form for the same intended use is approved or conditionally approved for a competing sponsor.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In such case, neither sponsor would be eligible for the incentives associated with designation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In spite of a grant of exclusive marketing rights, FDA may approve or conditionally approve the same drug for the same dosage form and the same intended use if:",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) 4)",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA terminates MUMS drug designation as described above; FDA withdraws approval or conditional approval of the application for the designated drug for any reason; the sponsor of the designated drug provides written consent for FDA to approve or conditionally approve another application before the expiration of 7 years; the sponsor of the designated drug fails to provide sufficient quantities of the drug in accordance with section 573 of the act and 21 CFR 516.36.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Is the designation process subject to animal drug user fees?",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No. The designation process is not subject to the user fees established and implemented under the Animal Drug User Fee Act (ADUFA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See Guidances for Industry #170 and #173 for further information regarding user fees and user fee waivers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What reports are necessary following designation?",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Upon designation a sponsor must annually submit to OMUMS a brief progress report regarding your designated drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The first annual report is due within 14 months of the date that designation is granted, and subsequent reports are due annually on the same date that the first report is due.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An annual report must include a brief account of the drug development process, including 1) a short summary of the status and results of studies, 2) a description of the investigational plan for the coming year, and 3) a brief discussion of developments that could affect the designation (e.g., scientific findings indicating unexpected issues of safety or effectiveness) (21 CFR 516.30).",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can a product be designated and indexed at the same time?",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A sponsor may have a designated product indexed while concurrently pursuing approval or conditional approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indexing is an alternative means to legal marketing of new animal drugs for non- food producing minor species (or for some early life stages of some minor species).",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See 21 CFR Part 516, Subpart C--Index of Legally Marketed Unapproved New Animal Drugs for Minor Species for more information on the indexing process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Also, see CVM Guidance for Industry #201, Small Entities Compliance Guide - The Index of Legally Marketed Unapproved New Animal Drugs for Minor Species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Who can I call for assistance?",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Call the Office of Minor Use & Minor Species Animal Drug Development (OMUMS) at 240-402-0568.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This Office exists for the sole purpose of facilitating increased availability of animal drugs intended for minor species or minor use in major species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Office is responsible for designation, indexing, minor use determinations, and outreach to MUMS stakeholders.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "#200 GUIDANCE FOR INDUSTRY SMALL ENTITIES COMPLIANCE GUIDE Designation of New Animal Drugs for Minor Uses or Minor Species (This guidance replaces the version dated September 1, 2010.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance updates contact information, adds a reference to the first question on page 8, and also reflects minor formatting changes.) Submit comments on this guidance at any time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room 1061, Rockville, MD 20852.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit electronic comments on the guidance at http://www.regulations.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For further information regarding this document, contact Stuart Jeffrey, Office of Minor Use and Minor Species Animal Drug Development (HFV-50), Center for Veterinary Medicine, Food and Drug Administration, 7500 Standish Place, Rockville, MD 20855, 240-402-0568; email: stuart.jeffrey@fda.hhs.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Communications Staff (HFV-12), Center for Veterinary Medicine, Food and Drug Administration, 7519 Standish Place, Rockville, MD 20855, and may be viewed on the Internet at http://www.fda.gov/AnimalVeterinary/GuidanceComplianceEnforcement/GuidanceforIndustry/d efault.htm or http://www.regulations.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry Small Entities Compliance Guide Designation of New Animal Drugs for Minor Uses or Minor Species",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. Background On July 26, 2007 (72 FR 41010), FDA published a final rule in the Federal Register, entitled “Designation of New Animal Drugs for Minor Uses or Minor Species.” This final rule, which implemented section 573 of the Minor Use and Minor Species Animal Health Act of 2004 (MUMS act), established new regulatory procedures that provided incentives intended to make more drugs legally available to veterinarians and animal owners for the treatment of minor animal species and uncommon diseases in major animal species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This document is intended to provide guidance on the requirements of Title 21, Code of Federal Regulations, new Part 516, subpart B. FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. Purpose What is Designation?",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. Questions and Answers How does designation help get more drugs approved for minor use or minor species?",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See 21 CFR 516.3(b) for definitions of the terms “limited geographic area” and “infrequently.” The agency defined a “small number” for each major species by regulation (see 43 FR 43050 amending 21 CFR 516.3(b)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) A sponsor must provide an estimate of the total number of animals annually to which the drug could be given to treat, prevent, or control the intended disease or condition.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2) This annual animal estimate may be reduced if treatment is only medically justified for a subset of animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) a request for designation that is specific (only one drug in one dosage form for a specified intended use); 2) the name and address of the sponsor, the name of the contact person or U.S. agent, the generic name and trade name (if any) of the drug, and the name and address of the source of the drug (i.e. the active pharmaceutical ingredient); 3) a description of the proposed intended use; 4) a description of the drug and dosage form;",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5) a discussion of the scientific rationale for the intended use of the drug, including reference to all studies and data (positive, negative, or otherwise) available regarding the intended use of the drug; 6) a specific description of the product development plan for the drug, its dosage form, and its intended use; 7) if intended for a minor use in a major species, documentation to demonstrate that the intended use is a minor use (See above, “How can I determine whether an intended use is a minor use?”); 8) a statement that the sponsor submitting the request is the real party in interest of the development, production, and sale of the drug; 9) a statement that the sponsor acknowledges that FDA will make certain information regarding the designation publicly available (for information that will be made publicly available, see 21 CFR 516.28).",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA will refuse to grant a request for MUMS drug designation if (21 CFR 516.25): 1) the drug is not intended for use in a minor species or FDA determines that there is insufficient evidence to demonstrate that the drug is intended for a minor use in a major species; 2) the drug is the same drug in the same dosage form for the same intended use as one that already has a MUMS drug designation; 3) the drug is the same drug in the same dosage form for the same intended use as one that is already approved or conditionally approved; 4) the sponsor has failed to provide c) any other information required by 21 CFR 516.20 (listed above).",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) upon notification of FDA by a sponsor of the decision to discontinue active pursuit of approval or conditional approval; 2) upon notification of FDA by a sponsor of its decision to discontinue manufacture of an approved or conditionally approved drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sponsor must notify FDA at least one year before it intends to discontinue manufacturing; 3) upon the expiration of the 7 years of exclusive marketing rights; FDA may terminate designation for a drug (21 CFR 516.29):",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) if FDA determines that the sponsor is not actively pursuing approval or conditional approval with due diligence (e.g., failure to provide annual progress reports); 2) if FDA determines that a sponsor is unable to provide sufficient quantities of an approved or conditionally approved drug to meet the needs for which it is designated (as specified in section 573 of the act and 21 CFR 516.36); 3) if FDA finds that the request for designation contained an untrue statement of material fact; 4) if FDA finds that the request for designation omitted material information; 5) if FDA finds that the drug, in fact, was not eligible for designation at the time of submission of the request (note that when a drug has been designated for a minor use, the designation will not be terminated because the number of animals to which the drug could be administered subsequently increases--see 21 CFR 516.29(h)); 6) if the same drug in the same dosage form for the same intended use is approved or conditionally approved for another sponsor before the MUMS-designated drug is approved or conditionally approved; 7) if FDA withdraws the approval or conditional approval of the application for the drug.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) FDA terminates MUMS drug designation as described above; 2) FDA withdraws approval or conditional approval of the application for the designated drug for any reason; 3) the sponsor of the designated drug provides written consent for FDA to approve or conditionally approve another application before the expiration of 7 years; 4) the sponsor of the designated drug fails to provide sufficient quantities of the drug in accordance with section 573 of the act and 21 CFR 516.36.",
+      "align_score": null
+    }
+  ]
+}

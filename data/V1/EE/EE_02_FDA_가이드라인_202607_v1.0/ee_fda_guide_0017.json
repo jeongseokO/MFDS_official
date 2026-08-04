@@ -1,0 +1,1459 @@
+{
+  "document_id": "ee_fda_guide_0017",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "Questions and Answers on Informed Consent Elements, 21 CFR 짠 50.25(c) Guidance for Sponsors, Investigators, and Institutional Review Boards__1a570b0005",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Sponsors, Investigators, and Institutional Review Boards",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Questions and Answers on Informed Consent Elements, 21 CFR § 50.25(c) (Small Entity Compliance Guide)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies are available from: Office of Good Clinical Practice Office of Special Medical Programs Office of Commissioner Food and Drug Administration 10903 New Hampshire Ave., WO32-5103 Silver Spring, MD 20993 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance represents the Food and Drug Administration’s (FDA’s) current thinking on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not create or confer any rights for or on any person and does not operate to bind FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you want to discuss an alternative approach, contact the FDA staff responsible for implementing this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you cannot identify the appropriate FDA staff, call the appropriate number listed on the title page of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. Introduction",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA has prepared this guidance in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is intended to help small businesses better understand the new informed consent requirements set forth in 21 CFR § 50.25(c).",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word should in Agency guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. Background",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Federal Register (FR) of January 4, 2011 (76 FR 256), FDA published a final regulation (21 CFR § 50.25(c)) amending the current informed consent regulations to require that informed consent documents and processes for applicable drug (including biological products) and device clinical trials include a specific statement that clinical trial information will be entered into a databank.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The databank referred to in this final rule is the clinical trial registry databank maintained by the National Institutes of Health/National Library of Medicine (NIH/NLM) which was created by statute.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The submission of clinical trial information to this data bank also is required by statute.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The amendment to the informed consent regulations was required by the Food and Drug Administration Amendments Act of 2007 (FDAAA), Public Law 110-85 (September 27, 2007), and is designed to promote transparency of clinical research to participants and patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. Questions and Answers on Informed Consent Elements (21 CFR § 50.25(c))",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is the new requirement for informed consent documents?",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For applicable clinical trials initiated on or after March 7, 2012, informed consent documents must be in compliance with the new requirement in 21 CFR § 50.25(c) and ent that refers to the trial’s description on .",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Why is it necessary to include this new statement in informed consent documents?",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The requirement for this provision was included in section 801 of FDAAA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This law also providedon and results reporting of certain applicable clinical trials on .",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The statement is the means by which the statute providedrs to inform applicable clinical trial participants of the al trial information on the public website located at .",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s final rule refers to an “applicable clinical trial”—what is an “applicable clinical trial” and how do I know if my trial is an “applicable clinical trial?”",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDAAA provided a definition of “applicable clinical trial” in 42 U.S.C. § 282(j)(1)(A). “Applicable clinical trials” generally include controlled interventional studies (with one or more arms) of drugs, biological products, or devices that are subject to FDA regulation, meaning that the trial has one or more sites in the United States, involves a drug, biologic, or device that is manufactured in the United States (or its territories), or is conducted under an investigational new drug application (IND) or investigational device exemption (IDE).",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Trial sponsors and investigators have the responsibility of determining whether or not a trial is an “applicable clinical trial.” Definitions vary for applicable device and drug trials including biologics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The trial is an “applicable clinical device trial” if: (I) the trial prospectively compares a device-based intervention subject to FDA regulation against a control in human subjects; or (II) the trial is a pediatric post-market surveillance trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The trial is an “applicable clinical drug trial” if the trial is a controlled clinical investigation, other than a phase I clinical investigation, of a drug subject to FDA regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "42 U.S.C. § 282(j)(1)(A)(iii)(I).",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the purposes of this definition, a “clinical investigation” is “any experiment in which a drug is administered or dispensed to, or used involving, one or more human subjects.” 21 CFR § 312.3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NIH/NLM has the statutory authority to interpret the definition of “applicable clinical ent thinking on the meaning of the term at",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What clinical trials are specifically excluded from the definition of “applicable clinical trials?”",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For devices, small feasibility trials and larger clinical trials of prototype devices with a primary measure of feasibility rather than health outcomes are not applicable clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under current guidance contained on NIH’s website at , a device trial is not an apde-identified human specimens and does not include “human subjects” (a requirement to be considered an applicable clinical trial).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The website states: “For purposes only of the requirements under 402(j) of the PHS Act, this definition of human subject does not apply to de-identified human specimens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(See, Guidance on Informed Consent for In Vitro Diagnostic Device Studies lly Identifiable, April 25, 2006 )",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For drugs, phase 1 clinical investigations (defined in 21 C.F.R. § 312.21) are not categorized as “applicable clinical trials.” 42 U.S.C. § 282(j)(1)(A)(iii).",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Uncontrolled clinical investigations of drugs or devices also are not considered “applicable clinical trials.”",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See, also, the responses to questions 3 and 17.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Where has FDA published this new regulation?",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We published the final rule requiring this statement on page 256, volume 76 of the FR (January 4, 2011, 76 FR 256).",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulation may be found at 21 CFR § 50.25(c).",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is the exact statement required to be included in informed consent documents?",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under new 21 CFR 50.25(c), the following statement must be reproduced word-for-word in informed consent documents for applicable clinical trials:",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "“A description of this clinical trial will be available on , as required by U.S. Law.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This Web site will not include iou.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At most, the Web site will include a summary of the results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can search this Web site at any time.”",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Why is it necessary to include the specific statement without any changes?",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The four required sentences fulfill the neecific statement concerning the availability of trial data on for every applicable clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After much carefulthought, ments submitted to the proposed rule docket, and input from Institutional Review Board (IRB) members, clinical trial directors, ethicists, and communication experts, we formulated the statement provided in the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "21 CFR § 50.25(c).",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Requiring word-for-word reproduction of the statement avoids the need for individual analysis and determination of what is appropriate to be included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the statement also avoids different statements for different trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When must sponsors and investigators begin including the new statement in informed consent documents?",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Applicable clinical trials initiated on or after March 7, 2012, must be in compliance with the new requirement and include the new statement in all informed consent documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the purposes of this rule only, we consider “initiation” of a clinical trial to be the clearance or approval of any informed consent documents by an IRB or other ethics review committee.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Will the new informed consent rule be applied retroactively?",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No, applicable clinical trials initiated on or after March 7, 2012, must be in compliance with the new rule and are subject to the rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See the response to question 8.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What if my study has received approval only for particular sites by March 7, 2012?",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If an IRB has already approved any informed consent documents for the applicable clinical trial prior to March 7, 2012, then the trial will be considered “initiated” before the compliance date, and the new statement will not be required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, if an IRB approves consent documents for a particular site for a multi-site trial before March 7, 2012, but documents for another site have not been approved by that date, then all documents for the entire applicable clinical trial will be exempt from including the statement and do not need to be in compliance with the provision.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If an IRB has not approved any informed consent documents for the applicable clinical trial by March 7, 2012, then all informed consent documents associated with the applicable clinical trial must in compliance with the requirement and include the new statement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the multi-site applicable clinical trial includes multiple IRBs or the multi-site applicable clinical trial is under one IRB, the effect is still the same.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sponsor of the trial is responsible for determining the applicable clinical trial initiation date.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Will re-consent be required for ongoing trials after March 7, 2012?",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No, if the applicable clinical trial was initiated before March 7, 2012, then these informed consent documents do not have to be in compliance with the new requirement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Subjects who consent to an applicable clinical trial via documents approved before March 7, 2012, will not need to be re-consented based solely on the new regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Even if sponsors or investigators revise consent documents for other reasons, as long as the documents were initially approved before March 7, 2012, the revised consent forms do not have to include the statement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How should sponsors and/or investigators obtain approval for informed consent documents with the new statement?",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The new requirement of including the statement has not altered the IRB approval process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, IRBs cannot modify or delete the exact statement regarding www.ClinicalTrials.gov as stated in 21 CFR § 50.25(c).",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Investigators, sponsors, and IRBs are not restricted from providing additional explanation, if determined to be needed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is essential, however, that the required common statement consistently be included in all informed consent documents and processes if the trial is an applicable clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What are the responsibilities of an IRB under the new rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IRBs continue to have the responsibility to review and approve informed consent documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "21 CFR § 56.109(b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The waivers to documentation of informed consent regarding certain studies still apply.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "21 CFR § 56.109(c)(1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Even if documentation is waived under 21 CFR § 56.109(c)(1), the trial participant still provides consent and the statement is required during the oral presentation of the research and/or in the written statement regarding the research, if required by the IRB under 21 CFR § 56.109(d).",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under 21 CFR §§ 50.23 and 50.24 regarding exceptions to informed consent, the statement is also required in the informed consent documents if these trials are applicable clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In what situations may the new requirement be waived?",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 801 of FDAAA does not provide for a waiver of the new requirement to include the new statement in the informed consent documents and process for applicable clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s regulations require informed consent for participation in FDA-regulated clinical investigations except under limited circumstances as described in 21 CFR § 50.23 (involving certain life-threatening situations, military operations, or public health emergencies) and 21 CFR § 50.24 (involving emergency research).",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Please see the response to question 13 for further information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does the new statement have to be featured in a particular place in the informed consent document?",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No, the regulation does not require the new statement to be located in any particular section of the consent form.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Investigators, sponsors, and IRBs have the flexibility to place the new statement wherever they believe best serves participants’ interests.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What if non-compliant informed consent documents (documents without the new statement as required) are submitted to and approved by the IRB?",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The investigator and sponsor are responsible for determining whether a trial is an applicable clinical trial and to include the required statement in the informed consent document, as appropriate, for approval by the IRB.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If an error is made, the IRB should be notified as soon as possible and a revised consent form that includes the required statement should be provided to the IRB for review and approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does the new statement have to be included in informed consent documents for trials with de-identified data—that is, trials that are not subject to the Health Information Portability and Accountability Act (HIPAA)?",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the trial is determined to be an applicable clinical trial, the investigator or sponsor must comply with the new regulation regardless of any determinations concerning HIPAA requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a clinical trial is not subject to the rule, do investigators have to inform trial vailability of clinical trial information on ?",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No, if the clinical trial is not subject to the rule (not an applicable clinical trial), then investigators/sponsm participants about the availability of information on the website.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The required statement should not be included in info or processes for clinical trials that are not applicable clinicaestigators/sponsors independently believe that reporting data on may influence subjects’ willingness to participate, nothinents investigators/sponsors from voluntarily reporting trial data and informing trial participants in an appropriate manner.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Should investigators/sponsors include the statement in consent documents for a trial that is not an “applicable clinical trial?” equires that applicable clinical trials be submitted to , the new statement only applies to the legal requirements for nformed consent documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Again, the new rule does not prevent investigators from voluntarily reportils that do not meet the definition of an applicable clinical trial to and sharing that information with participants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If an organization has used the same model template for informed consent documents for years, must they update the template?",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes, the compliance deadline of March 7, 2012, provided sufficient time for all institutions involved in applicable clinical trials to update their model forms and templates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do informed consent documents for studies conducted outside of the United States have to comply with the new regulations?",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes, any applicable clinical trial, including applicable clinical trials conducted outside the United States, must comply with the new regulation (21 CFR § 50.25(c)) and include the statement regarding www.ClinicalTrials.gov in informed consent forms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The statute defines applicable clinical trials as trials of drugs and devices that are subject to FDA regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the clinical trial is not of a drug or device subject to FDA regulation, and, thus, not an applicable clinical trial, at the time of the initiation of the trial, then the statement is not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See the response to questions 3 and 4 concerning the definition of an applicable clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA accepts data from foreign clinical trials not under an IND when in compliance with 21 CFR § 312.120.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mere fact that we accept data from a foreign clinical trial in connection with a marketing application does not make it an applicable clinical trial; the foreign clinical trial constitutes an applicable clinical trial only when it meets the definitions set forth in 42 U.S.C. § 282(j)(1)(A).",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See, also, the response to questions 3 and 4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This requirement does not preclude the inclusion of mandatory or recommended language from non-U.S. governments, and it does not preclude reference to other clinical trial registries or regulatory bodies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What if the new statement conflicts with foreign informed consent requirements?",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Congress did not provide an exemption from the statutory requirement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the clinical trial is an applicable clinical trial, then it must include the new statement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can sponsors or investigators translate the new required statement?",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes, if potential participants are non-English speaking or the clinical investigator or IRB anticipates that the consent interviews will be conducted in a language other than English, the IRB should require investigators or sponsors to prepare translated consent documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA recommends that the IRB review, and if appropriate, approve procedures for ensuring that the translations will be prepared by a qualified individual or entity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, FDA will not provide translations of the statement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We have written the required statement to use simpler language and do not believe that the statement will pose translation difficulties.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Are clinical trials that are funded, conducted, or supported by the Department of Health and Human Services (HHS) (i.e., subject to 45 CFR § 46) subject to the new regulation?",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a general matter, applicable clinical trials involving FDA-regulated products and conducted or supported by HHS must meet the requirements of both 45 CFR § 46 and 21 CFR § 50.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How does the new rule affect informed consent for children?",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Parent or guardian permission, as defined in 21 CFR § 50.3(r), must include the elements of informed consent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the parent and guardian consent forms must include the new statement word for word.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What are the consequences of not including the new language in consent documents for applicable clinical trials?",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA has several options that enable enforcement of the new informed consent requirement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA has the authority to regulate the protection of human subjects and the authority to impose penalties for violations of these regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Food, Drug, and Cosmetic Act (FD&C Act) prohibits the failure to establish or maintain any record or make any report required under section 505(i) and the failure or refusal to comply with any requirement under 520(g).",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "21 U.S.C. § 331(e) “The FD&C Act and implementing regulations allow FDA to seek administrative, civil, and criminal penalties for violations of section 301 of the FD&C Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "21 U.S.C. § 303(a); §§ 312.44(b)(1)(ix), 312.70(a), 812.30(b)(4), 812.119(a), 56.121(b).” 76 FR 256 at 265.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Where can I find general information about FDA informed consent requirements?",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s Office of Good Clinical Practice maintains a website with relevant information .",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(Tel) 301-796-8340 gcp.questions@fda.hhs.gov http://www.fda.gov/ScienceResearch/SpecialTopics/RunningClinicalTrials/default.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. Introduction FDA has prepared this guidance in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. Background In the Federal Register (FR) of January 4, 2011 (76 FR 256), FDA published a final regulation (21 CFR § 50.25(c)) amending the current informed consent regulations to require that informed consent documents and processes for applicable drug (including biological products) and device clinical trials include a specific statement that clinical trial information will be entered into a databank.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. Questions and Answers on Informed Consent Elements (21 CFR § 50.25(c)) 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For applicable clinical trials initiated on or after March 7, 2012, informed consent documents must be in compliance with the new requirement in 21 CFR § 50.25(c) and include a specific statement that refers to the trial’s description on www.ClinicalTrials.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This law also provided for mandatory registration and results reporting of certain applicable clinical trials on www.ClinicalTrials.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The statement is the means by which the statute provided for investigators/sponsors to inform applicable clinical trial participants of the availability of the clinical trial information on the public website located at www.ClinicalTrials.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s final rule refers to an “applicable clinical trial”—what is an “applicable clinical trial” and how do I know if my trial is an “applicable clinical trial?” FDAAA provided a definition of “applicable clinical trial” in 42 U.S.C. § 282(j)(1)(A). “Applicable clinical trials” generally include controlled interventional studies (with one or more arms) of drugs, biological products, or devices that are subject to FDA regulation, meaning that the trial has one or more sites in the United States, involves a drug, biologic, or device that is manufactured in the United States (or its territories), or is conducted under an investigational new drug application (IND) or investigational device exemption (IDE).",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NIH/NLM has the statutory authority to interpret the definition of “applicable clinical trial,” and provides a discussion of the current thinking on the meaning of the term at http://prsinfo.clinicaltrials.gov/fdaaa.html.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What clinical trials are specifically excluded from the definition of “applicable clinical trials?” For devices, small feasibility trials and larger clinical trials of prototype devices with a primary measure of feasibility rather than health outcomes are not applicable clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under current guidance contained on NIH’s website at http://prsinfo.clinicaltrials.gov/ElaborationsOnDefinitions.pdf, a device trial is not an applicable device clinical trial when the trial includes only de-identified human specimens and does not include “human subjects” (a requirement to be considered an applicable clinical trial).",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(See, Guidance on Informed Consent for In Vitro Diagnostic Device Studies Using Leftover Human Specimens that are Not Individually Identifiable, April 25, 2006 http://www.fda.gov/RegulatoryInformation/Guidances/ ucm127022.htm) For drugs, phase 1 clinical investigations (defined in 21 C.F.R. § 312.21) are not categorized as “applicable clinical trials.” 42 U.S.C. § 282(j)(1)(A)(iii).",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Uncontrolled clinical investigations of drugs or devices also are not considered “applicable clinical trials.” See, also, the responses to questions 3 and 17.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under new 21 CFR 50.25(c), the following statement must be reproduced word-for-word in informed consent documents for applicable clinical trials: “A description of this clinical trial will be available on http://www.ClinicalTrials.gov, as required by U.S. Law.",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This Web site will not include information that can identify you.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can search this Web site at any time.” 7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The four required sentences fulfill the need for a standardized, specific statement concerning the availability of trial data on www.ClinicalTrials.gov for every applicable clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After much careful thought, consideration of all comments submitted to the proposed rule docket, and input from Institutional Review Board (IRB) members, clinical trial directors, ethicists, and communication experts, we formulated the statement provided in the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a clinical trial is not subject to the rule, do investigators have to inform trial participants about the availability of clinical trial information on www.ClinicalTrials.gov?",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No, if the clinical trial is not subject to the rule (not an applicable clinical trial), then investigators/sponsors do not need to inform participants about the availability of information on the www.ClinicalTrials.gov website.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The required statement should not be included in informed consent documents or processes for clinical trials that are not applicable clinical trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, if investigators/sponsors independently believe that reporting data on www.ClinicalTrials.gov may influence subjects’ willingness to participate, nothing in this regulation prevents investigators/sponsors from voluntarily reporting trial data and informing trial participants in an appropriate manner.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Should investigators/sponsors include the statement in consent documents for a trial that is not an “applicable clinical trial?” Because U.S. law only requires that applicable clinical trials be submitted to www.ClinicalTrials.gov, the new statement only applies to the legal requirements for applicable clinical trial informed consent documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Again, the new rule does not prevent investigators from voluntarily reporting data from clinical trials that do not meet the definition of an applicable clinical trial to www.ClinicalTrials.gov and sharing that information with participants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s Office of Good Clinical Practice maintains a website with relevant information and links to other websites at http://www.fda.gov/ScienceResearch/SpecialTopics/RunningClinicalTrials/default.htm.",
+      "align_score": null
+    }
+  ]
+}

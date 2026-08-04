@@ -1,0 +1,91 @@
+{
+  "document_id": "ee_kct_0003",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_2019 Novel Coronavirus Disease Outbreak and Molecular Genetic Characteristics of Severe Acute Respiratory Syndrome-Coronavirus-2",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "2019 Novel Coronavirus Disease Outbreak and Molecular Genetic Characteristics of Severe Acute Respiratory Syndrome-Coronavirus-2",
+    "title_en": "2019 Novel Coronavirus Disease Outbreak and Molecular Genetic Characteristics of Severe Acute Respiratory Syndrome-Coronavirus-2",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "코로나바이러스감염증-19) / Coronavirus Disease (COVID-19 / 국내 / 2020-03-09",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Abstract The 2019 novel coronavirus disease (COVID-19) outbreaks that emerged in Wuhan city, Hubei province, have led to a formidable number of confirmed cases that resulted in >5,700 deaths globally, including 143 countries in all 6 continents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The World Health Organization declared a Public Health Emergency of International Concern with a very high level of global risk assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Severe acute respiratory syndrome (SARS)-coronavirus-2 (SARS-CoV-2), the agent of COVID-19, has >79% nucleotide sequence homology to SARS-CoV; therefore, both belong to the genus betacoronavirus and subgenus sarbecovirus.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The S1 domains of the two appeared to share the cellular receptor ACE2, but revealed a much higher S1-ACE2 binding affinity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As seen in many other human coronaviruses, SARS-CoV-2 also shows respiratory infection, but the basic reproductive number ( R 0 ) in transmission and the clinical latency are quite dissimilar from those of SARS- or MERS-CoVs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many scientists infer that the time point of cross-barrier transfer from bats to mediate animals or to humans should be a rather recent event based on the full-length genome analyses obtained from the very first patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Copy-choice polymerization, which often leads to a significant genome recombination rate in most coronaviruses, predicts the continued emergence of novel coronaviruses.",
+      "align_score": null
+    }
+  ]
+}

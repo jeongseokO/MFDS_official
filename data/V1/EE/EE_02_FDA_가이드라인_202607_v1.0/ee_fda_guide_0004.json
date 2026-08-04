@@ -1,0 +1,1180 @@
+{
+  "document_id": "ee_fda_guide_0004",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "CVM GFI #201 SECG for The Index of Legally Marketed Unapproved New Animal Drugs for Minor Species July 2014__be84d7930e",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "#201",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "GUIDANCE FOR INDUSTRY",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SMALL ENTITIES COMPLIANCE GUIDE",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Index of Legally Marketed Unapproved New Animal Drugs for Minor Species (This guidance replaces the version dated September 1, 2010.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance updates contact information and reflects minor formatting changes.)",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit comments on this guidance at any time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room 1061, Rockville, MD 20852.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit electronic comments on the guidance to All comments should be identified with Docket No. FDA-2010-D-",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For questions regarding this guidance document, contact Office of Minor Use & Minor Species Animal Drug Development (HFV-50), inary Medicine, Food 00 Standish Place, Rockville, MD 20855, 240-402-0565; email:",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Communications Staff (HFV-12), Center for Veterinary Medicine, Food and Drug Administration, 7519 Standish Place,",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry Small Entities Compliance Guide",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance represents the Food and Drug Administration’s (FDA’s) current thinking on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not create or confer any rights for or on any person and does not operate to bind FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you want to discuss an alternative approach, contact the FDA staff responsible for implementing this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you cannot identify the appropriate FDA staff, call the appropriate number listed on the title page of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Background",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On December 6, 2007 (72 FR 69108), FDA published a final rule in the Federal Register, entitled “Index of Legally Marketed Unapproved New Animal Drugs for Minor Species.” This final rule implements section 572 of the Federal Food, Drug, and Cosmetic Act (FFDCA), which provides for a public index listing of legally marketed unapproved new animal drugs for minor species of animals (species other than cattle, horses, swine, chickens, turkeys, dogs, and cats).",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Within limitations established by the statute, such indexing provides a basis for legally marketing an unapproved new animal drug intended for use in a minor species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA has prepared this Small Entities Compliance Guide in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996 (Public Law 104-121).",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This document is intended to provide guidance on the requirements of Title 21, Code of Federal Regulations, new Part 516, subpart B.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word should in Agency guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. Purpose",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is Indexing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indexing refers to the status that certain new animal drugs can achieve under the provisions of section 572 of the Federal Food, Drug and Cosmetic act (FFDCA or the act), which were added to the act by the Minor Use and Minor Species Animal Health Act of 2004 (MUMS act) (21 U.S.C. § 360ccc-1, Index of Legally Marketed Unapproved New Animal Drugs for Minor Species).",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The purpose of indexing is to allow an additional means of legally marketing new animal drugs intended for use only in minor species and that have not been approved or conditionally approved through the new animal drug approval process under section 512 or the conditional approval process under section 571 of the act for the same intended use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. Questions and Answers",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Which animal drugs are eligible for Indexing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Only new animal drugs intended for use in non-food producing minor species are eligible for indexing, except that new animal drugs intended for use in early, non-food life stages of some food-producing minor species may be eligible for indexing under very limited circumstances (sec. 572(a)(1) of the act) (21 U.S.C. § 360ccc-1(a)(1)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An example might be the treatment of non-edible fish eggs of edible fish species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Major species are dogs, cats, horses, cattle, swine, turkeys, and chickens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All other species (other than humans) are minor species (sec. 201(nn) of the act) (21 U.S.C. § 321(nn)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Drugs intended for use in hundreds of non-food producing minor species may be eligible for indexing; for example, drugs intended for use in most minor species companion animals (such as ferrets, hamsters, pet birds, or ornamental fish), most minor species laboratory animals, and most minor species maintained in zoos or similar facilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A new animal drug cannot be indexed if it is already approved or conditionally approved in the same dosage form for the same intended use in the same minor species (sec. 572(c)(2)(A) of the act) (21 U.S.C. § 360ccc-1(c)(2)(A)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An animal drug that is contained in or is a product of a transgenic animal cannot be indexed (sec. 572(a)(2) of the act) (21 U.S.C. § 360ccc-1(a)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How does the Indexing process work?",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The basic elements of the overall indexing process are relatively straight-forward.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You must go through three steps or processes in order to add a new animal drug to the index (sec. 572(c) and (d) of the act) (21 U.S.C. § 360ccc-1(c) and (d)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After a new animal drug is indexed, there are two processes to assure continued safety and effectiveness while the indexed new animal drugs are on the market (sec. 572(e)(3) and (i) of the act) (21 U.S.C. § 360ccc-1(e)(3) and (i)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Step 1 – Determination of Eligibility: The first step in the indexing process involves a request for the FDA to determine that a specific new animal drug for one or more intended uses is eligible for indexing (sec. 572(c) of the act) (21 U.S.C. § 360ccc- 1(c)) (21 CFR 516.129).",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this step, the agency needs information from the requestor to characterize the nature of the drug proposed for indexing and to support a determination of several aspects of product safety as well as the requestor’s manufacturing capability, including:",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) Identification of the minor species for which use is intended;",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2) Information regarding drug components and composition;",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3) A statement of intended use(s);",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4) 5) 6) 7) 8) 9)",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A statement of proposed conditions of use, including dosage, route of administration, contraindications, warnings, etc.; A brief discussion of the need for the drug; An estimate of anticipated annual distribution of the drug expressed as total quantity of active ingredient; Information to establish that the drug is intended for use only in: non-food producing minor species where there is a reasonable certainty that humans or food- producing animals will not consume the treated animal; or an early, non-food life stage of a food-producing minor species in a hatchery, tank, or pond where there is information to demonstrate food safety in accordance with sec. 512(b) of the FFDCA (21 U.S.C. § 360(b)); A description of manufacturing methods and controls that shows the requestor understands current good manufacturing practices (cGMPs); An environmental assessment or a claim for categorical exclusion from an environmental assessment (see 21 CFR Part 25);",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "10) Information to support safety to individuals exposed to the drug during manufacture and use;",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "11) The name and address of the contact person or permanent-resident U.S. agent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Step 2 - Establishing an Expert Panel: If a new animal drug is determined to be eligible for indexing, the second step in the indexing process is for a requestor to identify a panel of at least three experts qualified to review the target animal safety and effectiveness of the specified new animal drug for its intended use(s).",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The names and qualifications of potential panelists (21 CFR 516.141(c)(2)) and information regarding any potential conflicts of interest (21 CFR 516.141(g)(3)) must be submitted to the agency for a determination of whether the proposed panel is acceptable to FDA to review the specified new animal drug for its intended use(s).",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Panel members may be paid a reasonable fee for services by the requestor (21 CFR 516.141(g)(4)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They will not be paid by the FDA (sec. 572(d)(3) of the act) (21 U.S.C. § 360ccc-1(d)(3)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When a potential qualified expert panel has been identified, the requestor must provide potential panel members with a copy of section 572 of the FFDCA and a description of their intended duties and responsibilities, obtain from each potential panel member a comprehensive curriculum vitae and certification that they have read and understood the information provided to them, and inform each potential panel member of the need to provide information regarding potential conflict of interest to the FDA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information obtained from panel members, must then be submitted to the FDA for review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Once a potential panel is accepted by FDA, the requestor must provide the panel with all information, including anecdotal information, known to the requestor that is relevant to a determination of the target animal safety and effectiveness of the new animal drug, and the requestor must notify FDA of the name of the panel leader (21 CFR",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "516.141(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Expert panel members must (21 CFR 516.141(e)):",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) 4) assure, and certify to the requestor and the agency, that no conflict of interest exists with respect to the particular new animal drug under review by the panel; act in accordance with generally accepted professional and ethical business practices; review all relevant available information regarding the safety and effectiveness of the new animal drug under review; participate in the preparation of, and sign or otherwise approve in writing, a written report of the findings of the panel.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The written report of the panel must include (21 CFR 516.143):",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) 4) 5) a description of the panel’s evaluation of all information reviewed; citations to or summaries of all information reviewed; the panel’s opinion regarding whether the benefits of the new animal drug reviewed outweigh the risks to the target animal, taking into account the harm being caused by the absence of an approved or conditionally approved new animal drug for the intended use in the minor species in question and, if it is the unanimous opinion of the panel that benefits outweigh risks; draft labeling that includes conditions of use deemed necessary by the panel to assure that the benefits of the reviewed new animal drug outweigh the risks; a recommendation regarding whether use of the reviewed new animal drug should be limited to the supervision of a licensed veterinarian.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Step 3 – Request for addition to the Index: The requestor must forward the qualified expert panel’s findings to the FDA for review and concurrence together with the following (21 CFR",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "516.145):",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) a copy of FDA’s written determination of eligibility for indexing;",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2) a copy of FDA’s written determination that the qualified expert panel is acceptable;",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3) a proposed index entry meeting the requirements of 21 CFR 516.157;",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4) proposed labeling;",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5) 6) 7) 8) 9) anticipated annual distribution of the new animal drug; a written commitment to manufacture the new animal drug in accordance with cGMPs; a written commitment to label and promote the new animal drug only in accordance with the index entry; the name and address of the contact person or permanent-resident U.S. agent; a draft Freedom of Information summary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The agency will file a request for indexing, if it meets the requirements of 21 CFR 516.145, and will grant a request for addition to the index provided it meets all of the following conditions (21 CFR 516.149):",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) 4) 5) 6) the same drug in the same dosage form for the same intended use is not approved or conditionally approved; there is no new information indicating that the new animal drug no longer meets the conditions for eligibility for indexing; the request for indexing contains all of the information required by 21 CFR 516.145; the qualified expert panel continues to meet all of the selection criteria in 21 CFR 516.141; the written report is sufficient to permit FDA to determine that the benefits of using the new animal drug for the proposed use in a minor species outweigh its risks to the target animal, taking into account the harm caused by the absence of an approved or conditionally-approved new animal drug for the minor species in question; the request does not contain any untrue statement of a material fact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Index entry will be made publicly available on the FDA Website and each index listing will identify: the holder of the listing and the new animal drug, the intended use(s) and conditions of use of the new animal drug, a copy of the labeling and the FOI summary, and any conditions or limitations regarding the use of the new animal drug (21 CFR 516.157).",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After a new animal drug is indexed, the holder of an index listing will need to maintain records of all information pertinent to the safety or effectiveness of the new animal drug, and will also need to submit reports of adverse events, manufacturing defects and other information associated with the new animal drug as follows (21 CFR 516.165):",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) 2) 3) to the nearest FDA District Office or resident post, a “three-day indexed drug field alert report” regarding any product or manufacturing defect that may result in serious adverse drug events within three working days of learning of the defect; to the Director, OMUMS, a “fifteen-day indexed drug alert report” on each serious, unexpected adverse drug event regardless of the source of the information within fifteen working days of learning of the event; to the Director, OMUMS, on or within 60 days after the anniversary date of the letter granting a request for indexing, an “annual indexed drug experience report” containing the number of units of each size, strength or potency distributed during the reporting period, a summary of any changes in labeling or manufacturing processes during the reporting period (and copies of labeling if revised), any non- clinical laboratory studies and clinical data, reports of adverse drug experiences, and any other information pertinent to the safety or effectiveness of the new animal drug not previously reported.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If holders of index listings need to change the conditions of an existing index listing due to adverse drug events or product/manufacturing defects (urgent changes) or wish to expand the scope of an index listing, for example, by adding new intended uses or extending existing intended uses to more minor species (significant changes), they must do so by submitting a request to modify the index listing in accordance with the requirements of 21 CFR 516.161.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does my firm need to be registered and my product drug listed as a condition of legally distributing an indexed drug?",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Manufacturers of indexed drugs must register and drug list.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See 21 CFR 207.20 and 207.21 for information regarding registration and drug listing requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do indexed drugs or medicated articles need to comply with cGMPs?",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the case of indexed new animal drugs, requestors are required to provide a description of the manufacturing, processing, and packing process, including methods and controls, for the new animal drug proposed for indexing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This must include sufficient detail for the FDA to determine that the requestor understands cGMPs (21 CFR 516.129(b)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This description will be considerably less lengthy than the information on cGMPs needed in a new animal drug application (NADA) under § 512(b) of the FFDCA, i.e., it may be on the order of a 20 to 30 page description of the manufacturing process rather than the hundreds of pages of information needed to support drug approval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can new animal drugs intended for use in making medicated feeds be indexed?",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indexed drugs may be used to manufacture medicated feed (21 CFR 558.3(b)(2) and 558.5(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indexed drugs for use in feed may either be marketed over- the-counter (OTC) or as veterinary feed directive (VFD) products depending on the conditions of use established by the qualified expert panel and the FDA (21 CFR 516.143(f) and 558.6).",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Are mills that produce feeds from indexed articles subject to feed mill licensing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mills producing animal feeds from indexed drugs are subject to feed mill licensing in accordance with the same criteria that apply to approved new animal drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See 21 CFR 558.3, 558.4, and part 515 for further information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can foreign firms get drugs indexed in the U.S.?",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yes, but foreign firms must have a permanent-resident U.S. agent in accordance with 21 CFR 516.119.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Must I have a Notice of Claimed Investigational Exemption for a New Animal Drug for Index Listing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you need to perform studies to support safety or effectiveness, you must do so under an Investigational New Animal Drug (INAD) file.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Studies performed using a new animal drug intended for investigational use in minor species must be performed in accordance with the requirements of 21 CFR part 511 as modified for the indexing process by 21 CFR 516.125.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, many new animal drugs may be able to be indexed on the basis of currently available information and further investigational studies will not be necessary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Because there is a connection between establishing an INAD file and user fees, see the next question as well.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do animal drug user fees apply to the indexing process?",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are no user fees specifically associated with the indexing process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, if it is necessary to establish an INAD file to provide for investigational studies to support indexing, a waiver of user fees needs to be requested.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Requesting the waiver prior to establishing the INAD file will prevent assessment of any user fees.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Because indexing applies only to products intended for use in minor species, a user fee waiver will be granted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See CVM Guidance for Industry #170 and #173 for information regarding the user fee waiver process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How do I get started with the indexing process?",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Read the regulations appearing at 21 CFR 516.111 to 516.171 carefully, and follow them to the best of your ability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulations describe the indexing process and its various requirements in significant detail.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The agency expects to make additional information regarding the indexing process available in the form of expanded guidance documents as the need arises.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Who can I call for assistance?",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Call the Office of Minor Use & Minor Species Animal Drug Development (OMUMS) at 240-402-0565.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This Office exists for the sole purpose of facilitating the approval, conditional approval or indexing of new animal drugs intended for minor species or minor use in major species.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Office is responsible for designation, indexing, minor use determinations, and outreach to MUMS stakeholders.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "#201 GUIDANCE FOR INDUSTRY SMALL ENTITIES COMPLIANCE GUIDE The Index of Legally Marketed Unapproved New Animal Drugs for Minor Species (This guidance replaces the version dated September 1, 2010.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance updates contact information and reflects minor formatting changes.) Submit comments on this guidance at any time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit electronic comments on the guidance to http://www.regulations.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For questions regarding this guidance document, contact Dorothy Bailey, Office of Minor Use & Minor Species Animal Drug Development (HFV-50), Center for Veterinary Medicine, Food and Drug Administration, 7500 Standish Place, Rockville, MD 20855, 240-402-0565; email: dorothy.bailey@fda.hhs.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Communications Staff (HFV-12), Center for Veterinary Medicine, Food and Drug Administration, 7519 Standish Place, Rockville, MD 20855, and may be viewed on the Internet at http://www.fda.gov/AnimalVeterinary/GuidanceComplianceEnforcement/GuidanceforIn dustry/default.htm or http://www.regulations.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. Background On December 6, 2007 (72 FR 69108), FDA published a final rule in the Federal Register, entitled “Index of Legally Marketed Unapproved New Animal Drugs for Minor Species.” This final rule implements section 572 of the Federal Food, Drug, and Cosmetic Act (FFDCA), which provides for a public index listing of legally marketed unapproved new animal drugs for minor species of animals (species other than cattle, horses, swine, chickens, turkeys, dogs, and cats).",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This document is intended to provide guidance on the requirements of Title 21, Code of Federal Regulations, new Part 516, subpart B. FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. Purpose What is Indexing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. Questions and Answers Which animal drugs are eligible for Indexing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this step, the agency needs information from the requestor to characterize the nature of the drug proposed for indexing and to support a determination of several aspects of product safety as well as the requestor’s manufacturing capability, including: 1) Identification of the minor species for which use is intended; 2) Information regarding drug components and composition; 3) A statement of intended use(s);",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4) A statement of proposed conditions of use, including dosage, route of administration, contraindications, warnings, etc.; 5) A brief discussion of the need for the drug; 6) An estimate of anticipated annual distribution of the drug expressed as total quantity of active ingredient; 7) Information to establish that the drug is intended for use only in: non-food producing minor species where there is a reasonable certainty that humans or food-producing animals will not consume the treated animal; or an early, non-food life stage of a food-producing minor species in a hatchery, tank, or pond where there is information to demonstrate food safety in accordance with sec. 512(b) of the FFDCA (21 U.S.C. § 360(b)); 8) A description of manufacturing methods and controls that shows the requestor understands current good manufacturing practices (cGMPs); 9) An environmental assessment or a claim for categorical exclusion from an environmental assessment (see 21 CFR Part 25); 10) Information to support safety to individuals exposed to the drug during manufacture and use; 11) The name and address of the contact person or permanent-resident U.S. agent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Once a potential panel is accepted by FDA, the requestor must provide the panel with all information, including anecdotal information, known to the requestor that is relevant to a determination of the target animal safety and effectiveness of the new animal drug, and the requestor must notify FDA of the name of the panel leader (21 CFR 516.141(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Expert panel members must (21 CFR 516.141(e)): 1) assure, and certify to the requestor and the agency, that no conflict of interest exists with respect to the particular new animal drug under review by the panel; 2) act in accordance with generally accepted professional and ethical business practices; 3) review all relevant available information regarding the safety and effectiveness of the new animal drug under review; 4) participate in the preparation of, and sign or otherwise approve in writing, a written report of the findings of the panel.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The written report of the panel must include (21 CFR 516.143): 1) a description of the panel’s evaluation of all information reviewed; 2) citations to or summaries of all information reviewed; 3) the panel’s opinion regarding whether the benefits of the new animal drug reviewed outweigh the risks to the target animal, taking into account the harm being caused by the absence of an approved or conditionally approved new animal drug for the intended use in the minor species in question and, if it is the unanimous opinion of the panel that benefits outweigh risks; 4) draft labeling that includes conditions of use deemed necessary by the panel to assure that the benefits of the reviewed new animal drug outweigh the risks; 5) a recommendation regarding whether use of the reviewed new animal drug should be limited to the supervision of a licensed veterinarian.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Step 3 – Request for addition to the Index: The requestor must forward the qualified expert panel’s findings to the FDA for review and concurrence together with the following (21 CFR 516.145):",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) a copy of FDA’s written determination of eligibility for indexing; 2) a copy of FDA’s written determination that the qualified expert panel is acceptable; 3) a proposed index entry meeting the requirements of 21 CFR 516.157; 4) proposed labeling;",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5) anticipated annual distribution of the new animal drug; 6) a written commitment to manufacture the new animal drug in accordance with cGMPs; 7) a written commitment to label and promote the new animal drug only in accordance with the index entry; 8) the name and address of the contact person or permanent-resident U.S. agent; 9) a draft Freedom of Information summary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The agency will file a request for indexing, if it meets the requirements of 21 CFR 516.145, and will grant a request for addition to the index provided it meets all of the following conditions (21 CFR 516.149): 1) the same drug in the same dosage form for the same intended use is not approved or conditionally approved; 2) there is no new information indicating that the new animal drug no longer meets the conditions for eligibility for indexing; 3) the request for indexing contains all of the information required by 21 CFR 516.145; 4) the qualified expert panel continues to meet all of the selection criteria in 21 CFR 516.141; 5) the written report is sufficient to permit FDA to determine that the benefits of using the new animal drug for the proposed use in a minor species outweigh its risks to the target animal, taking into account the harm caused by the absence of an approved or conditionally-approved new animal drug for the minor species in question; 6) the request does not contain any untrue statement of a material fact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) to the nearest FDA District Office or resident post, a “three-day indexed drug field alert report” regarding any product or manufacturing defect that may result in serious adverse drug events within three working days of learning of the defect; 2) to the Director, OMUMS, a “fifteen-day indexed drug alert report” on each serious, unexpected adverse drug event regardless of the source of the information within fifteen working days of learning of the event; 3) to the Director, OMUMS, on or within 60 days after the anniversary date of the letter granting a request for indexing, an “annual indexed drug experience report” containing the number of units of each size, strength or potency distributed during the reporting period, a summary of any changes in labeling or manufacturing processes during the reporting period (and copies of labeling if revised), any non-clinical laboratory studies and clinical data, reports of adverse drug experiences, and any other information pertinent to the safety or effectiveness of the new animal drug not previously reported.",
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "document_id": "ee_kct_0009",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_3D 프린팅 기술의 이해, 유해 인자 노출 평가와 제어",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "3D 프린팅 기술의 이해, 유해 인자 노출 평가와 제어",
+    "title_en": "Understanding Three-dimensional Printing Technology, Evaluation, and Control of Hazardous Exposure Agents",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "3D 프린팅 / 3D Printing / 국내 / 2018",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Journal of Korean Society of Occupational and Environmental Hygiene(한국산업보건학회지)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Volume 28 Issue 3 / Pages.241-256 / 2018 / 2384-132X(pISSN) / 2289-0564(eISSN)",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Journal of Korean Society of Occupational and Environmental Hygiene(한국산업보건학회지)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korean Industrial Hygiene Association (한국산업보건학회)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Objectives: This study aimed to review the characteristics of three-dimensional printing technology focusing on printing types, materials, and health hazards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We discussed the methodologies for exposure assessment on hazardous substances emitted from 3D printing through article reviews.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Methods: Previous researches on 3D printing technology and exposure assessment were collected through a literature review of public reports and research articles reported up to July 2018.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We mainly focused on introducing the technologies, printing materials, hazardous emissions during 3D printing, and the methodologies for evaluation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results: 3D printing technologies can be categorized by laminating type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fused deposition modeling(FDM) is the most widely used, and most studies have conducted exposure assessment using this type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The printing materials involved were diverse, including plastic polymer, metal, resin, and more.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the FDM types, the most commonly used material was polymers, such as acrylonitrile-butadiene-styrene(ABS) and polylactic acids(PLA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These materials are operated under high-temperature conditions, so high levels of ultrafine particles(mainly nanoparticle size) and chemical compounds such as organic compounds, aldehydes, and toxic gases were identified as being emitted during 3D printing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusions: Personal desktop 3D printers are widely used and expected to be constantly distributed in the future.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In particular, hazardous emissions, including nano sized particles and various thermal byproducts, can be released under operation at high temperatures, so it is important to identify the health effects by emissions from 3D printing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, appropriate control strategies should be also considered for 3D printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Keywords",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additive manufacturing ; 3D printing ; filament ; hazards ; exposure",
+      "align_score": null
+    }
+  ]
+}

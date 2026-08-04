@@ -1,0 +1,2332 @@
+{
+  "document_id": "ee_kct_0005",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_3D Printing of Resin Material for Denture Artificial Teeth_ Chipping and Indirect Tensile Fracture Resistance.",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "3D Printing of Resin Material for Denture Artificial Teeth: Chipping and Indirect Tensile Fracture Resistance.",
+    "title_en": "3D Printing of Resin Material for Denture Artificial Teeth: Chipping and Indirect Tensile Fracture Resistance",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "3D 프린팅 / 3D Printing / 국외 / 2026",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3D printing of denture artificial teeth with resin materials is worthy of study in a novel way.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study evaluated chipping and indirect tensile fracture resistance of 3D printing resin material (Dentca 3D printing denture teeth resin) compared with conventionally prefabricated resin denture teeth (Premium-8, Surpass, SR-Orthosit-PE, and Preference).",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One hundred tooth specimens were prepared for testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed tooth specimens were printed at a 50 µm layer thickness with methacrylate-based photopolymerized resin by stereolithography 3D printing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chipping and indirect tensile fracture tests were conducted at a speed of 1 mm/min until fracture.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The indirect tensile fracture loads of the 3D printed resin teeth were higher than those of Premium-8, Surpass, and SR-Orthosit-PE, and lower than those of Preference teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Regarding chipping resistance, the 3D printed resin teeth were not different from Surpass and SR-Orthosit-PE, and were lower than Premium-8 and Preference teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed resin teeth exhibited vertical fracture of the loaded cusp without deformation in chipping.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed resin teeth showed simultaneous fracture of two cusps in indirect tensile fracture, unlike other teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The results of this study suggest that 3D printing technology using resin materials provides adequate fracture resistance for denture artificial tooth use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Computer-aided design/computer-aided manufacturing (CAD/CAM) systems are widely used in dentistry, mainly for the fabrication of inlays, crowns, fixed partial dentures, and implant prostheses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recently, CAD/CAM technology has been applied to fabrication of complete dentures, offering many advantages to dentists and patients over conventional complete dentures [ 1 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It allows a reduced number of appointments, and spare dentures are more easily available, as digital data are saved [ 2 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, the laboratory work can be completed more conveniently and cost-effectively than by the traditional methods [ 3 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One of the pioneer CAD/CAM manufactured dentures for the treatment of edentulous patients is 3D printed dentures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The integration of digitalized modeling, computational optimization, and 3D printing procedures, suggests a novel method for denture design and fabrication [ 2 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed denture uses additive technology to create a denture following digital design by complete denture process (Dentca denture; Dentca TM , Torrance, CA, USA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This 3D printing technology for dentures makes not only denture base, but denture teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These 3D printed teeth are made from methacrylate-based photopolymerized resin that is processed and cured by 3D printing only [ 4 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Denture artificial teeth and denture base are 3D printed separately, and then the printed teeth are bonded to the printed denture base using a light-cured bonding agent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Compared to traditional methods of making dentures by compression molding and hot water processing, 3D printing technology of manufacturing dentures is a new way and needs to be studied.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If this technology is well studied and developed, 3D printed denture enables more efficient clinical adaptation which minimizes patient discomfort and potentially reduces long-term residual bone resorption [ 4 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Despite the many advantages of CAD/CAM dentures, if they are not well designed, they may show concerns, such as the short borders of denture bases and a lack of close tissue contact, which reduces retention [ 5 , 6 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, the mechanical properties of 3D printed denture teeth manufactured by CAD/CAM are, so far, unknown.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Denture artificial teeth have been made chiefly from resin materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The improvement of dental resin materials led to successful clinical application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The material grew from an inferior resin restorative, into the material of choice for both esthetic restorative treatment and removable denture prostheses [ 7 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This advancement was driven forward by improvements of the material, such as development of new monomers, filler technologies, and self-healing capacity [ 8 , 9 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One of the developments has focused on the filler systems, leading to improvements mainly in mechanical properties [ 10 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Composite resin with fillers was developed in an effort to achieve greater wear resistance than acrylic resin teeth [ 11 ], and to be less abrasive to human enamel antagonists than ceramic teeth [ 12 , 13 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Alternative monomers were adopted to reduce polymerization shrinkage and stress [ 14 , 15 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recently, self-healing materials were introduced capable of restoring structure stability after damage happens [ 16 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Durability is an important property of dental materials, therefore, autonomous healing in oral cavities is highly desirable [ 9 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Denture artificial teeth in removable prostheses frequently fracture or chip [ 17 , 18 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In particular, where single complete denture opposes natural teeth or implant-supported overdenture, fracture or chipping of the denture teeth are very common complications [ 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In studies on implant-retained complete dentures in edentulous patients, the most frequent complication was fracture of the denture teeth [ 18 , 20 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It was also reported that at least one tooth had been changed due to fracture in 11% of the treatment cases for 10 years [ 21 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The current trend of using more implants in removable prostheses requires artificial teeth with high fracture resistance [ 1 , 22 , 23 , 24 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many manufacturers have attempted to fabricate denture teeth with improved mechanical properties, including higher fracture resistance [ 19 , 25 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Resin materials provided increased fracture resistance and mechanical properties through the use of a higher degree of cross-linking between the polymers and the use of special pre-polymers (for example, Premium-8; Heraeus Kulzer GmbH, Hanau, Germany) [ 26 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The addition of inorganic fillers to the polymer matrix was used for the improvement of mechanical properties and wear resistance (for examples, SR-Orthosit-PE, Ivoclar Vivadent AG, Schaan, Liechtenstein; Surpass, GC Co., Tokyo, Japan) [ 27 , 28 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, as fracture of denture teeth still remains problematic, there is a need for denture teeth manufactured using novel methods which can endure high load and force.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many studies on the fracture characteristics of dental restorative materials have been made on mode I fracture toughness, and studies on mixed mode bond strength have been actively conducted recently [ 29 , 30 , 31 , 32 , 33 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dental restorations are subjected to combined shear and tensile loads due to forces from mastication [ 8 , 32 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Due to this complexity, some previous studies reported that traditional fracture criteria did not accurately predict the fracture results of dental materials and new methods such as extended maximum tangential strain criterion showed more accurate data predictions [ 34 , 35 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since restorations fabricated and delivered at the dental clinics are not mass-produced but patient-customized, 3D printing manufacturing of denture artificial teeth is worthy, and this technology has received more attention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To confirm the clinical application and its effectivity of 3D printing material, it is necessary to investigate whether it has appropriate physical properties from a clinical point of view.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Biomechanical characteristics of 3D printed denture teeth have not been reported yet, comparing those of conventionally manufactured denture teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus, it is required to evaluate clinical perspective fracture resistance of 3D printed denture teeth compared with conventionally manufactured denture artificial teeth used in dental field.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The purpose of the present study was, therefore, to compare 3D printed denture teeth with conventional types of denture teeth, in regard to fracture resistance of chipping fracture and indirect tensile fracture tests.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The null hypothesis was that there would be no difference in the fracture resistance among the denture artificial teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2.1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation 3D printed denture teeth and four different prefabricated denture teeth were used in this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed resin teeth were made of methacrylate-based photopolymerized resin (Dentca 3D printing denture tooth resin; Dentca TM , Torrance, CA, USA), according to the size and shape of the prefabricated denture maxillary first premolar tooth (Preference; Candulor AG, Glattpark, Switzerland) ( Figure 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3D printed denture artificial tooth manufacturing procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Prefabricated artificial denture tooth to replicate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Original tooth was scanned with desktop scanner.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( c ) Shape of the scanned tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( d ) Digital tooth file was loaded to 3D printer slicing software.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( e ) Tooth was 3D printed from the methacrylate-based photopolymerized resin material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( f ) Printed tooth was cleaned and cured in the post-curing machine.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Digital tooth file was uploaded to the 3D-printer software to prepare the pre-processing information for printing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The resin was poured into a 3D-printer (Zenith 3D-printer; Dentis Corp., Daegu, Korea), and teeth were printed layer by layer, also called stereolithography (SLA) technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After being 3D printed at a 50 µm layer thickness, the teeth were cleaned with isopropanol and cured for a further 40 min by immersion into glycerin in the post-curing oven (UV Honle Sol 500; Honle UV America, Inc., Marlboro, MA, USA) to react the remaining monomers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As conventional types of prefabricated denture teeth, the maxillary first premolar teeth of Premium-8 (Heraeus Kulzer GmbH), Surpass (GC Co.), SR-Orthosit-PE (Ivoclar Vivadent AG), and Preference (Candulor AG) were selected for the current study ( Table 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Resin denture artificial teeth investigated in this study.*",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2.2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chipping and Indirect Tensile Fracture Testing Chipping and indirect tensile fracture tests were conducted to evaluate the strength from the clinical aspect of the prepared tooth specimens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Both tests were performed according to previous studies [ 24 , 36 , 37 , 38 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the chipping test, equipment was designed so that the denture tooth specimen was located at a specific position, and did not move when receiving chipping force, prototyped by 3D printing and, finally, manufactured into metal ( Figure 2 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A pilot experiment confirmed that the tooth specimen was immobilized during the chipping experiment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The loading rod of the equipment contacting the denture tooth specimen had a hemispherical end that applied a load to the buccal cusp tip of the tooth by point-to-point contact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The bottoms of the denture teeth were ground to ensure a height of 7 mm from the base of the tooth to the buccal cusp and 6 mm to the palatal cusp, in order to apply the force only to the buccal cusp and to prevent the possibility of contact of the palatal cusp while loading ( Figure 2 a).",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The denture tooth specimen was secured to the equipment, which was mounted on a universal testing machine (Model 4465; Instron, Canton, MA, USA), and loaded at a speed of 1 mm/min.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The load at which the chipping occurred was measured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The test was repeated 10 times for each type of the denture tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chipping test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Schematic drawing of the equipment manufactured for chipping experiment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The equipment was made into metal, and designed to apply loads to the buccal cusp tip of the denture tooth by point-to-point contact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Photograph of a specimen placed for chipping test of this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The method used to measure indirect tensile fracture strength is shown in Figure 3 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The prepared denture teeth were embedded with a self-polymerizing resin in cylindrical plastic molds.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All embedded teeth in the specimens had a height of 6 mm from the base of the tooth to the buccal and palatal cusps, in order to apply the pressing force to surfaces at an equal level ( Figure 3 a).",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The specimen was positioned and secured to the assembly of the universal testing machine (Model 4465; Instron).",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A 4 mm diameter round metal bar was connected to the end of the loading rod of the machine, and fixed during loading ( Figure 3 b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The round bar was positioned to touch both cusp-slopes of the denture tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Load was applied at a speed of 1 mm/min until fracture occurred.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The load at which the fracture occurred was measured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ten samples were tested per each type of the denture tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indirect tensile fracture test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Schematic drawing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Load was applied between cusps with a round metal bar to which an upper rod was connected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This was designed to apply force to surfaces at equal levels.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Photograph of a specimen placed for indirect tensile fracture test of this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2.3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Qualitative Analysis of the Fracture and Statistical Analysis After each test, the fractured areas of the specimens were observed with field emission scanning electron microscopy (FESEM) (Hitachi S-4700; Hitachi, Ltd., Tokyo, Japan).",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The values from the groups were compared using one-way analysis of variance with Tukey’s honestly significant difference multiple comparisons test in SPSS (IBM Corp., New York, NY, USA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "2. Materials and Methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The significance level was set at p < 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3D printed denture teeth and four different prefabricated denture teeth were used in this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed resin teeth were made of methacrylate-based photopolymerized resin (Dentca 3D printing denture tooth resin; Dentca TM , Torrance, CA, USA), according to the size and shape of the prefabricated denture maxillary first premolar tooth (Preference; Candulor AG, Glattpark, Switzerland) ( Figure 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3D printed denture artificial tooth manufacturing procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Prefabricated artificial denture tooth to replicate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Original tooth was scanned with desktop scanner.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( c ) Shape of the scanned tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( d ) Digital tooth file was loaded to 3D printer slicing software.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( e ) Tooth was 3D printed from the methacrylate-based photopolymerized resin material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( f ) Printed tooth was cleaned and cured in the post-curing machine.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Digital tooth file was uploaded to the 3D-printer software to prepare the pre-processing information for printing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The resin was poured into a 3D-printer (Zenith 3D-printer; Dentis Corp., Daegu, Korea), and teeth were printed layer by layer, also called stereolithography (SLA) technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After being 3D printed at a 50 µm layer thickness, the teeth were cleaned with isopropanol and cured for a further 40 min by immersion into glycerin in the post-curing oven (UV Honle Sol 500; Honle UV America, Inc., Marlboro, MA, USA) to react the remaining monomers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As conventional types of prefabricated denture teeth, the maxillary first premolar teeth of Premium-8 (Heraeus Kulzer GmbH), Surpass (GC Co.), SR-Orthosit-PE (Ivoclar Vivadent AG), and Preference (Candulor AG) were selected for the current study ( Table 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "2.1. Computer-Assisted Designing and 3D Printing for Denture Tooth Specimen Preparation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Resin denture artificial teeth investigated in this study.*",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chipping and indirect tensile fracture tests were conducted to evaluate the strength from the clinical aspect of the prepared tooth specimens.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Both tests were performed according to previous studies [ 24 , 36 , 37 , 38 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the chipping test, equipment was designed so that the denture tooth specimen was located at a specific position, and did not move when receiving chipping force, prototyped by 3D printing and, finally, manufactured into metal ( Figure 2 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A pilot experiment confirmed that the tooth specimen was immobilized during the chipping experiment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The loading rod of the equipment contacting the denture tooth specimen had a hemispherical end that applied a load to the buccal cusp tip of the tooth by point-to-point contact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The bottoms of the denture teeth were ground to ensure a height of 7 mm from the base of the tooth to the buccal cusp and 6 mm to the palatal cusp, in order to apply the force only to the buccal cusp and to prevent the possibility of contact of the palatal cusp while loading ( Figure 2 a).",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The denture tooth specimen was secured to the equipment, which was mounted on a universal testing machine (Model 4465; Instron, Canton, MA, USA), and loaded at a speed of 1 mm/min.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The load at which the chipping occurred was measured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The test was repeated 10 times for each type of the denture tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chipping test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Schematic drawing of the equipment manufactured for chipping experiment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The equipment was made into metal, and designed to apply loads to the buccal cusp tip of the denture tooth by point-to-point contact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Photograph of a specimen placed for chipping test of this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The method used to measure indirect tensile fracture strength is shown in Figure 3 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The prepared denture teeth were embedded with a self-polymerizing resin in cylindrical plastic molds.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All embedded teeth in the specimens had a height of 6 mm from the base of the tooth to the buccal and palatal cusps, in order to apply the pressing force to surfaces at an equal level ( Figure 3 a).",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The specimen was positioned and secured to the assembly of the universal testing machine (Model 4465; Instron).",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A 4 mm diameter round metal bar was connected to the end of the loading rod of the machine, and fixed during loading ( Figure 3 b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The round bar was positioned to touch both cusp-slopes of the denture tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Load was applied at a speed of 1 mm/min until fracture occurred.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The load at which the fracture occurred was measured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ten samples were tested per each type of the denture tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indirect tensile fracture test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Schematic drawing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Load was applied between cusps with a round metal bar to which an upper rod was connected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This was designed to apply force to surfaces at equal levels.",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "2.2. Chipping and Indirect Tensile Fracture Testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Photograph of a specimen placed for indirect tensile fracture test of this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "2.3. Qualitative Analysis of the Fracture and Statistical Analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After each test, the fractured areas of the specimens were observed with field emission scanning electron microscopy (FESEM) (Hitachi S-4700; Hitachi, Ltd., Tokyo, Japan).",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "2.3. Qualitative Analysis of the Fracture and Statistical Analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The values from the groups were compared using one-way analysis of variance with Tukey’s honestly significant difference multiple comparisons test in SPSS (IBM Corp., New York, NY, USA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "2.3. Qualitative Analysis of the Fracture and Statistical Analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The significance level was set at p < 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The results of the chipping test are shown in Table 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The load-to-chipping fracture values measured in Premium-8 (332.82 ± 54.64 N) and Preference (388.87 ± 55.64 N) teeth were significantly higher than those in the 3D printed resin (89.22 ± 14.87 N), Surpass (89.09 ± 33.75 N), and SR-Orthosit-PE (78.82 ± 25.99 N) teeth ( p < 0.05).",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Preference teeth showed significantly higher chipping fracture resistance than Premium-8 teeth ( p < 0.05).",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed resin, Surpass, and SR-Orthosit-PE teeth did not differ significantly from each other.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results of the chipping test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The values from the indirect tensile fracture test are shown in Table 3 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The values of the load-to-tensile fracture was 160.28 ± 8.83 N for the 3D printed resin, 88.01 ± 29.05 N for Premium-8, 76.03 ± 13.38 N for Surpass, 98.29 ± 19.62 N for SR-Orthosit-PE, and 241.26 ± 26.34 N for Preference teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The values of the load-to-tensile fracture were significantly higher in the 3D printed resin and Preference teeth than those in Premium-8, Surpass, and SR-Orthosit-PE teeth ( p < 0.05).",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Preference teeth revealed significantly higher tensile fracture values than the 3D printed resin teeth ( p < 0.05).",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, the tensile fracture values were not statistically significantly different among Premium-8, Surpass, and SR-Orthosit-PE teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results of the indirect tensile fracture test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The failure patterns differed among the denture tooth types, and the fracture patterns showed a similar pattern within each test group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The fracture patterns after the chipping test consisted of two types ( Figure 4 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In 3D printed resin, Surpass, and SR-Orthosit-PE teeth, the fracture started from the inner incline of the loaded cusp near the loading point and progressed downward ( Figure 4 a).",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the other, in Premium-8 and Preference teeth, the cusp was depressed and then the crack appeared at the periphery and spread downward ( Figure 4 b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two aspects of fracture after chipping test (sagittal view).",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Fracture occurred from inner incline of cusp and spread downward along tooth wall.",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Cusp tip was crushed and crack began around the periphery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 5 shows FESEM images of the fractured denture teeth after the chipping test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vertical fracture or fracture lines initiating from the buccal cusp were seen in the 3D printed resin, Surpass, and SR-Orthosit-PE teeth, which showed a buccal chipping fracture of the loaded cusp ( Figure 5 a,e,g).",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In Premium-8 and Preference teeth, there was initial deformation, such as a reverse cone-shaped depression, after which fracture occurred around the loaded buccal cusp ( Figure 5 c,d,i,j).",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 5.",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Scanning electron microscopy images after chipping test (occlusal view).",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) The 3D printed resin teeth (original magnification × 30); ( b ) the 3D printed resin teeth (original magnification × 100); ( c ) Premium-8 (original magnification × 30); ( d ) Premium-8 (original magnification × 100); ( e ) Surpass (original magnification × 30); ( f ) Surpass (original magnification × 100); ( g ) SR-Orthosit-PE (original magnification × 30); ( h ) SR-Orthosit-PE (original magnification × 100); ( i ) Preference (original magnification × 30); ( j ) Preference (original magnification × 100).",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Solid arrow designates fracture, and border arrow points to deformation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The fracture patterns after the indirect tensile fracture test consisted of three types ( Figure 6 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The denture tooth types manifested different failure patterns, and each sample of a denture tooth type exhibited a similar fracture pattern after the indirect tensile test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In Premium-8, Surpass, and SR-Orthosit-PE teeth, the fracture went down along the center of the tooth ( Figure 6 a).",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the 3D printed resin teeth, the fracture started from the inner incline of both cusps near the loading point and spread downward toward cervical area ( Figure 6 b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In Preference teeth, fracture occurred in the middle after the dent of the round bar shape ( Figure 6 c).",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 6.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three aspects of fracture after indirect tensile fracture test (sagittal view).",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Fracture occurred in the middle of the tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Tooth fragments fell off from both cusps near loading point.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( c ) After depression due to metal round bar, a center crack began and spread downwards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FESEM images of the denture teeth after the indirect tensile test are shown in Figure 7 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed resin teeth showed a fracture in which buccal and palatal cusp of the teeth samples were both broken, rather than a fracture along the central groove of the tooth ( Figure 7 b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By contrast, a fracture line was seen along the central groove of Premium-8, Surpass, and SR-Orthosit-PE teeth ( Figure 7 c,e,g).",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In Preference teeth, deformation, such as a round-shaped depression, occurred initially, after which the tooth fractured along the central groove, similar to the fractures in Premium-8, Surpass, and SR-Orthosit-PE teeth ( Figure 7 i,j).",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Scanning electron microscopy images after the indirect tensile test (occlusal view).",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) The 3D printed resin teeth (original magnification × 30); ( b ) the 3D printed resin teeth (original magnification × 100); ( c ) Premium-8 (original magnification × 30); ( d ) Premium-8 (original magnification × 100); ( e ) Surpass (original magnification × 30) ( f ) Surpass (original magnification × 100); ( g ) SR-Orthosit-PE (original magnification × 30); ( h ) SR-Orthosit-PE (original magnification × 100); ( i ) Preference (original magnification × 30); ( j ) Preference (original magnification × 100).",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Solid arrow designates fracture, and border arrow points to deformation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The null hypothesis was rejected because the results according to the denture tooth types differed significantly.",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, fracture modes differed among the denture tooth types, and influenced fracture resistances significantly.",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two damage modes were identified: fracture without distinct deformation; and fracture after deformation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Various contact responses to loading indenters have been reported, from the essentially “brittle mode” (crack-dominant) to the essentially “quasi-plastic mode” (deformation-dominant), which represent the microstructure inherent in the material [ 39 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the chipping test, Preference and Premium-8 teeth showed high fracture strength.",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These two types of denture teeth showed deformation, such as cone-type depression, before fracturing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Figure 5 shows that, after the chipping fracture test, visible quasi-plastic deformation occurred with well-developed fractures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Premium-8 specimen ( Figure 5 c,d), a surface depression was seen, and corresponding subsurface cracks were apparent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Preference specimen ( Figure 5 i,j), the quasi-plastic deformation, at the surface and below the surface, became more apparent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, the other three types of denture teeth, including the 3D printed resin teeth, did not show this pattern.",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the indirect tensile fracture test, the 3D printed resin and Preference teeth showed high fracture strength, with Preference specimens showing quasi-plastic deformation before the fracture.",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed resin, Premium-8, Surpass, and SR-Orthosit-PE teeth did not show quasi-plastic deformation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the indirect tensile test, the fracture pattern of the 3D printed resin teeth was different from other teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Simultaneous fracture of buccal and lingual cusps was observed, rather than central line fracture that occurred in other denture tooth types.",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was also no quasi-plastic depression pattern before fracture in the indirect tensile fracture test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nonetheless, the fracture strength of the 3D printed resin teeth was as high as that of the teeth with quasi-plastic depression.",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This may be because other denture teeth are formed from a combination of different materials, such as enamel material, dentin material, etc., while the 3D printed resin tooth is made entirely of the same material by 3D printing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this study, the denture teeth with a quasi-plastic deformation pattern prior to fracture had higher fracture resistance than those without this pattern.",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The result seems to be due to the deformed shape of the teeth before they broke, which could withstand the load for a longer period of time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a previous chipping fracture test of conventional denture tooth materials, large deformations were noted in soft materials [ 40 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In that study, the material with the highest hardness showed the weakest edge-chipping resistance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bulging deformation and initial tooth split before the main piece chipped off were also exhibited; this was similar to the results of the present study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Characteristically, stiff materials exhibited a more sudden loss of strength than the quasi-plastic materials [ 39 , 41 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ceramic denture teeth are now rarely used; however, denture teeth or bases still chip or fracture [ 21 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fracture and separation of the denture teeth are also a frequent complication in other types of removable prostheses, such as implant-supported prostheses [ 42 , 43 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Denture tooth fracture is related to various factors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The durability and strength of denture prostheses were influenced by the chemical composition of the teeth and the denture base [ 44 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In that study, fractures reportedly occurred in the denture tooth itself (cohesive fracture) rather than between the denture base and the tooth (adhesive fracture).",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus, fractures were mostly affected from fracture strength of the denture teeth themselves [ 22 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Denture teeth are mainly composed of polymethylmethacrylate (PMMA) or urethane dimethacrylate (UDMA) resins.",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The minor components of each type of denture tooth and the size and amount of the filler vary [ 45 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There have been few other studies on the biomechanical aspects of 3D printed resin teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dentca 3D printing denture teeth resin is a material developed specially for additive manufacturing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3D printing of denture teeth is a novel method and uses new materials, therefore, it is necessary to evaluate whether it can be used clinically.",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this study, the 3D printed resin denture teeth were compared with prefabricated resin denture teeth currently used in the dental field.",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The results of this study showed that the 3D printed resin teeth had comparable fracture resistance to some of the conventional prefabricated denture teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One of the goals of material development is to produce materials that are better able to withstand the environmental conditions applied.",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Effort was carried out in defining a practical and theoretically testing framework [ 8 , 46 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Different fracture tests, such as three-point or four-point bending, have been employed, so far.",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, it was reported that the traditional fracture criteria without considering T-stress was not accurate for estimating the crack kinking angles [ 31 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The extended maximum tangential strain criterion, which takes into account the effect of T-strain as well as the singular strain terms, was suggested to obtain more accurate predictions for the mixed fracture mode of dental restorative materials [ 34 , 35 , 47 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To investigate the physical properties of dental restoration, it would be better to measure fracture energy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If 3D printing technology develops and multi-layer artificial teeth can be additively manufactured in the future, further elaborate study is required to carry out through fracture energy analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Previous studies have compared the mechanical properties of various types of conventional denture teeth [ 20 , 22 , 36 , 40 , 42 , 48 , 49 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, the various tests did not provide a full description of the fracture of denture teeth [ 50 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The chipping fracture and the indirect tensile tests used in this study were previously used to examine the mechanical strengths of denture teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In chipping experiments, the load was applied directly onto the cusp of tooth with an indenter using a universal testing machine, and the load at which chipping occurred was measured and compared [ 24 , 36 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Some quantitative indirect tensile fracture strength tests, in which force was applied directly onto buccal and lingual slopes of tooth, have also been described, and fracture strength (N) was recorded as the load at fracture [ 36 , 37 , 38 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional material studies are required on the physical properties of dental restorations manufactured by 3D printing with CAD/CAM.",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Further studies are needed to determine whether mechanical properties of the 3D printed resin teeth can support long-term oral functions to verify the long-term usefulness of the 3D printed teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dynamic cyclic loading with suitable testing devices is also needed to prove the biomechanical stability of the 3D printed resin artificial teeth in the future.",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "5. Conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3D printing combined with CAD/CAM methods can automate fabrication of dentures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "5. Conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printing technology for dentures makes not only denture base but denture teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "5. Conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chipping strength and fracture resistance of the 3D printed resin artificial teeth should be established to address main complications associated with the dentures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "5. Conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3D printed resin teeth and four different prefabricated denture teeth were compared through chipping and indirect tensile fracture tests.",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "5. Conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The prepared denture teeth showed differences in the chipping strength and the indirect tensile fracture resistances, but the 3D printed resin teeth had fracture resistance and biomechanical pattern comparable to the conventionally prefabricated denture teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "5. Conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Within the limits of this in vitro study, manufacturing denture teeth with resin materials by 3D printing can be applicable in a dental clinical context.",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "Author Contributions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conceptualization, J.-H.L.; Methodology, J.-M.P., J.-S.A. and J.-H.L.; Software, J.-M.P. and T.-H.K.; Validation, T.-H.K. and J.-H.L.; Formal Analysis, Y.-J.C. and T.-H.K.; Investigation, Y.-J.C. and J.-S.A.; Resources, J.-H.L.; Data Curation, J.-M.P. and H.-S.C.; Writing—Original Draft Preparation, Y.-J.C. and J.-H.L.; Writing—Review & Editing, T.-H.K., H.-S.C., J.-S.A. and J.-H.L.; Visualization, J.-M.P., T.-H.K. and J.-H.L.; Supervision, J.-H.L. All authors gave final approval and agreed to be accountable for all aspects of the work.",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "Funding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This research received no external funding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The authors declare no conflict of interest.",
+      "align_score": null
+    }
+  ]
+}

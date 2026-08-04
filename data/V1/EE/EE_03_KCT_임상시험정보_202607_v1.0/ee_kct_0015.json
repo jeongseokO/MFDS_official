@@ -1,0 +1,91 @@
+{
+  "document_id": "ee_kct_0015",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_A Case of COVID-19 in a 45-Day-Old Infant with Persistent Fecal Virus Shedding for More Than 12 Weeks",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "A Case of COVID-19 in a 45-Day-Old Infant with Persistent Fecal Virus Shedding for More Than 12 Weeks",
+    "title_en": "A Case of COVID-19 in a 45-Day-Old Infant with Persistent Fecal Virus Shedding for More Than 12 Weeks",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "코로나바이러스감염증-19) / Coronavirus Disease (COVID-19 / 국내 / 2020-10-01",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Go to: Abstract INTRODUCTION CASE REPORT DISCUSSION Notes ACKNOWLEDGEMENTS References Abstract In this report, we describe the case of a SARS-CoV-2 infection (COVID-19) in an infant with mild fever and diarrhea in the absence of respiratory distress.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A 45-day-old male infant with COVID-19 was transferred to our pediatric department.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "He had mild fever and diarrhea at admission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Positive-to-negative nasal swab conversion occurred on the 21st day from the onset of symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, stool swab positivity persisted during the 6-week admission period and for 7 weeks during follow-up at an outpatient clinic after discharge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Negative conversion in a stool specimen occurred on the 142nd day from the onset of symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This case highlights the potential of fecal virus shedding as an important feature of viral transmission in infants and young children.",
+      "align_score": null
+    }
+  ]
+}

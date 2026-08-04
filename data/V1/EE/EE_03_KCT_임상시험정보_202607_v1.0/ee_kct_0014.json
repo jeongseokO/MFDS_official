@@ -1,0 +1,91 @@
+{
+  "document_id": "ee_kct_0014",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_A Brief Telephone Severity Scoring System and Therapeutic Living Centers Solved Acute Hospital-Bed Shortage during the COVID-19 Outbreak in Daegu, Korea",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "A Brief Telephone Severity Scoring System and Therapeutic Living Centers Solved Acute Hospital-Bed Shortage during the COVID-19 Outbreak in Daegu, Korea",
+    "title_en": "A Brief Telephone Severity Scoring System and Therapeutic Living Centers Solved Acute Hospital-Bed Shortage during the COVID-19 Outbreak in Daegu, Korea",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "코로나바이러스감염증-19) / Coronavirus Disease (COVID-19 / 국내 / 2020-02-26",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Go to: Abstract Graphical Abstract Notes ACKNOWLEDGMENTS References Abstract With the epidemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus-2, the number of infected patients was rapidly increasing in Daegu, Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With a maximum of 741 new patients per day in the city as of February 29, 2020, hospital-bed shortage was a great challenge to the local healthcare system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We developed and applied a remote brief severity scoring system, administered by telephone for assigning priority for hospitalization and arranging for facility isolation (“therapeutic living centers”) for the patients starting on February 29, 2020.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fifteen centers were operated for the 3,033 admissions to the COVID-19 therapeutic living centers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Only 81 cases (2.67%) were transferred to hospitals after facility isolation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We think that this brief severity scoring system for COVID-19 worked safely to solve the hospital-bed shortage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Telephone scoring of the severity of disease and therapeutic living centers could be very useful in overcoming the shortage of hospital-beds that occurs during outbreaks of infectious diseases.",
+      "align_score": null
+    }
+  ]
+}

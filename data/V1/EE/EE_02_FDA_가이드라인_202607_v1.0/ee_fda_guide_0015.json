@@ -1,0 +1,3799 @@
+{
+  "document_id": "ee_fda_guide_0015",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "Labeling OTC Human Drug Products; Small Entity Compliance Guide Guidance for Industry May 2009__1b41f40c56",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry Labeling OTC Human Drug Products (Small Entity Compliance Guide)",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "May 2009 OTC",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies are available from:",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Office of Communications Division of Drug Information Center for Drug Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave., Bldg.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "51, rm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2201 Silver Spring, MD 20993-0002 (Tel) 301-796-3400 http://www.fda.gov/cder/guidance/index.htm",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. SCOPE",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(21 CFR 201.66(a)) 2",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IV. DEFINITIONS",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(21 CFR 201.66(b)) 2",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "V. CONTENT REQUIREMENTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(21 CFR 201.66(c)) 2",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "VI. FORMAT LABELING REQUIREMENTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(21 CFR 201.66(d)) 10",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "VII. STANDARD AND MODIFIED LABELING FORMATS",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "VIII.TOPIC-SPECIFIC GUIDANCES 16",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IX. OTHER FDA LABELING REQUIREMENTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "X. IMPLEMENTATION OF THE OTC LABELING REQUIREMENTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "APPENDIX A: SUMMARY OF LABELING REQUIREMENTS AND RELEVANT",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CONTACTS 18",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry1 Labeling OTC Human Drug Products",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance represents the Food and Drug Administration’s (FDA’s) current thinking on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not create or confer any rights for or on any person and does not operate to bind FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you want to discuss an alternative approach, contact the FDA staff responsible for implementing this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you cannot identify the appropriate FDA staff, call the appropriate number listed on the title page of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Food and Drug Administration (FDA) has prepared this guidance in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is intended to help small businesses better understand the new over-the-counter (OTC) labeling requirements set forth in 21 CFR 201.66 and prepare new labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional information is available in the guidance for industry Labeling OTC Human Drug Products Questions and Answers.2",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word should in Agency guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Federal Register of March 17, 1999 (64 FR 13254), the FDA published a final regulation (§ 201.66) establishing standardized content and format for the labeling of OTC drug products (Drug Facts labeling).",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Drug Facts labeling for OTC drug products is intended to make it easier for consumers to read and understand OTC drug product labeling and use OTC drug products safely and effectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1 This guidance has been prepared by the Office of Nonprescription Products in the Center for Drug Evaluation and Research (CDER) at the Food and Drug Administration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 We update guidances periodically.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To make sure you have the most recent version of a guidance, check the CDER guidance Web page at http://www.fda.gov/cder/guidance/index.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Drug Facts labeling regulation in § 201.66 covers all OTC drug and drug-cosmetic products,3 whether marketed under a new drug application (NDA), abbreviated new drug application (ANDA), or OTC drug monograph (or drug product not yet the subject of a final OTC drug monograph).",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A copy of § 201.66 can be found at the Division of Dockets Management Web site.4 The regulation in § 201.66 provides for standardized content and format requirements for the labeling of OTC drug and drug-cosmetic products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regula tion is divided into two main parts: 1) content requirements in paragraph (c) (i.e., headings, subheadings, and the order in which certain information must be listed); and 2) format requirements in paragraph (d) (i.e., graphic specifications).",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance primarily discusses the requirements in paragraphs (c) and (d).",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sections of the guidance track the sections of the regulation and explain the regulation’s provisions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This section explains that the content and format requirements apply to the labeling of all OTC drug products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This scope includes drug products marketed under a final OTC drug monograph, an approved NDA or ANDA, and OTC drug products for which there is no final OTC drug monograph or approved drug application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This section contains definitions of terms, including an explanation of certain printing, typesetting, and graphics terms, applicable to this section of the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "V. CONTENT REQUIREMENTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(21 CFR 201.66(c))5",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This section requires that all OTC drug product labeling contain the following information about the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The information must be organized according to the following headings and must be presented in the following order, as described in § 201.66(c)(1) through (c)(9):",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 The term drug-cosmetic products refers to drug products with both drug and cosmetic attributes; for example, a sunscreen drug product intended for sunscreen (i.e., drug) uses and for moisturizing (i.e., cosmetic) uses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4 See http://www.fda.gov/cder/otc/label/label-fr-reg.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5See Table A in Appendix A for a general summary of content labeling requirements set forth in § 201.66(c).",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•(c)(1) Title6 (Drug Facts or Drug Facts (continued)) •(c)(2) Active ingredient(s) •(c)(3) Purpose(s) •(c)(4) Use(s) •(c)(5) Warning(s) •(c)(6) Directions •(c)(7) Other information •(c)(8) Inactive ingredients •(c)(9) Questions? or Questions or comments?",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(optional)",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This information must appear on the outside container or wrapper of the retail package, or on the immediate container label if there is no outside container or wrapper.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Drug product trade names and company names cannot appear within the Drug Facts box or similar enclosure (§ 201.66(d)(7)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The following specific information for each heading must appear in the Drug Facts section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Title (§ 201.66(c)(1))",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the Drug Facts labeling appears on more than one panel or side of the labeling, the title Drug Facts (continued)7 must appear at the top of each subsequent panel containing such information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See also the guidance for industry Labeling OTC Human Drug Products Using a Column Format for guidance on the title when a column format is used in the drug product’s labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "B. Active ingredient(s) (§ 201.66(c)(2))",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An active ingredient is any component that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The term includes those components that may undergo chemical change in the manufacture of the drug product and be present in the drug product in a modified form intended to furnish the specified activity or effect (§ 201.66(b)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Depending on the type of drug product (oral or topical), the active ingredients can be stated in one of two ways.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As the amount “in each”:",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•[for oral dosage forms] use the dosage unit stated in the directions for use (e.g., tablet, 5 mL teaspoonful)",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "6 The term Title refers to the heading listed at the top of the required OTC drug product labeling, as set forth in § 201.66(c)(1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "7 The word (continued) appears in regular type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•[for topical dosage forms marketed with discrete dosage units] use gram, as stated in §§ 333.110 and 333.120, where the first aid antibiotic active ingredients are stated as an amount in each gram of the drug product",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Drug products marketed without discrete dosage units (e.g., topicals) must state the proportion (rather than the quantity) of each active ingredient (e.g., 1%), unless otherwise provided in an applicable OTC drug monograph or approved drug application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, the OTC anticaries final monograph (21 CFR part 355) lists fluoride active ingredients as a percent fluoride with an available fluoride ion concentration of a certain number of parts per million (ppm).",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Because the concentration expressed in ppm may be confusing to consumers, the available ion concentration must be expressed on the label in fluoride ion percent (i.e., ppm converted to a percent weight to volume notation of available fluoride ion).",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These anticaries products must list under this heading the ingredient percent, followed by fluoride ion concentration in percent notation (e.g., Sodium fluoride 0.24% (0.14% W/V fluoride ion)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For OTC drug products that contain both drug and cosmetic ingredients, the drug ingredients are considered the active ingredients, and the cosmetic ingredients are considered the inactive ingredients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(See §§ 201.66(b)(2) and 201.66(b)(8).)",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "C. Purpose(s) (§ 201.66(c)(3))",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each active ingredient in the drug product is to be followed by a description of the ingredient’s purpose, unless this information is specifically exempted in an OTC drug monograph.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The statement of identity that appears in an applicable OTC drug monograph shall be stated as the purpose of the active ingredient.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If there is no statement of identity or no applicable OTC drug monograph, then we recommend that one of the following factors be used in stating the ingredient’s purpose:",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Its general pharmacological category(ies)",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The principal intended action(s) of the drug",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If two active ingredients in a drug product have the same purpose (e.g., two sunscreen or skin protectant ingredients are present in the drug product), then the purpose can be stated only once as long as the purpose is clearly associated with both active ingredients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(See the example in section VI., Format Labeling Requirements.)",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "D. Use(s) (§ 201.66(c)(4))",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The uses are the specific indications or approved uses for the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For drug-cosmetic products, only the drug-related indications can be included in the Use(s) section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "E. Warning(s) (§ 201.66(c)(5))",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With regard to subject-specific warnings described in §§ 201.66(c)(5)(ii)(A) through (5)(ii)(G), except for the Reye’s syndrome warning, which must appear first when required, there is no required order in which these specific warning statements must appear.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We suggest that manufacturers list the specific warning statements in the order of importance or impact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When applicable, the following information must appear under the respective subheadings in the Warnings section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do not use (§ 201.66(c)(5)(iii))",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information appearing under this subheading includes situations in which consumers should not use the drug product unless a prior diagnosis has been established by a doctor, or for situations in which consumers should not use the drug product under any circumstances regardless of whether a doctor or health care professional is consulted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In some instances, manufacturers need to convert existing warnings to the new Drug Facts labeling format (see § 201.66(a)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, the current warning “Do not use this product on irritated skin, on any area that is infected or reddened, if you are a diabetic, or if you have poor blood circulation” would be formatted to appear after the Do not use subheading as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•on irritated skin •on any area that is infected or reddened •if you are a diabetic •if you have poor blood circulation",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ask a doctor before use if you have (§ 201.66(c)(5)(iv))",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information under this subheading includes all warnings for persons with certain preexisting conditions (excluding pregnancy) and all warnings for persons experiencing certain symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The warnings under this subheading are intended only for situations when consumers should not use the drug product until a doctor is consulted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Examples of such situations include: 1) high blood pressure, heart disease, thyroid disease, glaucoma, diabetes, and other conditions listed in various OTC drug monographs or approved drug applications; and 2) certain types of cough (i.e., persistent or chronic cough such as occurs with smoking, asthma, or emphysema, or if cough is accompanied by excessive phlegm).",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, in the new Drug Facts labeling format, these warnings would appear as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ask a doctor before use if you have •heart disease •cough that occurs with too much phlegm (mucus) •chronic cough that lasts as occurs with smoking, asthma, chronic bronchitis, or emphysema",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ask a doctor or pharmacist before use if you are (§ 201.66(c)(5)(v))",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information under this subheading includes all drug-drug and drug-food interaction warnings.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Examples include: sedatives or tranquilizers with antihistamines and a prescription drug for asthma with an OTC bronchodilator.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When using this product (§ 201.66(c)(5)(vi))",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information under this subheading includes all side effects that consumers may experience and identifies the substances (e.g., alcohol) that could cause a side effect and any activity (e.g., operating machinery, driving a car) that should be avoided while using the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This subheading also includes warnings for drug products in dispensers pressurized by gaseous propellants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We recommend that such information appear in bulleted text format as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•May cause drowsiness [or can appear as: drowsiness may occur] •Alcohol, sedatives, and tranquilizers may increase the drowsiness effect [or can appear as: alcohol, sedatives, and tranquilizers may increase drowsiness] •Do not puncture or incinerate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Contents under pressure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Stop use and ask a doctor if (§ 201.66(c)(5)(vii))",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information under this subheading includes any signs of toxicity or other reactions that would require a patient to immediately stop using the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, the bulleted statement “you get nervous, dizzy, or sleepless” would appear in this section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Any [other] required warnings (§ 201.66(c)(5)(viii))",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This location in the warnings section includes any required warnings in an applicable OTC drug monograph, other OTC drug regulations, or approved drug application that do not fit within one of the other categories.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are a limited number of such warnings.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One such warning is the chlorofluorocarbon (CFC) warning required in certain approved drug applications, which states: “Contains CFC-[insert number] and CFC-[insert number], substances which harm public health and environment by destroying ozone in the upper atmosphere.”8",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pregnancy and related warnings (§ 201.66(c)(5)(ix))",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When applicable, these types of warnings also must be placed in the Warnings section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Warnings may include one or more of the following:",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "8 The CFC warning is a warning statement for drug products containing or manufactured with chlorofluorocarbons or other ozone-depleting substances (see § 201.320).",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The pregnancy/breast-feeding warning in § 201.63(a) •The third trimester warning in § 201.63(e) for drug products containing aspirin or carbaspirin calcium •The third trimester warning in approved drug applications for drug products containing ketoprofen, naproxen sodium, or ibuprofen (if not intended exclusively for use in children)",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "8.Keep out of reach of children and the accidental overdose/ingestion warnings in § 330.1(g) (§ 201.66(c)(5)(x))",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a few special instances, the Keep out of reach of children warning can be omitted (see lipstick with a sunscreen in § 352.52(f)(1)(vi)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The accidental overdose/ingestion warning also can be omitted in some instances (see §§ 331.30(f), 332.30(c), 341.74(f)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "F. Directions (§ 201.66(c)(6))",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Depending on the drug product, the directions can appear completely in a table, as a number of bulleted statements, or as a combination of a table and bulleted statements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, a table format must be used when dosage directions are provided for three or more age groups or populations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dosage directions provided for one or two age groups or populations can be presented using bulleted statements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(See §§ 201.66(d)(4) and 201.66(d)(9).)",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, a table format can be used for two age groups or populations if it helps make the presentation of the information clearer and easier to read.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We recommend that when a combination of a table and bulleted statements is used, the bulleted statements (e.g., “do not use more than directed”) appear before or after the table.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We also recommend that statements such as “shake well” appear as a separate bulleted statement within the directions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example:",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•shake well •drink a full glass (8 oz) of liquid with each dose •do not use more than directed",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "G. Other information (§ 201.66(c)(7))",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information under this heading must contain information not included under the other headings or subheadings, but is required or is made optional under an OTC drug monograph, other OTC drug regulation, or approved drug application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If present and required by the OTC drug regulation to be included in the OTC drug labeling, certain ingredients in OTC drug products (e.g., sodium in § 201.64(c)) must appear as follows: “each (insert appropriate dosage unit) contains: [in bold type] (insert name(s) of ingredient(s) and quantity of each ingredient).” This statement must be the first statement under this heading.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under this heading, phenylalanine/aspartame content required by § 201.21(b), if applicable, must appear as the next bulleted statement as follows: “Phenylketonurics: Contains Phenylalanine (insert quantity) mg per (insert appropriate dosage unit).”",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The tamper-evident statement must be prominently placed on the drug product package to alert consumers about the drug product’s tamper-evident features (21 CFR 211.132).",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The tamper-evident statement describes the tamper-evident feature of the drug product package and advises consumers that, if the feature is breached or missing when the drug product is purchased, tampering may have occurred.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tamper-evident packaging with an appropriate labeling statement will be more likely to protect consumers because the consumer will be in a better position to detect tampering when he or she has knowledge that a tamper-evident feature has been incorporated into the drug product design.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We allow flexibility in the placement of this statement on the package and do not require that it be included within the Drug Facts section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, if included in this section, the statement must appear under the heading “Other information” (see § 201.66(c)(7)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We also noted in the final rule preamble for the Drug Facts regulation that many drug products are now marketed with peel back or fold out labels affixed to the drug product package and that these labels could be used to accommodate all of the FDA required information in the Drug Facts section (64 FR 13254 at 13268; March 17, 1999).",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These types of labels were not in use at the time the tamper-evident requirements became effective.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recently, interested parties have inquired whether the tamper-evident statement may be included in a Drug Facts section that appears in such peel back or fold out labels.",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We believe that the goals of the tamper-evident statement would likely not be achieved if the statement only appears in a peel back or fold out label and is not clearly visible without peeling back or folding out the label.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is important that the consumer view the tamper-evident statement before purchase and use of the drug product so that he or she will be better aware of the tamper-evident features and any signs of tampering.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Once the consumer opens the tamper-evident package, the tamper-evident features have been breached.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the consumer has failed to examine these features before opening, then the consumer will likely not know if there were any signs of tampering.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A tamper-evident statement inside a peel back or fold out label that is not visible on the outside of the package is unlikely to be viewed before breach of the tamper-evident feature.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The consumer may not be aware to peel back or unfold this label to view the tamper-evident statement before opening the package.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus, we recommend that the statement not appear within the Drug Facts box in a peel back or fold out label if the statement would not be clearly visible without peeling back or folding out the label.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We recommend instead in these circumstances that the tamper-evident statement be outside the Drug Facts box in another part of the label where the statement is clearly visible without further manipulation of that label.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, the above-mentioned statements would appear under this heading as follows:",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Other information •each tablet contains: calcium 10 mg, magnesium 10 mg, and sodium 15 mg •Phenylketonurics: Contains phenylalanine 10 mg per tablet •[insert storage information] •[if applicable, insert tamper-evident statement]",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "H. Inactive ingredients (§ 201.66(c)(8))",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This section contains a list of inactive ingredients, using their established names.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For OTC drug products (that are not also cosmetic products), the established names of inactive ingredients must be listed in alphabetical order (§ 201.66(c)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example: Inactive ingredients colloidal silicon dioxide, FD&C blue #1 lake, hydroxypropyl methylcellulose, lactose, magnesium stearate, polyethylene glycol, povidone, propylene glycol, titanium dioxide.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For an OTC drug product that is a drug-cosmetic product, the inactive ingredients must be listed in descending order of predominance in the product formulation (§§ 201.66(c)(8) and 701.3(a)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example: Inactive ingredients water, sorbitan isostearate, sorbitol, triethanolamine, stearic acid, barium sulfate, benzyl alcohol, dimethicone, methylparaben, aloe extract, carbomer, disodium EDTA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: For ingredients that may be contained in the drug product, see section VI.E., Inactive ingredients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. Questions? or Questions or comments?",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(§ 201.66(c)(9))",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If this heading is included in the Drug Facts box (see § 201.66(c)(9)), the telephone number or a source to answer questions about the drug product must be included in this section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is acceptable for drug products to be labeled with two telephone numbers — one number to speak with someone in English and the other number to speak with someone in Spanish.",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We recommend that the days of the week and times of the day when a person is available to respond to questions also be included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although this heading and subsequent information are not required, we recommend all manufacturers, distributors, and packers include this heading and subsequent information within the Drug Facts box.",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although not permitted to appear in or otherwise interrupt the required Drug Facts labeling information, brand names or drug product attributes can appear in the telephone number and/or in the Web site address.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, if the telephone number appears as letters of the brand name or drug product attribute, we recommend that the manufacturer also include the numerical representation of the telephone number in this section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "VI. FORMAT LABELING REQUIREMENTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(21 CFR 201.66(d))9",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This section addresses the manner in which the title, headings, subheadings, and other information set forth in § 201.66(c) must be presented in the labeling of OTC drug products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sample annotated graphics appear in Appendix A of 21 CFR part 201.",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Use of bold type and mathematical notation",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Where FDA regulations require bold print for specific information, we recommend that manufacturers not use bold print for other information in that immediate area (unless required by regulation to do so) because this practice might reduce the emphasis on the FDA bold print information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For easier understanding, fractions (e.g., 1/2) may be expressed in text format (i.e., one-half) when used within the Drug Facts box or similar enclosure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The text must be in the same single, clear, easy-to-read type style and type size used for the other text included in the Drug Facts box.",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, if fractions are expressed in mathematical notation, each component of the numerical notation must be no smaller than 6-point type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "B. Bulleted statements",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bullets are a visual cue adopted by the FDA to aid in the presentation of OTC drug or drug-cosmetic product labeling information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bullets are a solid square or solid circle in a 5-point type size, presented in the same shape and color throughout the labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under § 201.66(d)(4), bullets are required to be used in the following ways:",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•When there is more than one statement listed under the headings Use(s), Warnings, Directions, or Other information, or any subheadings under these headings, each individual statement is preceded by a bullet (see all examples below).",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The first bulleted statement on each horizontal line of text is either left justified or separated from an appropriate heading or subheading by at least 2 square ems (i.e., 2 squares the size of the capital letter M in the font being used).",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•If more than one bulleted statement is placed on the same horizontal line, the end of one bulleted statement is separated from the beginning of the next bulleted statement by at least 2 square ems and the complete additional bulleted statements do not continue to the next line of text.",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: If the modified format is used, additional bulleted statements can continue to the next line of text.",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Additional bulleted statements on each subsequent horizontal line of text under a heading or subheading are vertically aligned with the bulleted statements appearing on the",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "9 See Table B in Appendix A for a general summary of content labeling requirements set forth in § 201.66(c).",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "previous line (see the example in B.2.).",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This requirement does not apply when the modified labeling format (as described in section VII., Standard and Modified Labeling Formats) in § 201.66(d)(10) is used (see the example in B.3.).",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•If necessary, because of space constraints when using the standard labeling format, we allow a single bulleted statement to appear on the same line as a heading (except the heading Warnings) or a subheading (see the example in B.5.).",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a bulleted statement is placed on the same line as a heading or subheading, additional bulleted statements that appear under the heading or subheading can be either left justified (see the example in B.5.) or aligned with the first bulleted statement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•If the text size is greater than 6-point type, we will allow in our discretion that bullets be greater than 5-point type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The following examples show various arrangements of bulleted statements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Uses ● temporarily relieves pain and itching due to: ● insect bites ● minor skin irritations ● rashes due to poison ivy, oak, and sumac ● dries the oozing and weeping of: ● poison ivy ● poison oak ● poison sumac",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: Align major bulleted statements and sub-bulleted statements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ask a doctor before use if you have ● heart disease ● glaucoma ● high blood pressure ● thyroid disease ● diabetes ● trouble urinating due to an enlarged prostate gland ● a breathing problem such as emphysema or chronic bronchitis",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: Multi-bulleted statements on the same line are aligned with the previous line of bulleted statements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Any bulleted statements not able to fit entirely on a multi-bulleted line must be left justified.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3. [Modified format] Ask a doctor before use if you have ● heart disease ● glaucoma ● high blood pressure ● thyroid disease ● diabetes ● trouble urinating due to an enlarged prostate gland ● a breathing problem such as emphysema or chronic bronchitis",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: No bullet alignment is required in the modified format; bulleted statements can continue to the next line of text.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ask a doctor or pharmacist before use if you are taking a prescription drug for: ● anticoagulation (blood thinning) ● gout ● diabetes ● arthritis",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: Multi-bulleted statements are not required to appear on the same line as the subheading.",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Directions ● shake well ● adults and children 2 years and over: apply to affected area not more than 3 to 4 times daily ● children under 2 years: ask a doctor",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: Bullets can appear on the same line as headings and subheadings.",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, no bulleted statements or text can appear on the same line as the Warnings heading.",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "C. Number of label panels/Column format/Graphic",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See the guidance for industry Labeling OTC Human Drug Products Using a Column Format.",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "D. Active ingredient(s) and Purpose(s)",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When there is more than one active ingredient, they are listed in alphabetical order.",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, when more than one active ingredient has the same purpose, the purpose does not need to be repeated for each ingredient if the information is presented in a manner that readily associates each active ingredient with its purpose (by using brackets, dot leaders, or other graphical features).",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Examples include:",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Active ingredients (in each tablet) Purpose Acetaminophen 500 mg Pain reliever/fever reducer Pseudoephedrine HCl 30 mg Nasal decongestant Triprolidine HCl 1.25 mg Antihistamine",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Active ingredientsPurpose Homosalate 6% } Oxybenzone 3% } Sunscreen Padimate O 2% }",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: Active ingredients with the same pharmacological activity can be bracketed together to avoid repetitive listing of purpose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "E. Inactive ingredients: “contains one or more of these ingredients” labeling",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There may be circumstances when manufacturers, packers, and distributors who market OTC drug products use multiple suppliers for some drug products to maintain an uninterrupted supply of the drug product to their customers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In such cases, the specific inactive ingredients in the drug products may vary slightly from supplier to supplier: some inactive ingredients may be present in drug products coming from all suppliers while other inactive ingredients may not be present.",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To have one label for all drug products, we recommend that the ingredients that may (or may not) be contained in each individual drug product be listed on the labeling in the following manner.",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•We believe that this type of inactive ingredient labeling can be accomplished best by placing those ingredients that may (or may not) be contained in an OTC drug product in the inactive ingredient listing, as set forth in § 201.66(c)(8), with an asterisk placed next to those ingredients (e.g., acacia*, dextrose*, sucrose, xanthum gum*).",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The asterisk would then be reprinted at the bottom or end of the inactive ingredient section in the Drug Facts box with the notation “* contains one or more of these ingredients” (if more than one ingredient may (or may not) be in the drug product), or “* may contain this ingredient” (if only one ingredient may (or may not) be in the drug product), whichever is appropriate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•We recommend that for drug product labeling using the standard labeling format set forth in § 201.66, the statement (“* contains one or more of these ingredients,” or “* may contain this ingredient,” whichever is appropriate) should be left justified at the end of the inactive ingredient section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For drug product labeling that uses the modified format set forth in § 201.66(d)(10), the appropriate statement should appear at the end of the inactive ingredient section with 2 square ems between the last inactive ingredient and the statement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The type size of these statements must be at least 6-point type (see § 201.66(d)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Listing too many alternative ingredients could be misleading and could cause consumer confusion.",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To avoid such confusion, manufacturers, packers, and distributors may wish to consider using a second set of labels for drug products with a lengthy list of different inactive ingredients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, to provide consumers with the opportunity to learn if an ingredient is in the lot number of the drug product, we recommend that the optional information in § 201.66(c)(9) (Questions? or Questions or comments? followed by the telephone number of a source to answer questions about the drug product) be included in labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Manufacturers, packers, and distributors are also reminded to follow all applicable current good manufacturing practice regulations in 21 CFR part 211 for finished pharmaceuticals so that manufacturers maintain appropriate records showing which lot numbers of the drug product contain which inactive ingredients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "F. HEADINGS:",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Use(s), Warnings, Directions, Other information, Inactive ingredients, and Questions — Information on same line as heading",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The information under any of these headings, except Warnings, may start on the same line as the heading.",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•None of the information under the heading Warnings can appear on the same line as this heading (§ 201.66(d)(6)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, information under any of the subheadings that appear under the heading Warnings can start on the same line as the subheading.",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "G. Graphical images/Pictograms",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Graphical images (e.g., the American Dental Association seal, Good Housekeeping seal, the Universal Product Code (UPC) symbol) cannot appear in, or in any way interrupt, the information required in the Drug Facts labeling (§ 201.66(d)(7)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Below are examples of the possible placement of the UPC graphic image:",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A pictogram is a pictorial representation of some object used to symbolize information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of pictograms is voluntary in drug product labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If used, pictograms must not appear within the Drug Facts labeling (see § 201.66(d)(7)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The only allowed exception is the use of a telephone or telephone receiver before the Questions? heading (see§ 201.66(c)(9)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A pictogram that directs attention away from required information, that is ambiguous, or that can be misunderstood by consumers may render a drug product misbranded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: The drug product trade name and company name cannot appear in, or in any way interrupt, the information required in the Drug Facts labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "H. Barlines/Hairlines10",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•All of the Drug Facts information must be set off in a box or similar enclosure by the use of a barline (§ 201.66(d)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We recommend size 2.5-point type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•A distinctive horizontal barline (recommended size 2.5-point type) extending to each end of the Drug Facts box or similar enclosure must separate each of the headings in the Drug Facts labeling (§ 201.66(d)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•A horizontal hairline (recommended size 0.5-point type) extending within two spaces on either side of the Drug Facts box or similar enclosure must immediately follow the title Drug Facts (§ 201.66(d)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "10 A barline is a distinctive horizontal line that extends to each end of the Drug Facts box or similar enclosure and provides separation between each of the headings listed in § 201.66(c)(2) through (c)(9) (§ 201.66(d)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A hairline is a distinctive horizontal line that extends within two spaces on either side of the Drug Facts box or similar enclosure (§ 201.66(d)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This line immediately follows the title Drug Facts and the title Drug Facts (continued) on subsequent panels and immediately precedes each of the subheadings set forth in § 201.66(c)(5), except the subheadings in § 201.66(c)(5)(ii)(A) through (c)(5)(ii)(G).",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•When a heading appears on a subsequent panel after the Drug Facts (continued) title, a horizontal hairline (recommended size 0.5-point type), rather than a barline, must follow the title and immediately precede the heading (§ 201.66(d)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•A horizontal hairline (recommended size 0.5-point type) extending within two spaces on either side of the Drug Facts box or similar enclosure must immediately precede each of the subheadings in the Warnings section except for the subheadings in paragraphs (c)(5)(ii)(A) through (c)(5)(ii)(G).",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The specific subheadings in these paragraphs are not preceded by any horizontal hairlines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•When a table is used as the last item of information in the Directions section, the last line of the table may be the horizontal barline that immediately precedes the heading of the next section of the labeling (§ 201.66(d)(9)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Examples of the use of barlines and hairlines appear in Appendix A of 21 CFR part 201.",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See also the guidance for industry Labeling OTC Human Drug Products Using a Column Format for additional information when a column format is used in the labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulation contains a formula that allows use of a modified labeling format, which is described in § 201.66(d)(10).",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When the required Drug Facts content information in paragraph (c) printed as specified in paragraph (d), plus any other FDA required information for drug or drug-cosmetic products (other than information required to appear on the principal display panel), requires more than 60 percent of the total surface area available to bear labeling, the Drug Facts labeling must appear in the modified labeling format.",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When determining whether more than 60 percent available labeling space is required, the indications for use listed under the Use(s) heading must be limited to the minimum required uses reflected in the applicable monograph (see § 330.1(c)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1 describes selected format requirements used in the standard and modified labeling formats.",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of Standard and Modified Labeling Formats",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For assistance in making content or format conversions of existing labeling to the new required labeling, manufacturers should contact the Office of Nonprescription Products for guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The following guidances are available to help manufacturers, packers, and distributors implement the Drug Facts regulation establishing standardized content and format requirements for the labeling of all OTC drug products:11",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Guidance for industry Labeling OTC Human Drug Products Using a Column Format (column format)",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Guidance for industry Labeling OTC Human Drug Products Questions and Answers",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition to the standardized content and format regulations, there are other labeling requirements that may be applicable to the drug product and that manufacturers, packers, and distributors are required to follow.",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The general labeling requirements in 21 CFR part 201 and part 211 specify what information must be included on a drug product’s labeling and how the information should be presented, among other things.",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Federal Food, Drug, and Cosmetic",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "11 The draft guidances for industry Labeling OTC Human Drug Products — Submitting Requests for Exemptions and Deferrals (§ 201.66(e)) and Labeling OTC Human Drug Products Updating Labeling in ANDAs (ANDA labeling) are also available on the CDER guidance Web page (http://www.fda.gov/cder/guidance/index.htm).",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Act (the Act) defines labeling in broad terms, such that labeling means all labels and “other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article” (see section 201(m) of the Act (21 U.S.C. 321(m)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This definition does not require labeling to be physically attached to a drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, an outer carton, a brochure about the drug product, or a package insert is considered labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 2 summarizes some of the other labeling requirements that may be applicable in addition to the standardized content and format requirements in § 201.66.",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "General Labeling Requirements in 21 CFR Parts 201 and 211",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IMPLEMENTATION OF THE OTC LABELING REQUIREMENTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All OTC drug products must be in compliance with § 201.66 at this time, except for the following:",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The FDA has granted a stay of compliance for implementation of the Drug Facts regulation until further notice (67 FR 16304; April 5, 2002) for OTC drug products that contain no more than two doses of an OTC drug product and, because of their limited surface area available to bear labeling, qualify for the labeling modifications set forth in §201.66(d)(10).",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The FDA has granted a stay of compliance for implementation of the Drug Facts regulation until further notice (69 FR 53801; September 3, 2004) for OTC sunscreen drug and drug-cosmetic products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Appendix A provides a quick reference to certain content and format requirements associated with key labeling elements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Manufacturers should contact the relevant office listed in Appendix A for questions on whether a particular FDA requirement applies to their drug or drug-cosmetic product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "REQUIREMENTS AND RELEVANT CONTACTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table A. Labeling Content: §§ 201.66(c)(1) through (c)(9)",
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table A, continued",
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table B. Labeling Format: §§ 201.66(d)(1) through (d)(9)",
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table B, continued",
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Contact the following offices for additional information:",
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•CDER Office of Nonprescription Products (http://www.fda.gov/cder/Offices/OTC/default.htm)",
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•CDER Office of Compliance (http://www.fda.gov/cder/Offices/Compliance/default.htm)",
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•CFSAN Office of Cosmetics and Colors (http://vm.cfsan.fda.gov/%7Edms/cos-toc.html)",
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional information is available in the guidance for industry Labeling OTC Human Drug Products Questions and Answers.2 FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. BACKGROUND In the Federal Register of March 17, 1999 (64 FR 13254), the FDA published a final regulation (§ 201.66) establishing standardized content and format for the labeling of OTC drug products (Drug Facts labeling).",
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regula divided into two main parts: 1) content requirements in paragraph (c) (i.e., headings, subheadings, and the order in which certain information must be listed); and 2) format requirements in paragraph (d) (i.e., graphic specifications).",
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. SCOPE",
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(21 CFR 201.66(a)) This section explains that the content and format requirements apply to the labeling of all OTC drug products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IV. DEFINITIONS (21 CFR 201.66(b)) This section contains definitions of terms, including an explanation of certain printing, typesetting, and graphics terms, applicable to this section of the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "V. CONTENT REQUIREMENTS (21 CFR 201.66(c))5 This section requires that all OTC drug product labeling contain the following information about the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• (c)(1) Title6 (Drug Facts or Drug Facts (continued)) • (c)(2) Active ingredient(s) • (c)(3) Purpose(s) • (c)(4) Use(s) • (c)(5) Warning(s) • (c)(6) Directions • (c)(7) Other information • (c)(8) Inactive ingredients • (c)(9) Questions? or Questions or comments?",
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(optional) This information must appear on the outside container or wrapper of the retail package, or on the immediate container label if there is no outside container or wrapper.",
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Title (§ 201.66(c)(1)) If the Drug Facts labeling appears on more than one panel or side of the labeling, the title Drug Facts (continued)7 must appear at the top of each subsequent panel containing such information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "B. Active ingredient(s) (§ 201.66(c)(2)) An active ingredient is any component that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.",
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• [for oral dosage forms] use the dosage unit stated in the directions for use (e.g., tablet, 5 mL teaspoonful) or",
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• [for topical dosage forms marketed with discrete dosage units] use gram, as stated in §§ 333.110 and 333.120, where the first aid antibiotic active ingredients are stated as an amount in each gram of the drug product Drug products marketed without discrete dosage units (e.g., topicals) must state the proportion (rather than the quantity) of each active ingredient (e.g., 1%), unless otherwise provided in an applicable OTC drug monograph or approved drug application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(See §§ 201.66(b)(2) and 201.66(b)(8).) C. Purpose(s) (§ 201.66(c)(3)) Each active ingredient in the drug product is to be followed by a description of the ingredient’s purpose, unless this information is specifically exempted in an OTC drug monograph.",
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Its general pharmacological category(ies) • The principal intended action(s) of the drug If two active ingredients in a drug product have the same purpose (e.g., two sunscreen or skin protectant ingredients are present in the drug product), then the purpose can be stated only once as long as the purpose is clearly associated with both active ingredients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(See the example in section VI., Format Labeling Requirements.) D. Use(s) (§ 201.66(c)(4)) The uses are the specific indications or approved uses for the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "E. Warning(s) (§ 201.66(c)(5)) With regard to subject-specific warnings described in §§ 201.66(c)(5)(ii)(A) through (5)(ii)(G), except for the Reye’s syndrome warning, which must appear first when required, there is no required order in which these specific warning statements must appear.",
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do not use (§ 201.66(c)(5)(iii)) Information appearing under this subheading includes situations in which consumers should not use the drug product unless a prior diagnosis has been established by a doctor, or for situations in which consumers should not use the drug product under any circumstances regardless of whether a doctor or health care professional is consulted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ask a doctor before use if you have (§ 201.66(c)(5)(iv)) Information under this subheading includes all warnings for persons with certain preexisting conditions (excluding pregnancy) and all warnings for persons experiencing certain symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ask a doctor or pharmacist before use if you are (§ 201.66(c)(5)(v)) Information under this subheading includes all drug-drug and drug-food interaction warnings.",
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When using this product (§ 201.66(c)(5)(vi)) Information under this subheading includes all side effects that consumers may experience and identifies the substances (e.g., alcohol) that could cause a side effect and any activity (e.g., operating machinery, driving a car) that should be avoided while using the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• May cause drowsiness [or can appear as: drowsiness may occur] • Alcohol, sedatives, and tranquilizers may increase the drowsiness effect [or can appear as: alcohol, sedatives, and tranquilizers may increase drowsiness] • Do not puncture or incinerate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Stop use and ask a doctor if (§ 201.66(c)(5)(vii)) Information under this subheading includes any signs of toxicity or other reactions that would require a patient to immediately stop using the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Any [other] required warnings (§ 201.66(c)(5)(viii)) This location in the warnings section includes any required warnings in an applicable OTC drug monograph, other OTC drug regulations, or approved drug application that do not fit within one of the other categories.",
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pregnancy and related warnings (§ 201.66(c)(5)(ix)) When applicable, these types of warnings also must be placed in the Warnings section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Keep out of reach of children and the accidental overdose/ingestion warnings in § 330.1(g) (§ 201.66(c)(5)(x)) In a few special instances, the Keep out of reach of children warning can be omitted (see lipstick with a sunscreen in § 352.52(f)(1)(vi)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "F. Directions (§ 201.66(c)(6)) Depending on the drug product, the directions can appear completely in a table, as a number of bulleted statements, or as a combination of a table and bulleted statements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(See §§ 201.66(d)(4) and 201.66(d)(9).) However, a table format can be used for two age groups or populations if it helps make the presentation of the information clearer and easier to read.",
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "adults and children 12 years 2 tablets every 6 and older hours children 6 – 12 years 1 tablet every 6 hours children under 6 years ask a doctor G. Other information (§ 201.66(c)(7)) Information under this heading must contain information not included under the other headings or subheadings, but is required or is made optional under an OTC drug monograph, other OTC drug regulation, or approved drug application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under this heading, phenylalanine/aspartame content required by § 201.21(b), if applicable, must appear as the next bulleted statement as follows: “Phenylketonurics: Contains Phenylalanine (insert quantity) mg per (insert appropriate dosage unit).” The tamper-evident statement must be prominently placed on the drug product package to alert consumers about the drug product’s tamper-evident features (21 CFR 211.132).",
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Other information • each tablet contains: calcium 10 mg, magnesium 10 mg, and sodium 15 mg • Phenylketonurics: Contains phenylalanine 10 mg per tablet • [insert storage information] • [if applicable, insert tamper-evident statement] H. Inactive ingredients (§ 201.66(c)(8)) This section contains a list of inactive ingredients, using their established names.",
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(§ 201.66(c)(9)) If this heading is included in the Drug Facts box (see § 201.66(c)(9)), the telephone number or a source to answer questions about the drug product must be included in this section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "VI. FORMAT LABELING REQUIREMENTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(21 CFR 201.66(d))9 This section addresses the manner in which the title, headings, subheadings, and other information set forth in § 201.66(c) must be presented in the labeling of OTC drug products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Use of bold type and mathematical notation Where FDA regulations require bold print for specific information, we recommend that manufacturers not use bold print for other information in that immediate area (unless required by regulation to do so) because this practice might reduce the emphasis on the FDA bold print information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "B. Bulleted statements Bullets are a visual cue adopted by the FDA to aid in the presentation of OTC drug or drug-cosmetic product labeling information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• When there is more than one statement listed under the headings Use(s), Warnings, Directions, or Other information, or any subheadings under these headings, each individual statement is preceded by a bullet (see all examples below). • The first bulleted statement on each horizontal line of text is either left justified or separated from an appropriate heading or subheading by at least 2 square ems (i.e., 2 squares the size of the capital letter M in the font being used). • If more than one bulleted statement is placed on the same horizontal line, the end of one bulleted statement is separated from the beginning of the next bulleted statement by at least 2 square ems and the complete additional bulleted statements do not continue to the next line of text.",
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: If the modified format is used, additional bulleted statements can continue to the next line of text. • Additional bulleted statements on each subsequent horizontal line of text under a heading or subheading are vertically aligned with the bulleted statements appearing on the 9 See Table B in Appendix A for a general summary of content labeling requirements set forth in § 201.66(c).",
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This requirement does not apply when the modified labeling format (as described in section VII., Standard and Modified Labeling Formats) in § 201.66(d)(10) is used (see the example in B.3.). • If necessary, because of space constraints when using the standard labeling format, we allow a single bulleted statement to appear on the same line as a heading (except the heading Warnings) or a subheading (see the example in B.5.).",
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a bulleted statement is placed on the same line as a heading or subheading, additional bulleted statements that appear under the heading or subheading can be either left justified (see the example in B.5.) or aligned with the first bulleted statement. • If the text size is greater than 6-point type, we will allow in our discretion that bullets be greater than 5-point type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "C. Number of label panels/Column format/Graphic See the guidance for industry Labeling OTC Human Drug Products Using a Column Format.",
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "D. Active ingredient(s) and Purpose(s) When there is more than one active ingredient, they are listed in alphabetical order.",
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Active ingredients (in each tablet) Purpose Acetaminophen 500 mg Pain reliever/fever reducer Pseudoephedrine HCl 30 mg Nasal decongestant Triprolidine HCl 1.25 mg Antihistamine Active ingredients Purpose Homosalate 6% } Oxybenzone 3% } Sunscreen Padimate O 2% } Note: Active ingredients with the same pharmacological activity can be bracketed together to avoid repetitive listing of purpose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "E. Inactive ingredients: “contains one or more of these ingredients” labeling There may be circumstances when manufacturers, packers, and distributors who market OTC drug products use multiple suppliers for some drug products to maintain an uninterrupted supply of the drug product to their customers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• We recommend that for drug product labeling using the standard labeling format set forth in § 201.66, the statement (“* contains one or more of these ingredients,” or “* may contain this ingredient,” whichever is appropriate) should be left justified at the end of the inactive ingredient section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "F. HEADINGS: Use(s), Warnings, Directions, Other information, Inactive ingredients, and Questions — Information on same line as heading",
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The information under any of these headings, except Warnings, may start on the same line as the heading. • None of the information under the heading Warnings can appear on the same line as this heading (§ 201.66(d)(6)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "G. Graphical images/Pictograms Graphical images (e.g., the American Dental Association seal, Good Housekeeping seal, the Universal Product Code (UPC) symbol) cannot appear in, or in any way interrupt, the information required in the Drug Facts labeling (§ 201.66(d)(7)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Below are examples of the possible placement of the UPC graphic image: Illustration 1 Drug Facts Labeling (DF) UPC",
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Illustration 2 DF DF UPC A pictogram is a pictorial representation of some object used to symbolize information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• All of the Drug Facts information must be set off in a box or similar enclosure by the use of a barline (§ 201.66(d)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We recommend size 2.5-point type. • A distinctive horizontal barline (recommended size 2.5-point type) extending to each end of the Drug Facts box or similar enclosure must separate each of the headings in the Drug Facts labeling (§ 201.66(d)(8)). • A horizontal hairline (recommended size 0.5-point type) extending within two spaces on either side of the Drug Facts box or similar enclosure must immediately follow the title Drug Facts (§ 201.66(d)(8)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• When a table is used as the last item of information in the Directions section, the last line of the table may be the horizontal barline that immediately precedes the heading of the next section of the labeling (§ 201.66(d)(9)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "VII. STANDARD AND MODIFIED LABELING FORMATS The regulation contains a formula that allows use of a modified labeling format, which is described in § 201.66(d)(10).",
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Labeling Element Standard Format Modified Format",
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Drug Facts box Set off by barline Barline may be omitted if color contrast used to set off from the rest of the labeling Drug Facts Larger than largest type size used in Drug Facts box or similar enclosure",
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Larger than largest type size used in the Drug Facts box or similar enclosure",
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No smaller than 8-point type No smaller than 7-point type",
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Headings ≥ 8-point type, or 2-point type > point size of text",
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "≥ 7-point type, or 1-point type > point size of text Subheadings No smaller than 6-point type No smaller than 6-point type Bulleted text No smaller than 6-point type No smaller than 6-point type Leading Minimum 0.5-point type Smaller than 0.5-point type can be used, provided the ascenders and descenders do not touch Bullets Minimum 5-point type Vertical alignment",
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Minimum 5-point type No alignment required For assistance in making content or format conversions of existing labeling to the new required labeling, manufacturers should contact the Office of Nonprescription Products for guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "VIII. TOPIC-SPECIFIC GUIDANCES The following guidances are available to help manufacturers, packers, and distributors implement the Drug Facts regulation establishing standardized content and format requirements for the labeling of all OTC drug products:11",
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Guidance for industry Labeling OTC Human Drug Products Using a Column Format (column format) • Guidance for industry Labeling OTC Human Drug Products Questions and Answers IX. OTHER FDA LABELING REQUIREMENTS In addition to the standardized content and format regulations, there are other labeling requirements that may be applicable to the drug product and that manufacturers, packers, and distributors are required to follow.",
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Paragraph Description of Paragraph 201.1 Name and place of business of manufacturer, packer, or distributor 201.5 Adequate directions for use 201.17 Location of expiration date 201.18 Control numbers 201.60 Principal display panel 201.61 Statement of identity Established name of drug product Statement of general pharmacological category(ies) or the principal intended actions Bold type Size related to the most prominent printed matter 201.62 Declaration of net quantity of contents 201.63 Pregnancy/breast-feeding warnings 211.132(c) Tamper-evident labeling X. IMPLEMENTATION OF THE OTC LABELING REQUIREMENTS All OTC drug products must be in compliance with § 201.66 at this time, except for the following:",
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The FDA has granted a stay of compliance for implementation of the Drug Facts regulation until further notice (67 FR 16304; April 5, 2002) for OTC drug products that contain no more than two doses of an OTC drug product and, because of their limited surface area available to bear labeling, qualify for the labeling modifications set forth in § 201.66(d)(10). • The FDA has granted a stay of compliance for implementation of the Drug Facts regulation until further notice (69 FR 53801; September 3, 2004) for OTC sunscreen drug and drug-cosmetic products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "APPENDIX A: SUMMARY OF LABELING REQUIREMENTS AND RELEVANT CONTACTS",
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comments (c)(1) Drug Facts, Drug Facts (continued)",
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The title to be used is Drug Facts (on subsequent panels use Drug Facts (continued)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(2) Active ingredient(s) (established name, quantity)",
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For drug-cosmetic products, the drug ingredients are considered the active ingredients, and the cosmetic ingredients are considered the inactive ingredients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See §§ 201.66(b)(2), (b)(8), and (c)(8); and § 701.3(a) and (f).",
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(3) Purpose(s) If there is no statement of identity or no applicable OTC drug monograph, the ingredient purpose is stated based on its general pharmacological category(ies), or the principal intended action(s) of the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(4) Use(s) The use(s) are the specific indication(s) or approved use(s) for the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For drug-cosmetic products, the use in the Drug Facts labeling is attributed only to the drug component.",
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See § 201.66(c)(4).",
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5) Warning(s) Warning information appears in a specific order, under the heading Warnings, as applicable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most warnings follow specific subheadings, as described in (c)(5)(i) through (c)(5)(x).",
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(i) For external/rectal/ vaginal use only",
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Appears in bold type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In some instances, the external use only warning can be omitted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, OTC lip protectant drug products that meet the criteria of § 201.66(d)(10) may omit this warning (§ 347.50(e)(1)(iii)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ii) All applicable warnings Appear with subheadings highlighted in bold type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ii)(A) Reye’s syndrome warning",
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When this warning is required, it is the first warning of the warnings listed in paragraphs (c)(5)(ii)(A) through (c)(5)(ii)(G) to appear in this location in the Warnings section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ii)(B) Allergic reaction warnings",
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading Allergy alert is used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ii)(C) Flammability warning, with appropriate signal word",
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The appropriate flammability signal word in an approved NDA or OTC drug monograph is used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ii)(D) Water soluble gum warning, Choking",
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading Choking is used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ii)(E) Alcohol warning The subheading Alcohol warning is used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ii)(F) Sore throat warning The subheading Sore throat warning is used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ii)(G) Dosage warning The warnings in § 201.307(b)(2)(i) or (b)(2)(ii) for drug products containing sodium phosphates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading Dosage warning is used to introduce this information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 391,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(iii) Do not use followed by all contraindications",
+      "align_score": null
+    },
+    {
+      "seg_id": 392,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading used for all absolute contraindications and involves different types of situations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 393,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(iv) Ask a doctor before use if you have",
+      "align_score": null
+    },
+    {
+      "seg_id": 394,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading used for certain preexisting conditions or when experiencing certain symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 395,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(v) Ask a doctor or pharmacist before use if you are",
+      "align_score": null
+    },
+    {
+      "seg_id": 396,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading used for all drug-drug and drug-food interactions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 397,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading used for all side effects that the consumer may experience; identifies substances or activities that should be avoided while using the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 398,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(vii) Stop use and ask a doctor if (c)(5)(vi) When using this product",
+      "align_score": null
+    },
+    {
+      "seg_id": 399,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading used for any signs of toxicity or other adverse reactions that would necessitate immediately discontinuing use of the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 400,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(viii) Any required warnings The location used to include any other required warnings that do not fit within §§ 201.66(c)(5)(i) through (c)(5)(vii), (c)(5)(ix), and (c)(5)(x).",
+      "align_score": null
+    },
+    {
+      "seg_id": 401,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(ix) The pregnancy/breast-feeding warning",
+      "align_score": null
+    },
+    {
+      "seg_id": 402,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "General warning and other related warnings.",
+      "align_score": null
+    },
+    {
+      "seg_id": 403,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(5)(x) Keep out of reach of children",
+      "align_score": null
+    },
+    {
+      "seg_id": 404,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "General warning and accidental overdose/ingestion warning in § 330.1(g).",
+      "align_score": null
+    },
+    {
+      "seg_id": 405,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(6) Directions Described in an applicable OTC drug monograph or approved drug application.",
+      "align_score": null
+    },
+    {
+      "seg_id": 406,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(7) Other information and additional information not included in (c)(2) – (c)(6), (c)(8), and (c)(9) of this section (e.g., storage conditions)",
+      "align_score": null
+    },
+    {
+      "seg_id": 407,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The subheading used for additional information that is not included under the other subheadings, but which is required or is made optional under an OTC drug monograph(s), other OTC drug regulation(s), or approved NDA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 408,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See §§ 201.64(b), 201.70(b), 201.71(b), and 201.72(b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 409,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(7)(ii) Phenylalanine See § 201.21(b).",
+      "align_score": null
+    },
+    {
+      "seg_id": 410,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(7)(i) certain ingredients (e.g., Na) (c)(7)(iii) Additional information For example: storage conditions, tamper-evident statement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 411,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(8) Inactive ingredients A list of each inactive ingredient, using its established name.",
+      "align_score": null
+    },
+    {
+      "seg_id": 412,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(c)(9) Questions?",
+      "align_score": null
+    },
+    {
+      "seg_id": 413,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(or Questions or Comments?)",
+      "align_score": null
+    },
+    {
+      "seg_id": 414,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Optional heading used to provide a telephone number of a source to answer questions about the drug product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 415,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(d)(1) Drug Facts: first letter of words uppercase “ Headings, subheadings: first letter of first word uppercase “ Left justification (d)(2) Drug Facts type size > largest type size used in Drug Facts labeling “ Heading 8-pt, or 2-pt type sizes > text point size “ ≥ 6-pt type size for information in Drug Facts “ Subheadings ≥ 6-pt type size “ Drug Facts (continued): type size no smaller than 8-pt type (d)(3) Letters do not touch “ ≥ 0.5-pt leading (space between lines) “ No more than 39 characters per inch “ Bold italic headings and title “ Bold subheading, except the phrase “(continued)” “ Contrasting dark color for title and heading (d)(4) Bullet: solid circle or square 5-pt type, same shape and color, left justified or separated from heading or subheading by at least two square ems “ Bullet on same lines: end of statement separated from bulleted statement by two ems “ Bullet on same lines: additional bulleted statement does not continue on next line “ Vertical alignment of bulleted statements (d)(5) Appear on more than one panel “ Visual graphic signals continuation (d)(6) Left justification of information required by (c)(2) “ Right justification of information required by (c)(3)",
+      "align_score": null
+    },
+    {
+      "seg_id": 416,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "“ Alphabetical order of active ingredients “ Information required by (c)(4), (c)(6) – (c)(9) may start on same line as required headings “ None of the information required in (c)(5) shall appear on the same line as Warnings (d)(7) Graphical images should not interrupt the heading, subheading, and information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 417,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hyphens should not be used except to punctuate compound words.",
+      "align_score": null
+    },
+    {
+      "seg_id": 418,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(d)(8) Enclosed box using barline “ Horizontal barline separates headings listed in (c)(2) – (c)(9) “ Horizontal hairline immediately follows the title Drug Facts (continued), and immediately precedes a heading or subsequent text that follows after this title “ Horizontal hairline extending within two spaces on either side of the Drug Facts box shall immediately follow the title and precede the subheadings set forth in (c)(5) (except (c)(5)(ii)(A) – (G)) (d)(9) Directions in table format when dosage instructions are provided for three or more age groups or populations “ Horizontal barline preceding the next heading may end the table Contact the following offices for additional information:",
+      "align_score": null
+    },
+    {
+      "seg_id": 419,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• CDER Office of Nonprescription Products (http://www.fda.gov/cder/Offices/OTC/default.htm) • CDER Office of Compliance (http://www.fda.gov/cder/Offices/Compliance/default.htm) • CFSAN Office of Cosmetics and Colors (http://vm.cfsan.fda.gov/%7Edms/cos-toc.html)",
+      "align_score": null
+    }
+  ]
+}

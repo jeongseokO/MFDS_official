@@ -1,0 +1,2197 @@
+{
+  "document_id": "ee_fda_guide_0011",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "CVM GFI #76 Questions and Answers BSE Feed Regulations July 1998__7c6bfd959d",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "GUIDANCE FOR INDUSTRY",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "QUESTIONS AND ANSWERS BSE FEED REGULATION",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "21 Code of Federal Regulations (CFR) 589.2000",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This document answers questions about “Animal Proteins Prohibited from Animal Feed”, the BSE feed regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is intended to supplement the Small Entity Compliance Guides for the regulation, specifically the following FDA Guidance for Industry documents:",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "67 - Renderers 68 - Protein Blenders, Feed Manufacturers, and Distributors 69 - Feeders of Ruminant Animals With On-Farm Feed Mixing Operations 70 - Feeders of Ruminant Animals Without On-Farm Feed Mixing Operations",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guide represents the agency's current thinking on compliance with these regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not create or confer any rights for or on any person and does not operate to bind the FDA or public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An alternative approach may be used if such approach satisfies the requirements of the applicable statute, regulations or both.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comments and suggestions regarding the document should be submitted to Shannon Jordre, Center for Veterinary Medicine, (HFV-230), Food and Drug Administration, 7519 Standish Place, Rockville, MD 20855, 240-276-9229, E-mail: shannon.jordre@fda.hhs.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "U.S. FOOD AND DRUG ADMINISTRATION (FDA) Center for Veterinary Medicine (CVM) July, 1998",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Introduction:",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Small Entity Compliance Guides are available through the Internet at",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Inquiries:",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Where can I direct any questions on the BSE regulation that are not answered by this document or the Small Entity Compliance Guides?",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Please direct your questions to Shannon Jordre, Center for Veterinary",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Medicine, Division of Compliance, HFV-230, 7519 Standish Place,",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Rockville, Maryland 20855 (240-276-9229).",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The questions can be faxed 2 to (240-276-9241) or sent by email to shannon.jordre@fda.hhs.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Effective Dates:",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When was the regulation effective?",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. It was effective August 4, 1997.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Printed packaging, labels, labeling and finished products manufactured before the publication of the final regulation (June 5, 1997) were allowed to be used until October 3, 1997.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I have seen several products that appear to be covered by the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Should they have the required label statement “Do not feed to cattle or other ruminants” even if they were manufactured before June 5, 1997?",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If they are available for sale or distribution, such products should be relabeled with the cautionary statement and fed only to nonruminants, or disposed of in a way that ensures they will not be fed to ruminants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Records:",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It appears that mammalian proteins that have been exempted do not have to be labeled with the cautionary statement “Do not feed to cattle or other ruminants.” But what about the recordkeeping requirements?",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. In general, exempted mammalian proteins are not subject to the recordkeeping or any other requirements of the rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is one exception, however.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ruminant feeders are required to keep invoices and labeling for all feed they receive that contains animal protein products, whether or not the animal protein is prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q5.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If certain products are received in multiple container shipments in a plant that separates prohibited from nonprohibited materials, must records be kept documenting the final disposition of each container versus the entire shipment?",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. You are not required to document the final disposition of the contents of each incoming container.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulation requires records sufficient to track the materials through their receipt, processing and distribution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Invoices or similar documents for incoming and outgoing products will satisfy this requirement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since your firm separates prohibited and nonprohibited materials, however, you are required to provide for measures to avoid commingling and cross-contamination of prohibited and nonprohibited materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Neither the regulation nor the Small Entity Compliance Guides provide for specific procedures, because of the variation in facilities and the number of different procedures that would be acceptable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, your measures to avoid commingling and cross-contamination (which need to be documented in written procedures) need to be adequate to prevent commingling of individual containers that hold prohibited and nonprohibited materials and cross-contamination from their contents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q6.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a Hazard Analysis Critical Control Point (HACCP) plan is adopted for the facility, would this reduce the recordkeeping requirement?",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. No. The Agency has indicated it would evaluate the use of HACCP at a later date.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We do encourage the use of HAACP plans, however, to assist the agency in its evaluation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "My feed mill receives prohibited material, and the material is used to produce feed for nonruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am I required to annotate the master and batch production records with a statement identifying the ingredients added as prohibited material?",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. The regulation does not specifically require that entries be made in the production records.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nor does the Small Entity Compliance Guide for feed manufacturers suggest that this be done.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, if your firm also manufactures feed for ruminant animals using nonprohibited materials, you are required to provide for measures to avoid commingling and cross-contamination of prohibited materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Your measures to avoid commingling and cross-contamination (which need to be documented in written procedures) could include entries in production records along with other separation and/or clean-out procedures that would be adequate to prevent commingling and cross-contamination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q8.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "My feed mill has a small retail sales section where feed is sold in both bagged and bulk form.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Should I record complete sales information for feeds containing prohibited material in order to facilitate a recall if one should be needed?",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. The regulation requires recordkeeping (and the cautionary statement) for retail sales of all feeds containing prohibited product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This requirement can be met through copies of sales invoices or similar documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The records should contain the following information:",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Date of the sale Name and address of the seller Name and address of the purchaser Identification of the product Quantity",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although this information is not intended specifically for recalls, it would be useful for that purpose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q9.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do all feed retailers need to keep the records described in answer to the previous question?",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulation applies throughout the manufacturing and distribution chain.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, it applies to feed retail operations, whether or not the facility is part of a feed manufacturing operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q10.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do ruminant feeders have to maintain records of feeds they receive if the feeds include only nonprohibited protein products such as milk products and feather meal?",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The rule states that you must maintain invoices and labeling for all feeds you receive containing animal protein products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "So, these records must be maintained of all feed containing protein products derived from animals including non-prohibited animal protein products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, you do not need to keep records of feed containing only protein products derived from plants, such as soybean meal.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Labeling:",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q11.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "My company collects inedible offal products, including beef, sheep and pork offal, and sells them to other companies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does my company have to keep records and label these products?",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. If you sell the offal to traditional renderers, the regulation does not require that you keep records or label the products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, renderers may impose their own requirements on you so that they can assure compliance with the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA has suggested that renderers who separate prohibited from nonprohibited material may wish to have assurance from their supplier of nonprohibited material about the product’s contents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This could include a certification from the supplier, or specification of source in a business contract.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, if you sell the offal to feed manufacturers or others who are not traditional renderers, you are considered a “renderer” under the regulation and are subject to the recordkeeping and labeling requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is true whether you subject the materials to minimal processing or do not process the materials in any way.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q12.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I produce a product containing mostly hog hair but also a small amount of beef hair.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The product has been cooked at 260 F for at least 30 minutes, then screened out in the milling process and hydrolyzed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am I required to put the statement “Do not feed to cattle or other ruminants” on the label?",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is no exemption for the beef hair, which is a mammalian protein.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA does not consider the processing you describe to be adequate to inactivate the agent that causes BSE.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q13.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can damaged and distressed pet food be salvaged by feeding it to food-producing animals?",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Damaged and distressed pet food may be salvaged as nonruminant feed but because it contains or may contain prohibited material, it must be labeled with the caution statement “Do not feed to cattle or other ruminants,” and records of its distribution maintained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Non-Prohibited or Prohibited Product:",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q14.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Are paunch and paunch products prohibited?",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. The paunch is the cow’s stomach excluding the contents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The paunch, itself, is considered an animal protein subject to the rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The paunch contents (ingested feed and water) are not subject to the rule and therefore are not prohibited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Agency understands that in the process of removing the contents a very small amount of paunch tissue may be introduced into the contents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Agency does not believe this poses enough concern to prohibit the use of the contents at this time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q15.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If “specified bovine offal” (SBO) is removed from the carcass, will the rest of the carcass be considered exempt?",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. No. All protein from bovine tissue is prohibited except blood and blood products, milk products, gelatin and inspected meat products which have been cooked and offered for human food and further heat processed for animal feed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q16.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Are bone meal and bone byproducts mammalian tissues, and are they prohibited material?",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Both bone meal and bone byproducts contain proteins from mammalian tissue.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They are prohibited material unless they are pure swine or horse products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulation prohibits the feeding to ruminants of all proteins from mammalian tissue unless specifically exempted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q17.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do all exempt materials have the same status?",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It seems that mammalian protein tissue from pigs or horses could be more of a concern to the Agency than milk processing waste.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. All exempt materials have the same status.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They are all exempt and not subject to the requirements of the rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q18.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "My company processes fresh pork and other processed pork items.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "My company also renders pork byproducts.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the past we have rendered a tiny portion of rejected beef items that are returned to us from the marketplace.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does this subject us to the rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Not if the beef products meet the requirement of the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Beef products such as hot dogs and ready-to-eat deli meats which have been inspected, cooked, and offered for human food may be rendered and are exempt from the rule after rendering.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is covered by the exemption for inspected meat products which have been cooked and offered for human food and then further heat processed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does the exemption for products that have been cooked, offered for human food and then further heat processed require that the products be sent to the marketplace and then returned in order to be exempt?",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. No, it is sufficient that the products have been cooked in anticipation of entering the marketplace.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Those products such as hot dogs, which have been cooked, and completely prepared for entering the marketplace, and then rejected from the marketplace for quality control reasons, will be considered exempt.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q20.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What does “further heat processed,” as used in the previous question, mean?",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. The regulation does not specify what constitutes acceptable heat processing because of the variety of commercial processes and the variations in temperature which could be used for heat processing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Following are examples of acceptable “further heat processing”:",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Traditional rendering processes; Extrusion and cooking at 212 degrees Fahrenheit for 30 minutes, as required for garbage under the Swine Health Protection Act; Pelleting, if the plate waste in the pellet conditioner reaches an internal temperature of at least 190 degrees Fahrenheit, and the retention time is such that the total heat energy applied is similar to that achieved in the extrusion processes or required by the Swine Health Protection Act; Pelleting at temperatures similar to those used in traditional rendering or the holding of pellets at temperatures to comply with the Swine Health Protection Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Other methods could meet the “further heat processing” requirement; information on other methods would need to be submitted to CVM.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q21.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A USDA-inspected facility processes edible beef stock or broth from edible and inspected beef bones, making a meat and bone meal product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does the meat and bone meal product require the labeling “Do not feed to cattle or other ruminants”?",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A “meat and bone meal” product by definition contains protein, and is not exempt unless manufactured from pure pork or horse material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bone contains protein in the form of the marrow and collagen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q22.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does this mean that every product whose name includes “bone” is prohibited?",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. No. Products meeting the Association of American Feed Control Officials (AAFCO) definitions of Bone Ash, Bone Phosphate, Bone Charcoal and Bone Charcoal, Spent are exempt because by definition they do not contain protein.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q23.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Is “gel bone” prohibited material?",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Yes, unless it is from pure pork or horse material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gel bone is bone that has been coarsely crushed, rinsed and degreased.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is usually intended for use in making gelatin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q24.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Is collagen exempt under the BSE rule since it is “unprocessed” gelatin?",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Collagen is not exempt, unless it is obtained from pure pig or horse material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, gelatin is exempt under the BSE regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Data available to the FDA suggests that gelatin does not transmit the transmissible spongiform encephalopathy (TSE) agent.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The conventional manufacturing process for gelatin has been demonstrated to inactivate, in a significant way, any residual activity that may have been present in source tissues.",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "But see the answer to the next question.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q25.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If I use collagen to formulate a deer feed, do I have to comply with the rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Collagen is a protein found in all mammals and is not specifically exempt from the BSE rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, collagen is not a recognized feed term, and its listing in the ingredient list could cause the product to be misbranded.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Collagen protein is a starting material for gelatin; however, unprocessed collagen is not gelatin and does not categorically qualify for the gelatin exemption.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Products in the market referred to as “hydrolyzed collagen” or similar type names may be a “feed grade” gelatin, since the term “feed grade” can be used to indicate products suitable for animal consumption.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Whether these types of “hydrolyzed collagen” products qualify for the gelatin exemption are handled on a case-by-case basis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The decision is based on the starting material and the process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Information on the starting material and the process should be submitted to CVM for comment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q26.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can chicken litter be fed to cattle if the poultry might have been fed prohibited material?",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The FDA has no evidence that the agent that causes BSE would survive the chicken intestinal tract.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA expects the states to require recycled animal waste to conform to the definitions promulgated by the",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Association of American Feed Control Officials (AAFCO) as published in its official publication and as described in its \"Model Regulations for Processed Animal Waste Products as Animal Feed Ingredients.\" Under the AAFCO Model Regulation, in order for this product to be used in a commercial feed, it must be registered/licensed within a State, and be assayed periodically for Salmonella and E. coli bacteria, heavy metals, pesticides, drugs, parasitic larva or ova, and mycotoxins.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q27.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can uncooked pizza dough that may contain beef materials be fed to ruminants?",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. No. The pizza would have to have been inspected, cooked and offered for human consumption, and further processed before it would qualify for the “plate waste” exception.",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Single Species Slaughter Facilities:",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q28.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I am a renderer and I intend to separate prohibited material from nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Why must I obtain my exempt material from a single species slaughter facility as long as I comply with the separation requirement?",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. FDA has no regulatory authority over the slaughterhouses, so the agency could not require them to have the separation or cleanout procedures which would be necessary to provide adequate protection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q29.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "My company slaughters pigs and lamb in separate facilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We render the pig offal, but send the lamb offal to another facility for rendering.",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Waste water from the separate facilities is collected in a common area and then flocculated to suspend the solids from the separate kill floors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The solids, a mud-like material, are returned to the pork rendering operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "May we treat the rendered pork products as if it came from a single species slaughter facility?",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. No. The solid material which you return to the pork rendering operation contains some portion of lamb offal from the kill floor.",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The addition of this prohibited mammalian product to the pork materials requires that you label the material “Do not feed to cattle or other ruminants,” and comply with the other requirements of the rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Separation of Prohibited and Nonprohibited Materials:",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q30.",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "May prohibited and non-prohibited products be stored in the same cooler so long as each product is in a separate container, is properly labeled, and there are established procedures to prevent commingling and cross-contamination of products?",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is likely that any method will be acceptable to FDA as long as it achieves its intended purpose -- prevention of commingling or cross-contamination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q31.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Is it necessary to control dust on bin tops to prevent prohibited product particles from entering nonprohibited product?",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The rule states that you must use procedures adequate to prevent cross-contamination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If your firm has a dust problem that results in prohibited material contaminating nonprohibited product, then you have not met the requirements of the rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Clean-out:",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q32.",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What procedures are considered acceptable by FDA for cleaning loadout bins?",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Clean-out could be accomplished by physical clean-out, flushing, sequencing or other means that are adequate to prevent carryover of prohibited materials into nonprohibited materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Small Entity Compliance Guides provide additional guidance on clean-out methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Upon request, CVM’s Division of Compliance (see address and phone number on page 1) will comment on specific clean-out procedures that a firm is planning is to use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q33.",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Small Entities Compliance Guide for Renderers states that flushing volume of nonprohibited material should be equal to one complete change of operating volume.",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "My operation has a 10-ton capacity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does this mean I have to run 10 tons of nonprohibited material through my operation?",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Not necessarily.",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The rule itself requires only that procedures be in place to avoid cross-contamination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Small Entity Compliance Guide for Renderers states that flushing with a complete change of operating volume will satisfy this condition.",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you have established a different volume and/or procedure that will also prevent cross-contamination, you may use it.",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For feed manufacturing operations, off-farm or on-farm, the guide states that the volume of flushed material should be sufficient to prevent carryover of products that contain or may contain prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Feed mill operators should determine their feed mills’ individual characteristics and apply appropriate time and volume requirements for flushing materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional guidance appears in the Small Entity Compliance Guides.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q34.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Is it permissible to load nonprohibited protein in the same loadout bay as prohibited material when separate conveyance systems are used?",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Yes, as long as the clean-out procedure that you establish is adequate to prevent cross-contamination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q35.",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition to providing rendered, non-prohibited product for feeding to ruminants, my firm grinds 4-D meat (meat from dead, dying, diseased or disabled animals) primarily for pet food markets.",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 4-D meat is usually ground and frozen but not heat processed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What are the clean-out guidelines for processing these products?",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. We assume that the 4-D meat includes prohibited material, that is, it is not pure horse or pig material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the two operations share common equipment, your firm needs to follow the clean-out guidelines in the Small Entity Compliance Guide for Renderers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Washing the grinders with soap is an acceptable example. “4-D” processing operations are subject to the same rules as renderers since the regulation defines “renderer” to include any firm or operation that processes animals unfit for human consumption.",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Whether or not the two operations share common processing equipment, your firm needs to take steps to avoid commingling of the prohibited and nonprohibited materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q36.",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Will washing be considered adequate clean-out for small Rubbermaid containers, barrels, totes and/or combo bins?",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Imports:",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q37.",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Who has the responsibility for assuring that imported meat and bone meal is in compliance with the rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. The firm or individual that enters or intends to enter the product into domestic commerce should determine the origin and species of the imported product to be assured that any prohibited material is handled in compliance with the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Import of all mammalian protein products from certain countries is prohibited by U.S. Department of Agriculture (USDA) regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q38.",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is necessary to establish whether an imported mammalian protein product intended for animal feed use contains prohibited material and therefore must comply with the rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. At this time, we are suggesting that the importer request certification from the exporting country that the product does or does not contain prohibited product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Exports:",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q39.",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Are prohibited products that are ordinarily subject to the rule required to comply with the labeling requirements if the products are intended for export?",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. No. However, prohibited protein products destined for export, like all other exported food products, must be marked “For Export Only” on the shipping containers, if appropriate, and on documents accompanying the shipment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Other legal requirements for exported products must also be met.",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Any prohibited product destined for export which is diverted into domestic commerce will be subject to all the requirements of the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Responsibility for assuring that the products are not diverted into domestic commerce rests with the owner of the product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Science:",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q40.",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Can the TSE causative agent affect humans or animals exposed to airborne prohibited materials and dust from these products?",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. No. There is no evidence for direct transmission from animal to animal, or animal to human, by incidental contact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Studies to date indicate that the causative agent must be injected or ingested, or contaminated tissue must be implanted, for transmission to occur.",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Small Entity Compliance Guides are available through the Internet at (http://www.fda.gov/AnimalVeterinary/GuidanceComplianceEnforcement/ ComplianceEnforcement/BovineSpongiformEncephalopathy/default.htm) .",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. Please direct your questions to Shannon Jordre, Center for Veterinary Medicine, Division of Compliance, HFV-230, 7519 Standish Place, Rockville, Maryland 20855 (240-276-9229).",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The questions can be faxed",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Date of the sale Name and address of the seller Name and address of the purchaser Identification of the product Quantity amount of beef hair.",
+      "align_score": null
+    }
+  ]
+}

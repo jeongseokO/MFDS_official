@@ -1,0 +1,2341 @@
+{
+  "document_id": "ee_kct_0006",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_3D printing of composite tissue with complex shape applied to ear regeneration.",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "3D printing of composite tissue with complex shape applied to ear regeneration.",
+    "title_en": "3D printing of composite tissue with complex shape applied to ear regeneration",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "3D 프린팅 / 3D Printing / 국외 / 2014",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the ear reconstruction field, tissue engineering enabling the regeneration of the ear's own tissue has been considered to be a promising technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, the ear is known to be difficult to regenerate using traditional methods due to its complex shape and composition.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this study, we used three-dimensional (3D) printing technology including a sacrificial layer process to regenerate both the auricular cartilage and fat tissue.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The main part was printed with poly-caprolactone (PCL) and cell-laden hydrogel.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At the same time, poly-ethylene-glycol (PEG) was also deposited as a sacrificial layer to support the main structure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After complete fabrication, PEG can be easily removed in aqueous solutions, and the procedure for removing PEG has no effect on the cell viability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For fabricating composite tissue, chondrocytes and adipocytes differentiated from adipose-derived stromal cells were encapsulated in hydrogel to dispense into the cartilage and fat regions, respectively, of ear-shaped structures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Finally, we fabricated the composite structure for feasibility testing, satisfying expectations for both the geometry and anatomy of the native ear.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We also carried out in vitro assays for evaluating the chondrogenesis and adipogenesis of the cell-printed structure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a result, the possibility of ear regeneration using 3D printing technology which allowed tissue formation from the separately printed chondrocytes and adipocytes was demonstrated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Export citation and abstract BibTeX RIS",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Author notes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Author to whom any correspondence should be addressed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Authors",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Jung-Seob Lee AFFILIATIONS Department of Mechanical Engineering, POSTECH, Pohang, Korea Jung Min Hong AFFILIATIONS Department of Mechanical Engineering, POSTECH, Pohang, Korea Jin Woo Jung AFFILIATIONS Department of Mechanical Engineering, POSTECH, Pohang, Korea Jin-Hyung Shim AFFILIATIONS Department of Mechanical Engineering, POSTECH, Pohang, Korea Jeong-Hoon Oh AFFILIATIONS Department of Otolaryngology–Head and Neck Surgery, The Catholic University of Korea, College of Medicine, Seoul, Korea Dong-Woo Cho AFFILIATIONS Department of Mechanical Engineering, POSTECH, Pohang, Korea EMAIL dwcho@postech.ac.kr Author notes Author to whom any correspondence should be addressed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Article metrics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "10011 Total downloads 0 Video abstract views",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Article metrics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "392 CITATIONS 392 Total citations 48 Recent citations 43 Field Citation Ratio 8.98 Relative Citation Ratio",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Submit",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit to this Journal",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Permissions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Get permission to re-use this article",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Article information",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dates Received 28 July 2013 Accepted 13 December 2013 Published 24 January 2014 Buy this article in print Journal RSS Sign up for new issue notifications",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Dates",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Received 28 July 2013 Accepted 13 December 2013 Published 24 January 2014",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the field of external ear reconstruction, tissue engineering enabling the regeneration of the ear's own tissue has been considered a promising technology [ 1 – 4 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The human external ear consisting of mainly elastic cartilage and fat tissue in a very complex shape is known to be difficult to regenerate [ 5 , 6 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The cartilage has a nonvascular structure supported by an extracellular matrix and collagen fibers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The proliferation and the cell density of chondrocytes are lower than those of other cells, so the cartilage has low self-renewal and is weak when inflamed [ 7 , 8 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, ears damaged or lost by congenital or acquired diseases such as microtia, anotia or accidents have been reconstructed with the implantation of a prosthesis or carved rib cartilage [ 9 , 10 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These treatments can result in side effects including erosion, absorption, infection, inflammation, collapse and dislodgement [ 11 , 12 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tissue-engineered structures have been used to overcome these complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3D cell printing is a promising technology for regenerating a range of human tissues and organs [ 12 – 14 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is possible to mimic the anatomical position of target tissues as cells can be directly printed to the desired location with high cell viability [ 14 – 19 ], and the cell number can be controlled by incorporating cells into the gel [ 15 , 18 , 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, this technique provides cell-to-cell interaction with the 3D culture environment, such that printed cells aggregate and assemble themselves together [ 14 , 15 , 17 – 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On account of these benefits, 3D cell printing technology is also used for regenerating cartilage tissue.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In vitro and in vivo experiments showed that chondrocytes encapsulated in the hydrogel of structures more effectively proliferated and differentiated into the cartilage than non-printed chondrocytes [ 17 – 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cell-printed structures with an ear shape have not ever been directly fabricated by 3D cell printing technology even though the technology has already been used for regenerating cartilage and other organs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indeed, some researchers used the method of fabricating a mold by commercialized rapid prototyping (RP) for mimicking the ear shape.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In these cases, structures with an ear shape were composed of one cell or material type [ 20 – 22 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, the structures might be at risk of extrusion from the skin or shrinkage of the whole shape when they were implanted, because the mechanical properties of the final structures were much stronger or weaker than those of the auricular cartilage [ 21 , 23 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With the extrusion-based system, which is one kind of 3D cell printing technology, it is difficult to fabricate structures with a complex shape like an ear and cell-printed structures with an ear shape have not ever been directly fabricated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The extrusion-based system enables the dispensing of various kinds of cells into the same structure using different heads and adopts a bottom-up layer-by-layer process [ 14 , 15 , 17 , 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, it is fundamentally difficult to stack layers on a complex-shaped structure in which the horizontal cross-sectional area becomes larger, such as an inverted pyramid or a bowl shape.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In contrast, in the industrial field of extrusion-based RP, complex-shaped structures are already being fabricated with a sacrificial layer process, which enables mechanically supporting the main part [ 24 , 25 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, the sacrificial layer technology might not be immediately applicable to tissue regeneration and the clinical field because its materials and procedure are not biocompatible, but rather, toxic to tissues and organs [ 24 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this study, a dual-cell-type printed structure with an ear shape was fabricated using 3D cell printing technology including a sacrificial layer process, but with biocompatible materials and procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For deposition of a porous structure with an ear shape, we developed a new sacrificial layer technology applicable to 3D cell printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A porous ear-shaped structure fabricated with a sacrificial layer process served as a framework, and the mechanical properties of the framework were controlled to fit the mechanical properties of the native ear.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At the same time, chondrocytes and adipocytes differentiated from adipose-derived stromal cells (ASCs) were printed separately into the framework to fabricate the cell-printed structure with an ear shape, taking into consideration the anatomical distribution of the ear using a multi-head tissue/organ building system (MtoBS).",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "1. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, we demonstrated both the chondrogenesis and adipogenesis of separately printed chondrocytes and adipocytes, respectively, in the same structure using in vitro assays.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Materials In this study, poly-caprolactone (PCL, Sigma-Aldrich, St Louis, MO, USA, Mw 45 000–60 000), poly-ethylene glycol (PEG, Sigma-Aldrich, St Louis, MO, USA, Mw 20 000) and sodium salt of alginate acid (Sigma-Aldrich, St Louis, MO, USA) were used as the framework, sacrificial parts and hydrogel material, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Alginate hydrogels were distinguished by staining with brilliant red and blue ink cartridges (Rotring GmbH, Hamburg, Germany).",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Multi-head tissue/organ building system An MtoBS was used to fabricate a porous 3D framework and position various hydrogels into the framework as described previously [ 26 , 27 ] (figures 1 ( a ) and ( b )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The MtoBS had a precise controller for motion, temperature, the plunger and pneumatic system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Six dispensing heads with syringes that can contain six different biomaterials, one in each, are discretely assembled and individually controlled, so they enable the fabrication of a cell-printed construct with synthetic polymer and cell-laden hydrogel.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The temperature, pressure and piston of the plunger are also controlled individually.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Zoom In Zoom Out Reset image size Figure 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Images of the MtoBS and CAD/CAM technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Schematic diagram of the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) Front view of the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( c ) CAD model design: main part having auricular cartilage (green color) and earlobe fat (cyan color) and sacrificial part (blue color).",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( d ) Slicing CAD model at intervals of 100 µm thickness.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( e ) Code generation to control XYZ movement of the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image 2.3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CAD/CAM system An algorithm was newly developed to fabricate the cell-printed structure with a free-form shape.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CAD models containing the external shape of the ear-shaped main part and its sacrificial layer part were designed in CATIA V5 (Dassault Systemes), and exported to the stereolithography (STL) file format.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The algorithm generates a series of two-dimensional (2D) pattern data from STL file data for printing the sacrificial layer, framework and cell-laden hydrogel (figures 1 ( c )–( e )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Framework fabrication using sacrificial layer technology Figure 2 shows the fabrication of the framework with sacrificial layer technology using the MtoBS based on CAD/CAM.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "PEG and PCL were used for the sacrificial material and main materials of the framework, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "PEG and PCL were dispensed with the fabrication conditions displayed in table 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the framework fabrication, the first layer of the main part was stacked with PCL and that of the sacrificial part was stacked with PEG at the same level as the PCL layer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The framework made up of PCL and PEG was fabricated by layer-by-layer deposition.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sacrificial component of PEG could be easily removed in aqueous solutions such as distilled water or cell culture media in an incubator for 40 min after complete fabrication.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Through this process, the final framework was obtained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The PEG served as support for the next deposition of the main part.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The line width of PCL and PEG was 200 µm and 150 µm, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pre-osteoblasts (RIKEN cell bank, Tsukuba, Japan) were seeded at 2 × 10 5 cells scaffold −1 onto the final structure and on wells of 48-well culture plate as the PCL-PEG structure group and control group, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The culture process was then followed as previously described [ 28 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A cell counting kit-8 (CCK-8, Dojindo Laboratory, Kumamoto, Japan) was used to measure the optical density value of the cells to evaluate cell viability at days 1, 4 and 7 ( n = 4).",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For comparison of cell attachment and proliferation, a control group was set up with the same number of cells seeded onto a culture dish.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Zoom In Zoom Out Reset image size Figure 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The schematics of the fabrication process of the inverse porous pyramid structure using sacrificial layer technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image Table 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fabrication condition using the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Material Pressure (kPa) Piston velocity (mm s −1 ) Temperature (°C) Scan velocity (mm min −1 ) Layer thickness (mm) Line width (mm) Injection system PCL 650 – 80 205 0.1 0.2 Pneumatic system PEG 300 – 80 310 0.1 0.25 Pneumatic system 4% alginate hydrogel – 0.008 Room 80 0.8 1 Plunger system (with/without cell) temperature 2.5.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mechanical property evaluation of framework Single-column mechanical testing equipment (Instron, Norwood, MA, USA) was used to measure the tensile modulus of the auricular cartilage and the fabricated framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A tensile test was conducted in accordance with ASTM D638 using Hexahedron specimens made up of PCL and fabricated as shown in table 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The porous specimens differed depending on the line width and line pitch, in which ‘line pitch’ means the distance between two center lines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "PCL specimens ( n = 6) were fabricated with a line pitch of 800, 900, 1000, 1100 and 1200 µm containing the same line width of 200 µm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All of the results were compared with the tensile modulus of human auricular cartilage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the tensile test, the specimens were pulled at a crosshead velocity of 0.6 mm min −1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mechanical tensile modulus was calculated from the stress–strain curves.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the stress–strain curve, the slope of the first linear portion was defined as the modulus of each framework (supplementary data 1 (available from stacks.iop.org/BF/6/024103/mmedia )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The stress–strain curve of the tensile test was plotted and calculated using Origin 8 (OriginLab Corporation, Northampton, MA, USA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Preparation of cell-laden alginate hydrogel Human adipose derived stem cells (ASCs) were isolated and cultured as previously described [ 29 , 30 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The isolated ASCs were cultured in Dulbecco's modified Eagle's medium (DMEM, Gibco BRL, Grand Island, NY, USA) with 10% (v/v) fetal bovine serum (Gibco BRL) and 1% penicillin/streptomycin at 37 °C in a humidified atmosphere of 5% CO 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The ASCs of the third passage were used in all of the experiments.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The culture medium was changed to chondrogenic induction medium (CM) which is made up of DMEM, 10 µg ml −1 transforming growth factor β 1 (TGF-β 1 , R&D systems), 50 µg ml −1 ascorbate-2-phosphate, 1 µM ml −1 dexamethasone (Sigma-Aldrich, St Louis, MO, USA), 1X insulin-transferrin-selenium plus (ITS, Sigma-Aldrich), adipogenic induction medium (AM), which is made up of DMEM, 33 µM ml −1 biotin (Sigma-Aldrich), 17 µM ml −1 pantothenate (Sigma-Aldrich), 1 µM ml −1 human insulin (Sigma-Aldrich), 1 µM ml −1 dexamethasone, and 250 µM Ml −1 isobutylmethylxanthine (Sigma-Aldrich) for a week.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chondrocytes and adipocytes, which were differentiated from ASCs with CM and AM during seven days were detached from the culture dish using 0.25% trypsin (Sigma-Aldrich, St Louis, MO, USA)-ethylenediaminetetraacetic acid (EDTA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The chondrocytes and adipocytes were suspended in 10% fetal bovine serum (FBS, Gibco BRL) and tenfold concentrated Dulbecco's modified Eagle's medium (10X DMEM, Gibco BRL, USA), respectively, at 10 6 cells ml −1 and manually mixed with 4% w/v alginate solution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chondrocyte laden 4% alginate hydrogel (CLH) and adipocyte laden 4% alginate hydrogel (ALH) were prepared.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fabrication of cell-printed structure using the MtoBS for in vitro test For the in vitro test, cell-printed structures were fabricated by the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CLH or ALH or both were dispensed to the space between the lines of the PCL framework using the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The line pitch and line width of the PCL framework were 800 µm and 200 µm, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Through the layer-by-layer deposition process, the cell-printed structure (5 mm × 5 mm × 2 mm) was fabricated under the fabrication conditions shown in table 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three groups were prepared.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Group 1 (C): only CLH was printed into the secondary pores of the PCL framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Group 2 (A): only ALH was printed into the secondary pores of the PCL framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Group 3 (CA): both CLH and ALH were separately printed into different secondary pores of the PCL framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At that time, CLH and ALH were not mixed, but dispensed to different spaces, so they were separated in the same layer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After the cell-printed structures were fabricated, the CLH and ALH were crosslinked with 100 mM calcium chloride (CaCl 2 , Sigma-Aldrich) for 10 min and washed for 15 min with sterile phosphate-buffered saline (PBS, Hyclone, USA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These cell-printed structures were used for in vitro testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A LIVE/DEAD Viability/Cytotoxicity Kit (Molecular Probes, Eugene, OR, USA) of the cell-printed structures at day 1 was used for checking that the cells had been printed properly.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sample was observed with a fluorescence microscope (Axiovert 200, Zeiss, Jena, Germany).",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The fabricated cell-printed structures were incubated with CM for a week at 37 °C in a humidified atmosphere containing 5% CO 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Quantitative analysis of chondrogenesis and adipogenesis in cell-printed structures To measure the cell number in each group, the cell-printed structures were immersed in sodium citrate reagent (Sigma-Aldrich) for 30 min to decompose the crosslinked alginate hydrogel at days 1, 4 and 7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The cell-printed structures ( n = 3) were harvested for analysis at day 7 and the DNA contents test and real time polymerase chain reaction (PCR) were performed as previously described [ 29 – 32 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Briefly, the total DNA and RNA were extracted from the cell-printed structures at day 7 using TRIzol reagent (Invitrogen, Groningen, The Netherlands).",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The DNA content was measured using a Nanodrop ND1000 spectrophotometer (NanoDrop Technologies, Wilmington, DE, USA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The cDNA was synthesized from extracted RNA (1 µg) with the SuperScript synthesis system (Invitrogen).",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Real time PCR was performed using the SYBR Green PCR Master Mix assay (Applied Biosystems, Warrington, UK) and the ABI StepOnePlus system (Applied Biosystems, Foster City, CA, USA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The following primers were used: GAPDH sense, 5′-CCAGGTGGTCTCCTCTGACTTC-3′; GAPDH antisense, 5′-GTGGTCGTTGAGGGCAATG-3′; COL2A1 sense, 5′-ACTGGATTGACCCCAACCA-3′; COL2A1 antisense, 5′-TCCATGTTGCAGAAAACCTT-3′: SOX9 sense, 5′-AGCGACGTCATCTCCAACAT-3′; SOX9 antisense, 5′-GTTGGGCGGCAGGTACTG-3′; ACAN sense, 5′-AGTATCATCAGTCCCAGAAT-3′; ACAN antisense, 5′-AATGCAGAGGTGGTTTCACT-3′; PPARG sense, 5′-GGTGGCCATCCGCATCT-3′; PPARG antisense, 5′-GCTTTTGGCATACTCTGTGATCTC-3′; ADIPO sense, 5′-TCAGCATTCAGTGTGGGATTG-3′; ADIPO antisense, 5′- GGTAAAGCGAATGGGCATGT-3′.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The expression levels of sox9, collagen type II, aggrecan, PPARγ and adiponectin were calculated relative to the GAPDH expression level.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Immune staining of cell-printed structures In the in vitro test, immunohistological analysis was carried out to confirm the chondrogenesis and adipogenesis of the cell-printed structures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Group 1 (C), group 2 (A) and group 3 (CA) were labeled with anti-collagen type II (Col II, Abcam, Cambridge, MA, USA), anti-collagen type X (Col X, Abcam) as chondrogenic marker and peroxisome proliferator activated receptor gamma (PPAR-γ, Santa Cruz Biomedical, CA, USA) as an adipogenic marker.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All of the samples were fixed at day 7 in 10% formalin for 1 h and permeabilized in 0.1% Triton X-100 and 0.2% bovine serum albumin (BSA) for 5 min each.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The samples were stained for specific markers with Col II, Col X and PPAR-γ antibody reagents, and the treated samples were stored at 4 °C overnight.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After washing with PBS, secondary antibody (Alexa Fluor 488 goat anti-rabbit IgG, Alexa Fluor 594 goat anti-mouse IgG, Life Technology) was added for 1 h at room temperature.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The samples were stained with antifade reagent containing DAPI (Invitrogen).",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All samples (5 mm × 5 mm × 2 mm) were directly visualized without sectioning using confocal microscopy (Olympus confocal FluoView 1000) at 200× magnification and all of the images were captured without changing the camera settings.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fabrication of dual hydrogel-type printed structure with ear shape using the MtoBS For the feasibility test which enabled fabricating the cell-printed structure with ear shape, the acellular structure was fabricated with PCL, PEG and ink-labeled hydrogel using the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4% w/v alginate hydrogels were dyed with red and blue ink to distinguish the different hydrogels.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The ear-shaped framework was fabricated using sacrificial layer technology, while at the same time, the labeled hydrogels were dispensed considering the auricular cartilage and the earlobe fat region under fabrication conditions shown in table 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The size of the space filled with labeled hydrogel was 800 µm and the pores without labeled hydrogel had a 600 µm pore size.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After complete fabrication of the acellular structure made of PEG, PCL and labeled hydrogel, it was crosslinked with 100 mM CaCl 2 for 10 min and washed with PBS for 15 min.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The acellular structure was immersed in the DMEM and put in the incubator at 37 °C for 40 min to remove the PEG sacrificial component.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Statistical analysis Statistical analyses were conducted by a one-way analysis of variance with post-hoc Tukey's test using MINITAB software version 14.2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "2. Materials and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Differences were considered statistically significant at a value of P < 0.05.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "2.1. Materials",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this study, poly-caprolactone (PCL, Sigma-Aldrich, St Louis, MO, USA, Mw 45 000–60 000), poly-ethylene glycol (PEG, Sigma-Aldrich, St Louis, MO, USA, Mw 20 000) and sodium salt of alginate acid (Sigma-Aldrich, St Louis, MO, USA) were used as the framework, sacrificial parts and hydrogel material, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "2.2. Multi-head tissue/organ building system",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An MtoBS was used to fabricate a porous 3D framework and position various hydrogels into the framework as described previously [ 26 , 27 ] (figures 1 ( a ) and ( b )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "2.2. Multi-head tissue/organ building system",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "2.3. CAD/CAM system",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An algorithm was newly developed to fabricate the cell-printed structure with a free-form shape.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "2.5. Mechanical property evaluation of framework",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Single-column mechanical testing equipment (Instron, Norwood, MA, USA) was used to measure the tensile modulus of the auricular cartilage and the fabricated framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "2.6. Preparation of cell-laden alginate hydrogel",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Human adipose derived stem cells (ASCs) were isolated and cultured as previously described [ 29 , 30 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "2.7. Fabrication of cell-printed structure using the MtoBS forin vitrotest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the in vitro test, cell-printed structures were fabricated by the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "2.8. Quantitative analysis of chondrogenesis and adipogenesis in cell-printed structures",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To measure the cell number in each group, the cell-printed structures were immersed in sodium citrate reagent (Sigma-Aldrich) for 30 min to decompose the crosslinked alginate hydrogel at days 1, 4 and 7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "2.9. Immune staining of cell-printed structures",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the in vitro test, immunohistological analysis was carried out to confirm the chondrogenesis and adipogenesis of the cell-printed structures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "2.10. Fabrication of dual hydrogel-type printed structure with ear shape using the MtoBS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the feasibility test which enabled fabricating the cell-printed structure with ear shape, the acellular structure was fabricated with PCL, PEG and ink-labeled hydrogel using the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "2.11. Statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Statistical analyses were conducted by a one-way analysis of variance with post-hoc Tukey's test using MINITAB software version 14.2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fabrication of a complex-shaped framework using sacrificial layer technology The structures as represented in figures 3 ( a ) and ( d ) would have been difficult to stack with only one material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, the overhanging region was supported by a PEG sacrificial component shown in figures 3 ( b ) and ( e ); thereby, the desired structures were obtained, as can be seen in figures 3 ( c ) and ( f ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The structures had a very thin line width (200 µm) and identical pore size (200 µm).",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, the inverse pyramid was also readily fabricated with the sacrificial layer process as represented in figure 4 ( a ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A CCK-8 assay was then conducted to evaluate the cell viability in the sacrificial layer procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In figures 4 ( b ) and ( c ), the cells attached to the inverse pyramid and proliferated for a week.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "According to the cell viability result, the structure based on sacrificial layer technology and the procedure of removing the PEG had no adverse effects on the cell viability.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The proliferation rate of the inverse pyramid was similar to that of the control group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Zoom In Zoom Out Reset image size Figure 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3D printed complex structure made up of PCL and PEG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a )–( c ) Overhanging structure (20 mm × 10 mm × 6 mm), ( d )–( f ) hollowed hemisphere structure (diameter 10 mm).",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ), ( d ) CAD designs of main part and sacrificial part, ( b ), ( e ) structures with PCL and PEG, ( c ), ( f ) final porous structures after removing the PEG with distilled water.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image Zoom In Zoom Out Reset image size Figure 4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fabrication and cell viability test of inverse pyramid using sacrificial layer technology: ( a ) inverse pyramid structure images, ( b ) CCK-8 assay result and ( c ) SEM images of inverse pyramid at day 7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image 3.2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fabrication and mechanical property evaluation of framework Figure 5 ( a ) shows the tensile modulus result according to the change of the line pitch.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All specimens had the same line width of 200 µm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The tensile modulus (16 ± 3.3 MPa) of the native auricular cartilage was used as a standard for determining the proper line pitch.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The standard was indicated as a dotted line and the tensile modulus of the specimens became more similar to that of the auricular cartilage with increasing line pitch (figure 5 ( a )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no significant difference among line pitch values of 1000, 1100 and 1200 µm, and the tensile modulus of the three groups was similar, in a range of 14–16 MPa.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, the tensile modulus of the three groups was similar to that of the auricular cartilage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Zoom In Zoom Out Reset image size Figure 5.",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Result of tensile modulus of specimens, and images of ( b ) fabricated structure with PCL and PEG, ( c ) ear-shaped framework (line width 200 µm, line pitch 1100 µm), ( d ) flexibility of ear-shaped framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image 3.3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In vitro quantitative analysis of chondrogenesis and adipogenesis in the cell-printed structure Figure 6 indicates the live and dead cells printed by the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The cell-printed structures containing cells that were alive were used for the in vitro test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It was found that the cells encapsulated in hydrogel were alive (with 95% viability rate) and were also dispensed into the desired space of the cell-printed structure (supplementary data 2 (available from stacks.iop.org/BF/6/024103/mmedia )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Before quantitative analysis, we confirmed that ASCs were able to be differentiated into chondrocytes and adipocytes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The chondrocytes differentiated from ASCs over the course of a week expressed a high level of GAG, Sox9, collagen type II (Col2A1) and aggrecan (AGC1), which are chondrogenic markers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Adipocytes differentiated from ASCs, on the other hand, expressed a high level of PPAR-γ and adiponectin, which are adipogenic markers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Zoom In Zoom Out Reset image size Figure 6.",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Live and dead assay results of cell-printed structure at day 1, magnification 100×, green dot: live cell, red dot: dead cell (scale bar: 100 µm).",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image Quantitative analysis of the cell-printed structure was also carried out to evaluate chondrogenesis and adipogenesis (figure 7 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All of the cells encapsulated in hydrogel steadily proliferated based on increasing cell number and DNA contents in figures 7 ( a ) and ( b ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Both results of cell number and DNA contents showed that there was no problem with the proliferation when both types of cells were cultured together.",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As shown in figures 7 ( c )–( g ), printed chondrocytes did not express adipogenic markers but chondrogenic markers in group C. In contrast, adipogenic markers of adipocytes in cell-printed structure of group A and CA were highly expressed (figures 7 ( f ) and ( g )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition to that, chondrogenic and adipogenic markers were highly expressed in group CA. Zoom In Zoom Out Reset image size Figure 7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Cell number of cell-printed structures at day 1, 4 and 7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b ) DNA contents of cell-printed structures at day 1, 4 and 7, and gene expression of ( c ) Sox9, ( d ) type II collagen, ( e ) AGC, ( f ) PPAR-γ, ( g ) adiponectin of cell-printed structures at day 7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image 3.4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In vitro immunostaining analysis of chondrogenesis and adipogenesis in the cell-printed structure To examine the distribution of cartilage and fat tissue in the cell-printed structure, immune staining was conducted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At day 7, all three groups had proliferated better in comparison to the fluorescence images in figure 6 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The chondrocytes seemed to be differentiated from ASCs and formed the prehypertrophic and/or hypertrophic chondrocytes including type II and type X collagen in figure 8 ( a ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The adipocytes seemed to be also induced from ASCs in figure 8 ( b ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Similarly, the separately printed chondrocytes and adipocytes also underwent chondrogenesis and adipogenesis, respectively, as shown in figure 8 ( c ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Zoom In Zoom Out Reset image size Figure 8.",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Confocal images of ( a ) group 1 (C): blue dots (DAPI), red dots (type II collagen), green dots (type X collagen), ( b ) group 2 (A): blue dots (DAPI), red dots (PPAR-γ), ( c ) group 3 (CA): blue dots (DAPI), red dots (PPAR-γ), green dots (type X collagen) at day 7, (scale bar: 100 µm).",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download figure: Standard image High-resolution image 3.5.",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Printing of the dual acellular hydrogel 3D construct The two acellular hydrogels were precisely dispensed to the desired location corresponding to the anatomic position of the ear with the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The structure was fabricated through red- and blue-labeled hydrogels that were dispensed into the porous ear-shaped framework fabricated with sacrificial layer technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The red- and blue-labeled hydrogels indicated the location of the auricular cartilage and earlobe fat, respectively (figure 9 ( a )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In figures 9 ( b )–( d ), two labeled hydrogels were not mixed in the contact region between the red- and blue-labeled hydrogels, maintaining their position even though the other layers were stacked.",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Zoom In Zoom Out Reset image size Figure 9.",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acellular printed structure using 3D bioprinting technology with the sacrificial layer process, auricular cartilage region (red color) and lobe fat region (blue color).",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( a ) Fabricated ear-shaped structure with dual hydrogel type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "3. Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( b )–( d ) Images of printed structure having dual hydrogel-type and PCL framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "3.1. Fabrication of a complex-shaped framework using sacrificial layer technology",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The structures as represented in figures 3 ( a ) and ( d ) would have been difficult to stack with only one material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "3.4.In vitroimmunostaining analysis of chondrogenesis and adipogenesis in the cell-printed structure",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To examine the distribution of cartilage and fat tissue in the cell-printed structure, immune staining was conducted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "3.5. Printing of the dual acellular hydrogel 3D construct",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The two acellular hydrogels were precisely dispensed to the desired location corresponding to the anatomic position of the ear with the MtoBS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many researchers have reported that the established fabrication method based on geometrical commercialized RP has the limitation of not being able to stack up structures with overhanging, curved or hollowed shapes in the tissue engineering field [ 34 – 37 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To overcome this limitation, finding a method for fabricating inverse pyramid and bowl-shaped structures is required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A procedure of the method also has no toxicity for cells.",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sacrificial layer technology, which was developed with PEG material in this study, enabled the fabrication of structures with a complex shape.",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparing the CAD models (figures 3 ( a ) and ( d )) and the real products (figures 3 ( c ) and ( f )), the sacrificial layer technology allowed the stacking of structurally complicated structures regardless of geometrical shape.",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, the PEG sacrificial component does not affect the cell viability and proliferation as can be seen in figure 4 ( a ) and supplementary data 2 (available from stacks.iop.org/BF/6/024103/mmedia ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sacrificial material (PEG) has various benefits applicable to 3D printing technology [ 38 , 39 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is very simple to remove the PEG sacrificial component by dissolving in an aqueous solution such as distilled water or cell culture media within 40 min.",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the sacrificial layer technology enabled the fabrication of a complex-shaped structure under the biocompatible condition as shown in figures 3 and 4 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The framework was fabricated with consideration of the mechanical properties as well as the shape of the structure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The line pitch is a determinant of the tensile modulus of the porous framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The tensile modulus of the framework was important for regenerating the auricular cartilage and desirable to be similar to that of the native auricular cartilage [ 40 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The framework that had similar tensile modulus to the ear was fabricated with the 1000–1200 µm line pitch (figure 5 ( a )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The ear-shaped framework with the proper line width and pitch was fabricated using sacrificial layer technology, and the ear-shaped framework was bent and bounced back to maintain its initial shape after bending (figure 5 ( b )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, we directly measured the tensile modulus of the Korean auricular cartilage using the same method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The tensile modulus of the framework with a line pitch of 1100 µm was found to be similar to that of the auricular cartilage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the framework with proper tensile modulus could be implanted under a human's skin without collapsing of its own shape or damaging the surrounding skin tissue [ 40 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "According to quantitative analysis, the printed chondrocytes and adipocytes actively proliferated in all three groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the case of cell-printed structure with chondrocytes, it seemed that the hydrogels might provide chondrocytes a 3D culture environment as they proliferated well within the hydrogels [ 41 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On the other hand, printed adipocytes proliferated with a relatively lower rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Separately printed chondrocytes and adipocytes in group CA had very similar cell proliferation rate to that of only printed chondrocytes in group C (figures 7 ( a ) and ( b )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, it was not easy to evaluate the proliferation rates of chondrocytes and adipocytes separately.",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is no report showing the influence in cell proliferation rate between chondrocytes and adipocytes in a co-printed structure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although we did not confirm which type of cells proliferated more in group CA, it is possible to compare the total cells proliferation rate among groups C, A and CA. Printed chondrocytes in groups C and CA proliferated and differentiated as can be seen in the results of chondrogenic transcription factors of Sox9, and early chondrogenic markers, such as AGC1 and Col2A1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, printed chondrocytes served as the cartilage and might be in a proliferative and/or prehypertrophic state during the seven day period of growth [ 42 , 43 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Adipogenic markers, PPAR-γ and adiponectin play an important role in adipocyte differentiation, glucose metabolism and insulin sensitization.",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, PPAR-γ is known to affect cell differentiation and proliferation in various types of metabolism [ 33 , 44 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, in group CA, chondrogenic and adipogenic values of the co-printed case were similar to those of groups C and A (figures 7 ( c )–( g )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Among the three groups C, A and CA, the same cells were encapsulated in hydrogel and printed into the framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus, the chondrocyte number of group CA was 66% of that of the number of group C and the adipocyte number of group CA was 33% of that of the number of group A. Considering this condition, the chondrogenic and adipogenic expression of group CA were much higher than that of groups C and A. Moreover, in cartilage treatment, many doctors have reported that fat tissue effectively increased regeneration of various cartilages.",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They use injection of fat tissues to septal cartilage for regeneration of nose; the functional septal cartilage has been found to improve, and there are no complications from the use of fat tissues [ 45 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, quantitative analysis results showed that the auricular cartilage and earlobe fat could be regenerated while maintaining their inherent functions in different regions of the same structure at the same time by printing chondrocytes and adipocytes separately.",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The chondrocytes in group CA (green dots in figures 8 ( c )) exhibited more type X collagen in comparison to those of group C (green dots in figure 8 ( a )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, the adipocytes in group CA (red color in figure 8 ( c )) showed more proliferation than those in group A (figure 8 ( b )).",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, as shown in figure 8 , the co-printed chondrocytes and adipocytes effectively formed their own tissue together with quantitative analysis as shown in figure 7 ( c ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Taken together, these outcomes showed that we can expect the co-regeneration of cartilage and fat tissue with a dual cell-printed structure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chondrogenesis and adipogenesis may occur simultaneously when chondrocytes and adipocytes are co-cultured in one structure using 3D printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, for complete regeneration of the cartilage and fat tissues, long-term in vitro and in vivo evaluation from several days to several months is required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although acellular hydrogels were used for the feasibility test (figure 9 ), the ear-shaped structure with dual cell types could be constructed using 3D printing technology by replacing acellular hydrogels with cell-laden hydrogels.",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indeed, we have already demonstrated earlier that the location of printed cells can be controlled by 3D printing technology with no detrimental effect on cell viability [ 26 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, chondrocytes and adipocytes could be printed together into the ear-shaped framework using 3D printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Consequently, the ear-shaped structure with dual cell types not only maintained the ear shape, but also regenerated the auricular cartilage and the earlobe fat at the same time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the foreseeable future, an incubating system that can be attached to the MtoBS will be developed to keep the printed cells alive, because the viability of the printed cells could be reduced during the fabrication of large-size structures such as an ear.",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "4. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Finally, the cell-printed structure with ear shape will be fabricated and evaluated in vivo .",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "5. Conclusion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this study, we confirmed the feasibility of fabricating the cell-printed structure made up of a framework and cell-laden hydrogels using 3D printing technology including a sacrificial layer process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "5. Conclusion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The sacrificial layer technology was effective for fully fabricating the complex porous framework.",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "5. Conclusion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, cartilage and fat tissue were induced to regenerate biologically at the same time from separately printed chondrocytes and adipocytes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "5. Conclusion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In particular, chondrogenesis and adipogenesis effectively occurred when co-printed chondrocytes and adipocytes were co-cultured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "5. Conclusion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although the ear-shaped structure fabricated by the MtoBS has acellular hydrogels, we notably confirmed the feasibility of ear regeneration using 3D printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "5. Conclusion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study has shown that 3D printing technology including a sacrificial layer process can be expected to regenerate most tissues and organs having complex shapes and multiple types of cells, like the ear.",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "Acknowledgment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIP) (no. 2010-0018294 and no. 2011-0030075).",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "Show References",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Please wait… references are loading.",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "You may also like",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Journal articles Human-engineered auricular reconstruction (hEAR) by 3D-printed molding with human-derived auricular and costal chondrocytes and adipose-derived mesenchymal stem cells 3D printing of human ear pinna using cartilage specific ink Preparation and characterization of a decellularized cartilage scaffold for ear cartilage reconstruction 3D hybrid printing platform for auricular cartilage reconstruction Optimizing cell sourcing for clinical translation of tissue engineered ears",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "Journal articles",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Human-engineered auricular reconstruction (hEAR) by 3D-printed molding with human-derived auricular and costal chondrocytes and adipose-derived mesenchymal stem cells 3D printing of human ear pinna using cartilage specific ink Preparation and characterization of a decellularized cartilage scaffold for ear cartilage reconstruction 3D hybrid printing platform for auricular cartilage reconstruction Optimizing cell sourcing for clinical translation of tissue engineered ears",
+      "align_score": null
+    }
+  ]
+}

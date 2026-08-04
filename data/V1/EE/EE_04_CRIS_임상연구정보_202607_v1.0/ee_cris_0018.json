@@ -1,0 +1,460 @@
+{
+  "document_id": "ee_cris_0018",
+  "meta": {
+    "set": "EE",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000019",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=1049",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The effect of acupuncture on ADHD",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The effect of acupuncture on ADHD -randomized controlled trial-",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Institutional Review Board at Korean Medical hospital of Kyunghee University",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seung-Hun Cho",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "KMD",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kyung Hee University",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Soon-sang Hong",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "KMD",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kyung Hee University",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Soon-sang Hong",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "KMD",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kyung Hee University",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kyung Hee University",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kyung Hee University",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kyung Hee University",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Attention-deﬁcit/hyperactivity disorder(ADHD) is a common problem, affecting 7-9% of children(American Psychiatric Association 2000).",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The defining features of ADHD are inattention, hyperactivity and impulsivity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pharmacological treatments are widely used with behavioral treatments in ADHD.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However it's origin is not clarified.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "So pharmacological effects are limited and its adverse effects are common.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Data from family practice physicians and internists show that acupuncture is one of the most frequently recommended CAM therapies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is evidence of acupuncture for effectiveness/efficacy on postoperative nausea and vomiting, stress/pain, substance abuse, enuresis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One of the advantages of acupuncture is that the incidence of adverse effects is substantially lower than that of many drugs used for the same conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acupuncture is reported to be a relatively simple, inexpensive and safe treatment compared to other conventional interventions, is acceptable to Chinese patients and has been widely used to improve severity of the core symptoms in patients with ADHD.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The aim of this study is to assess acupuncture effectiveness on 80 ADHD participants by using clinical acupuncture points.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1. Needling details 0.20mm×30mm Stainless steel acupuncture For each time, Using 13 acupunture points[(GV20)*1, (EX-HN1)*4, (LI4)*2, (LI11)*2, (SP6)*2, (LR3)*2] Acupuncture maintaining for 20min. 2. Treatment regimen 2 times/week * 6weeks 3. Co-interventions In the first 3rd weeks visit and sixth weeks visit, an education for their parents will be conducted. 4. Practitioner background One with 6 yrs regular oriental medical college education, having OMD(oriental medical doctor) license, knowing well about this study and acupuncture safety education. 5. Control intervention The control group will be 6 weeks waiting list without additional ADHD treatment. In the first 3rd weeks visit and sixth weeks visit, an education for their parents will be conducted with ADHD symptom improvement check. If CGI-I score ≧6, participant stops waiting and drops out (as same on acupuncture treatment group for study ethical issues). After waiting endpoint, participants will be given acupuncture treatment for 6 weeks as same.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acupunture, Lifestyle Counseling",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1. Needling details 0.20mm×30mm Stainless steel acupuncture For each time, Using 13 acupunture points[(GV20)*1, (EX-HN1)*4, (LI4)*2, (LI11)*2, (SP6)*2, (LR3)*2] Acupuncture maintaining for 20min. 2. Treatment regimen 2 times/week * 6weeks 3. Co-interventions In the first 3rd weeks visit and sixth weeks visit, an education for their parents will be conducted. 4. Practitioner background One with 6 yrs regular oriental medical college education, having OMD(oriental medical doctor) license, knowing well about this study and acupuncture safety education.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Waiting-List, Lifestyle Counseling",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5. Control intervention The control group will be 6 weeks waiting list without additional ADHD treatment. In the first 3rd weeks visit and sixth weeks visit, an education for their parents will be conducted with ADHD symptom improvement check. If CGI-I score ≧6, participant stops waiting and drops out (as same on acupuncture treatment group for study ethical issues). After waiting endpoint, participants will be given acupuncture treatment for 6 weeks as same.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1. 7-18yrs male/female 2. ADHD(any subtype) in DSM-Ⅳ criteria 3. Without any treatment about ADHD or No chage of treatments/symptoms about ADHD for last 2weeks 4. Self-aprovement of this trial",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1. Diagnosis of developmental disorder 2. Past history of epilepsy 3. other neurotic disorder 4. change/add treatments about ADHD in this trial duration 5. Pregnancy",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korean parent ADHD-RS",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screening visit, (The first 3weeks after waiting, In waiting endpoint), The first 3weeks after treatment, In treatment endpoint, In 6weeks after treatment endpoint",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FAIR",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screening visit, (In waiting endpoint), In treatment endpoint",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CNT",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screening visit, (In waiting endpoint), In treatment endpoint",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IOWA Conners' parent rating scale",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screening visit, (The first 3weeks after waiting, In waiting endpoint), The first 3weeks after treatment, In treatment endpoint, In 6weeks after treatment endpoint",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CGI-I",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screening visit, (The first 3weeks after waiting, In waiting endpoint), The first 3weeks after treatment, In treatment endpoint",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_5.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CGI-S",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_5.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screening visit, (The first 3weeks after waiting, In waiting endpoint), The first 3weeks after treatment, In treatment endpoint",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_6.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "K-CBCL",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_6.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screening visit, (In waiting endpoint), In treatment endpoint",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_7.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conners' parent rating scale(CPRS)",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_7.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screening visit, (The first 3weeks after waiting, In waiting endpoint), The first 3weeks after treatment, In treatment endpoint, In 6weeks after treatment endpoint",
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "document_id": "ee_kct_0016",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_A Case of Dasatinib-Induced Hemorrhagic Colitis Diagnosed by the Lymphocyte Transformation Test in a Chronic Myeloid Leukemia Patient.",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "A Case of Dasatinib-Induced Hemorrhagic Colitis Diagnosed by the Lymphocyte Transformation Test in a Chronic Myeloid Leukemia Patient.",
+    "title_en": "A Case of Dasatinib-Induced Hemorrhagic Colitis Diagnosed by the Lymphocyte Transformation Test in a Chronic Myeloid Leukemia Patient",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "백혈병 / Leukemia / 국외 / 2016-06",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dasatinib is an effective treatment option for patients diagnosed with Philadelphia chromosome positive chronic myeloid leukemia and who are non-responsive or intolerant to imatinib treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dasatinib, however, is associated with various adverse effects and on rare occasions, may cause hemorrhagic colitis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We report the case of a 68-year-old male patient with dasatinib-induced hemorrhagic colitis, the first such case in Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Endoscopic biopsy of the transverse colon demonstrated non-specific inflammatory changes only.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cessation of dasatinib led to the resolution of symptoms, while reintroduction of the therapy led to the recurrence of his bloody diarrhea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To clarify the association between dasatinib and hemorrhagic colitis, the lymphocyte transformation test (LTT) was performed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The LTT result sustained a relatively high proliferation activity in the affected patient compared with almost no proliferation activity in normal control.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dasatinib is an effective secondary treatment option for Philadelphia-chromosome-positive chronic myeloid leukemia (CML) or acute lymphoblastic leukemia (ALL) patients who are imatinib-intolerant or -resistant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dasatinib can inhibit most kinases that imatinib act on, and it can act on both activated and inactive ABL kinase domains, unlike imatinib [ 1 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The possible adverse effects include hematologic toxicity such as thrombocytopenia and neutropenia as well as nonhematologic toxicity such as diarrhea, pleural effusion and gastrointestinal bleeding [ 2 – 4 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, dasatinib-induced hemorrhagic colitis has been rarely reported worldwide [ 5 – 7 ] and none has been reported in Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The authors encountered dasatinib-induced hemorrhagic colitis in a CML patient who clinically resisted imatinib.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We report such case in this paper with a reference review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Case Description A 68-year-old man was diagnosed with blastic phase of CML.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "He underwent remission induction chemotherapy with cytosine arabinoside and idarubicin, and oral imatinib treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1 month later, he showed complete hematologic remission, but partial cytogenetic remission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After consolidation chemotherapy using cytosine arabinoside and daunorubicin, he developed neutropenic fever and recovered with antibiotics treatment and supportive care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "6 months after consolidation chemotherapy, his CML progressed to blast crisis, but he refused to undergo systemic chemotherapy or intensive treatment including bone marrow transplantation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Accordingly, 140 mg of dasatinib was administered once daily instead of imatinib, which had been administered to him until then.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After dasatinib treatment, his peripheral white blood cell and myeloblast counts were shown to have decreased.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 months after dasatinib administration, watery diarrhea occurred four to six times a day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although he did not take any drug except those prescribed by the authors and had already stopped taking deferasirox, which might cause diarrhea, his diarrhea persisted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 months after using dasatinib, he came to the emergency department with hematochezia and fever.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The abdominal computed tomography (CT) scan showed only generalized bowel wall edema.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a colonoscopy, several mucosal hyperemia and edema with spontaneous bleeding were observed without definite ulceration or mass (Fig. 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Colonoscopic biopsy specimen stained with hematoxylin and eosin stain was consisted with active colitis (Fig. 2 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Microbial and parasite examination using the stool specimen isolated no organism.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "He was diagnosed with acute colitis and recovered via conservative management and intravenous hydration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a follow-up 1 month later, dasatinib was re-administered and then bloody diarrhea occurred again.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the repeated colonoscopy diffuse mucosal friability and spontaneous bleeding were observed (Fig. 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Full size image Colonoscopic findings. a 3 months after taking dasatinib.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Initial colonoscopy showed hyperemic and edematous mucosal changes with spontaneous bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No definite mass or ulcer was observed. b 4 months after taking dasatinib.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Follow-up colonoscopy 4 months after dasatinib treatment, diffuse mucosal friability and spontaneous bleeding were observed Fig. 2 The alternative text for this image may have been generated using AI.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Full size image Histology. a Hematoxylin and Eosin stain, ×100. b Hematoxylin and Eosin stain, ×400.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The colonoscopic biopsy stained with hematoxylin and eosin showed mucosal erosion and a reduced number of intestinal crypts ( a ) as well as crypt abscess and significant inflammatory cell infiltration ( b ) A lymphocyte transformation test (LTT) was conducted to assess the causality between dasatinib administration and his hemorrhagic colitis [ 8 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The LTT measures the proliferation of peripheral T cells in vitro method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When the peripheral lymphocytes were treated with the drug at various concentrations followed by 5-day culture, 3 H-thymidine uptake by lymphocytes was much higher in the patients compared with the normal controls although its stimulation index (SI) value was under 2.0, the minimum limit considered as positive (Fig. 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Full size image Results of the lymphocyte transformation test of the patient and the normal control.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The lymphocyte transformation test (LTT) was conducted to assess the correlation of hemorrhagic colitis with the dasatinib treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cell division involving the peripheral lymphocytes significantly increased in the patient compared to normal controls As dasatinib-induced hemorrhagic colitis was suspected, dasatinib was discontinued and no further hematochezia was observed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "While under conservative treatment, his CML progressed to blast crisis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "He was treated with nilotinib, but the peripheral blood’s blast percentage increased again.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As nilotinib was ineffective, dasatinib was re-administered and then, the massive hematochezia occurred again.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "He eventually died of CML progression after the drug discontinuation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "Case Description",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A 68-year-old man was diagnosed with blastic phase of CML.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "Case Description",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A lymphocyte transformation test (LTT) was conducted to assess the causality between dasatinib administration and his hemorrhagic colitis [ 8 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "Case Description",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As dasatinib-induced hemorrhagic colitis was suspected, dasatinib was discontinued and no further hematochezia was observed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The authors encountered dasatinib-induced hemorrhagic colitis in a CML patient.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As approximately 20 % of CML patients who receive imatinib do not experience complete remission and a significant number of patients are imatinib-resistant or intolerant, they undergo treatment with second-generation tyrosine kinase inhibitors [ 9 , 10 ], among which dasatinib is a multi-targeted tyrosine kinase inhibitor that acts on both SRC and ABL kinases [ 10 , 11 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a study conducted by Talpaz et al. due to the neutropenia, thrombocytopenia or anemia, dasatinib had to be discontinued in more than half of the patients, and 25 % had to be given a lower dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In cases with elevated liver enzymes, those returned to normal after the dose reduction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In cases with pleural effusion or pericardial effusion, those are resolved with supportive care and diuretics treatment after the drug discontinuation [ 1 , 12 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Diarrhea, peripheral edema or headache [ 1 ] and immunosuppression-induced vulnerability to infection was also observed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Drug-induced hemorrhagic colitis generally appears as non-specific colitis in radiologic examinations and colonoscopy, and also appears as active colitis in histopathological examinations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, its sequential clinical course is important for diagnosis that shows the occurrence of the symptoms after the drug administration, the recovery after the drug discontinuation and the recurrence after the drug re-administration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The occurrence of dasatinib-induced hemorrhagic colitis has been reported to be extremely rare worldwide [ 5 – 7 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is likely to be due to the non-definite establishment of the diagnostic criteria for it and to its low prevalence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this case, the patient’s clinical course indicated the association between dasatinib and hemorrhagic colitis [ 13 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Based on the causality categories of WHO-UMC (World Health Organization-Uppsala Monitoring Center) and the algorithm of the U.S. FDA, the possibility of dasatinib-induced hemorrhagic colitis was assessed as ‘certain’ or ‘highly probable’ [ 14 , 15 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The LTT was developed based on the principle that drug-specific T cells are involved in a drug hypersensitivity reaction despite the different immune mechanisms of drug hypersensitivity reactions [ 16 , 17 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although the SI value of the patient did not meet the cut-off value for positive result, attention should be paid on the fact that almost 99 % of lymphocytes in a normal control sample died after 5-day incubation with 0.01 ug/mL of dasatinib while lymphocytes from the patient showed relatively normal proliferation in spite of the same dasatinib treatment (Fig. 3 ) [ 18 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus, we believe that this LTT results indirectly suggest the existence of dasatinib-specific lymphocyte activation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this case, a LTT was conducted to determine the association of hemorrhagic colitis with dasatinib.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The significant proliferation of the patient’s peripheral lymphocytes was detected while almost no cell division was observed in the normal controls (Fig. 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The hemorrhagic colitis could be induced by various drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are no specific clinical findings helpful to diagnose and there is no single test to confirm it.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A high index of suspicion is important for adequate diagnosis and treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this case, the association between hemorrhagic colitis and dasatinib was highly suspected, and the LTT results also suggested the high probability of association with dasatinib.",
+      "align_score": null
+    }
+  ]
+}

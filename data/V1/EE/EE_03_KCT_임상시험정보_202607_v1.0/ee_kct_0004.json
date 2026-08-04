@@ -1,0 +1,2674 @@
+{
+  "document_id": "ee_kct_0004",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_3D CT-based high-dose-rate brachytherapy for cervical cancer_ clinical impact on late rectal bleeding and local control.",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "3D CT-based high-dose-rate brachytherapy for cervical cancer: clinical impact on late rectal bleeding and local control.",
+    "title_en": "3D CT-based high-dose-rate brachytherapy for cervical cancer: Clinical impact on late rectal bleeding and local control",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "자궁경부암 / Uterine Cervical Neoplasms / 국외 / 2026",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Abstract Background and purpose To identify the impact of 3D CT-based high-dose-rate intracavitary radiotherapy (ICR) on late rectal bleeding (LRB) and local control (LC) in patients with cervical cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Material and methods The outcomes of 97 consecutive patients treated with 3D CT-based ICR (3D-ICR) were compared with those of 133 consecutive historical patients with conventional 2D brachytherapy planning (2D-ICR).",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median follow-up periods were 41 and 56 months for the 3D and 2D groups, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results The overall rectal bleeding rate was similar between the groups (42% for 3D-ICR vs. 44% for 2D-ICR); however, the incidence of severe LRB was higher in the 2D-ICR group than in the 3D-ICR group (13% vs. 2%, respectively; p = 0.02).",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In multivariate analysis, the factors associated with severe LRB were tumor >4 cm (12% vs. 3%) and 2D-ICR (10% vs. 2%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The LC rates were 97% and 91% for 3D-ICR and 2D-ICR, respectively ( p = 0.14); the progression-free survival rate was 80% for both groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A significant difference in the LC rates between the two groups was observed in patients with larger tumor sizes with the tumor diameter of over 4 cm (98% vs. 81% by 3D-ICR vs. 2D-ICR, respectively; p = 0.02).",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusions The implementation of 3D-ICR in radiotherapy for cervical cancer can reduce the incidence of severe LRB and may improve the LC rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patient characteristics Between July 2001 and December 2005, 265 consecutive patients with uterine cervical cancer FIGO (Federation of International Gynaecologists and Obstetricians staging) stage IB–IVB received RT with curative aim.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Among these, 35 patients were not included in this study because of the following reasons: 17 patients with very early follow-up loss, 3 patients with incomplete external beam radiotherapy (EBRT), 6 patients treated with palliative intent, 2 patients with double primary cancer, 3 patients with rapid progression of distant disease, 2 patients treated with EBRT alone, and 2 patients diagnosed with small-cell carcinoma.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients with palliative RT included 1 patient with peritoneal seeding at initial presentation and 3 patients with massive distant disease and 1 patient who progressed to uremia due to massive local disease.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a result, 230 patients were included in the current analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The study was performed in accordance with the guidelines of our Institutional Review Board, which determined that informed consent was not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 97 patients who were treated by 3D CT-based ICR planning were part of the study population of our institutional protocol started in 2003 which aimed to evaluate the relationship between rectal dose-volume histogram and sigmoidoscopic mucosal grading [22] .",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All patients were clinically staged using FIGO staging criteria.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Staging work-up included bimanual physical examination, PA chest radiography, cystoscopy, and rectosigmoidoscopy in all patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional imaging work-ups included MRI covering the upper abdomen and pelvis in all patients and 18 F-deoxyglucose positron emission tomography (FDG/PET) in 125 patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "PET was performed for greater numbers of people in 3D-ICR group (65/97, 67%) than in 2D- ICR group (60/133, 45%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tumor sizes were categorized as ⩽4 cm or >4 cm based on the combination of the initial physical examination and the MRI imaging.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One-hundred thirty-four patients (58%) had tumors ⩽4 cm in the greatest dimension at initial presentation, and 96 (42%) had tumors >4 cm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Eighty-six percent ( n = 197) of patients received chemotherapy: 190 received concurrent weekly cisplatin, 4 received 5-FU/cisplatin, and 3 received a non-cisplatin-based regimen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thirty-three patients were not given chemotherapy because of poor physiologic conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The proportions of patients who did not receive chemotherapy were not different between the two treatment eras.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras For all patients, radiotherapy consisted of a combination of EBRT and HDR-ICR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EBRT was delivered using a 15-MV linear accelerator (Varian Clinac 2100CD; Varian, Palo Alto, CA, USA) using the four-field box technique.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was a modification of radiotherapy technique in August 2003 following a change in attending radiation oncologist at our institute.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For patients treated between June 2001 and July 2003, which includes all of the patients treated with 2D-ICR planning, the whole pelvis (WP) was treated with 45 Gy at 1.8 Gy per fraction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Initial treatment plan for EBRT was performed with orthogonal simulation films using bony landmarks, and a conformal boost was given following the WP irradiation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The boost field comprised the cervix, parametrium, and enlarged pelvic lymph nodes if possible with a dose of 10 Gy at 2 Gy fractions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus the total radiation dose to the lower pelvis including the boost was 55 Gy in 30 fractions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Intracavitary radiotherapy was generally started at 36–37.8 Gy without MLB.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dose was prescribed to the conventional Point A, with reporting of doses to the International Commission on Radiation Units and Measurements (ICRU) reference points for organs at risk (OAR).",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For most of the patients, brachytherapy dose was 24 Gy in 6 fractions given to the A-point.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For 39 patients, 30 Gy in 6 fractions were used by the physician’s decision based on the bulk of the residual tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The total biologically effective dose for rectum and tumor was calculated as the biologically effective dose in 2-Gy fractions (EQD 2 ) for 2D-ICR patients including the dose given by the lower pelvic boost dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For patients treated after August 2003, which includes all the patients in the 3D-ICR group, the WP field was treated using CT-based 3D conformal technique.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Midline blocks (MLB) of 4 cm width and 8–10 cm in height were placed at 36–39.6 Gy for early stage tumors and for small tumors less than 4 cm in diameter; at 36 Gy in 6 patients with stage IB1/IIA, and at 39.6 Gy in 3 patients with stage IIA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For 33 patients with stage IB1–IIB, MLB was used at 45 Gy, taking care not to block any areas of gross pelvic lymphadenopathy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With the placement of MLB, the remaining regional lymphatic area was treated up to 45–50.4 Gy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Parametrial boost dose was given up to 55.8–61.2 Gy depending on the stages.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For patients with stage IIIA or above, 50.4 Gy was routinely used for the whole pelvic field using 1.8 Gy per fraction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ICR was started at the beginning of MLB and was interdigitated with the rest of the EBRT schedule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In patients with metastatic lymph nodes sized >1.5 cm in the pelvic or para-aortic areas, 3D conformal RT was applied to the enlarged lymph nodes using an additional boost dose of 6–10 Gy in 3–5 fractions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "HDR-ICR was implemented by a 192 Ir remote afterloading system (MicroSelectron, Nucletron, Veenendaal, Netherlands) with an intrauterine tandem and the ovoid pair twice a week in both chronological eras.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the 3D-ICR group, the median prescribed dose given to the A-point for ICR was 30 Gy using a dose of 5 Gy per fraction (range, 25–35 Gy).",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Forty-six patients were treated with 24–28 Gy in 6–7 fractions regimen because of high dose distributed to the organs and/or small tumor volumes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To calculate the dose from the combined EBRT and HDR-ICR in 3D-ICR treatment, it was assumed that the whole clinical target volume (CTV) and the anterior wall of the rectum both received 100% of the prescribed EBRT dose before midline shielding was placed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EQD 2 was calculated by summation of the EBRT dose given before MLB was placed, and doses given by HDR-ICR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "Material and methods",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A α / β value of 3 was used for late-responding tissues (EQD 2 3 Gy), while 10 was used for tumor (EQD 2 10 Gy).",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median follow-up time for all patients was 50 months (56 months for 2D-ICR and 41 months for 3D-ICR).",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median age of the patients was 58 years (range, 22–88 years).",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The stage distribution of patients is summarized in Table 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were higher number of patients with stage IB and lower number of patients with IIB in 3D-ICR group compared with 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The proportion of the patients with FIGO stage III and IV was similar in the two groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A total of 107 (46%) patients were considered to have metastatic lymph nodes in the pelvic or para-aortic area.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no significant difference in regional nodal involvement between the groups, although the 3D-ICR group included larger number of patients with positive para-aortic lymph nodes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no difference in the distribution of age, tumor size, and in the use of concomitant chemotherapy between the two groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Histologic types of tumors were squamous cell carcinoma in 207 patients (90%), adenocarcinoma in 17 patients (7%), and adenosquamous carcinoma in 6 patients (3%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EQD 2 10 Gy and EQD 2 3 Gy in Table 2 shows that the median values of total EQD 2 3 Gy and EQD 2 10 Gy was higher in 3D-ICR group, however, not significantly different when conformal boost dose was integrated for the patients in 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median value of total parametrial dose (including the dose given after midline shield) in 3D-ICR group was 81.3, ranging from 73.5–100.2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Significantly, shorter radiotherapy duration was used for the 2D-ICR group than for the 3D-ICR group, which is associated with the higher EBRT dose given with the midline shielding and the earlier adoption of ICR during EBRT in the 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For all patients, radiotherapy consisted of a combination of EBRT and HDR-ICR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EBRT was delivered using a 15-MV linear accelerator (Varian Clinac 2100CD; Varian, Palo Alto, CA, USA) using the four-field box technique.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was a modification of radiotherapy technique in August 2003 following a change in attending radiation oncologist at our institute.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For patients treated between June 2001 and July 2003, which includes all of the patients treated with 2D-ICR planning, the whole pelvis (WP) was treated with 45 Gy at 1.8 Gy per fraction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Initial treatment plan for EBRT was performed with orthogonal simulation films using bony landmarks, and a conformal boost was given following the WP irradiation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The boost field comprised the cervix, parametrium, and enlarged pelvic lymph nodes if possible with a dose of 10 Gy at 2 Gy fractions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus the total radiation dose to the lower pelvis including the boost was 55 Gy in 30 fractions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Intracavitary radiotherapy was generally started at 36–37.8 Gy without MLB.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dose was prescribed to the conventional Point A, with reporting of doses to the International Commission on Radiation Units and Measurements (ICRU) reference points for organs at risk (OAR).",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For most of the patients, brachytherapy dose was 24 Gy in 6 fractions given to the A-point.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For 39 patients, 30 Gy in 6 fractions were used by the physician’s decision based on the bulk of the residual tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The total biologically effective dose for rectum and tumor was calculated as the biologically effective dose in 2-Gy fractions (EQD 2 ) for 2D-ICR patients including the dose given by the lower pelvic boost dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For patients treated after August 2003, which includes all the patients in the 3D-ICR group, the WP field was treated using CT-based 3D conformal technique.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Midline blocks (MLB) of 4 cm width and 8–10 cm in height were placed at 36–39.6 Gy for early stage tumors and for small tumors less than 4 cm in diameter; at 36 Gy in 6 patients with stage IB1/IIA, and at 39.6 Gy in 3 patients with stage IIA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For 33 patients with stage IB1–IIB, MLB was used at 45 Gy, taking care not to block any areas of gross pelvic lymphadenopathy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With the placement of MLB, the remaining regional lymphatic area was treated up to 45–50.4 Gy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Parametrial boost dose was given up to 55.8–61.2 Gy depending on the stages.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For patients with stage IIIA or above, 50.4 Gy was routinely used for the whole pelvic field using 1.8 Gy per fraction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ICR was started at the beginning of MLB and was interdigitated with the rest of the EBRT schedule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In patients with metastatic lymph nodes sized >1.5 cm in the pelvic or para-aortic areas, 3D conformal RT was applied to the enlarged lymph nodes using an additional boost dose of 6–10 Gy in 3–5 fractions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "HDR-ICR was implemented by a 192 Ir remote afterloading system (MicroSelectron, Nucletron, Veenendaal, Netherlands) with an intrauterine tandem and the ovoid pair twice a week in both chronological eras.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the 3D-ICR group, the median prescribed dose given to the A-point for ICR was 30 Gy using a dose of 5 Gy per fraction (range, 25–35 Gy).",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Forty-six patients were treated with 24–28 Gy in 6–7 fractions regimen because of high dose distributed to the organs and/or small tumor volumes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To calculate the dose from the combined EBRT and HDR-ICR in 3D-ICR treatment, it was assumed that the whole clinical target volume (CTV) and the anterior wall of the rectum both received 100% of the prescribed EBRT dose before midline shielding was placed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EQD 2 was calculated by summation of the EBRT dose given before MLB was placed, and doses given by HDR-ICR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "Radiotherapy scheme in the 2D-ICR and 3D-ICR eras",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A α / β value of 3 was used for late-responding tissues (EQD 2 3 Gy), while 10 was used for tumor (EQD 2 10 Gy).",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the treatment period of August 2003–December 2005, 3D-ICR planning was performed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gross target volume (GTV) and clinical target volume (CTV) were contoured with organs at risk (OAR: rectum, sigmoid, bladder).",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The principles of target and OAR delineation at our institute are described in a previous publication [21] .",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Briefly, CTV included the whole cervix with any palpable or visible residual parametrial disease from pelvic examination or MRI at the time of brachytherapy simulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three millimeter margins were added to this volume toward the direction of initial extension of the tumor, i.e., into vagina or uterine body, and to the side of residual parametrial disease, to make final CTV.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If tumor extension at diagnosis was confined to the cervix proper, the CTV simply included the whole cervix.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The CTV we used is close to the high-risk (HR) CTV of GEC ESTRO guideline except the margins.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We did not use intermediate-risk (IR) CTV because CT images do not allow detailed anatomic delineation of the soft tissues.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In most of the patients who received 3D-ICR, a second MRI was performed at the time of brachytherapy without the applicators.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The initial and the second MRI images were compared and were used to delineate target volumes with the findings from physical examinations taken into consideration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment planning was performed by using standard dwell positions with dose prescribed to the conventional point A. Until December 2005, dose adaptation (optimization) was performed conservatively and was only performed when dose to the rectum and sigmoid colon was considered excessive whereas the CTV is well covered by the prescribed dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Beginning in January 2005, we started to use an optimization tool more freely, aiming for maximal coverage of the CTV/gross tumor volume and reduction of doses to the OARs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dose volume parameters were then examined and the plans were optimized using the combination of graphical optimization and dwell-time optimization tools available in Plato ver.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "14.2 software (MicroSelectron, Nucletron, Veenendaal, Netherlands).",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For CTV, the dose received by 90% of the volume (D90) must be greater than the prescribed dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For OARs, the most highly irradiated 2 cc rectal (RD 2cc ) and sigmoid volume should receive ⩽90% of the prescribed dose, respectively, and any bladder point should receive ⩽100%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dose volume constraints we used were according to our internal guidelines specifically developed for CT-guided brachytherapy [22] .",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dose optimization was most frequently used for the patients with large CTV.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dose optimization was also given in patients with small CTV when significantly high doses were distributed over the OAR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a result, optimization was performed in 50 of 97 3D-ICR patients (52%), including the 45.5% (25/55) of patients with tumor size ⩽4 cm and in 60% (25/42) of patients with tumor size >4 cm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Toxicity scoring The patients were followed up every 3 months for the first 2 years, every 4 months in the third year, and every 6 months, thereafter.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For patients treated during the 2D-ICR era, RTOG/EORTC toxicity grade was assigned by a physician, based on the patients’ verbal reports regarding rectal bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After August 2003, the follow-up protocol included a questionnaire regarding rectal bleeding and other subjective symptoms related to the lower gastrointestinal tract.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To minimize biased results caused by the different method of assessment of LRB, all toxicity gradings in the patients’ medical records were reviewed at the time of current analysis and were re-evaluated by the modified RTOG/EORTC scoring system [23] .",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For this purpose, any history of medical intervention (e.g., the use of medication, transfusion, cauterization, or coagulation procedures performed for rectal bleeding) was noted and was used in the subsequent grading ( Table 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Rectal bleeding that occurred within 3 months from the start of radiotherapy was considered acute toxicity and was not recorded as a late event.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Modified RTOG/EORTC scoring system for late rectal bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Grade 0 No bleeding Grade 1 Slight, mild bleeding, no interference on daily life No need of medication Grade 2 Intermittent, frequent bleeding Need medication (p.o. hemostatic agent or steroid enema, etc.) or pad Grade 3 Severe, persistent bleeding Cautery using laser ⩾2 times or transfusion ⩾2 times Grade 4 Necrosis or perforation should be observed Surgical treatment indicated Grade 5 Death related rectal bleeding",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Endpoints and statistical analysis Student’s t -test and the chi-square test were used to compare the distribution of clinical and treatment-related parameters between the 2D-ICR and 3D-ICR groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The primary endpoint for treatment outcome was LRB rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Local control (LC) rate and progression-free survival (PFS) rate were also analyzed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For evaluation of these endpoints, the patients who never made a follow-up visit to the radiotherapy clinic after completion of RT were excluded from the analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Local failure was defined as a presence of residual disease at the end of RT which was not resolved by 1–3 month of follow-up, and also included reappearance of local diseases at the cervix, vagina, and parametria after once the patients showed complete responses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All local failures were histologically confirmed by biopsies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When estimating LC and PFS, all events were counted from the date of the start of RT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients were censored at the time of recurrent events/death associated with relapse, and at the time of last follow-up for the patients without any event of relapse.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Estimates of the cumulative proportions of treatment outcome were based on Kaplan–Meier procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median follow-up periods were 56 (range: 7–76) and 41 months (range: 8–60) for the 2D and 3D treatment groups, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To analyze LRB, we first examined the crude incidence of the highest grade of LRB observed at any follow-up time point.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We then calculated the actual cumulative LRB rate using the Kaplan–Meier method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The log-rank test was applied to compare the incidence of severe LRB by 2D vs. 3D-ICR groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Severe LRB was defined as modified RTOG/EORTC grade ⩾3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Cox proportional hazards regression model was used for multivariate analysis to study the association between the LRB and the most predictive factors detected by univariate analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison between the median values was performed with Kruskal Wallis test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EQD 2 3 Gy and EQD 2 10 Gy used in Table 2 were calculated from the prescribed doses to the A-point for both 2D and 3D-ICR groups because dose volume data were not available in the patients who received 2D-ICR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The doses to rectal volume 0.1, 1, and 2 cc (RD 0.1 , RD 1 , and RD 2 ) used in the current study are summation of EQD 2 3 Gy contributed by the external beam dose given before midline shields plus EQD 2 3 Gy contributed by ICR to the respective rectal volumes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RT duration and EQD 2 3 Gy were categorized by median value.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Differences were considered statistically significant when p -value was less than 0.05 (two-sided test).",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patient and treatment characteristics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "3D treatment planning",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Characteristic 2D-ICR (%) 3D-ICR (%) Total (%) p ∗ Age (years) 0.42 Median 61 57 Range 22–88 23–80 Stage 0.11 IB1 9 (7) 15 (15) 24 (10) IB2 5 (4) 8 (8) 13 (6) IIA 13 (10) 15 (16) 28 (12) IIB 78 (59) 40 (41) 118 (51) IIIA 2 (1) 2 (2) 4 (2) IIIB 21 (16) 11 (11) 32 (14) IVA 4 (3) 2 (2) 6 (3) IVB 1 (1) 4 (4) 5 (2) Pelvic node 0.3 Negative 75 (56) 48 (50) 123 (54) Positive 58 (44) 49 (50) 107 (46) Para-aortic node 0.02 Negative 127 (95) 84 (87) 211 (92) Positive 6 (5) 13 (13) 19 (8) Tumor size 0.68 ⩽4 cm 79 (59) 55 (57) 134 (58) >4 cm 54 (41) 42 (43) 96 (42) RT duration (day) Median 52 57 <0.01 Range 33–110 46–91 < 6 weeks 71 (53) 19 (20) 90 (39) <0.01 ⩾6 weeks 62 (47) 78 (80) 140 (61) EQD 2 10 Gy_ 0.03 Median 72.3 81.8 Range 68.7–97.8 63.4–97.6 EQD 2 3 Gy Median 76.8 91.2 <0.01 Range 73.3–99.2 68.2–99.2 <82 79 (59) 35 (36) 114 (50) <0.01 ⩾82 54 (41) 62 (64) 116 (50) EQD 2 10 Gy with conformal boost∗ Median 82.1 81.8 0.16 Range 74.0–112.0 63.4–97.6 EQD 2 3 Gy with conformal boost∗ Median 86.4 91.2 0.14 Range 78.5–120.8 68.2–99.2 CCRT 0.98 No 19 (14) 14 (14) 33 (14) Yes 114 (86) 83 (86) 197 (86) ICR, intracavitary radiotherapy; CCRT, concurrent chemoradiotherapy; EQD 2 10 Gy, biologically equivalent dose to the point A in 2-Gy fractions, α / β = 10; EQD 2 3 Gy, biologically equivalent dose to the point A in 2-Gy fractions, α / β = 3. ∗EQD 2 10 Gy/∗EQD 2 3 Gy with conformal boost, EQD 2 calculated including the conformal boost to the lower pelvis in 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The patients were followed up every 3 months for the first 2 years, every 4 months in the third year, and every 6 months, thereafter.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For patients treated during the 2D-ICR era, RTOG/EORTC toxicity grade was assigned by a physician, based on the patients’ verbal reports regarding rectal bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After August 2003, the follow-up protocol included a questionnaire regarding rectal bleeding and other subjective symptoms related to the lower gastrointestinal tract.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To minimize biased results caused by the different method of assessment of LRB, all toxicity gradings in the patients’ medical records were reviewed at the time of current analysis and were re-evaluated by the modified RTOG/EORTC scoring system [23] .",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For this purpose, any history of medical intervention (e.g., the use of medication, transfusion, cauterization, or coagulation procedures performed for rectal bleeding) was noted and was used in the subsequent grading ( Table 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Rectal bleeding that occurred within 3 months from the start of radiotherapy was considered acute toxicity and was not recorded as a late event.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Modified RTOG/EORTC scoring system for late rectal bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "Toxicity scoring",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Grade 0 No bleeding Grade 1 Slight, mild bleeding, no interference on daily life No need of medication Grade 2 Intermittent, frequent bleeding Need medication (p.o. hemostatic agent or steroid enema, etc.) or pad Grade 3 Severe, persistent bleeding Cautery using laser ⩾2 times or transfusion ⩾2 times Grade 4 Necrosis or perforation should be observed Surgical treatment indicated Grade 5 Death related rectal bleeding",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Student’s t -test and the chi-square test were used to compare the distribution of clinical and treatment-related parameters between the 2D-ICR and 3D-ICR groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The primary endpoint for treatment outcome was LRB rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Local control (LC) rate and progression-free survival (PFS) rate were also analyzed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For evaluation of these endpoints, the patients who never made a follow-up visit to the radiotherapy clinic after completion of RT were excluded from the analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Local failure was defined as a presence of residual disease at the end of RT which was not resolved by 1–3 month of follow-up, and also included reappearance of local diseases at the cervix, vagina, and parametria after once the patients showed complete responses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All local failures were histologically confirmed by biopsies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When estimating LC and PFS, all events were counted from the date of the start of RT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients were censored at the time of recurrent events/death associated with relapse, and at the time of last follow-up for the patients without any event of relapse.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Estimates of the cumulative proportions of treatment outcome were based on Kaplan–Meier procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median follow-up periods were 56 (range: 7–76) and 41 months (range: 8–60) for the 2D and 3D treatment groups, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To analyze LRB, we first examined the crude incidence of the highest grade of LRB observed at any follow-up time point.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We then calculated the actual cumulative LRB rate using the Kaplan–Meier method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The log-rank test was applied to compare the incidence of severe LRB by 2D vs. 3D-ICR groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Severe LRB was defined as modified RTOG/EORTC grade ⩾3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Cox proportional hazards regression model was used for multivariate analysis to study the association between the LRB and the most predictive factors detected by univariate analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison between the median values was performed with Kruskal Wallis test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EQD 2 3 Gy and EQD 2 10 Gy used in Table 2 were calculated from the prescribed doses to the A-point for both 2D and 3D-ICR groups because dose volume data were not available in the patients who received 2D-ICR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The doses to rectal volume 0.1, 1, and 2 cc (RD 0.1 , RD 1 , and RD 2 ) used in the current study are summation of EQD 2 3 Gy contributed by the external beam dose given before midline shields plus EQD 2 3 Gy contributed by ICR to the respective rectal volumes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RT duration and EQD 2 3 Gy were categorized by median value.",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Differences were considered statistically significant when p -value was less than 0.05 (two-sided test).",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patient and treatment characteristics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "Endpoints and statistical analysis",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Characteristic 2D-ICR (%) 3D-ICR (%) Total (%) p ∗ Age (years) 0.42 Median 61 57 Range 22–88 23–80 Stage 0.11 IB1 9 (7) 15 (15) 24 (10) IB2 5 (4) 8 (8) 13 (6) IIA 13 (10) 15 (16) 28 (12) IIB 78 (59) 40 (41) 118 (51) IIIA 2 (1) 2 (2) 4 (2) IIIB 21 (16) 11 (11) 32 (14) IVA 4 (3) 2 (2) 6 (3) IVB 1 (1) 4 (4) 5 (2) Pelvic node 0.3 Negative 75 (56) 48 (50) 123 (54) Positive 58 (44) 49 (50) 107 (46) Para-aortic node 0.02 Negative 127 (95) 84 (87) 211 (92) Positive 6 (5) 13 (13) 19 (8) Tumor size 0.68 ⩽4 cm 79 (59) 55 (57) 134 (58) >4 cm 54 (41) 42 (43) 96 (42) RT duration (day) Median 52 57 <0.01 Range 33–110 46–91 < 6 weeks 71 (53) 19 (20) 90 (39) <0.01 ⩾6 weeks 62 (47) 78 (80) 140 (61) EQD 2 10 Gy_ 0.03 Median 72.3 81.8 Range 68.7–97.8 63.4–97.6 EQD 2 3 Gy Median 76.8 91.2 <0.01 Range 73.3–99.2 68.2–99.2 <82 79 (59) 35 (36) 114 (50) <0.01 ⩾82 54 (41) 62 (64) 116 (50) EQD 2 10 Gy with conformal boost∗ Median 82.1 81.8 0.16 Range 74.0–112.0 63.4–97.6 EQD 2 3 Gy with conformal boost∗ Median 86.4 91.2 0.14 Range 78.5–120.8 68.2–99.2 CCRT 0.98 No 19 (14) 14 (14) 33 (14) Yes 114 (86) 83 (86) 197 (86) ICR, intracavitary radiotherapy; CCRT, concurrent chemoradiotherapy; EQD 2 10 Gy, biologically equivalent dose to the point A in 2-Gy fractions, α / β = 10; EQD 2 3 Gy, biologically equivalent dose to the point A in 2-Gy fractions, α / β = 3. ∗EQD 2 10 Gy/∗EQD 2 3 Gy with conformal boost, EQD 2 calculated including the conformal boost to the lower pelvis in 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patient characteristics The median follow-up time for all patients was 50 months (56 months for 2D-ICR and 41 months for 3D-ICR).",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median age of the patients was 58 years (range, 22–88 years).",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The stage distribution of patients is summarized in Table 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were higher number of patients with stage IB and lower number of patients with IIB in 3D-ICR group compared with 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The proportion of the patients with FIGO stage III and IV was similar in the two groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A total of 107 (46%) patients were considered to have metastatic lymph nodes in the pelvic or para-aortic area.",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no significant difference in regional nodal involvement between the groups, although the 3D-ICR group included larger number of patients with positive para-aortic lymph nodes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no difference in the distribution of age, tumor size, and in the use of concomitant chemotherapy between the two groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Histologic types of tumors were squamous cell carcinoma in 207 patients (90%), adenocarcinoma in 17 patients (7%), and adenosquamous carcinoma in 6 patients (3%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EQD 2 10 Gy and EQD 2 3 Gy in Table 2 shows that the median values of total EQD 2 3 Gy and EQD 2 10 Gy was higher in 3D-ICR group, however, not significantly different when conformal boost dose was integrated for the patients in 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median value of total parametrial dose (including the dose given after midline shield) in 3D-ICR group was 81.3, ranging from 73.5–100.2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Significantly, shorter radiotherapy duration was used for the 2D-ICR group than for the 3D-ICR group, which is associated with the higher EBRT dose given with the midline shielding and the earlier adoption of ICR during EBRT in the 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The result of dose optimization in 3D-ICR and clinical outcomes Overall, the guidelines established at our institute were satisfied in approximately two-thirds of the patients: 75% (73/97) of patients received <90% of the prescribed dose to RD 2cc , and 78% (76/97) of patients received more than 90% of the prescribed dose to their CTV.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When GEC-ESTRO guidelines were applied, tumor dose >85 EQD 2 10 Gy was achieved in 50% (48/97) of patients, and EQD 2 3 Gy of 75 Gy or lower was achieved in 65% (63/97) of patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Compared with those without optimized plans, the patients with optimized plans showed a higher incidence of overall LRB rates with marginal statistical significance (31% vs. 54%, respectively; p = 0.08).",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Within the subgroup of patients with tumor size >4 cm, any grade of LRB was observed in 31% vs. 54%, respectively; p = 0.01) with optimized vs. non-optimized plan.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "LRB of grade ⩾3 was observed in 2/25 patients for whom plan optimization was performed, while none of 17 patients without optimized plans showed severe bleeding ( Table 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It would be partly explained by the fact that the patients who showed satisfactory OAR doses did not require dose adaptation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of D100 and D90 in Table 3 shows that the CTVs are better covered in optimized plans compared with non-optimized plans for the patients with size ⩽4 cm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As opposed to this, the doses received by 0.1, 1, and 2 cc of the rectal volume tend to increase in optimized plans through all patients, suggesting that optimization performed in the present study to cover the target might have contributed in increasing rectal doses especially in larger tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One patient in the 3D-ICR group who developed grade 4 complications had infiltrating cervical cancer with widespread extension of the tumor to the whole vagina at initial diagnosis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included vaginal volume as a part of the CTV for this patient despite the known risk of the patient developing severe complications when whole vagina was treated with a vaginal cylinder, because of the suspicious residual disease at the vagina at the time of brachytherapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At 3-year follow-up, the patient developed intractable rectal bleeding that was followed by a gross rectovaginal fistula.",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no evidence of disease in the pelvis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 3 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Outcome by tumor size versus optimization at 3 years for 97 patients of 3D ICR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Empty Cell Non-optimized Optimized p -value N (3YR) N (3YR) Tumor size ⁎ 47 50 0.17 ⩽4 cm 30 25 >4 cm 17 25 LRB, any grade (%) 31 54 0.01 ⩽4 cm 35 48 0.27 >4 cm 25 60 0.02 LRB, grade ⩾ 3 (%) 0 4 0.17 ⩽4 cm 0 0 - >4 cm 0 8 0.25 LC (%) 91 100 0.04 ⩽4 cm 90 100 0.11 >4 cm 94 100 0.23 D100 (EQD 2 10 Gy) 21.4 ± 0.9 22.87 ± 1.3 0.36 ⩽4 cm 22.3 ± 1.2 27.04 ± 1.6 0.02 >4 cm 19.9 ± 1.1 18.88 ± 1.7 0.61 D90 (EQD 2 10 Gy) 37.0 ± 1.3 42.55 ± 1.7 0.01 ⩽4 cm 38.1 ± 1.8 45.91 ± 2.1 0.01 >4 cm 35.1 ± 1.6 39.33 ± 2.6 0.16 RD 0.1 (EQD 2 3 Gy) 77.8 ± 2.4 83.49 ± 2.1 0.07 ⩽4 cm 77.6 ± 3.2 84.13 ± 3.5 0.17 >4 cm 78.2 ± 3.5 82.88 ± 2.4 0.26 RD 1 (EQD 2 3 Gy) 68.9 ± 1.7 74.04 ± 1.5 0.03 ⩽4 cm 68.4 ± 2.4 74.26 ± 2.3 0.09 >4 cm 69.8 ± 2.4 73.83 ± 1.8 0.19 RD 2 (EQD 2 3 Gy) 65.5 ± 1.5 70.40 ± 1.3 0.19 ⩽4 cm 65.0 ± 2.1 70.61 ± 2.1 0.07 >4 cm 66.4 ± 2.1 70.21 ± 1.6 0.15 LRB, late rectal bleeding; LC, local control.",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For LC and LRB, the number in the parenthesis represents percentages at 3 year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "D100 and D90, radiation dose received by 100% and 90% of the CTV, respectively; RD (0.1, 1, 2), minimal dose received by the greatest irradiated 0.1, 1, and 2 cm 3 volume of the rectum; EQD 2 10 Gy, equivalent dose in 2-Gy fractions, α / β = 10; EQD 2 3 Gy, equivalent dose in 2-Gy fractions, α / β = 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each RD value represents the EQD 2 3 Gy contributed by the central external beam (before midline block) plus EQD 2 3 Gy contributed by ICR to the respective rectal volumes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The data for EQD 2 were presented as mean ± standard error of mean. p -value by Chi-square test. ⁎ The number in tumor size represents the number of the patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Late rectal bleeding Ninety-nine patients (43%) experienced LRB: 41 (42%) in the 3D-ICR group and 58 (44%) in the 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two patients (2/97, 2%) in the 3D-ICR group and 13 patients (13/133, 10%) in the 2D-ICR group experienced severe LRB (grade 3 or 4); no patient died of treatment-related LRB.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fig. 1 compares the probability of LRB between the two treatment groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The log-rank test revealed no significant difference in the actuarial incidence of overall LRB ( Fig. 1 A, p = 0.87), whereas the rate of severe LRB was higher in the 2D-ICR group ( Fig. 1 B, p = 0.02).",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Factors associated with higher rate of severe LRB were tumor size and treatment group (2D-ICR vs. 3D-ICR, Table 4 ); patients with large tumor (>4 cm) experienced significantly more severe LRB ( p = 0.02), and the use of 3D-ICR was associated with a lower incidence of severe LRB ( p = 0.04).",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Multivariate analysis confirmed the statistically significant association of these two factors with severe LRB.",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The incidence of any grade of LRB was similar in both groups (3-year bleeding rate, 43% in both groups); however, analysis for severe LRB revealed a higher rate in the 2D-ICR group (3-year severe bleeding rate, 10% and 2% for 2D-ICR and 3D-ICR, respectively; p = 0.02).",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The severe LRB rate was similarly affected by 3D-ICR in tumors ⩽4 cm and in tumors >4 cm (0% vs. 5% for tumors ⩽4 cm for 3D and 2D, respectively, p = 0.09, 5% vs. 17% for tumors >4 cm for 3D and 2D, respectively, p = 0.08).",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download: Download high-res image (111KB) Download: Download full-size image Fig. 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kaplan–Meier plots of late rectal bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of both treatment groups (2D-ICR vs. 3D-ICR) in rectal bleeding of any grade (A), severe rectal bleeding grade ⩾3 (B).",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 4 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Univariate and multivariate analysis of various potential prognostic factors for the endpoint late rectal bleeding modified RTOG/EORTC grade ⩾3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Variable No. of patients (%) 3-yr rate (%) HR 95% CI p ⁎ HR 95% CI p † Empty Cell Stage 0.18 0.76 I–II 183 (80) 6 1 1 III–IV 47 (20) 11 2.09 0.71–6.1 1.2 0.37–3.88 Age (year) 0.62 0.65 <60 125 (54) 7 1 1 ⩾60 105 (46) 6 0.77 0.28–2.17 0.76 0.23–2.5 Tumor size 0.02 0.04 ⩽4 cm 134 (58) 3 1 1 >4 cm 96 (42) 12 3.94 1.26–12.38 3.74 1.1–12.74 RT duration 0.52 – <6 weeks 90 (39) 8 1 ⩾6 weeks 140 (61) 6 0.72 0.26–1.98 ICR fx size 0.7 – <5 Gy 142 (62) 7 1 ⩾5 Gy 88 (38) 6 0.81 0.28–2.37 EQD 2 3 Gy 0.81 – <82 114 (50) 6 1 ⩾82 116 (50) 7 1.14 0.41–3.13 CCRT 0.93 0.79 RT alone 33 (14) 6 1 1 CCRT 197 (86) 7 1.08 0.24–4.75 0.8 0.15–4.19 Treatment group 0.04 0.03 2D-ICR 133 (58) 10 1 1 3D-ICR 97 (42) 2 0.2 0.05–0.9 0.19 0.04–0.87 HR, hazard ratio; CI, confidence interval; EQD 2 3 Gy, sum of biologically equivalent dose in 2-Gy fractions from the EBRT and ICR treatment, α / β = 3; CCRT, concurrent chemoradiotherapy; 2D-ICR, conventional intracavitary radiotherapy, 3D-ICR, three dimensional conformal intracavitary radiotherapy. ⁎ p -value for univariate analysis. † p -value for Cox-regression analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Disease control and survival The overall LC rate at 3 years was 97% for the 3D-ICR group and 91% for the 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The overall PFS rate at 3 years was 80% for both groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no significant difference between the treatment groups with regard to local control and progression-free survival rates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "Results",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, superior rate was observed in the subset of patients with tumor size >4 cm in the 3D-ICR group (3-year local control rate, 98% vs. 81%; p = 0.02).",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Overall, the guidelines established at our institute were satisfied in approximately two-thirds of the patients: 75% (73/97) of patients received <90% of the prescribed dose to RD 2cc , and 78% (76/97) of patients received more than 90% of the prescribed dose to their CTV.",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When GEC-ESTRO guidelines were applied, tumor dose >85 EQD 2 10 Gy was achieved in 50% (48/97) of patients, and EQD 2 3 Gy of 75 Gy or lower was achieved in 65% (63/97) of patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Compared with those without optimized plans, the patients with optimized plans showed a higher incidence of overall LRB rates with marginal statistical significance (31% vs. 54%, respectively; p = 0.08).",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Within the subgroup of patients with tumor size >4 cm, any grade of LRB was observed in 31% vs. 54%, respectively; p = 0.01) with optimized vs. non-optimized plan.",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "LRB of grade ⩾3 was observed in 2/25 patients for whom plan optimization was performed, while none of 17 patients without optimized plans showed severe bleeding ( Table 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It would be partly explained by the fact that the patients who showed satisfactory OAR doses did not require dose adaptation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of D100 and D90 in Table 3 shows that the CTVs are better covered in optimized plans compared with non-optimized plans for the patients with size ⩽4 cm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As opposed to this, the doses received by 0.1, 1, and 2 cc of the rectal volume tend to increase in optimized plans through all patients, suggesting that optimization performed in the present study to cover the target might have contributed in increasing rectal doses especially in larger tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One patient in the 3D-ICR group who developed grade 4 complications had infiltrating cervical cancer with widespread extension of the tumor to the whole vagina at initial diagnosis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We included vaginal volume as a part of the CTV for this patient despite the known risk of the patient developing severe complications when whole vagina was treated with a vaginal cylinder, because of the suspicious residual disease at the vagina at the time of brachytherapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At 3-year follow-up, the patient developed intractable rectal bleeding that was followed by a gross rectovaginal fistula.",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no evidence of disease in the pelvis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 3 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Outcome by tumor size versus optimization at 3 years for 97 patients of 3D ICR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Empty Cell Non-optimized Optimized p -value N (3YR) N (3YR) Tumor size ⁎ 47 50 0.17 ⩽4 cm 30 25 >4 cm 17 25 LRB, any grade (%) 31 54 0.01 ⩽4 cm 35 48 0.27 >4 cm 25 60 0.02 LRB, grade ⩾ 3 (%) 0 4 0.17 ⩽4 cm 0 0 - >4 cm 0 8 0.25 LC (%) 91 100 0.04 ⩽4 cm 90 100 0.11 >4 cm 94 100 0.23 D100 (EQD 2 10 Gy) 21.4 ± 0.9 22.87 ± 1.3 0.36 ⩽4 cm 22.3 ± 1.2 27.04 ± 1.6 0.02 >4 cm 19.9 ± 1.1 18.88 ± 1.7 0.61 D90 (EQD 2 10 Gy) 37.0 ± 1.3 42.55 ± 1.7 0.01 ⩽4 cm 38.1 ± 1.8 45.91 ± 2.1 0.01 >4 cm 35.1 ± 1.6 39.33 ± 2.6 0.16 RD 0.1 (EQD 2 3 Gy) 77.8 ± 2.4 83.49 ± 2.1 0.07 ⩽4 cm 77.6 ± 3.2 84.13 ± 3.5 0.17 >4 cm 78.2 ± 3.5 82.88 ± 2.4 0.26 RD 1 (EQD 2 3 Gy) 68.9 ± 1.7 74.04 ± 1.5 0.03 ⩽4 cm 68.4 ± 2.4 74.26 ± 2.3 0.09 >4 cm 69.8 ± 2.4 73.83 ± 1.8 0.19 RD 2 (EQD 2 3 Gy) 65.5 ± 1.5 70.40 ± 1.3 0.19 ⩽4 cm 65.0 ± 2.1 70.61 ± 2.1 0.07 >4 cm 66.4 ± 2.1 70.21 ± 1.6 0.15 LRB, late rectal bleeding; LC, local control.",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For LC and LRB, the number in the parenthesis represents percentages at 3 year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "D100 and D90, radiation dose received by 100% and 90% of the CTV, respectively; RD (0.1, 1, 2), minimal dose received by the greatest irradiated 0.1, 1, and 2 cm 3 volume of the rectum; EQD 2 10 Gy, equivalent dose in 2-Gy fractions, α / β = 10; EQD 2 3 Gy, equivalent dose in 2-Gy fractions, α / β = 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each RD value represents the EQD 2 3 Gy contributed by the central external beam (before midline block) plus EQD 2 3 Gy contributed by ICR to the respective rectal volumes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "The result of dose optimization in 3D-ICR and clinical outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The data for EQD 2 were presented as mean ± standard error of mean. p -value by Chi-square test. ⁎ The number in tumor size represents the number of the patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ninety-nine patients (43%) experienced LRB: 41 (42%) in the 3D-ICR group and 58 (44%) in the 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two patients (2/97, 2%) in the 3D-ICR group and 13 patients (13/133, 10%) in the 2D-ICR group experienced severe LRB (grade 3 or 4); no patient died of treatment-related LRB.",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Fig. 1 compares the probability of LRB between the two treatment groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The log-rank test revealed no significant difference in the actuarial incidence of overall LRB ( Fig. 1 A, p = 0.87), whereas the rate of severe LRB was higher in the 2D-ICR group ( Fig. 1 B, p = 0.02).",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Factors associated with higher rate of severe LRB were tumor size and treatment group (2D-ICR vs. 3D-ICR, Table 4 ); patients with large tumor (>4 cm) experienced significantly more severe LRB ( p = 0.02), and the use of 3D-ICR was associated with a lower incidence of severe LRB ( p = 0.04).",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Multivariate analysis confirmed the statistically significant association of these two factors with severe LRB.",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The incidence of any grade of LRB was similar in both groups (3-year bleeding rate, 43% in both groups); however, analysis for severe LRB revealed a higher rate in the 2D-ICR group (3-year severe bleeding rate, 10% and 2% for 2D-ICR and 3D-ICR, respectively; p = 0.02).",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The severe LRB rate was similarly affected by 3D-ICR in tumors ⩽4 cm and in tumors >4 cm (0% vs. 5% for tumors ⩽4 cm for 3D and 2D, respectively, p = 0.09, 5% vs. 17% for tumors >4 cm for 3D and 2D, respectively, p = 0.08).",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Download: Download high-res image (111KB) Download: Download full-size image Fig. 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kaplan–Meier plots of late rectal bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of both treatment groups (2D-ICR vs. 3D-ICR) in rectal bleeding of any grade (A), severe rectal bleeding grade ⩾3 (B).",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 4 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Univariate and multivariate analysis of various potential prognostic factors for the endpoint late rectal bleeding modified RTOG/EORTC grade ⩾3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "Late rectal bleeding",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Variable No. of patients (%) 3-yr rate (%) HR 95% CI p ⁎ HR 95% CI p † Empty Cell Stage 0.18 0.76 I–II 183 (80) 6 1 1 III–IV 47 (20) 11 2.09 0.71–6.1 1.2 0.37–3.88 Age (year) 0.62 0.65 <60 125 (54) 7 1 1 ⩾60 105 (46) 6 0.77 0.28–2.17 0.76 0.23–2.5 Tumor size 0.02 0.04 ⩽4 cm 134 (58) 3 1 1 >4 cm 96 (42) 12 3.94 1.26–12.38 3.74 1.1–12.74 RT duration 0.52 – <6 weeks 90 (39) 8 1 ⩾6 weeks 140 (61) 6 0.72 0.26–1.98 ICR fx size 0.7 – <5 Gy 142 (62) 7 1 ⩾5 Gy 88 (38) 6 0.81 0.28–2.37 EQD 2 3 Gy 0.81 – <82 114 (50) 6 1 ⩾82 116 (50) 7 1.14 0.41–3.13 CCRT 0.93 0.79 RT alone 33 (14) 6 1 1 CCRT 197 (86) 7 1.08 0.24–4.75 0.8 0.15–4.19 Treatment group 0.04 0.03 2D-ICR 133 (58) 10 1 1 3D-ICR 97 (42) 2 0.2 0.05–0.9 0.19 0.04–0.87 HR, hazard ratio; CI, confidence interval; EQD 2 3 Gy, sum of biologically equivalent dose in 2-Gy fractions from the EBRT and ICR treatment, α / β = 3; CCRT, concurrent chemoradiotherapy; 2D-ICR, conventional intracavitary radiotherapy, 3D-ICR, three dimensional conformal intracavitary radiotherapy. ⁎ p -value for univariate analysis. † p -value for Cox-regression analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "Disease control and survival",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The overall LC rate at 3 years was 97% for the 3D-ICR group and 91% for the 2D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "Disease control and survival",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The overall PFS rate at 3 years was 80% for both groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "Disease control and survival",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no significant difference between the treatment groups with regard to local control and progression-free survival rates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "Disease control and survival",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, superior rate was observed in the subset of patients with tumor size >4 cm in the 3D-ICR group (3-year local control rate, 98% vs. 81%; p = 0.02).",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since the GEC-ESTRO guideline has been established, there were several publications which support the dosimetric [21] , [24] and clinical [15] , [25] benefit of image-guided gynaecologic brachytherapy in cervical cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The aim of the present study is to access the clinical impact of CT-based 3D brachytherapy in comparison to that of our past 2D brachytherapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The overall LC rate of the patients in our study showed a tendency to improve with 3D-ICR: only 4 of 97 patients in the 3D-ICR group experienced local recurrence, whereas 13 of 133 patients in the 2D-ICR group experienced local recurrence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The improved local control rate was significant in the patient group with tumor size >4 cm ( p = 0.02) which is in line with the results of the Vienna Group [15] , where MRI-based ICR resulted in an improvement in the local control rate from 64% to 82% compared to the patients treated with conventional method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, as our current study involves a comparison of results from the two different chronological eras in a retrospective manner, several limitations in analysis were unavoidable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First, assessment of LRB was performed in a different manner, i.e., retrospective review of the medical record vs. use of the questionnaires asked by a physician for 2D and 3D-ICR era, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although all the toxicities were re-evaluated with the modified RTOG/EORTC criteria by one person at the time of this analysis, the retrospective review of medical record for the 2D group is likely to cause underestimation of the incidence of rectal bleeding.",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The incidence of overall LRB is similar between the two groups in our study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, severe LRB rate was significantly lower in 3D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Regarding the scoring of LRB, using the criteria such as “mild” or “frequent” bleeding, interference on daily life, and giving medication or not can be subjective to the patients and also to the physicians.",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, grade 3, which is defined as severe and persistent bleeding using more objective criteria such as number of cauterization and/or transfusion, would have been more consistently scored in both eras.",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Despite the higher total and fractional doses of ICR in 3D era and the possibility of underestimation of LRB in 2D-ICR group, our data suggest that there was a decrease in severe LRB in the 3D-ICR group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Second, there has been a major change in the EBRT technique due to a change in attending physicians; i.e., from conformal lower pelvic boost at around 45 Gy in 2D-ICR group to adoption of MLB and further parametrial boost at 45–50 Gy in 3D-ICR group, making the comparison of radiation dose difficult.",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition to this, the change in physician also might have influenced the clinical staging because measuring tumor size and the examination of parametrial disease could be subjective to physicians.",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These two factors make it difficult to analyze the impact of 3D-ICR on the local control as well.",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thirdly, dose optimization was given only to a part of the patients in 3D patient group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hence, the true impact of 3D brachytherapy might have been underestimated by not using dose adaptation in many patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dose optimization of treatment plan in CT-base brachytherapy with tandem and ovoids is restricted because of the limited dwell positions of radiation sources as well as inaccurate contouring of the target volumes with poor anatomic resolution on CT as opposed to the resolution on MRI [26] , [27] , [28] .",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There have been several reports showing the benefits of image-guided brachytherapy, recently.",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dosimetric study of Zwalhlen et al. [24] demonstrated that MRI-guided brachytherapy for cervical cancer improved target coverage and reduced the dose to normal tissue, but only for the patients with CTV smaller than 16.1 cm 3 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, it should be noticed that unlike us ,they only used one tandem tube which means more restriction in adjustment of source position and dwell time than in our method ,especially for tumors with large CTV.",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tan et al. reported that there was an improvement in local control rate for their 28 patients treated by CT-guided brachytherapy compared to their historical control rates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In fact, they also report 3 patients with grade 3 bowel toxicity out of 28 patients which is relatively high, suggesting the same problems of limitations in dose adaptation as in our study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Haie-Meder et al. recently reported the benefit of MRI-based brachytherapy in their 39 patients which mostly consisted of FIGO stage Ib1 cervical cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In their report, brachytherapy was used adjunctively to the curative surgery and hence, not applicable to be compared to the other studies where more locally advanced cervical cancers were included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The results of the Vienna Group [15] , [20] which studied MRI-based 3D brachytherapy showed that improved treatment outcome with optimized 3D planning was achievable for the patients with larger target sizes of >5 cm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This result is in line with ours indicating that dose adaptation based on dose volume parameters is particularly advantageous for improving local control in patients with larger tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a recent analysis of magnetic resonance image-guided brachytherapy, Dimopoulos et al. showed that D90 greater than 87 Gy was associated with significantly higher local control rate in patients with large residual tumors [29] , [30] , suggesting a guideline for radiation dose to control initially large tumors which shows less optimal response to EBRT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Plan optimization to reduce normal organ doses should be performed cautiously not to compromise delivering an adequate dose to the tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Overall, our retrospective analysis showed that the adoption of CT-based 3D ICR resulted in a significant decrease in the rate of severe LRB and an improvement in LC in patients with tumor size >4 cm; however, our experience of CT-based 3D-ICR planning suggests the possibility that the therapeutic ratio could be further improved with MRI-based ICR especially when combined with a wider range of applicators.",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Large tumors with large CTV for brachytherapy can be best treated with CT or MRI-guided brachytherapy with additional interstitial needles.",
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Clinical benefits can be also achieved for the patients who present with small tumors by reducing the dose to OARs and hence, the incidence of LRB.",
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In many institutes, it would be difficult to perform MRI-based 3D-ICR because of the need for new MRI-compatible applicators, insufficient staff time, and logistic problems such as the availability of MRI and reimbursement problems.",
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "From our experience, we consider that 3D CT-based ICR is a reasonable alternative in such circumstances.",
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Caution is needed, however, to avoid overdosing to OAR for the purpose of improving target dose coverage for tumors >4 cm in diameter when CT-based brachytherapy was used with tandem and ovoids.",
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": "Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Optimization via MRI-based planning, combined with the use of more sophisticated brachytherapy applicators, would further improve the therapeutic gains obtained by 3D-ICR planning.",
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": "Acknowledgment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study was supported by the National Cancer Center, Goyang, Korea (Grant No. 0910240 ).",
+      "align_score": null
+    }
+  ]
+}

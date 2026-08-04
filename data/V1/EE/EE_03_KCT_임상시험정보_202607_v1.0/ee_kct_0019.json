@@ -1,0 +1,5383 @@
+{
+  "document_id": "ee_kct_0019",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_A Mobile Phone-Based Self-Monitoring Tool for Perioperative Gastric Cancer Patients With Incentive Spirometer_ Randomized Controlled Trial.",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "A Mobile Phone-Based Self-Monitoring Tool for Perioperative Gastric Cancer Patients With Incentive Spirometer: Randomized Controlled Trial.",
+    "title_en": "A Mobile Phone–Based Self-Monitoring Tool for Perioperative Gastric Cancer Patients With Incentive Spirometer: Randomized Controlled Trial",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "위선종 내시경 절제술 / Endoscopic Resection of Gastric Adenoma / 국외 / 2026",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Background: An incentive spirometer (IS) is a medical device used to help patients improve the functioning of their lungs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is provided to patients who have had any surgery that might jeopardize respiratory function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An incentive spirometer plays a key role in the prevention of postoperative complications, and the appropriate use of an IS is especially well known for the prevention of respiratory complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, IS utilization depends on the patient’s engagement, and information and communication technology (ICT) can help in this area.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Objective: This study aimed to determine the effect of mobile ICT on the usage of an IS (Go-breath) app by postoperative patients after general anesthesia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Methods: For this study, we recruited patients from April to May 2018, who used the Go-breath app at a single tertiary hospital in South Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The patients were randomly classified into either a test or control group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The main function of the Go-breath app was to allow for self-reporting and frequency monitoring of IS use, deep breathing, and active coughing in real time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Go-breath app was identical for both the test and control groups, except for the presence of the alarm function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The test group heard an alarm every 60 min from 9 am to 9 pm for 2 days.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the test group alone, a dashboard was established in the nurse’s station through which a nurse could rapidly assess the performance of multiple patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To evaluate the number of performances per group, we constructed an incentive spirometer index (ISI).",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results: A total of 44 patients were recruited, and 42 of them completed the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ISI in the test group was 20.2 points higher than that in the control group (113.5 points in the test group and 93.2 points in the control group, P =.22).",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The system usability scale generally showed almost the same score in the 2 groups (79.3 points in the test group and 79.4 points in the control group, P =.94).",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We observed that the performance rates of IS count, active coughing, and deep breathing were also higher in the test group but with no statistically significant difference between the groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the usefulness “yes or no” question, over 90% (38/42) of patients answered “yes” and wanted more functional options and information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusions: The use of the Go-breath app resulted in considerable differences between the test group and control group but with no statistically significant differences.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Trial Registration: ClinicalTrials.gov NCT03569332; https://clinicaltrials.gov/ct2/show/NCT03569332 (Archived by WebCite at http://www.webcitation.org/74ihKmQIX).",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2019;7(2):e12204",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "doi:10.2196/12204",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ji Yeong Soh 1 * , RN ; Se Uk Lee 2 * , MD ; Inpyo Lee 3 , MS ; Ki Sang Yoon 4 , BD ; Changho Song 3 , BS ; Nam Hun Kim 5 , MS ; Tae Sung Sohn 6 , MD ; Jae Moon Bae 6 , MD ; Dong Kyung Chang 1, 7, 8 , MD ; Won Chul Cha 8, 9, 10 , MD 1 Department of Digital Health, Samsung Advanced Institute for Health Sciences & Technology, Sungkyunkwan University, Gangnam-gu, Republic of Korea 2 Department of Emergency Medicine, Seoul National University Hospital, Seoul, Republic of Korea 3 Product Development Division, BreaThings Co, Ltd, Seoul, Republic of Korea 4 R&D Division, BreaThings Co, Ltd, Seoul, Republic of Korea 5 Camera R&D Group, Samsung Electronics, Seoul, Republic of Korea 6 Department of Surgery, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea 7 Department of Gastroenterology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea 8 Health Information and Strategy Center, Samsung Medical Center, Seoul, Republic of Korea 9 Department of Digital Health, Samsung Advanced Institute for Health Sciences & Technology, Sungkyunkwan University, Seoul, Republic of Korea 10 Department of Emergency Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea *these authors contributed equally Corresponding Author: Won Chul Cha, MD Department of Digital Health Samsung Advanced Institute for Health Sciences & Technology Sungkyunkwan University 81, Irwon-ro Gangnam-gu Seoul, 06351 Republic of Korea Phone: 82 10 5386 6597 Email: docchaster@gmail.com",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Abstract Background: An incentive spirometer (IS) is a medical device used to help patients improve the functioning of their lungs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is provided to patients who have had any surgery that might jeopardize respiratory function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An incentive spirometer plays a key role in the prevention of postoperative complications, and the appropriate use of an IS is especially well known for the prevention of respiratory complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, IS utilization depends on the patient’s engagement, and information and communication technology (ICT) can help in this area.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Objective: This study aimed to determine the effect of mobile ICT on the usage of an IS (Go-breath) app by postoperative patients after general anesthesia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Methods: For this study, we recruited patients from April to May 2018, who used the Go-breath app at a single tertiary hospital in South Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The patients were randomly classified into either a test or control group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The main function of the Go-breath app was to allow for self-reporting and frequency monitoring of IS use, deep breathing, and active coughing in real time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Go-breath app was identical for both the test and control groups, except for the presence of the alarm function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The test group heard an alarm every 60 min from 9 am to 9 pm for 2 days.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the test group alone, a dashboard was established in the nurse’s station through which a nurse could rapidly assess the performance of multiple patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To evaluate the number of performances per group, we constructed an incentive spirometer index (ISI).",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results: A total of 44 patients were recruited, and 42 of them completed the study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ISI in the test group was 20.2 points higher than that in the control group (113.5 points in the test group and 93.2 points in the control group, P =.22).",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The system usability scale generally showed almost the same score in the 2 groups (79.3 points in the test group and 79.4 points in the control group, P =.94).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We observed that the performance rates of IS count, active coughing, and deep breathing were also higher in the test group but with no statistically significant difference between the groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the usefulness “yes or no” question, over 90% (38/42) of patients answered “yes” and wanted more functional options and information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusions: The use of the Go-breath app resulted in considerable differences between the test group and control group but with no statistically significant differences.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Trial Registration: ClinicalTrials.gov NCT03569332; https://clinicaltrials.gov/ct2/show/NCT03569332 (Archived by WebCite at http://www.webcitation.org/74ihKmQIX).",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2019;7(2):e12204 doi:10.2196/12204 Keywords incentive spirometer (2) ; mobile health (2451) ; postoperative care (27) ; gastric cancer (23) ; motivation (184) Introduction Background Vigorous and multidisciplinary efforts are required to prevent postoperative complications following prolonged general anesthesia [ García-Miguel FJ, Serrano-Aguilar PG, López-Bastida J. Preoperative assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Lancet 2003 Nov 22;362(9397):1749-1757. [ CrossRef ] [ Medline ] 1 ], and an incentive spirometer (IS) plays a key role, especially for patients with limited mobility [ Restrepo RD, Wettstein R, Wittnebel L, Tracy M. Incentive spirometry: 2011.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Respir Care 2011 Oct;56(10):1600-1604 [ FREE Full text ] [ CrossRef ] [ Medline ] 2 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An incentive spirometer is a medical device used to help patients improve the functioning of their lungs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is provided to patients who have had any surgery that might jeopardize respiratory function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The IS is used for the prevention of atelectasis, hypoxemia, pneumonia, respiratory dysfunction, and pleural effusion [ Sebio R, Yáñez-Brage MI, Giménez-Moolhuyzen E, Valenza MC, Reychler G, Cahalin LP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Impact of a pre-operative pulmonary rehabilitation program on functional performance in patients undergoing video-assisted thoracic surgery for lung cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Arch Bronconeumol 2016 May;52(5):231-232 [ FREE Full text ] [ CrossRef ] [ Medline ] 3 , Kumar AS, Alaparthi GK, Augustine AJ, Pazhyaottayil ZC, Ramakrishna A, Krishnakumar SK.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of flow and volume incentive spirometry on pulmonary function and exercise tolerance in open abdominal surgery: a randomized clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Diagn Res 2016 Jan 1;10(1):KC01-KC06 [ FREE Full text ] [ CrossRef ] [ Medline ] 4 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, IS utilization has remained the same since its initial development in the 1960s, and the usage protocol has not been standardized [ Malik PR, Fahim C, Vernon J, Thomas P, Schieman C, Finley CJ, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Incentive spirometry after lung resection: a randomized controlled trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ann Thorac Surg 2018 Aug;106(2):340-345. [ CrossRef ] [ Medline ] 5 - Agostini P, Singh S. Incentive spirometry following thoracic surgery: what should we be doing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Physiotherapy 2009 Jun;95(2):76-82. [ CrossRef ] [ Medline ] 8 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although many mobile phone apps have been developed for self-management in various clinical settings, only a few cases showing their use in postoperative care were reported [ Jaensson M, Dahlberg K, Eriksson M, Nilsson U. Evaluation of postoperative recovery in day surgery patients using a mobile phone application: a multicentre randomized trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Anaesth 2017 Nov 1;119(5):1030-1038 [ FREE Full text ] [ CrossRef ] [ Medline ] 9 ], even though subjective activity by patients can influence their clinical hospital outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, with help from mobile information and communication technology (ICT), patients can be more engaged in behaviors that can lead to better clinical results [ Sebio R, Yáñez-Brage MI, Giménez-Moolhuyzen E, Valenza MC, Reychler G, Cahalin LP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Impact of a pre-operative pulmonary rehabilitation program on functional performance in patients undergoing video-assisted thoracic surgery for lung cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Arch Bronconeumol 2016 May;52(5):231-232 [ FREE Full text ] [ CrossRef ] [ Medline ] 3 , Hung WW, Ross JS, Farber J, Siu AL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Evaluation of the Mobile Acute Care of the Elderly (MACE) service.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JAMA Intern Med 2013 Jun 10;173(11):990-996 [ FREE Full text ] [ CrossRef ] [ Medline ] 10 , Semple J, Sharpe S, Murnaghan M, Theodoropoulos J, Metcalfe K. Using a mobile app for monitoring post-operative quality of recovery of patients at home: a feasibility study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2015 Feb 12;3(1):e18 [ FREE Full text ] [ CrossRef ] [ Medline ] 11 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A mobile ICT for hospitalized postoperative patients can improve clinical outcomes by several pathways: it can encourage patients by informing them of important performance indices such as exercise duration [ Williams A, Bhatti U, Alam H, Nikolian V. The role of telemedicine in postoperative care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mhealth 2018;4:11 [ FREE Full text ] [ CrossRef ] [ Medline ] 12 - Siddle J, Pang P, Weaver C, Weinstein E, O'Donnell D, Arkins T, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mobile integrated health to reduce post-discharge acute care visits: a pilot study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am J Emerg Med 2018 May;36(5):843-845. [ CrossRef ] [ Medline ] 14 ], and it can connect the patient and provider with a real-time dashboard that can support prompt provider reactions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a previous study, a postoperative group of patients using mobile ICT recovered significantly better than a control group [ Jaensson M, Dahlberg K, Eriksson M, Nilsson U. Evaluation of postoperative recovery in day surgery patients using a mobile phone application: a multicentre randomized trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Anaesth 2017 Nov 1;119(5):1030-1038 [ FREE Full text ] [ CrossRef ] [ Medline ] 9 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Objective Therefore, the goal of this study was to determine the effect of mobile ICT on the performance of postoperative patients using an IS (Go-breath) app after general anesthesia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Methods Study Design This was a single-center, randomized controlled trial (RCT) assessing the effectiveness of an IS self-reporting app (Go-breath) to improve IS performance and effectiveness.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This trial was registered with the US National Institutes of Health Clinical Trials Registry (NCT03569332).",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study Setting This study was conducted at an academic tertiary center located in Seoul, Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The hospital’s expertise is cancer care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It hosts approximately 2000 inpatient beds and registers approximately 8500 outpatients per day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gastric cancer is one of the major diseases treated in the institution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The hospital’s Critical Pathway defines the routine care process for gastric cancer surgery as follows: The patient is admitted the evening before the surgery and discharged approximately 9 to 10 days after surgery—the discharge period of laparotomy is postoperative day (POD) 8 and for laparoscopy is POD 7—without complications; the patient receives instructions on the routine use of an IS before the surgery, and its use is initiated the morning after the surgery (POD 1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study Participants Participants were enrolled from April to May 2018.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We recruited patients from the surgical ward immediately after the admission process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Our eligibility criteria stipulated that patients were older than 18 years and planned to undergo robotic or laparoscopic surgery or a laparotomy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The enrollment was performed the day before the surgery, and the intervention was initiated the day after the surgery (POD 1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Following recruitment, participants were provided written informed consent and randomized using a Web-based random number generator and sealed enveloped in a 1:1 ratio.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the patient was in the intensive care unit (ICU) or in an emergency condition requiring nonelective surgery, he or she was excluded from the study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The patients were dropped from the study if the postoperative state of the patients was not difficult to predict in advance and if their postsurgical condition (and before the initiation of intervention) was consistent with the exclusion criteria such as ICU admission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dropout was only permitted on the day of surgery (POD 0).",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study Protocol Patients were allocated to the test and control groups after giving their consent for the study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients received a tablet with the Go-breath app installed, and they received information about the app and use of the IS for approximately 30 min.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The IS awareness session was carried out using either video clips ( Multimedia Appendix 1 Video clips for incentive spirometer after surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 2MB Multimedia Appendix 1 ) or nurses as part of the routine clinical process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Generally, the nurses were encouraged to check the performance of the IS on the patients over 10 times every hour after the surgery, and some ward nurses checked the IS performance rate more than 10 times per hour from 9 am to 9 pm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Go-breath app was identical for both the test and control groups except for the alarm function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The test group heard an alarm every 60 min from 9 am to 9 pm during POD1-POD2 (a total of 24 hours).",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the test group only, a dashboard was established in the nurse’s station through which a nurse could rapidly assess the performance of multiple patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On the other hand, the control group was not provided an alarm function or nurse dashboard identification.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The control group only entered the number of IS performances using the app.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The measurement of IS use was unlimited, but the record of the Go-breath app and dashboard would show up to a maximum of 10 times per hour.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We named this the incentive spirometer index (ISI), and a description of this index is provided in the major outcomes section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Termination of the study occurred in the morning of POD 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study assistants visited each patient, collected devices, conducted a short survey about usability among the patients and interviewed the patients for subjective opinions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Even though the study intervention lasted for only 2 days, the patients’ outcomes were tracked until the day of discharge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An overview of the study protocol is provided in Figure 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Device and System Hardware and System Architecture The system was constructed based on the opinions of health providers and comprised a mobile phone app for patients and a server for medical staff.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients could self-input their performance of IS, active coughing, and deep breathing every time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This information was transmitted to a nurse dashboard for a real-time check.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All patients were given the same hardware (Galaxy tablet A 8.0, Samsung, purchased 2018) running Android 8.0, and the mobile Go-breath app was tested on Android 8.0 utilizing an Amazon Web service server ( Figure 2 ). ‎ Figure 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Superscripted \"a\" indicates alarm every 50 min for insufficient during 9am-9pm (alarm off during 9pm-9am); \"b\" indicates calculation of performance score applies only to incentive spirometer (full score 240, 10 out of 10 points).",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "V/S: blood pressure, fever, body temperature, respiration rate; CRP: C-reactive protein; IS: incentive spirometer; PA: posterior to anterior; WBC: white blood cell.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "View this figure ‎ Figure 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screenshot of the Go-breath app (left) and dashboard (right).",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The original version was in Korean, but it was modified to display English.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "View this figure Go-breath App The main function of the Go-breath app was to allow for self-reporting and frequency monitoring of IS, deep breathing, and active coughing in real-time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In principle, patients were instructed to use the IS 10 times every hour and simultaneously report it to the app.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The optimal number of times to use the IS was derived from the literature [ Restrepo RD, Wettstein R, Wittnebel L, Tracy M. Incentive spirometry: 2011.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Respir Care 2011 Oct;56(10):1600-1604 [ FREE Full text ] [ CrossRef ] [ Medline ] 2 , Hall JC, Tarala RA, Tapper J, Hall JL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prevention of respiratory complications after abdominal surgery: a randomised clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br Med J 1996 Jan 20;312(7024):148-152. [ CrossRef ] [ Medline ] 6 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients could also check on their current state and edit previous indices they had input ( Figure 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Go-breath app was set to alarm when the number of IS uses did not reach 10 in an hour.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The app was set to ring 10 min before the end of each hour to give the patients time to complete the expected number of hourly uses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When the patients fulfilled their hourly IS use, the alarm would silence automatically.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, patients could silence the alarm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When the mute icon was pressed, the alarm would be deactivated for 2 hours and would reactivate by default.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This functionality was provided because some of the patients could be away from their bed for various reasons, and the alarm could disturb other patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The system remained frozen during the study period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We had preserved the anonymity of the patients by an unidentified number.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Go-breath Dashboard Only information from the test group was displayed on the Go-breath dashboard.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dashboard showed IS performance that did not include other measures, such as deep breathing and active coughing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each patient was displayed as a card with his or her location and POD information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For each card, the patient’s ISI during the most recent 6 hours was displayed as a bar graph.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the most recent hourly ISI was not optimal (below 10), the card turned red.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The timing and alarm rules were identical to that of the Go-breath app ( Figure 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Major Outcomes Primary Outcome We developed the ISI, which ranged from 0 to 120 per day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The maximum score was 240 for a 2-day observation period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We developed an outcome index using clinical experts and supporting literature [ Restrepo RD, Wettstein R, Wittnebel L, Tracy M. Incentive spirometry: 2011.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Respir Care 2011 Oct;56(10):1600-1604 [ FREE Full text ] [ CrossRef ] [ Medline ] 2 , Hall JC, Tarala RA, Tapper J, Hall JL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prevention of respiratory complications after abdominal surgery: a randomised clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br Med J 1996 Jan 20;312(7024):148-152. [ CrossRef ] [ Medline ] 6 - Agostini P, Singh S. Incentive spirometry following thoracic surgery: what should we be doing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Physiotherapy 2009 Jun;95(2):76-82. [ CrossRef ] [ Medline ] 8 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The ISI was defined as 10 points per each hour, the frequency of IS use was 10 times or more for that hour.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the frequency was below 10 for that hour, the score was rated as 0.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ISI was only measured from 9:00 am to 9:00 pm at PODs 1 and 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We compared the ISI of the test group and control group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Secondary Outcome The secondary outcome was the System Usability Scale (SUS).",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At the end of the study, patients completed an offline questionnaire to evaluate the system using the SUS, which is widely used in health information technology research [ Borsci S, Federici S, Lauriola M. On the dimensionality of the System Usability Scale: a test of alternative measurement models.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cogn Process 2009 Aug;10(3):193-197. [ CrossRef ] [ Medline ] 15 - Bangor A, Kortum P, Miller J. Journ Usability Stud.",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2009 May.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Determining what individual SUS scores mean: adding an adjective rating scale   URL: http://uxpajournal.org/determining-what-individual-sus-scores-mean-adding-an-adjective-rating-scale/ 20 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The questionnaire measures the usability of hardware and software products, and it comprises only 10 items that respondents score on a 5-point Likert scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answers were converted to a final 0- to 100-point score, and the higher the score, the more usable the product [ Kortum P, Bangor A. Usability ratings for everyday products measured with the System Usability Scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Int J Hum Comput Stud 2012 Apr 11;29(2):67-76. [ CrossRef ] 17 , Brooke J. SUS-a quick and dirty usability scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In: Usability Evaluation in Industry.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "UK: CRC Press; 1996:4-7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "19 , Lehmann M, Monte K, Barach P, Kindler CH.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Postoperative patient complaints: a prospective interview study of 12,276 patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Anesth 2010 Feb;22(1):13-21. [ CrossRef ] [ Medline ] 21 ]. ‎ Figure 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "System architecture.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "API: application programming interface; AWS: Amazon Web Service.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "View this figure Other Outcomes In addition to the major outcomes, we measured IS use frequency, active coughing frequency, deep breathing, and clinical results (as length of stay).",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Clinical data, such as surgery, laboratory data including white blood cell, C-reactive protein, vital signs (fever), and chest posterior to anterior, and length of stay were also collected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Interviews After the study, a brief face-to-face interview with every patient was performed by a research assistant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients answered whether the system was helpful or not and rated the score.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients’ subjective opinions of the system were also gathered during the process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Data Collection We collected the patients’ baseline demographic information along with variables associated with surgery including surgeon, type of surgery, and duration of the operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the trial, all participants were asked to record log when they started and finished Go-breath app every day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Missing entries were interpreted as a missed value.",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sample Size Calculation We calculated the sample size of this study with the G-power 3.1 program (Statistical power analyses using G*Power 3.1 [ Faul F, Erdfelder E, Buchner A, Lang AG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Behav Res Methods 2009 Nov;41(4):1149-1160. [ CrossRef ] [ Medline ] 22 ]).",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Several assumptions were made to set the sample population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The power was set to 0.90, significance level was set to .05, and effect size was 1.00.",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The minimum number of samples for the Wilcoxon rank-sum test was 19 in each group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We assumed that the ISI would be different by 60% (12/20; test group) versus 40% (8/20; control group), with SDs for each group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This assumption was made based on expert opinions because there was no evidence that described IS frequency.",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under these conditions, the sample size was 19 patients, and finally, 22 patients were selected for each group considering a dropout rate of 10%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results Study Participants We recruited 44 patients from April to May 2018, with 22 patients allocated to the test group and 22 patients allocated to the control group from patients who used the Go-breath app at a single tertiary hospital in South Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A total of 2 patients were excluded because of clinical conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The overall average age was 55.9 (SD 12.9) years.",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The proportion of female patients was 34.1%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All patients had gastric cancer, and the overall average surgery time was 169 (SD 46.2) min.",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The demographic information of both groups is shown in Table 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Major Outcomes The primary ISI outcome and the secondary SUS outcome are shown in Table 2 , and no statistically significant differences were noted in these outcomes between the test and control groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SUS of both groups showed good to excellent grade [ Lehmann M, Monte K, Barach P, Kindler CH.",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Postoperative patient complaints: a prospective interview study of 12,276 patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Anesth 2010 Feb;22(1):13-21. [ CrossRef ] [ Medline ] 21 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the performance measures, both the IS rate count and deep breathing showed a higher performance without a statistical significance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, active coughing showed a significantly higher performance in the test group compared with the control group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the clinical results, including inflammatory markers and pulmonary complications, there were no statistically significant differences between the test and control groups ( Table 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Interviews For the usefulness questionnaire, 90.0% of the test group and 90.9% of the control group answered yes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were 3 domains of opinions: function addition, function alteration, and etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 2 most wanted functions were exercise tracking and peer patients’ information, and the most frequent complaint was about Wi-Fi connection issues ( Table 4 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Demographic characteristics of patients in the test and control groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Category Test group (N=22) Control group (N=22) Sex, n (%) Female 6 (27) 9 (40) Male 16 (72) 13 (59) Dropout, n (%) 2 (9) 0 (0) Age (years), n (%) 30-40 1 (4) 4 (18) 50-60 12 (54) 11 (50) 70-80 8 (36) 7 (31) Over 80 1 (4) 0 (0) Method of surgery, n (%) Laparotomy 10 (45) 8 (36) Laparoscopy, robotics 12 (54) 14 (63) Physicians, n (%) Dr K 9 (40) 7 (31) Dr B 3 (13) 3 (13) Dr S 5 (22) 5 (22) Dr L 5 (22) 7 (31) Comorbidity, n (%) Tuberculosis 0 (0) 1 (4) Diabetes mellitus 2 (8) 2 (9) Hypertension 4 (20) 8 (36) Others 2 (10) 2 (9) Time of surgery a (min), mean (SD) 168 (54) 170 (36) a Time of surgery was defined as the time from anesthesia to extubation time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Major outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Index Test group (N=20), mean (SD) Control group (N=22), mean (SD) P value ISI a 113.5 (0.8) 93.2 (71.2) .22 SUS b 79.25 (20.59) 79.43 (18.83) .94 a ISI (incentive spirometer utilization index) is a score of 10 points per hour if over 10 times from 9 am to 9 pm for 2 days, with a total maximum score of 240. b SUS: System Usability Scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Other outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Category Test group (N=20) Control group (N=22) P value Performance rate, mean (SD) Incentive spirometer, count 139.5 (61.2) 119.0 (84.5) .27 Active coughing 79.0 (52.78) 44.1 (43.62) .04 Deep breathing 107.8 (66.8) 94.8 (88.33) .49 Laboratory results, mean (SD) WBC a , k/mL 6.2 (2.8) 5.9 (1.8) .93 CRP b , mg/dL 8.1 (4.0) 8.2 (2.9) .07 Length of stay, mean (SD) 10.8 (1.6) 10.40 (1.00) .57 Chest PA c , n (%) Atelectasis 2 (10) 3 (15) .64 Fever d , n (%) 6 (30) 10 (45) .79 a WBC: white blood cell. b CRP: C-reactive protein. c PA: posterior to anterior. d Fever was defined as 37.5ºC (99.5ºF), and it means the number of people who have been checked for fever at least once.",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Components of the qualitative interview.",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Part Contents Responses (n) Function addition (N=12) “I would like to have the ability to check the number of steps when walking after surgery.” 3 “I would like a report function on the results of my performance compared with other patients and checking the number of balls up.” 3 “I wish I could hang it on a portable pole and small size device.” 2 “I would like to be provided with the training methods for coughing and deep breathing in addition.” 1 “I wish that the software has more fun-factors.” 1 “I wish my IS use data gets entered automatically.” 1 “I would like to have a medication schedule on the device.” 1 Alert function “I wish there was a notice function when the goal is achieved.” 2 “I would like to be able to customize the alarm settings myself.” 1 “I was very worried that the alarm would be annoying to other patients.” 1 Other components “I did not want to use it because of Wi-Fi connection issues.” 3 “The device and solution were somewhat difficult for the elderly.” 3 “I expected the nurses to inform me when my performance was not good, only to be disappointed when they did not.” 2 Discussion Principal Findings The purpose of this study was to assess the effectiveness of a mobile phone app on improving the performance of the IS by postoperative patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The major intervention of this study was to provide an interactive feedback system for patients to improve their breathing exercise behaviors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To our knowledge, this is the first RCT that involves the IS and a mobile phone app even though multiple research studies had previously shown their feasibility [ Jaensson M, Dahlberg K, Eriksson M, Nilsson U. Evaluation of postoperative recovery in day surgery patients using a mobile phone application: a multicentre randomized trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Anaesth 2017 Nov 1;119(5):1030-1038 [ FREE Full text ] [ CrossRef ] [ Medline ] 9 , Overdijkink SB, Velu AV, Rosman AN, van Beukering MD, Kok M, Steegers-Theunissen RP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The usability and effectiveness of mobile health technology-based lifestyle and medical intervention apps supporting health care during pregnancy: systematic review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2018 Apr 24;6(4):e109 [ FREE Full text ] [ CrossRef ] [ Medline ] 23 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We enrolled 42 patients, split between a test and control group, and compared their ISI, which showed an approximate 20% difference between the 2 groups (113.5, SD 50.8 vs 93.2, SD 71.2), although the difference was not statistically significant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Strength and Limitations The negative outcome could have been influenced by several factors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First, the SDs were very high in both groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This means the study population was heterogeneous with respect to IS use, which was not considered when designing the clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To the authors’ knowledge, there was no literature with specific measures of the IS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The SD was higher than other in-hospital indices, which was hard to foresee before the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In general, the evidence on the effectiveness of this app is limited and needs further investigation before implementation in mobile health care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recent studies have shown a substantial variation in the effectiveness of mobile health apps.",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Previous studies have not reported a significant difference in clinical outcomes in mobile health research because of the difficulties in RCT settings, such as small sample sizes and low levels of research design.",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, an effective clinical assessment of mobile health is hard to achieve, and there have been various attempts to determine health engagement and behavioral factors [ Robinson MD, Branham AR, Locklear A, Robertson S, Gridley T. Measuring satisfaction and usability of FaceTime for virtual visits in patients with uncontrolled diabetes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Telemed J E Health 2015 Aug 21. [ CrossRef ] [ Medline ] 24 , Ackermann RT, Finch EA, Brizendine E, Zhou H, Marrero DG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Translating the diabetes prevention program into the community.",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The DEPLOY pilot study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am J Prev Med 2008 Oct;35(4):357-363 [ FREE Full text ] [ CrossRef ] [ Medline ] 25 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The second possible reason was that the feedback mechanism could have influenced the control group more than intended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients behave differently because of several factors, and many patients come from a nonmedical background.",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, studies involving the behaviors of hospitalized patients still need more exploration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, the Diabetes Prevention Program was introduced to Mobile App America by insurance companies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mobile App America is a company with proven effective mobile phone app development, and it focuses on participant engagement and app value [ Diabetes Prevention Program Research Group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Diabetes Prevention Program (DPP): description of lifestyle intervention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Diabetes Care 2002 Dec 1;25(12):2165-2171 [ FREE Full text ] [ CrossRef ] [ Medline ] 26 - Richards KA, Jones E. Customer relationship management: finding value drivers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indust Mark Manag 2008 Apr;37(2):120-130. [ CrossRef ] 29 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Individuals involved in technological development, engineering, and theory tend to focus on the technology itself [ Soh JY, Cha WC, Chang DK, Hwang JH, Kim K, Rha M, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Development and validation of a multidisciplinary mobile care system for patients with advanced gastrointestinal cancer: interventional observation study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2018 May 7;6(5):e115 [ FREE Full text ] [ CrossRef ] [ Medline ] 30 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, health care user engagement in a postoperation setting includes unpredictable factors such as caregiving, word setting, Wi-Fi connections, and nurse feedback.",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The third possible reason could be the effectiveness of the alarms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many patients were sharing rooms with other patients and were very concerned about the sound of the alarm bothering others.",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To make this kind of trial more successful, patient feedback should be carefully considered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nevertheless, the effect of the mobile phone app was demonstrated along with the details of the ISI and performance rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All results were based on the difference between the test and control groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although the effectiveness of the app was not proven, the possible utility of a mobile phone app in the postoperation setting was shown.",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, this was the first trial to collect real-time evidence of IS device use over a long duration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although we could not find a standard for how patients should perform the IS, this research is significant by itself.",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The negative outcome of this study is because of the diversity of the patients’ behavior than the effectiveness of the intervention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Both the test and control groups showed a wide SD, which diminished the statistical power.",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This could have been prevented by appropriate sample size calculations, but to the authors’ knowledge, no other study had revealed such a wide difference in hospitalized patients’ behavior with postoperative conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The reason we had negative outcomes in the SUS could vary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Though we wanted to make an interactive system and evaluate its utility, a majority of the device’s functions were very similar in both groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "From the users’ aspect, reporting on the system could have been the main task.",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The alarm function was a major intervention for recognition, but it could be a minor task for patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study did not detect a statistically significant difference with Go-breath app usage between the test group and the control group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, considerable differences were still observed between the 2 groups, and such differences may demonstrate the possible effects of ICT on patient IS engagement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The surgical procedures, comorbidities ( Multimedia Appendix 2 Co-morbidities in patients undergoing open surgery and robotic or laparoscopic procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 14KB Multimedia Appendix 2 ), and length of anesthesia could have also influenced the outcome, which must have been minimized by randomization.",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study had some limitations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First, we could not measure the frequency of the use of the Go-breath dashboard because of the difficulty of implementing it without substantially disturbing the clinical routines of the acting nurses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Second, because our system relied on the input from a number of patients (nonblinded), the results could have been biased by the patients’ subjective cognition, willingness, or adherence to digital devices.",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The existence of family members could have also influenced the input.",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, even with these potential biases, inputting the data itself could have positively influenced the use of IS, as with other mobile solutions [ Faul F, Erdfelder E, Buchner A, Lang AG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Behav Res Methods 2009 Nov;41(4):1149-1160. [ CrossRef ] [ Medline ] 22 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The third limitation is related to the second one; the control group could have been substantially influenced by the device when inputting IS use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Even without its alarm function, individuals in the test group could see their current IS usage status, which could have encouraged them to use it more frequently, aggravating the Hawthorne effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Finally, there was no confirmed function for the performance rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although we made it possible to modify the number of previous performances, it did not guarantee the accuracy of the number of IS uses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To improve this, a sensor that automatically measures the number of IS uses could provide more accurate data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusions The use of the Go-breath app resulted in considerable differences between the test group and control group but with no statistically significant differences.",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acknowledgments This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education (NRF-2017R1D1A1B03029526), and processed as one of the creative lab projects by Samsung electronics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conflicts of Interest IP, GS, NH, and CH are employees of the company that developed the Go-breath app.",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Editorial notice : This randomized study was only retrospectively registered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The editor granted an exception of ICMJE rules for prospective registration of randomized trials because the risk of bias appears low and the study was considered formative.",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, readers are advised to carefully assess the validity of any potential explicit or implicit claims related to primary outcomes or effectiveness, as retrospective registration does not prevent authors from changing their outcome measures retrospectively. ‎ Multimedia Appendix 1 Video clips for incentive spirometer after surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 2MB ‎ Multimedia Appendix 2 Co-morbidities in patients undergoing open surgery and robotic or laparoscopic procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 14KB ‎ Multimedia Appendix 3 CONSORT‐EHEALTH checklist (V 1.6.1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "PDF File (Adobe PDF File), 3MB References García-Miguel FJ, Serrano-Aguilar PG, López-Bastida J. Preoperative assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Lancet 2003 Nov 22;362(9397):1749-1757. [ CrossRef ] [ Medline ] Restrepo RD, Wettstein R, Wittnebel L, Tracy M. Incentive spirometry: 2011.",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Respir Care 2011 Oct;56(10):1600-1604 [ FREE Full text ] [ CrossRef ] [ Medline ] Sebio R, Yáñez-Brage MI, Giménez-Moolhuyzen E, Valenza MC, Reychler G, Cahalin LP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Impact of a pre-operative pulmonary rehabilitation program on functional performance in patients undergoing video-assisted thoracic surgery for lung cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Arch Bronconeumol 2016 May;52(5):231-232 [ FREE Full text ] [ CrossRef ] [ Medline ] Kumar AS, Alaparthi GK, Augustine AJ, Pazhyaottayil ZC, Ramakrishna A, Krishnakumar SK.",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of flow and volume incentive spirometry on pulmonary function and exercise tolerance in open abdominal surgery: a randomized clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Diagn Res 2016 Jan 1;10(1):KC01-KC06 [ FREE Full text ] [ CrossRef ] [ Medline ] Malik PR, Fahim C, Vernon J, Thomas P, Schieman C, Finley CJ, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Incentive spirometry after lung resection: a randomized controlled trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ann Thorac Surg 2018 Aug;106(2):340-345. [ CrossRef ] [ Medline ] Hall JC, Tarala RA, Tapper J, Hall JL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prevention of respiratory complications after abdominal surgery: a randomised clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br Med J 1996 Jan 20;312(7024):148-152. [ CrossRef ] [ Medline ] Westwood K, Griffin M, Roberts K, Williams M, Yoong K, Digger T. Incentive spirometry decreases respiratory complications following major abdominal surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Surgeon 2007 Dec;5(6):339-342. [ CrossRef ] [ Medline ] Agostini P, Singh S. Incentive spirometry following thoracic surgery: what should we be doing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Physiotherapy 2009 Jun;95(2):76-82. [ CrossRef ] [ Medline ] Jaensson M, Dahlberg K, Eriksson M, Nilsson U. Evaluation of postoperative recovery in day surgery patients using a mobile phone application: a multicentre randomized trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Anaesth 2017 Nov 1;119(5):1030-1038 [ FREE Full text ] [ CrossRef ] [ Medline ] Hung WW, Ross JS, Farber J, Siu AL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Evaluation of the Mobile Acute Care of the Elderly (MACE) service.",
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JAMA Intern Med 2013 Jun 10;173(11):990-996 [ FREE Full text ] [ CrossRef ] [ Medline ] Semple J, Sharpe S, Murnaghan M, Theodoropoulos J, Metcalfe K. Using a mobile app for monitoring post-operative quality of recovery of patients at home: a feasibility study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2015 Feb 12;3(1):e18 [ FREE Full text ] [ CrossRef ] [ Medline ] Williams A, Bhatti U, Alam H, Nikolian V. The role of telemedicine in postoperative care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mhealth 2018;4:11 [ FREE Full text ] [ CrossRef ] [ Medline ] Dadlani R, Mani S, Mohan D, Rajgopalan N, Thakar S, Aryan S, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The impact of telemedicine in the postoperative care of the neurosurgery patient in an outpatient clinic: a unique perspective of this valuable resource in the developing world--an experience of more than 3000 teleconsultations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "World Neurosurg 2014;82(3-4):270-283. [ CrossRef ] [ Medline ] Siddle J, Pang P, Weaver C, Weinstein E, O'Donnell D, Arkins T, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mobile integrated health to reduce post-discharge acute care visits: a pilot study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am J Emerg Med 2018 May;36(5):843-845. [ CrossRef ] [ Medline ] Borsci S, Federici S, Lauriola M. On the dimensionality of the System Usability Scale: a test of alternative measurement models.",
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cogn Process 2009 Aug;10(3):193-197. [ CrossRef ] [ Medline ] Borsci S, Federici S, Bacci S, Gnaldi M, Bartolucci F. Assessing user satisfaction in the era of user experience: comparison of the SUS, UMUX, and UMUX-LITE as a function of product experience.",
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Int J Hum Comput Stud 2015 Jun 24;31(8):484-495. [ CrossRef ] Kortum P, Bangor A. Usability ratings for everyday products measured with the System Usability Scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Int J Hum Comput Stud 2012 Apr 11;29(2):67-76. [ CrossRef ] Sauro J, Lewis JR. Quantifying the User Experience: Practical Statistics for User Research.",
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "USA: Morgan Kaufmann; 2012.",
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Brooke J. SUS-a quick and dirty usability scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In: Usability Evaluation in Industry.",
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "UK: CRC Press; 1996:4-7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bangor A, Kortum P, Miller J. Journ Usability Stud.",
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2009 May.",
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Determining what individual SUS scores mean: adding an adjective rating scale   URL: http://uxpajournal.org/determining-what-individual-sus-scores-mean-adding-an-adjective-rating-scale/ Lehmann M, Monte K, Barach P, Kindler CH.",
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Postoperative patient complaints: a prospective interview study of 12,276 patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Anesth 2010 Feb;22(1):13-21. [ CrossRef ] [ Medline ] Faul F, Erdfelder E, Buchner A, Lang AG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Behav Res Methods 2009 Nov;41(4):1149-1160. [ CrossRef ] [ Medline ] Overdijkink SB, Velu AV, Rosman AN, van Beukering MD, Kok M, Steegers-Theunissen RP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The usability and effectiveness of mobile health technology-based lifestyle and medical intervention apps supporting health care during pregnancy: systematic review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2018 Apr 24;6(4):e109 [ FREE Full text ] [ CrossRef ] [ Medline ] Robinson MD, Branham AR, Locklear A, Robertson S, Gridley T. Measuring satisfaction and usability of FaceTime for virtual visits in patients with uncontrolled diabetes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Telemed J E Health 2015 Aug 21. [ CrossRef ] [ Medline ] Ackermann RT, Finch EA, Brizendine E, Zhou H, Marrero DG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Translating the diabetes prevention program into the community.",
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The DEPLOY pilot study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am J Prev Med 2008 Oct;35(4):357-363 [ FREE Full text ] [ CrossRef ] [ Medline ] Diabetes Prevention Program Research Group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Diabetes Prevention Program (DPP): description of lifestyle intervention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Diabetes Care 2002 Dec 1;25(12):2165-2171 [ FREE Full text ] [ CrossRef ] [ Medline ] Yu X, Chau JP, Huo L. The effectiveness of traditional Chinese medicine-based lifestyle interventions on biomedical, psychosocial, and behavioral outcomes in individuals with type 2 diabetes: a systematic review with meta-analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Int J Nurs Stud 2018 Apr;80:165-180. [ CrossRef ] [ Medline ] Xiao L, Yank V, Wilson SR, Lavori PW, Ma J. Two-year weight-loss maintenance in primary care-based Diabetes Prevention Program lifestyle interventions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nutr Diabetes 2013 Jun;3:e76 [ FREE Full text ] [ CrossRef ] [ Medline ] Richards KA, Jones E. Customer relationship management: finding value drivers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indust Mark Manag 2008 Apr;37(2):120-130. [ CrossRef ] Soh JY, Cha WC, Chang DK, Hwang JH, Kim K, Rha M, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Development and validation of a multidisciplinary mobile care system for patients with advanced gastrointestinal cancer: interventional observation study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2018 May 7;6(5):e115 [ FREE Full text ] [ CrossRef ] [ Medline ] ‎ Abbreviations ICT: information and communication technology ICU: intensive care unit IS: incentive spirometer ISI: incentive spirometer index NRF: National Research Foundation of Korea POD: postoperative day RCT: randomized controlled trial SUS: System Usability Scale Edited by G Eysenbach; submitted 13.09.18; peer-reviewed by Y Carter, S Borsci; comments to author 08.10.18; revised version received 26.11.18; accepted 31.12.18; published 19.02.19 Copyright ©Ji Yeong Soh, Se Uk Lee, Inpyo Lee, Ki Sang Yoon, Changho Song, Nam Hun Kim, Tae Sung Sohn, Jae Moon Bae, Dong Kyung Chang, Won Chul Cha.",
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 19.02.2019.",
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is an open-access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR mhealth and uhealth, is properly cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "sentence",
+      "section": "Original Paper",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The complete bibliographic information, a link to the original publication on http://mhealth.jmir.org/, as well as this copyright and license information must be included.",
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Won Chul Cha, MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Department of Digital Health",
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Samsung Advanced Institute for Health Sciences & Technology",
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sungkyunkwan University",
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "81, Irwon-ro",
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gangnam-gu",
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul, 06351",
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Republic of Korea",
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Phone: 82 10 5386 6597",
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "sentence",
+      "section": "Corresponding Author:",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Email: docchaster@gmail.com",
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "sentence",
+      "section": "Keywords",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "incentive spirometer (2) ; mobile health (2451) ; postoperative care (27) ; gastric cancer (23) ; motivation (184)",
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Vigorous and multidisciplinary efforts are required to prevent postoperative complications following prolonged general anesthesia [ García-Miguel FJ, Serrano-Aguilar PG, López-Bastida J. Preoperative assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Lancet 2003 Nov 22;362(9397):1749-1757. [ CrossRef ] [ Medline ] 1 ], and an incentive spirometer (IS) plays a key role, especially for patients with limited mobility [ Restrepo RD, Wettstein R, Wittnebel L, Tracy M. Incentive spirometry: 2011.",
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Respir Care 2011 Oct;56(10):1600-1604 [ FREE Full text ] [ CrossRef ] [ Medline ] 2 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An incentive spirometer is a medical device used to help patients improve the functioning of their lungs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is provided to patients who have had any surgery that might jeopardize respiratory function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The IS is used for the prevention of atelectasis, hypoxemia, pneumonia, respiratory dysfunction, and pleural effusion [ Sebio R, Yáñez-Brage MI, Giménez-Moolhuyzen E, Valenza MC, Reychler G, Cahalin LP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Impact of a pre-operative pulmonary rehabilitation program on functional performance in patients undergoing video-assisted thoracic surgery for lung cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Arch Bronconeumol 2016 May;52(5):231-232 [ FREE Full text ] [ CrossRef ] [ Medline ] 3 , Kumar AS, Alaparthi GK, Augustine AJ, Pazhyaottayil ZC, Ramakrishna A, Krishnakumar SK.",
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of flow and volume incentive spirometry on pulmonary function and exercise tolerance in open abdominal surgery: a randomized clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Diagn Res 2016 Jan 1;10(1):KC01-KC06 [ FREE Full text ] [ CrossRef ] [ Medline ] 4 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, IS utilization has remained the same since its initial development in the 1960s, and the usage protocol has not been standardized [ Malik PR, Fahim C, Vernon J, Thomas P, Schieman C, Finley CJ, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Incentive spirometry after lung resection: a randomized controlled trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ann Thorac Surg 2018 Aug;106(2):340-345. [ CrossRef ] [ Medline ] 5 - Agostini P, Singh S. Incentive spirometry following thoracic surgery: what should we be doing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Physiotherapy 2009 Jun;95(2):76-82. [ CrossRef ] [ Medline ] 8 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although many mobile phone apps have been developed for self-management in various clinical settings, only a few cases showing their use in postoperative care were reported [ Jaensson M, Dahlberg K, Eriksson M, Nilsson U. Evaluation of postoperative recovery in day surgery patients using a mobile phone application: a multicentre randomized trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Anaesth 2017 Nov 1;119(5):1030-1038 [ FREE Full text ] [ CrossRef ] [ Medline ] 9 ], even though subjective activity by patients can influence their clinical hospital outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, with help from mobile information and communication technology (ICT), patients can be more engaged in behaviors that can lead to better clinical results [ Sebio R, Yáñez-Brage MI, Giménez-Moolhuyzen E, Valenza MC, Reychler G, Cahalin LP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Impact of a pre-operative pulmonary rehabilitation program on functional performance in patients undergoing video-assisted thoracic surgery for lung cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Arch Bronconeumol 2016 May;52(5):231-232 [ FREE Full text ] [ CrossRef ] [ Medline ] 3 , Hung WW, Ross JS, Farber J, Siu AL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Evaluation of the Mobile Acute Care of the Elderly (MACE) service.",
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JAMA Intern Med 2013 Jun 10;173(11):990-996 [ FREE Full text ] [ CrossRef ] [ Medline ] 10 , Semple J, Sharpe S, Murnaghan M, Theodoropoulos J, Metcalfe K. Using a mobile app for monitoring post-operative quality of recovery of patients at home: a feasibility study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2015 Feb 12;3(1):e18 [ FREE Full text ] [ CrossRef ] [ Medline ] 11 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A mobile ICT for hospitalized postoperative patients can improve clinical outcomes by several pathways: it can encourage patients by informing them of important performance indices such as exercise duration [ Williams A, Bhatti U, Alam H, Nikolian V. The role of telemedicine in postoperative care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mhealth 2018;4:11 [ FREE Full text ] [ CrossRef ] [ Medline ] 12 - Siddle J, Pang P, Weaver C, Weinstein E, O'Donnell D, Arkins T, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mobile integrated health to reduce post-discharge acute care visits: a pilot study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am J Emerg Med 2018 May;36(5):843-845. [ CrossRef ] [ Medline ] 14 ], and it can connect the patient and provider with a real-time dashboard that can support prompt provider reactions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a previous study, a postoperative group of patients using mobile ICT recovered significantly better than a control group [ Jaensson M, Dahlberg K, Eriksson M, Nilsson U. Evaluation of postoperative recovery in day surgery patients using a mobile phone application: a multicentre randomized trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "sentence",
+      "section": "Background",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Anaesth 2017 Nov 1;119(5):1030-1038 [ FREE Full text ] [ CrossRef ] [ Medline ] 9 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "sentence",
+      "section": "Objective",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the goal of this study was to determine the effect of mobile ICT on the performance of postoperative patients using an IS (Go-breath) app after general anesthesia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "sentence",
+      "section": "Study Design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This was a single-center, randomized controlled trial (RCT) assessing the effectiveness of an IS self-reporting app (Go-breath) to improve IS performance and effectiveness.",
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "sentence",
+      "section": "Study Design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This trial was registered with the US National Institutes of Health Clinical Trials Registry (NCT03569332).",
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "sentence",
+      "section": "Study Setting",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study was conducted at an academic tertiary center located in Seoul, Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "sentence",
+      "section": "Study Setting",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The hospital’s expertise is cancer care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "sentence",
+      "section": "Study Setting",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It hosts approximately 2000 inpatient beds and registers approximately 8500 outpatients per day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "sentence",
+      "section": "Study Setting",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gastric cancer is one of the major diseases treated in the institution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "sentence",
+      "section": "Study Setting",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The hospital’s Critical Pathway defines the routine care process for gastric cancer surgery as follows: The patient is admitted the evening before the surgery and discharged approximately 9 to 10 days after surgery—the discharge period of laparotomy is postoperative day (POD) 8 and for laparoscopy is POD 7—without complications; the patient receives instructions on the routine use of an IS before the surgery, and its use is initiated the morning after the surgery (POD 1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "sentence",
+      "section": "Study Participants",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We recruited 44 patients from April to May 2018, with 22 patients allocated to the test group and 22 patients allocated to the control group from patients who used the Go-breath app at a single tertiary hospital in South Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "sentence",
+      "section": "Study Participants",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A total of 2 patients were excluded because of clinical conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "sentence",
+      "section": "Study Participants",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The overall average age was 55.9 (SD 12.9) years.",
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "sentence",
+      "section": "Study Participants",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The proportion of female patients was 34.1%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "sentence",
+      "section": "Study Participants",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All patients had gastric cancer, and the overall average surgery time was 169 (SD 46.2) min.",
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "sentence",
+      "section": "Study Participants",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The demographic information of both groups is shown in Table 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients were allocated to the test and control groups after giving their consent for the study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients received a tablet with the Go-breath app installed, and they received information about the app and use of the IS for approximately 30 min.",
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The IS awareness session was carried out using either video clips ( Multimedia Appendix 1 Video clips for incentive spirometer after surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 2MB Multimedia Appendix 1 ) or nurses as part of the routine clinical process.",
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Generally, the nurses were encouraged to check the performance of the IS on the patients over 10 times every hour after the surgery, and some ward nurses checked the IS performance rate more than 10 times per hour from 9 am to 9 pm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Go-breath app was identical for both the test and control groups except for the alarm function.",
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The test group heard an alarm every 60 min from 9 am to 9 pm during POD1-POD2 (a total of 24 hours).",
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the test group only, a dashboard was established in the nurse’s station through which a nurse could rapidly assess the performance of multiple patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On the other hand, the control group was not provided an alarm function or nurse dashboard identification.",
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The control group only entered the number of IS performances using the app.",
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The measurement of IS use was unlimited, but the record of the Go-breath app and dashboard would show up to a maximum of 10 times per hour.",
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We named this the incentive spirometer index (ISI), and a description of this index is provided in the major outcomes section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 391,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Termination of the study occurred in the morning of POD 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 392,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study assistants visited each patient, collected devices, conducted a short survey about usability among the patients and interviewed the patients for subjective opinions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 393,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Even though the study intervention lasted for only 2 days, the patients’ outcomes were tracked until the day of discharge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 394,
+      "type": "sentence",
+      "section": "Study Protocol",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An overview of the study protocol is provided in Figure 1 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 395,
+      "type": "sentence",
+      "section": "Multimedia Appendix 1",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Video clips for incentive spirometer after surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 396,
+      "type": "sentence",
+      "section": "Multimedia Appendix 1",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 2MB",
+      "align_score": null
+    },
+    {
+      "seg_id": 397,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hardware and System Architecture",
+      "align_score": null
+    },
+    {
+      "seg_id": 398,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The system was constructed based on the opinions of health providers and comprised a mobile phone app for patients and a server for medical staff.",
+      "align_score": null
+    },
+    {
+      "seg_id": 399,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients could self-input their performance of IS, active coughing, and deep breathing every time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 400,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This information was transmitted to a nurse dashboard for a real-time check.",
+      "align_score": null
+    },
+    {
+      "seg_id": 401,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All patients were given the same hardware (Galaxy tablet A 8.0, Samsung, purchased 2018) running Android 8.0, and the mobile Go-breath app was tested on Android 8.0 utilizing an Amazon Web service server ( Figure 2 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 402,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "‎ Figure 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 403,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Study protocol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 404,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Superscripted \"a\" indicates alarm every 50 min for insufficient during 9am-9pm (alarm off during 9pm-9am); \"b\" indicates calculation of performance score applies only to incentive spirometer (full score 240, 10 out of 10 points).",
+      "align_score": null
+    },
+    {
+      "seg_id": 405,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "V/S: blood pressure, fever, body temperature, respiration rate; CRP: C-reactive protein; IS: incentive spirometer; PA: posterior to anterior; WBC: white blood cell.",
+      "align_score": null
+    },
+    {
+      "seg_id": 406,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "View this figure",
+      "align_score": null
+    },
+    {
+      "seg_id": 407,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "‎ Figure 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 408,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Screenshot of the Go-breath app (left) and dashboard (right).",
+      "align_score": null
+    },
+    {
+      "seg_id": 409,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The original version was in Korean, but it was modified to display English.",
+      "align_score": null
+    },
+    {
+      "seg_id": 410,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "View this figure",
+      "align_score": null
+    },
+    {
+      "seg_id": 411,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Go-breath App",
+      "align_score": null
+    },
+    {
+      "seg_id": 412,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The main function of the Go-breath app was to allow for self-reporting and frequency monitoring of IS, deep breathing, and active coughing in real-time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 413,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In principle, patients were instructed to use the IS 10 times every hour and simultaneously report it to the app.",
+      "align_score": null
+    },
+    {
+      "seg_id": 414,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The optimal number of times to use the IS was derived from the literature [ Restrepo RD, Wettstein R, Wittnebel L, Tracy M. Incentive spirometry: 2011.",
+      "align_score": null
+    },
+    {
+      "seg_id": 415,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Respir Care 2011 Oct;56(10):1600-1604 [ FREE Full text ] [ CrossRef ] [ Medline ] 2 , Hall JC, Tarala RA, Tapper J, Hall JL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 416,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prevention of respiratory complications after abdominal surgery: a randomised clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 417,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br Med J 1996 Jan 20;312(7024):148-152. [ CrossRef ] [ Medline ] 6 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 418,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients could also check on their current state and edit previous indices they had input ( Figure 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 419,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Go-breath app was set to alarm when the number of IS uses did not reach 10 in an hour.",
+      "align_score": null
+    },
+    {
+      "seg_id": 420,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The app was set to ring 10 min before the end of each hour to give the patients time to complete the expected number of hourly uses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 421,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When the patients fulfilled their hourly IS use, the alarm would silence automatically.",
+      "align_score": null
+    },
+    {
+      "seg_id": 422,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, patients could silence the alarm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 423,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When the mute icon was pressed, the alarm would be deactivated for 2 hours and would reactivate by default.",
+      "align_score": null
+    },
+    {
+      "seg_id": 424,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This functionality was provided because some of the patients could be away from their bed for various reasons, and the alarm could disturb other patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 425,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The system remained frozen during the study period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 426,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We had preserved the anonymity of the patients by an unidentified number.",
+      "align_score": null
+    },
+    {
+      "seg_id": 427,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Go-breath Dashboard",
+      "align_score": null
+    },
+    {
+      "seg_id": 428,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Only information from the test group was displayed on the Go-breath dashboard.",
+      "align_score": null
+    },
+    {
+      "seg_id": 429,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dashboard showed IS performance that did not include other measures, such as deep breathing and active coughing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 430,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each patient was displayed as a card with his or her location and POD information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 431,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For each card, the patient’s ISI during the most recent 6 hours was displayed as a bar graph.",
+      "align_score": null
+    },
+    {
+      "seg_id": 432,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the most recent hourly ISI was not optimal (below 10), the card turned red.",
+      "align_score": null
+    },
+    {
+      "seg_id": 433,
+      "type": "sentence",
+      "section": "Device and System",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The timing and alarm rules were identical to that of the Go-breath app ( Figure 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 434,
+      "type": "sentence",
+      "section": "Major Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The primary ISI outcome and the secondary SUS outcome are shown in Table 2 , and no statistically significant differences were noted in these outcomes between the test and control groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 435,
+      "type": "sentence",
+      "section": "Major Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SUS of both groups showed good to excellent grade [ Lehmann M, Monte K, Barach P, Kindler CH.",
+      "align_score": null
+    },
+    {
+      "seg_id": 436,
+      "type": "sentence",
+      "section": "Major Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Postoperative patient complaints: a prospective interview study of 12,276 patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 437,
+      "type": "sentence",
+      "section": "Major Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Anesth 2010 Feb;22(1):13-21. [ CrossRef ] [ Medline ] 21 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 438,
+      "type": "sentence",
+      "section": "Major Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the performance measures, both the IS rate count and deep breathing showed a higher performance without a statistical significance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 439,
+      "type": "sentence",
+      "section": "Major Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, active coughing showed a significantly higher performance in the test group compared with the control group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 440,
+      "type": "sentence",
+      "section": "Major Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the clinical results, including inflammatory markers and pulmonary complications, there were no statistically significant differences between the test and control groups ( Table 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 441,
+      "type": "sentence",
+      "section": "Data Collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We collected the patients’ baseline demographic information along with variables associated with surgery including surgeon, type of surgery, and duration of the operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 442,
+      "type": "sentence",
+      "section": "Data Collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the trial, all participants were asked to record log when they started and finished Go-breath app every day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 443,
+      "type": "sentence",
+      "section": "Data Collection",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Missing entries were interpreted as a missed value.",
+      "align_score": null
+    },
+    {
+      "seg_id": 444,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We calculated the sample size of this study with the G-power 3.1 program (Statistical power analyses using G*Power 3.1 [ Faul F, Erdfelder E, Buchner A, Lang AG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 445,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 446,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Behav Res Methods 2009 Nov;41(4):1149-1160. [ CrossRef ] [ Medline ] 22 ]).",
+      "align_score": null
+    },
+    {
+      "seg_id": 447,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Several assumptions were made to set the sample population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 448,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The power was set to 0.90, significance level was set to .05, and effect size was 1.00.",
+      "align_score": null
+    },
+    {
+      "seg_id": 449,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The minimum number of samples for the Wilcoxon rank-sum test was 19 in each group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 450,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We assumed that the ISI would be different by 60% (12/20; test group) versus 40% (8/20; control group), with SDs for each group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 451,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This assumption was made based on expert opinions because there was no evidence that described IS frequency.",
+      "align_score": null
+    },
+    {
+      "seg_id": 452,
+      "type": "sentence",
+      "section": "Sample Size Calculation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under these conditions, the sample size was 19 patients, and finally, 22 patients were selected for each group considering a dropout rate of 10%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 453,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the usefulness questionnaire, 90.0% of the test group and 90.9% of the control group answered yes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 454,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were 3 domains of opinions: function addition, function alteration, and etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 455,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 2 most wanted functions were exercise tracking and peer patients’ information, and the most frequent complaint was about Wi-Fi connection issues ( Table 4 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 456,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 457,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Demographic characteristics of patients in the test and control groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 458,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Category Test group (N=22) Control group (N=22) Sex, n (%) Female 6 (27) 9 (40) Male 16 (72) 13 (59) Dropout, n (%) 2 (9) 0 (0) Age (years), n (%) 30-40 1 (4) 4 (18) 50-60 12 (54) 11 (50) 70-80 8 (36) 7 (31) Over 80 1 (4) 0 (0) Method of surgery, n (%) Laparotomy 10 (45) 8 (36) Laparoscopy, robotics 12 (54) 14 (63) Physicians, n (%) Dr K 9 (40) 7 (31) Dr B 3 (13) 3 (13) Dr S 5 (22) 5 (22) Dr L 5 (22) 7 (31) Comorbidity, n (%) Tuberculosis 0 (0) 1 (4) Diabetes mellitus 2 (8) 2 (9) Hypertension 4 (20) 8 (36) Others 2 (10) 2 (9) Time of surgery a (min), mean (SD) 168 (54) 170 (36) a Time of surgery was defined as the time from anesthesia to extubation time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 459,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 460,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Major outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 461,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Index Test group (N=20), mean (SD) Control group (N=22), mean (SD) P value ISI a 113.5 (0.8) 93.2 (71.2) .22 SUS b 79.25 (20.59) 79.43 (18.83) .94 a ISI (incentive spirometer utilization index) is a score of 10 points per hour if over 10 times from 9 am to 9 pm for 2 days, with a total maximum score of 240. b SUS: System Usability Scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 462,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 463,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Other outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 464,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Category Test group (N=20) Control group (N=22) P value Performance rate, mean (SD) Incentive spirometer, count 139.5 (61.2) 119.0 (84.5) .27 Active coughing 79.0 (52.78) 44.1 (43.62) .04 Deep breathing 107.8 (66.8) 94.8 (88.33) .49 Laboratory results, mean (SD) WBC a , k/mL 6.2 (2.8) 5.9 (1.8) .93 CRP b , mg/dL 8.1 (4.0) 8.2 (2.9) .07 Length of stay, mean (SD) 10.8 (1.6) 10.40 (1.00) .57 Chest PA c , n (%) Atelectasis 2 (10) 3 (15) .64 Fever d , n (%) 6 (30) 10 (45) .79 a WBC: white blood cell. b CRP: C-reactive protein. c PA: posterior to anterior. d Fever was defined as 37.5ºC (99.5ºF), and it means the number of people who have been checked for fever at least once.",
+      "align_score": null
+    },
+    {
+      "seg_id": 465,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 466,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Components of the qualitative interview.",
+      "align_score": null
+    },
+    {
+      "seg_id": 467,
+      "type": "sentence",
+      "section": "Interviews",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Part Contents Responses (n) Function addition (N=12) “I would like to have the ability to check the number of steps when walking after surgery.” 3 “I would like a report function on the results of my performance compared with other patients and checking the number of balls up.” 3 “I wish I could hang it on a portable pole and small size device.” 2 “I would like to be provided with the training methods for coughing and deep breathing in addition.” 1 “I wish that the software has more fun-factors.” 1 “I wish my IS use data gets entered automatically.” 1 “I would like to have a medication schedule on the device.” 1 Alert function “I wish there was a notice function when the goal is achieved.” 2 “I would like to be able to customize the alarm settings myself.” 1 “I was very worried that the alarm would be annoying to other patients.” 1 Other components “I did not want to use it because of Wi-Fi connection issues.” 3 “The device and solution were somewhat difficult for the elderly.” 3 “I expected the nurses to inform me when my performance was not good, only to be disappointed when they did not.” 2",
+      "align_score": null
+    },
+    {
+      "seg_id": 468,
+      "type": "sentence",
+      "section": "Principal Findings",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The purpose of this study was to assess the effectiveness of a mobile phone app on improving the performance of the IS by postoperative patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 469,
+      "type": "sentence",
+      "section": "Principal Findings",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The major intervention of this study was to provide an interactive feedback system for patients to improve their breathing exercise behaviors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 470,
+      "type": "sentence",
+      "section": "Principal Findings",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To our knowledge, this is the first RCT that involves the IS and a mobile phone app even though multiple research studies had previously shown their feasibility [ Jaensson M, Dahlberg K, Eriksson M, Nilsson U. Evaluation of postoperative recovery in day surgery patients using a mobile phone application: a multicentre randomized trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 471,
+      "type": "sentence",
+      "section": "Principal Findings",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Anaesth 2017 Nov 1;119(5):1030-1038 [ FREE Full text ] [ CrossRef ] [ Medline ] 9 , Overdijkink SB, Velu AV, Rosman AN, van Beukering MD, Kok M, Steegers-Theunissen RP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 472,
+      "type": "sentence",
+      "section": "Principal Findings",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The usability and effectiveness of mobile health technology-based lifestyle and medical intervention apps supporting health care during pregnancy: systematic review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 473,
+      "type": "sentence",
+      "section": "Principal Findings",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2018 Apr 24;6(4):e109 [ FREE Full text ] [ CrossRef ] [ Medline ] 23 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 474,
+      "type": "sentence",
+      "section": "Principal Findings",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We enrolled 42 patients, split between a test and control group, and compared their ISI, which showed an approximate 20% difference between the 2 groups (113.5, SD 50.8 vs 93.2, SD 71.2), although the difference was not statistically significant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 475,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The negative outcome could have been influenced by several factors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 476,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First, the SDs were very high in both groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 477,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This means the study population was heterogeneous with respect to IS use, which was not considered when designing the clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 478,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To the authors’ knowledge, there was no literature with specific measures of the IS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 479,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The SD was higher than other in-hospital indices, which was hard to foresee before the trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 480,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In general, the evidence on the effectiveness of this app is limited and needs further investigation before implementation in mobile health care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 481,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recent studies have shown a substantial variation in the effectiveness of mobile health apps.",
+      "align_score": null
+    },
+    {
+      "seg_id": 482,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Previous studies have not reported a significant difference in clinical outcomes in mobile health research because of the difficulties in RCT settings, such as small sample sizes and low levels of research design.",
+      "align_score": null
+    },
+    {
+      "seg_id": 483,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, an effective clinical assessment of mobile health is hard to achieve, and there have been various attempts to determine health engagement and behavioral factors [ Robinson MD, Branham AR, Locklear A, Robertson S, Gridley T. Measuring satisfaction and usability of FaceTime for virtual visits in patients with uncontrolled diabetes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 484,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Telemed J E Health 2015 Aug 21. [ CrossRef ] [ Medline ] 24 , Ackermann RT, Finch EA, Brizendine E, Zhou H, Marrero DG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 485,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Translating the diabetes prevention program into the community.",
+      "align_score": null
+    },
+    {
+      "seg_id": 486,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The DEPLOY pilot study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 487,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am J Prev Med 2008 Oct;35(4):357-363 [ FREE Full text ] [ CrossRef ] [ Medline ] 25 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 488,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The second possible reason was that the feedback mechanism could have influenced the control group more than intended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 489,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients behave differently because of several factors, and many patients come from a nonmedical background.",
+      "align_score": null
+    },
+    {
+      "seg_id": 490,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, studies involving the behaviors of hospitalized patients still need more exploration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 491,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, the Diabetes Prevention Program was introduced to Mobile App America by insurance companies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 492,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mobile App America is a company with proven effective mobile phone app development, and it focuses on participant engagement and app value [ Diabetes Prevention Program Research Group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 493,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Diabetes Prevention Program (DPP): description of lifestyle intervention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 494,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Diabetes Care 2002 Dec 1;25(12):2165-2171 [ FREE Full text ] [ CrossRef ] [ Medline ] 26 - Richards KA, Jones E. Customer relationship management: finding value drivers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 495,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indust Mark Manag 2008 Apr;37(2):120-130. [ CrossRef ] 29 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 496,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Individuals involved in technological development, engineering, and theory tend to focus on the technology itself [ Soh JY, Cha WC, Chang DK, Hwang JH, Kim K, Rha M, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 497,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Development and validation of a multidisciplinary mobile care system for patients with advanced gastrointestinal cancer: interventional observation study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 498,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2018 May 7;6(5):e115 [ FREE Full text ] [ CrossRef ] [ Medline ] 30 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 499,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, health care user engagement in a postoperation setting includes unpredictable factors such as caregiving, word setting, Wi-Fi connections, and nurse feedback.",
+      "align_score": null
+    },
+    {
+      "seg_id": 500,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The third possible reason could be the effectiveness of the alarms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 501,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many patients were sharing rooms with other patients and were very concerned about the sound of the alarm bothering others.",
+      "align_score": null
+    },
+    {
+      "seg_id": 502,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To make this kind of trial more successful, patient feedback should be carefully considered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 503,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nevertheless, the effect of the mobile phone app was demonstrated along with the details of the ISI and performance rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 504,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All results were based on the difference between the test and control groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 505,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although the effectiveness of the app was not proven, the possible utility of a mobile phone app in the postoperation setting was shown.",
+      "align_score": null
+    },
+    {
+      "seg_id": 506,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, this was the first trial to collect real-time evidence of IS device use over a long duration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 507,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although we could not find a standard for how patients should perform the IS, this research is significant by itself.",
+      "align_score": null
+    },
+    {
+      "seg_id": 508,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The negative outcome of this study is because of the diversity of the patients’ behavior than the effectiveness of the intervention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 509,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Both the test and control groups showed a wide SD, which diminished the statistical power.",
+      "align_score": null
+    },
+    {
+      "seg_id": 510,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This could have been prevented by appropriate sample size calculations, but to the authors’ knowledge, no other study had revealed such a wide difference in hospitalized patients’ behavior with postoperative conditions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 511,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The reason we had negative outcomes in the SUS could vary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 512,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Though we wanted to make an interactive system and evaluate its utility, a majority of the device’s functions were very similar in both groups.",
+      "align_score": null
+    },
+    {
+      "seg_id": 513,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "From the users’ aspect, reporting on the system could have been the main task.",
+      "align_score": null
+    },
+    {
+      "seg_id": 514,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The alarm function was a major intervention for recognition, but it could be a minor task for patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 515,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study did not detect a statistically significant difference with Go-breath app usage between the test group and the control group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 516,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, considerable differences were still observed between the 2 groups, and such differences may demonstrate the possible effects of ICT on patient IS engagement.",
+      "align_score": null
+    },
+    {
+      "seg_id": 517,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The surgical procedures, comorbidities ( Multimedia Appendix 2 Co-morbidities in patients undergoing open surgery and robotic or laparoscopic procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 518,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 14KB Multimedia Appendix 2 ), and length of anesthesia could have also influenced the outcome, which must have been minimized by randomization.",
+      "align_score": null
+    },
+    {
+      "seg_id": 519,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study had some limitations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 520,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First, we could not measure the frequency of the use of the Go-breath dashboard because of the difficulty of implementing it without substantially disturbing the clinical routines of the acting nurses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 521,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Second, because our system relied on the input from a number of patients (nonblinded), the results could have been biased by the patients’ subjective cognition, willingness, or adherence to digital devices.",
+      "align_score": null
+    },
+    {
+      "seg_id": 522,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The existence of family members could have also influenced the input.",
+      "align_score": null
+    },
+    {
+      "seg_id": 523,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, even with these potential biases, inputting the data itself could have positively influenced the use of IS, as with other mobile solutions [ Faul F, Erdfelder E, Buchner A, Lang AG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 524,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 525,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Behav Res Methods 2009 Nov;41(4):1149-1160. [ CrossRef ] [ Medline ] 22 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 526,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The third limitation is related to the second one; the control group could have been substantially influenced by the device when inputting IS use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 527,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Even without its alarm function, individuals in the test group could see their current IS usage status, which could have encouraged them to use it more frequently, aggravating the Hawthorne effect.",
+      "align_score": null
+    },
+    {
+      "seg_id": 528,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Finally, there was no confirmed function for the performance rate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 529,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although we made it possible to modify the number of previous performances, it did not guarantee the accuracy of the number of IS uses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 530,
+      "type": "sentence",
+      "section": "Strength and Limitations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To improve this, a sensor that automatically measures the number of IS uses could provide more accurate data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 531,
+      "type": "sentence",
+      "section": "Multimedia Appendix 2",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Co-morbidities in patients undergoing open surgery and robotic or laparoscopic procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 532,
+      "type": "sentence",
+      "section": "Multimedia Appendix 2",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 14KB",
+      "align_score": null
+    },
+    {
+      "seg_id": 533,
+      "type": "sentence",
+      "section": "Conclusions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the Go-breath app resulted in considerable differences between the test group and control group but with no statistically significant differences.",
+      "align_score": null
+    },
+    {
+      "seg_id": 534,
+      "type": "sentence",
+      "section": "Acknowledgments",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education (NRF-2017R1D1A1B03029526), and processed as one of the creative lab projects by Samsung electronics.",
+      "align_score": null
+    },
+    {
+      "seg_id": 535,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IP, GS, NH, and CH are employees of the company that developed the Go-breath app.",
+      "align_score": null
+    },
+    {
+      "seg_id": 536,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Editorial notice : This randomized study was only retrospectively registered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 537,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The editor granted an exception of ICMJE rules for prospective registration of randomized trials because the risk of bias appears low and the study was considered formative.",
+      "align_score": null
+    },
+    {
+      "seg_id": 538,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, readers are advised to carefully assess the validity of any potential explicit or implicit claims related to primary outcomes or effectiveness, as retrospective registration does not prevent authors from changing their outcome measures retrospectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 539,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Multimedia Appendix 1 Video clips for incentive spirometer after surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 540,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 2MB",
+      "align_score": null
+    },
+    {
+      "seg_id": 541,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Multimedia Appendix 2 Co-morbidities in patients undergoing open surgery and robotic or laparoscopic procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 542,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOCX File, 14KB",
+      "align_score": null
+    },
+    {
+      "seg_id": 543,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Multimedia Appendix 3 CONSORT‐EHEALTH checklist (V 1.6.1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 544,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "PDF File (Adobe PDF File), 3MB",
+      "align_score": null
+    },
+    {
+      "seg_id": 545,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "References García-Miguel FJ, Serrano-Aguilar PG, López-Bastida J. Preoperative assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 546,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Lancet 2003 Nov 22;362(9397):1749-1757. [ CrossRef ] [ Medline ] Restrepo RD, Wettstein R, Wittnebel L, Tracy M. Incentive spirometry: 2011.",
+      "align_score": null
+    },
+    {
+      "seg_id": 547,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Respir Care 2011 Oct;56(10):1600-1604 [ FREE Full text ] [ CrossRef ] [ Medline ] Sebio R, Yáñez-Brage MI, Giménez-Moolhuyzen E, Valenza MC, Reychler G, Cahalin LP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 548,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Impact of a pre-operative pulmonary rehabilitation program on functional performance in patients undergoing video-assisted thoracic surgery for lung cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 549,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Arch Bronconeumol 2016 May;52(5):231-232 [ FREE Full text ] [ CrossRef ] [ Medline ] Kumar AS, Alaparthi GK, Augustine AJ, Pazhyaottayil ZC, Ramakrishna A, Krishnakumar SK.",
+      "align_score": null
+    },
+    {
+      "seg_id": 550,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of flow and volume incentive spirometry on pulmonary function and exercise tolerance in open abdominal surgery: a randomized clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 551,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Diagn Res 2016 Jan 1;10(1):KC01-KC06 [ FREE Full text ] [ CrossRef ] [ Medline ] Malik PR, Fahim C, Vernon J, Thomas P, Schieman C, Finley CJ, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 552,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Incentive spirometry after lung resection: a randomized controlled trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 553,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ann Thorac Surg 2018 Aug;106(2):340-345. [ CrossRef ] [ Medline ] Hall JC, Tarala RA, Tapper J, Hall JL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 554,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prevention of respiratory complications after abdominal surgery: a randomised clinical trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 555,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br Med J 1996 Jan 20;312(7024):148-152. [ CrossRef ] [ Medline ] Westwood K, Griffin M, Roberts K, Williams M, Yoong K, Digger T. Incentive spirometry decreases respiratory complications following major abdominal surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 556,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Surgeon 2007 Dec;5(6):339-342. [ CrossRef ] [ Medline ] Agostini P, Singh S. Incentive spirometry following thoracic surgery: what should we be doing?",
+      "align_score": null
+    },
+    {
+      "seg_id": 557,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Physiotherapy 2009 Jun;95(2):76-82. [ CrossRef ] [ Medline ] Jaensson M, Dahlberg K, Eriksson M, Nilsson U. Evaluation of postoperative recovery in day surgery patients using a mobile phone application: a multicentre randomized trial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 558,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Anaesth 2017 Nov 1;119(5):1030-1038 [ FREE Full text ] [ CrossRef ] [ Medline ] Hung WW, Ross JS, Farber J, Siu AL.",
+      "align_score": null
+    },
+    {
+      "seg_id": 559,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Evaluation of the Mobile Acute Care of the Elderly (MACE) service.",
+      "align_score": null
+    },
+    {
+      "seg_id": 560,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JAMA Intern Med 2013 Jun 10;173(11):990-996 [ FREE Full text ] [ CrossRef ] [ Medline ] Semple J, Sharpe S, Murnaghan M, Theodoropoulos J, Metcalfe K. Using a mobile app for monitoring post-operative quality of recovery of patients at home: a feasibility study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 561,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2015 Feb 12;3(1):e18 [ FREE Full text ] [ CrossRef ] [ Medline ] Williams A, Bhatti U, Alam H, Nikolian V. The role of telemedicine in postoperative care.",
+      "align_score": null
+    },
+    {
+      "seg_id": 562,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mhealth 2018;4:11 [ FREE Full text ] [ CrossRef ] [ Medline ] Dadlani R, Mani S, Mohan D, Rajgopalan N, Thakar S, Aryan S, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 563,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The impact of telemedicine in the postoperative care of the neurosurgery patient in an outpatient clinic: a unique perspective of this valuable resource in the developing world--an experience of more than 3000 teleconsultations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 564,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "World Neurosurg 2014;82(3-4):270-283. [ CrossRef ] [ Medline ] Siddle J, Pang P, Weaver C, Weinstein E, O'Donnell D, Arkins T, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 565,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Mobile integrated health to reduce post-discharge acute care visits: a pilot study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 566,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am J Emerg Med 2018 May;36(5):843-845. [ CrossRef ] [ Medline ] Borsci S, Federici S, Lauriola M. On the dimensionality of the System Usability Scale: a test of alternative measurement models.",
+      "align_score": null
+    },
+    {
+      "seg_id": 567,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cogn Process 2009 Aug;10(3):193-197. [ CrossRef ] [ Medline ] Borsci S, Federici S, Bacci S, Gnaldi M, Bartolucci F. Assessing user satisfaction in the era of user experience: comparison of the SUS, UMUX, and UMUX-LITE as a function of product experience.",
+      "align_score": null
+    },
+    {
+      "seg_id": 568,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Int J Hum Comput Stud 2015 Jun 24;31(8):484-495. [ CrossRef ] Kortum P, Bangor A. Usability ratings for everyday products measured with the System Usability Scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 569,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Int J Hum Comput Stud 2012 Apr 11;29(2):67-76. [ CrossRef ] Sauro J, Lewis JR. Quantifying the User Experience: Practical Statistics for User Research.",
+      "align_score": null
+    },
+    {
+      "seg_id": 570,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "USA: Morgan Kaufmann; 2012.",
+      "align_score": null
+    },
+    {
+      "seg_id": 571,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Brooke J. SUS-a quick and dirty usability scale.",
+      "align_score": null
+    },
+    {
+      "seg_id": 572,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In: Usability Evaluation in Industry.",
+      "align_score": null
+    },
+    {
+      "seg_id": 573,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "UK: CRC Press; 1996:4-7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 574,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bangor A, Kortum P, Miller J. Journ Usability Stud.",
+      "align_score": null
+    },
+    {
+      "seg_id": 575,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2009 May.",
+      "align_score": null
+    },
+    {
+      "seg_id": 576,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Determining what individual SUS scores mean: adding an adjective rating scale   URL: http://uxpajournal.org/determining-what-individual-sus-scores-mean-adding-an-adjective-rating-scale/ Lehmann M, Monte K, Barach P, Kindler CH.",
+      "align_score": null
+    },
+    {
+      "seg_id": 577,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Postoperative patient complaints: a prospective interview study of 12,276 patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 578,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Anesth 2010 Feb;22(1):13-21. [ CrossRef ] [ Medline ] Faul F, Erdfelder E, Buchner A, Lang AG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 579,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 580,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Behav Res Methods 2009 Nov;41(4):1149-1160. [ CrossRef ] [ Medline ] Overdijkink SB, Velu AV, Rosman AN, van Beukering MD, Kok M, Steegers-Theunissen RP.",
+      "align_score": null
+    },
+    {
+      "seg_id": 581,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The usability and effectiveness of mobile health technology-based lifestyle and medical intervention apps supporting health care during pregnancy: systematic review.",
+      "align_score": null
+    },
+    {
+      "seg_id": 582,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2018 Apr 24;6(4):e109 [ FREE Full text ] [ CrossRef ] [ Medline ] Robinson MD, Branham AR, Locklear A, Robertson S, Gridley T. Measuring satisfaction and usability of FaceTime for virtual visits in patients with uncontrolled diabetes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 583,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Telemed J E Health 2015 Aug 21. [ CrossRef ] [ Medline ] Ackermann RT, Finch EA, Brizendine E, Zhou H, Marrero DG.",
+      "align_score": null
+    },
+    {
+      "seg_id": 584,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Translating the diabetes prevention program into the community.",
+      "align_score": null
+    },
+    {
+      "seg_id": 585,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The DEPLOY pilot study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 586,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Am J Prev Med 2008 Oct;35(4):357-363 [ FREE Full text ] [ CrossRef ] [ Medline ] Diabetes Prevention Program Research Group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 587,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Diabetes Prevention Program (DPP): description of lifestyle intervention.",
+      "align_score": null
+    },
+    {
+      "seg_id": 588,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Diabetes Care 2002 Dec 1;25(12):2165-2171 [ FREE Full text ] [ CrossRef ] [ Medline ] Yu X, Chau JP, Huo L. The effectiveness of traditional Chinese medicine-based lifestyle interventions on biomedical, psychosocial, and behavioral outcomes in individuals with type 2 diabetes: a systematic review with meta-analysis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 589,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Int J Nurs Stud 2018 Apr;80:165-180. [ CrossRef ] [ Medline ] Xiao L, Yank V, Wilson SR, Lavori PW, Ma J. Two-year weight-loss maintenance in primary care-based Diabetes Prevention Program lifestyle interventions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 590,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nutr Diabetes 2013 Jun;3:e76 [ FREE Full text ] [ CrossRef ] [ Medline ] Richards KA, Jones E. Customer relationship management: finding value drivers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 591,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indust Mark Manag 2008 Apr;37(2):120-130. [ CrossRef ] Soh JY, Cha WC, Chang DK, Hwang JH, Kim K, Rha M, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 592,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Development and validation of a multidisciplinary mobile care system for patients with advanced gastrointestinal cancer: interventional observation study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 593,
+      "type": "sentence",
+      "section": "Conflicts of Interest",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "JMIR Mhealth Uhealth 2018 May 7;6(5):e115 [ FREE Full text ] [ CrossRef ] [ Medline ]",
+      "align_score": null
+    },
+    {
+      "seg_id": 594,
+      "type": "sentence",
+      "section": "Multimedia Appendix 3",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CONSORT‐EHEALTH checklist (V 1.6.1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 595,
+      "type": "sentence",
+      "section": "Multimedia Appendix 3",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "PDF File (Adobe PDF File), 3MB",
+      "align_score": null
+    }
+  ]
+}

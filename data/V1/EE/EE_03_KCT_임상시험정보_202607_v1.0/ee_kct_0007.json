@@ -1,0 +1,1180 @@
+{
+  "document_id": "ee_kct_0007",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_3D 프린팅 기술을 이용한 치근단 완성 치아의 자가이식에 대한 최신 접근",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "3D 프린팅 기술을 이용한 치근단 완성 치아의 자가이식에 대한 최신 접근",
+    "title_en": "3D 프린팅 기술을 이용한 치근단 완성 치아의 자가이식에 대한 최신 접근",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "3D 프린팅 / 3D Printing / 국내 / 2017",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "초록 교정치료의 목적으로, 또는 보존 불가능한 치아를 발거 후 치근 형성이 완료된 치아의 자가치아이식을 요구하는 경우가 늘어나고 있지만 미완성 치근 형성 치아를 이식하는 경우에 비하여 치근 형성이 완료된 치아를 이식하는 경우 생존률 및 성공률이 낮음이 보고되고 있다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "이전의 자가치아이식에서는 공여치와 수여부만을 재현하는 모델만이 사용된 반면에 현재는 불필요한 골삭제와 술식 시간을 감소시켜주는 외과적 가이드 템플레이트들을 3D 프린팅 기술을 통하여 제작, 술식에 추가적으로 이용함으로써 이식시 적절한 방향와 깊이로 수여부를 형성할 수 있으며 술식시간도 감소시켜 자가치아이식의 성공률 및 생존률을 향상시킬 수 있다고 할 수 있다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "본 케이스는 치근 형성이 완료된 치아를 선천성 결손 부위에 자가이식한 케이스로 3D 프린팅 기술을 이용하여 공여치와 수여부 모형 모델 및 외과적 가이드 템플레이트들을 제작함으로써 술식의 성공률과 안정성을 높일 수 있었고 이식치의 양호한 치유 결과를 이끌어냈다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Autotransplantation of teeth with complete roots has lower survival and success rates compared with those for teeth with incomplete roots[ 1 , 2 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nevertheless, autotransplantation of teeth with complete roots is performed as part of orthodontic treatments and to replace unsalvageable teeth[ 3 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ideally, root development in a tooth intended for successful autotransplantation should be half to two-thirds complete[ 4 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, Hertwig’s epithelial root sheath should be conserved at the 4th or 5th phase of root development as determined by the Moorrees’ staging method[ 5 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since the periapical regions of teeth with incomplete roots are covered by a thin follicle or periodontal ligaments, only minimal force is required to remove such teeth from the alveolar socket.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, minimal trauma is exerted on the periodontal ligaments during extraction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, as blood supply is possible through the large apical foramen, there should be relatively good pulp healing[ 6 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In contrast, teeth with complete roots are at high risk of periodontal ligament damage during extraction, and exhibit relatively lower success and survival rates[ 6 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The reported success and survival rates of autotransplanted teeth with complete root formation vary substantially.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a study with a mean follow-up period of 63.8 months, Yoshino et al .[ 7 , 8 ] reported survival rates of 90.1% at 5 years and 70.5% at 10 years for 614 transplanted teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a study of 38 transplanted teeth with a mean follow-up period of 9.2 years, Watanabe et al .[ 2 , 8 ] reported a survival rate of 86.8% and a success rate of 63.1%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a study of 33 transplanted teeth with a mean follow-up period of 26.4 years, Czochrowska et al .[ 7 , 9 ] reported survival and success rates of 90% and 79%, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although the reported survival and success rates of autotransplantation of teeth with complete roots are diverse, they are lower than those of immature teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, studies that focus on the success rate of autotransplantation of teeth with complete roots are significant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Factors influencing the prognosis of autotransplantation include anatomical and morphological characteristics of the donor tooth and recipient site as well as factors that can be adjusted by the operator during treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Non-adjustable anatomical and morphological characteristics of the donor tooth and recipient site include the presence of periodontium in the donor tooth, morphology, root development stage, functionality of the donor tooth, and the presence of periodontium in the extraction socket.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Factors that can be adjusted by the operator to improve the likelihood of success and survival of the transplanted tooth include reduction of extra-oral exposure time of the donor tooth, tight contact between the donor tooth and recipient site, 4 - 8 weeks of non-rigid splinting to allow physiological mobility of the donor tooth, and the application of bite force during the initial post-treatment period to prevent ankylosis[ 10 , 11 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 2 most influential factors in the autotransplantation of teeth are precise shaping of the recipient site, and reduction in the operating time to minimize damage to the periodontal membrane of the donor tooth[ 10 , 11 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For autotransplantations performed in previous studies, only rapid prototyping (RP) models of the donor tooth and recipient site were manufactured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This aimed to prevent periodontal damage to the donor tooth caused by repeatedly checking of the fit of the donor tooth in the extraction socket[ 10 , 11 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, as only RP models were used, the extraction sockets underwent excessive removal, and the treatment time was relatively long.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, treatment precision was reduced due to differences in size between the manufactured models and the corresponding donor tooth and recipient site[ 10 , 11 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To overcome these limitations, in the present study, more advanced than the computer-aided rapid prototyping (CARP) models of donor tooth and recipient site, additional 3-dimensional (3D)-image analysis and 3D-printing technology were used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These advancements are gaining popularity in contemporary dental fields of prosthodontics, orthodontics, and oral surgery[ 12 , 13 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After casting models of the donor tooth and recipient site, surgical guide templates, which can guide the direction and depth of bone removal to prevent excessive removal of the extraction socket, were created using 3D-printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This was followed by metal casting of the templates for bone fracture resistance during bone removal.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These manufactured models and surgical guide templates reduce the time required for recipient site formation compared with previous methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, damage to the periodontium of the donor tooth is decreased, as the donor tooth does not need to be checked multiple times to ensure that it fits into the recipient site.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "Ⅰ. Introduction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The present case of autotransplantation of a tooth with complete roots at the site of a congenitally missing permanent tooth using surgical guide templates generated with 3D-printing technology and donor tooth and recipient site models yielded favorable results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An 18-year-old girl visited the Department of Pediatric Dentistry of OO Dental Hospital for transplanting the right maxillary 3rd molar to the site of a right mandibular 2nd premolar, which is congenitally missing, before orthodontic treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A congenitally missing right mandibular 2nd premolar, dental caries of the right mandibular 2nd primary molar, and a sound right maxillary 3rd molar were observed on a panoramic radiograph ( Fig. 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Panoramic radiographic view at initial visit shows a congenitally missing right mandibular 2nd premolar, dental caries of the right mandibular 2nd primary molar, and a sound right maxillary 3rd molar.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We performed post-transplantation analysis using Invivo TM 5 (Anatomage Inc., USA) and Geomagic ® Design TM X software (3D Systems, USA), based on cone beam computed tomography (CBCT) images.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First, we analyzed the proximal space of the transplanted site by transplanting the right maxillary 3rd molar into the site of the right mandibular 2nd primary molar.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The results showed that if the right maxillary 3rd molar were transplanted as it was shaped, a small amount of proximal space would remain, and approximately half of the lingual root surface of the right maxillary 3rd molar would be exposed ( Fig. 2 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By contrast, transplantation of the right maxillary 3rd molar into the site of the right mandibular 2nd primary molar with 90° rotation would leave no proximal space and the lingual root surface exposure would be reduced to approximately half that associated with transplantation without rotation ( Fig. 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Analysis of proximal space with transplantation of the right maxillary 3rd molar into the site of the right mandibular 2nd primary molar as it is shaped (lingual view).",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, transplantation of the right maxillary 3rd molar with 90° rotation, there would provide sufficient distance from the mental foramen ( Fig. 4 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With regard to the comparison of the extraction socket width of the right mandibular 2nd primary molar with the root width of the right maxillary 3rd molar, the extraction socket was slightly larger, but similar enough to render the transplantation viable ( Fig. 5 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Analysis of the distance from the mental foramen to the root apex of the transplanted teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of the extraction socket of the right mandibular 2nd primary molar and the root width of the right maxillary 3rd molar.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, transplantation of the right maxillary 3rd molar vertically into the extraction socket would necessitate removal of buccal bone from the extraction socket.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, although transplantation of the donor tooth with buccal tipping would increase the lingual root surface exposure, it would also decrease alveolar bone removal.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For this reason, we planned transplantation with buccal tipping ( Fig. 6 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of the major axis of the donor tooth and bone removal requirement at the recipient site according to direction of transplantation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(A) Transplanted vertically.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(B) Transplanted with buccal tipping.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Based on the results of these analyses , to properly transplant the right maxillary 3rd molar into the extraction socket, we manufactured 3 surgical guide templates using 3D-printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 1st guide template was designed to prevent damage to the periodontium by replicating the donor tooth and fitting it into the recipient site repeatedly.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 2nd guide template was needed to ensure the correct depth of bone removal at the extraction socket.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 3rd guide template was designed to prevent excessive bone removal in the bucco-lingual direction at the recipient site ( Fig. 7 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Surgical guide templates created using 3D-printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(A) Replicas of donor tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(B) Guiding the correct depth of the recipient site.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(C) Guiding the correct bucco-lingual direction of the recipient site.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With these surgical guide templates, we performed autotransplantation of the right maxillary 3rd molar into the site of the right mandibular 2nd primary molar.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First, the right mandibular 2nd primary molar at the recipient site was extracted by sectioning it in half ( Figs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "8A and 8B ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The required depth of the extraction socket was achieved using the surgical guide templates and implant burs, followed by the creation of the recipient site using a conventional round surgical bur ( Fig. 8C ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The right maxillary 3rd molar was carefully extracted with minimal damage to the periodontium and immediately stored in saline ( Fig. 8D ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The root apex of the donor tooth was removed and retrofilled with mineral trioxide aggregate ( Fig. 8E ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The donor tooth was then transplanted into the prepared recipient site without any contact with the antagonistic tooth, a suture splint was then applied ( Fig. 8F ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After 1 week, we decided that it would be difficult to stabilize the donor tooth with suturing alone, so the tooth was splinted using a multi-twist wire ( Fig. 8G ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The splinted wire was removed after 3 weeks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4 weeks after the transplantation, endodontic treatment was performed using mineral trioxide aggregate ( Fig. 8H ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "And the patient is currently undergoing orthodontic treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(A), (B) The right mandibular 2nd primary molar at the recipient site is extracted after sectioning it in half.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(C) The recipient site is formed using the surgical guide templates and implant burs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(D) The donor tooth is extracted carefully.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(E) The root apex of the donor tooth is cut and retrofilled with mineral trioxide aggregate.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(F) The donor tooth is transplanted to the recipient site and splinted via sutures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(G) After 1 week, a multi-twist wire splint is placed for 3 weeks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(H) 4 weeks after the transplantation, endodontic treatment with mineral trioxide aggregate is performed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gradual bone formation was observed around the transplanted tooth at 4 weeks, 2 months, and 3 months post-transplantation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "And at 6 months post-transplantation, sufficient bone had formed around the periodontium of the transplanted tooth, and the alveolar bone had developed a favorable trabecular pattern.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were no complications, such as ankylosis, inflammatory root resorption, or periapical lesions ( Fig. 9 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Healing state from transplantation of the donor tooth to post-transplantation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "Ⅱ. Case Report",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(A) At 4 weeks, (B) at 2 months, (C) at 3 months, and (D) at 6 months.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Autotransplantation is commonly used for tooth replacement procedures, especially in adolescents, since implants and other prosthetic replacements are contraindicated for various reasons[ 14 - 16 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "During surgery, the operator can adjust some of the parameters that affect the prognosis of autotransplantation such as extra-oral time and micro-movement of the donor tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A previous study found that most of the periodontium survived when left dry for 18 minutes extraorally.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, when left dry for 30 minutes, more than half died, and when left dry for 120 minutes, the majority died[ 17 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, in cases of autotransplantation, it is recommended that extra-oral time of the donor tooth should not exceed 30 minutes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Transplantation of a donor tooth into a recipient site that is too large can slow bone healing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Also, if the distance between the donor tooth and recipient site is too narrow, ankylosis can occur on the damaged periodontium[ 18 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the distance between the donor tooth and the recipient site must be appropriate to permit micro-movement of the tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Previous studies of autotransplantation used only CARP models of the donor tooth and recipient site.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, in the present case, 3 additional surgical guide templates were created using 3D-printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The most commonly reported complications associated with autotransplanted teeth are ankylosis and inflammatory root resorption[ 7 , 18 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Survival of the periodontium of the donor tooth is essential to prevent these complications[ 7 , 18 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As in the present case, the use of multiple surgical guide templates can reduce periodontium damage and increase the success and survival rates of autotransplantation by facilitating a faster and safer procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The surgical guide templates used in the present case were able to guide the correct bucco-lingual direction and depth of bone removal at the recipient site.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, templates reproducing bone removal at the recipient site similar to the root shape of the donor tooth could not be manufactured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "More satisfactory results may have been achieved if these additional templates had been available.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, in the present case, the donor tooth was transplanted with buccal tipping to reduce bone removal, despite the increased exposure of the lingual root surface.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The likelihood of favorable healing in such a case is doubtful.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Transplantation of a tooth with root exposure at a site with insufficient bone yields a certain amount of bone formation, but osteogenesis up to the gingival line can be difficult to achieve[ 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, transplantation of the donor tooth sufficiently deep to prevent exposure of the lingual root surface increases bone removal at the recipient site and ultimately leads to resorption of the alveolar bone ridge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, while the donor tooth in the present case was transplanted at an appropriate depth with some degree of lingual root exposure, a more satisfactory result may have been achieved if bone grafting had been performed on the lingual side.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The donor tooth used in the present case was a hypofunctional maxillary 3rd molar with an atrophied periodontal ligament that lacked matrix proteins and had poor blood circulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the most likely potential complication was ankylosis[ 7 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To increase the mobility of a hypo-functional tooth and volume of the periodontal ligament cells, pre-operative orthodontic extrusion can be performed for 2 - 3 weeks prior to surgery[ 7 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The routine autotransplantation procedure of a tooth with complete roots comprises 3 stages; autotransplantation, end-odontic treatment 2 - 4 weeks after surgery, and removal of the splint 4 - 8 weeks postoperatively[ 7 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Andreasen et al .[ 19 ] reported that when a donor tooth with incomplete root formation was transplanted, the vitality of the pulp was 76 - 94%, whereas when a donor tooth with complete root formation was transplanted, it was much lower at 0 - 22%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This suggests that the conventional endodontic treatment should be performed for teeth with complete roots[ 20 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, when transplanting teeth with complete roots, endodontic treatment must be performed within 3 - 4 weeks after transplantation[ 20 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Finally, to reduce the occurrence of post-treatment ankylosis, semi-rigid splinting may be considered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This splinting method allows physiologic movement of the donor tooth[ 7 , 21 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With regard to splinting methods, Kahnberg[ 22 ] reported that some freedom of mobility of the donor tooth during the healing period can prevent ankylosis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kristerson and Andreasen[ 23 ] found that rigid splinting increases root resorption, therefore, allowing slight mobility of the donor tooth promotes the recovery of initial osseous ankylosis by functionally stimulating the periodontal ligament.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Non-rigid splinting, such as suturing, for a short period of 1 - 2 weeks is recommended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, early application of excessive force to the donor tooth can cause severe root resorption of the tooth and alveolar bone resorption[ 7 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, in the present case, the donor tooth was carefully inserted into the socket without occlusal contact to prevent excessive occlusal stimulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A non-rigid splint of sutures was applied during the 1st week after transplantation, followed by a semi-rigid splinting with wire for 3 weeks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, we attempted a new method of semi-rigid splinting by splinting both the buccal and lingual surfaces to the adjacent tooth with the same force, distributing the force to the tooth and wire.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This resulted in a greater force on the tooth, with a lower elastic modulus than conventional splints, and allowed more movement of the donor tooth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, further studies are needed to evaluate the physiologic mobility of teeth with this new splinting method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of 3D-printing technology is becoming more prevalent in the fields of prosthodontics, oral surgery, and orthodontics, helping to improve the accuracy and safety of many treatments[ 12 , 13 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In pediatric dentistry, 3D-printing is used not only for autotransplantation, but also for proper crown setting, decreasing the time spent fabricating celluloid crowns or zirconia crowns that fit each tooth[ 24 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "Ⅲ. Discussion",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, 3D-printing technology is not yet commonly used due to its high cost and compatibility issues, therefore, further studies and developments are required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "Ⅳ. Summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of 3D-printing technology, and the fabrication of surgical guide templates in addition to models of the donor tooth and recipient site may reduce periodontal damage to the donor tooth, decrease treatment time, and increase the safety and success rate of autotransplantation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "Ⅳ. Summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Also, to reduce post-treatment complications such as ankylosis, in the present case, we attempted a new approach of semi-rigid splinting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "Ⅳ. Summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To date, the transplanted tooth has remained stable and has not developed any complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "Ⅳ. Summary",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, because the donor teeth have a high incidence of complications such as ankylosis, regular follow-ups are required.",
+      "align_score": null
+    }
+  ]
+}

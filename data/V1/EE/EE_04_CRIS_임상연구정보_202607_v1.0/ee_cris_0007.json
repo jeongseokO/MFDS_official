@@ -1,0 +1,451 @@
+{
+  "document_id": "ee_cris_0007",
+  "meta": {
+    "set": "EE",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000007",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=939",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The prospective trial to validate the effect of continuous infusion of low-dose esmolol on the requirement of inhalation anesthetics and opioid during surgery",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The effect of continuous infusion of low-dose esmolol on the requirement of inhalation anesthetics and opioid during surgery",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic unversity of Korea, CMC clinical research coordinating center",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Jae-min Lee",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "professor",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Won-jung Hwang",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instructor",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Won-jung Hwang",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instructor",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "none",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Seoul St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Esmolol, a beta blocker, is used to stabilise the cardiovascular response during the perioperative period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Esmolol effectively blocks undesirable cardiovascular responses during endotracheal intubation and extubation and is also used for treating tachyarrhythmias such as supraventricular tachycardia.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, evidence indicates that esmolol affects antinociception and obtunds the BIS response.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These findings have led to many studies about the sparing effects of beta-blockers on inhalation anaesthetics and opioids during the perioperative period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Johanson et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "reported that esmolol reduced the minimum alveolar concentration of isoflurane.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "White et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "and Collard et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "showed that perioperative esmolol administration reduced the required amount of fentanyl, which is used as a rescue analgesic in the recovery room.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These findings suggest that administration of a beta-blocker may reduce the amount of opioid necessary for maintaining adequate anaesthetic depth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Also, it is expected that beta-blockers would have a positive effect on the speed and quality of post-anaesthetic recovery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, there have been only a few studies on the relationship between beta-blockers and the requirement for opioids during surgery, and these did not present clinically applicable information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We performed this study to identify the effects of an intraoperative continuous infusion of low-dose esmolol on the required effect-site concentration of remifentanil and on post-anaesthetic recovery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "esmolol: a 0.5 mg/kg loading dose of followed by an infusion of 30 µg/kg/min during surgery",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Control",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Esmolol",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "미국마취과학회(ASA) 분류 1 또는 2에 해당되면서 전신마취 하 복강경하 부인과 수술을 받는 환자",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "patients with cardiovascular diseases such as hypertension, arrhythmia, or myocardial ischemia; unstable hemodynamics due to haemorrhage, hypovolemia, or loss of body fluids; asthma or chronic obstructive pulmonary diseases; allergies to the study drug; or body mass index below 16 or over 30 kg/m2, as well as patients requiring opioids for pain diseases and those who refused to participate",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "average effect-site concentration of remifentanil",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "immediately after the surgery",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_2.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ratio of average to adequate effect-site concentration of remifentanil",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_2.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "immediately after the surgery",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_3.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "frequency of increase and decrease in the effect-site concentration of remifentanil per hour",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_3.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "immediately after the surgery",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "time to awakening & orientation",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "until dischrge from PACU",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "level of postoperative pain",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "until dischrge from PACU",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "total dose of fentanyl",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "until dischrge from PACU",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "length of stay in the PACU",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "until dischrge from PACU",
+      "align_score": null
+    }
+  ]
+}

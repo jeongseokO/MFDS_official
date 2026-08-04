@@ -1,0 +1,667 @@
+{
+  "document_id": "ee_fda_guide_0020",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "Safety Reporting Requirements for INDs and BA_BE Studies Guidance for Industry and Investigators December 2012__cdb605c1ae",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry and Investigators",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Safety Reporting Requirements for INDs and BA/BE Studies-",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Small Entity Compliance Guide",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "December 2012 Drug Safety",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies are available from: Office of Communications Division of Drug Information, WO51, Room 2201 Center for Drug Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Silver Spring, MD 20993-0002 Phone: 301-796-3400; Fax: 301-847-8714",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Office of Communication, Outreach and Development, HFM-40 Center for Biologics Evaluation and Research Food and Drug Administration e, Suite 200N, Rockville, MD 20852-1448",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1 II. BACKGROUND 1 III.QUESTIONS AND ANSWERS 2",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry and Investigators1 Safety Reporting Requirements for INDs and BA/BE Studies- Small Entity Compliance Guide",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance represents the Food and Drug Administration’s (FDA’s) current thinking on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not create or confer any rights for or on any person and does not operate to bind FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you want to discuss an alternative approach, contact the FDA staff responsible for implementing this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you cannot identify the appropriate FDA staff, call the appropriate number listed on the title page of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance is intended to help small businesses understand and comply with FDA’s safety reporting regulations for human drug and biological products that are being investigated under an investigational new drug application (IND) and for drugs that are the subjects of bioavailability (BA) and bioequivalence (BE) studies that are exempt from the IND requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The FDA has prepared this guidance in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act (Public Law 104-121).",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word should in Agency guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Federal Register of September 29, 2010,2 FDA published a final rule that revised the IND safety reporting requirements for human drug and biological products under 21 CFR part 312, and added safety reporting requirements for persons conducting BA and BE studies under 21 CFR part 320.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The final rule revised the definitions used for safety reporting and made clear when to submit expedited safety reports.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA issued a guidance for industry and investigators, entitled Safety Reporting Requirements for INDs and BA/BE Studies that is intended to help sponsors and investigators comply with the revised requirements for IND safety reporting (21 CFR 312.32 and 312.64(b)) and safety reporting for BA/BE studies (21 CFR 320.31(d)).3 This",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1 This guidance has been prepared by the Office of Medical Policy in the Center for Drug Evaluation and Research (CDER) in conjunction with the Center for Biologics Evaluation and Research (CBER) at the Food and Drug Administration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 75 FR 59935, September 29, 2010.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3BA/BE Studies, .",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Small Entity Compliance Guide is intended to complement that guidance and provide further clarification to small businesses by answering several frequently asked questions from investigators and sponsors regarding the amended safety reporting requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: Do the amended safety reporting requirements for INDs and BA/BE studies apply to small entities?",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: Yes, small entities are required to follow the safety reporting regulations for INDs under 21 CFR 312.32, 312.64(b), and for BA/BE studies under 21 CFR 320.31(d)(3).",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: What is a sponsor-investigator?",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do these safety reporting regulations apply to sponsor-investigators?",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: A sponsor-investigator, as defined in § 312.3, is ‘‘an individual who both initiates and conducts an investigation, and under whose immediate direction the investigational drug is administered or dispensed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The term does not include any person other than an individual.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The requirements applicable to a sponsor-investigator under this part [312] include both those applicable to an investigator and a sponsor.’’ Therefore, the amended IND safety reporting requirements under §§ 312.32 and 312.64(b) apply to a study conducted by a sponsor-investigator (often called an investigator-initiated study).",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: How do I comply with the safety reporting requirements if I am a sponsor or sponsor-investigator conducting one trial and do not have access to all of the safety data from other entities (e.g., a commercial sponsor)?",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: For IND safety reporting, the Agency recognizes that a sponsor or sponsor-investigator may not have access to the complete safety data maintained by a commercial sponsor, but sponsors and sponsor-investigators are required to evaluate all safety information that is available to them to determine whether the information qualifies for reporting (21 CFR 312.32).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, sponsors and sponsor-investigators should examine reports in the scientific literature and perform literature searches to actively seek new safety information about the drug under investigation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To protect human subjects, the Agency recommends that entities that provide drug to or receive drug from other entities share safety information with each other.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: The regulations require reporting in an IND safety report when an aggregate analysis of specific events observed in a clinical trial indicates those events occur more frequently in the drug treatment group than in a control group (21 CFR 312.32(c)(1)(i)(C)).How do sponsors comply with this aggregate reporting requirement?",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: For IND safety reporting in general, sponsors should have a predefined safety monitoring plan that includes processes and procedures for the review, evaluation, and management of safety information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For reporting events in the aggregate, sponsors should perform an aggregate analysis of specific events both for individual studies and across all studies, including across INDs of the drug, to determine whether they meet the criteria for expedited reporting under 21 CFR 312.32(c)(1)(i)(C) or 312.32(c)(1)(iv).",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As discussed in the previous question, the sponsor should perform these analyses on the data available to them.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: Does this final rule change how sponsors report safety information in the IND annual report (21 CFR 312.33)?",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: No, the revised IND safety reporting requirements did not make any changes to the IND annual report requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: Does this final rule change what investigators report to their institutional review board (IRB)?",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: No, the final rule did not change the reporting requirements to IRBs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance on Adverse Event Reporting to IRBs – Improving Human Subject Protection provides recommendations on reporting to IRBs.4",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: Where can I find additional information on the safety reporting requirements for INDs and BA/BE studies?",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: For information on the safety reporting requirements for INDs and BA/BE studies, see FDA’s guidance for industry and investigators on Safety Reporting Requirements for INDs and BA/BE Studies.5",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: If I have questions about how to comply with this rule, who should I contact at FDA?",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: For IND safety reporting, you should contact the review division in the Center for Drug Evaluation and Research or Center for Biologics Evaluation and Research that has respE safety reporting, you should contact .",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4 Guidance for cliniSubject Protection, .",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5 See footnote 3 for",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry and Investigators Safety Reporting Requirements for INDs and BA/BE Studies-Small Entity Compliance Guide",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "10903 New Hampshire Ave.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Silver Spring, MD 20993-0002 Phone: 301-796-3400; Fax: 301-847-8714 druginfo@fda.hhs.gov http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Food and Drug Administration 1401 Rockville Pike, Suite 200N, Rockville, MD 20852-1448 ocod@fda.hhs.gov; Phone: 800-835-4709 or 301-827-1800 http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guidances/default.htm",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "TABLE OF CONTENTS I. INTRODUCTION 1",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. BACKGROUND In the Federal Register of September 29, 2010,2 FDA published a final rule that revised the IND safety reporting requirements for human drug and biological products under 21 CFR part 312, and added safety reporting requirements for persons conducting BA and BE studies under 21 CFR part 320.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 FDA guidance for industry and investigators on Safety Reporting Requirements for INDs and BA/BE Studies, http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. QUESTIONS AND ANSWERS Question: Do the amended safety reporting requirements for INDs and BA/BE studies apply to small entities?",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Question: The regulations require reporting in an IND safety report when an aggregate analysis of specific events observed in a clinical trial indicates those events occur more frequently in the drug treatment group than in a control group (21 CFR 312.32(c)(1)(i)(C)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How do sponsors comply with this aggregate reporting requirement?",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance on Adverse Event Reporting to IRBs – Improving Human Subject Protection provides recommendations on reporting to IRBs.4 Question: Where can I find additional information on the safety reporting requirements for INDs and BA/BE studies?",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: For information on the safety reporting requirements for INDs and BA/BE studies, see FDA’s guidance for industry and investigators on Safety Reporting Requirements for INDs and BA/BE Studies.5 Question: If I have questions about how to comply with this rule, who should I contact at FDA?",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Answer: For IND safety reporting, you should contact the review division in the Center for Drug Evaluation and Research or Center for Biologics Evaluation and Research that has responsibility for review of the IND.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For BA/BE safety reporting, you should contact OGD-PremarketSafetyReports@fda.hhs.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4 Guidance for clinical investigators, sponsors, and IRBs on Adverse Event Reporting to IRBs – Improving Human Subject Protection, http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5 See footnote 3 for the link to that guidance.",
+      "align_score": null
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "document_id": "ee_kct_0011",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_3차원 프린팅을 위한 CT 데이터 후처리 가이드라인_ 선천성 심장병(Congenital Heart Defect, CHD)",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "3차원 프린팅을 위한 CT 데이터 후처리 가이드라인: 선천성 심장병(Congenital Heart Defect, CHD)",
+    "title_en": "3차원 프린팅을 위한 CT 데이터 후처리 가이드라인: 선천성 심장병(Congenital Heart Defect, CHD)",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "3D 프린팅 / 3D Printing / 국내 / 2018",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "초록 목적: 선천성 심장 질환의 환자는 대부분 신생아 또는 영유아 환자이다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "심장 수술에 있어 심장의 크기가 매우 작고, 형태가 다양함으로 고 난이도 술기를 필요로 한다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "선천성 심장 질환의 환자 중 수술을 계획하는 환자를 대상으로 3차원 프린팅 모델을 제작 하였고, 그 과정에서의 CT 데이터를 이용한 후처리의 방법과 주의사항에 대해 알아 보고하고자 한다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "대상 및 방법: 2017년 1월부터 12월까지 소아심장 CT검사를 시행한 환자 중 임상에서 3차원프린팅 모델을 필요로 하는 환자 20명을 대상으로 하였다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "영상의 후처리에서는 데이터를 기반으로 하는 구획화를 필요로 하며, SVC와 IVC가 포함된 우심방, 우심실, 폐동맥, 폐정맥을 포함한 좌심방, 좌심실, 대동맥 그리고 관상동맥을 각각 구획화 해야 한다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "또한 수술 또는 진료에서 필요로 하는 부분이 있거나 VSD, 판막의 형태, 심근의 형태 등은 상황을 고려하여 별도의 구획화을 진행한다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "결과: CT scan 부터 3차원모델이 나오기까지의 총 제작 과정은 최소 5일이 소요됐으며, CT 데이터 후처리의 경우 평균 3시간, 후처리 모델링은 2시간, 모델 출력에 평균 9시간, 지지대를 제거하는 등의 마무리 작업에 평균 1시간 정도가 소요됐다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "검사자중 13명이 수술을 진행하였으며 모두 생존하였고, 4명의 경우는 수술 예정 중이다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "결론: CT 데이터 후처리는 방사선사의 업무 영역으로 그 방법은 심장의 모양을 직관적으로 볼 수 있으며 직접적인 수술 방법을 계획할 수 있는 장점이 있어 수술 방법의 결정에 중요한 역할을 하였다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "결과적으로 정확한 수술의 방법과 수술시간을 고려해 봤을 때 선천성 심장병 환자의 CT 데이터를 이용한 심장 3차원 프린팅은 가치 있고 중요한 기법이라 사료된다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "펼치기 Purpose: Most of the congenital heart disease (CHD) patients are newborns or infants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is very hard to make surgery due to the small size and various form of heart in CHD patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, high level of clinical skills are required in the operation procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this reason, a 3D modelling of heart was developed for CHD surgery planning.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, the post-processing methods and precautions were studied in 3D modelling process based on CT data.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Material and method: From January to December of 2017, 20 pediatric patients with CHD were selected for surgical planning with 3D modelling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Post-processing of image requires data-based segmentation such as right atrium including superior vena cava (SVC) and inferior vena cava (IVC), right ventricle, pulmonary artery, left atrium including pulmonary vein, left ventricle, and aorta and coronary artery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Also, additional segmentations were required in surgery or treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Result: Overall production of heart takes 5 days from CT scan to printing of 3D model.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The average time spent in post-processing of CT data, post modelling, printing, and finishing work are 3 hours, 2 hours, 9 hours, and 1 hour, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "13 patients who underwent surgery were all alive and 4 patients are scheduled for surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusion: Post-processing of CT data is work of radiological technologist.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It enables to figure out the shape of heart intuitively and allow efficient planning and decision of the operation methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Take into account the proper surgery and surgical time, 3D printing of heart using CT data of CHD patients is one of valuable and important technique.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "목차",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "목차",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MATERIAL AND METHODS",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "목차",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DISCUSSION",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "목차",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "V. CONCLUSION",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "참고문헌(0)팝업 열기AI 기반 매칭 안내양식 가공 및 링크 자동 생성 기능은 AI를 이용하여 제공됩니다.팝업 닫기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "등록된 참고문헌 정보가 없습니다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "해당 권호 수록 논문(16)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "반복적 재구성 기법이 관상동맥 내 석회화 수치 측정에 미치는 영향 필터보정 역투영법.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "해당 권호 수록 논문(16)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "모델기반 반복적재구성법, ASIR-V로 획득한 하지정맥 혈류영상과 방사선량 분석 Dual energy를 이용한 cardiac CT에서 virtual calcium scoring의 유용성 평가 3D Anteversion Angle CT에서 Bone Metal Modality Preset의 진단적 유용성 AI(Artificial Intelligence)를 도입한 CT Big data 기반으로 예약 Algorithm 개발에 대한 연구 Metal artifact reduction algorithm과 MonoE reconstruction(Dual Layer Detector) 중복 적용 시 유용성 연구 경부 CT에서 치아 임플란트에 의한 금속성 인공음영 감소의 유용성 최저 심박수 구간을 이용한 Coronary artery CT Angiography의 화질 개선에 관한 연구 Thyroid with Neck CT 검사에서 저관전압 70 kVp 프로토콜 검사의 선량감소 효과와 영상의 유용성에 관한 연구 CINE CT 검사 시 소아 기관-기관지연화증의 유용성 평가 하이브리드 반복 재구성 기법이 적용된 흉부 CT영상에서 결절의 체적변화 분석 Paranasal sinus CT검사시 Virtual Non Contrast 기법을 통한 화질 평가 및선량감소 효과에 대한 연구 CT 검사시 조영제 주입 후 체온변화에 대한 연구 이중에너지를 이용한 복부 CT 검사의 방사선량에 관한 연구 3차원 프린팅을 위한 CT 데이터 후처리 가이드라인: 선천성 심장병(Congenital Heart Defect, CHD) CT TAVI(trans-catheter aortic valve implantation) 검사에 있어 Smart coverage 기능의 유용성 평가",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "해당 권호 수록 논문(0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "등록된 수록 논문 정보가 없습니다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "추천 논문",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 D 프린팅 기술에 의한 소재 개발과 3차원 가상 착의 시스템 활용을 통한 의류 제작 미등재 민준영, 김현진, 김혜림 창의융합연구소 창의융합연구 3(1) 2023.06 골재생을 위한 생체재료 활용 3차원 프린팅 기술 미등재 박석희 대한정형외과학회 대한정형외과학회지 58(4) 2023.08 3차원 프린팅 기술을 이용한 차폐체 제작 및 유용성 평가 미등재 장희민, 윤준 한국방사선학회 Journal of the Korean Society of Radiology Vol.13 No.7 2019.01 시각장애인을 위한 3차원 지도 프린팅 에 관한 연구 미등재 오충원 국토지리학회 국토지리학회지 52(3) 2018.09 3 차원 프린팅 기술로 제작된 조직공학용 3 차원 구조체 미등재 박정훈, 장진아, 조동우 대한기계학회 Transactions of the Korean Society of Mechanical Engineers B Vol.38 No.10 2014.01",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "최근이용논문",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "최근 이용한 논문이 없습니다.",
+      "align_score": null
+    }
+  ]
+}

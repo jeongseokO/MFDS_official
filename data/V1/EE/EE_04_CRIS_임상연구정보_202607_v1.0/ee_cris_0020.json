@@ -1,0 +1,370 @@
+{
+  "document_id": "ee_cris_0020",
+  "meta": {
+    "set": "EE",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000021",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=1368",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This randomized, double-blinded, prospective study was to determine whether prophylactic oral udenafil will reduce the incidence and the severity of ERCP-induced pancreatitis",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Effect of Udenafil on Prophylaxis for Post-ERCP Pancreatitis : Multicenter Randomized, Double-Blind, Placebo-Controlled Study",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Soonchunhyang University Hospital Institutional Review Board",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Young Koog Cheon",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD, PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Konkuk University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Young Koog Cheon",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD, PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Konkuk University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Young Koog Cheon",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD, PhD",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Konkuk University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Soon Chun Hyang University Hospital Seoul",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chung-Ang Univerisity Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chung-Ang Univerisity Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Dong-A Pharm",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Soon Chun Hyang University Hospital Seoul",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pancreatitis is one of the major complications of endoscopic retrograde cholangio-pancreatography (ERCP) and endoscopic sphincterotomy (ES).",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is continues to be associated with substantial morbidity and occasional mortality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although post-ERCP pancreatitis often has been viewed as an unpredictable and unavoidable, there have been ongoing attempts to minimize the incidence and severity of post-ERCP pancreatitis by identifying high-risk patients in whom other methods of diagnosis and treatment should be considered first, by developing endoscopic interventions that can limit ERCP-induced pancreatic injury, and by identifying pharmacological agents that could be administered before or during the procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recent study showed phosphodiesterase type 5 (PDE-5) inhibitors which act at the level of intracellular signal transmission to relax smooth muscles.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This relaxation effect on smooth muscle is due to intracellular accumulation of cGMP, secondary to inhibition of the PDE responsible for degradation of this intracellular messenger.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We found that vardenafil affected basal pressure and amplitude in the SO.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The decreases in basal pressure and amplitude in patients with suspected SOD after administration of vardenafil were statistically significant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, the decreases in basal pressure and amplitude after administration of vardenafil were statistically significant regardless of SOD type.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Administration of PDE-5 inhibitors prior to ERCP to decrease SO tone may reduce the incidence of post-ERCP pancreatitis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prospective placebo-controlled clinical trials are required to determine whether PDE-5 inhibitors are effective in the treatment of SOD and prevention of post-ERCP pancreatitis.Pancreatitis is one of the major complications of endoscopic retrograde cholangio-pancreatography (ERCP) and endoscopic sphincterotomy (ES).",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "8. 연구설계_중재상세설명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Udenafil 100mg (PDE-5 inhibitors) is administered orally prior to ERCP one time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Udenafil",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "a PDE-5 inhibitor (Zydena®) 100 mg, once before procedure, one time",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Placebo",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "8. 연구설계_군_2.중재군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Placebo 1T per oral, before procedure, one time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) Age, 20 - 80 years 2) Patients who need a ERCP for a diagnosis and/or treatment 3) There were no problem to perform a ERCP 4) No allergy for Udenafil",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(1) age under 18 years, (2) intrauterine pregnancy, (3) breast-feeding mother, (4) mental disability, (5) incarceration, (6) acute pancreatitis within the preceding 72 hours before ERCP, (7) current treatment with aspirin, refecoxib, celecoxib, or other nonsteroidal anti-inflammatory drugs (NSAIDs), (8) allergy history to Udenafil, (9) impaired renal function (serum creatinine O2.0 mg/dL), (10) known liver cirrhosis, (11) subjects having had biliary sphincterotomy and now scheduled for repeat biliary therapy (extended sphincterotomy, balloon dilatation of biliary orifice, stone removal) without pancreatogram, or (12) anticipated inability to follow protocol",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The incidence of post-ERCP pancreatitis",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "the first 3 days after ERCP",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "the frequency of selective cannulation into the bile duct",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "the time of procedure",
+      "align_score": null
+    }
+  ]
+}

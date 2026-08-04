@@ -1,0 +1,127 @@
+{
+  "document_id": "ee_kct_0017",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_A Chinese Case of Coronavirus Disease 2019 (COVID-19) Did Not Show Infectivity During the Incubation Period_ Based on an Epidemiological Survey",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "A Chinese Case of Coronavirus Disease 2019 (COVID-19) Did Not Show Infectivity During the Incubation Period: Based on an Epidemiological Survey",
+    "title_en": "A Chinese Case of Coronavirus Disease 2019 (COVID-19) Did Not Show Infectivity During the Incubation Period: Based on an Epidemiological Survey",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "코로나바이러스감염증-19) / Coronavirus Disease (COVID-19 / 국내 / 2020-03-02",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ABSTRACT Controversy remains over whether the coronavirus disease 2019 (COVID-19) virus may have infectivity during the incubation period before the onset of symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The author had the opportunity to examine the infectivity of COVID-19 during the incubation period by conducting an epidemiological survey on a confirmed patient who had visited Jeju Island during the incubation period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The epidemiological findings support the claim that the COVID-19 virus does not have infectivity during the incubation period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key words : COVID-19 , Coronavirus , Infectious disease incubation period , Epidemiology",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Articles",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Page Path HOME > J Prev Med Public Health > Volume 53(2); 2020 > Article",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "ABSTRACT",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Controversy remains over whether the coronavirus disease 2019 (COVID-19) virus may have infectivity during the incubation period before the onset of symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Ethics Statement",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This paper is a perspective so it did not need ethical consideration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Notes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CONFLICT OF INTEREST The author has no conflicts of interest associated with the material presented in this paper.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Notes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FUNDING None.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Notes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ACKNOWLEDGEMENTS The author thanks Dr. Sung-Huk Lee, Don Haeng Yang, Mi Ya Kim, and Dae Soon Kim at the Bureau of Health-Welfare-Women and Jeju Center for Infection Control and Prevention for their contributions in this submission of an earlier version of the manuscript.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Notes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "AUTHOR CONTRIBUTIONS All work was done by JMB.",
+      "align_score": null
+    }
+  ]
+}

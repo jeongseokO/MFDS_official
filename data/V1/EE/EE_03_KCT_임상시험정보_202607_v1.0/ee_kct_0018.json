@@ -1,0 +1,1729 @@
+{
+  "document_id": "ee_kct_0018",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_A Comprehensive Review of Coronavirus Disease 2019_ Epidemiology, Transmission, Risk Factors, and International Responses",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "A Comprehensive Review of Coronavirus Disease 2019: Epidemiology, Transmission, Risk Factors, and International Responses",
+    "title_en": "A Comprehensive Review of Coronavirus Disease 2019: Epidemiology, Transmission, Risk Factors, and International Responses",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "코로나바이러스감염증-19) / Coronavirus Disease (COVID-19 / 국내 / 2021-01-01",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Go to: Abstract INTRODUCTION EPIDEMIOLOGY PERSON-TO-PERSON TRANSMISSION RISK FACTORS CONTROLLING MEASURES CONCLUSION Notes ACKNOWLEDGEMENTS References Abstract Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has caused a worldwide pandemic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The first reports of patients with COVID-19 were provided to World Health Organization on December 21, 2019 and were presumably associated with seafood markets in Wuhan, China.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As of October 25, 2020, more than 42 million cases have been confirmed worldwide, with more than 1.1 million deaths.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asymptomatic transmission contributes significantly to transmission, and clinical features are non-specific to the disease.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus, the diagnosis of COVID-19 requires specific viral RNA testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The disease demonstrates extensive human-to-human transmissibility and has infected healthcare workers at high rates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Clinical awareness of the epidemiology and the risk factors for nosocomial transmission of COVID-19 is essential to preventing infection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, effective control measures should be further identified by comprehensive evaluation of hospital and community responses.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this review, we provide a comprehensive update on the epidemiology, presentation, transmission, risk factors, and public health measures associated with COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We also review past insights from previous coronavirus epidemics [i.e., severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS)] to suggest measures to reduce transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Calculating the mean doubling time of a disease using reproduction numbers (R0) allows researchers to understand the speed and extent of a disease's transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Current R0 estimates for COVID-19 are not at consensus: the exact numbers of infected people cannot be appropriately surveyed due to asymptomatic spread, increased likelihood of detection of severe cases, and low availability of PCR test kits.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "9 One research team at Boston Children's Hospital estimated R0 to be between 2.0 and 3.3 by applying an Incidence Decay and Exponential Adjustment (IDEA) model.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "10 By fitting a deterministic Susceptible-Exposed-Infected-Recovered (SEIR) epidemiological model, a team at Lancaster University suggested R0 to be approximately 3.1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "11 They assumed Poisson-distributed daily increments using daily reported data in Chinese cities and in other countries.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Another group of researchers at York University also used a deterministic SEIR compartmental model, but proposed an R0 value of 6.47.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "12 A simplified version of the Bats-Hosts-Reservoir-People transmission network model, the Reservoir-People transmission network model, was created by a team at Xiamen University and calculated R0 values for each stage of transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "13 Under this model, R0 values for reservoir-to-person and person-to-person were assessed as 2.3 and 3.58, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Epidemiologists in London estimated that 1.5–3.5 people were infected by each case in the early stage of the outbreak.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "14 Overall, low numbers of reported cases and a lack of detection methods at the early stage of this crisis gave high uncertainty to modeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "Reproduction number (R0)",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "9 Further studies with larger sample sizes are needed to approximate the true value.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The incubation period of COVID-19 is widely believed to be 1 to 2 weeks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "15 A study published on March 26 reported a 5.2-day [95% confidence interval (CI), 4.1–7.0] incubation period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "16 Another study reached a similar estimate of 5.1 days (95% CI, 4.5–5.8) and reported that 97.5% of symptomatic cases developed symptoms within 11.5 days (95% CI, 8.2–15.6).",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "17 The WHO reported that patients who contract COVID-19 mostly develop signs and symptoms after 5–6 days from infection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "18 Accordingly, the WHO recommends travelers returning from affected areas to self-monitor for symptoms for 14 days and to follow the national protocols of receiving countries.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "19 However, some outliers exist.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One Japanese woman tested positive on February 6 after previously testing negative, and case number 25 in Korea was confirmed positive again on February 28, six days after discharge.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "20 However, it is currently unclear whether these cases suggest a dormancy period longer than 14 days, the possibility of reinfection, or sustained viral load following functional recovery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "Incubation period",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Further research on the incubation period or recurrence of the virus is needed to eliminate hidden transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "Non-specific clinical features",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since early clinical features are not disease-specific, early diagnosis of the disease requires clinical awareness about the SARS-CoV-2 infection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "Non-specific clinical features",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "21 According to two studies aggregating 100596 cases, 80–81% of symptomatic patients show mild symptoms, and 13.8% show severe disease.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "Non-specific clinical features",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "18 , 22 Reported symptoms include dry cough, fever, malaise, nasal congestion, fatigue, shortness of breath, sputum production, headache, sore throat, myalgia or arthralgia, diarrhea, dyspnea, hemoptysis, anosmia, ageusia, headache, and nausea or vomiting.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "Non-specific clinical features",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "23 , 24 , 25 Anosmia and ageusia specifically occur in 47–88% of mild to moderate COVID-19 cases and often co-occur.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "Non-specific clinical features",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "26 , 27 Females are more likely to have anosmia and ageusia with COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "Non-specific clinical features",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The limited data available suggest that such dysfunction is self-resolving within 14 days after disease recovery, with over half recovering from anosmia in the first 8 days.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "Non-specific clinical features",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "27 In early cases reported in Wuhan, severe acute respiratory infection symptoms were shown, and some patients rapidly developed acute respiratory distress syndrome (ARDS) and other serious complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SARS and COVID-19 share similar transmission routes, risk factors, and disease progression.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The SARS epidemic reported 8098 cases with 774 deaths and was controlled within 8 months.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "28 Twenty-six countries experienced infections, but most cases were concentrated in China, Taiwan, Hong Kong, Singapore, and Canada.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SARS is only transmissible by symptomatic patients, with viral load peaking 6–11 days after onset of illness.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "29 However, COVID-19 differs from SARS in three aspects: asymptomatic transmission, a well-connected initial outbreak site, and strain on public health resources.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With SARS, the co-occurrence of symptoms with viral shedding allowed for a sensitive case definition and isolation of high-risk patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "28 Household secondary attack rates for SARS were 6.2% in Singapore and 10% in Toronto, compared to a secondary attack rate of 30% for COVID-19 by some higher estimates.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "30 , 31 , 32 SARS also has both a longer time to peak viral load from onset and a shorter incubation period than COVID-19, explaining the decreased likelihood of asymptomatic transmission in SARS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "33 , 34 The R0 of SARS general transmission ranges from 0.58–1.17, partially due to isolation control measures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "35 Three out of five super spreading events in Singapore were possible largely because of atypical case presentations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two additional super spreading events were propagated by inadequate plumbing or ventilation, instead of the failure to detect infected cases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "35 , 36 , 37 , 38 In contrast, asymptomatic transmission of COVID-19 leads to increased community and household transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In February, Liu, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "39 documented eight COVID-19 super spreading events in China through restaurants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Difficulty tracing asymptomatic carriers, combined with high international traffic through Wuhan, allowed community transmission and made tracing patients more difficult.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The resulting demand on hospital resources impaired quarantining efforts on hospital staff, and the existence of asymptomatic carriers lessened the effectiveness of patient isolation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The 2012 MERS epidemic infected 2553 people as of March 2020 with 876 associated deaths.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "40 MERS also shares a similar disease course, transmission routes, and risk factors with SARS and COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "40 Like COVID-19, MERS can be transmitted by asymptomatic carriers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "41 However, the virus requires prolonged exposure before transmission and is primarily spread sporadically by animal-to-human transmission, decreasing the likelihood of a large-scale outbreak.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "42 For example, the peak viral load occurs 7 days after onset in cases without needing supplemental oxygen and 14–21 days in cases delivered oxygen, in contrast to the 3-day peak viral load in COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "34 However, the incubation of MERS, 4.5–7.8 days, is more similar to SARS than COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The estimated secondary attack rate for MERS ranges from 0.42–15.8%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "43 In one study by Drosten, et al., 44 only 14 out of 280 secondary household contacts among 26 index patients tested positive by antibody tests or reverse transcription polymerase chain reaction (RT-PCR).",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nosocomial transmission accounts for a significant portion of human-to-human transmission: 18.6% of MERS cases involved healthcare workers (HCW).",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "45 While the R0 for general transmission of MERS ranges from <1 to 3, 11 but the R0 specific for nosocomial transmission is estimated to be between 1.9 and 4.04.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "Comparison to SARS and MERS",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "46 Table 1 summarizes the comparisons of SARS, MERS, and COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The previous 2003 SARS outbreak led to over 966 infections among health care staff.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "47 A low minimum distance between beds, previously performing resuscitation in the ward, low availability of washing facilities for staff, staff working while sick, and using ventilation or oxygen therapy have been shown to be associated with SARS nosocomial transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "48 Effective strategies against nosocomial transmission were to isolate known carriers, ban hospital visitors, and close infected wards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "49 Patients with fever or respiratory distress in sites of the outbreak were isolated until SARS was ruled out.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "28 If the index patient could be identified before the estimated second incubation period, HCWs in contact with the patient were quarantined.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the index patient could not be identified, entire hospitals were closed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "49 Some intensive care units (ICUs) were entirely converted to negative pressure airflow, with hot, warm, and cold zones that necessitated full airborne precautions, droplet precautions, and no personal protective equipment (PPE), respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "50 In Toronto, the transmission was primarily nosocomial.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "51 Enactment of hospital control, including droplet PPE and negative airflow isolation, 20 days after the first SARS death reduced the number of cases to 0 for 20 consecutive days.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, subsequent relaxation of hospital control led to a resurgence of infections.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With MERS, a sensitive case definition was critical to identify sources of and to eliminate transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "46 In Thailand, nosocomial transmission was avoided entirely from three index cases by directing all patients with acute respiratory illness traveling from countries with MERS outbreaks to designated entrances and airborne isolation rooms until MERS could be ruled out.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "52 HCWs were required to adopt droplet precautions when working with suspected patients, as per the Centers for Disease Control and Prevention guidelines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the United States, HCWs exposed to suspected cases were required to undergo home quarantine for 14 days and to test negative before returning to work.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "53 Compared to COVID-19, MERS is a more fatal condition that may also spread before confirmatory diagnosis, 41 and its nosocomial transmission was controlled by similar early identification, isolation, and PPE guidelines as with SARS.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By February 11, 2020, 1716 health staff members in China were confirmed SARS-CoV-2 positive.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "54 In a cohort of 138 patients, Wang, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "55 estimated that 41% were infected by nosocomial transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "WHO recommends droplet and contact precautions for patients suspected of COVID-19 and airborne precautions while performing aerosol-generating procedures (intubation, cardiac resuscitation, high-flow nasal cannula, bronchoscopy), though some recommend airborne precautions in all cases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "56 Insights from the SARS outbreak have been used to create a number of recommendations for controlling COVID-19, which are summarized in Table 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In short, it is recommended to place symptomatic hospital staff under self-quarantine, equip patients with N95 masks, and inform receiving hospitals of suspected infectious arrivals beforehand.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "54 , 57 Patients with cough, dyspnea, and fever should be isolated in daily-disinfected, single negative pressure rooms until testing negative for COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Airborne precautions, including N95 respirator masks, gown, double-layered gloves, coverall, and protective shoes, have also been recommended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "57 Patients with mild symptoms may be sent for home care, but with the stipulations that home isolation necessitates careful prior assessment and that patients who do not recover should immediately seek further treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An elevated risk of hospital transmission has been described subsequent to treating critically-ill patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "50 , 58 , 59 For the critically ill, it is recommended to adopt airborne precautions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional critical care measures include equipping patients with masks during high flow nasal cannula treatments, using ventilators with filters and heat-moisture exchangers, and using masks during bronchoscopy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "59 When possible, rapid intubation techniques should be utilized, bag-mask ventilation should be avoided, and early planned intubations should be prioritized rather than emergency intubations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "50 , 60 For prolonged procedures, powered air-purifying respirators may be an alternative to N95 masks, but no trials have demonstrated improved or equivalent risk reduction, compared to the N95.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "50 One group described an increased risk of transmission with pulmonary function tests and recommended, in addition to isolation and disinfection procedures, suspending tests for suspected COVID-19 cases and for patients without an immediate need.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "61 Oxygen therapy can disperse particles in varying patterns depending on the devices used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "Nosocomial transmission of SARS, MERS, and COVID-19",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Continuous positive airway pressure (CPAP) via an oronasal mask and non-invasive ventilation (NIV) via an air-cushioned helmet showed minimum room contamination among nasal cannula, oronasal mask, Venturi mask, non-rebreathing mask, CPAP via an oronasal mask, CPAP via nasal pillows, high flow nasal cannula, NIV via a full face mask, NIV via a helmet without tight air cushion, and NIV via a helmet with tight air cushion.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asymptomatic and pre-symptomatic transmission of COVID-19 have been documented.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Studies in January 2020 were among the first to show the possibility of asymptomatic transmission by demonstrating mild or asymptomatic cases in an estimated 80% of patients, as well as an asymptomatic infection of a child.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "22 , 23 On March 6, Luo, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "62 traced three SARS-CoV-2 infections from patients who otherwise had no contact with Wuhan or animals to asymptomatic carrier sources.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asymptomatic transmission was also demonstrated by a Wuhan resident to five family members and by clusters of patients in Singapore.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "63 , 64 Asymptomatic infection is consistent with the longer incubation period, shorter time to peak viral load, and shorter serial interval of COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nishiura and colleagues estimated the serial interval by following 28 infector-infected pairs as 4.6 days (95% CI, 3.5–5.9), shorter than many incubation period estimates, suggesting transmission during subclinical infection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pre-symptomatic and asymptomatic infections are expected to contribute significantly to COVID-19 transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On March 13, Nishiura and colleagues used data from 565 Japanese citizens to estimate the proportion of asymptomatic infections as 30.8%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "66 With greater access to antibody testing, a Stanford group in Santa Clara County recruited 3330 people used lateral flow immunoassays to estimate the population-weighted seroprevalence of antibodies to SARS-CoV-2 as 2.49% (95% CI, 1.80–3.17%) to 4.16% (95% CI, 2.58–5.70%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "67 Another group in a northern Iran province used a cohort of 528 people to estimate the population antibody seropositivity prevalence as 33% (95% CI, 28–39%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Of the sample, 65 subjects (18%) had no symptoms, but had antibodies to SARS-CoV-2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "68 Contact tracing of 100 patients revealed similar secondary attack rates between pre-symptomatic and symptomatic exposures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "69 Byambasuren, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "70 recently found in a meta-analysis of 663 positive cases that 17% were asymptomatic, with a 42% lower relative risk of asymptomatic transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "Transmission by asymptomatic individuals",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is estimated that up to 62% of transmissions occurs pre-symptomatically, with true asymptomatic transmission being uncommon.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "Severity of illness and transmission",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Preliminary evidence from epidemiological and biological studies have suggested both increased and prolonged viral transmission associated with severe illness in COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "Severity of illness and transmission",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Reports have identified an increased risk of contracting the disease for HCWs who care for or resuscitate critically ill people with COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "Severity of illness and transmission",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "50 , 59 The median duration of viral shedding for severely ill patients was calculated as 31 days from illness onset by one study, higher than the estimations of median viral shedding duration (17 days) for the collective population.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "Severity of illness and transmission",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "72 , 73 In a cohort of 113 patients, severe illness, emergent treatments (corticosteroid therapy and mechanical ventilation), and delayed recovery were associated with longer viral shedding times.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "Severity of illness and transmission",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "72 A separate cohort of 32 ICU and non-ICU patients with COVID-19 demonstrated a viral shedding time about 7 days longer in the ICU group.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "Severity of illness and transmission",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "74 However, He, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "Severity of illness and transmission",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "75 found no differences in either viral load or shedding time between 94 mild and severe patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "Severity of illness and transmission",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Given ambiguous findings relating severity to increased transmission, it is currently unclear whether the apparent increased infection rates from patients who are critically ill intrinsically result from elevated viral load or are generated from aerosol-generating emergent techniques.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The most well-documented demographic risk factor for infection and morbidity is old age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Jing, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "76 reported that older individuals (aged ≥60 years) are the most susceptible to household transmission of SARS-CoV-2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Out of 799 patients, Chen, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "77 described that patients who died were older on average than those who survived.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Male sex, obesity, and smoking have also been shown to be associated with mortality, though it is difficult to quantify the relative risks thereof due to possible confounding and limited sample size.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Novel comorbidities associated with poor COVID-19 outcomes are continuously being described.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Among those discovered early, hypertension occurs most frequently with infection and has been validated across multiple studies as a risk factor for mortality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "79 , 80 Respiratory disease, cardiovascular disease, diabetes, kidney disease, and cancer have also been linked to increased risks of death.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "79 , 80 In some studies, coagulopathies and inflammation appear to be linked to severe outcomes or death.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a cohort study of 201 patients, neutrophilia, higher lactate dehydrogenase, and D-dimer were associated with the development of ARDS and death.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "81 The inflammatory biomarkers procalcitonin, interleukin-6, tumor necrosis factor alpha, and neutrophil to lymphocyte ratio are also thought to be risk factors for fatal outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "82 In a meta-analysis of nine studies, Lippi, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "83 linked thrombocytopenia with COVID-19 severity and mortality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kidney disease and markers of abnormal kidney function have also been shown to be associated with death in COVID-19.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "Demographics and comorbid conditions",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "84 Although further work is necessary to confirm current prognostic markers for vulnerability to COVID-19, it seems likely that poor cardiovascular and respiratory function predispose people to adverse outcomes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SARS-CoV-2 environmental risk factors comprise surface contamination, fecal-oral transmission, and airborne transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "85 , 86 In an experimental study aerosolizing SARS-CoV-2-WA1-2020 viral particles, SARS-CoV-2 remained viable on plastic and stainless steel for up to 72 hours.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "87 In some hospital wards in China, the virus was detected on floors, computer mice, trash cans, and on handrails.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "88 SARS-CoV-2 has been detected in feces during and after symptomatic infection.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "86 Routine disinfection has been shown to reduce contamination: none of the surfaces or sewage disinfection pools in wards with SARS-CoV-2 patients were positive for SARS-CoV-2 RNA when daily chlorine-containing disinfection was followed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "WHO guidelines encouraging social distancing of at least 2 meters are based on early evidence suggesting that COVID-19 is primarily spread by large droplets (above 5 µm), which generally fall to surfaces before traveling 2 meters.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "85 , 88 However, there is some evidence that SARS-CoV-2 distributes widely by aerosol and beyond 2 meters by droplets.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SARS-CoV-2 has been detected in the air 3 hours following manual aerosolization and in the air up to 4 meters from COVID-19 patient rooms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "87 , 88 Aerosolized viral RNA has been detected in protective apparel removal rooms, suggesting resuspension of viral particles, and in crowded public spaces.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "90 In a systematic review of 10 studies by Bahl, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "56 eight studies suggested that droplets travel above a 2-meter distance when coughing or sneezing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, Liu, et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "Environmental factor",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "90 found negligible viral air contamination in hospitals with negative ventilation and chlorine-containing disinfection, suggesting the effectiveness of proper sanitation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is known from previous MERS and SARS outbreaks that early detection of infection is critical for blocking further transmission.",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "52 , 91 Genome sequencing of SARS-CoV-2 enabled the rapid development of screening methods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Clinical testing for COVID-19 comprises either RT-PCR, which is more widely used, or antibody-based tests.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Currently, the majority of cases worldwide are confirmed through nucleic acid laboratory tests.",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Early eligibility criteria typically required an epidemiological link, the onset of symptoms, and negative ruling for other respiratory diseases in many countries.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "HCWs or those vulnerable to severe infection were eligible for testing after initial signs of fever or respiratory illness.",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By February 20, only China, Taiwan, Vietnam, the Philippines, Oman, Turkey, Colombia, Gabon, and Rwanda offered testing to anyone with symptoms, and only South Korea provided asymptomatic testing, 92 A large majority had no testing policy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By March 2, the majority of nations around the world had developed testing policies, though many nations necessitated patients to demonstrate an epidemiological or vulnerability status.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Some regions, including Singapore, northern Italy, and South Korea, effectively employed liberal testing eligibility criteria, in which any citizen with a physician's recommendation (Singapore) or with personal concern (South Korea, Northern Italy) could receive testing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On April 29, 20 nations offered testing to all people; 43 offered testing to all those who showed symptoms; and 48 offered testing only to vulnerable populations or those with epidemiological links after showing symptoms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Testing capacity has increased over time, with more accurate laboratory equipment and test kit supply production.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By April 21, hotspots like Italy, New Zealand, Denmark, Canada, the US, and South Korea cumulatively conducted 23.98, 19.66, 17.36, 14.99, 12.65, 12.08, and 11.14 tests per 1000 people respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thirty-five nations offered 0–5 tests per 1000 people; 13 nations offered 5–10 tests per 1000 people; 93 and 27 nations offered above 10 tests per 1000 people.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mean number of tests per 1000 conducted by all nations was 11.45.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "Diagnostic testing",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the virus continues to spread on a global level, it will be increasingly important to scale the production of accurate tests to match diagnostic demand.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The number of countries enforcing stay-at-home measures or gathering restrictions are summarized in Fig. 1 , and effective lockdown measures are shown in Table 3 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "From February 10 to March 1, fewer than 15 countries combined imposed either stay-at-home measures or gathering restrictions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "94 By March 10, 21 countries restricted gatherings, and 18 countries enforced stay-at-home measures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thirty-five recommended or required the closing of public schools.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By April 1, 131 countries restricted gatherings, of which 79 countries restricted gatherings below 10 people.",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On the same date, 196 countries enforced stay-at-home measures, with 70 enforcing home quarantine except for grocery shopping, exercise, and “daily trips.” By April 30, 83 countries restricted all gatherings, and 79 countries allowed home excursions only for essential trips ( Fig. 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sixteen countries limited home excursions, including essential trips, to once every few days for each household (minimal exceptions).",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Large-scale screening and training programs in COVID-19 recognition and isolation were also established by both hospitals and WHO.",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Restrictions with exceptions allow excursions for grocery shopping, exercise, and \"essential trips.\" Restrictions with minimal exceptions allow only one member per household to leave and only for certain periods.",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(B) Number of countries with restrictions on gatherings over time, stratified by gathering size.",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Data were obtained from the Oxford COVID-19 Government Response Tracker ( https://data.humdata.org/dataset/oxford- covid- 19- government- response- tracker ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Click for larger image Download as PowerPoint slide",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Precautions against SARS nosocomial transmission encompassed lockdown measures similar to those of the COVID-19 pandemic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In Beijing, local police, community health workers, and volunteers coordinated quarantining efforts.",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "91 Beijing closed all public entertainment sites on April 24, 2003, within 2 months of the initial importation of the virus.",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All schools, except universities, were closed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Restaurants and businesses were not closed, but screened for fever at entry.",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Travel advisories and screenings were implemented in multiple locations instead of travel bans.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "28 , 97 Singapore utilized widespread temperature testing and encouraged its citizens to check for fever several times per day.",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By April 30, 122 countries had closed educational institutions, including universities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The efficacy of school closures in reducing transmission is based on previous influenza outbreaks and is expected to be highest if the reproductive number is <2, if closures are implemented early, and if attack rates are higher in children.",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "98 The attack rate in children for influenza is 15.2% (95% CI, 11.4–18.9%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, the attack rate of COVID-19 in children has been estimated at only 7.2% (95% CI, 3.0–14.3%) and 3.8% (95% CI, 0.8–10.6%) in males and females, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "99 , 100 A systematic review by Viner and colleagues found little evidence that school closures during the SARS and COVID-19 epidemics contributed significantly to curbing transmission, as transmission rates in schools were already low.",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "Lockdown and movement restriction",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "98 One modeling study using the UK population estimated that school closures in the COVID-19 epidemic have only reduced transmission by 2–4%.",
+      "align_score": null
+    }
+  ]
+}

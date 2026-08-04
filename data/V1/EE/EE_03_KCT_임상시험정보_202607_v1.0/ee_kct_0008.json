@@ -1,0 +1,208 @@
+{
+  "document_id": "ee_kct_0008",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_3D 프린팅 기술을 적용한 상지 보조기 제작 방법에 관한 체계적 고찰",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "3D 프린팅 기술을 적용한 상지 보조기 제작 방법에 관한 체계적 고찰",
+    "title_en": "3D 프린팅 기술을 적용한 상지 보조기 제작 방법에 관한 체계적 고찰",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "3D 프린팅 / 3D Printing / 국내 / 2018",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ABSTRACT Objective: The purpose of this study is to investigate the application of 3D printing technology to the upper limb production through a systematic review and to summarize and analyze the necessary information to provide basic basis for future clinical application in the field of occupational therapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Methods: For the last five years from 2013 to 2017, the articles were searched using electronic databases RISS, KISS, Scopus, PubMed and Google Scholar.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a search keyword, '3D Printing AND Orthosis OR Splint OR Brace' was used.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The searched article were classified through the second classification and finally 16 article were selected and analyzed Results: About 80% of the article to be analyzed were single-target experimental studies and case studies with lower quality.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a result of analyzing the producers major, it was divided into four major categories.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Among them, the engineering department was the most, followed by the health department.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Six types of upper splint were manufactured.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cock-up splint and finger splint were made the most.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ABS was the most commonly used plastic material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are four manufacturing methods used in the analyzed article, and the most used manufacturing method is the FDM method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a method of measurement, 3D scanners were the most popular method to manufactured upper splint.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Conclusion: In this study, we learned how to make upper splint using 3D printing technology.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Based on this, I would like to provide basic data for applying 3D printing technology to manufactured the upper splint which is one of the occupational therapist's job scope.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I would like to present a direction for future research.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Based on the results of this study, it is expected that the development and research of upper splint applying 3D printing technology in occupational therapy field will be more active.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "ABSTRACT",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Objective: The purpose of this study is to investigate the application of 3D printing technology to the upper limb production through a systematic review and to summarize and analyze the necessary information to provide basic basis for future clinical application in the field of occupational therapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Journal Search",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(34 Volumes, 1 Issues, 945 Articles)",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Journal Search",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2026 Volume 34 No 1 2025 Volume 33 No 4 No 3 No 2 No 1 2024 Volume 32 No 4 No 3 No 2 No 1 2023 Volume 31 No 4 No 3 No 2 No 1 2022 Volume 30 No 4 No 3 No 2 No 1",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Journal Search",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "view all volumes and issues",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Tag Cloud",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Children Disability Home visiting Occupational therapy Systematic review",
+      "align_score": null
+    }
+  ]
+}

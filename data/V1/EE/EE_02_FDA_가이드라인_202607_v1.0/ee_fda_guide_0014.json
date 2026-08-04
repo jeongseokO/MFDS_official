@@ -1,0 +1,721 @@
+{
+  "document_id": "ee_fda_guide_0014",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "Further Amendments to General Regulations of the Food and Drug Administration to Incorporate Tobacco Products - Small Entity Compliance Guid__715e81efce",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Further Amendments to General Regulations of the Food and Drug Administration to Incorporate Tobacco Products (Revised)*",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Small Entity Compliance Guide",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Written comments and suggestions may be submitted at any time for Agency consideration to Dockets Management Branch (HFA-305), Food and Drug Administration, 5630 Fishers Lane, 852.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Alternatively, electronic comments may be submitted to All comments should be identified with the docket number listed in t publishes in the Federal Register.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For questions regarding this draft document contact the Center for Tobacco Products (CTP) at 1-877-CTP-1373.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "*This is the first revision to the first edition of this guidance, which issued in March 2012.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance represents the Food and Drug Administration’s (FDA’s) current thinking on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not create or confer any rights for or on any person and does not operate to bind FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you want to discuss an alternative approach, contact the FDA staff responsible for implementing this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you cannot identify the appropriate FDA staff, call the appropriate number listed on the title page of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance is intended to help small businesses understand and comply with FDA’s amendments to certain of its regulations to include tobacco products, where appropriate, in light of FDA’s authority to regulate these products under the Family Smoking Prevention and Tobacco Control Act (Tobacco Control Act).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With these amendments, tobacco products are subject to the same general requirements that apply to other FDA-regulated products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Parties must be in compliance with that final rule beginning on April 2, 2012.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA has prepared this Small Entity Compliance Guide in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act (Public Law 104-121).",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word should in Agency guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. SUMMARY OF THE REGULATION AND THIS GUIDANCE",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Federal Register of April 14, 2011 (76 FR 20901), FDA published a proposed rule seeking to amend several provisions of its general regulations to reflect the Agency’s new authority and mandate regarding tobacco products under the Tobacco Control Act (Public Law 111-31; 123 Stat.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1776).",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The rule includes revisions to the document reporting requirements for FDA- regulated entities and the definition of “product.” In the Federal Register of February 2, 2012 (77 FR 5171), FDA published the final rule, codified at 21 CFR parts 1, 7, and 16.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This rule amends §§ 1.21, 1.101, 7.3, and 16.1 of title 21 of the CFR.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "B. How does this rule affect § 1.21 of title 21 of the CFR?",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 1.21(a) of title 21 provides that the labeling of FDA-regulated products shall be deemed misleading if it fails to reveal facts that are “[m]aterial in light of other representations made or suggested by statement, word, design, device or any combination thereof; or [m]aterial with respect to consequences which may result from use of the article under: (i) The conditions prescribed in such labeling or (ii) such conditions of use as are customary or usual.” With this rule change, tobacco product labeling also would be deemed misleading for similar failures to reveal material facts.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This change is supported by section 903(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 387c(a)), which states that a tobacco product shall be deemed misbranded if its labeling is false or misleading.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Likewise, §1.21(c) of title 21 describes statements that are not permissible on labeling for FDA- regulated products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This final rule amends § 1.21 to state that tobacco product labeling, like the labeling of other FDA-regulated products, may not have a statement of differences of opinion regarding the warnings on tobacco product packages or advertisements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This change is in accordance with sections 201 and 204 of the Tobacco Control Act, as well as section 903(a) of the Tobacco Control Act generally.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "C. How does this rule affect § 1.101 of title 21 of the CFR?",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 1.101 outlines the notification and recordkeeping requirements for exports of FDA- regulated products under sections 801 or 802 of the FD&C Act (21 U.S.C.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "381 and 382) and section 351 of the Public Health Service Act (42 U.S.C. 262).",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 103(l) of the Tobacco Control Act specifically amends section 801 of the FD&C Act to include “tobacco products” on the list of FDA-regulated products that may be exported under this section.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, this final rule revises § 1.101(a) to indicate that this section also pertains to notifications records required for tobacco products pursuant to section 801 of the FD&C Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Does the revision to § 1.101(b) alter FDA’s enforcement policy regarding this section?",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The revision to § 1.101(b) does not alter the enforcement policy described in the advance notice of proposed rulemaking that published in the Federal Register of June 1, 2004 (69 FR 30842).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus, with regard to tobacco products, FDA intends to exercise enforcement discretion, as it does with exports generally, regarding the requirement for specific types of records under § 1.101(b)(2) demonstrating that the exported product is not in conflict with the foreign country’s laws.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "E. How does this rule affect § 7.3 of title 21 of the CFR?",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 7.3 defines the term “product” to include all the specific items that are potentially subject to FDA's authority.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This final rule amends § 7.3 of the regulations to define “product” to also include “tobacco products,” as defined by the Tobacco Control Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "F. How does FDA define “tobacco product”?",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 201(rr) to the FD&C Act defines “tobacco product” as any product made or derived from tobacco, or containing nicotine from any source, that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product).",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The term “tobacco product” does not mean an article that under the Federal Food, Drug, and Cosmetic Act is: a drug (section 201(g)(1)); a device (section 201(h)); a combination product (section 503(g)); or a food (section 201(f)) if such article contains no nicotine, or no more than trace amounts of naturally occurring nicotine.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "G. How does this rule affect § 16.1(b) of title 21 of the CFR?",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 16.1(b) lists the statutory and regulatory provisions that provide for the opportunity for a regulatory hearing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The final rule amends § 16.1 to note those instances in the Tobacco Control Act where an opportunity for a regulatory hearing is specifically provided.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They are:",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Section 903(a)(8)(B)(ii) of the FD&C Act relating to the misbranding of tobacco products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Section 906(e)(1)(B) of the FD&C Act relating to the establishment of good manufacturing practice requirements for tobacco products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Section 910(d)(1) of the FD&C Act relating to the withdrawal of an order allowing a new tobacco product to be introduced or delivered for introduction into interstate commerce.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Section 911(j) of the FD&C Act relating to the withdrawal of an order allowing a modified risk tobacco product to be introduced or delivered for introduction into interstate commerce.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Will FDA provide assistance for small businesses seeking additional information regarding this rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s Center for Tobacco Products (CTP) has established an Office of Small Business Assistance in an effort to help small businesses access up-to-date information and comply with the requirements of the Tobacco Control Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CTP’s nce can be reached at or at 1-877-CTP-1373 ay, 9:00 a.m. – 4:00 p.m. EDT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What are the consequences if a company is found to be out of compliance?",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Violations of the FD&C Act could lead to, among other things, warning letters, criminal penalties, civil money penalties, injunction, seizure, and no-tobacco-sale orders.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J. When does this rule become effective?",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This rule becomes effective on April 2, 2012, which is 60 days after the rule published in the Federal Register.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See 77 FR 5171.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Document History",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "March 2023—Section III—Definition of tobacco product is updated to reflect statutory amendments made by the Consolidated Appropriations Act, 2022 (Pub. L. 117-103).",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Among other things, the legislation amends the definition of “tobacco product” in section 201(rr) of the FD&C Act to include products “containing nicotine from any source.”",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Written comments and suggestions may be submitted at any time for Agency consideration to Dockets Management Branch (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1061, Rockville, MD 20852.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Alternatively, electronic comments may be submitted to http://www.regulations.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. SUMMARY OF THE REGULATION AND THIS GUIDANCE",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. QUESTIONS AND ANSWERS",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A. What are the specific sections of the Code of Federal Regulations (CFR) which are impacted by this rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "D. Does the revision to § 1.101(b) alter FDA’s enforcement policy regarding this section?",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "H. Will FDA provide assistance for small businesses seeking additional information regarding this rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. What are the consequences if a company is found to be out of compliance?",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 1.101 outlines the notification and recordkeeping requirements for exports of FDA- regulated products under sections 801 or 802 of the FD&C Act (21 U.S.C. 381 and 382) and section 351 of the Public Health Service Act (42 U.S.C. 262).",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Section 103(l) of the Tobacco Control Act specifically amends section 801 of the FD&C Act to include “tobacco products” on the list of FDA-regulated products that",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Section 906(e)(1)(B) of the FD&C Act relating to the establishment of good manufacturing practice requirements for tobacco products. • Section 910(d)(1) of the FD&C Act relating to the withdrawal of an order allowing a new tobacco product to be introduced or delivered for introduction into interstate commerce. • Section 911(j) of the FD&C Act relating to the withdrawal of an order allowing a modified risk tobacco product to be introduced or delivered for introduction into interstate commerce.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CTP’s Office of Small Business Assistance can be reached at SmallBiz.Tobacco@fda.hhs.gov or at 1-877-CTP-1373 (1-877-287-1373) Monday– Friday, 9:00 a.m. – 4:00 p.m. EDT.",
+      "align_score": null
+    }
+  ]
+}

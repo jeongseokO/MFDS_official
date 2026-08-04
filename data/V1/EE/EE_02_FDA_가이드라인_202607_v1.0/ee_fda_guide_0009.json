@@ -1,0 +1,1279 @@
+{
+  "document_id": "ee_fda_guide_0009",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "CVM GFI #69 Small Entities Compliance Guide for Feeders of Ruminant Animals with On-Farm Feed Mixing Operations February 1998__09535c6a02",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA GUIDANCE FOR INDUSTRY 69",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guide replaces those parts of Guidance for Industry 60, June 17, 1997 that applied to feeders of ruminant animals with on-farm feed mixing operations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SMALL ENTITIES COMPLIANCE GUIDE FOR FEEDERS OF RUMINANT ANIMALS WITH ON-FARM FEED MIXING OPERATIONS (October 19, 2010, this guidance document was revised to update contact information and to correct broken internet links)",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This document is intended to provide guidance for “ANIMAL PROTEINS PROHIBITED FROM USE IN RUMINANT FEED,” Title 21, Code of Federal Regulations, Part 589.2000, Effective Date: August 4, 1997.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit comments on this guidance at any time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comments may also be submitted electronically on the Internet at .",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For questions regarding this guidance document, contact Division of Compliance (HFV-230), U.S. Food and Drug Administration, Center for Veterinary Medicine, 7519 Standish Place, MPN-4, Rockville, MD 20855, (240) 276-9200.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Communications Staff, HFV-12, Center for Veterinary Medicine, U.S. Food and Drug Administration, 7519 Standish wed on the Internet at .",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Food and Drug Administration (FDA) has prepared this guide in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance document represents the agency's current thinking on compliance with the regulation 21 CFR 589.2000 \"Animal Proteins Prohibited from Ruminant Feed.\" It does not create or confer any rights for or on any person and does not operate to bind FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An alternative approach may be used if such approach satisfies the requirements of the applicable statute, regulations or both.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "WHAT IS THE PURPOSE AND SCOPE OF THIS REGULATION?",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This regulation is designed to prevent the establishment and amplification of Bovine Spongiform Encephalopathy (BSE), sometimes referred to as “Mad Cow Disease,” through animal feed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulation prohibits the use of certain proteins derived from mammalian tissue in feeding ruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An example is meat and bone meal derived from cattle.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, certain products are exempt from this regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The following protein products derived from mammals are exempt.:",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Blood and blood products •Milk products (milk and milk proteins) •Pure porcine (pork) or pure equine (horse) protein products •Inspected meat products, such as plate waste, which have been cooked and offered for human food and further heat processed for animal feed •Gelatin",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The following nonmammalian protein products are exempt:",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Poultry •Marine (fish) •Vegetable",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The following products are also exempt because they are not protein or tissue:",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Grease •Fat •Amino acids •Tallow •Oil •Dicalcium phosphate",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We refer to the exempted products throughout this guide as “nonprohibited material.” We refer to all mammalian protein that is not exempted as “prohibited material.”",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prohibited material and/or feeds containing prohibited material cannot be fed to ruminant animals. “Ruminant animals” are any animals with a four-chambered stomach including cattle, sheep, goats, buffalo, elk, and deer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "IS MY OPERATION AFFECTED BY THIS NEW REGULATION?",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• This provision applies to livestock feeding operations that feed ruminants and that also mix their own feed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulation applies to \"establishments and individuals that are responsible for feeding ruminants\" to make it clear that all responsible persons, in both large and small feeding operations, are subject to the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Examples include dairies, cattle feed lots, calf and lamb raising operations, cattle, sheep, and goat grazing operations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• If a feed intended for ruminants contains animal protein, the protein can consist only of nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Feed and feed ingredients not containing animal proteins are not subject to the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Renderers who sell meat and bone meal or other animal protein products to you or your supplier may not be able to determine the species of their incoming materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Such material is considered “prohibited material” because it “contains or may contain” prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Persons who mix ruminant feed containing prohibited material, or feed prohibited material to ruminant animals would be subject to regulatory action under the Federal Food, Drug, and Cosmetic Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Regulatory action could include seizure of inventory, injunction against feeding prohibited material to ruminants, or prosecution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The Association of American Feed Control Officials (AAFCO) has identified the following ingredients listed in their Official Publication as prohibited material:",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Meat •Meat By-Products •Animal Liver •Stock •Dried Meat Solubles •Fleshings Hydrolysate •Meat Meal •Animal Digest •Meat and Bone Meal •Animal By-Product Meal •Meat Meal Tankage •Meat and Bone Meal Tankage •Hydrolyzed Hair •Hydrolyzed Leather Meal •Glandular Meal and Extracted Glandular Meal •Unborn Calf Carcasses •Cooked Bone Marrow •Leather Hydrolysate •Meat Protein Isolate •Mechanically Separated Bone Marrow •Dehydrated Food-Waste •Bone Meal, cooked •Bone Meal, steamed •Dehydrated Garbage",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NOTE: If you also have a commercial feed operation, that is, you sell feed in addition to mixing feed for your own animals (or animals produced on contract), you are subject to additional requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Consult the “Small Entities Compliance Guide for Protein Blenders, Feed Manufacturers, and Distributors,” FDA Guidance For Industry 68.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "HOW DO I COMPLY WITH THE NEW REGULATION?",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do not mix feed for ruminant animals using feed ingredients labeled with the caution statement “Do Not Feed To Cattle or Other Ruminants.”",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you mix feed for both ruminant and nonruminant animals, and you use prohibited material for the nonruminant animal feed:",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Provide for measures to avoid commingling and cross contamination of prohibited and nonprohibited materials by following separation or clean-out procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Maintain written procedures that you develop and implement to prevent commingling and cross contamination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Maintain records sufficient to track the prohibited materials throughout their receipt, processing, and distribution, and make the records available for inspection and copying.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The records should contain dates of receipt or purchase of prohibited material or feed ingredients containing prohibited material; name and address of the seller; identification of the product; and quantity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You should also maintain records of the delivery of the finished feed to your feeding operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Production records will suffice if they contain the required information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If any of the feed that you mix for nonruminant animals contains prohibited material and does not remain within your immediate control (e.g., for example, it is shipped to a contract grower):",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Label the outgoing product with the cautionary statement “Do not feed to cattle or other ruminants.” • Maintain records of the delivery of finished feed which should include the date of delivery, the name and address of both you and your recipient, identification of the product, and quantity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you also purchase complete feed (feed that you do not mix before feeding):",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Maintain copies of all purchase invoices and labeling (e.g., one bag or feed tag) for ALL feed received that contains animal protein products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Keep invoices and labeling available for inspection and copying.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Maintain the records for a minimum of one year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "HOW CAN I AVOID COMMINGLING OR CROSS-CONTAMINATION?",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Separation",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• You could have separate equipment or facilities for the mixing or storage of prohibited and nonprohibited product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This could be entirely separate buildings, rooms, or other locations; or separate storage containers for incoming material and finished product, and separate mixers and handling equipment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Separate equipment for prohibited material should be clearly identified to help ensure that prohibited material is not mistakenly added to product intended to contain nonprohibited material only.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Clean-out",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Clean-out could be physical cleaning, flushing, sequencing or other means, either alone or in combination with separation measures, that are adequate to prevent carryover of prohibited material into nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Clean-out procedures should be used on all equipment and conveyances that handle both prohibited and nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Documentation for clean-out should include a description of how clean-out is implemented; who is responsible; how clean-out is monitored and verified; how the volume of clean-out flush material was determined; and a description of how clean-out flush material is handled.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Combination of Separation and Clean-out",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An example would be use of some separate and some common equipment (cleanout would be required for the common equipment).",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You need written procedures, whether you use separation, clean-out, or a combination:",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Written procedures should include the procedures followed from the time of receipt of incoming material until the time of distribution of finished product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They should reflect what actually happens in your operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Written procedures should have enough detail to provide a clear understanding of your actual procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An investigator should be able to easily identify operations that are described in the written procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NOTE: These requirements also apply to transportation equipment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "WHAT ARE SOME CLEAN-OUT MEASURES THAT I COULD USE?",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Include one or more of the following, or other equally effective procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These procedures are adapted from the FDA’S Current Good Manufacturing Practice for Medicated Feed regulations, Title 21, Code of Federal Regulations, Part 225.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Use cleaning by physical means, e.g. vacuuming, sweeping, washing, etc.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Alternatively, you may use flushing, sequencing or other equally effective techniques.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Under these methods, the equipment is cleaned through use of a non-prohibited product, e.g., a feed that does not contain prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The volume of flushed material should be sufficient to prevent carryover of products that contain or may contain prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Due to the degree of variability among feed mixing systems, feed mixers should determine their equipment’s individual characteristics and apply appropriate time and volume requirements for flushing material to accomplish the intent of the procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The volume used should be stated in the written procedures, and should be based on a documented analysis or test of the firm’s system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Nonprohibited material used in the cleaning should be considered prohibited and should be identified, stored, and handled so that it does not become incorporated in feed for ruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Sequencing should be done on a predetermined basis and be designed to prevent unsafe contamination of ruminant feeds.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An appropriate example would be producing a swine feed containing prohibited material, followed by a swine or poultry feed containing nonprohibited material, followed by a ruminant feed containing nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "WHAT OTHER INFORMATION DO I NEED TO KNOW TO HELP ME COMPLY WITH THIS REGULATION?",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Renderers, protein blenders, and feed manufacturers are required to label products containing prohibited materials with the cautionary statement “Do not feed to cattle or other ruminants.” oIf you intend to mix feed for and feed only ruminant animals, products with this caution statement should not be available for use in your operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a feed ingredient or feed does not bear the caution statement but you suspect that they contain prohibited material, do not use them until you are sure that they do not contain such materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oIf you intend to mix or use a feed containing prohibited material for nonruminant animals, take steps to ensure that the feed will not be fed to ruminants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oIf you mix feed only for ruminant animals and do not use prohibited material, this regulation does not require you to keep any records or labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, if you mix medicated feed for your own animals, you are required by the Current Good Manufacturing Practice for Medicated Feeds regulations to keep records identifying the formulation and date of mixing for all medicated feed you mix, whether or not the feed contains prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RECORD KEEPING",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• You are not required to create a new set of records.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The information should be available in normal and customary business records maintained by you.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The information could be maintained in several different documents including invoices, receiving tickets, receiving logs, disbursement records, weight tickets, purchase orders, or other business records or documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Feed production records may be used if they contain the necessary information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(Continued)",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The records must be maintained so that they are available for inspection and copying.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They should be maintained in a condition that keeps them legible and readily retrievable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Records must be maintained for one year, which means one year from the date of shipment of the product that you mix, or one year from the date of receipt for complete feeds containing animal protein products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "LABELING - For Feeds That You Mix:",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The cautionary statement is required only if the products contain or may contain prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The cautionary statement must be placed prominently on the label or labeling. • Since bulk shipments of feed are commonplace, and labeling information typically is contained in the invoices for bulk shipments, the cautionary statement may be placed on the invoice and maintenance of the invoice is sufficient documentation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "LABELING - For Feeds That You Purchase:",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• If the only labeling for a bulk product is on a placard, the placard for each shipment should be retained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Feed may also be received in bags or other containers that have attached labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In those instances, the labeling should be removed and retained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, maintenance of only one such labeling piece from each shipment that represents a different product is necessary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• If the labeling cannot be removed from the bag or other container, it is acceptable to retain a representative bag or a transposed copy of the labeling information from a container that cannot feasibly be stored.",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room 1061, Rockville, MD 20852.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comments may also be submitted electronically on the Internet at http://www.regulations.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Communications Staff, HFV-12, Center for Veterinary Medicine, U.S. Food and Drug Administration, 7519 Standish Place, Rockville, MD 20855, and may be viewed on the Internet at http://www.fda.gov/AnimalVeterinary/default.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Examples include dairies, cattle feed lots, calf and lamb raising operations, cattle, sheep, and goat grazing operations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a feed intended for ruminants contains animal protein, the protein can consist only of nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Feed and feed ingredients not containing animal proteins are not subject to the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Renderers who sell meat and bone meal or other animal protein products to you or your supplier may not be able to determine the species of their incoming materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Persons who mix ruminant feed containing prohibited material, or feed prohibited material to ruminant animals would be subject to regulatory action under the Federal Food, Drug, and Cosmetic Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Association of American Feed Control Officials (AAFCO) has identified the following ingredients listed in their Official Publication as prohibited material:",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Provide for measures to avoid commingling and cross contamination of prohibited and nonprohibited materials by following separation or clean-out procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Maintain written procedures that you develop and implement to prevent commingling and cross contamination.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Maintain records sufficient to track the prohibited materials throughout their receipt, processing, and distribution, and make the records available for inspection and copying.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Maintain copies of all purchase invoices and labeling (e.g., one bag or feed tag) for ALL feed received that contains animal protein products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Keep invoices and labeling available for inspection and copying.",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Clean-out could be physical cleaning, flushing, sequencing or other means, either alone or in combination with separation measures, that are adequate to prevent carryover of prohibited material into nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Documentation for clean-out should include a description of how clean-out is implemented; who is responsible; how clean-out is monitored and verified; how the volume of clean-out flush material was determined; and a description of how clean-out flush material is handled.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Written procedures should include the procedures followed from the time of receipt of incoming material until the time of distribution of finished product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Written procedures should have enough detail to provide a clear understanding of your actual procedures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Use cleaning by physical means, e.g. vacuuming, sweeping, washing, etc. Alternatively, you may use flushing, sequencing or other equally effective techniques.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The volume of flushed material should be sufficient to prevent carryover of products that contain or may contain prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nonprohibited material used in the cleaning should be considered prohibited and should be identified, stored, and handled so that it does not become incorporated in feed for ruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sequencing should be done on a predetermined basis and be designed to prevent unsafe contamination of ruminant feeds.",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "o If you intend to mix feed for and feed only ruminant animals, products with this caution statement should not be available for use in your operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a feed ingredient or feed does not bear the caution statement but you suspect that they contain prohibited material, do not use them until you are sure that they do not contain such materials. o If you intend to mix or use a feed containing prohibited material for nonruminant animals, take steps to ensure that the feed will not be fed to ruminants. o If you mix feed only for ruminant animals and do not use prohibited material, this regulation does not require you to keep any records or labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You are not required to create a new set of records.",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The information could be maintained in several different documents including invoices, receiving tickets, receiving logs, disbursement records, weight tickets, purchase orders, or other business records or documents.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The cautionary statement is required only if the products contain or may contain prohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The cautionary statement must be placed prominently on the label or labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since bulk shipments of feed are commonplace, and labeling information typically is contained in the invoices for bulk shipments, the cautionary statement may be placed on the invoice and maintenance of the invoice is sufficient documentation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the only labeling for a bulk product is on a placard, the placard for each shipment should be retained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Feed may also be received in bags or other containers that have attached labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the labeling cannot be removed from the bag or other container, it is acceptable to retain a representative bag or a transposed copy of the labeling information from a container that cannot feasibly be stored.",
+      "align_score": null
+    }
+  ]
+}

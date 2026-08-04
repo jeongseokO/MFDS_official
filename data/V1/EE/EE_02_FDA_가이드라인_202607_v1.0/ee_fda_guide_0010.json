@@ -1,0 +1,910 @@
+{
+  "document_id": "ee_fda_guide_0010",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "CVM GFI #70 Small Entities Compliance Guide for Feeders of Ruminant Animals Without On-Farm Feed Mixing Operations July 2009__4a05043ad2",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "#70",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "GUIDANCE FOR INDUSTRY",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SMALL ENTITIES COMPLIANCE GUIDE FOR FEEDERS OF RUMINANT ANIMALS WITHOUT ON-FARM FEED MIXING OPERATIONS (This version of the guidance replaces the version that was made available in February 1998.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance document has been revised to update contact information and provide new requirements regarding the use of tallow in ruminant feed.)",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit comments on this guidance at any time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room 2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comments may also be submitted electronically on the Internet at .",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For questions regarding this guidance document, contact Shannon Jordre, Division of Compliance (HFV-230), U.S. Food and Drug Administration, Center for Veterinary Medicine, 7519 Standish Place, MPN-4, Rockville, MD 20855, (240) 276-9229.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Communications Staff, HFV-12, Center for Veterinary Medicine, U.S. Food and Drug Administration, 7519 Standish wed on the Internet at http://www.fda.gov/AnimalVeterinary/default.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CONTAINS NON-BINDING RECOMMENDATIONS",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "SMALL ENTITIES COMPLIANCE GUIDE FOR FEEDERS OF RUMINANT ANIMALS WITHOUT ON-FARM FEED MIXING OPERATIONS1",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance document represents the Food and Drug Administration’s (FDA’s) current thinking on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not create or confer any rights for or on any person and does not operate to bind FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alterative approach if the approach satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you want to discuss an alternative approach, contact the FDA staff responsible for implementing this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you cannot identify the appropriate FDA staff, call the appropriate number listed on the title page of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Introduction",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On April 25, 2008, FDA published a final rule in the Federal Register, entitled “Substances Prohibited from Use in Animal Food or Feed” (73 FR 22719).",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See also 73 FR 18626; April 24, 2009.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This final rule established a new regulation at 21 CFR 589.2001 entitled, “Cattle Materials Prohibited in Animal Food or Feed to Prevent the Transmission of Bovine Spongiform Encephalopathy”.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "21 CFR 589.2001 prohibits the use of certain cattle materials in the feed of all animals and is aimed primarily at rendering operations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This new rule also amended the previously existing BSE regulation, 21 CFR 589.2000 entitled, “Animal Proteins Prohibited in Ruminant Feed“, which addresses only the feeding of ruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Food and Drug Administration (FDA) has prepared this Small Entities Compliance Guide in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(Public Law 104-121).",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance document represents the agency's current thinking on compliance with the regulation 21 CFR 589.2000 \"Animal Proteins Prohibited in Ruminant Feed\", as amended during the recent rule-making process, and how the regulation impacts livestock producers feeding ruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word “should” in Agency guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What Is The Purpose And Scope Of This Regulation, 21 CFR 589.2000?",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This regulation is designed to prevent the establishment and amplification of Bovine Spongiform Encephalopathy (BSE), sometimes referred to as “Mad Cow Disease,” through animal feed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1 This guidance has been prepared by the Office of Surveillance and Compliance in the Center for Veterinary Medicine.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "regulation prohibits the use of certain proteins derived from mammalian tissue in feeding ruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An example is meat and bone meal derived from cattle.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, certain products are exempt from this regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The following protein products derived from mammals are exempt: oBlood and blood products oGelatin oMilk products (milk and milk proteins) oPure porcine (pork) or pure equine (horse) protein products oInspected meat products, such as plate waste, which have been cooked and offered for human food and further heat processed for animal feed",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The following nonmammalian protein products are exempt: oPoultry oMarine (fish) oVegetable",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The following products are also exempt because they are not protein or tissue: oGrease oTallow that contains no more than 0.15% insoluble impurities2 oFat3 oAmino acids oVegetable oil oDicalcium phosphate",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We refer to the exempted products throughout this guide as “nonprohibited material.” We refer to all mammalian protein that is not exempted as “prohibited material.”",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prohibited material and/or feeds containing prohibited material cannot be fed to ruminant animals. “Ruminant animals” are any animals with a four-chambered stomach including cattle, sheep, goats, buffalo, elk, and deer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Is My Operation Affected By 21 CFR 589.2000?",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• This regulation applies to livestock feeding operations that feed ruminants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The regulation applies to \"establishments and individuals that are responsible for feeding ruminants\" to make it clear that all responsible persons, in both large and small feeding operations, are subject to the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Examples include dairies, cattle feed lots, calf and lamb raising operations, cattle, sheep, and goat grazing operations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2Tallow is defined by 21 CFR 589.2001(b)(5) as the rendered fat of cattle.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tallow that contains more that 0.15% insoluble impurities is considered to be an animal protein prohibited in ruminant feed in 21 CFR 589.2000(a)(1).",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Such tallow should be labeled with the cautionary statement “Do Not Feed to Cattle or Other Ruminants.”",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 Excludes tallow that contains more than 0.15% insoluble impurities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• If a feed product intended for ruminants contains animal protein, the protein can consist only of nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The Association of American Feed Control Officials (AAFCO) has identified the following ingredients listed in its Official Publication as prohibited material:",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oMeat oMeat By-Products oAnimal Liver oDried Meat Solubles oFleshings Hydrolysate oMeat Meal oMeat and Bone Meal oAnimal By-Product Meal oMeat Meal Tankage oMeat and Bone Meal Tankage oHydrolyzed Leather Meal oHydrolyzed Hair oGlandular Meal and Extracted Glandular Meal oStock/Broth oAnimal Digest oCooked Bone Marrow oLeather Hydrolysate oMeat Protein Isolate oMechanically Separated Bone Marrow oUnborn Calf Carcasses oBone Meal, cooked oBone Meal, steamed oDehydrated Garbage oDehydrated Food-Waste oSalvage Pet Food oDistressed Pet Food",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Feed and feed ingredients not containing animal proteins are not subject to the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Persons who feed prohibited material to ruminants would be subject to regulatory action under the Federal Food, Drug, and Cosmetic Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Regulatory action could include seizure of inventory, injunction against feeding prohibited material to ruminants, or prosecution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Note: If you mix your own feed for your ruminant animals, you are subject to additional requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Consult the “Small Entities Compliance Guide for Feeders of Ruminant Animals with On-Farm Feed Mixing Operations,” FDA Guidance for Industry 69.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How Do I Comply With 21 CFR 589.2000?",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Do not feed products labeled with the caution statement “Do not feed to cattle or other ruminants” to your ruminant animals4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Maintain copies of all purchase invoices for ALL feeds received that contain animal protein.",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Maintain copies of labeling for ALL feeds received containing animal protein products.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Keep invoices and labeling available for inspection and copying.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Maintain the records for a minimum of one year.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What Other Information Do I Need To Know To Help Me Comply With 21 CFR 589.2000?",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Renderers, protein blenders, and feed manufacturers are required to label products containing prohibited materials with the cautionary statement Do not feed to cattle or other ruminants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oIf you intend to feed only ruminant animals, products with this caution statement should not be available for use in your operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the feed does not bear the caution statement but you suspect that it contains prohibited material, do not use it until you are sure that it does not contain such materials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oIf you intend to use a feed containing prohibited material for nonruminant animals, take steps to ensure that the feed will not be fed to ruminants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Labeling And Record Keeping oFor bulk shipments it is common practice to provide labeling information on the invoice.",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In such cases, retaining the invoice is sufficient documentation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oIf the only labeling for a bulk product is on a placard, the placard for each shipment should be retained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oFeed may also be received in bags or other containers that have attached labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In those instances, the labeling should be removed and retained.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, maintenance of only one such labeling piece from each shipment that represents a different product is necessary.",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oIf the labeling cannot be removed from the bag or other container, it is acceptable to retain a representative bag or a transposed copy of the labeling information from a container that cannot feasibly be stored.",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oThe records should be legible and readily retrievable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4 If the product label bears the “Do Not Feed to Animals” statement, take steps to ensure that it is not fed to animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This product should not have been introduced into the animal feed chain because it is prohibited from use in any animal feed by another rule titled “SUBSTANCES PROHIBITED FROM USE IN ANIMAL FOOD OR FEED” and codified in 21 CFR 589.2001.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This rule published on April 25, 2008, with an effective date of April 27, 2009.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "oThe one year requirement for maintenance of records means one year from the date of the receipt of the product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Inspections oOn-farm inspections will be limited but will be needed on a selective basis to trace prohibited material to verify that it is not being shipped to ruminant producers and fed to ruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For example, on-farm inspection might be necessary as a follow up to a feed mill inspection, to verify that feed not labeled with the cautionary statement is in fact being fed to nonruminant animals.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Submit written comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Room 1061, Rockville, MD 20852.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comments may also be submitted electronically on the Internet at http://www.regulations.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies of this guidance document may be requested from the Communications Staff, HFV-12, Center for Veterinary Medicine, U.S. Food and Drug Administration, 7519 Standish Place, Rockville, MD 20855, and may be viewed on the Internet at http://www.fda.gov/AnimalVeterinary/default.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "o Blood and blood products o Gelatin o Milk products (milk and milk proteins) o Pure porcine (pork) or pure equine (horse) protein products o Inspected meat products, such as plate waste, which have been cooked and offered for human food and further heat processed for animal feed The following nonmammalian protein products are exempt:",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "o Poultry o Marine (fish) o Vegetable The following products are also exempt because they are not protein or tissue:",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This regulation applies to livestock feeding operations that feed ruminants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Examples include dairies, cattle feed lots, calf and lamb raising operations, cattle, sheep, and goat grazing operations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 Tallow is defined by 21 CFR 589.2001(b)(5) as the rendered fat of cattle.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a feed product intended for ruminants contains animal protein, the protein can consist only of nonprohibited material.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Association of American Feed Control Officials (AAFCO) has identified the following ingredients listed in its Official Publication as prohibited material:",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Feed and feed ingredients not containing animal proteins are not subject to the regulation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Persons who feed prohibited material to ruminants would be subject to regulatory action under the Federal Food, Drug, and Cosmetic Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "o If you intend to feed only ruminant animals, products with this caution statement should not be available for use in your operation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the feed does not bear the caution statement but you suspect that it contains prohibited material, do not use it until you are sure that it does not contain such materials. o If you intend to use a feed containing prohibited material for nonruminant animals, take steps to ensure that the feed will not be fed to ruminants.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "o For bulk shipments it is common practice to provide labeling information on the invoice.",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In such cases, retaining the invoice is sufficient documentation. o If the only labeling for a bulk product is on a placard, the placard for each shipment should be retained. o Feed may also be received in bags or other containers that have attached labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, maintenance of only one such labeling piece from each shipment that represents a different product is necessary. o If the labeling cannot be removed from the bag or other container, it is acceptable to retain a representative bag or a transposed copy of the labeling information from a container that cannot feasibly be stored. o The records should be legible and readily retrievable.",
+      "align_score": null
+    }
+  ]
+}

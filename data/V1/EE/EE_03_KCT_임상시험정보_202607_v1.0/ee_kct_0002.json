@@ -1,0 +1,3538 @@
+{
+  "document_id": "ee_kct_0002",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_2017 Thyroid Radiofrequency Ablation Guideline_ Korean Society of Thyroid Radiology",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "2017 Thyroid Radiofrequency Ablation Guideline: Korean Society of Thyroid Radiology",
+    "title_en": "2017 Thyroid Radiofrequency Ablation Guideline: Korean Society of Thyroid Radiology",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "갑상선 결절 고주파 절제술 / Radiofrequency Ablation in Thyroid Nodules / 국내 / 2018",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Go to: Abstract INTRODUCTION Methodology Notes References Abstract Thermal ablation using radiofrequency is a new, minimally invasive modality employed as an alternative to surgery in patients with benign thyroid nodules and recurrent thyroid cancers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Task Force Committee of the Korean Society of Thyroid Radiology (KSThR) developed recommendations for the optimal use of radiofrequency ablation for thyroid tumors in 2012.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As new meaningful evidences have accumulated, KSThR decided to revise the guidelines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The revised guideline is based on a comprehensive analysis of the current literature and expert consensus.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules? [Recommendation 1-1] Radiofrequency ablation is indicated for patients with benign thyroid nodules complaining of symptomatic or cosmetic problems.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, moderate-quality evidence) The majority of thyroid nodules are benign and asymptomatic; however, large thyroid nodules may cause cosmetic problems or pressure symptoms in the neck, including pain, dysphasia, foreign body sensation, discomfort, neck bulging, and cough.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In these cases, RFA is indicated to improve clinical problems by reducing nodule size ( 12 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Measurement of symptomatic or cosmetic problems can be performed using a scoring system.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A symptom score can be self-measured by patients using a 10-cm visual analog scale (grade 0–10) ( 9 , 10 , 18 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A cosmetic score can be measured by a physician (1, no palpable mass; 2, no cosmetic problem but palpable mass; 3, a cosmetic problem on swallowing only; and 4, a readily detected cosmetic problem) ( 4 , 9 , 10 , 18 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In terms of nodule size or volume, there have been no definite criteria for thyroid RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The need for treatment of thyroid nodules depends on each patient's symptoms or cosmetic problems, which vary according to personal neck circumference or location of the thyroid nodule ( 1 , 19 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients with smaller neck circumference tend to complain of cosmetic problems significantly earlier than do those with thicker necks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, isthmic nodules may contribute to cosmetic problems, even with sizes smaller than 2 cm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The size of a thyroid nodule or lobe appears to directly correlate with compressive symptoms ( 20 , 21 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The majority of patients with compressive symptoms experienced an improvement in symptoms after surgical removal of thyroid nodules and/or thyroid gland ( 20 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the nodules exceeding a maximum diameter of 2 cm that continues to grow during follow-up period may be considered for thyroid RFA based on symptoms, cosmetic problems, and clinical concerns.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, RFA is not available for thyroid nodules with heavy calcifications, because the moving-shot technique is difficult in this circumstance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, RFA for these nodules should be carefully considered. [Recommendation 1-2] Thyroid nodules should be confirmed as benign on at least two US-guided fine-needle aspirations (FNA) or core-needle biopsy (CNB) before RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, moderate-quality evidence) [Recommendation 1-3] Single benign diagnosis on FNA or CNB is sufficient when the nodule has US features highly specific for benignity (isoechoic spongiform nodule or partially cystic nodules with intracystic comet tail artifact).",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, high-quality evidence) [Recommendation 1-4] Single benign diagnosis on FNA or CNB is sufficient for confirmation of a benign nodule in autonomously functioning thyroid nodule (AFTN).",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(weak recommendation, low-quality evidence) Current guidelines ( 22 , 23 , 24 ) recommend confirmation of benign cytopathology by FNA or CNB before ablation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The false negative rate of benign cytology by FNA or histology diagnosis by CNB is low (< 3%) ( 25 , 26 ); therefore, repeated biopsy is selectively recommended only for thyroid nodule with suspicious US features ( 16 , 23 , 24 , 27 ) in nodules diagnosed as benign nodule at the initial FNA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, several studies ( 28 , 29 , 30 , 31 , 32 , 33 , 34 ) suggest that the false negative rate of benign FNA cytology result may be higher in large nodules (> 3–4 cm).",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, although it is controversial, concerns remain regarding the potential for high false-negative results from a single benign cytology result in large nodules ( 35 , 36 , 37 , 38 , 39 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Meanwhile, the malignancy risk of a nodule after two benign cytology results is very low and may be confidently considered as a benign nodule ( 40 , 41 , 42 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The malignancy risk of thyroid nodules can be predicted and stratified by US features.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Isoechoic spongiform nodules or partially cystic nodules with intracystic comet tail artifact have a very low malignancy risk (less than 1%) and are almost always benign in final results when there is no combined suspicious US features for malignancy ( 43 , 44 , 45 , 46 , 47 , 48 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hypoechogenicity may increase the malignancy risk in nodules with an US feature of spongiform appearance ( 45 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although there are some reports of AFTN proven to be a malignancy ( 49 ), AFTN are mostly benign lesions ( 16 , 24 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, a single benign FNA or CNB diagnosis is recommended to confirm a benign nodule in these nodules before RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although the evidence is insufficient, CNB may be more sensitive for diagnosis of follicular neoplasm than FNA is.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The false-negative rate of follicular neoplasm may be minimized by CNB ( 26 , 50 , 51 ). [Recommendation 1-5] Radiofrequency ablation can be indicated for either toxic or pre-toxic AFTN.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(weak recommendation, moderate-quality evidence) Autonomously functioning thyroid nodule may be treated in cases with compression of adjacent structures, cosmetic complaints, hyperthyroid symptoms, and in pretoxic nodules.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The current guideline of the American Thyroid Association suggest that two effective and relatively safe definitive treatment options for toxic AFTN are radioactive iodine (RAI) therapy and surgery ( 52 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, hypothyroidism after surgery and RAI therapy might complicate pre-existing chronic disorders in elderly and it is controversial in young women ( 7 , 53 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, some patients refuse RAI therapy or surgery because of their reluctance to endure radiation exposure or potential complications such as hypothyroidism ( 53 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As an alternative therapeutic modality, RFA for treating AFTN has been reported in recent studies ( 4 , 7 , 53 , 54 , 55 , 56 , 57 , 58 , 59 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An Italian group suggested that hyperthyroidism caused by AFTN can be completely or at least partially cured by RFA when surgery and RAI are contraindicated or declined ( 60 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, pretoxic nodules, which are characterized by normal thyroid hormone and suppressed thyrotropin (TSH) levels, are also often recommended for treatment, because they could evolve toward overtly toxic nodules (annual risk, approximately 4%); and, over time, subclinical hyperthyroidism may have adverse effects, particularly on the skeletal and cardiovascular systems ( 7 , 53 , 54 , 61 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA for large AFTN (> 20-mL volume) is less responsive, and further studies for these cases should be planned ( 7 , 54 , 60 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA is more expensive than RAI therapy, requires RF equipment, and has a distinct learning curve ( 53 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a comparison of surgery and RFA, the cost of RFA was similar to that of surgery ( 58 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 2) What Are the Indications for RFA for Recurrent Thyroid Cancers? [Recommendation 2] Radiofrequency ablation can be performed for curative or palliative purposes in the recurrent thyroid cancers at the thyroidectomy bed and cervical lymph nodes for patients at high surgical risk or who refuse surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, moderate-quality evidence) When recurrent thyroid cancers are detected, surgery followed by RAI and thyroid hormone therapy is a standard treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, repeated neck operations are usually challenging because of distortion of normal tissue planes and fibrosis caused by scar tissue at the surgical site, thus causing high risk of complications ( 62 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, along with the increasing elderly population, the number of elderly patients who need surgery for recurrent thyroid cancer but are at high risk of surgery itself is also increasing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, some patients reject reoperation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For these various reasons, treatment of recurrent thyroid cancer for patients, for whom undergoing surgery is difficult, is an important issue.",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In 2001, Dupuy et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( 63 ) firstly reported RFA for recurrent papillary and follicular carcinomas in eight patients, after which several studies treating recurrent thyroid cancers by RFA have been reported, including two meta-analyses ( 64 , 65 , 66 , 67 , 68 , 69 , 70 , 71 , 72 , 73 , 74 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In these reports, an indication for RFA included patients with recurrent thyroid cancer at high risk for surgery or refusal of surgery, but who need surgery clinically.",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The high risk for surgery included previous repeated surgery, poor lung function, poor systemic condition, severe cardiovascular disease, or old age.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA can be performed for complete removal of a recurrent tumor or for palliative purposes.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For complete tumor removal, RFA should be applied only if it is judged radiologically that complete removal by RFA is possible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, there should be no metastasis beyond the neck.",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Favorable results were achieved in recent studies regarding RFA undertaken for curative purposes in which the number of the locally recurrent tumors was less than 3 or 4 per patient and the greatest tumor diameter was smaller than 1.5–2 cm ( 64 , 73 , 74 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recurrent thyroid cancer can cause various symptoms such as dysphagia, hoarseness, dyspnea, or cosmetic problems due to a protruding mass.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA can be applied when it is judged that size reduction by RFA can reduce symptoms and improve quality of life of the patient even if radiological complete removal is not possible ( 68 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In contrast that repeated surgeries for recurrent cancer might be limited and cause complications due to postoperative fibrosis and normal tissue plane distortion, RFA usually could treat the recurrent tumor successfully without significant complications ( 74 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 3) What Are the Indications for RFA for Primary Thyroid Cancers?",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Surgery is a standard treatment for primary thyroid cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, indications for RFA for primary thyroid cancers have not yet been clearly established.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, in patients with primary thyroid cancer who refuse surgery or who cannot undergo an operation, thermal ablations can be considered as an alternative.",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recently, RFA, laser ablation (LA), and microwave ablation have been attempted for patients with papillary thyroid microcarcinoma (PTMC).",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These studies reported effective local tumor ablation over the short term and after a 4-year follow-up period ( 75 , 76 , 78 , 79 , 80 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, palliative treatment is another option for advanced thyroid cancers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are several reports concerning the palliative treatment of anaplastic or advanced medullary thyroid cancer using RFA or LA ( 81 , 82 , 83 , 84 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Some authors reported that LA can improve compressive symptoms by advanced anaplastic cancer, but others reported no clinical effect of thermal ablation on advanced anaplastic or medullary cancers ( 81 , 82 , 83 , 84 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 4) What Are the Indications for RFA for Follicular Neoplasm?",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thyroid follicular adenoma is one of the common thyroid nodules, and follicular carcinoma accounts for 10–20% of all malignant thyroid lesions ( 50 , 85 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Differential diagnosis of carcinoma from adenoma is based on the presence of capsular, vascular, or extrathyroidal tissue invasion, as well as nodal or distant metastasis ( 86 , 87 ); therefore, surgery is the standard treatment tool for follicular neoplasm on FNA or CNB ( 16 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this regard, KSThR did not previously recommend RFA for follicular neoplasms owing to lack of evidence of treatment benefits by RFA ( 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Many controversial issues concerning the diagnostic confirmation remain, as definite pathological confirmation is difficult before surgical treatment of follicular neoplasm to exclude malignancy ( 50 , 88 , 89 , 90 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Size (> 2 cm) of the follicular neoplasm is one of the predicting factors for malignancy ( 91 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FNA has a relatively high false-positive rate (22.2–35%) in follicular neoplasms that are often shown to be thyroiditis or nodular goiter upon surgical pathology ( 88 , 89 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the demand for conservative medical treatment has increased for patients who are at high surgical risk or who are ineligible for surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although many published papers have reported that RFA is a safe and effective method for treating benign thyroid nodules and even recurrent thyroid cancers ( 1 , 8 , 92 , 93 , 94 ), there have been few published papers regarding RFA for follicular neoplasm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A recent 5-year follow-up study showed that RFA can be an effective and safe method to treat patients with follicular neoplasms < 2 cm in size ( 95 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "No recurrences or metastatic lesions were found during the follow-up period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, another study argued that RFA should not be recommended as a first-line therapy for follicular neoplasm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this study, two out of six lesions, graded as Bethesda-3 or Bethesda-4 and larger than 2 cm in size, regrew after RFA and were finally shown to be minimally invasive follicular cancer and follicular neoplasm of indeterminate malignant behavior, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "Indications",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this regard, the authors claimed that RFA might have the potential to grow residual cancer or neoplasm of Bethesda-3- or Bethesda-4-grade lesions and delay surgery in case of malignancy ( 96 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 1-1] Radiofrequency ablation is indicated for patients with benign thyroid nodules complaining of symptomatic or cosmetic problems.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, RFA for these nodules should be carefully considered.",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 1-2] Thyroid nodules should be confirmed as benign on at least two US-guided fine-needle aspirations (FNA) or core-needle biopsy (CNB) before RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, moderate-quality evidence)",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 1-3] Single benign diagnosis on FNA or CNB is sufficient when the nodule has US features highly specific for benignity (isoechoic spongiform nodule or partially cystic nodules with intracystic comet tail artifact).",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, high-quality evidence)",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 1-4] Single benign diagnosis on FNA or CNB is sufficient for confirmation of a benign nodule in autonomously functioning thyroid nodule (AFTN).",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "Key Question 1) What Are the Indications for RFA for Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 1-5] Radiofrequency ablation can be indicated for either toxic or pre-toxic AFTN.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "[Recommendation 1-1]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiofrequency ablation is indicated for patients with benign thyroid nodules complaining of symptomatic or cosmetic problems.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "[Recommendation 1-1]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The majority of thyroid nodules are benign and asymptomatic; however, large thyroid nodules may cause cosmetic problems or pressure symptoms in the neck, including pain, dysphasia, foreign body sensation, discomfort, neck bulging, and cough.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "[Recommendation 1-2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thyroid nodules should be confirmed as benign on at least two US-guided fine-needle aspirations (FNA) or core-needle biopsy (CNB) before RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "[Recommendation 1-3]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Single benign diagnosis on FNA or CNB is sufficient when the nodule has US features highly specific for benignity (isoechoic spongiform nodule or partially cystic nodules with intracystic comet tail artifact).",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "[Recommendation 1-4]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Single benign diagnosis on FNA or CNB is sufficient for confirmation of a benign nodule in autonomously functioning thyroid nodule (AFTN).",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "[Recommendation 1-4]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(weak recommendation, low-quality evidence)",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "[Recommendation 1-4]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Current guidelines ( 22 , 23 , 24 ) recommend confirmation of benign cytopathology by FNA or CNB before ablation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "[Recommendation 1-5]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiofrequency ablation can be indicated for either toxic or pre-toxic AFTN.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "[Recommendation 1-5]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(weak recommendation, moderate-quality evidence)",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "[Recommendation 1-5]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Autonomously functioning thyroid nodule may be treated in cases with compression of adjacent structures, cosmetic complaints, hyperthyroid symptoms, and in pretoxic nodules.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "Key Question 2) What Are the Indications for RFA for Recurrent Thyroid Cancers?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 2] Radiofrequency ablation can be performed for curative or palliative purposes in the recurrent thyroid cancers at the thyroidectomy bed and cervical lymph nodes for patients at high surgical risk or who refuse surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "[Recommendation 2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiofrequency ablation can be performed for curative or palliative purposes in the recurrent thyroid cancers at the thyroidectomy bed and cervical lymph nodes for patients at high surgical risk or who refuse surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "[Recommendation 2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When recurrent thyroid cancers are detected, surgery followed by RAI and thyroid hormone therapy is a standard treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 5) What Is the Appropriate Laboratory and Imaging Evaluation for Patients with Symptomatic Benign Thyroid Nodule or Recurrent Thyroid Cancer before RFA? [Recommendation 3] Before RFA of symptomatic benign thyroid nodule or recurrent thyroid cancer, a pre-procedural checklist should be evaluated ( Table 6 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prior to RFA of benign thyroid nodules, thyroid nodules should be confirmed as benign on at least two US-guided FNA or CNB ( 23 , 97 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Caution should be taken in performing RFA for thyroid nodules with suspicious US features, even though there are benign results on FNA or CNB ( 5 , 97 , 98 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Symptom and cosmetic scores should be determined before RFA for comparison with follow-up data after RFA ( 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ultrasound examination is important to characterize nodules or recurrent cancers and to evaluate the surrounding critical anatomical structures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The size, echogenicity, proportion of solid component, and internal vascularity of each nodule or tumor should be carefully evaluated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three orthogonal diameters, including the largest diameter, should be measured by US, and nodule or tumor volume could be calculated using the equation V = πabc/6, where V is the volume, a is the maximum diameter, and b and c are the other two perpendicular diameters ( 5 , 9 , 11 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Laboratory tests usually include a complete blood count, a blood coagulation battery (bleeding time, prothrombin time, activated partial thromboplastin time), as well as thyroid function test (measurement of TSH, triiodothyronine [T3], and free thyroxine [fT4]) ( 9 , 99 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In recurrent thyroid cancer after total thyroidectomy, laboratory tests include serum TSH, thyroglobulin (Tg), and anti-Tg antibody.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Reduction or negative serologic conversion of these tests can be surrogate markers for successful ablation ( 74 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When platelets and blood coagulation test results are abnormal, physicians should document whether a patient has taken medications such as anti-platelet drugs or anticoagulants or has any disease causing coagulopathy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When serum TSH concentration is elevated, hormone replacement therapy prior to RFA could be considered, according to the TSH level.",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When serum concentration of TSH is reduced, physicians should document whether a patient is being treated with thyroid hormones or has hyperthyroidism.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If hyperthyroidism is clinically suggested, a technetium 99m Tc pertechnetate or a 123 I thyroid scan may be helpful to determine AFTN ( 8 , 55 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hypothyroidism arising after chemical or thermal ablation of thyroid nodules has been rarely reported, and the cause of this complication is unclear ( 100 , 101 , 102 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, considering that the most probable cause of hypothyroidism seems to be a progression of autoimmune thyroiditis associated with preexisting thyroid antibodies, in cases where patients have thyroid antibodies, it may be prudent to warn them before treatment about the possibility of hypothyroidism.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nevertheless, a routine check of thyroid antibodies, such as anti-Tg antibody or anti-microsomal antibody, before RFA of benign thyroid nodule, is controversial ( 64 , 103 , 104 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CT or MRI examinations may help to evaluate the intrathoracic extent of benign thyroid nodules ( 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Prior to RFA of recurrent thyroid cancer ( Table 6 ), tumor recurrence should be confirmed by US-guided FNA with washout Tg concentration measurement ( 64 , 103 , 105 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CT of the neck is recommended to find additional recurrent tumors that are not detected on US and may be useful the post-RFA evaluation of a recurrent tumor ( 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "PET-CT or PET-MRI is not routinely recommended before ablation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Informed consent should include the items listed in Table 7 ( 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 6) What Is the Appropriate Recommendation for Patients Taking Anticoagulants or Anti-Platelet Drugs before RFA? [Recommendation 4] Before RFA, patients with a bleeding tendency, such as those taking anticoagulation medications or those with disorders affecting the coagulation cascade, should be thoroughly evaluated, and any problems should be corrected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(weak recommendation, low-quality evidence) Patients taking drugs associated with a bleeding tendency should be informed to discontinue those drugs before RFA: 7–10 days for aspirin or clopidogrel, 3–5 days for warfarin, and 4–6 hours for heparin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients can take heparin 2–6 hours after RFA, warfarin the night following RFA, and aspirin (or clopidogrel) the next day ( 106 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, recommendations for discontinuation of antiplatelet therapy with platelet aggregation inhibitors (clopidogrel, ticlopidine, or prasugrel) are variable according to the clinical judgment based on the patient's condition, the planned procedure, risk factors, desires, and the cardiologist's opinion.",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Physicians should compare the benefits of RFA with potential complications related to the interruption of these drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "Pre-Procedure Evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If required, they should consider changing warfarin to heparin, which has a shorter half-life (1–2 hours) ( 106 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "Key Question 5) What Is the Appropriate Laboratory and Imaging Evaluation for Patients with Symptomatic Benign Thyroid Nodule or Recurrent Thyroid Cancer before RFA?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 3] Before RFA of symptomatic benign thyroid nodule or recurrent thyroid cancer, a pre-procedural checklist should be evaluated ( Table 6 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "[Recommendation 3]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Before RFA of symptomatic benign thyroid nodule or recurrent thyroid cancer, a pre-procedural checklist should be evaluated ( Table 6 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "Key Question 6) What Is the Appropriate Recommendation for Patients Taking Anticoagulants or Anti-Platelet Drugs before RFA?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 4] Before RFA, patients with a bleeding tendency, such as those taking anticoagulation medications or those with disorders affecting the coagulation cascade, should be thoroughly evaluated, and any problems should be corrected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "[Recommendation 4]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Before RFA, patients with a bleeding tendency, such as those taking anticoagulation medications or those with disorders affecting the coagulation cascade, should be thoroughly evaluated, and any problems should be corrected.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "[Recommendation 4]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients taking drugs associated with a bleeding tendency should be informed to discontinue those drugs before RFA: 7–10 days for aspirin or clopidogrel, 3–5 days for warfarin, and 4–6 hours for heparin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 7) What Is the Appropriate Technique for RFA of Benign Thyroid Nodules? [Recommendation 5-1] For pain control of RFA of benign thyroid nodules, local anesthesia, rather than general anesthesia or deep sedation, is recommended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Perithyroidal lidocaine injection is recommended for local anesthesia technique.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, moderate-quality evidence) [Recommendation 5-2] For RFA of benign thyroid nodules, the trans-isthmic approach method and moving-shot technique are recommended as the standard procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, moderate-quality evidence) To reduce pain during RFA, it is important to inject sufficient lidocaine into the skin puncture site and thyroid capsule ( 1 , 107 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Perithyroidal lidocaine injection is recommended to control pain during ablation, rather than using general anesthesia or sedation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Sensory nerves are usually present at the thyroid capsule, but not inside the thyroid gland.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The lidocaine needle should be inserted at the midline of the anterior neck, just above the thyroid isthmus, and advanced into the thyroid capsule ( 108 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "General anesthesia or sedation may delay detection of complication and can cause serious complications during ablation ( 109 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For RFA of benign thyroid nodules, the KSThR suggested the trans-isthmic approach and the moving-shot technique in the 2012 recommendations ( 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An RF electrode is inserted via the isthmus in the midline-to-lateral direction to approach the target nodule in either the right or left thyroid gland (trans-isthmic approach) ( 99 , 110 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The individual conducting the procedure should assume that the target nodule can be virtually divided into multiple small ablation units, and then begin ablation unit-by-unit, from the deepest and remotest portion to the most superficial portion of the nodule by pulling back the electrode tip (moving-shot technique) ( 107 , 111 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The location of the RF electrode tip should be continuously monitored via real-time US during the procedure to prevent possible thermal damage to the adjacent critical structures at the cervical area ( 107 , 111 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recently vascular ablation techniques have been introduced to minimize marginal regrowth ( 108 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The technique of RFA for AFTN, primary cancer, and follicular neoplasm is based on that for benign thyroid nodule; however, a safety margin is also necessary for complete eradication of AFTN, primary cancer, or follicular neoplasm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 8) What Is the Appropriate Technique for RFA of Recurrent Thyroid Cancers? [Recommendation 6] For RFA of recurrent thyroid cancers, perilesional lidocaine injection, the hydrodissection technique, and the moving-shot technique are recommended as standard techniques.",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(weak recommendation, low-quality evidence) The moving-shot technique has been suggested as a proper technique for recurrent thyroid cancers including the soft tissue surrounding the recurrent tumors ( 73 , 108 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In contrast to benign thyroid nodules, recurrent thyroid cancers after surgery usually abut normal neck structures, such as the recurrent laryngeal nerve or trachea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Before ablation, careful evaluation of the tumor and surrounding structures are important ( 112 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, the hydrodissection technique is useful for separating the tumor from critical structures in addition to perilesional lidocaine injection ( 73 , 108 , 113 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A solution of 5% dextrose is preferred to normal saline as the injection material, because normal saline is anionic and is therefore able to conduct electricity ( 114 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "By injecting the cold 5% dextrose continuously with the injection needle remaining in place, a sufficient safety margin can be achieved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, injected cold fluid prevents thermal propagation to the adjacent structures during the procedure ( 108 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The electrode tip size is chosen based on the tumor size and status of the surrounding critical structures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "An electrode with a small active tip (i.e., 0.38 cm or 0.5 cm) is effective and safe for treating small primary and/or recurrent tumors or those that are close to critical structures ( 108 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "Standard Techniques",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recently, bipolar electrodes have been introduced for patients with heart problems or those who are pregnant ( 108 , 115 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "Key Question 7) What Is the Appropriate Technique for RFA of Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 5-1] For pain control of RFA of benign thyroid nodules, local anesthesia, rather than general anesthesia or deep sedation, is recommended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "Key Question 7) What Is the Appropriate Technique for RFA of Benign Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 5-2] For RFA of benign thyroid nodules, the trans-isthmic approach method and moving-shot technique are recommended as the standard procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "[Recommendation 5-1]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For pain control of RFA of benign thyroid nodules, local anesthesia, rather than general anesthesia or deep sedation, is recommended.",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "[Recommendation 5-2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For RFA of benign thyroid nodules, the trans-isthmic approach method and moving-shot technique are recommended as the standard procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "[Recommendation 5-2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To reduce pain during RFA, it is important to inject sufficient lidocaine into the skin puncture site and thyroid capsule ( 1 , 107 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "Key Question 8) What Is the Appropriate Technique for RFA of Recurrent Thyroid Cancers?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 6] For RFA of recurrent thyroid cancers, perilesional lidocaine injection, the hydrodissection technique, and the moving-shot technique are recommended as standard techniques.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "[Recommendation 6]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For RFA of recurrent thyroid cancers, perilesional lidocaine injection, the hydrodissection technique, and the moving-shot technique are recommended as standard techniques.",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "[Recommendation 6]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The moving-shot technique has been suggested as a proper technique for recurrent thyroid cancers including the soft tissue surrounding the recurrent tumors ( 73 , 108 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 9) What Is the Appropriate Clinical, Laboratory, and Imaging Evaluation for Nonfunctioning Benign Thyroid Nodules after RFA? [Recommendation 7] After RFA for nonfunctioning benign thyroid nodules, clinical, laboratory, and imaging checklist should be evaluated ( Table 8 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA should be terminated when the entire area of the nodule becomes a transient hyperechoic zone on gray-scale US ( 99 , 107 , 110 , 116 , 117 ), after which gray-scale and color-Doppler US is primarily used to detect the under-ablated portion ( 1 , 5 , 54 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After RFA, the nodule-related symptom score (neck pain, dysphasia, foreign body sensation, discomfort, and cough) and cosmetic score should be measured by patients and the physician, respectively, to evaluate effectiveness of the RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional ablation is indicated, if a viable portion with vascularity of the nodule is detected on gray-scale and color-Doppler US in addition to the persistent symptomatic and cosmetic problems ( 5 , 54 ); this is because the under-ablated portion with vascularity of the nodule has the considerable potential for regrowth on follow-up ( 118 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, color-Doppler US is not sufficiently sensitive to detect small vessels and slow blood flow ( 119 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To overcome these disadvantages of color-Doppler US, some authors suggested that contrast-enhanced US can be an ancillary diagnostic tool for detecting the under-ablated portion after RFA procedure ( 58 , 120 , 121 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The percentage volume reduction was calculated as ([initial volume − final volume] × 100) / initial volume.",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 10) What Is the Appropriate Clinical, Laboratory, and Imaging Evaluation for AFTN after RFA? [Recommendation 8] After RFA for AFTN, clinical, laboratory, and imaging checklist should be evaluated ( Table 8 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(weak recommendation, moderate-quality evidence) Following RFA of the AFTN, thyroid function should be monitored by measurement of TSH, T3, and fT4 at each follow-up ( 53 , 54 , 55 , 56 , 107 , 110 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Based on TSH changes, anti-thyroid medications can be reduced or stopped.",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The therapeutic response of the patients depends on their drug dosage required and is classified into three categories: remission (euthyroid state after withdrawal of anti-thyroid drug), improvement (reducing the medication for euthyroid state), and no response (unchanged medication dose as compared to baseline) ( 56 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Autoantibody (anti-TPOAb and anti-TGAb) measurement is necessary in some cases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After RFA, patients with elevated auto-antibodies may develop subclinical hypothyroidism ( 100 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, if thyroid antibodies are elevated before ablation, careful evaluation of thyroid function is necessary during the follow-up period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When cases present with normal autoantibodies, only rarely do thyroid antibodies become newly elevated during the follow-up period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Before RFA, in case of elevated serum TSH receptor antibody, which may be due to the combined status of Graves' disease and AFTN, post-RFA hormonal changes may be incomplete, even though RFA was successfully performed ( 100 , 101 , 102 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Changes in the thyroid scan could be helpful to assess the efficacy of RFA of AFTN.",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In follow-up thyroid scans, thyroid nodules are classified into three categories: type 1, hot nodule; type 2, nodule uptake similar to extranodular thyroid tissue; and type 3, cold nodule or invisible status ( 53 , 54 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Following RFA of the AFTN, US examination should be checked at each follow-up.",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On US examination, changes in size, volume, intranodular vascularity, and echogenicity are evaluated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the thyroid function or symptoms are incompletely resolved, repeat RFA or another treatment, such as medication, are required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Repeat RFA may be decided based on the serum TSH level rather than based on the scan or on the under-ablated portion on US.",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Rarely, since complete ablation of hot nodules can cause hypothyroidism, additional ablation should be carefully decided according to changes in serum TSH.",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Repeat RFA may be suggested during the follow-up periods when the serum TSH level is not normalized after the first RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Repeat RFA can be considered 1–3 months after the first RFA because volume reduction of the nodule is rapid during the first 3 months after RFA ( 53 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In previous studies, the mean number of the treatment sessions was reported to be 1.8–2.2 (1–6 sessions) for AFTN ( 53 , 54 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 11) What Is the Appropriate Clinical, Laboratory, and Imaging Evaluation for Recurrent Cervical Thyroid Cancer after RFA?",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After ablation of cervical recurrent tumor, follow-up using conventional US should be performed at 1 (or 2), 6, and 12 months and then every 6–12 months thereafter according to the status of treated tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tumor volume, maximum diameter, vascularity, and the development of new metastatic tumors should be evaluated during the follow-up period.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, serum Tg level and anti-Tg antibody should be carefully assessed after ablation because serum Tg level (half-life, 3–4 days) decreases rapidly in most patients after ablation ( 70 , 72 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Serum anti-Tg antibody should be measured in conjunction with a serum Tg assay, as the presence of anti-Tg antibodies commonly causes falsely low serum Tg measurement in immunometric assays ( 122 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Anti-Tg antibody may rise transiently postoperatively as an apparent immune reaction to the surgery itself and may also rise after radioiodine therapy ( 122 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Contrast-enhanced CT, especially in the early arterial phase with thin sections (less than 2.5 mm), may be useful to evaluate the viable remnant tumor or newly developed tumors ( 73 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After successful ablation, intense enhancement of the recurrent tumor disappears completely on CT scan.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional ablation may be planned to perform, if the follow-up US or CT shows the presence of Doppler signals or the enhancing portion of the treated tumor.",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Several studies suggested that the ablation zone is clearer with contrast-enhanced US rather than with color Doppler US ( 123 , 124 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 12) What Is the Appropriate Clinical, Laboratory, and Imaging Evaluation for Primary Thyroid Cancer after RFA?",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is a paucity of data regarding application of RFA for primary thyroid cancer, and the post-procedural follow-up strategies are controversial in previous reports ( 75 , 76 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a prospective study by Zhang et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( 75 ), patients were followed at 1, 3, 6, and 12 months after RFA with US and contrast-enhanced US.",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CNB was conducted at 3 months after RFA in every patient ( 75 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a study by Kim et al., ( 76 ) post-procedural US was performed at 1, 6, and 12 months and annually thereafter.",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As in the case of lobectomy of thyroid cancer and RFA of recurrent thyroid cancers, US is primarily recommended for follow-up evaluation of the ablation zone.",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, careful evaluation is needed to find metachronous development of PTC in other portions of the thyroid gland and newly occurring lymph node metastasis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, CT seems to play an important complementary role for detection of newly occurring lymph node metastasis.",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "Post-Procedural Evaluations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As shown in previous studies, the reduced residual lesion after RFA were pathologically degenerative changes, CNB or FNA is recommended only for lesions that either increase in size or remain unchanged ( 75 , 76 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "Key Question 9) What Is the Appropriate Clinical, Laboratory, and Imaging Evaluation for Nonfunctioning Benign Thyroid Nodules after RFA?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 7] After RFA for nonfunctioning benign thyroid nodules, clinical, laboratory, and imaging checklist should be evaluated ( Table 8 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "[Recommendation 7]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After RFA for nonfunctioning benign thyroid nodules, clinical, laboratory, and imaging checklist should be evaluated ( Table 8 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "Key Question 10) What Is the Appropriate Clinical, Laboratory, and Imaging Evaluation for AFTN after RFA?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 8] After RFA for AFTN, clinical, laboratory, and imaging checklist should be evaluated ( Table 8 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "[Recommendation 8]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After RFA for AFTN, clinical, laboratory, and imaging checklist should be evaluated ( Table 8 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "[Recommendation 8]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Following RFA of the AFTN, thyroid function should be monitored by measurement of TSH, T3, and fT4 at each follow-up ( 53 , 54 , 55 , 56 , 107 , 110 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 13) What Is the Appropriate Composition of Benign Thyroid Nodules for RFA? [Recommendation 9-1] Radiofrequency ablation is recommended as the first-line treatment method for solid and predominantly solid nodules, although it is also an effective treatment method to manage non-functioning thyroid nodules, regardless of the degree of solidity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, moderate-quality evidence) [Recommendation 9-2] Ethanol ablation (EA) is recommended as the first-line treatment method for cystic and predominantly cystic nodules.",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA can be recommended as the next step in cases with incomplete resolved symptoms or recurrence following EA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, high-quality evidence) The efficacy of RFA for non-functioning thyroid nodules has been reported in 21 previous studies ( Table 9 ) ( 5 , 6 , 9 , 11 , 57 , 58 , 59 , 99 , 101 , 107 , 110 , 116 , 117 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These studies included 1503 cases (mean follow-up period, 11.9 months; range, 3.6–49.4 months).",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The efficacy of RFA was measured based on the symptomatic score, cosmetic score, and volume reduction rate (VRR).",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At baseline, the mean symptomatic score in 14 available studies was 3.83 (range: 2.4–5.6), and the mean cosmetic score in 12 available studies was 3.43 (range: 1.14–5.7).",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mean initial volume of thyroid nodules in all 21 studies was 12.3 mL (range: 5.4–30).",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After treatment, the mean symptomatic score was 1.09 (range: 0.2–2.1), and the mean cosmetic score was 1.51 (range: 0.53–2.5).",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At the last follow-up, the mean volume of thyroid nodules was 2.86 mL (range: 0.4–8.6), and the mean VRR was 80.1% (range: 64.9–93.9).",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of the efficacy of RFA between cystic nodules and solid nodules has been reported in three studies ( Table 10 ) ( 6 , 116 , 125 ), with a mean VRR of 91.1% (range: 79.8–97.6) in cases with cystic nodules and 71.8% (range: 54–92) in cases with solid nodules.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mean VRR of thyroid nodules was 91% (range: 83.1–96.9) in cases with EA and 90.9% (range: 87.1–93.3) in cases with RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a single-session treatment noninferiority randomized clinical trial for cystic thyroid nodules (defined as cystic component > 90%), EA was not only noninferior, but was also superior to RFA ( 128 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, EA was a simple and less expensive procedure with the fewer number of treatment sessions, compared to RFA ( 11 , 107 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, we recommend that patients with cystic or predominantly cystic thyroid nodules that re-grow after simple aspiration of internal fluid should be treated with EA rather than RFA ( 10 , 11 , 18 , 70 , 107 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For predominantly cystic thyroid nodules (defined as cystic component between 50–90%), EA has been also suggested as the first-line treatment modality in single-session treatment superiority randomized clinical trial comparing EA and RFA ( 107 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, 18.7–33% of cases revealed recurrence following EA for predominantly cystic thyroid nodules at a 1-month follow-up ( 10 , 18 , 133 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a longer, mean 17.1 months follow-up study, 38% of patients required additional treatment ( 133 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The solid component was suggested as the main cause of recurrence after EA ( 10 , 18 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In cases with incompletely resolved symptoms following EA, the mean VRR of EA-RFA combination therapy was 92% at 6 months ( 10 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA is recommended as an effective treatment method, regarded as the next step for cases of cystic or predominantly cystic thyroid nodules when patients have incompletely resolved symptoms or recurrence following EA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 243,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, we recommend EA-RFA combination therapy for incompletely resolved symptoms after initial EA ( 134 , 135 , 136 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 244,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Among thermal ablation methods for thyroid nodules, recent systematic reviews and meta-analyses have demonstrated that RFA and LA achieved a significant volume reduction in benign solid thyroid nodules without procedure-related death ( 137 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 245,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, RFA revealed superior efficacy to LA for volume reduction despite the smaller number of treatment sessions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 246,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, RFA may be a first-line treatment for solid thyroid nodules ( 137 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 247,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 14) Is a Single Treatment Enough for Patients with Non-Functioning Thyroid Nodules? [Recommendation 10] According to size and location of the nodule, additional treatment may be required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 248,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional treatment may be considered if the nodule shows marginal regrowth or if cosmetic or symptomatic problems are incompletely resolved.",
+      "align_score": null
+    },
+    {
+      "seg_id": 249,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, moderate-quality evidence) Most studies regarding the efficacy of RFA are based on the VRR or on improvements in symptoms or cosmetic problems at 6–12 months after treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 250,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most short-term treatment outcomes are reported to be safe and effective ( 138 , 139 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 251,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "According to the randomized trial by Deandrea et al., ( 132 ) in a short-term follow-up 6 months after RFA, 2 of 40 treated nodules failed to reach 50% volume reduction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 252,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Furthermore, in several studies with a follow-up longer than 3 years, more than two sessions of RFA were necessary in 24.1–57.9% cases to maintain long-term volume reduction ( 5 , 94 , 116 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 253,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "At 4-year follow-up, larger nodules (> 20 mL) required more treatment sessions than smaller nodules did to achieve similar VRR ( 116 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 254,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A previous randomized trial and Bayesian network meta-analysis revealed that two sessions of RFA were more effective than was a single-session treatment, especially with a nodule volume > 20 mL ( 137 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 255,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The results of these studies show that the treatment effect of RFA cannot maintain the long-term effect after a single treatment, especially when the index nodule volume is large.",
+      "align_score": null
+    },
+    {
+      "seg_id": 256,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are many reports mentioning the need of additional treatment in both long-term and short-term follow-up studies, but it is still unclear concerning the proper timing of additional treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 257,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Indications for additional treatment have been summarized as follows: when the symptom is incompletely relieved after treatment, the VRR is less than 50%, and the tumor regrows ( 5 , 110 , 135 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 258,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a study by Sim et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 259,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( 94 ) regarding timing of additional treatment after 7 years of follow-up based on US, the authors divided the area of the ablated nodule into two parts: 1) the RFA-ablated, low echoic area and 2) the residual viable area, which was usually isoechoic and located at the periphery of ablation zone.",
+      "align_score": null
+    },
+    {
+      "seg_id": 260,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The volume of the ablation zone decreases with time, while the volume of the viable area may increase during regrowth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 261,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tracing the volume of the viable area rather than tracing the volume of the entire nodule can be useful for depicting the regrowth and thus timing the additional ablation ( 94 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 262,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are few studies concerning factors that are associated with a lower response to treatment or regrowth, but there are several proposals: commonly mentioned factors include intrinsic factors such as the volume of index nodule, solidity, and functionality, and extrinsic factors include the positional relationship with dangerous surrounding tissues ( 120 , 131 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 263,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 15) Is RFA an Effective Non-Surgical Treatment Modality in the Management of AFTN?",
+      "align_score": null
+    },
+    {
+      "seg_id": 264,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiofrequency ablation effects on AFTN were reported with a VRR of 53–85% and a highly variable rate (24–82%) of thyroid function normalization ( 4 , 7 , 53 , 54 , 55 , 56 , 58 , 59 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 265,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Even in cases of AFTN, a single-session RFA reduced thyroid nodule volume by 36.4–51%, 69–74.5%, and 75% after 1 (or 2), 6, and 12 months, respectively ( 53 , 56 , 140 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 266,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This volume improvement was strongly associated with a significant improvement of neck discomfort and cosmetic problems ( 53 , 54 , 140 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 267,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The response of hot nodules to RFA was usually less than that of cold nodules, because hot nodules showed more vascularity and higher marginal recurrence ( 53 , 54 ); however, one study reported that hot nodules showed a slightly greater response than cold nodules did (52.1 ± 16.2% reduction vs. 46.2 ± 16.9%, respectively) ( 4 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 268,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A single-session RFA allowed withdrawal of anti-thyroid medication in 21.7–50% of patients ( 4 , 56 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 269,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dose of methimazole was reduced after RFA in 78% of patients ( 4 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 270,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As for thyroid function, 33% of the patients went into remission after 3 months, 43–50% after 6 months, and 50% at 12 months after the procedure ( 56 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 271,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Serum TSH levels normalized in 55.6–81.8% of patients at the last follow-up ( 53 , 54 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 272,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "One study ( 4 ) reported that hyperthyroidism was fully controlled in 24% of patients and partially reduced in the remainder.",
+      "align_score": null
+    },
+    {
+      "seg_id": 273,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Regarding scintigraphy, the majority of hot nodules (44.4–79.5%) became cold or normal, and 20.4–55.6% nodules exhibited decreased uptake, although they remained hot nodules ( 53 , 54 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 274,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The wide range of therapeutic effects may be caused by the amount of untreated tissue at the thyroid nodule margin, which can be a cause of insufficient volume reduction and explains the persistence of the hyperthyroid state ( 7 , 53 , 54 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 275,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In a RCT comparing a single RAI dose and a single LA session for AFTN, LA seems to be inferior to RAI therapy for normalization of serum TSH ( 141 ), and these reported data could be explained by the significant untreated nodule margin after LA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 276,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, the moving-shot technique might be a safer method for ablating the nodule margin, and the internally cooled electrode might be more suitable for use in the moving-shot technique.",
+      "align_score": null
+    },
+    {
+      "seg_id": 277,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In contrast, a multi-tined, expandable electrode in LA might not be easy to move, and simultaneous US observation of multiple expandable prongs might be difficult during the ablation ( 53 , 54 , 116 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 278,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A recent retrospective multicenter RFA study by trained radiologists using the moving-shot technique and similar devices (modified straight internally cooled electrodes) showed improved hyperthyroidism in all patients, 81.7% VRR, 81.8% normalized TSH rate, and 79.5% normalized scan rate ( 53 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 279,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As for large AFTN (usually > 20 mL), RFA was less effective ( 7 , 54 , 60 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 280,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The combined treatment of LA and RAI therapy has been recently proposed for large AFTN.",
+      "align_score": null
+    },
+    {
+      "seg_id": 281,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Compared with RAI therapy alone, combination therapy produces quicker and greater improvement of local symptoms and of biochemical hyperthyroidism, coupled with decreased RAI activity ( 60 , 142 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 282,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although it has not yet been fully established in the literature, the combined treatment of RFA and RAI therapy could be investigated in the future.",
+      "align_score": null
+    },
+    {
+      "seg_id": 283,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA is an effective non-surgical treatment modality to improve thyrotoxic symptoms, hormone levels, and scintigraphic findings in the management of AFTN.",
+      "align_score": null
+    },
+    {
+      "seg_id": 284,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 16) Is RFA an Effective Treatment Method in the Management of Recurrent Thyroid Cancer?",
+      "align_score": null
+    },
+    {
+      "seg_id": 285,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since the first report by Dupuy et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 286,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( 63 ), several studies, including two meta-analyses, have reported on the possibility of percutaneous US-guided RFA as a nonsurgical therapeutic option for treating locally recurrent thyroid cancer ( 62 , 64 , 65 , 66 , 67 , 68 , 69 , 70 , 71 , 72 , 73 , 74 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 287,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The meta-analyses identified that RFA resulted in a significant decrease in tumor volume, maximum diameter, and serum Tg level for local recurrent thyroid cancers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 288,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A meta-analysis by Suh et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 289,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( 70 ) reported that the pooled proportion of complete disappearance after RFA was 68.8% and the pooled proportion of recurrence at the treatment site was 0%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 290,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, the pooled proportion of serum Tg level reduction was 71.6%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 291,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The reported tumor VRR was 50.9–98.4% ( 64 , 68 , 71 , 73 , 74 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 292,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In three studies that restricted tumor size and number for complete removal of recurrent tumor burden ( 64 , 73 , 74 ), the VRR was 93–98.4%, and there was no recurrence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 293,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recurrence was identified as new tumors or persistent ablation zones at the ablation site ( 70 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 294,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kim et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 295,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( 74 ) reported 27 recurrent tumors treated by RFA for curative purposes and compared RFA and repeat surgery using the propensity score method.",
+      "align_score": null
+    },
+    {
+      "seg_id": 296,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The treated number of tumors was three or fewer per patient, and tumor diameter was smaller than 2 cm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 297,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a result, after long-term follow-up (mean, 32.4 months), there was no significant difference in recurrence rate, negative serum-Tg conversion, and 1-year and 3-year recurrence-free survival rate between RFA and repeat surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 298,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Suh et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 299,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( 70 ) compared RFA and EA in a meta-analysis and found that RFA resulted in a higher complete disappearance rate (68.8% vs. 53.4%, respectively, p = 0.3384) and a lower recurrence rate (0.0% vs. 1.6%, p = 0.9766).",
+      "align_score": null
+    },
+    {
+      "seg_id": 300,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, these differences were not statistically significant.",
+      "align_score": null
+    },
+    {
+      "seg_id": 301,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The pooled reduction in serum Tg level after RFA (71.6%) was significantly lower than that of EA (93.8%, p < 0.0001).",
+      "align_score": null
+    },
+    {
+      "seg_id": 302,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, RFA (mean sessions ≤ 1.3 in 83.3% of studies) required fewer treatment session than EA did (mean sessions ≥ 2 in 75% of studies).",
+      "align_score": null
+    },
+    {
+      "seg_id": 303,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "RFA can be applied for symptom relief even if radiological complete removal is not possible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 304,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Park et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 305,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "( 68 ) reported 63.6% of patients experienced symptom relief after 6 months in a short-term follow-up study of 16 recurrent tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 306,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, in 62.5% of the cases, the ablation was technically incomplete or failed due to intolerable pain, severe calcification, or tumor encasement of major vessels.",
+      "align_score": null
+    },
+    {
+      "seg_id": 307,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this regard, further RFA sessions might be necessary for RFA of recurrent cancers in cases of large-sized tumors, patient intolerance of the procedure, severe calcification, and dangerous location of the tumor.",
+      "align_score": null
+    },
+    {
+      "seg_id": 308,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 17) Is RFA an Effective Treatment Method in the Management of Primary Thyroid Cancer?",
+      "align_score": null
+    },
+    {
+      "seg_id": 309,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A prospective, but short-term, follow-up result (mean 7.8 months) was reported by Zhang et al.",
+      "align_score": null
+    },
+    {
+      "seg_id": 310,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "They treated 98 PTMCs in 92 patients and achieved a mean VRR of 0.47 ± 0.27, 0.19 ± 0.16, 0.08 ± 0.11, 0.04 ± 0.10, and 0 at 1, 3, 6, 12, and 18 months, respectively, after RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 311,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Four patients complained of transient voice problems.",
+      "align_score": null
+    },
+    {
+      "seg_id": 312,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A long-term follow-up study (mean 48 months) of six patients reported that the mean VRR was 98.5 ± 3.3% and that four cancers disappeared completely on US ( 76 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 313,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There was no local tumor recurrence or metastatic lesion during follow-up periods in both short-term and long-term follow-up studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 314,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, according to one case report presenting results of three patients with low-risk PTC who underwent surgery after LA ( 78 ), LA was effective for local tumor control of the primary cancer, but tiny small cancers in the bilateral thyroid glands and microscopic metastases in central lymph nodes were detected on surgery.",
+      "align_score": null
+    },
+    {
+      "seg_id": 315,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, thermal ablation might be effective for the management of primary thyroid cancer itself but seems to be limited for the control of regional microscopic metastasis or tiny multifocal cancers.",
+      "align_score": null
+    },
+    {
+      "seg_id": 316,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Further investigation is needed in these regards.",
+      "align_score": null
+    },
+    {
+      "seg_id": 317,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Key Question 18) Is RFA a Safe and Tolerable Procedure? [Recommendation 11] Radiofrequency ablation is safe and well-tolerated and is associated with a low incidence of complications when performed by experienced operators.",
+      "align_score": null
+    },
+    {
+      "seg_id": 318,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(strong recommendation, high-quality evidence) The previous guidelines and studies, including meta-analyses, suggest that RFA is safe, well-tolerated, and associated with a low incidence of complications ( 1 , 3 , 12 , 93 , 100 , 143 , 144 , 145 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 319,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For benign nodules, the overall complication rate was 2.11% (95% confidence interval [CI]: 1.15–3.06), and the major complication rate was 1.27% (95% CI: 0.81–1.73).",
+      "align_score": null
+    },
+    {
+      "seg_id": 320,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For recurrent thyroid cancers, the overall complication rate was higher at 10.98% (95% CI: 4.82–17.15), and the rate of major complications was 6.71% (95% CI: 3.05–10.36) ( 93 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 321,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Various complications have been reported, including major complications such as nerve injuries (recurrent laryngeal nerve, cervical sympathetic ganglion, brachial plexus, and spinal accessory nerve), nodule rupture, and permanent hypothyroidism, and minor complications such as hematoma, vomiting, skin burn, transient thyrotoxicosis, lidocaine toxicity, hypertension, and pain.",
+      "align_score": null
+    },
+    {
+      "seg_id": 322,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, there were no life-threatening complications, and the sequelae rate was 0.21% ( 93 , 100 , 144 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 323,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Voice change, caused by injury to the recurrent laryngeal nerve or vagus nerve, is the most common major complication after RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 324,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The incidence has been reported to be 1.45%, with a permanent change of 0.17%.",
+      "align_score": null
+    },
+    {
+      "seg_id": 325,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is higher for recurrent thyroid cancers (7.95%) than for benign thyroid nodules (0.94%) ( 93 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 326,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Direct thermal injury to the nerve, stretching of the nerve over the thyroid swelling, or hematoma on the nerve against the trachea could be possible mechanisms causing voice change after RFA ( 93 , 112 , 144 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 327,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The trans-isthmic approach and moving-shot technique are recommended to prevent injury of the recurrent laryngeal nerve ( 108 , 112 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 328,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Variation of vagus nerve location or a bulging thyroid nodule may alter the location of the vagus nerve so that it is closer to the thyroid gland, where it can be damaged during the procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 329,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, operators should be aware of the location of the recurrent laryngeal nerve and vagus nerve ( 112 , 146 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 330,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Horner syndrome could be caused by thermal damage to the middle cervical sympathetic ganglion (mCSG).",
+      "align_score": null
+    },
+    {
+      "seg_id": 331,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It presents as a combination of ptosis, miosis, and anhidrosis of the face, ipsilateral to the affected side.",
+      "align_score": null
+    },
+    {
+      "seg_id": 332,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Redness of the conjunctiva of the eye may be an initial symptom of CSG injury.",
+      "align_score": null
+    },
+    {
+      "seg_id": 333,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mCSG is usually located at the lower level of the thyroid gland and is visible as a spindle-shaped hypoechoic structure around the common carotid artery (CCA).",
+      "align_score": null
+    },
+    {
+      "seg_id": 334,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Medial to the CCA, the mCSG is closely adjacent to the thyroid gland and could be damaged during RFA of benign thyroid nodules.",
+      "align_score": null
+    },
+    {
+      "seg_id": 335,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Lateral to the CCA, it could be vulnerable during RFA of recurrent tumors at the lateral neck ( 112 , 147 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 336,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Spinal accessory nerve injury and brachial plexus injury also have been reported during ablation ( 100 , 144 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 337,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, knowledge of US-based neck anatomy is necessary to prevent nerve injury, and the potential location where may contain the nerves should be undertreated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 338,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If a metastatic tumor is adjacent to the nerve, the hydrodissection technique with continuous fluid infusion could be useful for preventing thermal injury ( 108 , 112 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 339,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Nodule rupture is the second most common major complication of RFA (0.17%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 340,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It usually presents as a sudden neck bulging and pain at the RFA site during follow-up.",
+      "align_score": null
+    },
+    {
+      "seg_id": 341,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mechanism of nodule rupture has been explained as resulting from acute volume expansion of a nodule due to delayed hemorrhage or a tear in the tumor wall after neck massage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 342,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "US or CT usually shows breakage of the thyroid capsule, with bulging of the tumor into the anterior neck.",
+      "align_score": null
+    },
+    {
+      "seg_id": 343,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients with nodule rupture should usually be managed conservatively, including with antibiotics and/or analgesics, but surgical treatment may be required in case of abscess formation ( 93 , 100 , 144 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 344,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hematoma, caused by mechanical injury to the vessels due to the electrode, can be developed in the peri-thyroidal, subcapsular, and intra-nodular locations; however, it is usually managed with simple compression of the neck for 30 minutes to 2 hours, with most hematomas disappearing within 1 or 2 weeks.",
+      "align_score": null
+    },
+    {
+      "seg_id": 345,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For prevention, peri-thyroidal vessels, including the superior and inferior thyroid arteries, should be carefully evaluated using Doppler US before inserting the electrode.",
+      "align_score": null
+    },
+    {
+      "seg_id": 346,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Serious hemorrhage may be prevented by careful monitoring of the electrode tip ( 93 , 100 , 112 , 143 , 144 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 347,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Regarding thyroid function changes, the risk of hypothyroidism is rare after ablation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 348,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There have been a few reports of hypothyroidism developing after RFA in patients with elevated anti-TPOAb before ablation or in patients with AFTN ( 100 , 144 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 349,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Transient hyperthyroidism also could occur after the procedure, but it usually resolves spontaneously within a month without symptoms ( 93 , 100 , 102 , 143 , 144 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 350,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pain is the most common compliant during RFA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 351,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Various degrees of pain could occur in the lower neck, sometimes radiating to the head, ears, shoulders, chest, back, or teeth.",
+      "align_score": null
+    },
+    {
+      "seg_id": 352,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although most patients are tolerable to pain and it is relieved rapidly when the generator output is reduced or turned off momentarily, there are few reports wherein cases were incompletely treated due to severe pain and required additional medication to reduce pain after RFA ( 145 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 353,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Painkillers can be prescribed for 2–3 days to reduce post-procedural pain in these cases ( 93 , 100 , 143 , 144 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 354,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Life-threatening complications, including injury to the trachea and esophageal rupture, have not been reported yet in patients undergoing RFA of the thyroid gland.",
+      "align_score": null
+    },
+    {
+      "seg_id": 355,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Coughing can be induced by thermal propagation to the trachea and is managed by stopping the ablation.",
+      "align_score": null
+    },
+    {
+      "seg_id": 356,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To prevent thermal injury to the esophagus, patients should be asked to swallow cold water during ablation of a conceptual unit adjacent to the esophagus ( 100 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 357,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For a safe and effective procedure, operators should understand US-based neck anatomy and the broad spectrum of complications as well as its prevention techniques.",
+      "align_score": null
+    },
+    {
+      "seg_id": 358,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To avoid complications, continuous and cautious US-guided monitoring of the needle tip is mandatory during the procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 359,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although there is no absolute contraindication for thyroid RFA, we do not recommend the use of monopolar electrodes for pregnant women or patients with electrical devices such as a cardiac pacemaker because there is insufficient evidence regarding safety of monopolar electrodes in these patients ( 148 , 149 , 150 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 360,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bipolar electrodes can be a safer selection for those patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 361,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Unlike monopolar electrodes, the electric current of bipolar electrodes is limited to the area surrounding the active tip of the electrode ( 108 , 115 , 151 , 152 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 362,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiofrequency ablation is a safe modality for the treatment of benign thyroid nodules and recurrent thyroid cancers with a low incidence of complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 363,
+      "type": "sentence",
+      "section": "Clinical Outcomes",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Knowledge of US-based neck anatomy and its clinical significance is essential for a safe and effective US-guided procedure.",
+      "align_score": null
+    },
+    {
+      "seg_id": 364,
+      "type": "sentence",
+      "section": "Key Question 13) What Is the Appropriate Composition of Benign Thyroid Nodules for RFA?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 9-1] Radiofrequency ablation is recommended as the first-line treatment method for solid and predominantly solid nodules, although it is also an effective treatment method to manage non-functioning thyroid nodules, regardless of the degree of solidity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 365,
+      "type": "sentence",
+      "section": "Key Question 13) What Is the Appropriate Composition of Benign Thyroid Nodules for RFA?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 9-2] Ethanol ablation (EA) is recommended as the first-line treatment method for cystic and predominantly cystic nodules.",
+      "align_score": null
+    },
+    {
+      "seg_id": 366,
+      "type": "sentence",
+      "section": "[Recommendation 9-1]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiofrequency ablation is recommended as the first-line treatment method for solid and predominantly solid nodules, although it is also an effective treatment method to manage non-functioning thyroid nodules, regardless of the degree of solidity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 367,
+      "type": "sentence",
+      "section": "[Recommendation 9-2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ethanol ablation (EA) is recommended as the first-line treatment method for cystic and predominantly cystic nodules.",
+      "align_score": null
+    },
+    {
+      "seg_id": 368,
+      "type": "sentence",
+      "section": "[Recommendation 9-2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The efficacy of RFA for non-functioning thyroid nodules has been reported in 21 previous studies ( Table 9 ) ( 5 , 6 , 9 , 11 , 57 , 58 , 59 , 99 , 101 , 107 , 110 , 116 , 117 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 369,
+      "type": "sentence",
+      "section": "[Recommendation 9-2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Comparison of the efficacy of EA and RFA for cystic and/or predominantly cystic thyroid nodules has been reported in three studies ( Table 11 ) ( 11 , 107 , 128 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 370,
+      "type": "sentence",
+      "section": "[Recommendation 9-2]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These results may also be useful to avoid expensive clinical trials or treatment modalities for cases with symptomatic cystic thyroid nodules that can be successfully managed using EA.",
+      "align_score": null
+    },
+    {
+      "seg_id": 371,
+      "type": "sentence",
+      "section": "Key Question 14) Is a Single Treatment Enough for Patients with Non-Functioning Thyroid Nodules?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 10] According to size and location of the nodule, additional treatment may be required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 372,
+      "type": "sentence",
+      "section": "[Recommendation 10]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "According to size and location of the nodule, additional treatment may be required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 373,
+      "type": "sentence",
+      "section": "[Recommendation 10]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most studies regarding the efficacy of RFA are based on the VRR or on improvements in symptoms or cosmetic problems at 6–12 months after treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 374,
+      "type": "sentence",
+      "section": "Key Question 18) Is RFA a Safe and Tolerable Procedure?",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "[Recommendation 11] Radiofrequency ablation is safe and well-tolerated and is associated with a low incidence of complications when performed by experienced operators.",
+      "align_score": null
+    },
+    {
+      "seg_id": 375,
+      "type": "sentence",
+      "section": "[Recommendation 11]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiofrequency ablation is safe and well-tolerated and is associated with a low incidence of complications when performed by experienced operators.",
+      "align_score": null
+    },
+    {
+      "seg_id": 376,
+      "type": "sentence",
+      "section": "[Recommendation 11]",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The previous guidelines and studies, including meta-analyses, suggest that RFA is safe, well-tolerated, and associated with a low incidence of complications ( 1 , 3 , 12 , 93 , 100 , 143 , 144 , 145 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 377,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Recommendations of 2017 Thyroid RFA Guideline by KSThR are summarized in Table 12 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 378,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Harms and Benefits Ultrasound is a widely used method for guiding and monitoring RFA of the thyroid gland.",
+      "align_score": null
+    },
+    {
+      "seg_id": 379,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There is no risk of radiation exposure, and it is possible to evaluate the thyroid gland and to examine cervical lymph nodes ( 14 , 23 , 26 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 380,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, thyroid nodules are common in asymptomatic persons; therefore, RFA should be performed according to the indications of guidelines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 381,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Unnecessary RFA may lead to increased medical costs and complications.",
+      "align_score": null
+    },
+    {
+      "seg_id": 382,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, cost-effectiveness may vary depending on whether or not medical insurance is applied.",
+      "align_score": null
+    },
+    {
+      "seg_id": 383,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Moreover, there is a need for cost comparison of thyroid RFA with other treatments ( 153 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 384,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acceptability and Applicability Thyroid RFA should be performed in hospitals with welltrained thyroid RFA experts and facilities ( 12 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 385,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thyroid RFA was chosen as the treatment method for patients with benign thyroid nodules and recurrent thyroid cancers in several medical guidelines ( 23 , 24 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 386,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a result of the evaluation of domestic acceptability and applicability of these guidelines, it was concluded that the applicability of RFA to treat thyroid lesions is reasonable.",
+      "align_score": null
+    },
+    {
+      "seg_id": 387,
+      "type": "sentence",
+      "section": "Considerations for Recommendations",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Radiation Dose Neck US: 0",
+      "align_score": null
+    },
+    {
+      "seg_id": 388,
+      "type": "sentence",
+      "section": "Harms and Benefits",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ultrasound is a widely used method for guiding and monitoring RFA of the thyroid gland.",
+      "align_score": null
+    },
+    {
+      "seg_id": 389,
+      "type": "sentence",
+      "section": "Acceptability and Applicability",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thyroid RFA should be performed in hospitals with welltrained thyroid RFA experts and facilities ( 12 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 390,
+      "type": "sentence",
+      "section": "Radiation Dose",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Neck US: 0",
+      "align_score": null
+    }
+  ]
+}

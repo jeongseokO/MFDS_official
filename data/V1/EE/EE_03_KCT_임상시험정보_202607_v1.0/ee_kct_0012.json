@@ -1,0 +1,163 @@
+{
+  "document_id": "ee_kct_0012",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_50~60대의 원격의료서비스 수용에 관한 연구",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "50~60대의 원격의료서비스 수용에 관한 연구",
+    "title_en": "KOAJKoreaOpen Access Journals",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "코로나바이러스감염증-19) / Coronavirus Disease (COVID-19 / 국내 / 2021-03",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "코로나19로 인해 전 세계적으로 원격의료서비스에 대한 관심이 높아지고 있다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "이 연구는 선행연구 고찰을 통해 잠재적 서비스 이용자의 재가모니터링서비스와 ICT활용 방문간호서비스의 이용 의도에 영향을 미치는 요인을 설정하고, 통계분석을 통해 유의한 영향요인을 파악하여 이론 및 실증적으로 기여하고자 하였다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "온라인 설문조사를 통해 전국에서 모집한 원격의료서비스 경험이 없는 50∼60대 고령자 629명 중 성실하게 응답한 609명을 대상으로 분석을 진행하였다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "그 결과, 재가모니터링서비스에 직접적으로 영향을 미치는 요인은 노력 기대, 성과 기대, 사회적 영향, 개인정보 보호, 비용 염려, 의료 접근성으로 나타났으며, 간접적으로 영향을 미치는 요인은 개인적 자기효능감과 환경적 자기효능감, 건강 염려였다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ICT활용 방문간호서비스에 직접적 영향을 미치는 요인은 사회적 영향, 의료 접근성으로 나타났다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "보다 정확한 결과를 도출해내기 위해 이후 연구에서는 개별 원격의료서비스에 대한 이용자의 인식을 고려하여 모델을 분리할 필요성이 있다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "추후 실제 서비스 시행 시, 이러한 서비스 별 차이를 고려한 접근과 더불어 세부집단을 구분한 분석이 이루어진다면 보다 효과적인 서비스 제공이 가능할 것이다.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Due to Coronavirus Disease-19, interest in telehealth services is increasing worldwide.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study aimed to identify factors that affect the intention of potential users to use home monitoring services and visiting nursing services using ICT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Our analysis was conducted with 609 respondents in their 50's and 60's who have never experienced telehealth services recruited from across the country through an online survey.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The results showed that factors that directly affected home monitoring services were effort expectancy, performance expectancy, social influence, privacy concern, cost concern, and health service accessibility.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Personal self-efficacy, environmental self-efficacy, and health concern had an indirect effect on home monitoring services.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Social influence and health service accessibility were found to have a direct effect on visiting nursing services using ICT.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For more accurate results, additional studies should consider the users’ perception of individual telehealth services.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "초록",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In future service implementations, more effective service delivery can be achieved based on such a subgroup analysis and its findings of service-specific differences.",
+      "align_score": null
+    }
+  ]
+}

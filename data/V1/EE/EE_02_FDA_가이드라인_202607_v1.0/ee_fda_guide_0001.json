@@ -1,0 +1,1459 @@
+{
+  "document_id": "ee_fda_guide_0001",
+  "meta": {
+    "set": "EE",
+    "source_folder": "9",
+    "source_code": "fda_guide",
+    "source_name": "FDA Guidance",
+    "orig_doc_id": "2016 Medical Gas Container-Closure Rule Questions and Answers Guidance for Industry Guidance for Industry January 2017__4e0e13bd49",
+    "category_l1": "규제·지침",
+    "category_l2": "가이드라인·안내",
+    "category_l3": "FDA Guidance",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2016 Medical Gas Container-Closure Rule Questions and Answers",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Guidance for Industry (Small Entity Compliance Guide)",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "January 2017 Current Good Manufacturing Practice Labeling",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additional copies are available from:",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Office of Communications, Division of Drug Information Center for Drug Evaluation and Research Food and Drug Administration 10001 New Hampshire Ave., Hillandale Bldg., 4th Floor Silver Spring, MD 20993-0002",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2016 Medical Gas Container-Closure Rule Questions and Answers Guidance for Industry1",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It does not establish any rights for any person and is not binding on FDA or the public.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To discuss an alternative approach, contact the FDA office responsible for this guidance as listed on the title page.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This guidance is intended to help small businesses better understand and comply with recently issued regulations on current good manufacturing practice (CGMP) and labeling for medical gases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "On November 18, 2016 (81 FR 81685), FDA published a final rule “Medical Gas Containers and Closures; Current Good Manufacturing Practice Requirements” (Container-Closure Rule or final rule).",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The final rule amends certain CGMP regulations regarding medical gases to increase the likelihood that the contents of medical gas containers are accurately identified on labeling and by container coloring and to reduce the likelihood of the wrong gas being connected to a supply system by requiring gas-specific outlet connections.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The final rule also revises an existing labeling regulation (21 CFR 201.161) that exempts listed medical gases from certain otherwise-applicable labeling requirements under specified conditions (including meeting the applicable medical gas labeling and container closure requirements and including certain warning statement(s)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA has prepared this guidance in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act (Public Law 104-121, as amended by Public Law 110-28)2 to assist small entities in complying with the Container-Closure Rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In general, FDA’s guidance documents do not establish legally enforceable responsibilities.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The use of the word should in Agency guidances means that something is suggested or recommended, but not required.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1 This guidance has been prepared by the Office of Regulatory Policy in cooperation with the Office of Pharmaceutical Quality in the Center for Drug Evaluation and Research (CDER) at the Food and Drug Administration.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 5 U.S.C. 601 (note).",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Federal Register of April 10, 2006 (71 FR 18039), FDA issued a proposed rule addressing certain CGMP and labeling regulations for medical gases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA proposed changes to these regulations to include new or revised requirements for the labeling, color, dedication, and design of medical gas containers and closures.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The main reason for proposing these changes was to put into regulation certain industry best practices intended to reduce errors and increase patient safety.3 FDA also proposed changes to a regulation (21 CFR 201.161) that provides certain medical gases a conditional exemption from several of the labeling requirements that ordinarily apply to prescription drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The existing regulation did not reflect either industry best practices or FDA’s current regulatory expectations regarding the labeling of medical gases, and the list of gases covered by the regulation needed to be updated.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA received and considered numerous public comments on the proposed rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In 2012, the Food and Drug Administration Safety and Innovation Act (FDASIA) was enacted.4 Among other things, this law established a new certification process5 for certain designated medical gases.6",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the Federal Register of November 18, 2016 (81 FR 81685), FDA published the final Container-Closure Rule, which is the subject of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The citations to the Code of Federal Regulations (CFR) in this guidance refer to the CFR as amended by this final rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The final Container-Closure Rule revises CGMP regulations to:",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Require portable cryogenic medical gas containers7 not manufactured with permanent gas use outlet connections to have gas-specific use outlet connections that cannot be readily",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3 There were a number of incidents in which a medical gas container holding a gas other than oxygen was erroneously connected to a health care facility’s oxygen supply system, leading to serious injuries and deaths.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For a detailed account of these incidents, please refer to the proposed rule (71 FR 18039 at 18040–18041).",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "4 Pub. L. 112–144 (July 9, 2012).",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See Title XI, Subtitle B of FDASIA, “Medical Gas Product Regulation,” adding new sections 575, 576, and 577 to the FD&C Act (21 U.S.C. 360ddd, 360ddd–1, and 360ddd–2).",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "5 See section 576 of the FD&C Act.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For a more detailed discussion of these provisions, please see the preamble to the Container-Closure Rule (81 FR 81685 at 81687-81688).",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "6 Designated medical gases include, for example, Oxygen USP, Carbon Dioxide USP, Nitrogen NF, Nitrous Oxide USP, and Helium USP (see section 575(1) of the FD&C Act).",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Designated medical gases for which certifications are granted, as well as “medically appropriate combinations” of certified designated medical gases, are deemed to have approved applications (under section 505 or 512 of the FD&C Act) for selected indications (see section 576(a)(3)(i) of the FD&C Act).",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For more information, see the draft guidance for industry Certification Process for Designated Medical Gases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When final, this guidance will represent the FDA’s current thinking on this topic.",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the most",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Most of these designated medical gases, along with medically appropriate combinations of them, are now included in FDA’s regulation providing for conditional labeling exemptions for medical gases, 21 CFR 201.161 (before the Container-Closure Rule was finalized, the regulation did not include oxygen, nitrogen, or medically appropriate combinations of medical gases).",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Two designated medical gases – medical air and carbon monoxide – are not covered by the revised regulation at this time.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "removed or replaced except by the manufacturer (see § 211.94 (e)(1) (21 CFR 211.94(e)(1))).",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Require that labeling on portable cryogenic medical gas containers meet certain placement and durability requirements (§ 211.94(e)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Waive labeling reconciliation requirements for 360° wraparound labels (described below) on portable cryogenic medical gas containers (21 CFR 211.125(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The final rule also adds a new medical gas labeling regulation that:",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Sets forth the FDA-designated color scheme for medical gas containers (§ 201.328(c) (21 CFR 201.328(c)); see Question Q4 in section III of this guidance for the list of colors).",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Requires that portable cryogenic medical gas containers bear 360° wraparound labeling so that the name of the gas can be clearly seen from any vantage point; this labeling must meet specific requirements regarding coloring, lettering, position on the container, and identification of contents as medical gas(es) (see § 201.328(a)(1) and (a)(1)(i)-(v)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Requires that labeling for portable cryogenic medical gas containers include, in conspicuous lettering, the phrase “For Medical Use,” “Medical Gas,” or some similar phrase that indicates the gas is for medical use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This phrase may be included either on the 360° wraparound label required by § 201.328(a)(1) and described above, or on a separate label (§ 201.328(a)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Requires that high-pressure medical gas containers be colored on the shoulder portion in an FDA-designated color associated with the gas contained in the cylinder (§ 201.328(b); see Question Q4 in section III of this guidance for the list of colors).",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Prohibits a portable cryogenic medical gas container from being colored in the FDA-designated color or colors unless the gas(es) held in the container correspond(s) to that color or those colors (§ 201.328(a)(1)(v)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is permissible for such containers not to be colored, or to be colored in a light-reflective color such as white.",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, the final rule makes the following changes to a regulation providing conditional labeling exemptions for listed medical gases:",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Revises the list of gases that are exempt from otherwise-applicable prescription drug labeling requirements by adding oxygen and nitrogen (which are commonly used medical gases), by removing cyclopropane and ethylene (which are no longer considered appropriate for medical use), and by including medically appropriate combinations of medical gases (see § 201.161(a) (21 CFR 201.161(a)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "7 Cryogenic containers are specialized containers used to hold a low-temperature, low-pressure liquid product.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The term portable cryogenic medical gas container is defined in 21 CFR 201.328(a) and is discussed in section III of this guidance (see Question Q5).",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Adds a new oxygen-specific warning statement to the regulation (see § 201.161(a)(1)(i)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is FDA’s understanding that this warning statement is consistent with most existing oxygen labeling.",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The final rule is effective on January 17, 2017, but affected persons and firms have until May 17, 2017, the final rule’s “Compliance Date,” to bring their medical gas containers and labeling into compliance with the final rule’s requirements.",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For most companies, no. Based on information FDA received from industry stakeholders and FDA inspections, we believe that most medical gas manufacturers and transfillers are already in compliance with the new requirements in the Container-Closure Rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is because these new requirements largely codify industry practices that have been widespread for at least a decade (and in some cases, much longer).",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, covered persons and entities should review the final rule to be sure that their medical gas containers and labeling comply with the requirements of this final rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If they are not in compliance already, covered entities should take steps to bring their containers and labeling into compliance by May 17, 2017, the final rule’s Compliance Date.",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q2.",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What entities are covered by the final rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The requirements apply to medical gas manufacturers, including transfillers, and distributors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "We note that the requirements generally do not apply to end users of medical gases (e.g., hospitals, nursing homes, emergency medical technician (EMT) units, fire departments), unless those entities also engage in medical gas manufacturing or distributing.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For medical gases, FDA considers the term manufacturer to include any person or firm that manufactures a medical gas, which includes cascading, distributing, filling, mixing, purifying, separating, transferring, or transfilling medical gases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Firms that are not sure whether their activities are covered by the final rule are encouraged to contact FDA staff for more information.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What do medical gas manufacturers and transfillers (and other covered entities) need to do to comply with these rule changes?",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Medical gas manufacturers and other covered entities should confirm that all containers and labeling comply with the final rule requirements described above in section II of this guidance and set forth in §§ 201.328 and 211.94(e).",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is FDA’s understanding that most medical gas containers and labeling already meet these requirements, but it is important to confirm that your containers and labeling are in compliance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Medical gas manufacturers and other covered entities should also confirm that the labeling of oxygen, nitrogen, carbon dioxide, helium, nitrous oxide, and medically appropriate combinations of any of these gases includes warning statements consistent with the requirements set forth in the final rule (see § 201.161(a)(1)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These changes are not expected to require any action on the part of most medical gas manufacturers and transfillers, as it is FDA’s understanding that these gases have, consistent with industry best practices, long been labeled in a manner consistent with the requirements of § 201.161(a).",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Additionally, because cyclopropane and ethylene (the two gases now removed from the list) have not been considered appropriate for medical use for many years, FDA does not expect that any action will be required by most medical gas manufacturers or transfillers with regard to these gases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, as previously noted, it is important to confirm that your containers and labeling are in compliance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What is the required color-coding scheme for identifying medical gas containers?",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are separate coloring requirements for portable cryogenic medical gas containers and high-pressure medical gas containers, although the color associated with each medical gas is the same regardless of the type of container (see Table 1, below).",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A portable cryogenic medical gas container may only be colored, in whole or in part, in the color or colors designated in § 201.328(c) if the gas or gases held in the container correspond to that color or those colors (§ 201.328(a)(1)(v)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The container may instead be colored in a light reflective color such as white or simply not colored at all.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Also see Question Q6.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each high-pressure medical gas cylinder must be colored on the shoulder portion of the cylinder in the color or colors designated in § 201.328(c) that correspond to the gas or gases held in the container, and the color or colors must be visible when viewed from the top of cylinder (§ 201.328(b)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Also see Question Q7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The FDA-designated colors identifying medical gases in portable cryogenic medical gas containers and high-pressure medical gas containers are:",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Table 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "FDA-designated colors for medical gases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(§ 201.328(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "It is FDA’s understanding that this color scheme has been in use by the majority of medical gas manufacturers and transfillers for many years.",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q5.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "How is portable cryogenic medical gas container defined?",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The term portable cryogenic medical gas container means a container that is capable of being transported and is intended to be attached to a medical gas supply system within a hospital, health care entity, nursing home, other facility, or home health care setting, or that is a base unit used to fill small cryogenic gas containers for use by individual patients (§§ 201.328(a) and 211.94(e)(1)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cryogenic containers that are not designed to be connected to a medical gas supply system (e.g., tank trucks, trailers, rail cars, or small cryogenic gas containers for use by individual patients, such as certain portable liquid oxygen units8) are not considered portable cryogenic medical gas containers for purposes of the new requirements (§§ 201.328(a) and 211.94(e)(1)), though other CGMP and labeling requirements continue to apply to these containers, as they did before issuance of the final rule.",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What new requirements for portable cryogenic medical gas containers are established by this final rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Container-Closure Rule sets forth new CGMP and labeling requirements for gas use outlet connections, 360° wraparound labeling (and, e.g., its placement, coloring, and lettering), “for medical use” labeling, and other labeling information, as described below.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gas-Specific Use Outlet Connections",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Portable cryogenic medical gas containers that are not manufactured with permanent gas use outlet connections (e.g., those that have been silver-brazed) must have gas-specific use outlet connections that are attached to the valve body so that they cannot be readily removed or replaced (without making the valve inoperable and preventing the containers’ use) except by the manufacturer (§ 211.94(e)(1)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "360° Wraparound Labeling",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Each portable cryogenic medical gas container must be conspicuously marked with a 360° wraparound label identifying its contents (§ 201.328(a)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "8 This includes portable liquid oxygen units as defined in 21 CFR 868.5655 (see §§ 201.328(a) and 211.94(e)(1)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The 360° wraparound labeling must be affixed to the container in a manner that does not interfere with other labeling and such that it is not susceptible to becoming worn or inadvertently detached duringnormal use (§ 211.194(e)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Each label, as well as materials used for coloring medical gas containers, must be reasonably resistant to fading, durable when exposed to atmospheric conditions, and not readily soluble in water (§ 211.94(e)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•Labeling reconciliation requirements are waived for 360° wraparound labels on portable cryogenic medical gas containers (21 CFR 211.125(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The 360° wraparound label must meet the label placement and durability requirements described above, and meet the following additional requirements (see § 201.328(a) and (a)(i)-(v)):",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Name of Gas (Color of Lettering and Label)",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the container holds a single gas, the name of the gas held in the container must be printed on the label in one of the following ways: Using lettering that appears in the color designated for the gas (see § 201.328 (c); also addressed in Question Q4 of this guidance) and that is printed against a white background, or Using lettering that appears in white against a background that is painted in the color for the gas (see § 201.328(c); also addressed in Question Q4 of this guidance).",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are no specific color requirements for the 360° wraparound label for portable cryogenic medical gas containers containing a medically appropriate combination of gases.",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There are, however, requirements addressing the color of the container itself.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See Question Q4 of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Name of Gas (Size of Lettering)",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The lettering for the name of the gas on the label must be at least 2 inches high.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Name of Gas (Continuous Printing and Readability)",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The name of the gas must be printed continuously around the label (e.g., Oxygen USP Oxygen USP Oxygen USP…) and be readable around the entire container.",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Placement of Label",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The label must be on the sidewall of the container, as close to the top of the container as possible but below the top weld seam.",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Container Coloring (Must Correspond to Gas Inside the Container, But White or Uncolored Containers Permissible)",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you color a portable cryogenic medical gas container, it may only be colored in the color or colors designated at §201.328(c) if the gas or gases held within the container correspond(s) to that color or those colors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Such containers may also be not colored at all, or colored in a light-reflective color such as white.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "“For Medical Use” Labeling",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•A label on the container (either the 360° wraparound label required in § 201.328(a)(1) or a separate label) must include, in conspicuous lettering, the phrase “For Medical Use,” “Medical Gas,” or some similar phrase that indicates that the gas is for medical use (§ 201.328(a)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "•The “for medical use” labeling (whether included as part of the 360° wraparound labeling or otherwise) that is required for portable cryogenic medical gas containers must be affixed to the container in a manner that does not interfere with other labeling and such that it is not susceptible to becoming worn or inadvertently detached duringnormal use (§ 211.94(e)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "What new requirements for high pressure medical gas cylinder coloring are established by this final rule?",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Each high-pressure medical gas cylinder must be colored on the shoulder portion of the cylinder in the color or colors designated in the color-coding system (see § 201.328(b) and (c); also see Question Q4 in this guidance).",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The color or colors must be visible when viewed from the top of cylinder.",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q8.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Where can I get more information, if needed?",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "with the Container-Closure Rule should be directed to arding other medical gas issues should be",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Silver Spring, MD 20993-0002 Phone: 855-543-3784 or 301-796-3400; Fax: 301-431-6353; Email: druginfo@fda.hhs.gov http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "TABLE OF CONTENTS I. INTRODUCTION 1",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "I. INTRODUCTION",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "heading",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "II. BACKGROUND",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In 2012, the Food and Drug Administration Safety and Innovation Act (FDASIA) was enacted.4 Among other things, this law established a new certification process5 for certain designated medical gases.6 In the Federal Register of November 18, 2016 (81 FR 81685), FDA published the final Container-Closure Rule, which is the subject of this guidance.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Require portable cryogenic medical gas containers7 not manufactured with permanent gas use outlet connections to have gas-specific use outlet connections that cannot be readily 3 There were a number of incidents in which a medical gas container holding a gas other than oxygen was erroneously connected to a health care facility’s oxygen supply system, leading to serious injuries and deaths.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For the most recent version of a guidance, check the FDA Drugs guidance Web page at http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "removed or replaced except by the manufacturer (see § 211.94 (e)(1) (21 CFR 211.94(e)(1))). • Require that labeling on portable cryogenic medical gas containers meet certain placement and durability requirements (§ 211.94(e)(2)). • Waive labeling reconciliation requirements for 360° wraparound labels (described below) on portable cryogenic medical gas containers (21 CFR 211.125(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Sets forth the FDA-designated color scheme for medical gas containers (§ 201.328(c) (21 CFR 201.328(c)); see Question Q4 in section III of this guidance for the list of colors). • Requires that portable cryogenic medical gas containers bear 360° wraparound labeling so that the name of the gas can be clearly seen from any vantage point; this labeling must meet specific requirements regarding coloring, lettering, position on the container, and identification of contents as medical gas(es) (see § 201.328(a)(1) and (a)(1)(i)-(v)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Requires that labeling for portable cryogenic medical gas containers include, in conspicuous lettering, the phrase “For Medical Use,” “Medical Gas,” or some similar phrase that indicates the gas is for medical use.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This phrase may be included either on the 360° wraparound label required by § 201.328(a)(1) and described above, or on a separate label (§ 201.328(a)(2)). • Requires that high-pressure medical gas containers be colored on the shoulder portion in an FDA-designated color associated with the gas contained in the cylinder (§ 201.328(b); see Question Q4 in section III of this guidance for the list of colors). • Prohibits a portable cryogenic medical gas container from being colored in the FDA-designated color or colors unless the gas(es) held in the container correspond(s) to that color or those colors (§ 201.328(a)(1)(v)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• Adds a new oxygen-specific warning statement to the regulation (see § 201.161(a)(1)(i)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "III. QUESTIONS AND ANSWERS",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Will I have to change my medical gas containers or labeling because of the new regulations?",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q3.",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Medical gas Color Medical Air Yellow Carbon Dioxide Gray Helium Brown Nitrogen Black Nitrous Oxide Blue",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Oxygen Green Mixture or Blend Colors corresponding to each component gas (§ 201.328(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q6.",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gas-Specific Use Outlet Connections Portable cryogenic medical gas containers that are not manufactured with permanent gas use outlet connections (e.g., those that have been silver-brazed) must have gas-specific use outlet connections that are attached to the valve body so that they cannot be readily removed or replaced (without making the valve inoperable and preventing the containers’ use) except by the manufacturer (§ 211.94(e)(1)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• The 360° wraparound labeling must be affixed to the container in a manner that does not interfere with other labeling and such that it is not susceptible to becoming worn or inadvertently detached during normal use (§ 211.194(e)(2)). • Each label, as well as materials used for coloring medical gas containers, must be reasonably resistant to fading, durable when exposed to atmospheric conditions, and not readily soluble in water (§ 211.94(e)(2)). • Labeling reconciliation requirements are waived for 360° wraparound labels on portable cryogenic medical gas containers (21 CFR 211.125(c)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If the container holds a single gas, the name of the gas held in the container must be printed on the label in one of the following ways:",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": " Using lettering that appears in the color designated for the gas (see § 201.328 (c); also addressed in Question Q4 of this guidance) and that is printed against a white background, or  Using lettering that appears in white against a background that is painted in the color for the gas (see § 201.328(c); also addressed in Question Q4 of this guidance).",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If you color a portable cryogenic medical gas container, it may only be colored in the color or colors designated at § 201.328(c) if the gas or gases held within the container correspond(s) to that color or those colors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Such containers may also be not colored at all, or colored in a light-reflective color such as white. “For Medical Use” Labeling",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "• A label on the container (either the 360° wraparound label required in § 201.328(a)(1) or a separate label) must include, in conspicuous lettering, the phrase “For Medical Use,” “Medical Gas,” or some similar phrase that indicates that the gas is for medical use (§ 201.328(a)(2)). • The “for medical use” labeling (whether included as part of the 360° wraparound labeling or otherwise) that is required for portable cryogenic medical gas containers must be affixed to the container in a manner that does not interfere with other labeling and such that it is not susceptible to becoming worn or inadvertently detached during normal use (§ 211.94(e)(2)).",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Q7.",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Questions regarding compliance with the Container-Closure Rule should be directed to CDERCompliance@fda.hhs.gov.",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "text",
+      "section": null,
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Questions regarding other medical gas issues should be directed to CDER-OPQ-Inquiries@fda.hhs.gov.",
+      "align_score": null
+    }
+  ]
+}

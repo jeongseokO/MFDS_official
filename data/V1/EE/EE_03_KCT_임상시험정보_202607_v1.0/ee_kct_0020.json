@@ -1,0 +1,2206 @@
+{
+  "document_id": "ee_kct_0020",
+  "meta": {
+    "set": "EE",
+    "source_folder": "10",
+    "source_code": "kct",
+    "source_name": "국내 임상논문(KCT)",
+    "orig_doc_id": "kct_A Muti-center, Randomized Phase II Study of Oxaliplatin and S-1 versus Capecitabine and Oxaliplatin in Patients with Metastatic Colorectal Cancer.",
+    "category_l1": "학술문헌",
+    "category_l2": "학술논문",
+    "category_l3": "국내 임상논문(KCT)",
+    "title_ko": "A Muti-center, Randomized Phase II Study of Oxaliplatin and S-1 versus Capecitabine and Oxaliplatin in Patients with Metastatic Colorectal Cancer.",
+    "title_en": "A Muti-center, Randomized Phase II Study of Oxaliplatin and S-1 versus Capecitabine and Oxaliplatin in Patients with Metastatic Colorectal Cancer",
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": null,
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": null,
+    "domain_tag": "대장암 / Colorectal Neoplasms / 국외 / 2015-08-29",
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "Abstract",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Global reach, higher impact",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "Study design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This was a multi-center, open-label, randomized phase II trial of OS versus XELOX combination chemotherapies in previously untreated patients with recurrent or metastatic CRC.",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "Study design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomization was stratified by institution, Eastern Cooperative Oncology Group (ECOG) performance status score (PS) (0 or 1 versus 2) and recurrent disease versus metastatic disease.",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "Study design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients were assigned randomly (1:1 ratio with block size 4) using a table of random digits to receive either the OS or XELOX regimen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "Study design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Five institutions in South Korea participated in this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "Study design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The study protocol was approved by the Institutional Review Board of each participating institution.",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "Study design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Written informed consent was obtained from all patients before enrollment, and the study was conducted according to the Good Clinical Practice guidelines.",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "Study design",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study was registered with ClinicalTrials.gov as number NCT00677144.",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "Eligibility",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For enrollment in this study, patients were required to meet the following inclusion criteria: histologically confirmed CRC; presence of metastatic disease; age of 19 years or older; ECOG PS of 0-2; estimated life expectancy of more than 3 months; and adequate hematological (white blood cell count ≥ 4,000/µL or absolute neutrophil count ≥ 1,500/µL, platelets ≥ 100,000/µL, and hemoglobin level ≥ 9.0 g/dl), renal (serum creatinine < 1.5 mg/dL), and hepatic functions (serum bilirubin and serum transaminase levels < 2.5-fold the upper normal limit).",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "Eligibility",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The presence of at least one unidimensionally measurable lesion (≥ 10 mm) according to the Response Evaluation Criteria in Solid Tumors (RECIST) guidelines version 1.0 17 was also required for enrollment in this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "Eligibility",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients who had completed adjuvant or neo-adjuvant chemotherapy at least 6 months prior to recruitment were eligible.",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "Eligibility",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, patients with recurrent disease following adjuvant S-1 or capecitabine-based chemotherapy were not eligible for this study regardless of the time to recurrence.",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "Eligibility",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients with central nervous system metastasis, obvious bowel obstruction, overt gastrointestinal bleeding, active infection, or serious co-morbidities were excluded from this study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "Pretreatment evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Baseline evaluations included a medical history, a physical examination, ECOG PS, a complete blood count with differential count, serum chemistry and electrolytes, urine analysis, and three-dimensional computed tomography with the administration of an intravenous contrast medium.",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "Treatment scheme",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Oxaliplatin was administered intravenously at a dose of 130 mg/m 2 over 2 h on day 1 for patients in both arms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "Treatment scheme",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Depending on the arm to which they were assigned, patients were given 40 mg/m 2 S-1 [body surface area (BSA) < 1.25 m 2 , 40 mg; 1.25 ≤ BSA < 1.5, 50 mg; BSA ≥ 1.5, 60 mg] or 1,000 mg/m 2 capecitabine twice a day for 2 weeks followed by a 1-week rest.",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "Treatment scheme",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This schedule was repeated every 3 weeks until the occurrence of disease progression, the development of unacceptable toxicity, or patient refusal.",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dose of a specific agent was adjusted when the cause of toxicity could be distinguished.",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "When both agents were believed to have caused toxicity, the doses of both agents were reduced.",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment was interrupted in patients who experienced grade 2 or higher toxicity and was not resumed until the toxicity resolved or had improved to grade 1.",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dose of oxaliplatin was reduced by 25% of the initial dose in patients who experienced any related grade 3 toxicity or a second occurrence of same grade 2 toxicity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "If peripheral neuropathy persisted between courses, the next treatment cycle was started at 75% of the previous dose of oxaliplatin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Because of two dose strengths supplied, the dose of S‑1 or capecitabine was reduced by approximately 20% in patients who experienced any grade 3 toxicity or a second occurrence of same grade 2 toxicity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In patients who experienced grade 4 toxicity or a second occurrence of same grade 3 toxicity, the dose of oxaliplatin was reduced by 50% of the initial dose.",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The dose of S‑1 or capecitabine was reduced by approximately 40% in patients who experienced any related grade 4 toxicities or a second occurrence of same grade 3 toxicity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After dose reduction of a specific drug, no increase in dosage of that drug was allowed.",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment was discontinued if, despite the dose reduction, same toxicity occurred for a fourth time at grade 2 toxicity, a third time at grade 3, or a second time at grade 4.",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "Dose modification",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, if the toxicity had not improved to grade 0 or 1 after 3 weeks of continued treatment, the patient was removed from the study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tumor response assessments were performed after every two cycles of treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tumor responses were assessed according to the RECIST guidelines version 1.0 [ 17 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A complete response (CR) was defined as the complete disappearance of all target and nontarget lesions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A partial response (PR) was defined as a decrease of at least 30% in the sum of the longest diameters of the target lesions, referenced against the baseline sum of the longest diameters of the target lesions, together with stabilization or a decrease in size of the nontarget lesions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Progressive disease (PD) required at least a 20% increase in the tumor measurement sum, a substantial increase in the nontarget lesions, or development of any new lesions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Stable disease (SD) was defined as insufficient shrinkage to qualify for a PR and as insufficient increase to qualify for PD.",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tumor responses were determined by an independent response review committee.",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "All PR and CR were confirmed no less than 4 weeks after the criteria for a response were first met.",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The National Cancer Institute Common Toxicity Criteria for Adverse Events (NCI-CTC AE) version 3.0 were used to assess toxicity.",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "Response and toxicity evaluation",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "After completion of the protocol, patients were followed up every 3 months until the occurrence of disease progression or death.",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "Statistical analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "To evaluate the efficacy of OS and XELOX, the primary endpoint was the overall response rate (ORR) in patients with recurrent or metastatic CRC.",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "Statistical analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The secondary endpoints were the assessments of safety profile, duration of response (DoR), progression-free survival (PFS), and survival time (ST) for each treatment regimen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "Statistical analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The accrual number was calculated using Simon's optimal (MiniMax) two-stage design [ 18 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "Statistical analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Assuming P 0 = 0.3 and P 1 = 0.5 with an α error = 0.05 and β error = 0.20, the initial requirement was the accrual of 19 patients in each arm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "Statistical analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The study was continued if at least seven tumor responses were observed during the first stage.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "Statistical analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The second stage required an additional 20 patients to be enrolled.",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "Statistical analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Assuming a 10% drop-out rate, 44 enrolled patients were required in each arm, thus a total of 88 across both arms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "Statistical analyses",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The DoR (from the first assessment of CR or PR to the documentation of disease progression), PFS (time from enrollment to the documentation of disease progression or death from any cause), and ST (time from enrollment to death from any cause), along with the 95% confidence interval (CI) for the median time to event, were estimated using the Kaplan-Meier method and compared by log-rank test.",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Between April 2008 and August 2011, 88 patients were screened for the study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, two patients were confirmed as being ineligible for the study, because they had no measurable lesions.",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thus, 86 patients were assigned randomly to either the OS arm (n = 42) or the XELOX arm (n = 44) (Fig. 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients were well balanced between the two arms in terms of baseline characteristics (Table 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "Patient characteristics",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Characteristics OS (n=42) XELOX (n=44) P -value No. (%) No. (%) Median age, years (range) 67 (46-83) 66 (29-76) 0.637 Gender 0.609 Male 28 (66.7) 27 (61.4) Female 14 (33.3) 17 (38.6) ECOG performance status 0.816 0 20 (47.6) 22 (50.0) 1 20 (47.6) 21 (47.7) 2 2 (4.8) 1 (2.3) Disease state 0.566 Recurrent 11 (26.2) 14 (31.8) Metastatic 31 (73.8) 30 (68.2) Primary site 0.134 Colon 18 (42.8) 25 (56.8) Recto-sigmoid 7 (16.7) 10 (22.7) Rectum 17 (40.5) 9 (20.5) No. of metastatic organs 0.202 1 22 (52.4) 29 (65.9) ≥ 2 20 (47.6) 15 (34.1)",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The details of the treatment administration are summarized in Table 2 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were no statistical differences in the number of treatments administered or relative dose intensity of the drugs.",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the OS arm, 42 patients received a total of 280 cycles, with a median number of six cycles (range, 1-39 cycles) per patient.",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The most common cause for discontinuation of treatment in this arm was disease progression (24 patients).",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment delay was necessary in 20 patients (47.6%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "For oxaliplatin, doses were modified in 25 patients (59.5%), and doses of S-1 were reduced in 23 patients (54.8%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mean relative dose intensities ± standard deviation of oxaliplatin and S-1 were 0.84 ± 0.13 and 0.83 ± 0.15, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "OS (n=42) XELOX (n=44) No. of treatment cycles Total 280 294 Median 6 5 Range 1 - 39 1 - 19 Relative dose intensity (mean ± standard deviation) Oxaliplatin 0.84 ± 0.13 0.82 ± 0.14 S-1 or Capecitabine 0.83 ± 0.15 0.81 ± 0.16",
+      "align_score": null
+    },
+    {
+      "seg_id": 60,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the XELOX arm, 44 patients received a total of 294 cycles of treatment, with a median number of five cycles (range, 1-19 cycles) per patient.",
+      "align_score": null
+    },
+    {
+      "seg_id": 61,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment delay was necessary in 25 patients (56.8%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 62,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Reduced doses of oxaliplatin were necessary in 28 patients (63.6%), and the dose of capecitabine was reduced in 27 patients (61.4%).",
+      "align_score": null
+    },
+    {
+      "seg_id": 63,
+      "type": "sentence",
+      "section": "Treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The mean relative dose intensities ± standard deviation of oxaliplatin and capecitabine were 0.82 ± 0.14 and 0.81 ± 0.16, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 64,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Three patients (one in the OS arm and two in the XELOX arm) refused further treatment, and another three (one in the OS arm and two in the XELOX arm) discontinued treatment due to toxicity prior to assessment of the tumor response (Figure 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 65,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As a result, 40 patients in each arm were included in the tumor response assessment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 66,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The best tumor responses based on the intention-to-treat (ITT) population are described according to the treatment arms in Table 3 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 67,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The ORR was 33.3 % (95% CI, 18.8-47.2) in the OS arm and 40.9% (95% CI, 25.5-54.4) in the XELOX arm ( P = 0.230).",
+      "align_score": null
+    },
+    {
+      "seg_id": 68,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The disease control rate (DCR) was significantly higher in the OS arm [92.8% (95% CI, 83.7-100) vs. 77.3% (95% CI, 64.5-89.4) in the XELOX arm ( P = 0.044)].",
+      "align_score": null
+    },
+    {
+      "seg_id": 69,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median DoR was 8.2 months (95% CI, 4.6-15.7) in the OS arm and 6.8 months (95% CI, 5.4-8.2) in the XELOX arm ( P = 0.33).",
+      "align_score": null
+    },
+    {
+      "seg_id": 70,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Best tumor response OS (n=42) XELOX (n=44) P-values No. (%) No.",
+      "align_score": null
+    },
+    {
+      "seg_id": 71,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(%) Complete response 3 (7.1) 5 (11.4) Partial response 11 (26.2) 13 (29.5) Stable disease 25 (59.5) 16 (36.4) Progressive disease 1 (2.4) 6 (13.6) Non-evaluable 2 (4.8) 4 (9.0) Summary Overall response rate (%) 33.3 (95% CI, 18.8 - 47.2) 40.9 (95% CI, 25.5 - 54.4) 0.230 Disease control rate (%) 92.9 (95% CI, 83.7 - 100) 77.3 (95% CI, 64.5 - 89.4) 0.044 Median duration of response (months) 8.2 (95% CI, 4.6 - 17.7) 6.8 (95% CI, 5.4 - 8.2) 0.330 Median progression-free survival (months) 6.1 (95% CI, 4.0-8.2) 7.4 (95% CI, 5.8-9.1) 0.599 Median survival time (months) 18.7 (95% CI, 8.7-28.6) 20.1 (95% CI, 13.8-26.4) 0.340",
+      "align_score": null
+    },
+    {
+      "seg_id": 72,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With a median follow up of 17.9 months (range, 0.56 - 60.4 months), the median PFS was 6.1 months (95% CI, 4.0-8.2) in the OS arm and 7.4 months (95% CI, 5.8 - 9.1) in the XELOX arm ( P = 0.",
+      "align_score": null
+    },
+    {
+      "seg_id": 73,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "599) (Figure 2 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 74,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median ST was 18.7 months (95% CI, 8.7-28.6) in the OS arm and 20.1 months (95% CI, 13.8-26.4) in the XELOX arm ( P = 0.340) (Figure 3 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 75,
+      "type": "sentence",
+      "section": "Efficacy",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The estimated 2-year survival rate was 36.9% in the OS arm and 40.1% in the XELOX arm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 76,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Safety was assessed in 84 patients (42 per arm) who were treated with their allocated study regimen for at least one cycle.",
+      "align_score": null
+    },
+    {
+      "seg_id": 77,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The toxicity profiles are listed in Table 4 .",
+      "align_score": null
+    },
+    {
+      "seg_id": 78,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The most common grade 3/4 hematologic toxicity was thrombocytopenia in both arms (19.0% in the OS arm and 28.6% in the XELOX arm, P = 0.306).",
+      "align_score": null
+    },
+    {
+      "seg_id": 79,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Grade 3/4 neutropenia was observed more frequently in the XELOX arm than in the OS arm (2.4% in the OS arm vs. 16.7% in the XELOX arm, P = 0.026).",
+      "align_score": null
+    },
+    {
+      "seg_id": 80,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Non-hematologic toxicities were usually mild (mostly grade 1/2), showing no significant differences between the two arms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 81,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As anticipated, hand foot syndrome (HFS) of any grade was observed frequently in the XELOX arm (4.8% in the OS arm vs. 23.8% in the XELOX arm, P = 0.013).",
+      "align_score": null
+    },
+    {
+      "seg_id": 82,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Grade 3/4 HFS and peripheral neuropathy were observed only in the XELOX arm (4.8% and 7.1%, respectively).",
+      "align_score": null
+    },
+    {
+      "seg_id": 83,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "There were no treatment-related deaths in either arm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 84,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Toxicities OS (n = 42) XELOX (n = 42) P -values All grades No. (%) Grade 3/4 No. (%) All grades No.(%) Grade 3/4 No.",
+      "align_score": null
+    },
+    {
+      "seg_id": 85,
+      "type": "sentence",
+      "section": "Safety",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "(%) All grades Grade 3/4 Hematologic Leukopenia 18 (42.9) 2 (4.8) 21 (50.0) 1 (2.4) 0.512 0.557 Neutropenia 18 (42.9) 1 (2.4) 27 (64.3) 7 (16.7) 0.049 0.026 Anemia 39 (92.9) 4 (9.5) 36 (85.7) 5 (11.9) 0.290 0.724 Thrombocytopenia 26 (54.2) 8 (19.0) 32 (76.2) 12 (28.6) 0.157 0.306 Non-hematologic Asthenia 17 (40.5) 3 (7.1) 12(28.6) 2 (4.8) 0.251 0.645 Anorexia 25 (59.5) 2 (4.8) 24 (57.1) 1 (2.4) 0.825 0.557 Nausea 18 (42.9) 3 (7.1) 19 (45.2) 4 (9.5)) 0.826 0.457 Vomiting 16 (38.1) 2 (4.8) 17 (40.5) 4 (9.5) 0.823 0.397 Diarrhea 11 (26.2) 3 (7.1) 11 (26.2) 2 (4.8) 1.0 0.645 Constipation 8 (19.0) 0 4 (9.5) 0 0.212 1.0 Stomatitis 4 (9.5) 1 (2.4) 2 (4.8) 0 0.397 0.314 Hand-foot syndrome 2 (4.8) 0 10 (23.8) 2 (4.8) 0.013 0.152 Peripheral neuropathy 21 (50.0) 0 22 (52.4) 3 (7.1) 0.827 0.078 Hyperbilirubinemia 16 (38.1) 1 (2.4) 15 (35.7) 2 (4.8) 0.821 0.557 Elevated AST/ALT 17 (40.5) 0 24 (57.1) 1 (2.4) 0.127 0.314 Abbreviations: AST, aspartic acid transaminase; ALT, alanine transaminase",
+      "align_score": null
+    },
+    {
+      "seg_id": 86,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Among 86 patients, 58 (67.4%) received further treatment after OS or XELOX (Figure 1 ).",
+      "align_score": null
+    },
+    {
+      "seg_id": 87,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Twenty-eight patients (66.7%) in the OS arm and 30 (68.2%) in the XELOX arm received second-line chemotherapy.",
+      "align_score": null
+    },
+    {
+      "seg_id": 88,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The most common regimen administered in both arms was infused 5-FU/LV plus irinotecan (known as FOLFIRI); 24 patients in the OS arm and 25 in the XELOX arm received the FOLFIRI regimen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 89,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Discussion",
+      "align_score": null
+    },
+    {
+      "seg_id": 90,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This study was the first randomized trial comparing S-1 or capecitabine in combination with oxaliplatin in patients with metastatic CRC.",
+      "align_score": null
+    },
+    {
+      "seg_id": 91,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, it should be noted that a multi-center, randomized phase III study with the same regimens was initiated shortly after patient enrollment started in our trial [ 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 92,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Results from our study found the OS regimen to be comparable to the XELOX regimen as a first-line palliative chemotherapy for patients with metastatic CRC.",
+      "align_score": null
+    },
+    {
+      "seg_id": 93,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Since capecitabine in combination with oxaliplatin (known as XELOX, CAPOX, or CapeOX) was found to be comparable to infused 5-FU/LV plus oxaliplatin (usually known as FOLFOX or FUOX), the XELOX regimen has been used as a more convenient first-line chemotherapy in patients with metastatic CRC.",
+      "align_score": null
+    },
+    {
+      "seg_id": 94,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Oxaliplatin is typically administered intravenously at a dose of 130 mg/m 2 (day 1) or 70 mg/m 2 (days 1, 8) every 3 weeks, and 1,000 mg/m 2 capecitabine is administered orally, twice daily on days 1-14, with a 1-week interval.",
+      "align_score": null
+    },
+    {
+      "seg_id": 95,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The reported ORR, median PFS or time to progression (TTP), and median ST in phase II or III trials of XELOX were 37-55%, 6.0-8.9 months, and 16.8-19.8 months, respectively [ 9 - 11 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 96,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Before conducting this randomized phase II trial, we had performed a phase II study evaluating OS in patients with metastatic CRC [ 16 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 97,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The observed ORR was 54%, and the median TTP and median ST were 8.5 months and 27.2 months, respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 98,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The OS regimen was well tolerated in patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 99,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These results were favorable comparable with those obtained using FOLFOX or XELOX regimens in other phase II or III studies.[ 3 , 4 , 9 - 11 ] Therefore, we decided to conduct this randomized phase II study using the OS versus the XELOX regimen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 100,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In this study evaluating patients with recurrent or metastatic CRC, no significant difference was observed in the efficacy between the OS and XELOX arms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 101,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Based on the ITT population, patients in the OS arm showed an ORR of 33.3% and a median PFS of 6.1 months.",
+      "align_score": null
+    },
+    {
+      "seg_id": 102,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These results are comparable to those reported in a phase I/II evaluating the OS regimen in patients with metastatic CRC [ 15 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 103,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, our results in the OS arm were somewhat inferior to those observed in our previous phase II trial [ 16 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 104,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A couple of different patient characteristics may explain these results.",
+      "align_score": null
+    },
+    {
+      "seg_id": 105,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the previous phase II trial, patients were relatively younger than those in the OS arm of the current study (median age 56 vs. 67 years).",
+      "align_score": null
+    },
+    {
+      "seg_id": 106,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In addition, most patients (81.2%) of the phase II study had a very good PS (ECOG 0), compared with 47.6% in the current study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 107,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the XELOX arm of the current study, the ORR was 40.9%, and the median PFS was 7.4 months, similar to the results reported in other phase II or III trials incorporating capecitabine plus oxaliplatin [ 9 - 11 , 19 - 24 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 108,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Those studies reported an ORR of 37-55%, with a median PFS or TTP of 6.0-8.9 months, in patients with metastatic CRC.",
+      "align_score": null
+    },
+    {
+      "seg_id": 109,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As mentioned previously, the results of a randomized phase III trial of OS (referred to as SOX in the report) versus XELOX (named as CapeOX in the paper) had been published [ 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 110,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In that trial, 168 patients were randomly assigned to receive OS and 172 to receive XELOX to evaluate the efficacy (determined as PFS) of OS vs. XELOX.",
+      "align_score": null
+    },
+    {
+      "seg_id": 111,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Patients received the same dose of each drug as in our study.",
+      "align_score": null
+    },
+    {
+      "seg_id": 112,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median PFS, the primary endpoint, was 8.5 months in the OS group and 6.7 months in the XELOX group [hazard ratio (HR): 0.79 (95% CI, 0.60 - 1.04), P non-inferiority < .0001, P log-rank = 0.09].",
+      "align_score": null
+    },
+    {
+      "seg_id": 113,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In terms of secondary endpoints, ORR and time to treatment failure (TTF), the OS regimen resulted in superior outcomes over the XELOX regimen.",
+      "align_score": null
+    },
+    {
+      "seg_id": 114,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The reported ORR was 47% in the OS arm and 36% in the XELOX arm ( P = 0.029), and the median TTF was 6.9 months in the OS arm and 5.6 months in the XELOX arm ( P = 0.036).",
+      "align_score": null
+    },
+    {
+      "seg_id": 115,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The authors of this study recently reported the updated results [ 20 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 116,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "With a median follow-up of 17.9 months, the updated median PFS was 7.1 months (95% CI, 6.4-8.0) in the OS group and 6.3 months (95% CI, 4.9-6.7) in the XELOX group [HR: 0.83 (95% CI, 0.66-1.04, P = 0.10].",
+      "align_score": null
+    },
+    {
+      "seg_id": 117,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median ST was 19.0 months (95% CI, 15.3-23.0) in the OS group and 18.4 months (95% CI, 14.1-20.7) in the XELOX group [HR: 0.86 (95% CI, 0.68-1.08), P = 0.19].",
+      "align_score": null
+    },
+    {
+      "seg_id": 118,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Subgroup analyses according to principal demographic factors such as sex, age, ECOG PS, primary tumor location, measurability, previous adjuvant therapy, number of metastatic organs, and liver metastases showed no interaction between any of these characteristics and the treatment.",
+      "align_score": null
+    },
+    {
+      "seg_id": 119,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In the current study, although there were no significant statistical differences, the ORR (33.3% vs. 40.9%) and median PFS (6.1 vs. 7.4 months) were slightly inferior in the OS arm than the XELOX arm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 120,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These results might be attributed to the difference in the extent of metastatic disease between the two arms at the time of enrollment: 47.6% of patients in the OS arm had metastatic disease in two or more organs, compared with 34.1% in the XELOX arm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 121,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In terms of DCR, however, the OS arm was slightly superior to the XELOX arm (92.9 vs. 77.2%, P = 0.044).",
+      "align_score": null
+    },
+    {
+      "seg_id": 122,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The median ST was 18.7 months in the OS arm and 20.1 months in the XELOX arm, and the estimated 2-year survival rate was 36.9% in the OS arm and 40.1% in the XELOX arm.",
+      "align_score": null
+    },
+    {
+      "seg_id": 123,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In concordance with the phase III study [ 19 , 20 ], our results indicate that the OS regimen is comparable to the XELOX regimen as first-line chemotherapy in patients with metastatic CRC.",
+      "align_score": null
+    },
+    {
+      "seg_id": 124,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The treatments were generally well tolerated by most patients, which is consistent with recent trials evaluating OS or XELOX in patients with metastatic CRC [ 9 - 11 , 15 , 16 , 19 , 21 - 24 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 125,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Except for neutropenia, there was no significant difference in the overall incidence of adverse hematologic effects between the two arms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 126,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Grade 3/4 neutropenia was observed more frequently in the XELOX arm (16.7% vs. 2.4%, P = 0.026).",
+      "align_score": null
+    },
+    {
+      "seg_id": 127,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thrombocytopenia increased in a cumulative manner, which was one of the major reasons for treatment plan alterations in both arms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 128,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The higher incidences of neutropenia and thrombocytopenia in the XELOX arm were associated with the more frequent treatment delay or dose reduction.",
+      "align_score": null
+    },
+    {
+      "seg_id": 129,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The incidence of grade 3/4 thrombocytopenia in the OS group was similar to that (13-28%) reported in other studies [ 15 , 16 , 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 130,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "However, for reasons unknown, its incidence (28.6%) in the XELOX arm appears to be higher than that observed in other studies (4-14%) with the same dose and schedule of XELOX [ 9 - 11 , 19 ].",
+      "align_score": null
+    },
+    {
+      "seg_id": 131,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Contrary to our findings, the incidences of grade 3/4 neutropenia and thrombocytopenia in the phase III study by Hong et al [ 19 ]. were significantly higher in the OS arm than the XELOX arm (29% vs. 15% for neutropenia and 22% vs. 7% for thrombocytopenia, respectively).",
+      "align_score": null
+    },
+    {
+      "seg_id": 132,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "These findings might be explained in part by the difference in the number of treatment cycles administered between the two arms: patients in the OS arm received more cycles of chemotherapy than those in the XELOX arm [1194 (median, 8) vs. 1084 (median, 6) cycles for oxaliplatin and 1520 (median, 9) vs. 1206 (median, 6) for S-1 or capecitabine, respectively].",
+      "align_score": null
+    },
+    {
+      "seg_id": 133,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In terms of non-hematologic toxicities, anorexia, nausea, elevation of liver enzymes, and peripheral neuropathy were common adverse effects in both arms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 134,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Peripheral neuropathy occurred in approximately 50% of patients in both arms.",
+      "align_score": null
+    },
+    {
+      "seg_id": 135,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Its incidence was lower than those (~80%) reported in the phase III trial of OS and XELOX [ 19 ], which might be attributed to the difference in the number of treatments administered between the two studies.",
+      "align_score": null
+    },
+    {
+      "seg_id": 136,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Grade 3 peripheral neuropathy tended to be associated more with XELOX than OS (7.1% vs. 0%, P = 0.078).",
+      "align_score": null
+    },
+    {
+      "seg_id": 137,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "As expected, hand-foot syndrome of any grade was reported more commonly in the XELOX group (4.8% vs. 23.8%, P = 0.013).",
+      "align_score": null
+    },
+    {
+      "seg_id": 138,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "In conclusion, both OS and XELOX were effective and well tolerated palliative treatment regimens in patients with recurrent or metastatic CRC.",
+      "align_score": null
+    },
+    {
+      "seg_id": 139,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Our results indicate that the combination of oxaliplatin and S-1 represents an additional possible convenient therapeutic option for such patients.",
+      "align_score": null
+    },
+    {
+      "seg_id": 140,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Future clinical trials for combining this regimen with target agents are warranted.",
+      "align_score": null
+    },
+    {
+      "seg_id": 141,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Acknowledgements",
+      "align_score": null
+    },
+    {
+      "seg_id": 142,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Oxaliplatin and S-1 were provided by sanofi Korea (Seoul, South Korea) and Jeil Pharmaceutical (Seoul, South Korea), respectively.",
+      "align_score": null
+    },
+    {
+      "seg_id": 143,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Competing Interests",
+      "align_score": null
+    },
+    {
+      "seg_id": 144,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The authors have declared that no competing interest exists.",
+      "align_score": null
+    },
+    {
+      "seg_id": 145,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "References",
+      "align_score": null
+    },
+    {
+      "seg_id": 146,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Jemal A, Bray F, Center MM, Ferlay J, Ward E, Forman D. Global cancer statistics .",
+      "align_score": null
+    },
+    {
+      "seg_id": 147,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CA Cancer J Clin.",
+      "align_score": null
+    },
+    {
+      "seg_id": 148,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2011; 61 :69-90",
+      "align_score": null
+    },
+    {
+      "seg_id": 149,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Thrion P, Michiels S, Pignon JP, Buyse M, Braud AC, Carlson RW. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 150,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Modulation of fluorouracil by leucovorin in patients with advanced colorectal cancer: An updated meta-analysis .",
+      "align_score": null
+    },
+    {
+      "seg_id": 151,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Clin Oncol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 152,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2004; 2 :3766-75",
+      "align_score": null
+    },
+    {
+      "seg_id": 153,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "3. de Gramont A, Figer A, Seymour M, Homerin M, Hmissi A, Cassidy J. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 154,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Leucovorin and fluorouracil with or without oxaliplatin as first-line treatment in advanced colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 155,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2000; 18 :2938-47",
+      "align_score": null
+    },
+    {
+      "seg_id": 156,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Giacchetti S, Perpoint B, Zidani R, Le Bail N, Faggiuolo R, Focan C. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 157,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Phase III multicenter randomized trial of oxaliplatin added to chronomodulated fluorouracil-leucovorin as first-line treatment of metastatic colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 158,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2000; 18 :136-47",
+      "align_score": null
+    },
+    {
+      "seg_id": 159,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Douillard JY, Cunningham D, Roth AD, Navarro M, James RD, Karasek P. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 160,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Irinotecan combined with fluorouracil compared with fluorouracil alone as first-line treatment for metastatic colorectal cancer: a multicentre randomised trial .",
+      "align_score": null
+    },
+    {
+      "seg_id": 161,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2000; 355 :1041-47",
+      "align_score": null
+    },
+    {
+      "seg_id": 162,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Meyerhardt JA, Mayer RJ.",
+      "align_score": null
+    },
+    {
+      "seg_id": 163,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Systemic therapy for colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 164,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "N Engl J Med.",
+      "align_score": null
+    },
+    {
+      "seg_id": 165,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2005; 352 :476-87",
+      "align_score": null
+    },
+    {
+      "seg_id": 166,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cassidy J, Twelves C, Van cutsem E, Hoff P, Bajetta E, Boyer M. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 167,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "First-line oral capecitabine therapy in metastatic colorectal cancer: a favorable safety profile compared with intravenous 5-fluorouracil/leucovorin .",
+      "align_score": null
+    },
+    {
+      "seg_id": 168,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ann Oncol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 169,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2002; 13 :566-75",
+      "align_score": null
+    },
+    {
+      "seg_id": 170,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Van Cutsem E, Twelves C, Cassidy J, Allman D, Bajetta E, Boyer M. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 171,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Oral capecitabine compared with intravenous fluorouracil plus leucovorin in patients with metastatic colorectal cancer: results of a large phase III study .",
+      "align_score": null
+    },
+    {
+      "seg_id": 172,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2001; 9 :4097-106",
+      "align_score": null
+    },
+    {
+      "seg_id": 173,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cassidy J, Tabernero J, Twelves C, Brunet R, Butts C, Conroy T. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 174,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "XELOX (capecitabine plus oxaliplatin): active first-line therapy for patients with metastatic colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 175,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2004; 22 :2084-91",
+      "align_score": null
+    },
+    {
+      "seg_id": 176,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Cassidy J, Clarke S, Díaz-Rubio E, Scheithauer W, Figer A, Wong R. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 177,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomized phase III study of capecitabine plus oxaliplatin compared with fluorouracil/folinic acid plus oxaliplatin as first-line therapy for metastatic colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 178,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2008; 26 :2006-12",
+      "align_score": null
+    },
+    {
+      "seg_id": 179,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Díaz-Rubio E, Tabernero J, Gómez-España A, Massutí B, Sastre J, Chaves M. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 180,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Phase III study of capecitabine plus oxaliplatin compared with continuous-infusion fluorouracil plus oxaliplatin as first-line therapy in metastatic colorectal cancer: final report of the Spanish Cooperative Group for the Treatment of Digestive Tumors Trial .",
+      "align_score": null
+    },
+    {
+      "seg_id": 181,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2007; 25 :4224-30",
+      "align_score": null
+    },
+    {
+      "seg_id": 182,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ohtsu A, Baba H, Sakata Y, Mitachi Y, Horikoshi N, Sugimachi K, Taguchi T. Phase II study of S-1, a novel oral fluoropyrimidine derivative, in patients with metastatic colorectal carcinoma.",
+      "align_score": null
+    },
+    {
+      "seg_id": 183,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "S-1 Cooperative Colorectal Carcinoma Study Group .",
+      "align_score": null
+    },
+    {
+      "seg_id": 184,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Br J Cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 185,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2000; 83 :141-5",
+      "align_score": null
+    },
+    {
+      "seg_id": 186,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Van den Brande J, Schöffski P, Schellens JH, Roth AD, Duffaud F, Weigang-Köhler K. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 187,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "EORTC Early Clinical Studies Group early phase II trial of S-1 in patients with advanced or metastatic colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 188,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2003; 88 :648-53",
+      "align_score": null
+    },
+    {
+      "seg_id": 189,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Shirao K, Ohtsu A, Takada H, Mitachi Y, Hirakawa K, Horikoshi N. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 190,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Phase II study of oral S-1 for treatment of metastatic colorectal carcinoma .",
+      "align_score": null
+    },
+    {
+      "seg_id": 191,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2004; 100 :2355-61",
+      "align_score": null
+    },
+    {
+      "seg_id": 192,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yamada Y, Tahara M, Miya T, Satoh T, Shirao K, Shimada Y. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 193,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Phase I/II study of oxaliplatin with oral S-1 as first-line therapy for patients with metastatic colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 194,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2008; 98 :1034-8",
+      "align_score": null
+    },
+    {
+      "seg_id": 195,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Zang DY, Lee BH, Park H, Song HH, Kim HJ, Jung JY. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 196,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Phase II study with oxaliplatin and S-1 for patients with metastatic colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 197,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2009; 20 :892-6",
+      "align_score": null
+    },
+    {
+      "seg_id": 198,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 199,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "New guidelines to evaluate the response to treatment in solid tumors.",
+      "align_score": null
+    },
+    {
+      "seg_id": 200,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "European Organization for Research and Treatment of Cancer, National Cancer Institute of the United States, National Cancer Institute of Canada .",
+      "align_score": null
+    },
+    {
+      "seg_id": 201,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Natl Cancer Inst.",
+      "align_score": null
+    },
+    {
+      "seg_id": 202,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2000; 92 :205-16",
+      "align_score": null
+    },
+    {
+      "seg_id": 203,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Simon R. Optimal two-stage designs for phase II clinical trials .",
+      "align_score": null
+    },
+    {
+      "seg_id": 204,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Control Clin Trials.",
+      "align_score": null
+    },
+    {
+      "seg_id": 205,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1989; 10 :1-10",
+      "align_score": null
+    },
+    {
+      "seg_id": 206,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hong YS, Park YS, Lim HY, Lee J, Kim TW, Kim KP. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 207,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "S-1 plus oxaliplatin versus capecitabine plus oxaliplatin for first-line treatment of patients with metastatic colorectal cancer: a randomiased, non-inferiority phase 3 trial .",
+      "align_score": null
+    },
+    {
+      "seg_id": 208,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Lancet Oncol.",
+      "align_score": null
+    },
+    {
+      "seg_id": 209,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2012; 13 :1125-32",
+      "align_score": null
+    },
+    {
+      "seg_id": 210,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kim ST, Hong YS, Lim HY, Lee J, Kim TW, Kim KP. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 211,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "S-1 plus oxaliplatin versus capecitabine plus oxaliplatin for the first-line treatment of patients with metastatic colorectal cancer: updated results from a phase 3 trial .",
+      "align_score": null
+    },
+    {
+      "seg_id": 212,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "BMC Cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 213,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2014; 14 :883-9",
+      "align_score": null
+    },
+    {
+      "seg_id": 214,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Porschen R, Arkenau HT, Kubicka S, Greil R, Seufferlein T, Freier W. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 215,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Phase III study of capecitabine plus oxaliplatin compared with fluorouracil and leucovorin plus oxaliplatin in metastatic colorectal cancer: a final report of the AIO Colorectal Study Group .",
+      "align_score": null
+    },
+    {
+      "seg_id": 216,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2007; 25 :4217-23",
+      "align_score": null
+    },
+    {
+      "seg_id": 217,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Makatsoris T, Kalofonos HP, Aravantinos G, Papadimitriou C, Kastritis E, Rigatos SK. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 218,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A phase II study of capecitabine plus oxaliplatin (XELOX): a new first-line option in metastatic colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 219,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Int J Gastrointest Cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 220,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2005; 35 :103-9",
+      "align_score": null
+    },
+    {
+      "seg_id": 221,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Scheithauer W, Kornek GV, Raderer M, Schüll B, Schmid K, Kovats E. et al .",
+      "align_score": null
+    },
+    {
+      "seg_id": 222,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Randomized multicenter phase II trial of two different schedules of capecitabine plus oxaliplatin as first-line treatment in advanced colorectal cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 223,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2003; 21 :1307-12",
+      "align_score": null
+    },
+    {
+      "seg_id": 224,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Shields AF, Zalupski MM, Marshall JL, Meropol NJ.",
+      "align_score": null
+    },
+    {
+      "seg_id": 225,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Treatment of advanced colorectal carcinoma with oxaliplatin and capecitabine: a phase II trial .",
+      "align_score": null
+    },
+    {
+      "seg_id": 226,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2004; 100 :531-7",
+      "align_score": null
+    },
+    {
+      "seg_id": 227,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Author contact",
+      "align_score": null
+    },
+    {
+      "seg_id": 228,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Corresponding author: Dae Young Zang, M.D., Ph.D., Division of Hematology-Oncology, Department of Internal Medicine, Hallym University Sacred Heart Hospital, 896 Pyeongchon-dong, Dongan-gu, Anyang 431-070, South Korea; Tel: +82-31-380-3871; Fax: +82-31-386-2269; E-mail: fhdzang @hallym.ac.kr",
+      "align_score": null
+    },
+    {
+      "seg_id": 229,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Citation styles",
+      "align_score": null
+    },
+    {
+      "seg_id": 230,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "APA Copy Kim, J.H., Zang, D.Y., Chung, I.J., Cho, S.H., Park, K.U., Oh, H.S., Lee, K.H., Lee, B.H., Kim, M.J., Park, C.K., Han, B., Kim, H.S., Choi, D.R., Song, H.H., Jung, J.Y.",
+      "align_score": null
+    },
+    {
+      "seg_id": 231,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "A Muti-center, Randomized Phase II Study of Oxaliplatin and S-1 versus Capecitabine and Oxaliplatin in Patients with Metastatic Colorectal Cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 232,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Journal of Cancer , 6(10), 1041-1048. https://doi.org/10.7150/jca.12819.",
+      "align_score": null
+    },
+    {
+      "seg_id": 233,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "ACS Copy Kim, J.H.; Zang, D.Y.; Chung, I.J.; Cho, S.H.; Park, K.U.; Oh, H.S.; Lee, K.H.; Lee, B.H.; Kim, M.J.; Park, C.K.; Han, B.; Kim, H.S.; Choi, D.R.; Song, H.H.; Jung, J.Y. A Muti-center, Randomized Phase II Study of Oxaliplatin and S-1 versus Capecitabine and Oxaliplatin in Patients with Metastatic Colorectal Cancer.",
+      "align_score": null
+    },
+    {
+      "seg_id": 234,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J. Cancer 2015, 6 (10), 1041-1048.",
+      "align_score": null
+    },
+    {
+      "seg_id": 235,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "DOI: 10.7150/jca.12819.",
+      "align_score": null
+    },
+    {
+      "seg_id": 236,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "NLM Copy Kim JH, Zang DY, Chung IJ, Cho SH, Park KU, Oh HS, Lee KH, Lee BH, Kim MJ, Park CK, Han B, Kim HS, Choi DR, Song HH, Jung JY.",
+      "align_score": null
+    },
+    {
+      "seg_id": 237,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Cancer 2015; 6(10):1041-1048. doi:10.7150/jca.12819. https://www.jcancer.org/v06p1041.htm",
+      "align_score": null
+    },
+    {
+      "seg_id": 238,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "CSE Copy Kim JH, Zang DY, Chung IJ, Cho SH, Park KU, Oh HS, Lee KH, Lee BH, Kim MJ, Park CK, Han B, Kim HS, Choi DR, Song HH, Jung JY.",
+      "align_score": null
+    },
+    {
+      "seg_id": 239,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "J Cancer .",
+      "align_score": null
+    },
+    {
+      "seg_id": 240,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "6(10):1041-1048.",
+      "align_score": null
+    },
+    {
+      "seg_id": 241,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "This is an open access article distributed under the terms of the Creative Commons Attribution (CC BY-NC) License .",
+      "align_score": null
+    },
+    {
+      "seg_id": 242,
+      "type": "sentence",
+      "section": "Salvage treatment",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "See http://ivyspring.com/terms for full terms and conditions.",
+      "align_score": null
+    }
+  ]
+}

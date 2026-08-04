@@ -1,0 +1,559 @@
+{
+  "document_id": "ee_cris_0004",
+  "meta": {
+    "set": "EE",
+    "source_folder": "12",
+    "source_code": "cris",
+    "source_name": "국내 임상연구(CRIS)",
+    "orig_doc_id": "KCT0000004",
+    "category_l1": "임상연구정보",
+    "category_l2": "임상시험 등록정보",
+    "category_l3": "국내 임상연구(CRIS)",
+    "title_ko": null,
+    "title_en": null,
+    "source_doc": null,
+    "target_doc": null,
+    "doc_type": "CRIS",
+    "source_language": "en",
+    "target_language": null,
+    "pub_date_ko": null,
+    "pub_date_en": null,
+    "url": "https://cris.nih.go.kr/cris/search/detailSearch.do?seq=951",
+    "domain_tag": null,
+    "align_method": null,
+    "n_pairs": null
+  },
+  "segments": [
+    {
+      "seg_id": 1,
+      "type": "sentence",
+      "section": "1. 연구개요_요약제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Incidence of tuberculosis for 2 years after contact to patients with multidrug-resistant tuberculosis",
+      "align_score": null
+    },
+    {
+      "seg_id": 2,
+      "type": "sentence",
+      "section": "1. 연구개요_연구제목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Multicenter, prospective cohort study about incidence of tuberculosis for 2 years after contact to patients with multidrug-resistant tuberculosis",
+      "align_score": null
+    },
+    {
+      "seg_id": 3,
+      "type": "sentence",
+      "section": "2. 임상연구윤리심의_위원회명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center Institutional Review Board (AMC IRB)",
+      "align_score": null
+    },
+    {
+      "seg_id": 4,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Tae Sun Shim",
+      "align_score": null
+    },
+    {
+      "seg_id": 5,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 6,
+      "type": "sentence",
+      "section": "3. 연구자_연구책임자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 7,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Jiwon Lyu",
+      "align_score": null
+    },
+    {
+      "seg_id": 8,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 9,
+      "type": "sentence",
+      "section": "3. 연구자_연구실무담당자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 10,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_성명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Jiwon Lyu",
+      "align_score": null
+    },
+    {
+      "seg_id": 11,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_직위",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "MD",
+      "align_score": null
+    },
+    {
+      "seg_id": 12,
+      "type": "sentence",
+      "section": "3. 연구자_등록관리자_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 13,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_1.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Catholic University of Korea, Bucheon St. Mary's Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 14,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_2.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 15,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_3.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Konkuk University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 16,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_4.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kangwon National University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 17,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_5.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Gyeongsang National University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 18,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_6.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kyung Hee University Hospital at Gangdong",
+      "align_score": null
+    },
+    {
+      "seg_id": 19,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_7.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Keimyung University Dongsan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 20,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_8.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Daegu Catholic University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 21,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_9.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korea University Ansan Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 22,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_10.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Samsung Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 23,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_11.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul Metropolitan Government Seoul National University Boramae Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 24,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_12.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Pusan National University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 25,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_13.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Bundang Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 26,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_14.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Seoul National University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 27,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_15.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Yonsei University Health System, Severance Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 28,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_16.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Ewha Womans University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 29,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_17.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chonnam National University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 30,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_18.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chungbuk National University Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 31,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_19.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Inje University Busan Paik Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 32,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_20.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Hallym University Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 33,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_21.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Koera University Guro Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 34,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_22.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Masan Samsung Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 35,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_23.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Bundang CHA General Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 36,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_24.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Inje University Sanggye Paik Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 37,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_25.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Chung-Ang Univerisity Hospital",
+      "align_score": null
+    },
+    {
+      "seg_id": 38,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_26.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Kangbuk Samsung Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 39,
+      "type": "sentence",
+      "section": "4. 연구현황_참여기관별 연구진행현황_27.참여기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Korean National Tuberculosis Association Korean Institute of Tuberculosis",
+      "align_score": null
+    },
+    {
+      "seg_id": 40,
+      "type": "sentence",
+      "section": "5. 연구비지원기관_1.연구비지원기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "The Korean Academy of Tuberculosis and Respiratory Diseases",
+      "align_score": null
+    },
+    {
+      "seg_id": 41,
+      "type": "sentence",
+      "section": "6. 연구책임기관_1.연구책임기관_기관명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Asan Medical Center",
+      "align_score": null
+    },
+    {
+      "seg_id": 42,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Although the prevention of TB development in MDR TB close contacts is crucially important, no reports substantiating about the incidence of TB after those contact have yet appeared in Korea.",
+      "align_score": null
+    },
+    {
+      "seg_id": 43,
+      "type": "sentence",
+      "section": "7. 연구요약",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Therefore, the aim of this study is to evaluate the incidence of TB in close contact of MDR TB for 2 years after contact.",
+      "align_score": null
+    },
+    {
+      "seg_id": 44,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.관찰군_군명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "close contact with MDR patients",
+      "align_score": null
+    },
+    {
+      "seg_id": 45,
+      "type": "sentence",
+      "section": "8. 연구설계_군_1.관찰군_상세내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "close contact with MDR patients (house-hold or colleague)",
+      "align_score": null
+    },
+    {
+      "seg_id": 46,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_연구모집단설명",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "household contacts or communty contacts, such as colleague, of patients with MDR TB and AFB culture positive sputum",
+      "align_score": null
+    },
+    {
+      "seg_id": 47,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자추출방법",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "Non-probability sampling method",
+      "align_score": null
+    },
+    {
+      "seg_id": 48,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 포함기준_내용",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "household contacts who lived together with sputum AFB culture positive MDR patients, or co-worker contacts who worked together with sputum AFB culture positive MDR patients",
+      "align_score": null
+    },
+    {
+      "seg_id": 49,
+      "type": "sentence",
+      "section": "9. 대상자선정기준_대상자 제외기준",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "1) patients in whom TB was diagnosed and on treatment at the time of enrollment 2) patients in whom TB was newly diagnosed by the screening at the time of enrollment",
+      "align_score": null
+    },
+    {
+      "seg_id": 50,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "incidence of tuberculosis",
+      "align_score": null
+    },
+    {
+      "seg_id": 51,
+      "type": "sentence",
+      "section": "10. 결과변수_주요결과변수_1.주요결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 years after enrollment",
+      "align_score": null
+    },
+    {
+      "seg_id": 52,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "prevalence of latent tuberculosis infection (LTBI)",
+      "align_score": null
+    },
+    {
+      "seg_id": 53,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_1.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "at the time of enrollment",
+      "align_score": null
+    },
+    {
+      "seg_id": 54,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "incidence of MDR TB",
+      "align_score": null
+    },
+    {
+      "seg_id": 55,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_2.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 years after enrollment",
+      "align_score": null
+    },
+    {
+      "seg_id": 56,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "incidence of tuberculosis among TST positive subjects",
+      "align_score": null
+    },
+    {
+      "seg_id": 57,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_3.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 years after enrollment",
+      "align_score": null
+    },
+    {
+      "seg_id": 58,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가항목",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "incidence of tuberculosis among IGRA positive subjects",
+      "align_score": null
+    },
+    {
+      "seg_id": 59,
+      "type": "sentence",
+      "section": "10. 결과변수_보조결과변수_4.보조결과변수_평가시기",
+      "path": null,
+      "ko_txt": null,
+      "en_txt": "2 years after enrollment",
+      "align_score": null
+    }
+  ]
+}
